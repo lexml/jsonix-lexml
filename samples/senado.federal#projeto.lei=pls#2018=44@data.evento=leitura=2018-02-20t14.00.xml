@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;44@data.evento;leitura;2018-02-20t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 44 DE 2018</Epigrafe>
+      <Ementa id="ementa">Acrescenta o art. 38-A à <span xlink:href="urn:lex:br:federal:lei:1995-09-30;9504">Lei nº 9.504, de 30 de setembro de 1995</span>, para determinar a responsabilidade pessoal do candidato pela retirada da propaganda eleitoral, até 30 dias após o pleito.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-09-30;9504-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1995-09-30;9504">Lei nº 9.504, de 30 de setembro de 1995</span>, Lei Eleitoral, passa a vigorar acrescida do seguinte artigo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-09-30;9504" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-09-30;9504 -> MatchByBase(urn:lex:br:federal:lei:1995-09-30;9504,1995,Some((9,30)),Map(art38-1 -> PrefixMatch(URN(1995,Some((9,30)),,urn:lex:br:federal:lei:1995-09-30;9504),art38-1), art38-1_cpt -> PrefixMatch(URN(1995,Some((9,30)),,urn:lex:br:federal:lei:1995-09-30;9504),art38-1_cpt), art38-1_par1 -> PrefixMatch(URN(1995,Some((9,30)),,urn:lex:br:federal:lei:1995-09-30;9504),art38-1_par1), art38-1_par3 -> PrefixMatch(URN(1995,Some((9,30)),,urn:lex:br:federal:lei:1995-09-30;9504),art38-1_par3), art38-1_par2 -> PrefixMatch(URN(1995,Some((9,30)),,urn:lex:br:federal:lei:1995-09-30;9504),art38-1_par2)))))-->
+              <Artigo xlink:href="art38-1" id="art1_cpt_alt1_art38-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 38-A.</Rotulo>
+            
+            <Caput xlink:href="art38-1_cpt" id="art1_cpt_alt1_art38-1_cpt">
+            
+            
+            
+            <p>É da responsabilidade pessoal do candidato a retirada da propaganda eleitoral colocada em logradouro público e em local privado durante o processo eleitoral.</p>
+            
+          </Caput><Paragrafo xlink:href="art38-1_par1" id="art1_cpt_alt1_art38-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese de a propaganda divulgar mais de um candidato, a responsabilidade referida no caput é solidária;</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art38-1_par2" id="art1_cpt_alt1_art38-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A não retirada da propaganda nos trinta dias subsequentes à realização do pleito sujeita o candidato a multa, de R$ 5.000,00 a R$ 50.000,00 (cinco a cinquenta mil reais), a critério do órgão da Justiça Eleitoral competente para o registro da candidatura;</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art38-1_par3" id="art1_cpt_alt1_art38-1_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A pena será dobrada em caso de reincidência</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

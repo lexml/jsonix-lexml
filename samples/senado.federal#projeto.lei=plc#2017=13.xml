@@ -1,0 +1,112 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;13"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 13 DE 2017</Epigrafe>
+      <Ementa id="ementa">Obriga os estabelecimentos de saúde da rede pública e privada a notificar os casos de atendimentos que envolvam acidentes de crianças e adolescentes de zero a quatorze anos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Os estabelecimentos de saúde da rede pública e privada ficam obrigados a notificar ao órgão público competente, estadual ou municipal, os casos de atendimentos que envolvam acidentes que resultem em mortes e/ou hospitalização de crianças e adolescentes de zero a quatorze anos.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O órgão público de saúde federal determinará os tipos de acidentes que serão objetos de notificação, considerando-se todas as lesões não intencionais e as constantes na Classificação Internacional de Doenças - CID.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O profissional e o estabelecimento de saúde responsáveis pelo atendimento e assistência terão o encargo de fazer a notificação ao órgão competente, para a adoção de providências destinadas ao registro, sob pena de responsabilidade administrativa, civil e criminal.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A notificação compulsória ao órgão público de saúde deverá processar-se no prazo máximo de setenta e duas horas a contar do atendimento.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A notificação será processada em cadastro próprio que conterá dados de identificação epidemiológicos, informação sobre a existência de deficiência, além da especificação dos procedimentos de saúde utilizados no atendimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O órgão público de saúde federal manterá estatísticas atualizadas a respeito dos casos envolvendo os atendimentos especificados no art. 1º.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A notificação obrigatória dos casos de que trata esta Lei tem caráter sigiloso, obrigando nesse sentido as autoridades sanitárias que a tenham recebido.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A inobservância das obrigações estabelecidas nesta Lei constitui infração da legislação referente à saúde pública, sem prejuízo das sanções penais cabíveis.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O Poder Executivo expedirá a regulamentação desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

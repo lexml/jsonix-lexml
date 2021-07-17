@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;221@data.evento;leitura;2017-07-11t11.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 221 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei nº 9.503, de 23 setembro de 1997</span>, para prever a responsabilidade do passageiro pelo crime de condução de veículo automotor com capacidade psicomotora alterada, quando concorra para o fato e conheça a condição do condutor.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art306-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art306">art. 306 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a viger acrescido do seguinte parágrafo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art306 -> ExactMatch(URN(1997,Some((9,23)),art306,urn:lex:br:federal:lei:1997-09-23;9503!art306)), art306_cpt -> PrefixMatch(URN(1997,Some((9,23)),art306,urn:lex:br:federal:lei:1997-09-23;9503!art306),art306_cpt), art306_par4 -> PrefixMatch(URN(1997,Some((9,23)),art306,urn:lex:br:federal:lei:1997-09-23;9503!art306),art306_par4)))))-->
+              <Artigo xlink:href="art306" id="art1_cpt_alt1_art306" abreAspas="s">
+            
+            
+            <Rotulo>Art. 306.</Rotulo>
+            
+            <Caput xlink:href="art306_cpt" id="art1_cpt_alt1_art306_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art306_omi1"/><Paragrafo xlink:href="art306_par4" id="art1_cpt_alt1_art306_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O passageiro responde pelo crime previsto no caput deste artigo, na medida de sua culpabilidade, se concorreu para o fato e sabia que o condutor estava com a capacidade psicomotora alterada.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

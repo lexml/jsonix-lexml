@@ -1,0 +1,58 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;15@data.evento;leitura;2017-05-15t14.03"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 15 DE 2017</Epigrafe>
+      <Ementa id="ementa">Estabelece alíquotas mínimas do Imposto sobre a Propriedade de Veículos Automotores (IPVA) conforme o tipo dos veículos, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par6_inc1">art. 155, § 6º, inciso I, da Constituição Federal</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art155_cpt_inc3-->
+            
+            
+            <p>As alíquotas mínimas do Imposto sobre a Propriedade de Veículos Automotores (IPVA), previsto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art155_cpt_inc3">art. 155, inciso III, da Constituição Federal</span>, serão, conforme o tipo dos veículos, de:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>3% (três por cento) para ônibus, caminhões e furgões;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>2% (dois por cento) para automóveis leves de transporte de pessoas, utilitários e caminhonetes; e</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>1% (um por cento) para motocicletas, motonetas, quadriciclos, triciclos e demais veículos não mencionados neste artigo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2018.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

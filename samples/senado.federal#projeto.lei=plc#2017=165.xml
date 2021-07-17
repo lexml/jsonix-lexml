@@ -1,0 +1,1882 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;165"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 165 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui o Programa de Regularização Tributária Rural (PRR) na Secretaria da Receita Federal do Brasil e na Procuradoria-Geral da Fazenda Nacional; altera as <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212">Leis nºs 8.212, de 24 de julho de 1991</span>, <span xlink:href="urn:lex:br:federal:lei:1994-04-15;8870">8.870, de 15 de abril de 1994</span>, <span xlink:href="urn:lex:br:federal:lei:1997-12-10;9528">9.528, de 10 de dezembro de 1997</span>, <span xlink:href="urn:lex:br:federal:lei:2016-09-28;13340">13.340, de 28 de setembro de 2016</span>, <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522">10.522, de 19 de julho de 2002</span>, <span xlink:href="urn:lex:br:federal:lei:1997-04-25;9456">9.456, de 25 de abril de 1997</span>, <span xlink:href="urn:lex:br:federal:lei:2014-06-20;13001">13.001, de 20 de junho de 2014</span>, <span xlink:href="urn:lex:br:federal:lei:1992-05-27;8427">8.427, de 27 de maio de 1992</span>, e <span xlink:href="urn:lex:br:federal:lei:2004-12-30;11076">11.076, de 30 de dezembro de 2004</span>, e o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal); e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituído o Programa de Regularização Tributária Rural (PRR) na Secretaria da Receita Federal do Brasil e na Procuradoria-Geral da Fazenda Nacional, cuja implementação obedecerá ao disposto nesta Lei.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art25--><!--Link: urn:lex:br:federal:lei:1994-04-15;8870!art25-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Poderão ser quitados, na forma do PRR, os débitos vencidos até 30 de agosto de 2017 das contribuições de que tratam o <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art25">art. 25 da Lei nº 8.212, de 24 de julho de 1991</span>, e o <span xlink:href="urn:lex:br:federal:lei:1994-04-15;8870!art25">art. 25 da Lei n° 8.870, de 15 de abril de 1994</span>, constituídos ou não, inscritos ou não em dívida ativa da União, inclusive objeto de parcelamentos anteriores rescindidos ou ativos, em discussão administrativa ou judicial, ou ainda provenientes de lançamento efetuado de ofício após a publicação desta Lei, desde que o requerimento ocorra no prazo de que trata o § 2º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A adesão ao PRR ocorrerá por meio de requerimento a ser efetuado até 28 de fevereiro de 2018 e abrangerá os débitos indicados pelo sujeito passivo, na condição de contribuinte ou de sub-rogado.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A adesão ao PRR implicará:</p>
+            <Inciso id="art1_par3_inc1">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art389--><!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art395-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>a confissão irrevogável e irretratável dos débitos em nome do sujeito passivo, na condição de contribuinte ou sub-rogado, e por ele indicados para compor o PRR, nos termos dos <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art389">arts. 389</span> e <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art395">395 da Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil);</p>
+            
+          </Inciso><Inciso id="art1_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a aceitação plena e irretratável pelo sujeito passivo, na condição de contribuinte ou de sub-rogado, das condições estabelecidas nesta Lei;</p>
+            
+          </Inciso><Inciso id="art1_par3_inc3">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art25--><!--Link: urn:lex:br:federal:lei:1994-04-15;8870!art25-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>o dever de pagar regularmente as parcelas da dívida consolidada no PRR e os débitos relativos às contribuições dos produtores rurais pessoas físicas e dos adquirentes de produção rural de que trata o <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art25">art. 25 da Lei nº 8.212, de 24 de julho de 1991</span>, e às contribuições dos produtores rurais pessoas jurídicas de que trata o <span xlink:href="urn:lex:br:federal:lei:1994-04-15;8870!art25">art. 25 da Lei n° 8.870, de 15 de abril de 1994</span>, vencidos após 30 de agosto de 2017, inscritos ou não em dívida ativa da União; e</p>
+            
+          </Inciso><Inciso id="art1_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o cumprimento regular das obrigações com o Fundo de Garantia do Tempo de Serviço (FGTS).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art1_par4">
+            <!--Link: urn:lex:br:federal:lei:2002-07-19;10522!art19-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A confissão de que trata o inciso I do § 3º deste artigo não impedirá a aplicação do disposto no <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522!art19">art. 19 da Lei n° 10.522, de 19 de julho de 2002</span>, caso decisão ulterior do Superior Tribunal de Justiça ou do Supremo Tribunal Federal resulte na ilegitimidade de cobrança dos débitos confessados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O produtor rural pessoa física e o produtor rural pessoa jurídica que aderir ao PRR poderão liquidar os débitos de que trata o art. 1º desta Lei da seguinte forma:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo pagamento de, no mínimo, 2,5% (dois inteiros e cinco décimos por cento) do valor da dívida consolidada, sem as reduções de que trata o inciso II do caput deste artigo, em até duas parcelas iguais, mensais e sucessivas; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pelo pagamento do restante da dívida consolidada, por meio de parcelamento em até cento e setenta e seis prestações mensais e sucessivas, vencíveis a partir do mês seguinte ao vencimento da segunda parcela prevista no inciso I do caput deste artigo, equivalentes a 0,8% (oito décimos por cento) da média mensal da receita bruta proveniente da comercialização de sua produção rural do ano civil imediatamente anterior ao do vencimento da parcela, com as seguintes reduções:</p>
+            <Alinea id="art2_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>100% (cem por cento) das multas de mora e de ofício e dos encargos legais, incluídos os honorários advocatícios; e</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>100% (cem por cento) dos juros de mora.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor da parcela previsto no inciso II do caput deste artigo não será inferior a R$ 100,00 (cem reais).</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de concessão do parcelamento e manutenção dos pagamentos de que trata o inciso II do caput deste artigo perante a Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional, 50% (cinquenta por cento) do valor arrecadado será destinado para cada órgão.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            <!--Link: urn:lex:br:federal:lei:2002-07-19;10522-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Encerrado o prazo do parcelamento, eventual resíduo da dívida não quitada poderá ser pago à vista, acrescido à última prestação, ou ser parcelado na forma prevista na <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522">Lei nº 10.522, de 19 de julho de 2002</span>, em até sessenta prestações, hipótese em que não se aplicará o disposto no § 2º do art. 14-A da referida Lei, mantidas, em qualquer caso, as reduções previstas no inciso II do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na hipótese de suspensão das atividades relativas à produção rural ou de não auferimento de receita bruta por período superior a um ano, o valor da prestação mensal de que trata o inciso II do caput deste artigo será equivalente ao saldo da dívida consolidada com as reduções previstas no referido inciso, dividido pela quantidade de meses que faltarem para complementar cento e setenta e seis meses.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O eventual adiantamento de parcelas de que trata o inciso II do caput deste artigo implicará a amortização de tantas parcelas subsequentes quantas forem adiantadas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O adquirente de produção rural ou a cooperativa que aderir ao PRR poderá liquidar os débitos de que trata o art. 1º desta Lei da seguinte forma:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo pagamento de, no mínimo, 2,5% (dois inteiros e cinco décimos por cento) do valor da dívida consolidada, sem as reduções de que trata o inciso II do caput deste artigo, em até duas parcelas iguais, mensais e sucessivas; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pelo pagamento do restante da dívida consolidada, por meio de parcelamento em até cento e setenta e seis prestações mensais e sucessivas, vencíveis a partir do mês seguinte ao vencimento da segunda parcela prevista no inciso I do caput deste artigo, equivalentes a 0,3% (três décimos por cento) da média mensal da receita bruta proveniente da comercialização do ano civil imediatamente anterior ao do vencimento da parcela, com as seguintes reduções:</p>
+            <Alinea id="art3_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>100% (cem por cento) das multas de mora e de ofício e dos encargos legais, incluídos os honorários advocatícios; e</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>100% (cem por cento) dos juros de mora.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor da parcela previsto no inciso II do caput deste artigo não será inferior a R$ 1.000,00 (mil reais).</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de concessão do pagamento e manutenção dos pagamentos de que trata o inciso II do caput deste artigo perante a Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional, 50% (cinquenta por cento) do valor arrecadado será destinado para cada órgão.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            <!--Link: urn:lex:br:federal:lei:2002-07-19;10522-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Encerrado o prazo do parcelamento, eventual resíduo da dívida não quitada poderá ser pago à vista, acrescido à última prestação, ou ser parcelado na forma prevista na <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522">Lei nº 10.522, de 19 de julho de 2002</span>, em até sessenta prestações, hipótese em que não se aplicará o disposto no § 2º do art. 14-A da referida Lei, mantidas, em qualquer caso, as reduções previstas no inciso II do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na hipótese de suspensão das atividades do adquirente ou da cooperativa ou de não auferimento de receita bruta por período superior a um ano, o valor da prestação mensal de que trata o inciso II do caput deste artigo será equivalente ao saldo da dívida consolidada com as reduções previstas no referido inciso, dividido pela quantidade de meses que faltarem para completar cento e setenta e seis meses.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O eventual adiantamento de parcelas de que trata o inciso II do caput deste artigo implicará a amortização de tantas parcelas subsequentes quantas forem adiantadas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O parcelamento de débitos na forma prevista nos arts. 2º e 3º desta Lei não requer a apresentação de garantia.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art487_cpt_inc3_ali3--><!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art90-->
+            
+            
+            <p>Para incluir no PRR débitos que se encontrem em discussão administrativa ou judicial, o sujeito passivo deverá desistir previamente das impugnações ou dos recursos administrativos e das ações judiciais que tenham por objeto os débitos que serão quitados, renunciar a quaisquer alegações de direito sobre as quais se fundem as referidas impugnações, os recursos administrativos ou as ações judiciais e protocolar, no caso de ações judiciais, requerimento de extinção do processo com resolução do mérito, nos termos estabelecidos na <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art487_cpt_inc3_ali3">alínea c do inciso III do caput do art. 487 da Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil), o que eximirá o autor da ação do pagamento dos honorários advocatícios, afastando-se o disposto no <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art90">art. 90 da Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil).</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Somente será considerada a desistência parcial de impugnação de recurso administrativo interposto ou de ação judicial proposta se o débito objeto de desistência for passível de distinção dos demais débitos discutidos no processo administrativo ou na ação judicial.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A comprovação do pedido de desistência ou da renúncia de ações judiciais será apresentada na unidade de atendimento integrado do domicílio fiscal do sujeito passivo na condição de contribuinte ou de sub-rogado, até trinta dias após o prazo final de adesão de que trata o § 2º do art. 1º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Os depósitos vinculados aos débitos incluídos no PRR serão automaticamente transformados em pagamento definitivo ou convertidos em renda da União.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Depois da alocação do valor depositado à dívida incluída no PRR, se restarem débitos não liquidados pelo depósito, o saldo devedor poderá ser quitado na forma prevista nos arts. 2º ou 3º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Depois da conversão em renda ou da transformação em pagamento definitivo, o sujeito passivo, na condição de contribuinte ou de sub-rogado, poderá requerer o levantamento do saldo remanescente, se houver, desde que não haja outro débito exigível.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese de depósito judicial, o disposto no caput deste artigo somente se aplicará aos casos em que tenha ocorrido desistência da ação ou do recurso e renúncia a qualquer alegação de direito sobre o qual se funde a ação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A dívida objeto do parcelamento será consolidada na data do requerimento de adesão ao PRR.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Enquanto a dívida não for consolidada, caberá ao sujeito passivo calcular e recolher os valores de que tratam os arts. 2º e 3º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O parcelamento terá sua formalização condicionada ao prévio pagamento da primeira parcela de que tratam o inciso I do caput do art. 2º e o inciso I do caput do art. 3º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Sobre o valor de cada prestação mensal, por ocasião do pagamento, incidirão juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento for efetuado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>No âmbito da Secretaria da Receita Federal do Brasil, o sujeito passivo, na condição de contribuinte ou sub-rogado, que aderir ao PRR, poderá liquidar o saldo consolidado de que trata o inciso II do caput do art. 2º e o inciso II do caput do art. 3º desta Lei com a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da Contribuição Social sobre o Lucro Líquido (CSLL), liquidando-se o saldo remanescente com parcelamento em até cento e setenta e seis meses.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na liquidação dos débitos na forma prevista no caput deste artigo, poderão ser utilizados créditos de prejuízos fiscais e de base de cálculo negativa da CSLL apurados até 31 de dezembro de 2015 e declarados até 29 de julho de 2016, próprios ou do responsável tributário ou corresponsável pelo débito, e de empresas controladora e controlada, de forma direta ou indireta, ou de empresas que sejam controladas direta ou indiretamente por uma mesma empresa, em 31 de dezembro de 2015, domiciliadas no País, desde que se mantenham nessa condição até a data da opção pela quitação.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para fins do disposto no § 1º deste artigo, inclui-se também como controlada a sociedade na qual a participação da controladora seja igual ou inferior a 50% (cinquenta por cento), desde que exista acordo de acionistas que assegure, de modo permanente, a preponderância individual ou comum nas deliberações sociais e o poder individual ou comum de eleger a maioria dos administradores.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese de utilização dos créditos de que tratam os §§ 1º e 2º deste artigo, os créditos próprios deverão ser utilizados primeiro.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O valor do crédito decorrente de prejuízo fiscal e de base de cálculo negativa da CSLL será determinado por meio da aplicação das seguintes alíquotas:</p>
+            <Inciso id="art8_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>25% (vinte e cinco por cento) sobre o montante do prejuízo fiscal;</p>
+            
+          </Inciso><Inciso id="art8_par4_inc2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc2--><!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc7--><!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc1--><!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc6--><!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc4--><!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc5--><!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc10--><!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc3-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>20% (vinte por cento) sobre a base de cálculo negativa da CSLL, no caso das pessoas jurídicas de seguros privados, das pessoas jurídicas de capitalização e das pessoas jurídicas referidas nos <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc1">incisos I</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc2">II</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc3">III</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc4">IV</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc5">V</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc6">VI</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc7">VII</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc10">X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001</span>;</p>
+            
+          </Inciso><Inciso id="art8_par4_inc3">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc9-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>17% (dezessete por cento) sobre a base de cálculo negativa da CSLL, no caso das pessoas jurídicas referidas no <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art1_par1_inc9">inciso IX do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001</span>; e</p>
+            
+          </Inciso><Inciso id="art8_par4_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>9% (nove por cento) sobre a base de cálculo negativa da CSLL, no caso das demais pessoas jurídicas.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art8_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Na hipótese de indeferimento dos créditos a que se refere o caput deste artigo, no todo ou em parte, será concedido o prazo de trinta dias para que o sujeito passivo efetue o pagamento em espécie dos débitos amortizados indevidamente com créditos de prejuízo fiscal e de base de cálculo negativa da CSLL não reconhecidos pela Secretaria da Receita Federal do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A falta do pagamento de que trata o § 5º deste artigo, ou o atraso superior a trinta dias, implicará a exclusão do devedor do PRR e o restabelecimento da cobrança dos débitos remanescentes.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A utilização dos créditos na forma disciplinada no caput deste artigo extingue os débitos sob condição resolutória de sua ulterior homologação.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>A Secretaria da Receita Federal do Brasil dispõe do prazo de cinco anos para a análise dos créditos utilizados na forma prevista no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O sujeito passivo, na condição de contribuinte ou sub-rogado, que aderir ao PRR no âmbito da Procuradoria-Geral da Fazenda Nacional para parcelar dívida total, sem reduções, igual ou inferior a R$ 15.000.000,00 (quinze milhões de reais) poderá liquidar o saldo consolidado de que trata o inciso II do caput do art. 2º e o inciso II do caput do art. 3º desta Lei com a utilização de créditos próprios de prejuízo fiscal e de base de cálculo negativa da CSLL, apurados até 31 de dezembro de 2015 e declarados até 29 de julho de 2016, liquidando-se o saldo remanescente com parcelamento em até cento e setenta e seis meses.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na liquidação dos débitos na forma prevista no caput deste artigo, aplica-se o disposto nos §§ 4º, 5º e 6º do art. 8º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Implicará a exclusão do devedor do PRR e a exigibilidade imediata da totalidade do débito confessado e ainda não pago:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a falta de pagamento de três parcelas consecutivas ou de seis parcelas alternadas;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a falta de pagamento da última parcela, se as demais estiverem pagas;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a inobservância do disposto nos incisos III e IV do § 3º do art. 1º desta Lei, por três meses consecutivos ou por seis meses alternados, no mesmo ano civil; ou</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a não quitação integral dos valores de que tratam o inciso I do caput do art. 2º e o inciso I do caput do art. 3º desta Lei, nos prazos estabelecidos.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art10_par1">
+            <!--Link: urn:lex:br:federal:lei:2012-04-10;12608!art6_cpt_inc10-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não implicará a exclusão do produtor rural pessoa física ou do produtor rural pessoa jurídica do PRR a falta de pagamento referida nos incisos I, II ou III do caput deste artigo ocasionada pela queda significativa de safra decorrente de razões edafoclimáticas que tenham motivado a declaração de situação de emergência ou de estado de calamidade pública devidamente reconhecido pelo Poder Executivo federal, conforme disposto no <span xlink:href="urn:lex:br:federal:lei:2012-04-10;12608!art6_cpt_inc10">inciso X do art. 6º da Lei nº 12.608, de 10 de abril de 2012</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de exclusão do devedor do PRR, serão cancelados os benefícios concedidos e:</p>
+            <Inciso id="art10_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>será efetuada a apuração do valor original do débito com a incidência dos acréscimos legais até a data da exclusão; e</p>
+            
+          </Inciso><Inciso id="art10_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>serão deduzidas do valor referido no inciso I deste parágrafo as parcelas pagas, com os acréscimos legais até a data da exclusão.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>A opção pelo PRR implicará a manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas nas ações de execução fiscal ou de qualquer outra ação judicial.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-07-19;10522!art11_par2--><!--Link: urn:lex:br:federal:lei:2002-07-19;10522!art12--><!--Link: urn:lex:br:federal:lei:2002-07-19;10522!art11_cpt--><!--Link: urn:lex:br:federal:lei:2002-07-19;10522!art14_cpt_inc9--><!--Link: urn:lex:br:federal:lei:2002-07-19;10522!art11_par3-->
+            
+            
+            <p>Aplica-se aos parcelamentos dos débitos incluídos no PRR o disposto no <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522!art11_cpt">caput</span> e <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522!art11_par2">nos §§ 2º</span> e <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522!art11_par3">3º do art. 11</span>, no <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522!art12">art. 12</span> e no <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522!art14_cpt_inc9">inciso IX do caput do art. 14 da Lei nº 10.522, de 19 de julho de 2002</span>.</p>
+            
+          </Caput><Paragrafo id="art12_par1u">
+            <!--Link: urn:lex:br:federal:lei:2003-05-30;10684--><!--Link: urn:lex:br:federal:lei:2017-10-24;13496--><!--Link: urn:lex:br:federal:lei:2000-04-10;9964--><!--Link: urn:lex:br:federal:medida.provisoria:2017-01-04;766--><!--Link: urn:lex:br:federal:medida.provisoria:2017-07-31;793-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A vedação da inclusão em qualquer outra forma de parcelamento dos débitos parcelados com base na <span xlink:href="urn:lex:br:federal:lei:2000-04-10;9964">Lei nº 9.964, de 10 de abril de 2000</span>, na <span xlink:href="urn:lex:br:federal:lei:2003-05-30;10684">Lei nº 10.684, de 30 de maio de 2003</span>, e na <span xlink:href="urn:lex:br:federal:lei:2017-10-24;13496">Lei nº 13.496, de 24 de outubro de 2017</span>, na <span xlink:href="urn:lex:br:federal:medida.provisoria:2017-01-04;766">Medida Provisória nº 766, de 4 de janeiro de 2017</span>, e na <span xlink:href="urn:lex:br:federal:medida.provisoria:2017-07-31;793">Medida Provisória nº 793, de 31 de julho de 2017</span>, não se aplica ao PRR.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>A Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional, no âmbito de suas competências, editarão, no prazo de até trinta dias, contado da data de publicação desta Lei, os atos necessários à execução dos procedimentos previstos nos arts. 1º a 12 desta Lei.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2017-07-31;793-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A regulamentação deverá garantir a possibilidade de migração para o PRR aos produtores rurais e aos adquirentes que aderiram ao parcelamento previsto na <span xlink:href="urn:lex:br:federal:medida.provisoria:2017-07-31;793">Medida Provisória n° 793, de 31 de julho de 2017</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art25-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art25">art. 25 da Lei nº 8.212, de 24 de julho de 1991</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1991-07-24;8212" id="art14_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1991-07-24;8212 -> MatchByBase(urn:lex:br:federal:lei:1991-07-24;8212,1991,Some((7,24)),Map(art25_par13 -> PrefixMatch(URN(1991,Some((7,24)),art25,urn:lex:br:federal:lei:1991-07-24;8212!art25),art25_par13), art25_cpt_inc1 -> PrefixMatch(URN(1991,Some((7,24)),art25,urn:lex:br:federal:lei:1991-07-24;8212!art25),art25_cpt_inc1), art25_par12 -> PrefixMatch(URN(1991,Some((7,24)),art25,urn:lex:br:federal:lei:1991-07-24;8212!art25),art25_par12), art25_cpt -> PrefixMatch(URN(1991,Some((7,24)),art25,urn:lex:br:federal:lei:1991-07-24;8212!art25),art25_cpt), art25 -> ExactMatch(URN(1991,Some((7,24)),art25,urn:lex:br:federal:lei:1991-07-24;8212!art25))))))-->
+              <Artigo xlink:href="art25" id="art14_cpt_alt1_art25" abreAspas="s">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput xlink:href="art25_cpt" id="art14_cpt_alt1_art25_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art25_cpt_inc1" id="art14_cpt_alt1_art25_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>1,2% (um inteiro e dois décimos por cento) da receita bruta proveniente da comercialização da sua produção;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art14_cpt_alt1_art25_omi1"/><Paragrafo xlink:href="art25_par12" id="art14_cpt_alt1_art25_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Não integra a base de cálculo da contribuição de que trata o caput deste artigo a produção rural destinada ao plantio ou reflorestamento, nem o produto animal destinado à reprodução ou criação pecuária ou granjeira e à utilização como cobaia para fins de pesquisas científicas, quando vendido pelo próprio produtor e por quem a utilize diretamente com essas finalidades e, no caso de produto vegetal, por pessoa ou entidade registrada no Ministério da Agricultura, Pecuária e Abastecimento que se dedique ao comércio de sementes e mudas no País.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art25_par13" id="art14_cpt_alt1_art25_par13" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>O produtor rural pessoa física poderá optar por contribuir na forma prevista no caput deste artigo ou na forma dos incisos I e II do caput do art. 22 desta Lei, manifestando sua opção mediante o pagamento da contribuição incidente sobre a folha de salários relativa a janeiro de cada ano, ou à primeira competência subsequente ao início da atividade rural, e será irretratável para todo o ano-calendário.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            <!--Link: urn:lex:br:federal:lei:1994-04-15;8870!art25-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1994-04-15;8870!art25">art. 25 da Lei nº 8.870, de 15 de abril de 1994</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1994-04-15;8870" id="art15_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1994-04-15;8870 -> MatchByBase(urn:lex:br:federal:lei:1994-04-15;8870,1994,Some((4,15)),Map(art25_cpt_inc1 -> PrefixMatch(URN(1994,Some((4,15)),art25,urn:lex:br:federal:lei:1994-04-15;8870!art25),art25_cpt_inc1), art25_cpt -> PrefixMatch(URN(1994,Some((4,15)),art25,urn:lex:br:federal:lei:1994-04-15;8870!art25),art25_cpt), art25_par6 -> PrefixMatch(URN(1994,Some((4,15)),art25,urn:lex:br:federal:lei:1994-04-15;8870!art25),art25_par6), art25_par7 -> PrefixMatch(URN(1994,Some((4,15)),art25,urn:lex:br:federal:lei:1994-04-15;8870!art25),art25_par7), art25 -> ExactMatch(URN(1994,Some((4,15)),art25,urn:lex:br:federal:lei:1994-04-15;8870!art25))))))-->
+              <Artigo xlink:href="art25" id="art15_cpt_alt1_art25" abreAspas="s">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput xlink:href="art25_cpt" id="art15_cpt_alt1_art25_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art25_cpt_inc1" id="art15_cpt_alt1_art25_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>1,7% (um inteiro e sete décimos por cento) da receita bruta proveniente da comercialização da sua produção;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art15_cpt_alt1_art25_omi1"/><Paragrafo xlink:href="art25_par6" id="art15_cpt_alt1_art25_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Não integra a base de cálculo da contribuição de que trata o caput deste artigo a produção rural destinada ao plantio ou reflorestamento, nem o produto animal destinado à reprodução ou criação pecuária ou granjeira e à utilização como cobaia para fins de pesquisas científicas, quando vendido pelo próprio produtor e por quem a utilize diretamente com essas finalidades e, no caso de produto vegetal, por pessoa ou entidade registrada no Ministério da Agricultura, Pecuária e Abastecimento que se dedique ao comércio de sementes e mudas no País.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art25_par7" id="art15_cpt_alt1_art25_par7" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art22_cpt_inc1--><!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art22_cpt_inc2-->
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O empregador pessoa jurídica poderá optar por contribuir na forma prevista no caput deste artigo ou na forma dos <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art22_cpt_inc1">incisos I</span> e <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art22_cpt_inc2">II do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991</span>, manifestando sua opção mediante o pagamento da contribuição incidente sobre a folha de salários relativa a janeiro de cada ano, ou à primeira competência subsequente ao início da atividade rural, e será irretratável para todo o ano- calendário.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-12-10;9528!art6-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-12-10;9528!art6">art. 6º da Lei nº 9.528, de 10 de dezembro de 1997</span>, passa a vigorar acrescido do seguinte parágrafo único:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-12-10;9528" id="art16_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-12-10;9528 -> MatchByBase(urn:lex:br:federal:lei:1997-12-10;9528,1997,Some((12,10)),Map(art6_par1_inc1 -> PrefixMatch(URN(1997,Some((12,10)),art6,urn:lex:br:federal:lei:1997-12-10;9528!art6),art6_par1_inc1), art6_par1 -> PrefixMatch(URN(1997,Some((12,10)),art6,urn:lex:br:federal:lei:1997-12-10;9528!art6),art6_par1), art6 -> ExactMatch(URN(1997,Some((12,10)),art6,urn:lex:br:federal:lei:1997-12-10;9528!art6)), art6_par1_inc2 -> PrefixMatch(URN(1997,Some((12,10)),art6,urn:lex:br:federal:lei:1997-12-10;9528!art6),art6_par1_inc2), art6_cpt -> PrefixMatch(URN(1997,Some((12,10)),art6,urn:lex:br:federal:lei:1997-12-10;9528!art6),art6_cpt)))))-->
+              <Artigo xlink:href="art6" id="art16_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art16_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art6_par1u" id="art16_cpt_alt1_art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A contribuição de que trata o caput deste artigo será recolhida:</p>
+            <Inciso xlink:href="art6_par1u_inc1" id="art16_cpt_alt1_art6_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo adquirente, consignatário ou cooperativa, que ficam sub-rogados, para esse fim, nas obrigações do produtor rural pessoa física e do segurado especial, independentemente das operações de venda e consignação terem sido realizadas diretamente com produtor ou com intermediário pessoa física;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par1u_inc2" id="art16_cpt_alt1_art6_par1u_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pelo próprio produtor pessoa física e pelo segurado especial, quando comercializarem sua produção com adquirente no exterior, com outro produtor pessoa física, ou diretamente no varejo, com o consumidor pessoa física.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art168-1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art168-1">art. 168-A do Decreto-Lei n° 2.848, de 7 de dezembro de 1940</span> (Código Penal), passa a vigorar acrescido do seguinte § 4º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art17_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art168-1 -> ExactMatch(URN(1940,Some((12,7)),art168-1,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art168-1)), art168-1_cpt -> PrefixMatch(URN(1940,Some((12,7)),art168-1,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art168-1),art168-1_cpt), art168-1_par4 -> PrefixMatch(URN(1940,Some((12,7)),art168-1,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art168-1),art168-1_par4)))))-->
+              <Artigo xlink:href="art168-1" id="art17_cpt_alt1_art168-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 168-A.</Rotulo>
+            
+            <Caput xlink:href="art168-1_cpt" id="art17_cpt_alt1_art168-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art17_cpt_alt1_art168-1_omi1"/><Paragrafo xlink:href="art168-1_par4" id="art17_cpt_alt1_art168-1_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A faculdade prevista no § 3° deste artigo não se aplica aos casos de parcelamento de contribuições cujo valor, inclusive dos acessórios, seja superior àquele estabelecido, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            <!--Link: urn:lex:br:federal:lei:2016-09-28;13340-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2016-09-28;13340">Lei nº 13.340, de 28 de setembro de 2016</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2016-09-28;13340" id="art18_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2016-09-28;13340 -> MatchByBase(urn:lex:br:federal:lei:2016-09-28;13340,2016,Some((9,28)),Map(art1 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art1), art4_par5 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art4_par5), art3_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art3_cpt), art3-1_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art3-1_cpt), art16_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art16_cpt), art1_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art1_cpt), art4 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art4), art10_cpt_inc1 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art10_cpt_inc1), art14_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art14_cpt), art2 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art2), art3-1 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art3-1), art16 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art16), art4_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art4_cpt), art4_par6 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art4_par6), art2_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art2_cpt), art16_par1 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art16_par1), art3 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art3), art10_cpt -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art10_cpt), art4_par4 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art4_par4), art14 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art14), art10 -> PrefixMatch(URN(2016,Some((9,28)),,urn:lex:br:federal:lei:2016-09-28;13340),art10)))))-->
+              <Artigo xlink:href="art1" id="art18_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art18_cpt_alt1_art1_cpt">
+            
+            
+            
+            <p>Fica autorizada a concessão de rebate para liquidação, até 27 de dezembro de 2018, das operações de crédito rural referentes a uma ou mais operações do mesmo mutuário, contratadas até 31 de dezembro de 2011 com o Banco do Nordeste do Brasil S.A. ou o Banco da Amazônia S.A. com recursos oriundos, respectivamente, do Fundo Constitucional de Financiamento do Nordeste (FNE) ou do Fundo Constitucional de Financiamento do Norte (FNO), ou com recursos mistos dos referidos Fundos com outras fontes, relativas a empreendimentos localizados na área de abrangência da Superintendência do Desenvolvimento do Nordeste (Sudene) ou da Superintendência do Desenvolvimento da Amazônia (Sudam), observadas ainda as seguintes condições:</p>
+            
+          </Caput><Omissis id="art18_cpt_alt1_art1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art2" id="art18_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art18_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>Fica autorizada, até 27 de dezembro de 2018, a repactuação das dívidas das operações de crédito rural contratadas até 31 de dezembro de 2011 com o Banco do Nordeste do Brasil S.A. ou o Banco da Amazônia S.A. com recursos oriundos, respectivamente, do FNE ou do FNO, ou com recursos mistos dos referidos Fundos com outras fontes, relativas a empreendimentos localizados na área de abrangência da Sudene ou da Sudam, atualizadas até a data da repactuação segundo os critérios estabelecidos no art. 1º desta Lei, observadas ainda as seguintes condições:</p>
+            
+          </Caput><Omissis id="art18_cpt_alt1_art2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art3" id="art18_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art18_cpt_alt1_art3_cpt">
+            
+            
+            
+            <p>Fica autorizada a concessão de rebate para liquidação, até 27 de dezembro de 2018, das operações de crédito rural referentes a uma ou mais operações do mesmo mutuário, contratadas até 31 de dezembro de 2011 com bancos oficiais federais, relativas a empreendimentos localizados na área de abrangência da Sudene e da Sudam, exceto as contratadas com recursos oriundos dos Fundos Constitucionais de Financiamento, observadas as seguintes condições:</p>
+            
+          </Caput><Omissis id="art18_cpt_alt1_art3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art3-1" id="art18_cpt_alt1_art3-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º-A.</Rotulo>
+            
+            <Caput xlink:href="art3-1_cpt" id="art18_cpt_alt1_art3-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O disposto no art. 3º desta Lei alcança as operações contratadas com bancos oficiais federais de crédito ou agências estaduais de desenvolvimento ou de fomento com recursos oriundos do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), ainda que tenham sido baixadas em prejuízo.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art4" id="art18_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art18_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>Fica autorizada a concessão de descontos para a liquidação, até 27 de dezembro de 2018, de dívidas originárias de operações de crédito rural inscritas em dívida ativa da União ou encaminhadas para inscrição até 31 de julho de 2018, relativas a inadimplência ocorrida até 31 de dezembro de 2017, devendo incidir os referidos descontos sobre o valor consolidado, por inscrição em dívida ativa da União.</p>
+            
+          </Caput><Omissis id="art18_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par4" id="art18_cpt_alt1_art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para as dívidas de que trata o caput deste artigo cujo devedor tenha natureza jurídica de pessoa jurídica ou que possua, por força da legislação tributária, registro no Cadastro Nacional da Pessoa Jurídica (CNPJ), os descontos de que trata o caput deste artigo serão concedidos sobre o valor consolidado da inscrição em dívida ativa da União, segundo seu enquadramento em uma das faixas de valores indicadas no Anexo IV desta Lei, devendo primeiro ser aplicado o correspondente desconto percentual e, em seguida, o respectivo desconto de valor fixo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par5" id="art18_cpt_alt1_art4_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os descontos para liquidação previstos no § 1º deste artigo aplicam-se às dívidas contraídas no âmbito do Fundo de Terras e da Reforma Agrária (Banco da Terra) e do Acordo de Empréstimo 4.147-BR, inscritas em dívida ativa da União até 31 de julho de 2018, cuja inadimplência tenha ocorrido até 31 de dezembro de 2017.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par6" id="art18_cpt_alt1_art4_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Para as dívidas de que trata o § 5º deste artigo cujo devedor principal tenha natureza jurídica de pessoa jurídica ou que possua, por força da legislação tributária, registro no Cadastro Nacional da Pessoa Jurídica (CNPJ), para os fins da liquidação prevista neste artigo, aplica-se, em substituição aos descontos referidos no Anexo III de que trata o § 1º deste artigo, desconto de 85% (oitenta e cinco por cento) a ser concedido sobre o saldo devedor consolidado na forma do § 2º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art10" id="art18_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art18_cpt_alt1_art10_cpt">
+            
+            
+            
+            <p>Para os fins de que tratam os arts. 1º, 2º, 3º e 4º desta Lei, ficam suspensos a partir da publicação desta Lei até 27 de dezembro de 2018:</p>
+            <Inciso xlink:href="art10_cpt_inc1" id="art18_cpt_alt1_art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o encaminhamento para cobrança judicial e as execuções e cobranças judiciais em curso, inclusive as conduzidas pela Procuradoria-Geral da Fazenda Nacional e pela Advocacia-Geral da União;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art18_cpt_alt1_art10_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art14" id="art18_cpt_alt1_art14" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput xlink:href="art14_cpt" id="art18_cpt_alt1_art14_cpt" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:decreto.lei:1979-11-22;1715!art1_par1--><!--Link: urn:lex:br:federal:lei:2009-11-24;12096--><!--Link: urn:lex:br:federal:lei:1990-05-11;8036!art27_cpt_ali2--><!--Link: urn:lex:br:federal:decreto.lei:1967-02-03;147!art62--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art195_par3--><!--Link: urn:lex:br:federal:lei:2002-07-19;10522-->
+            
+            
+            <p>Sem prejuízo do disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art195_par3">§ 3º do art. 195 da Constituição Federal</span>, nas operações de renegociação e de repactuação e na concessão de descontos, rebates ou bônus de adimplência para liquidação, renegociação ou repactuação de dívidas de operações de crédito rural e de operações de bens de capital de que trata a <span xlink:href="urn:lex:br:federal:lei:2009-11-24;12096">Lei nº 12.096, de 24 de novembro de 2009</span>, realizadas com instituições financeiras públicas federais, ficam afastadas até 27 de dezembro de 2018 as exigências de regularidade fiscal previstas no <span xlink:href="urn:lex:br:federal:decreto.lei:1967-02-03;147!art62">art. 62 do Decreto-Lei nº 147, de 3 de fevereiro de 1967</span>, no <span xlink:href="urn:lex:br:federal:decreto.lei:1979-11-22;1715!art1_par1">§ 1º do art. 1º do Decreto-Lei nº 1.715, de 22 de novembro de 1979</span>, na <span xlink:href="urn:lex:br:federal:lei:1990-05-11;8036!art27_cpt_ali2">alínea b do caput do art. 27 da Lei nº 8.036, de 11 de maio de 1990</span>, e na <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522">Lei nº 10.522, de 19 de julho de 2002</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art16" id="art18_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art18_cpt_alt1_art16_cpt">
+            
+            
+            
+            <p>Fica o Poder Executivo autorizado a repactuar as dívidas dos empreendimentos familiares rurais, das agroindústrias familiares e das cooperativas de produção agropecuária, amparadas em Declaração de Aptidão ao Pronaf (DAP), nas modalidades pessoa física ou jurídica, com o Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), originárias de operações contratadas até 31 de dezembro de 2012, observadas as seguintes condições:</p>
+            
+          </Caput><Omissis id="art18_cpt_alt1_art16_omi1"/><Paragrafo xlink:href="art16_par1u" id="art18_cpt_alt1_art16_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A repactuação de que trata o caput deste artigo também alcança operações contratadas com recursos oriundos do FNE ou do FNO, ou com recursos mistos desses fundos com outras fontes, relativas a empreendimentos localizados na área de abrangência da Sudene ou da Sudam.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            <!--Link: urn:lex:br:federal:lei:2016-09-28;13340-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2016-09-28;13340">Lei nº 13.340, de 28 de setembro de 2016</span>, passa a vigorar acrescida do Anexo IV, na forma do Anexo II desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Fica a Advocacia-Geral da União autorizada a conceder descontos para a liquidação, até 27 de dezembro de 2018, de dívidas originárias de operações de crédito rural, cujos ativos tenham sido transferidos para o Tesouro Nacional e os respectivos débitos, não inscritos na dívida ativa da União, estejam sendo executados pela Procuradoria-Geral da União, devendo incidir os referidos descontos sobre o valor consolidado por ação de execução judicial.</p>
+            
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os descontos de que trata o caput deste artigo, independentemente do valor original contratado, serão concedidos sobre o valor consolidado por ação de execução judicial, segundo seu enquadramento em uma das faixas de valores indicadas no Anexo I desta Lei, devendo primeiro ser aplicado o correspondente desconto percentual e, em seguida, o respectivo desconto de valor fixo.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Entende-se por valor consolidado por ação de execução judicial de que trata o caput deste artigo o montante do débito a ser liquidado, atualizado até o mês em que ocorrerá a liquidação.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Formalizado o pedido de adesão, a Advocacia-Geral da União fica autorizada a adotar as medidas necessárias à suspensão, até análise do requerimento, das ações de execução ajuizadas, cujo objeto seja a cobrança de crédito rural de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O prazo de prescrição das dívidas de crédito rural de que trata este artigo fica suspenso a partir da data de publicação desta Lei até 27 de dezembro de 2018.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Para as dívidas oriundas de operações de crédito rural contratadas com o extinto Banco Nacional de Crédito Cooperativo (BNCC), cujos respectivos débitos, não inscritos na dívida ativa da União, estejam sendo executados pela Procuradoria-Geral da União, independentemente da apresentação de pedidos de adesão aos benefícios de que trata o art. 20 desta Lei pelos mutuários, os saldos devedores serão recalculados pela Advocacia-Geral da União, incidindo sobre o valor atribuído à causa, desde a elaboração do cálculo que o embasou:</p>
+            <Inciso id="art21_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>atualização monetária, segundo os índices oficiais vigentes em cada período;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>juros remuneratórios de 6% a.a. (seis por cento ao ano);</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>juros de mora de 1% a.a. (um por cento ao ano).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art21_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Fica a Advocacia-Geral da União autorizada a aplicar descontos adicionais, aferidos com base em critérios objetivos fixados em ato conjunto pelos Ministérios da Fazenda e da Agricultura, Pecuária e Abastecimento, para liquidação das operações de crédito rural enquadradas no caput deste artigo, contratadas ao amparo do Programa de Cooperação Nipo-Brasileira para o Desenvolvimento dos Cerrados (Prodecer) – Fase II, do Programa de Financiamento de Equipamentos de Irrigação (Profir) e do Programa Nacional de Valorização e Utilização de Várzeas Irrigáveis (Provárzeas).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            <!--Link: urn:lex:br:federal:lei:2008-09-17;11775!art8-1--><!--Link: urn:lex:br:federal:lei:2013-07-19;12844!art8-2-->
+            
+            
+            <p>O mutuário que tenha aderido a pedidos de renegociação com a Advocacia-Geral da União, fundamentado no <span xlink:href="urn:lex:br:federal:lei:2008-09-17;11775!art8-1">art. 8º-A da Lei nº 11.775, de 17 de setembro de 2008</span>, ou no <span xlink:href="urn:lex:br:federal:lei:2013-07-19;12844!art8-2">art. 8º-B da Lei nº 12.844, de 19 de julho de 2013</span>, ainda em curso, após renunciar expressamente ao acordo em execução, poderá requerer a liquidação do saldo remanescente, com os descontos previstos no art. 20 desta Lei, apurando-se o saldo devedor segundo os critérios estabelecidos nos §§ 1º e 2º do art. 20 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>É vedada a acumulação dos descontos previstos nos arts. 20, 21 e 22 desta Lei com outros consignados na legislação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>A liquidação de que tratam os arts. 20, 21 e 22 desta Lei será regulamentada por ato do Advogado-Geral da União.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-07-19;10522-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522">Lei nº 10.522, de 19 de julho de 2002</span>, passa a vigorar acrescida dos seguintes arts. 20-B, 20-C, 20-D e 20-E:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-07-19;10522" id="art25_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-07-19;10522 -> MatchByBase(urn:lex:br:federal:lei:2002-07-19;10522,2002,Some((7,19)),Map(art20-4_cpt_inc3 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-4_cpt_inc3), art20-4_cpt_inc2 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-4_cpt_inc2), art20-3_par1 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-3_par1), art20-3 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-3), art20-2_par3 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-2_par3), art20-5 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-5), art20-2_par3_inc1 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-2_par3_inc1), art20-2_par1 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-2_par1), art20-2_par2 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-2_par2), art20-4 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-4), art20-2_par3_inc2 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-2_par3_inc2), art20-5_cpt -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-5_cpt), art20-2_cpt -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-2_cpt), art20-2 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-2), art20-3_cpt -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-3_cpt), art20-4_cpt -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-4_cpt), art20-4_cpt_inc1 -> PrefixMatch(URN(2002,Some((7,19)),,urn:lex:br:federal:lei:2002-07-19;10522),art20-4_cpt_inc1)))))-->
+              <Artigo xlink:href="art20-2" id="art25_cpt_alt1_art20-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 20-B.</Rotulo>
+            
+            <Caput xlink:href="art20-2_cpt" id="art25_cpt_alt1_art20-2_cpt">
+            
+            
+            
+            <p>Inscrito o crédito em dívida ativa da União, o devedor será notificado para, em até cinco dias, efetuar o pagamento do valor atualizado monetariamente, acrescido de juros, multa e demais encargos nela indicados.</p>
+            
+          </Caput><Paragrafo xlink:href="art20-2_par1" id="art25_cpt_alt1_art20-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A notificação será expedida por via eletrônica ou postal para o endereço do devedor e será considerada entregue depois de decorridos quinze dias da respectiva expedição.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art20-2_par2" id="art25_cpt_alt1_art20-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Presume-se válida a notificação expedida para o endereço informado pelo contribuinte ou responsável à Fazenda Pública.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art20-2_par3" id="art25_cpt_alt1_art20-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não pago o débito no prazo fixado no caput deste artigo, a Fazenda Pública poderá:</p>
+            <Inciso xlink:href="art20-2_par3_inc1" id="art25_cpt_alt1_art20-2_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>comunicar a inscrição em dívida ativa aos órgãos que operam bancos de dados e cadastros relativos a consumidores e aos serviços de proteção ao crédito e congêneres; e</p>
+            
+          </Inciso><Inciso xlink:href="art20-2_par3_inc2" id="art25_cpt_alt1_art20-2_par3_inc2" fechaAspas="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>averbar, inclusive por meio eletrônico, a certidão de dívida ativa nos órgãos de registro de bens e direitos sujeitos a arresto ou penhora, tornando-os indisponíveis.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art20-3" id="art25_cpt_alt1_art20-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 20-C.</Rotulo>
+            
+            <Caput xlink:href="art20-3_cpt" id="art25_cpt_alt1_art20-3_cpt">
+            
+            
+            
+            <p>A Procuradoria-Geral da Fazenda Nacional poderá condicionar o ajuizamento de execuções fiscais à verificação de indícios de bens, direitos ou atividade econômica dos devedores ou corresponsáveis, desde que úteis à satisfação integral ou parcial dos débitos a serem executados.</p>
+            
+          </Caput><Paragrafo xlink:href="art20-3_par1u" id="art25_cpt_alt1_art20-3_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Compete ao Procurador-Geral da Fazenda Nacional definir os limites, critérios e parâmetros para o ajuizamento da ação de que trata o caput deste artigo, observados os critérios de racionalidade, economicidade e eficiência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art20-4" id="art25_cpt_alt1_art20-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 20-D.</Rotulo>
+            
+            <Caput xlink:href="art20-4_cpt" id="art25_cpt_alt1_art20-4_cpt">
+            
+            
+            
+            <p>Sem prejuízo da utilização das medidas judicias para recuperação e acautelamento dos créditos inscritos, se houver indícios da prática de ato ilícito previsto na legislação tributária, civil e empresarial como causa de responsabilidade de terceiros por parte do contribuinte, sócios, administradores, pessoas relacionadas e demais responsáveis, a Procuradoria-Geral da Fazenda Nacional poderá, a critério exclusivo da autoridade fazendária:</p>
+            <Inciso xlink:href="art20-4_cpt_inc1" id="art25_cpt_alt1_art20-4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>notificar as pessoas de que trata o caput deste artigo ou terceiros para prestar depoimentos ou esclarecimentos;</p>
+            
+          </Inciso><Inciso xlink:href="art20-4_cpt_inc2" id="art25_cpt_alt1_art20-4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>requisitar informações, exames periciais e documentos de autoridades federais, estaduais e municipais, bem como dos órgãos e entidades da Administração Pública direta, indireta ou fundacional, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios;</p>
+            
+          </Inciso><Inciso xlink:href="art20-4_cpt_inc3" id="art25_cpt_alt1_art20-4_cpt_inc3" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>instaurar procedimento administrativo para apuração de responsabilidade por débito inscrito em dívida ativa da União, ajuizado ou não, observadas, no que couber, as disposições da <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art20-5" id="art25_cpt_alt1_art20-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 20-E.</Rotulo>
+            
+            <Caput xlink:href="art20-5_cpt" id="art25_cpt_alt1_art20-5_cpt" fechaAspas="s">
+            
+            
+            
+            <p>A Procuradoria-Geral da Fazenda Nacional editará atos complementares para o fiel cumprimento do disposto nos arts. 20-B, 20-C e 20-D desta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-07-24;11326-->
+            
+            
+            <p>Fica a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) autorizada a renegociar e a prorrogar até dezembro de 2022 as dívidas com os empreendimentos da agricultura familiar que se enquadram na <span xlink:href="urn:lex:br:federal:lei:2006-07-24;11326">Lei nº 11.326, de 24 de julho de 2006</span>, de operações que foram contratadas até 31 de dezembro de 2015, referentes aos pagamentos do licenciamento para a multiplicação e a exploração comercial de sementes, observadas as seguintes condições:</p>
+            <Inciso id="art26_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a renegociação das dívidas, vencidas e vincendas, deverá ser requerida pelo mutuário e formalizada pela Embrapa até 29 de junho de 2018;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o saldo devedor será apurado na data da renegociação com base nos encargos contratuais de normalidade, sem o cômputo de multa, mora, quaisquer outros encargos por inadimplemento ou honorários advocatícios;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>sobre o saldo devedor apurado será aplicado rebate de 95% (noventa e cinco por cento);</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o pagamento do saldo devedor apurado na forma do inciso III do caput deste artigo poderá ser realizado em seis parcelas anuais, com dois anos de carência, mantidos os encargos originalmente contratados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-04-25;9456-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-04-25;9456">Lei nº 9.456, de 25 de abril de 1997</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-04-25;9456" id="art27_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-04-25;9456 -> MatchByBase(urn:lex:br:federal:lei:1997-04-25;9456,1997,Some((4,25)),Map(art10_cpt_inc5 -> PrefixMatch(URN(1997,Some((4,25)),,urn:lex:br:federal:lei:1997-04-25;9456),art10_cpt_inc5), art14-1_cpt -> PrefixMatch(URN(1997,Some((4,25)),,urn:lex:br:federal:lei:1997-04-25;9456),art14-1_cpt), art10_cpt -> PrefixMatch(URN(1997,Some((4,25)),,urn:lex:br:federal:lei:1997-04-25;9456),art10_cpt), art14-1 -> PrefixMatch(URN(1997,Some((4,25)),,urn:lex:br:federal:lei:1997-04-25;9456),art14-1), art10 -> PrefixMatch(URN(1997,Some((4,25)),,urn:lex:br:federal:lei:1997-04-25;9456),art10)))))-->
+              <Artigo xlink:href="art10" id="art27_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art27_cpt_alt1_art10_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art27_cpt_alt1_art10_cpt_omi1"/><Inciso xlink:href="art10_cpt_inc5" id="art27_cpt_alt1_art10_cpt_inc5">
+            <!--Link: urn:lex:br:federal:lei:2003-07-02;10696!art19--><!--Link: urn:lex:br:federal:lei:2006-07-24;11326-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>multiplica, distribui, troca ou comercializa sementes, mudas e outros materiais propagativos no âmbito do disposto no <span xlink:href="urn:lex:br:federal:lei:2003-07-02;10696!art19">art. 19 da Lei nº 10.696, de 2 de julho de 2003</span>, na qualidade de agricultores familiares ou por empreendimentos familiares que se enquadrem nos critérios da <span xlink:href="urn:lex:br:federal:lei:2006-07-24;11326">Lei nº 11.326, de 24 de julho de 2006</span>.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art27_cpt_alt1_art10_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art14-1" id="art27_cpt_alt1_art14-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-A.</Rotulo>
+            
+            <Caput xlink:href="art14-1_cpt" id="art27_cpt_alt1_art14-1_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:2006-07-24;11326-->
+            
+            
+            <p>Ficam isentos de pagamento da taxa de pedido de proteção de cultivares os empreendimentos familiares rurais que se enquadrem nos critérios da <span xlink:href="urn:lex:br:federal:lei:2006-07-24;11326">Lei nº 11.326, de 24 de julho de 2006</span>.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>Fica a União autorizada a conceder rebate de até R$ 12.000,00 (doze mil reais) por operação para a liquidação perante as cooperativas de crédito rural, relativo às operações de custeio e investimento efetuadas ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), Grupos C , D e E, contratadas por intermédio de cooperativas de crédito rural centrais ou singulares, com recursos repassados pelas instituições financeiras oficiais, que, embora tenham sido liquidadas pelas cooperativas perante as respectivas instituições financeiras oficiais, não foram pagas pelos mutuários a elas, estando lastreadas em recursos próprios destas ou contabilizadas como prejuízo, observadas ainda as seguintes condições:</p>
+            <Inciso id="art28_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as operações tenham sido contratadas por intermédio de cooperativas de crédito rural central ou singular até 30 de junho de 2008;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as operações estivessem em situação de inadimplência em 22 de novembro de 2011;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a cooperativa não tenha recebido do agricultor e não seja avalista do título;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a cooperativa comprove que o título objeto da liquidação teve origem nas operações referidas neste artigo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Fica a União autorizada a assumir os ônus decorrentes das disposições deste artigo com recursos destinados à equalização de encargos financeiros das operações efetuadas no âmbito do Pronaf, com risco da União ou desoneradas de risco pela União.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As operações serão atualizadas pelos encargos de normalidade e corrigidas por juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, a partir do débito praticado pela instituição financeira oficial, limitado o rebate ao valor descrito no caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os recursos referentes ao rebate de que trata o caput deste artigo serão repassados pelo Tesouro Nacional às cooperativas segundo o disposto em regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A cooperativa de crédito terá o prazo de noventa dias, a contar da publicação desta Lei, para requerer o rebate perante a Secretaria do Tesouro Nacional (STN), mediante comprovação do enquadramento de que tratam os incisos I, II, III, IV e V do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A cooperativa de crédito rural terá o prazo de trinta dias, a contar do recebimento do recurso, para comprovar a quitação da dívida do agricultor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>Fica autorizada a adoção das seguintes medidas de estímulo à liquidação de dívidas de operações efetuadas ao amparo do Programa de Cooperação Nipo-Brasileira para o Desenvolvimento dos Cerrados (Prodecer) - Fase III, cujo risco parcial ou integral seja do Tesouro Nacional, do Fundo Constitucional de Financiamento do Nordeste (FNE) e do Banco do Nordeste do Brasil S.A.:</p>
+            <Inciso id="art29_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:2016-09-28;13340!art1--><!--Link: urn:lex:br:federal:lei:1995-11-29;9138!art5_par6-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>ajuste do saldo devedor para a data da liquidação, observado o disposto nos §§ lº e 2° do <span xlink:href="urn:lex:br:federal:lei:2016-09-28;13340!art1">art. 1º da Lei nº 13.340, de 28 de setembro de 2016</span>, excluídas as operações contratadas ao amparo do <span xlink:href="urn:lex:br:federal:lei:1995-11-29;9138!art5_par6">§ 6° do art. 5° da Lei nº 9.138, de 29 de novembro de 1995</span>, e da Resolução n° 2.471 do Conselho Monetário Nacional (CMN), de 26 de fevereiro de 1998;</p>
+            
+          </Inciso><Inciso id="art29_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:1995-11-29;9138!art5_par6-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>observância, para as operações contratadas ao amparo do <span xlink:href="urn:lex:br:federal:lei:1995-11-29;9138!art5_par6">§ 6° do art. 5º da Lei n° 9.138, de 29 de novembro de 1995</span>, e da Resolução n° 2.471 do CMN, de 26 de fevereiro de 1998, das seguintes condições complementares:</p>
+            <Alinea id="art29_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p> o saldo devedor da operação renegociada será atualizado pelo Índice Geral de Preços do Mercado (IGP-M), desde a data da renegociação contratada, para o que será considerado como base de cálculo o valor contratado correspondente ao valor nominal dos Certificados do Tesouro Nacional (CTNs), emitidos na forma da Resolução n° 2.471 do CMN, de 26 de fevereiro de 1998;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o saldo devedor apurado na forma da alínea a deste inciso será acrescido dos juros contratuais calculados pro rata die entre o vencimento da parcela de juros anterior e a data de liquidação da operação;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>os CTNs serão atualizados pelo IGP-M, acrescidos de juros calculados à taxa efetiva de 12% a.a. (doze por cento ao ano), considerado o valor dos títulos na data da contratação da operação, correspondente a 10,367% (dez inteiros e trezentos e sessenta e sete milésimos por cento) do valor nominal da operação renegociada;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>o valor a ser considerado como saldo devedor atualizado, sobre o qual incidirá o percentual de rebate, corresponderá à diferença entre o saldo devedor calculado na forma definida na alínea a deste inciso, acrescido dos valores de que trata a alínea b deste inciso, e os valores dos CTNs, calculados na forma da alínea c deste inciso;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc2_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>nas operações contratadas com recursos e risco da União, o mutuário deverá fornecer à Secretaria do Tesouro Nacional do Ministério da Fazenda a autorização para cancelamento dos respectivos CTNs;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc2_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>nas operações contratadas com recursos e risco das instituições financeiras, do FNO ou do FNE, os CTNs seguirão os fluxos normais pactuados;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc2_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>no caso de operações com juros em atraso que ainda não tenham sido inscritas em dívida ativa da União, será acrescido ao saldo devedor para liquidação o estoque de juros vencidos, atualizados com base no IGP-M;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc2_ali8">
+            <!--Link: urn:lex:br:federal:lei:2002-04-25;10437!art2_cpt_inc1-->
+            
+            <Rotulo>h)</Rotulo>
+            <p>na atualização do saldo devedor da operação de que trata o caput deste artigo, não será aplicado o teto do IGP-M a que se refere o <span xlink:href="urn:lex:br:federal:lei:2002-04-25;10437!art2_cpt_inc1">inciso I do caput do art. 2° da Lei n° 10.437, de 25 de abril de 2002</span>;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art29_cpt_inc3">
+            <!--Link: urn:lex:br:federal:lei:2016-09-28;13340-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>concessão de rebate para liquidação, até 27 de dezembro de 2018, independentemente do valor originalmente contratado, a ser concedido sobre o valor consolidado da dívida atualizada na forma definida nos incisos I e II do caput deste artigo, conforme o caso, segundo o enquadramento em uma das faixas de valores indicadas no Anexo IV da <span xlink:href="urn:lex:br:federal:lei:2016-09-28;13340">Lei nº 13.340, de 28 de setembro de 2016</span>, devendo primeiro ser aplicado o correspondente desconto percentual e, em seguida, o respectivo desconto de valor fixo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art29_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Entende-se por valor consolidado da dívida de que trata o caput deste artigo o montante do débito atualizado até a data de liquidação.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A contratação pelo gestor financeiro do FNE de uma nova operação de crédito para a liquidação do saldo devedor das operações do Programa, deverá observar as seguintes condições:</p>
+            <Inciso id="art29_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>limite de crédito: até o valor suficiente para liquidação do saldo devedor das operações de que trata este artigo, apurado na forma dos incisos I, II e III do caput deste artigo, depois de aplicado o rebate de que trata o inciso III do caput deste artigo;</p>
+            
+          </Inciso><Inciso id="art29_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fonte de recursos: FNE;</p>
+            
+          </Inciso><Inciso id="art29_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>riscos da operação: os aplicados para operações contratadas com recursos do FNE na data da publicação desta Lei;</p>
+            
+          </Inciso><Inciso id="art29_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p> amortização da dívida: prestações anuais, iguais e sucessivas, fixado o vencimento da primeira parcela para 2021 e o vencimento da última parcela para 2030, estabelecido novo cronograma de amortização, sem a necessidade de estudo de capacidade de pagamento;</p>
+            
+          </Inciso><Inciso id="art29_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>encargos financeiros: taxa efetiva de juros de 3,5% a.a. (três inteiros e cinco décimos por cento ao ano);</p>
+            
+          </Inciso><Inciso id="art29_par2_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>amortização prévia de valor equivalente a 3% (três por cento) do saldo devedor atualizado, depois de aplicados os rebates de que trata o inciso III do caput deste artigo; e</p>
+            
+          </Inciso><Inciso id="art29_par2_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>garantias: as mesmas constituídas nas operações que serão liquidadas com a contratação do novo financiamento, exceto pelos Certificados do Tesouro Nacional que serão resgatados na forma do inciso II do caput deste artigo.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art29_par3">
+            <!--Link: urn:lex:br:federal:lei:2008-09-17;11775!art31--><!--Link: urn:lex:br:federal:lei:2016-09-28;13340!art1--><!--Link: urn:lex:br:federal:lei:2016-09-28;13340!art2-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As disposições deste artigo aplicam-se às operações contratadas com recursos do FNE, inclusive àquelas reclassificadas ao amparo do <span xlink:href="urn:lex:br:federal:lei:2008-09-17;11775!art31">art. 31 da Lei nº 11.775, de 17 de setembro de 2008</span>, em substituição às disposições contidas nos <span xlink:href="urn:lex:br:federal:lei:2016-09-28;13340!art1">arts. 1º</span> e <span xlink:href="urn:lex:br:federal:lei:2016-09-28;13340!art2">2° da Lei nº 13.340, de 28 de setembro de 2016</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Fica o FNE autorizado a assumir os custos decorrentes dos rebates de que trata este artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os custos decorrentes do ajuste dos saldos devedores previsto neste artigo serão assumidos:</p>
+            <Inciso id="art29_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo FNE, relativamente à parcela amparada em seus recursos;</p>
+            
+          </Inciso><Inciso id="art29_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pelo Banco do Nordeste do Brasil S.A., relativamente à parcela amparada em outras fontes de recursos.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art29_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>As disposições deste artigo não se aplicam às operações contratadas por mutuários que tenham comprovadamente cometido desvio de finalidade de crédito, exceto se a irregularidade tiver sido sanada previamente à liquidação da dívida.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>Aplicam-se às operações efetuadas ao amparo do Programa Especial de Crédito para a Reforma Agrária (Procera), repactuadas ou não, desconto de 95% (noventa e cinco por cento), em substituição aos bônus de adimplência contratuais.</p>
+            
+          </Caput><Paragrafo id="art30_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p> Os custos decorrentes dos benefícios concedidos nos termos deste artigo serão imputados aos Fundos Constitucionais de Financiamento e ao Tesouro Nacional, nas operações efetuadas com seus recursos, e ao Fundo Contábil do Procera, nos demais casos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>Fica autorizada a concessão de rebate para liquidação, até 31 de dezembro de 2018, das operações de crédito rural contratadas até 30 de dezembro de 2015 no âmbito do Pronaf, observadas as seguintes condições:</p>
+            <Inciso id="art31_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nas operações contratadas até 31 de dezembro de 2006, o rebate será de 80% (oitenta por cento);</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nas operações contratadas entre 1º de janeiro de 2007 e 31 de dezembro de 2011, o rebate será de 50% (cinquenta por cento);</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>nas operações contratadas entre 1º de janeiro de 2012 e 31 de dezembro de 2015, o rebate será de 40% (quarenta por cento).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art31_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O rebate para liquidação será concedido sobre os saldos devedores que se enquadrem nos termos deste artigo, atualizados a partir da data da contratação da operação original com base nos encargos contratuais de normalidade, excluídos os bônus, sem o cômputo de multa, mora ou quaisquer outros encargos por inadimplemento ou honorários advocatícios, mesmo que tenham sido incorporados ou pactuados por meio de aditivos contratuais ou escrituras públicas de confissão, de assunção e de repactuação de dívidas.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Tesouro Nacional assumirá as despesas com os bônus na conta da subvenção econômica ao crédito rural.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os agentes financeiros terão até 30 de abril de 2019 para apresentar ao Tesouro Nacional os dados das operações liquidadas.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O disposto no caput deste artigo não alcança operações contratadas nas áreas de abrangência da Superintendência do Desenvolvimento do Nordeste (Sudene) e da Superintendência do Desenvolvimento da Amazônia (Sudam).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>Fica autorizada a concessão de rebate para liquidação, até 31 de dezembro de 2018, das operações de crédito rural, incluídas as contratadas no âmbito do Pronaf entre 1º de janeiro de 2010 e 31 de dezembro de 2013 com o Banco do Nordeste do Brasil S.A. com recursos oriundos do FNE ou com recursos mistos do referido Fundo com outras fontes, relativas a empreendimentos de irrigação localizados na área de abrangência do Lago Sobradinho, que foram inadimplidas em decorrência dos efeitos de estiagem, observadas ainda as seguintes condições:</p>
+            <Inciso id="art32_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>operações com valor originalmente contratado de até R$ 100.000,00 (cem mil reais) em uma ou mais operações do mesmo mutuário;</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>rebate de 95% (noventa e cinco por cento) sobre o saldo devedor atualizado.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            <!--Link: urn:lex:br:federal:lei:2014-06-20;13001-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2014-06-20;13001">Lei nº 13.001, de 20 de junho de 2014</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2014-06-20;13001" id="art33_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2014-06-20;13001 -> MatchByBase(urn:lex:br:federal:lei:2014-06-20;13001,2014,Some((6,20)),Map(art17-3 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-3), art17-1_par1 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-1_par1), art17_cpt -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17_cpt), art17-3_cpt_inc2 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-3_cpt_inc2), art17-2_cpt -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-2_cpt), art17 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17), art17_cpt_inc1 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17_cpt_inc1), art17_cpt_inc3_ali2 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17_cpt_inc3_ali2), art17-3_cpt -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-3_cpt), art17_par3 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17_par3), art17-1 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-1), art17-1_cpt -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-1_cpt), art17_cpt_inc3 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17_cpt_inc3), art17-3_cpt_inc1 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-3_cpt_inc1), art17-2 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-2), art17_cpt_inc3_ali3 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17_cpt_inc3_ali3), art17-1_par2 -> PrefixMatch(URN(2014,Some((6,20)),,urn:lex:br:federal:lei:2014-06-20;13001),art17-1_par2)))))-->
+              <Artigo xlink:href="art17" id="art33_cpt_alt1_art17" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput xlink:href="art17_cpt" id="art33_cpt_alt1_art17_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-07-02;10696!art19-->
+            
+            
+            <p>Fica a Companhia Nacional de Abastecimento (Conab) autorizada a renegociar e a prorrogar até dezembro de 2022 as operações com Cédula de Produto Rural (CPR), na modalidade formação de estoque, no âmbito do Programa de Aquisição de Alimentos, instituído pelo <span xlink:href="urn:lex:br:federal:lei:2003-07-02;10696!art19">art. 19 da Lei nº 10.696, de 2 de julho de 2003</span>, contratadas entre 1º de janeiro de 2013 e 31 de dezembro de 2016, observadas as seguintes condições:</p>
+            <Inciso xlink:href="art17_cpt_inc1" id="art33_cpt_alt1_art17_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a renegociação das dívidas, vencidas e vincendas, renegociadas ou não, deverá ser requerida pelo mutuário e formalizada pela Conab até 29 de junho de 2018;</p>
+            
+          </Inciso><Omissis id="art33_cpt_alt1_art17_cpt_omi1"/><Inciso xlink:href="art17_cpt_inc3" id="art33_cpt_alt1_art17_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o pagamento do saldo devedor apurado na forma do inciso II do caput deste artigo poderá ser realizado à vista em uma única parcela ou dividido em até seis parcelas anuais, com dois anos de carência para quitação da primeira parcela, e as demais parcelas deverão ser quitadas nos anos subsequentes, mantidos os encargos originalmente contratados, e observadas as seguintes condições:</p>
+            <Omissis id="art33_cpt_alt1_art17_cpt_inc3_omi1"/><Alinea xlink:href="art17_cpt_inc3_ali2" id="art33_cpt_alt1_art17_cpt_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>para o caso de parcelamento, fica a Conab autorizada a conceder, para as operações contratadas na região da Sudene, rebate de 85% (oitenta e cinco por cento) sobre o saldo devedor atualizado e, para as operações contratadas nas demais regiões, fica autorizada a conceder rebate de 75% (setenta e cinco por cento) sobre o saldo devedor atualizado;</p>
+            
+          </Alinea><Alinea xlink:href="art17_cpt_inc3_ali3" id="art33_cpt_alt1_art17_cpt_inc3_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>no caso de pagamento à vista em parcela única no ato da renegociação, fica a Conab autorizada a conceder rebate de 90% (noventa por cento) sobre o saldo devedor apurado, para as operações contratadas na região Nordeste, e de 80% (oitenta por cento), para as operações contratadas nas demais regiões do País;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art33_cpt_alt1_art17_omi1"/><Paragrafo xlink:href="art17_par3" id="art33_cpt_alt1_art17_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A renegociação nos termos deste artigo não impede a contratação de novas operações no âmbito do programa, enquanto durar o parcelamento contratado na forma do inciso III do caput deste artigo.</p>
+            
+          </Paragrafo><Omissis id="art33_cpt_alt1_art17_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art17-1" id="art33_cpt_alt1_art17-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-A.</Rotulo>
+            
+            <Caput xlink:href="art17-1_cpt" id="art33_cpt_alt1_art17-1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-07-02;10696!art19-->
+            
+            
+            <p>Ficam remidas as dívidas referentes às operações efetuadas no âmbito do Programa de Aquisição de Alimentos, instituído pelo <span xlink:href="urn:lex:br:federal:lei:2003-07-02;10696!art19">art. 19 da Lei nº 10.696, de 2 de julho de 2003</span>, contratadas até 31 de dezembro de 2012 por meio de CPR, em todas as modalidades vigentes à época.</p>
+            
+          </Caput><Paragrafo xlink:href="art17-1_par1" id="art33_cpt_alt1_art17-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A remissão de que trata o caput deste artigo abrange o saldo devedor atualizado pelos encargos contratuais, expurgados valores relativos a multa, mora, quaisquer outros encargos por inadimplemento ou honorários advocatícios.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art17-1_par2" id="art33_cpt_alt1_art17-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não serão ressarcidos valores já pagos em renegociações amparadas pelo disposto no art. 17 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art17-2" id="art33_cpt_alt1_art17-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-B.</Rotulo>
+            
+            <Caput xlink:href="art17-2_cpt" id="art33_cpt_alt1_art17-2_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O valor das remissões de que trata o art. 17-A desta Lei será registrado contabilmente, no âmbito do Ministério do Desenvolvimento Social e da Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário, mediante baixa do haver contra variação patrimonial.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art17-3" id="art33_cpt_alt1_art17-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-C.</Rotulo>
+            
+            <Caput xlink:href="art17-3_cpt" id="art33_cpt_alt1_art17-3_cpt">
+            
+            
+            
+            <p>Fica a Conab autorizada a suspender a cobrança ou a requerer a suspensão da execução judicial das dívidas de que trata o art. 17-A desta Lei:</p>
+            <Inciso xlink:href="art17-3_cpt_inc1" id="art33_cpt_alt1_art17-3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a partir do momento em que o contratado requerer a remissão da dívida;</p>
+            
+          </Inciso><Inciso xlink:href="art17-3_cpt_inc2" id="art33_cpt_alt1_art17-3_cpt_inc2" fechaAspas="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>por sua iniciativa, na impossibilidade de o contratado fazê-lo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            <!--Link: urn:lex:br:federal:lei:1992-05-27;8427-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1992-05-27;8427">Lei nº 8.427, de 27 de maio de 1992</span>, passa a vigorar acrescido do seguinte art. 4º-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1992-05-27;8427" id="art34_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1992-05-27;8427 -> MatchByBase(urn:lex:br:federal:lei:1992-05-27;8427,1992,Some((5,27)),Map(art4-1 -> PrefixMatch(URN(1992,Some((5,27)),,urn:lex:br:federal:lei:1992-05-27;8427),art4-1), art4-1_cpt -> PrefixMatch(URN(1992,Some((5,27)),,urn:lex:br:federal:lei:1992-05-27;8427),art4-1_cpt)))))-->
+              <Artigo xlink:href="art4-1" id="art34_cpt_alt1_art4-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º-A.</Rotulo>
+            
+            <Caput xlink:href="art4-1_cpt" id="art34_cpt_alt1_art4-1_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei.complementar:2009-04-17;130!art15-->
+            
+            
+            <p>As confederações de cooperativas de crédito constituídas na forma definida no <span xlink:href="urn:lex:br:federal:lei.complementar:2009-04-17;130!art15">art. 15 da Lei Complementar nº 130, de 17 de abril de 2009</span>, desde que autorizadas a funcionar pelo Banco Central do Brasil, são equiparadas aos bancos cooperativos para os efeitos de que tratam os arts. 1º e 4º desta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            <!--Link: urn:lex:br:federal:lei:2004-12-30;11076!art23_par2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2004-12-30;11076!art23_par2">§ 2º do art. 23 da Lei nº 11.076, de 30 de dezembro de 2004</span>, passa a vigorar acrescida do seguinte art. 4º-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2004-12-30;11076" id="art35_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2004-12-30;11076 -> MatchByBase(urn:lex:br:federal:lei:2004-12-30;11076,2004,Some((12,30)),Map(par2 -> SuffixMatch(URN(2004,Some((12,30)),art23_par2,urn:lex:br:federal:lei:2004-12-30;11076!art23_par2),par2)))))-->
+              <p>“Art. 23.</p><Omissis id="art35_cpt_alt1_omi1"/><Paragrafo xlink:href="art23_par2" id="art35_cpt_alt1_art23_par2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2009-04-17;130-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os bancos cooperativos, as confederações de cooperativas de crédito e as cooperativas centrais de crédito integrantes de sistemas cooperativos de crédito constituídos nos termos da <span xlink:href="urn:lex:br:federal:lei.complementar:2009-04-17;130">Lei Complementar nº 130, de 17 de abril de 2009</span>, podem utilizar, como lastro de LCA de sua emissão, título de crédito representativo de repasse interfinanceiro realizado em favor de cooperativa singular de crédito do sistema, quando a totalidade dos recursos se destinar a apenas uma operação de crédito rural, observado que:</p>
+            
+          </Paragrafo><Omissis id="art35_cpt_alt1_omi2" fechaAspas="s" notaAlteracao="NR"/>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>É permitida a renegociação de dívidas de operações de crédito rural de custeio e investimento contratadas até 31 de dezembro de 2016, lastreadas com recursos controlados do crédito rural, inclusive aquelas prorrogadas por autorização do CMN, contratadas por produtores rurais e por suas cooperativas de produção agropecuária em Municípios da área de atuação da Sudene e do Estado do Espírito Santo, observadas as seguintes condições:</p>
+            <Inciso id="art36_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os saldos devedores serão apurados com base nos encargos contratuais de normalidade, excluídos os bônus, rebates e descontos, sem o cômputo de multa, mora ou quaisquer outros encargos por inadimplemento, honorários advocatícios ou ressarcimento de custas processuais;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o reembolso deverá ser efetuado em prestações iguais e sucessivas, fixado o vencimento da primeira parcela para 2020 e o vencimento da última parcela para 2030, mantida a periodicidade da operação renegociada, sem a necessidade de estudo de capacidade de pagamento;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os encargos financeiros serão os mesmos pactuados na operação original;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a amortização mínima em percentual a ser aplicado sobre o saldo devedor vencido apurado na forma do inciso I do caput deste artigo será de:</p>
+            <Alinea id="art36_cpt_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>2% (dois por cento) para as operações de custeio agropecuário;</p>
+            
+          </Alinea><Alinea id="art36_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>10% (dez por cento) para as operações de investimento;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art36_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o prazo de adesão será de até cento e oitenta dias, contado da data do regulamento de que trata o § 7º deste artigo;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o prazo de formalização da renegociação será de até cento e oitenta dias após a adesão de que trata o inciso IV do caput deste artigo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art36_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As disposições de que trata este artigo aplicam-se aos financiamentos contratados com:</p>
+            <Inciso id="art36_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>equalização de encargos financeiros pelo Tesouro Nacional, desde que as operações sejam previamente reclassificadas pela instituição financeira para recursos obrigatórios ou outra fonte não equalizável, admitida, a critério da instituição financeira, a substituição de aditivo contratual por “carimbo texto” para formalização da renegociação;</p>
+            
+          </Inciso><Inciso id="art36_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>recursos do FNE, admitida, a critério da instituição financeira, a substituição de aditivo contratual por “carimbo texto” para formalização da renegociação.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art36_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O enquadramento no disposto neste artigo fica condicionado à demonstração da ocorrência de prejuízo no empreendimento rural em decorrência de fatores climáticos, salvo no caso de municípios em que foi decretado estado de emergência ou de calamidade pública reconhecido pelo Governo Federal, após a contratação da operação e até a publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art36_par3">
+            <!--Link: urn:lex:br:federal:lei:2006-07-24;11326-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No caso de operações contratadas por miniprodutores rurais e pequenos produtores rurais, inclusive aquelas contratadas por produtores amparados pela <span xlink:href="urn:lex:br:federal:lei:2006-07-24;11326">Lei nº 11.326, de 24 de julho de 2006</span>, a demonstração de ocorrência de prejuízo descrito no § 2º deste artigo poderá ser comprovada por meio de laudo grupal ou coletivo.</p>
+            
+          </Paragrafo><Paragrafo id="art36_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As operações de custeio rural que tenham sido objeto de cobertura parcial das perdas pelo Programa de Garantia da Atividade Agropecuária (Proagro), ou por outra modalidade de seguro rural, somente podem ser renegociadas mediante a exclusão do valor referente à indenização recebida pelo beneficiário, considerada a receita obtida.</p>
+            
+          </Paragrafo><Paragrafo id="art36_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Não podem ser objeto da renegociação de que trata este artigo:</p>
+            <Inciso id="art36_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as operações cujo empreendimento financiado tenha sido conduzido sem a aplicação de tecnologia recomendada, incluindo inobservância do Zoneamento Agrícola de Risco Climático (ZARC) e do calendário agrícola para plantio da lavoura;</p>
+            
+          </Inciso><Inciso id="art36_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as operações contratadas por mutuários que tenham comprovadamente cometido desvio de crédito, exceto se a irregularidade tiver sido sanada previamente à renegociação da dívida;</p>
+            
+          </Inciso><Inciso id="art36_par5_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as operações contratadas por grandes produtores nos Municípios pertencentes à região do Matopiba, conforme definição do Ministério da Agricultura, Pecuária e Abastecimento, exceto naqueles em que foi decretado estado de emergência ou de calamidade pública reconhecido pelo Governo Federal, após a contratação da operação e até a publicação desta Lei.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art36_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Nos Municípios em que foi decretado estado de emergência ou de calamidade pública após 1º de janeiro de 2016 reconhecido pelo Governo Federal, fica dispensada a amortização mínima estabelecida no inciso IV do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art36_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O CMN regulamentará as disposições deste artigo, no que couber, no prazo de trinta dias, incluindo condições alternativas para renegociação das operações de que trata o inciso III do § 5º deste artigo, exceto quanto às operações com recursos do FNE, nas quais caberá ao gestor dos recursos implementar as disposições deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>Admite-se a reclassificação para o âmbito exclusivo do FNE das operações de crédito rural contratadas com recursos mistos do fundo com outras fontes, observadas as seguintes condições:</p>
+            <Inciso id="art37_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a reclassificação da operação para FNE não caracteriza novação da dívida, considerando-se a nova operação uma continuidade da operação renegociada;</p>
+            
+          </Inciso><Inciso id="art37_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a nova operação de que trata este artigo ficará sob risco compartilhado na proporção de 50% (cinquenta por cento) para o agente financeiro e 50% (cinquenta por cento) para o FNE;</p>
+            
+          </Inciso><Inciso id="art37_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o saldo devedor da operação a ser reclassificada será atualizado nas condições de normalidade e, se for o caso, em condições mais adequadas a serem acordadas entre o agente financeiro e o respectivo mutuário;</p>
+            
+          </Inciso><Inciso id="art37_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as operações reclassificadas terão, a partir da data da reclassificação, os encargos financeiros das operações de crédito rural do FNE, definidos em função da classificação atual do produtor rural;</p>
+            
+          </Inciso><Inciso id="art37_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>aplicam-se às operações reclassificadas, cuja contratação original ocorreu até 31 de dezembro de 2016, as condições estabelecidas no art. 36 desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art5_cpt_inc2--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art14--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6-->
+            
+            
+            <p>O Poder Executivo federal, com vistas ao cumprimento do disposto no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art5_cpt_inc2">inciso II do caput do art. 5º</span> e no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art14">art. 14 da Lei Complementar nº 101, de 4 de maio de 2000</span> (Lei de Responsabilidade Fiscal), estimará o montante da renúncia fiscal e dos custos decorrentes do disposto no inciso II do caput do art. 2º, no inciso II do caput do art. 3º, e nos arts. 14, 15, 18, 19, de 20 a 24, de 26 a 28, de 30 a 33 e 36 desta Lei, os incluirá no demonstrativo que acompanhar o projeto de lei orçamentária anual, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6">§ 6º do art. 165 da Constituição Federal</span>, e fará constar das propostas orçamentárias subsequentes os valores relativos à referida renúncia.</p>
+            
+          </Caput><Paragrafo id="art38_par1u">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art12-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os benefícios constantes do inciso II do caput do art. 2º, do inciso II do caput do art. 3º e dos arts. 14, 15, 18, 19, de 20 a 24, de 26 a 28, de 30 a 33 e 36 desta Lei somente serão concedidos se atendido o disposto no caput deste artigo, inclusive com a demonstração pelo Poder Executivo federal de que a renúncia foi considerada na estimativa de receita da lei orçamentária anual, na forma estabelecida no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art12">art. 12 da Lei Complementar nº 101, de 4 de maio de 2000</span> (Lei de Responsabilidade Fiscal), e de que não afetará as metas de resultados fiscais previstas no anexo próprio da lei de diretrizes orçamentárias.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>Para fins do disposto nos arts. 8º e 9º desta Lei, ficam reduzidas a zero as alíquotas do imposto de renda, da CSLL, da Contribuição para o PIS/Pasep e da Contribuição para Financiamento da Seguridade Social (Cofins) incidentes sobre a receita auferida pelo cedente com a cessão de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL para pessoas jurídicas controladas, controladoras ou coligadas.</p>
+            
+          </Caput><Paragrafo id="art39_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos termos do caput deste artigo, ficam também reduzidas a zero as alíquotas do imposto de renda, da CSLL, da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a receita auferida pela cessionária na hipótese dos créditos cedidos com deságio.</p>
+            
+          </Paragrafo><Paragrafo id="art39_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não será computada na apuração da base de cálculo do imposto de renda, da CSLL, da Contribuição para o PIS/Pasep e da Cofins a parcela equivalente à redução do valor das multas, juros e encargo legal.</p>
+            
+          </Paragrafo><Paragrafo id="art39_par3">
+            <!--Link: urn:lex:br:federal:decreto.lei:1977-12-26;1598!art38_par2_ali1-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A variação patrimonial positiva decorrente da aplicação do disposto neste artigo será creditada à Reserva de Capital, na forma da <span xlink:href="urn:lex:br:federal:decreto.lei:1977-12-26;1598!art38_par2_ali1">alínea a do § 2º do art. 38 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação e produzirá efeitos:</p>
+            <Inciso id="art40_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art25_par13--><!--Link: urn:lex:br:federal:lei:1994-04-15;8870!art25_par7-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>a partir de 1º de janeiro de 2018, quanto ao disposto nos arts. 14 e 15, exceto o <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art25_par13">§ 13 do art. 25 da Lei nº 8.212, de 24 de julho de 1991</span>, incluído pelo art. 14 desta Lei, e o <span xlink:href="urn:lex:br:federal:lei:1994-04-15;8870!art25_par7">§ 7º do art. 25 da Lei nº 8.870, de 15 de abril de 1994</span>, incluído pelo art. 15 desta Lei, que produzirão efeitos a partir de 1º de janeiro de 2019; e</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a partir da data de sua publicação, quanto aos demais dispositivos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

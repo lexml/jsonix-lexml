@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;48@data.evento;leitura;2018-02-20t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 48 DE 2018</Epigrafe>
+      <Ementa id="ementa">Acresce o artigo 41-A na <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), para definir novas hipóteses de práticas abusivas através de telemarketing ativo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span>, passa a vigorar acrescido do seguinte art.41-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-11;8078" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-11;8078 -> MatchByBase(urn:lex:br:federal:lei:1990-09-11;8078,1990,Some((9,11)),Map(art41-1 -> PrefixMatch(URN(1990,Some((9,11)),,urn:lex:br:federal:lei:1990-09-11;8078),art41-1), art41-1_cpt -> PrefixMatch(URN(1990,Some((9,11)),,urn:lex:br:federal:lei:1990-09-11;8078),art41-1_cpt), art41-1_par1 -> PrefixMatch(URN(1990,Some((9,11)),,urn:lex:br:federal:lei:1990-09-11;8078),art41-1_par1)))))-->
+              <Artigo xlink:href="art41-1" id="art1_cpt_alt1_art41-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 41-A.</Rotulo>
+            
+            <Caput xlink:href="art41-1_cpt" id="art1_cpt_alt1_art41-1_cpt">
+            
+            
+            
+            <p>Considera-se abusivo o telemarketing ativo que não observar as regras a seguir estipuladas: é obrigação dos fornecedores a observância dos horários para realizações das ligações entre dez horas e dezenove horas de segunda-feira a sexta, e de dez horas as treze horas de sábado; é obrigação dos fornecedores a disponibilização de canal direto e facilitado, por meio telefônico e a custo de ligação local, com o consumidor para retirada ou inserção da manifestação de interesse nos produtos ou nos serviços oferecidos pelas empresas; é dever dos fornecedores, quando em contato com o consumidor, a imediata identificação do operador do telemarketing, do nome fantasia da empresa que este representa, a apresentação do número telefônico de contato no caso de retorno, momento que deverá ser aferido a vontade do consumidor no prosseguimento do atendimento sendo vedada a utilização de pretexto de pesquisa, sorteio ou serviço similar, quando o verdadeiro objetivo for à venda; é dever dos fornecedores, quando em contato telefônico com o consumidor, seja em chamada com voz presencial, gravada, mecanizada ou digital, a disponibilização de tecla interruptiva da mesma e que retira o contato do consumidor do cadastro do telemarketing da empresa pelo período de 6 (seis) meses, prazo no qual o contato será vedado, salvo o quanto disposto no inciso II; não é permitido a realização de telemarketing ativo através de números telefônicos que não possam receber chamadas de retorno; não é permitido aos fornecedores a realização, por meio eletrônico ou telefônico, de contato com consumidor para oferecer produtos ou serviços por este cancelado, pelo prazo de 12 (doze) meses após o encerramento do contrato, salvo se o consumidor consentir com a disponibilização de seus dados e contatos no cadastro conforme inciso II; é proibido a reiteração da mesma oferta de produto ou serviços, seja por meio de contato telefônico, com o consumidor que tenha recusado a oferta de produto ou serviço, salvo o quanto disposto no inciso II; é proibido ultrapassar três chamadas telefônicas para um mesmo consumidor no mesmo dia, vedada a prática de chamadas aleatórias ou para números sequenciais.</p>
+            
+          </Caput><Paragrafo xlink:href="art41-1_par1u" id="art1_cpt_alt1_art41-1_par1u" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art57-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>: A inobservância dos fornecedores faz incidir o quanto disposto no <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art57">art.57 da Lei nº 8.078, de 11 de setembro de 1990</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p> Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;215@data.evento;leitura;2018-05-02t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 215 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9249!art10">art. 10 da Lei nº 9.249, de 26 de dezembro de 1995</span>, para prever a incidência do Imposto sobre a Renda Retido na Fonte sobre os lucros e dividendos pagos, creditados, entregues, empregados ou remetidos a beneficiário, pessoa física ou jurídica, residente ou domiciliado no exterior.</Ementa>
+      <Preambulo id="preambulo"><p>O Congresso Nacional decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-12-26;9249!art10-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9249!art10">art. 10 da Lei nº 9.249, de 26 de dezembro de 1995</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-12-26;9249" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-12-26;9249 -> MatchByBase(urn:lex:br:federal:lei:1995-12-26;9249,1995,Some((12,26)),Map(art10 -> ExactMatch(URN(1995,Some((12,26)),art10,urn:lex:br:federal:lei:1995-12-26;9249!art10)), art10_cpt -> PrefixMatch(URN(1995,Some((12,26)),art10,urn:lex:br:federal:lei:1995-12-26;9249!art10),art10_cpt), art10_par4 -> PrefixMatch(URN(1995,Some((12,26)),art10,urn:lex:br:federal:lei:1995-12-26;9249!art10),art10_par4), art10_par5 -> PrefixMatch(URN(1995,Some((12,26)),art10,urn:lex:br:federal:lei:1995-12-26;9249!art10),art10_par5)))))-->
+              <Artigo xlink:href="art10" id="art1_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art1_cpt_alt1_art10_cpt">
+            
+            
+            
+            <p>Os lucros ou dividendos distribuídos com base nos resultados apurados a partir do mês de janeiro de 2019, pagos, creditados, remetidos, empregados ou entregues pelas pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado, a beneficiário, pessoa física ou jurídica, residente ou domiciliado no País, não ficarão sujeitos à incidência do Imposto sobre a Renda Retido na Fonte (IRRF), nem integrarão a base de cálculo do Imposto sobre a Renda do beneficiário.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art10_omi1"/><Paragrafo xlink:href="art10_par4" id="art1_cpt_alt1_art10_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A não incidência prevista no caput deste artigo estender-se-á aos lucros e dividendos pagos, creditados, remetidos, empregados ou entregues a pessoa física ou jurídica, residente ou domiciliada no exterior se o país ou dependência de residência ou domicílio do beneficiário conceder ao Brasil reciprocidade de tratamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art10_par5" id="art1_cpt_alt1_art10_par5" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1996-12-27;9430!art24--><!--Link: urn:lex:br:federal:lei:1996-12-27;9430!art24-1--><!--Link: urn:lex:br:federal:lei:1999-01-19;9779!art8-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Ausente a reciprocidade de que trata o § 4º deste artigo, os lucros e dividendos pagos, creditados, remetidos, empregados ou entregues sujeitar-se-ão à incidência do IRRF à alíquota de 15% (quinze por cento), salvo se o beneficiário for residente ou domiciliado em país ou dependência com tributação favorecida ou gozar de regime fiscal privilegiado, nos termos dos <span xlink:href="urn:lex:br:federal:lei:1996-12-27;9430!art24">arts. 24</span> e <span xlink:href="urn:lex:br:federal:lei:1996-12-27;9430!art24-1">24-A da Lei nº 9.430, de 27 de dezembro de 1996</span>, caso em que o IRRF será calculado à alíquota prevista no <span xlink:href="urn:lex:br:federal:lei:1999-01-19;9779!art8">art. 8º da Lei nº 9.779, de 19 de janeiro de 1999</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor no primeiro dia do ano seguinte ao de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

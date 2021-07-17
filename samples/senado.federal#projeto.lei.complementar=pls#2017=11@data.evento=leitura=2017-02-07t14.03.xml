@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;11@data.evento;leitura;2017-02-07t14.03"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 11 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acresce § 2º ao <span xlink:href="urn:lex:br:federal:lei:1966-10-25;5172!art204">art. 204 da Lei nº 5.172, de 25 de outubro de 1966</span> – Código Tributário Nacional, para vedar o registro de créditos inscritos em Dívida Ativa da União, dos Estados, do Distrito Federal e dos Municípios em cadastros de inadimplentes mantidos por entidades privadas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1966-10-25;5172!art204-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1966-10-25;5172!art204">art. 204 da Lei nº 5.172, de 25 de outubro de 1966</span> – Código Tributário Nacional, passa a vigorar acrescido do seguinte § 2º, renumerando-se o atual parágrafo único como § 1º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1966-10-25;5172" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1966-10-25;5172 -> MatchByBase(urn:lex:br:federal:lei:1966-10-25;5172,1966,Some((10,25)),Map(art204 -> ExactMatch(URN(1966,Some((10,25)),art204,urn:lex:br:federal:lei:1966-10-25;5172!art204)), art204_cpt -> PrefixMatch(URN(1966,Some((10,25)),art204,urn:lex:br:federal:lei:1966-10-25;5172!art204),art204_cpt), art204_par2 -> PrefixMatch(URN(1966,Some((10,25)),art204,urn:lex:br:federal:lei:1966-10-25;5172!art204),art204_par2)))))-->
+              <Artigo xlink:href="art204" id="art1_cpt_alt1_art204" abreAspas="s">
+            
+            
+            <Rotulo>Art. 204.</Rotulo>
+            
+            <Caput xlink:href="art204_cpt" id="art1_cpt_alt1_art204_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art204_omi1"/><Paragrafo xlink:href="art204_par2" id="art1_cpt_alt1_art204_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedado o registro de créditos inscritos em Dívida Ativa da União, dos Estados, do Distrito Federal e dos Municípios em cadastros de inadimplentes mantidos por entidades privadas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

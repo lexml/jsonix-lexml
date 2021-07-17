@@ -1,0 +1,139 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;140@data.evento;leitura;2017-05-09t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 140 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080">Lei n° 8.080, de 19 de setembro de 1990</span>, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências, a fim de determinar celeridade e transparência na realização de procedimentos no âmbito do Sistema Único de Saúde (SUS).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art15-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art15">art. 15 da Lei n° 8.080, de 19 de setembro de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-19;8080" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-19;8080 -> MatchByBase(urn:lex:br:federal:lei:1990-09-19;8080,1990,Some((9,19)),Map(art15 -> ExactMatch(URN(1990,Some((9,19)),art15,urn:lex:br:federal:lei:1990-09-19;8080!art15)), art15_cpt -> PrefixMatch(URN(1990,Some((9,19)),art15,urn:lex:br:federal:lei:1990-09-19;8080!art15),art15_cpt), art15_cpt_inc22 -> PrefixMatch(URN(1990,Some((9,19)),art15,urn:lex:br:federal:lei:1990-09-19;8080!art15),art15_cpt_inc22)))))-->
+              <Artigo xlink:href="art15" id="art1_cpt_alt1_art15" abreAspas="s">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput xlink:href="art15_cpt" id="art1_cpt_alt1_art15_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art15_cpt_omi1"/><Inciso xlink:href="art15_cpt_inc22" id="art1_cpt_alt1_art15_cpt_inc22" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>implementar ações que garantam celeridade e transparência na realização de procedimentos no âmbito do SUS.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O paciente com indicação de procedimento a ser realizado no âmbito do Sistema Único de Saúde (SUS) receberá no ato ou por meio inequívoco no prazo máximo de cinco dias, protocolo de encaminhamento contendo a data e o local de realização do procedimento.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para os efeitos desta Lei, consideram-se procedimentos todos aqueles oferecidos pelo SUS, inclusive as ações de promoção e prevenção em saúde, os procedimentos clínicos ou cirúrgicos e os procedimentos com finalidade diagnóstica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Serão estabelecidos prazos máximos para a realização de procedimentos no âmbito do SUS.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A publicidade das filas de espera de pacientes que aguardam a realização de procedimentos será assegurada mediante sua divulgação em sítio eletrônico e em canais de atendimento telefônico ou presencial, respeitados o sigilo médico e a intimidade da pessoa.</p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na hipótese de necessidade devidamente fundamentada de alterar a ordem da fila, o paciente será comunicado com antecedência e será dada publicidade à alteração no sítio eletrônico mencionado no caput.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            <!--Link: urn:lex:br:federal:lei:1992-06-02;8429!art11-->
+            
+            
+            <p>Constituem atos de improbidade administrativa, nos termos do <span xlink:href="urn:lex:br:federal:lei:1992-06-02;8429!art11">art. 11 da Lei nº 8.429, de 2 de junho de 1992</span>:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>deixar de elaborar e fornecer ao usuário do SUS os documentos e informações previstos no art. 2° desta Lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>deixar de elaborar, atualizar e publicar semanalmente, a lista ou a ordem dos pacientes que aguardam a realização de procedimentos no âmbito do SUS;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>adulterar ou fraudar a lista ou a ordem dos pacientes que aguardam a realização de procedimentos no âmbito do SUS.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

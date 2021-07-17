@@ -1,0 +1,64 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.decreto.legislativo;pds:2017;180"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE DECRETO LEGISLATIVO (SF) Nº 180 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a convocação de referendo revogatório (i) do processo de privatização da empresa CENTRAIS ELÉTRICAS BRASILEIRAS S.A. – ELETROBRAS, da Casa da Moeda do Brasil das empresas subsidiárias da PETRÓLEO BRASILEIRO S.A. – PETROBRAS; e (ii) do <span xlink:href="urn:lex:br:federal:decreto:2017-08-28;9147">Decreto 9.147, de 28 de agosto de 2017</span>, que “extingue a Reserva Nacional do Cobre e Seus Associados – Renca”</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto:2017-08-28;9147-->
+            
+            
+            <p>Fica convocado plebiscito, de âmbito nacional, a ser realizado simultânea e conjuntamente às primeiras eleições que se seguirem à aprovação do presente Decreto Legislativo, para consultar a população brasileira sobre sua aprovação ou não: do processo de privatização da empresa CENTRAIS ELÉTRICAS BRASILEIRAS S.A. – ELETROBRAS; do processo de privatização da Casa da Moeda do Brasil; do processo de privatização das empresas subsidiárias da PETRÓLEO BRASILEIRO S.A. – PETROBRAS; e do <span xlink:href="urn:lex:br:federal:decreto:2017-08-28;9147">Decreto 9.147, de 28 de agosto de 2017</span>, que “extingue a Reserva Nacional do Cobre e Seus Associados – Renca”.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O resultado do referendo será homologado pelo Tribunal Superior Eleitoral, encaminhado ao Congresso Nacional e terá efeito vinculante para a validade jurídica dos atos relativos às matérias de que trata o art. 1º.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Tribunal Superior Eleitoral expedirá as normas regulamentadoras necessárias à realização do referendo de que trata este Decreto Legislativo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Este Decreto Legislativo entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

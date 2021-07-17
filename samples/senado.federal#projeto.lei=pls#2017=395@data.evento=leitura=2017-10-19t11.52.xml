@@ -1,0 +1,742 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;395@data.evento;leitura;2017-10-19t11.52"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 395 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a compensação financeira entre os Regimes Próprios de Previdência dos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-05-05;9796-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1999-05-05;9796">Lei nº 9.796, de 5 de maio de 1999</span>, passa a vigorar acrescida do seguinte artigo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1999-05-05;9796" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1999-05-05;9796 -> MatchByBase(urn:lex:br:federal:lei:1999-05-05;9796,1999,Some((5,5)),Map(art4-1_par4 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par4), art4-1_par9 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par9), art4-1_par10 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par10), par9 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),par9), art4-1 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1), art2 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art2), art4-1_par1 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par1), art4-1_par5 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par5), art2_cpt -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art2_cpt), art4-1_par12 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par12), art4-1_par6 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par6), art4-1_par2 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par2), art4-1_par8 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par8), art4-1_par3 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par3), art4-1_cpt -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_cpt), art4-1_par11 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par11), art4-1_par7 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),art4-1_par7), par8 -> PrefixMatch(URN(1999,Some((5,5)),,urn:lex:br:federal:lei:1999-05-05;9796),par8)))))-->
+              <Artigo xlink:href="art4-1" id="art1_cpt_alt1_art4-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º-A.</Rotulo>
+            
+            <Caput xlink:href="art4-1_cpt" id="art1_cpt_alt1_art4-1_cpt">
+            
+            
+            
+            <p>Os requerimentos de compensação financeira previdenciária, apresentados em atendimento ao que estabelecem os arts. 3º e 4º, deverão ser analisados e decididos, pelo regime de origem, no prazo máximo de 90 (noventa) dias, respeitada a ordem cronológica de ingresso.</p>
+            
+          </Caput><Paragrafo xlink:href="art4-1_par1" id="art1_cpt_alt1_art4-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Vencido o prazo estabelecido no caput, os requerimentos pendentes de análise serão considerados automaticamente homologados, devendo a compensação financeira ser paga ao regime instituidor a partir do mês seguinte, sob pena de multa de 75% (setenta e cinco por cento) do valor devido, acrescido da taxa referencial do Sistema Especial de Liquidação e Custódia (Selic).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par2" id="art1_cpt_alt1_art4-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para efeitos desta Lei, considera-se passivo de estoque como os valores, devidos pelo regime de origem ao regime instituidor, a título de compensação previdenciária referente ao período compreendido entre 5 outubro de 1988 a 5 de maio de 1999.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par3" id="art1_cpt_alt1_art4-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para fins de compensação financeira entre o regime geral de previdência social e os regimes próprios de previdência social da União, dos Estados, do Distrito Federal e dos Municípios, os regimes instituidores apresentarão aos regimes de origem os dados relativos aos benefícios em manutenção em 5 de maio de 1999 concedidos a partir de 5 de outubro de 1988, não se aplicando prazo prescricional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par4" id="art1_cpt_alt1_art4-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O valor do passivo de estoque será calculado pela multiplicação entre o valor pro rata mensal e pelo número de meses e dias existentes no período compreendido entre a Data de Início do Benefício (DIB) e a data de 5 de maio de 1999 ou, na data da cessação, atualizando-se o montante calculado pela taxa Selic desde essa data até a data de efetivo pagamento, a título de juros remuneratórios.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par5" id="art1_cpt_alt1_art4-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Para efeitos desta Lei, considera-se pro rata mensal o valor devido mensalmente pelo regime de origem ao regime instituidor, enquanto o benefício que deu origem à compensação for mantido.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par6" id="art1_cpt_alt1_art4-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Para efeitos desta Lei, considera-se passivo do fluxo os valores devidos pelo regime de origem ao regime instituidor, a título de compensação previdenciária, referente ao período compreendido entre 6 de maio de 1999, ou a data de início do benefício, até a data do primeiro pagamento da compensação previdenciária, ou até a data de cessação do benefício, conforme o caso, não se aplicando prazo prescricional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par7" id="art1_cpt_alt1_art4-1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Para cálculo do passivo do fluxo, a título de juros remuneratórios, aplica-se a taxa Selic ao pro rata mensal para cada período de dias contados a partir da data de concessão do benefício ou a partir de 6 de maio de 1999, caso a concessão tenha sido anterior, até a data do primeiro pagamento da compensação previdenciária, ou até a data da cessação do benefício que gerou a concessão, conforme o caso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par8" id="art1_cpt_alt1_art4-1_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Apenas as parcelas relativas ao fluxo de compensação, apuradas a partir da DIB, serão devidas aos benefícios concedidos a partir de 6 de maio de 1999.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par9" id="art1_cpt_alt1_art4-1_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>A União deverá recalcular no prazo de 90 (noventa) dias os valores pagos ou a pagar a título de passivo do fluxo e passivo de estoque, com base na taxa Selic, sob pena de crime de responsabilidade, devendo o regime de origem se responsabilizar pela complementação do valor devido.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par10" id="art1_cpt_alt1_art4-1_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A União e o regime instituidor poderão realizar encontro de contas, exclusivamente com dívida previdenciária do ente ao qual pertence o regime instituidor, em até 90 (noventa) dias após a apuração, utilizando-se a taxa Selic como referencial de atualização para ambos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par11" id="art1_cpt_alt1_art4-1_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>As transferências dos recursos da compensação previdenciária, por se tratar de ressarcimento de despesa, não se submetem a comprovações de regularidade fiscal e/ou previdenciária do ente e do regime instituidor do benefício perante a União, e não servirá como base de cálculo para a incidência de qualquer tributo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par12" id="art1_cpt_alt1_art4-1_par12">
+            <!--Link: urn:lex:br:federal:lei:1998-11-27;9717-->
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Caso o limite máximo de meta atuarial de que trata a <span xlink:href="urn:lex:br:federal:lei:1998-11-27;9717">Lei nº 9.717, de 27 de novembro de 1998</span>, seja superior à taxa Selic, será ele o substituto dessa taxa para efeito de cálculo do índice de juro remuneratório de que trata este artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art2" id="art1_cpt_alt1_art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-11-25;9715!art2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-11-25;9715!art2">art. 2º da Lei nº 9.715, de 25 de novembro de 1998</span>, passa a vigorar com o acréscimo dos seguintes §§ 8º e 9º:</p>
+            
+          </Caput>
+          </Artigo><p>“Art.2º..........................................................................................................</p><Omissis id="art1_cpt_alt1_omi1"/><Paragrafo xlink:href="par8" id="art1_cpt_alt1_par8">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art40--><!--Link: urn:lex:br:federal:lei:1999-05-05;9796-->
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Não se incluem na base de cálculo da contribuição para o PIS/PASEP os valores destinados ao pagamento dos benefícios do regime de previdência referido no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art40">artigo 40 da Constituição</span> da República, decorrentes das contribuições previdenciárias, do resultado da aplicação de seus recursos, do recebimento da compensação financeira disciplinada pela <span xlink:href="urn:lex:br:federal:lei:1999-05-05;9796">Lei nº 9.796, de 5 de maio de 1999</span>, e de outros aportes com finalidade previdenciária recebidos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par9" id="art1_cpt_alt1_par9" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Aplica-se o disposto no § 8º a partir da entrada em vigor da <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-11-27;9717-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1998-11-27;9717">Lei nº 9.717, de 27 de novembro de 1998</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-11-27;9717" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-11-27;9717 -> MatchByBase(urn:lex:br:federal:lei:1998-11-27;9717,1998,Some((11,27)),Map(art7_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par3), art8-2_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-2_par1), art8_par1_inc1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par1_inc1), art4-1_cpt_inc3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_cpt_inc3), art1-2_cpt_inc4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2_cpt_inc4), art2_par7 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par7), art1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1), art3_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art3_cpt), art3-1_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art3-1_par1), art3-1_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art3-1_cpt), art9_cpt_inc4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_cpt_inc4), art6_cpt_inc5 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art6_cpt_inc5), art6_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art6_par3), art8_par1_inc4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par1_inc4), art9_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_par2), art1_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1_cpt), art8_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par2), art2_par8 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par8), art1_cpt_inc3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1_cpt_inc3), art8_par1_inc2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par1_inc2), art6_cpt_inc4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art6_cpt_inc4), art1_cpt_inc2_ali4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1_cpt_inc2_ali4), art2_par9 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par9), art2_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par3), art8 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8), art6_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art6_par1), art1-2_cpt_inc1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2_cpt_inc1), art4-1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1), art9_cpt_inc3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_cpt_inc3), art7 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7), art6_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art6_par2), art2_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par1), art7_par1_inc2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par1_inc2), art4-1_cpt_inc4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_cpt_inc4), art2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2), art1_cpt_inc2_ali1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1_cpt_inc2_ali1), art3-1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art3-1), art1-2_cpt_inc3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2_cpt_inc3), art9_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_par1), art4-1_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_par1), art8-1_par4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-1_par4), art2_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par2), art1_cpt_inc2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1_cpt_inc2), art8-2_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-2_cpt), art7_par1_inc3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par1_inc3), art7_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par2), art8-1_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-1_par1), art8_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par1), art2_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_cpt), art1-2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2), art6 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art6), art9_cpt_inc2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_cpt_inc2), art8-1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-1), art8_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_cpt), art8-2_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-2_par3), art2_par11 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par11), art8_par4_inc2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par4_inc2), art3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art3), art1_cpt_inc2_ali2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1_cpt_inc2_ali2), art7_par1_inc1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par1_inc1), art8-1_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-1_par2), art8_par4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par4), art8-1_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-1_cpt), art3-1_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art3-1_par3), art4-1_cpt_inc1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_cpt_inc1), art1-2_cpt_inc6 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2_cpt_inc6), art9_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_cpt), art4-1_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_par2), art2_par6 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par6), art7_par5 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par5), art1_cpt_inc2_ali3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1_cpt_inc2_ali3), art2_par5 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par5), art2_par12 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par12), art8-2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-2), art7_par1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par1), art3-1_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art3-1_par2), art4-1_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_cpt), art8-1_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-1_par3), art8-2_par2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8-2_par2), art8_par4_inc1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par4_inc1), art1-2_cpt_inc5 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2_cpt_inc5), art2_par10 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par10), art9_par4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_par4), art1-2_cpt_inc2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2_cpt_inc2), art8_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par3), art4-1_cpt_inc2 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_cpt_inc2), art1-2_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art1-2_cpt), art9_par3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_par3), art6_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art6_cpt), art9 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9), art7_cpt -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_cpt), art9_cpt_inc1 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art9_cpt_inc1), art4-1_cpt_inc5 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art4-1_cpt_inc5), art2_par4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art2_par4), art8_par1_inc3 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art8_par1_inc3), art7_par4 -> PrefixMatch(URN(1998,Some((11,27)),,urn:lex:br:federal:lei:1998-11-27;9717),art7_par4)))))-->
+              <Artigo xlink:href="art1" id="art3_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art3_cpt_alt1_art1_cpt">
+            
+            
+            
+            <p>Os Regimes Próprios de Previdência Social (RPPS) dos servidores públicos titulares de cargos efetivos, dos magistrados, ministros e conselheiros de tribunais de contas, membros do Ministério Público e de quaisquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, observarão o disposto nesta Lei, e serão organizados com base em normas gerais de contabilidade e atuária, de modo a garantir o seu equilíbrio financeiro e atuarial, observados os seguintes critérios:</p>
+            <Omissis id="art3_cpt_alt1_art1_cpt_omi1"/><Inciso xlink:href="art1_cpt_inc2" id="art3_cpt_alt1_art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>financiamento mediante recursos provenientes:</p>
+            <Alinea xlink:href="art1_cpt_inc2_ali1" id="art3_cpt_alt1_art1_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>das contribuições a cargo da União, dos Estados, do Distrito Federal e dos Municípios;</p>
+            
+          </Alinea><Alinea xlink:href="art1_cpt_inc2_ali2" id="art3_cpt_alt1_art1_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>das contribuições do pessoal civil e militar, ativo, inativo e dos pensionistas, para os seus respectivos regimes;</p>
+            
+          </Alinea><Alinea xlink:href="art1_cpt_inc2_ali3" id="art3_cpt_alt1_art1_cpt_inc2_ali3">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art249-->
+            
+            <Rotulo>c)</Rotulo>
+            <p>do aporte de ativos de que trata o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art249">art. 249 da Constituição</span> da República;</p>
+            
+          </Alinea><Alinea xlink:href="art1_cpt_inc2_ali4" id="art3_cpt_alt1_art1_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>de alíquotas suplementares de responsabilidade do ente e todo o conjunto de segurados do respectivo regime próprio previdenciário, destinadas à cobertura do déficit financeiro e atuarial;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art1_cpt_inc3" id="art3_cpt_alt1_art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as contribuições do ente, os recursos vinculados a fundo previdenciário da União, dos Estados, do Distrito Federal e dos Municípios e as contribuições do pessoal civil e militar, ativo, inativo, e dos pensionistas somente poderão ser utilizadas para pagamento de benefícios previdenciários dos respectivos regimes, ressalvadas as despesas administrativas estabelecidas no art. 6º, inciso VIII, desta Lei, observado os limites de gastos definidos em parâmetros gerais, vedada a transferência de recursos entre fundos previdenciários do mesmo ente;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art3_cpt_alt1_art1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art1-2" id="art3_cpt_alt1_art1-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º-B.</Rotulo>
+            
+            <Caput xlink:href="art1-2_cpt" id="art3_cpt_alt1_art1-2_cpt">
+            
+            
+            
+            <p>Para efeitos desta Lei, considera-se:</p>
+            <Inciso xlink:href="art1-2_cpt_inc1" id="art3_cpt_alt1_art1-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>meta atuarial: a rentabilidade estimada para os recursos garantidores dos RPPS;</p>
+            
+          </Inciso><Inciso xlink:href="art1-2_cpt_inc2" id="art3_cpt_alt1_art1-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>equilíbrio financeiro: a garantia de equivalência entre os recursos acumulados e as receitas auferidas e as obrigações do RPPS em cada exercício financeiro;</p>
+            
+          </Inciso><Inciso xlink:href="art1-2_cpt_inc3" id="art3_cpt_alt1_art1-2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>equilíbrio atuarial: a garantia de equivalência, a valor presente, entre os recursos acumulados e o fluxo dos ingressos estimados e das obrigações projetadas, apurados atuarialmente no longo prazo;</p>
+            
+          </Inciso><Inciso xlink:href="art1-2_cpt_inc4" id="art3_cpt_alt1_art1-2_cpt_inc4">
+            <!--Link: urn:lex:br:federal:lei:1999-05-05;9796-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>recursos previdenciários: as contribuições, os bens, demais ativos financeiros ou não e os vinculados à finalidade previdenciária, de que trata o art. 6º, inclusive a totalidade dos créditos do ente instituidor, reconhecidos pelo regime de origem, relativos à compensação financeira disciplinada na <span xlink:href="urn:lex:br:federal:lei:1999-05-05;9796">Lei nº 9.796, de 5 de maio de 1999</span>;</p>
+            
+          </Inciso><Inciso xlink:href="art1-2_cpt_inc5" id="art3_cpt_alt1_art1-2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>taxa de administração: parcela do recurso previdenciário definida em lei destinada ao custeio das despesas correntes e de capital necessárias à organização e funcionamento da entidade gestora única do RPPS;</p>
+            
+          </Inciso><Inciso xlink:href="art1-2_cpt_inc6" id="art3_cpt_alt1_art1-2_cpt_inc6" fechaAspas="s">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>recursos garantidores: o conjunto dos recursos vinculados ao fundo previdenciário que compõe a reserva para fazer frente aos benefícios previdenciários de obrigação do RPPS com o objetivo de garantir o equilíbrio financeiro e atuaria do RPPS.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art2" id="art3_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art3_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>A contribuição normal da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, aos regimes próprios de previdência social a que estejam vinculados seus servidores não poderá ser inferior ao valor da contribuição do servidor ativo, nem superior ao dobro desta contribuição.</p>
+            
+          </Caput><Paragrafo xlink:href="art2_par1" id="art3_cpt_alt1_art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No caso de a avaliação atuarial de que trata o inciso I do art. 1º indicar déficit atuarial, deverá ser definido plano de amortização para o seu equacionamento, vedada a utilização de recursos não previdenciários para a cobertura de insuficiências financeiras.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par2" id="art3_cpt_alt1_art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O plano de amortização poderá consistir no estabelecimento de alíquota de contribuição suplementar, inclusive para os servidores, aposentados e pensionistas, incidindo sobre a totalidade da remuneração do cargo efetivo do servidor e do provento do aposentado e pensionista, devendo a alíquota suplementar do ente ser no mínimo o dobro da do servidor, vedada a diferenciação por órgão ou poder.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par3" id="art3_cpt_alt1_art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A alíquota de contribuição suplementar poderá ser progressiva de acordo com a remuneração do cargo efetivo do servidor ou do provento do aposentado e pensionista.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par4" id="art3_cpt_alt1_art2_par4">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art249-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Poderão ser aportados ao RPPS, mediante lei do ente federativo, bens, direitos e demais ativos de qualquer natureza para constituição dos fundos referidos no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art249">art. 249 da Constituição</span> da República, destinados ao equacionamento do déficit atuarial, observada a perspectiva de solvência e a liquidez do plano de benefícios.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par5" id="art3_cpt_alt1_art2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os regimes de previdência de que trata este artigo podem ser segregados em planos de custeio, com a separação dos segurados vinculados ao regime em grupos distintos, que poderá tomar por base a data de ingresso do segurado no ente federativo na condição de servidor titular de cargo efetivo vinculado ao RPPS, a idade do segurado ou a sua condição de servidor em atividade, aposentado ou pensionista, admitindo-se a conjugação desses parâmetros, para fins de alocação dos segurados em cada plano, observando-se a capacidade orçamentária, financeira e fiscal do ente durante todo o período de transição.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par6" id="art3_cpt_alt1_art2_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Optando-se pela segregação das massas de que trata o § 4º, a avaliação do equilíbrio financeiro e atuarial e a eventual contribuição extraordinária de que trata o § 21 serão calculados por plano de previdência.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par7" id="art3_cpt_alt1_art2_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O plano de amortização deverá ser estabelecido, em lei, de acordo com os recursos acumulados e seus fluxos e as obrigações dos planos de previdência, observando-se um prazo máximo de 75 (setenta e cinco) anos para que sejam acumulados os recursos necessários para a cobertura do déficit atuarial.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par8" id="art3_cpt_alt1_art2_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O plano de amortização poderá ser revisto nas reavaliações atuariais anuais, respeitado sempre o período remanescente para equacionamento, a ser contado a partir do marco inicial estabelecido pela implementação do plano de amortização inicial.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par9" id="art3_cpt_alt1_art2_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>A segregação das massas de que trata o § 4º poderá ser revista pela absorção de obrigações pelo plano que apresentar superávit atuarial realizada em bases de dados reais na última avaliação atuarial ou mediante o aporte de ativos que cubram o custo atuarial da revisão.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par10" id="art3_cpt_alt1_art2_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A União, os Estados, o Distrito Federal e os Municípios publicarão, até 30 (trinta) dias após o encerramento de cada bimestre, demonstrativo patrimonial, orçamentário e financeiro relativamente aos recursos acumulados e aos ingressos e despesas previdenciárias acumuladas no exercício financeiro em curso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par11" id="art3_cpt_alt1_art2_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>A meta atuarial para rentabilidade dos recursos garantidores dos RPPS não poderá ser superior a 6% (seis por cento) ao ano, acrescidos da inflação, podendo esse limite ser reduzido por decisão do Conselho Nacional dos Dirigentes de Regimes Próprios de Previdência Social (Conaprev).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par12" id="art3_cpt_alt1_art2_par12" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>O limite máximo da taxa de administração será definido pelo Conaprev, podendo ser diferenciado de acordo com o número de segurados do respectivo RPPS.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art3" id="art3_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art3_cpt_alt1_art3_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>As alíquotas de contribuição normal dos servidores ativos dos Estados, do Distrito Federal e dos Municípios para os respectivos regimes próprios de previdência social não serão inferiores às dos servidores titulares de cargos efetivos da União, devendo ainda ser observadas, no caso das contribuições sobre os proventos dos inativos e sobre as pensões, as mesmas alíquotas aplicadas às remunerações dos servidores em atividade do respectivo ente estatal, ressalvada as alíquotas suplementares de que tratam o § 2º do art. 2º.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art3-1" id="art3_cpt_alt1_art3-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º-A.</Rotulo>
+            
+            <Caput xlink:href="art3-1_cpt" id="art3_cpt_alt1_art3-1_cpt">
+            
+            
+            
+            <p>As contribuições devidas ao RPPS e não repassadas até o seu vencimento, depois de apuradas e confessadas, poderão ser objeto de acordo para pagamento parcelado entre o ente federativo e a unidade gestora do RPPS, conforme regras definidas para o RGPS.</p>
+            
+          </Caput><Paragrafo xlink:href="art3-1_par1" id="art3_cpt_alt1_art3-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Lei do ente federativo poderá prever garantias ao pagamento das parcelas acordadas, admitida a vinculação de parcela do Fundo de Participação dos Estados (FPE), do Fundo de Participação dos Municípios (FPM) e de outras transferências não vinculadas a finalidades específicas, que também poderão ser oferecidas em garantia de aluguéis de imóveis de propriedade do RPPS parcial ou integral, direta ou por intermédio de fundos especiais ou de investimento imobiliários.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art3-1_par2" id="art3_cpt_alt1_art3-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É permitida a dação em pagamento de bens móveis e imóveis, ou de direitos de qualquer natureza, para a liquidação de débitos com o RPPS, inclusive para a amortização do déficit atuarial, desde que comprovada sua liquidez por ocasião da solvência das obrigações do plano de benefícios ao longo de todo o período de abrangência da avaliação atuarial.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art3-1_par3" id="art3_cpt_alt1_art3-1_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A unidade gestora do RPPS poderá contratar instituição financeira, mediante processo seletivo de credenciamento pautado por critérios objetivos que visem à seleção da modelagem mais vantajosa para a estruturação e administração de fundos de investimento adequados, exclusivos ou não, segundo a legislação vigente, objetivando a monetização dos bens e direitos de que trata o § 2º.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art4-1" id="art3_cpt_alt1_art4-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º-A.</Rotulo>
+            
+            <Caput xlink:href="art4-1_cpt" id="art3_cpt_alt1_art4-1_cpt">
+            
+            
+            
+            <p>O RPPS é único em cada ente federativo, englobará os servidores de cargos efetivos de todos os poderes e órgãos autônomos e será administrado por unidade gestora única que:</p>
+            <Inciso xlink:href="art4-1_cpt_inc1" id="art3_cpt_alt1_art4-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>contará com instância de deliberação colegiada e conselho fiscal, nos quais será garantida a participação de representantes de todos os poderes, do ente e dos segurados, cabendo-lhes também acompanhar e fiscalizar sua administração;</p>
+            
+          </Inciso><Inciso xlink:href="art4-1_cpt_inc2" id="art3_cpt_alt1_art4-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>adotará princípios de governança;</p>
+            
+          </Inciso><Inciso xlink:href="art4-1_cpt_inc3" id="art3_cpt_alt1_art4-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>garantirá pleno acesso dos segurados às informações relativas à gestão do RPPS;</p>
+            
+          </Inciso><Inciso xlink:href="art4-1_cpt_inc4" id="art3_cpt_alt1_art4-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>disponibilizará ao público e aos órgãos de controle, na forma por estes definida, inclusive na rede mundial de computadores (internet), informações atualizadas sobre o patrimônio do RPPS, bem como os critérios e parâmetros adotados para garantir o seu equilíbrio financeiro e atuarial;</p>
+            
+          </Inciso><Inciso xlink:href="art4-1_cpt_inc5" id="art3_cpt_alt1_art4-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estará sujeita às inspeções e auditorias de natureza atuarial, contábil, financeira, orçamentária e patrimonial dos órgãos de controle interno e externo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art4-1_par1" id="art3_cpt_alt1_art4-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Considera-se unidade gestora a entidade ou órgão integrante da estrutura da administração pública de cada ente federativo que tenha por finalidade a administração, o gerenciamento e a operacionalização do RPPS.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4-1_par2" id="art3_cpt_alt1_art4-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É facultada a constituição de consórcio entre entes federativos para a gestão de seus ativos e suporte administrativo, garantida a individualização do patrimônio de cada RPPS, observadas as normas gerais de contratação de consórcios públicos.</p>
+            
+          </Paragrafo><Omissis id="art3_cpt_alt1_art4-1_omi1" fechaAspas="s"/>
+          </Artigo><Artigo xlink:href="art6" id="art3_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art3_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art3_cpt_alt1_art6_cpt_omi1"/><Inciso xlink:href="art6_cpt_inc4" id="art3_cpt_alt1_art6_cpt_inc4">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art249-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>aplicação dos recursos garantidores de acordo com idênticas diretrizes de aplicação e limites estabelecidos pelo Conselho Monetário Nacional para as Entidades Fechadas de Previdência Complementar (EFPC), exceto no tocante aos investimentos em Fundo de Investimento Imobiliário (FII), tendo em vista o disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art249">art. 249 da Constituição</span> da República e no § 2º do art. 3º-A desta Lei;</p>
+            
+          </Inciso><Inciso xlink:href="art6_cpt_inc5" id="art3_cpt_alt1_art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>vedação da aplicação dos recursos garantidores em títulos públicos estaduais e municipais, na aquisição de imóveis e participações societárias, senão por meio de fundos de investimentos, e empréstimos de qualquer natureza.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art3_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par1" id="art3_cpt_alt1_art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A vedação de que trata o inciso V deste artigo não se aplica a empréstimos concedidos a segurados ativos, aposentados e pensionistas do RPPS, conforme parâmetros definidos pelo Ministério da Fazenda.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par2" id="art3_cpt_alt1_art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Fica vedada qualquer diferenciação dos RPPS em relação às EFPC no tocante à classificação, qualificação ou tipificação, inclusive o enquadramento como investidores qualificados ou investidores profissionais, para efeitos de investimento de suas reservas garantidoras pelo CMN, Comissão de Valores Mobiliários (CVM) ou qualquer outra instituição reguladora.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par3" id="art3_cpt_alt1_art6_par3" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:resolucao:2009-09-24;3792-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Enquanto o CMN não adequar a <span xlink:href="urn:lex:br:federal:resolucao:2009-09-24;3792">Resolução nº 3.792, de 24 de setembro de 2009</span> ao previsto nesta Lei, aplica-se o disposto naquela Resolução quanto aos limites de aplicação dos recursos garantidores dos RPPS bem como as regras de desenquadramento passivo, exceto para FII, que não terá restrição de investimentos quando se tratar de imóveis aportados nos termos do § 2º do art. 3º-A desta Lei, limitando-se a 10% (dez por cento) do patrimônio líquido do RPPS, e a 25% (vinte e cinco por cento) do patrimônio líquido do FII, nos demais casos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art7" id="art3_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art3_cpt_alt1_art7_cpt">
+            
+            
+            
+            <p>O Certificado de Regularidade Previdenciária (CRP), emitido pela Secretaria da Previdência do Ministério da Fazenda, na forma por ela estabelecida, é o documento hábil para a comprovação da regularidade do ente federativo quanto aos critérios e exigências estabelecidos nesta Lei para a organização e o funcionamento dos RPPS.</p>
+            
+          </Caput><Paragrafo xlink:href="art7_par1" id="art3_cpt_alt1_art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O CRP será exigido nas seguintes situações:</p>
+            <Inciso xlink:href="art7_par1_inc1" id="art3_cpt_alt1_art7_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>na realização de transferências voluntárias de recursos pela União, exceto as relativas às ações de educação, saúde e assistência social;</p>
+            
+          </Inciso><Inciso xlink:href="art7_par1_inc2" id="art3_cpt_alt1_art7_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>na celebração de acordos, contratos, convênios ou ajustes, bem como na contratação e liberação de empréstimos, financiamentos, avais e subvenções em geral, de órgãos ou entidades da administração direta e indireta da União;</p>
+            
+          </Inciso><Inciso xlink:href="art7_par1_inc3" id="art3_cpt_alt1_art7_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>na contratação e liberação de empréstimos e financiamentos por instituições financeiras federais.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art7_par2" id="art3_cpt_alt1_art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O servidor do órgão ou entidade responsável pela realização de cada ato ou contrato mencionado neste artigo deverá verificar a existência de CRP emitido para o ente federativo beneficiado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par3" id="art3_cpt_alt1_art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O servidor público que praticar ato com inobservância do disposto neste artigo responderá civil, penal e administrativamente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par4" id="art3_cpt_alt1_art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A regularidade dos entes federativos em relação às regras de organização e funcionamento dos RPPS, conforme estabelecido nesta Lei, será considerada para fins de aprovação de suas contas anuais pelos tribunais de contas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par5" id="art3_cpt_alt1_art7_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O CRP poderá contemplar exigência de padrões mínimos de governança dos RPPS, nos termos definidos pelo Conaprev.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art8" id="art3_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art3_cpt_alt1_art8_cpt">
+            
+            
+            
+            <p>Os responsáveis pelos poderes, órgãos ou entidades do ente federativo, os dirigentes da unidade gestora do RPPS e os membros dos seus conselhos respondem diretamente por infração ao disposto nesta Lei.</p>
+            
+          </Caput><Paragrafo xlink:href="art8_par1" id="art3_cpt_alt1_art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A infração de qualquer disposição desta Lei ou de seus regulamentos sujeitará o responsável, conforme o caso e a gravidade da infração, às seguintes penalidades administrativas, observado o disposto em regulamento:</p>
+            <Inciso xlink:href="art8_par1_inc1" id="art3_cpt_alt1_art8_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>advertência;</p>
+            
+          </Inciso><Inciso xlink:href="art8_par1_inc2" id="art3_cpt_alt1_art8_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>suspensão do exercício de atividades em unidades gestoras de RPPS pelo prazo de até 180 (cento e oitenta) dias;</p>
+            
+          </Inciso><Inciso xlink:href="art8_par1_inc3" id="art3_cpt_alt1_art8_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>inabilitação, pelo prazo de 2 (dois) a 10 (dez) anos, para o exercício de cargo ou função em unidades gestoras de RPPS;</p>
+            
+          </Inciso><Inciso xlink:href="art8_par1_inc4" id="art3_cpt_alt1_art8_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>multa de dois mil reais a um milhão de reais, devendo esses valores serem reajustados, a partir da publicação desta Lei, pelo índice aplicável ao reajustamento dos benefícios do RGPS.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art8_par2" id="art3_cpt_alt1_art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A penalidade prevista no inciso IV do caput deste artigo poderá ser aplicada cumulativamente com as constantes dos incisos I, II ou III e, em caso de reincidência, será aplicada em dobro.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8_par3" id="art3_cpt_alt1_art8_par3">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As infrações serão apuradas mediante processo administrativo, na forma do regulamento, aplicando-se subsidiariamente as disposições da <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8_par4" id="art3_cpt_alt1_art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Aos membros dirigentes é vedado:</p>
+            <Inciso xlink:href="art8_par4_inc1" id="art3_cpt_alt1_art8_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ao longo da direção, prestar serviços a instituições integrantes do sistema financeiro ou exercer atividades político-partidárias;</p>
+            
+          </Inciso><Inciso xlink:href="art8_par4_inc2" id="art3_cpt_alt1_art8_par4_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nos 12 (doze) meses seguintes ao término do exercício do cargo, o prestar, direta ou indiretamente, independentemente da forma ou da natureza do contrato, qualquer tipo de serviço às empresas do sistema financeiro que impliquem a utilização das informações a que teve acesso em decorrência do cargo exercido, sob pena de responsabilidade civil e penal.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art8-1" id="art3_cpt_alt1_art8-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º-A.</Rotulo>
+            
+            <Caput xlink:href="art8-1_cpt" id="art3_cpt_alt1_art8-1_cpt">
+            
+            
+            
+            <p>Os administradores, servidores, procuradores com poderes de gestão e membros de conselhos responderão civilmente pelos danos ou prejuízos que causarem, por ação ou omissão, ao RPPS, sem prejuízo das sanções penais.</p>
+            
+          </Caput><Paragrafo xlink:href="art8-1_par1" id="art3_cpt_alt1_art8-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>São também responsáveis quaisquer profissionais que prestem serviços técnicos ao RPPS, diretamente ou por intermédio de pessoa jurídica contratada.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-1_par2" id="art3_cpt_alt1_art8-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A gestão fraudulenta dos recursos do regime próprio de previdência social sujeita a pessoa física responsável à pena de reclusão de oito a dezesseis anos e multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-1_par3" id="art3_cpt_alt1_art8-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A gestão temerária dos recursos do regime próprio de previdência social sujeita a pessoa física responsável á pena de reclusão de quatro a doze anos e multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-1_par4" id="art3_cpt_alt1_art8-1_par4" fechaAspas="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A gestão fraudulenta e ou temerária dos recursos do regime próprio de previdência social sujeita a pessoa jurídica responsável a multa.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art8-2" id="art3_cpt_alt1_art8-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º-B.</Rotulo>
+            
+            <Caput xlink:href="art8-2_cpt" id="art3_cpt_alt1_art8-2_cpt">
+            
+            
+            
+            <p>Os valores arrecadados pela aplicação de multas às pessoas físicas e jurídicas constituirão fundo específico sob a gestão de comitê gestor específico e sob a administração da Secretaria de Previdência do Ministério da Fazenda, sendo 70% (setenta por cento) desses recursos destinados ao regime próprio originador da multa, que deverão ser comprovadamente aplicados em ações de capacitação, qualificação e profissionalização dos seus gestores, e 30% (trinta por cento), na melhoria dos meios para o cumprimento de suas competências, conforme previsto no art. 9º desta Lei.</p>
+            
+          </Caput><Paragrafo xlink:href="art8-2_par1" id="art3_cpt_alt1_art8-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O comitê gestor específico será composto por um representante da Secretaria de Previdência do Ministério da Fazenda e três representantes de regimes próprios de previdência social, sendo um de estado ou do Distrito Federal, um de capital de estado e um de município, indicados pela instituição e pelos respectivos entes, conforme regimento próprio.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-2_par2" id="art3_cpt_alt1_art8-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A utilização dos recursos para os fins a que se destinam ocorrerá mediante a apresentação e aprovação de projetos específicos ao comitê gestor, que também tem a função de acompanhar sua execução.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-2_par3" id="art3_cpt_alt1_art8-2_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para o cumprimento dos seus objetivos, poderá ser estabelecida taxa de gestão e administração custeada pelos recursos de que trata este artigo, conforme dispuser o seu regimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art9" id="art3_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art3_cpt_alt1_art9_cpt">
+            
+            
+            
+            <p>Compete à União, por intermédio da Secretaria de Previdência do Ministério da Fazenda, relativamente aos regimes próprios de previdência social instituídos pela União, pelos Estados, pelo Distrito Federal e pelos Municípios:</p>
+            <Inciso xlink:href="art9_cpt_inc1" id="art3_cpt_alt1_art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a orientação, a supervisão o acompanhamento e a auditoria, para o fiel cumprimento desta Lei;</p>
+            
+          </Inciso><Inciso xlink:href="art9_cpt_inc2" id="art3_cpt_alt1_art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a regulamentação, o estabelecimento e a publicação dos parâmetros e das diretrizes gerais para o cumprimento desta Lei;</p>
+            
+          </Inciso><Inciso xlink:href="art9_cpt_inc3" id="art3_cpt_alt1_art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o fomento de ações voltadas à educação financeira e previdenciária e ao envelhecimento ativo dos servidores vinculados aos regimes de que trata esta Lei;</p>
+            
+          </Inciso><Inciso xlink:href="art9_cpt_inc4" id="art3_cpt_alt1_art9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a apuração das infrações, a autuação dos responsáveis e a aplicação de penalidades nos casos previstos nos arts. 8º e 8º-A.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art9_par1" id="art3_cpt_alt1_art9_par1">
+            <!--Link: urn:lex:br:federal:lei:2007-03-16;11457!art11-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na realização de auditoria nos regimes próprios de previdência social, em conformidade com as disposições do <span xlink:href="urn:lex:br:federal:lei:2007-03-16;11457!art11">art. 11 da Lei nº 11.457, de 16 de março de 2007</span>, será assegurado aos agentes livre acesso às dependências dos poderes, órgãos e entidades do ente federativo, podendo ser examinados documentos, livros, registros contábeis e colhidas outras informações, em meio impresso ou mediante consulta a sistemas informatizados, e, em relação ao objeto da auditoria, praticar atos de apreensão e guarda de livros, documentos, materiais e equipamentos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art9_par2" id="art3_cpt_alt1_art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os entes federativos prestarão, por intermédio à Secretaria de Previdência do Ministério da Fazenda, periodicamente ou quando solicitados, todas as informações sobre o seu regime próprio de previdência social, na forma estabelecida em regulamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art9_par3" id="art3_cpt_alt1_art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O ente federativo deverá encaminhar à Secretaria de Previdência do Ministério da Fazenda todos os atos normativos relativos ao seu regime de previdência, imediatamente após sua publicação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art9_par4" id="art3_cpt_alt1_art9_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A Secretaria de Previdência do Ministério da Fazenda, quando constatada a prática de ato que apresente indícios de ilícito penal, improbidade administrativa ou outra irregularidade, cuja apuração não esteja inserida em suas atribuições, representará à autoridade competente.</p>
+            
+          </Paragrafo><Omissis id="art3_cpt_alt1_art9_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

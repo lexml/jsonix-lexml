@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;51"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 51 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), para dispor sobre a multipropriedade.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre a multipropriedade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-01-10;10406" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-01-10;10406 -> MatchByBase(urn:lex:br:federal:lei:2002-01-10;10406,2002,Some((1,10)),Map(art1225 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1225), art1225-1_par1 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1225-1_par1), art1225-1_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1225-1_cpt), art1225_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1225_cpt), art1225-1 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1225-1), art1225_cpt_inc14 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1225_cpt_inc14)))))-->
+              <Artigo xlink:href="art1225" id="art2_cpt_alt1_art1225" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.225.</Rotulo>
+            
+            <Caput xlink:href="art1225_cpt" id="art2_cpt_alt1_art1225_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art1225_cpt_omi1"/><Inciso xlink:href="art1225_cpt_inc14" id="art2_cpt_alt1_art1225_cpt_inc14" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>a multipropriedade.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art1225-1" id="art2_cpt_alt1_art1225-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.225-A.</Rotulo>
+            
+            <Caput xlink:href="art1225-1_cpt" id="art2_cpt_alt1_art1225-1_cpt">
+            
+            
+            
+            <p>Dá-se a multipropriedade quando a coisa possui vários proprietários que a usufruem, individualmente, por tempo determinado e em períodos diversos, de modo equânime, com possibilidade de cada um dispor de sua parte quando lhe aprouver.</p>
+            
+          </Caput><Paragrafo xlink:href="art1225-1_par1u" id="art2_cpt_alt1_art1225-1_par1u" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:1964-12-16;4591-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Convenção aprovada pela maioria absoluta dos multiproprietários disciplinará as regras de administração, funcionamento, encargos, disposição e outras regras relacionadas à coisa comum, aplicando-se-lhe, no que couber, a <span xlink:href="urn:lex:br:federal:lei:1964-12-16;4591">Lei nº 4.591, de 16 de dezembro de 1964</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

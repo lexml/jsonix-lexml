@@ -1,0 +1,52 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;10"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 10 DE 2017</Epigrafe>
+      <Ementa id="ementa">Revoga o <span xlink:href="urn:lex:br:federal:lei:1980-08-19;6815!art106_cpt_inc7">inciso VII do art. 106 da Lei nº 6.815, de 19 de agosto de 1980</span> - Estatuto do Estrangeiro.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1980-08-19;6815!art106_cpt_inc7-->
+            
+            
+            <p>Esta Lei revoga o <span xlink:href="urn:lex:br:federal:lei:1980-08-19;6815!art106_cpt_inc7">inciso VII do art. 106 da Lei nº 6.815, de 19 de agosto de 1980</span> - Estatuto do Estrangeiro, para permitir que o profissional liberal estrangeiro legalmente constituído no Brasil possa participar da administração ou representação de sindicato ou associação profissional, bem como de entidade fiscalizadora do exercício de profissão regulamentada.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1980-08-19;6815!art106_cpt_inc7-->
+            
+            
+            <p>Fica revogado o <span xlink:href="urn:lex:br:federal:lei:1980-08-19;6815!art106_cpt_inc7">inciso VII do art. 106 da Lei nº 6.815, de 19 de agosto de 1980</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

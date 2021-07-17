@@ -1,0 +1,130 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:LEXML_URN_ID"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº LEXML_EPIGRAFE_NUMERO de LEXML_EPIGRAFE_DATA</Epigrafe>
+      <Ementa id="ementa">Institui, no âmbito do Senado Federal, a Frente Parlamentar de Segurança Pública nas Fronteiras.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituída, no âmbito do Senado Federal, a Frente Parlamentar de Segurança Pública nas Fronteiras.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Frente reunir-se-á, preferencialmente, nas dependências do Senado Federal, podendo, por conveniência e necessidade, reunir-se em qualquer outro local.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A Frente Parlamentar de Segurança Pública nas Fronteiras é um órgão político de caráter suprapartidário e tem por finalidade:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>reunir as Senadoras e os Senadores que têm preocupação especial com a segurança pública nas fronteiras do País;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>acompanhar políticas públicas e proposições legislativas relativas às fronteiras;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>subsidiar, com pareceres, informações técnicas e dados estatísticos, as iniciativas legislativas de interesse da sociedade no que concerne à segurança das fronteiras;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>promover amplo debate, com a participação dos mais diversos segmentos da sociedade, sobre desenvolvimento, ocupação e fiscalização da faixa de fronteira;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>incentivar os investimentos na faixa de fronteira;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>realizar intercâmbio com órgãos legislativos de outros países, visando à elaboração de estudos e pesquisas sobre segurança de fronteiras.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:senado.federal:resolucao:1970-11-27;93-->
+            
+            
+            <p>A Frente Parlamentar de Segurança Pública nas Fronteiras reger-se-á por regulamento próprio, aprovado por seus membros, observado o que dispõe o <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93">Regimento Interno do Senado Federal</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A Frente Parlamentar de Segurança Pública nas Fronteiras será integrada, inicialmente, pelas Senadoras e pelos Senadores que assinarem a ata da sua instalação, podendo a ela aderir, posteriormente, outros membros do Senado Federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O Senado Federal prestará colaboração às atividades desenvolvidas pela Frente Parlamentar de Segurança Pública nas Fronteiras.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

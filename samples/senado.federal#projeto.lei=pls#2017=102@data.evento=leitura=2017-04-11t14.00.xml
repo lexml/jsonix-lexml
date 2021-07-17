@@ -1,0 +1,1564 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;102@data.evento;leitura;2017-04-11t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 102 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui o Código de Processo do Trabalho</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O processo do trabalho é regido no país pelas disposições desta lei e pelo Código do Processo Civil, subsidiária e supletivamente no que não for incompatível com ela.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art769--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art889-->
+            
+            
+            <p>São em princípio compatíveis com o processo do trabalho as normas do Código de Processo Civil em caso de omissão e desde que haja compatibilidade com as normas e princípios, na forma dos <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art769">arts. 769</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art889">889 da CLT</span> e do art. 15 da Lei n° 13.105, de 17.03.2015.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Além da reclamação trabalhista, que abriga a usual reclamação individual ou plúrima, a ação declaratória e a reclamação coletiva de interesses individuais homogêneos são cabíveis na Justiça do Trabalho:</p>
+            <Inciso id="art2_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a ação coletiva de revisão de nulidade;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o inquérito para apuração de falta grave;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a ação de consignação em pagamento;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o depósito;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a ação de prestação de contas;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>os embargos de terceiro;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a habilitação;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a restauração de autos;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>o juízo arbitral;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>o dissídio coletivo, de natureza econômica ou jurídica;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>a ação de cumprimento de norma coletiva;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>a ação rescisória; e</p>
+            
+          </Inciso><Inciso id="art2_par1_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>os procedimentos cautelares de arresto, sequestro, busca e apreensão, exibição, produção antecipada de provas, justificação, protesto, atentado e outras medidas provisionais.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A ação coletiva de revisão ou nulidade, destinada a decidir sobre alteração contratual prejudicial ao empregado mesmo que por ele consentida, será ajuizada por sindicato ou associação, neste último caso apenas em nome dos respectivos associados, e terá instrução semelhante a das reclamações; mas o juiz é autorizado a decidir segundo a equidade, sempre que julgue aconselhável evitar nulidade.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O inquérito para apuração de falta grave será necessário para que o empregador, por dever legal ou consensual, possa provar falta grave para rescindir o contrato de trabalho com determinado empregado; e, seguindo o rito da reclamação, terminará, porém, por decisão absolutória do empregado ou desconstitutiva da relação de emprego; decidindo o juiz, segundo a equidade, quanto aos salários no decurso da lide.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A ação de cumprimento de norma coletiva comporta, na fase instrutória, apenas a definição da norma e a investigação de sua aplicabilidade ao trabalhador identificado na inicial, dispensada qualquer conciliação bem como a audiência de instrução; se necessária a instrução seguirá o rito da reclamação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Sem prejuízo de outros, não se aplicam ao Processo do Trabalho, em razão de inexistência de omissão ou por incompatibilidade, os seguintes preceitos do Código de Processo Civil:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>art. 63 (modificação da competência territorial e eleição de foro);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>art. 190 e parágrafo único (negociação processual);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>art. 219 (contagem de prazos em dias úteis); IV - art. 334 (audiência de conciliação ou de mediação);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>art. 335 (prazo para contestação);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>art. 362, III (adiamento da audiência em razão de atraso injustificado superior a 30 minutos);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>art. 373, §§ 3° e 4° (distribuição diversa do ônus da prova por convenção das partes);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>arts. 921, §§ 4° e 5°, e 924, V (prescrição intercorrente);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>art. 942 e parágrafos (prosseguimento de julgamento não unânime de apelação);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>art. 944 (notas taquigráficas para substituir acórdão);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>art. 1010, § 3°(desnecessidade de o juízo a quo exercer controle de admissibilidade na apelação);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>arts. 1043 e 1044 (embargos de divergência); XIII - art. 1070 (prazo para interposição de agravo).</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Sem prejuízo de outros, aplicam-se ao Processo do Trabalho, em face de omissão e compatibilidade, os preceitos do Código de Processo Civil que regulam os seguintes temas:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>art. 76, §§ 1° e 2° (saneamento de incapacidade processual ou de irregularidade de representação);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>art. 138 e parágrafos (amicus curiae);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>art. 139, exceto a parte final do inciso V (poderes, deveres e responsabilidades do juiz);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>art. 292, V (valor pretendido na ação indenizatória, inclusive a fundada em dano moral);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>art. 292, § 3° (correção de ofício do valor da causa);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>arts. 294 a 311 (tutela provisória);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>art. 373, §§ 1° e 2° (distribuição dinâmica do ônus da prova);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>art. 485, § 7° (juízo de retratação no recurso ordinário);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>art. 489 (fundamentação da sentença);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>art. 496 e parágrafos (remessa necessária);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>arts. 497 a 501 (tutela especifica);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>arts. 536 a 538 (cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer, de não fazer ou de entregar coisa);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>arts. 789 a 796 (responsabilidade patrimonial);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>art. 805 e parágrafo único (obrigação de o executado indicar outros meios mais eficazes e menos onerosos para promover a execução);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>art. 833, incisos e parágrafos (bens impenhoráveis);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>art. 835, incisos e §§ 1° e 2° (ordem preferencial de penhora);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>art. 836, §§ 1° e 2° (procedimento quando não encontrados bens penhoráveis);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>art. 841, §§ 1° e 2° (intimação da penhora);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>art. 854 e parágrafos (BacenJUD);XX - art. 895 (pagamento parcelado do lanço);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>art. 916 e parágrafos (parcelamento do crédito exequendo);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>art. 918 e parágrafo único (rejeição liminar dos embargos à execução);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>arts. 926 a 928 (jurisprudência dos tribunais); XXIV - art. 940 (vista regimental);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc25">
+            
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>art. 947 e parágrafos (incidente de assunção de competência);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>arts. 966 a 975 (ação rescisória);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc27">
+            
+            
+            <Rotulo>XXVII –</Rotulo>
+            <p>arts. 988 a 993 (reclamação);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc28">
+            
+            
+            <Rotulo>XXVIII –</Rotulo>
+            <p>arts. 1013 a 1014 (efeito devolutivo do recurso ordinário - força maior);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc29">
+            
+            
+            <Rotulo>XXIX –</Rotulo>
+            <p>art. 1021 (salvo quanto ao prazo do agravo interno).</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Aplicam-se ao Processo do Trabalho as normas do CPC que regulam o princípio do contraditório, em especial os artigos 9° e 10, no que vedam a decisão surpresa.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Entende-se por “decisão surpresa” a que, no julgamento final do mérito da causa, em qualquer grau de jurisdição, aplicar fundamento jurídico ou embasar-se em fato não submetido à audiência prévia de uma ou de ambas as partes.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não se considera &quot;decisão surpresa&quot; a que, à luz do ordenamento jurídico nacional e dos princípios que informam o Direito Processual do Trabalho, as partes tinham obrigação de prever, concernente às condições da ação, aos pressupostos de admissibilidade de recurso e aos pressupostos processuais, salvo disposição legal expressa em contrário.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Aplicam-se ao Processo do Trabalho as normas do art. 356, §§ 1° a 4°, do CPC que regem o julgamento antecipado parcial do mérito, cabendo recurso ordinário de imediato da sentença.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>Aplica-se ao Processo do Trabalho o incidente de desconsideração da personalidade jurídica regulado no Código de Processo Civil (arts. 133 a 137), assegurada a iniciativa também do juiz do trabalho na fase de execução (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 878).</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Da decisão interlocutória que acolher ou rejeitar o incidente:</p>
+            <Inciso id="art7_par1_inc1">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art893_par1-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>na fase de cognição, não cabe recurso de imediato, na forma do <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art893_par1">art. 893, § 1° da CLT</span>;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>na fase de execução, cabe agravo de petição, independentemente de garantia do juízo;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cabe agravo interno se proferida pelo Relator, em incidente instaurado originariamente no tribunal (CPC, art. 932, inciso VI).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A instauração do incidente suspenderá o processo, sem prejuízo de concessão da tutela de urgência de natureza cautelar de que trata o art. 301 do CPC.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Aplicam-se ao Processo do Trabalho as normas do art. 332 do CPC, com as necessárias adaptações à legislação processual trabalhista, cumprindo ao juiz do trabalho julgar liminarmente improcedente o pedido que contrariar:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>enunciado de súmula do Supremo Tribunal Federal ou do Tribunal Superior do Trabalho (CPC, art. 927, inciso V);</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>acórdão proferido pelo Supremo Tribunal Federal ou pelo Tribunal Superior do Trabalho em julgamento de recursos repetitivos (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 896-B; CPC, art. 1046, § 4°);</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>enunciado de súmula de Tribunal Regional do Trabalho, convenção coletiva de trabalho, acordo coletivo de trabalho, sentença normativa ou regulamento empresarial de observância obrigatória em área territorial que não exceda a jurisdição do respectivo Tribunal (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 896, &quot;b&quot;, a contrario sensu).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O juiz também poderá julgar liminarmente improcedente o pedido se verificar, desde logo, a ocorrência de decadência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Aplicam-se ao Processo do Trabalho as normas dos arts. 976 a 986 do CPC que regem o incidente de resolução de demandas repetitivas (IRDR).</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Admitido o incidente, o relator suspenderá o julgamento dos processos pendentes, individuais ou coletivos, que tramitam na Região, no tocante ao tema objeto de IRDR, sem prejuízo da instrução integral das causas e do julgamento dos eventuais pedidos distintos e cumulativos igualmente deduzidos em tais processos, inclusive, se for o caso, do julgamento antecipado parcial do mérito.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art896--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art899-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Do julgamento do mérito do incidente caberá recurso de revista para o Tribunal Superior do Trabalho, dotado de efeito meramente devolutivo, nos termos dos <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art896">arts. 896</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art899">899 da CLT</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Apreciado o mérito do recurso, a tese jurídica adotada pelo Tribunal Superior do Trabalho será aplicada no território nacional a todos os processos, individuais ou coletivos, que versem sobre idêntica questão de direito.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897-1-->
+            
+            
+            <p>O cabimento dos embargos de declaração no Processo do Trabalho, para impugnar qualquer decisão judicial, rege-se pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897-1">art. 897-A da CLT</span> e, supletivamente, pelo Código de Processo Civil (arts. 1022 a 1025; §§ 2°, 3° e 4° do art. 1026), excetuada a garantia de prazo em dobro para litisconsortes (§ 1° do art. 1023).</p>
+            
+          </Caput><Paragrafo id="art10_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A omissão para fins do pré-questionamento ficto a que alude o art. 1025 do CPC dá-se no caso de o Tribunal Regional do Trabalho, mesmo instado mediante embargos de declaração, recusar-se a emitir tese sobre questão jurídica pertinente, na forma da Súmula n° 297, item III, do Tribunal Superior do Trabalho.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Aplicam-se ao Processo do Trabalho as normas do parágrafo único do art. 932 do CPC, §§ 1° a 4° do art. 938 e §§ 2° e 7° do art. 1007.</p>
+            
+          </Caput><Paragrafo id="art11_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A insuficiência no valor do preparo do recurso, no Processo do Trabalho, para os efeitos do § 2° do art. 1007 do CPC, concerne unicamente às custas processuais, não ao depósito recursal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>Não se aplica ao Processo do Trabalho a norma do art. 459 do CPC no que permite a inquirição direta das testemunhas pela parte (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 820).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Aplica-se ao Processo do Trabalho o parágrafo único do art. 1034 do CPC. Assim, admitido o recurso de revista por um fundamento, devolve-se ao Tribunal Superior do Trabalho o conhecimento dos demais fundamentos para a solução apenas do capitulo impugnado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>Por aplicação supletiva do art. 784, I (art. 15 do CPC), o cheque e a nota promissória emitidos em reconhecimento de dívida inequivocamente de natureza trabalhista também são títulos extrajudiciais para efeito de execução perante a Justiça do Trabalho, na forma do art. 876 e segs. da <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Não se aplica ao Processo do Trabalho o art. 165 do CPC, salvo nos conflitos coletivos de natureza econômica (<span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, art. 114, §§ 1° e 2°).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O atendimento à exigência legal de fundamentação das decisões judiciais (CPC, art. 489, § 1°) no Processo do Trabalho observará o seguinte:</p>
+            <Inciso id="art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>por força dos arts. 332 e 927 do CPC, adaptados ao Processo do Trabalho, para efeito dos incisos V e VI do § 1° do art. 489 considera-se &quot;precedente&quot; apenas:</p>
+            <Alinea id="art16_cpt_inc1_ali1">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>a)</Rotulo>
+            <p>acórdão proferido pelo Supremo Tribunal Federal ou pelo Tribunal Superior do Trabalho em julgamento de recursos repetitivos (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 896-B; CPC, art. 1046, § 4°);</p>
+            
+          </Alinea><Alinea id="art16_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência;</p>
+            
+          </Alinea><Alinea id="art16_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;</p>
+            
+          </Alinea><Alinea id="art16_cpt_inc1_ali4">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>d)</Rotulo>
+            <p>tese jurídica prevalecente em Tribunal Regional do Trabalho e não conflitante com súmula ou orientação jurisprudencial do Tribunal Superior do Trabalho (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 896, § 6°);</p>
+            
+          </Alinea><Alinea id="art16_cpt_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>decisão do plenário, do Órgão especial ou de seção especializada competente para uniformizar a jurisprudência do tribunal a que o juiz estiver vinculado ou do Tribunal Superior do Trabalho.</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art16_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>para os fins do art. 489, § 1°, incisos V e VI do CPC, considerar-se-ão unicamente os precedentes referidos no item anterior, súmulas do Supremo Tribunal Federal, orientação jurisprudencial e súmula do Tribunal Superior do Trabalho, súmula de Tribunal Regional do Trabalho não conflitante com súmula ou orientação jurisprudencial do TST, que contenham explicita referência aos fundamentos determinantes da decisão (ratio decidendi).</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>não ofende o art. 489, § 1°, inciso IV do CPC a decisão que deixar de apreciar questões cujo exame haja ficado prejudicado em razão da análise anterior de questão subordinante.</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o art. 489, § 1°, IV, do CPC não obriga o juiz ou o Tribunal a enfrentar os fundamentos jurídicos invocados pela parte, quando já tenham sido examinados na formação dos precedentes obrigatórios ou nos fundamentos determinantes de enunciado de súmula.</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>decisão que aplica a tese jurídica firmada em precedente, nos termos do item I, não precisa enfrentar os fundamentos já analisados na decisão paradigma, sendo necessária, para fins de atendimento das exigências constantes no art. 489, § 1°, do CPC, a indicação da correlação fática e jurídica entre o caso concreto e aquele apreciado no incidente de solução concentrada.</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>é ônus da parte, para os fins do disposto no art. 489, §1°, V e VI, do CPC, identificar os fundamentos determinantes ou demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento, sempre que invocar precedente ou enunciado de súmula.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Para efeito de aplicação do § 5° do art. 272 do CPC, não é causa de nulidade processual a intimação realizada na pessoa de advogado regularmente habilitado nos autos, ainda que conste pedido expresso para que as comunicações dos atos processuais sejam feitas em nome de outro advogado, se o profissional indicado não se encontra previamente cadastrado no Sistema de Processo Judicial Eletrônico, impedindo a serventia judicial de atender ao requerimento de envio da intimação direcionada. A decretação de nulidade não pode ser acolhida em favor da parte que lhe deu causa (CPC, art. 276).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>Os maiores de 18 anos são capazes para todos os atos do processo e os menores são assistidos por quem a lei designar, ou, na sua falta, pelo Ministério Publico.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>O patrão pode designar preposto, com conhecimento da causa, que o represente em juízo, inclusive para depoimento pessoal. O empregado, sem prejuízo do depoimento pessoal quando necessário, poderá, nos seus impedimentos, fazer-se representar por colega de profissão ou de sindicato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>As partes serão assistidas por advogado; ou, quando impossível, a critério do juiz da causa, postularão diretamente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>O sindicato tem legitimidade para agir como representante legal dos interesses coletivos da respectiva categoria ou dos interesses individuais homogêneos de seus integrantes, facultada sempre, neste último caso, a exclusão do feito, a pedido, de qualquer trabalhador, desde que não importe em renúncia ao direito em causa ou perda do direito de ação correspondente.</p>
+            
+          </Caput><Paragrafo id="art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para defesa de interesses individuais homogêneos, o sindicato afirmará, na petição inicial, haver divulgado amplamente essa iniciativa entre os integrantes da categoria e disso fará prova, se necessário, a critério do juiz da causa.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A exclusão de qualquer trabalhador por motivo de transação somente será deferida se homologada nos autos de processo de reclamação plúrima trabalhista com o mesmo objeto; salvo se a transação individual anteceder qualquer processo, hipótese em que, se for o caso, far-se-á a prova da homologação ou assistência prevista em lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Terá preferência, em todas as fases processuais, a reclamação cuja decisão tiver de ser executada perante o juízo da falência.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Os juízes e tribunais terão ampla liberdade na direção do processo e velarão pelo andamento rápido das causas, podendo determinar qualquer diligência necessária ao esclarecimento delas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>A localidade em que o trabalhador prestar serviços ao empregador determina a competência do juízo para os dissídios individuais.</p>
+            
+          </Caput><Paragrafo id="art24_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O trabalhador que preste serviços em mais de uma localidade poderá ajuizar reclamação no juízo do lugar:</p>
+            <Inciso id="art24_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>da contratação, se ali se consumou a rescisão ou se a empresa ali mantiver ainda algum estabelecimento;</p>
+            
+          </Inciso><Inciso id="art24_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>do domicilio do empregador;</p>
+            
+          </Inciso><Inciso id="art24_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>da agência ou filial a que se encontre subordinado na data do ajuizamento.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art24_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Tratando-se de relação de trabalho contratada no Brasil, para prestação de serviços no exterior, o foro competente será o do lugar da contratação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Compete a Justiça do Trabalho:</p>
+            <Inciso id="art25_cpt_inc1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>conciliar e julgar os dissídios individuais e coletivos entre trabalhadores e empregadores; ou, ainda, nos termos da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> e da Lei, outras controvérsias entre trabalhadores e seus patrões; abrangidos, em qualquer hipótese, os entes de direito público externo e da administração pública direta e indireta dos Municípios, do Distrito federal, dos Estados a da União;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>julgar os litígios que tenham origem no cumprimento de suas próprias sentenças, inclusive coletivas.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art25_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não tendo havido, na Justiça do Trabalho, no Ministério do Trabalho, ou na empresa, atuação de órgãos de conciliação, o juiz fará a proposta de conciliação em dois momentos: após lida a contestação e fixado o objeto do litígio; e após o encerramento da instrução, antes de lidas as razões finais das partes.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se havido a tentativa de conciliação prevista no § 1°, o juiz do trabalho poderá limitar-se a indagar das partes, quando presentes após o encerramento da instrução, se foi alcançado algum acordo, registrando em ata a resposta e, se for o caso, fazendo juntar aos autos o documento respectivo para homologação.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>E lícito às partes, a qualquer tempo, em qualquer instância, celebrar acordo que ponha termo ao processo ou que dele exclua alguma questão bem definida e não prejudicial das demais não conciliadas, submetendo-o à homologação do órgão competente da Justiça do Trabalho.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Além das hipóteses de nulidade absoluta ou relativa previstas em lei, o acordo deixará de ser homologado, no todo ou em parte, se importar em necessário prejulgamento do mérito de qualquer das questões remanescentes no processo em que foi requerido ou em qualquer outro de que tenha conhecimento o juízo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>A petição inicial, com os documentos em que se funda, inclusive, quando for o caso, o rol de testemunhas, atenderá aos requisitos da lei processual civil e será registrada, autuada e distribuída, em duas vias, de tal modo que a segunda via integre a contrafé da citação ao reclamado.</p>
+            
+          </Caput><Paragrafo id="art26_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando impossível a assistência pelo advogado (art. 20), a reclamação verbal feita pelo reclamante será distribuída antes de sua redução ao termo, devendo o reclamante apresentar-se à secretaria ou ao cartório do juízo competente no prazo de cinco dias, para reduzi-la a termo, do contrário será arquivado o respectivo processo.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O arquivamento, na forma do parágrafo anterior, se resultante de dolo ou negligência abusiva do reclamante, poderá levar à condenação no décuplo das custas de que trata o art. 30, imposta pelo juiz na decisão de arquivamento, e à exigência de prova do respectivo pagamento como condição para ser admitida nova reclamação; somente não prevalecendo a exigência se necessário o ajuizamento a menos de oito meses do prazo de prescrição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>A notificação à parte, com valor de citação, e as intimações ao seu advogado ou, na hipótese do art. 26, § 1°, desta lei, as intimações à própria parte, far-se-ão por via postal, sob registro simples, presumindo-se o recebimento decorridos dois dias úteis depois de sua expedição, salvo prova em contrário a cargo do destinatário.§ 1º. A notificação ao reclamado indicará o prazo, não inferior a cinco dias, para apresentação, em duas vias, de contestação escrita, instruída com documentos necessários e o rol de testemunhas, sendo automaticamente remetida a segunda via de tudo ao advogado do reclamante.</p>
+            
+          </Caput><Paragrafo id="art27_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A intimação às partes da data da primeira audiência especificará se ela versará somente a conciliação, ou se também a definição da prova, nos termos do art. 28, e a decorrente instrução probatória; ficando, nesta segunda hipótese, cientes as partes de que suas testemunhas poderão comparecer independentemente de intimação e que o não-comparecimento da parte a sujeitará as cominações legais para a revelia, inclusive confissão.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Sempre que possível, as partes serão intimadas em audiência dos atos do processo, na pessoa de seus advogados, mediante o respectivo registro em ata.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Tratando-se de notificação ou intimação postal, no caso de não ser encontrado o destinatário, o Correio fica obrigado a devolvê-la ao juízo de origem no prazo de quarenta e oito horas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>Na primeira audiência, existindo pontos controvertidos cujo deslinde possa exigir prova, o juiz poderá ouvir em três minutos o advogado do reclamante para replicar oralmente a respeito da prova necessária, com igual prazo ao advogado do reclamado para tréplica.</p>
+            
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O juiz poderá dispensar a instrução requerida, ou concluí-la na mesma audiência ou em continuação, nos trinta dias seguintes; após o que, facultadas alegações orais e finais em cinco minutos para cada parte, proferirá a decisão, tendo-se por intimadas de seu teor as partes, ainda que ausentes à audiência de julgamento para a qual tenham sido intimadas.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A seu critério, segundo as dificuldades que a causa apresentar ou as necessidades do serviço, o juiz, em lugar das alegações finais orais, poderá determinar sejam apresentadas razões finais por escrito, pelo reclamante e pelo reclamado, em prazos sucessivos de oito dias, proferindo a decisão dentro dos vinte dias seguintes, neste caso com posterior intimação do inteiro teor da decisão às partes na forma do caput do art. 27.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>É facultada, na Justiça do Trabalho, a bem da celeridade, a reunião de processos referentes ao mesmo patrão, para um só julgamento, ainda que diferentes os trabalhadores reclamantes, desde que idênticos e exclusivos, em todos os processos, o objeto e a causa a pedir.</p>
+            
+          </Caput><Paragrafo id="art29_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Mesmo após decisões diversas em primeira instância, nos processos de que trata este artigo, será possível a reunião dos respectivos recursos, para um só julgamento, nas instâncias superiores, nos termos do regimento do Tribunal Superior do Trabalho, cujas normas serão, no particular, adaptadas pelos tribunais regionais às suas peculiaridades, nos respectivos regimentos.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Proposta a decisão de reunir processos somente para os fins previstos neste artigo e seus parágrafos, serão ouvidos os respectivos advogados, para um acordo a respeito da sustentação oral que alcance todos os processos assim reunidos, na forma do regimento de cada tribunal.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A requerimento dos advogados de todas as partes, o tribunal poderá considerar a hipótese de reunir processos do interesse de diferentes patrões e empregados, desde que idênticos e exclusivos o objeto e a causa de pedir em relação à matéria dos recursos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>Nos processos perante a Justiça do Trabalho, as custas serão calculadas de acordo com a seguinte tabela progressiva sobre o valor dado a causa pelo juiz:</p>
+            <Inciso id="art30_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>até mil reais, dez por cento;</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de mais de mil até dois mil reais, oito por cento;</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>de mais de dois mil reais até cinco mil reais, seis por cento;</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>de mais de cinco mil até dez mil reais, quatro por cento;</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>acima de dez mil reais, dois por cento.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art30_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As custas e os emolumentos de traslado e de instrumento, quando for o caso, serão pagos pelo vencido, dentro de cinco dias da data da interposição do recurso, sob pena de deserção; e serão pagas a final, nos termos da decisão transitada em julgado, se não houver recurso.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O sindicato, em representação legal de qualquer trabalhador e de sua categoria, na forma da lei, responde pelas custas que por estes seriam devidas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>A assistência judiciária prestada por sindicato a quem percebe salário igual ou inferior ao dobro do salário mínimo de que trata o art. 7°, IV, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, compreende a isenção de despesas com publicações indispensáveis em órgão de divulgação dos atos oficiais, e dos honorários de advogados e peritos.</p>
+            
+          </Caput><Paragrafo id="art31_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A assistência judiciária será declarada por despacho do juiz, diante da prova produzida pelo requerente.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O despacho de que trata o parágrafo anterior somente poderá ser impugnado no prazo de recurso ordinário de sentença, ou de suas contrarrazões, conforme o caso.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>Nos processos perante a Justiça do Trabalho constituem privilégio da União, dos Estados, do Distrito Federal e dos Municípios, bem como de suas autarquias e das fundações por qualquer deles criadas e mantidas, desde que não explorem atividade econômica:</p>
+            <Inciso id="art32_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a presunção relativa de validade dos recibos de quitação ou pedidos de demissão de seus empregados, ainda que não homologados nem submetidos à assistência de que trata a Lei do Trabalhador;</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o dobro do prazo para contestação e recurso;</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a dispensa de depósito para interposição de recurso;</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o pagamento das custas a final, salvo quanto à União que não as pagará.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>O juiz dará valor à causa se impugnado pelo réu, em preliminar de sua contestação, o valor proposto na inicial, ou se este for ínfimo ou exorbitante.</p>
+            
+          </Caput><Paragrafo id="art33_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não se conformando qualquer das partes com o valor mantido ou arbitrado pelo juiz, poderá interpor agravo de instrumento para a instância superior, o qual, também a seu pedido, poderá ficar retido, a fim de que dele conheça o tribunal como preliminar do julgamento que vier a ser feito na instancia superior.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A parte agravante deve renovar a questão no recurso que venha a interpor ou em contrarrazões a recurso contrário, sob pena de preclusão.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>Os exames periciais serão realizados por perito único, designado pelo juiz; permitido a cada parte indicar um assistente, cujo laudo terá de ser apresentado no mesmo prazo assinado pelo juiz ao perito, sob pena de indeferimento de sua juntada aos autos ou de seu desentranhamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>Nos processos sujeitos à apreciação da Justiça do trabalho só haverá nulidade quando insanável e manifestamente prejudicial a qualquer das partes litigantes; cabendo ao juiz declará-la, de ofício ou a requerimento da parte, na primeira oportunidade, sob pena de preclusão; ou, se for o caso, adotar a providência saneadora que se evidenciar necessária, a qualquer tempo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>Nas audiências de conciliação, instrução e julgamento, o Juiz da Vara do Trabalho exercerá todos os poderes que, no processo civil, são reservados ao juiz da causa, devendo, ao final, propor a solução mediante sentença.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>Para a instauração de inquérito para a apuração de falta grave contra o empregado garantido com estabilidade, o empregador apresentará reclamação por escrito ao juízo da Vara do Trabalho, dentro de trinta dias, contados da data da suspensão do empregado, ou, se não houver suspensão preventiva, contados da data da ciência que teve o empregador da consumação da falta grave.</p>
+            
+          </Caput><Paragrafo id="art37_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não havendo suspensão preventiva, o processo deverá ser concluído, em primeira instância, no prazo de cento e vinte dias, hipótese em que, julgado procedente o inquérito, o empregado ficará afastado até ulterior decisão que eventualmente o absolva, a qual também resolverá sobre os salários do período de afastamento.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O processo de inquérito, assim como a ação de cumprimento de norma coletiva, obedecerá às normas aplicáveis à reclamação trabalhista.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>O dissídio coletivo, destinado a obter do tribunal do trabalho solução normativa para o conflito entre empregados, representados coletivamente na forma da lei e da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, e empregadores ou entidade representativa de empregadores, será ajuizado por qualquer das partes; ou, havendo paralisação do trabalho ou risco de grave dano à ordem pública, a requerimento do Ministério Público do Trabalho.</p>
+            
+          </Caput><Paragrafo id="art38_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A representação para a instauração de dissídio coletivo, deve indicar:</p>
+            <Inciso id="art38_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as partes dissidentes,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a natureza da atividade econômica envolvida,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a respectiva base territorial,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a comprovação das negociações feitas, ou das tentativas e das causas de sua frustração,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a proposta de arbitragem e sua recusa,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a pauta de reivindicações e sua aprovação, em assembleia,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os resultados da negociação, se houver,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>o pedido de sentença normativa e a síntese de seus fundamentos,</p>
+            
+          </Inciso><Inciso id="art38_par1_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>os motivos do atraso no ajuizamento e sua justificativa, se for o caso, e</p>
+            
+          </Inciso><Inciso id="art38_par1_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>data e assinatura do representante legal.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art38_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A representação deve estar acompanhada dos seguintes documentos, em duas vias:</p>
+            <Inciso id="art38_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cópia autenticada do instrumento normativo anterior, acordo, convenção, laudo arbitral ou sentença normativa;</p>
+            
+          </Inciso><Inciso id="art38_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cópia autenticada da ata da assembleia que aprovou as reivindicações, concedendo poderes para negociação, compromisso arbitral, conciliação judicial e desistência;</p>
+            
+          </Inciso><Inciso id="art38_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cópia autenticada das listas de presença dos integrantes da categoria dissidente, à assembleia referida na letra &quot;b” e outros documentos que comprovem a representatividade do suscitante;</p>
+            
+          </Inciso><Inciso id="art38_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>quando for o caso, correspondência, registros e atas alusivos à negociação ou sua tentativa, proposta de arbitragem e sua recusa, e mediação;</p>
+            
+          </Inciso><Inciso id="art38_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>carta de preposição e procuração ao advogado.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art38_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Recebida e autuada a representação, o Presidente do Tribunal, se a considerar defeituosa, carente de fundamentação ou de instrução, abrirá prazo de dez dias ao suscitante para emenda, sob pena de indeferimento liminar.</p>
+            
+          </Paragrafo><Paragrafo id="art38_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Despachando a representação, o presidente do Tribunal notificará suscitante, suscitado e Ministério Público do Trabalho para a audiência de conciliação a ser realizada no menor prazo possível.</p>
+            
+          </Paragrafo><Paragrafo id="art38_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O suscitado receberá, com a notificação, cópia da inicial e dos documentos que a instruem, com antecedência mínima de dez dias, a fim de apresentar em audiência a defesa escrita e documentos.</p>
+            
+          </Paragrafo><Paragrafo id="art38_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Alcançada a conciliação ou encerrada a instrução, o processo irá à distribuição e julgamento, ouvido, antes, o Mistério Público do Trabalho, em, no máximo, cinco dias.</p>
+            
+          </Paragrafo><Paragrafo id="art38_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Noticiando os autos a paralisação do trabalho ou abuso no exercício desse direito, o presidente do tribunal poderá expedir ato que disponha sobre o atendimento de necessidades inadiáveis à comunidade e a cessação de abusos, sob pena de multa variável de cem a cem mil reais.</p>
+            
+          </Paragrafo><Paragrafo id="art38_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>A penalidade referida no parágrafo anterior será aplicada pelo tribunal na sentença que proferir no julgamento do dissídio sobre a qualificação jurídica da greve e dos acontecimentos a ela pertinentes, e sem prejuízo da responsabilidade civil e penal que couber.</p>
+            
+          </Paragrafo><Paragrafo id="art38_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>A apreciação do dissídio far-se-á cláusula por cláusula, podendo o órgão julgador, antes da proclamação final, rever a solução adotada de modo a permitir que a sentença normativa traduza, no seu conjunto, justa composição do conflito de interesses das partes e guarde adequação com os interesses da coletividade.</p>
+            
+          </Paragrafo><Paragrafo id="art38_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Havendo acordo escrito entre as partes, a data-base da categoria ou empresa será preservada, desde que ajuizado o dissídio até trinta dias após; do contrário, se o dissídio for ajuizado depois da data-base, ficará a critério do Tribunal manter ou não a data-base, segundo critérios de equidade e à vista dos motivos do retardamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>São cabíveis, no processo do trabalho, os seguintes recursos:</p>
+            <Inciso id="art39_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>embargos para o mesmo órgão julgador:</p>
+            <Alinea id="art39_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>das decisões dos juízes das Varas do Trabalho, nos processos de alçada exclusiva destes, a saber, aqueles cujo valor dado à causa não exceda de três vezes o valor do salário mínimo mensal por reclamante, cabíveis os demais recursos somente por violação constitucional devidamente pré-questionada nestes embargos;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc1_ali2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>b)</Rotulo>
+            <p>das decisões de Seção do Tribunal Superior do Trabalho, nos processos sua competência originária, quando contrárias à lei ou à <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, ou não unânimes;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>à execução da sentença, após a respectiva garantia ou penhora;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>de declaração, a qualquer decisão terminativa do feito, em qualquer órgão ou instância, para esclarecer o julgado ou desfazer erro material, suprir omissão, ou eliminar contradição;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art39_cpt_inc2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>embargos para a Seção Especializada de Dissídios Individuais do Tribunal Superior do Trabalho, das decisões de Turmas do tribunal contrárias à lei ou à <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, ou que divergirem de outras decisões da mesma Turma embargada ou de outra, em matéria não pacificada na jurisprudência mais recente da mesma Seção Especializada de Dissídios Individuais;</p>
+            
+          </Inciso><Inciso id="art39_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>recurso ordinário para a instância superior:</p>
+            <Alinea id="art39_cpt_inc3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>das decisões definitivas dos juízes das Varas do Trabalho;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>das decisões dos Tribunais Regionais do Trabalho, nos processos de sua competência originaria;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art39_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>recurso de revista para o Tribunal Superior do Trabalho, das decisões de ultima instância:</p>
+            <Alinea id="art39_cpt_inc4_ali1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>a)</Rotulo>
+            <p>proferidas com violação da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> ou de lei;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>divergentes, na interpretação de lei federal ou estadual, convenção coletiva, acordo coletivo, sentença normativa, laudo arbitral ou regulamente empresarial:</p>
+            <Item id="art39_cpt_inc4_ali2_ite1">
+            
+            
+            <Rotulo>1–</Rotulo>
+            <p>de outra decisão do mesmo ou de outro Tribunal Regional, no Pleno ou em Turmas;</p>
+            
+          </Item><Item id="art39_cpt_inc4_ali2_ite2">
+            
+            
+            <Rotulo>2–</Rotulo>
+            <p>da Seção Especializada de Dissídios Individuais do Tribunal Superior do Trabalho;</p>
+            
+          </Item><Item id="art39_cpt_inc4_ali2_ite3">
+            
+            
+            <Rotulo>3–</Rotulo>
+            <p>salvo se a decisão recorrida estiver em consonância com jurisprudência mais recente pacificada pela mesma Seção Especializada de Dissídios Individuais;</p>
+            
+          </Item>
+          </Alinea><Alinea id="art39_cpt_inc4_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>para formação da jurisprudência sobre matéria nova, ainda não examinada por mais de uma Turma do Tribunal Superior do trabalho;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc4_ali4">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>d)</Rotulo>
+            <p>em execução de sentença, somente quando violadoras da lei ou da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc4_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>nos casos previstos no inciso I, letra &quot;a&quot;, após o recurso ordinário também cabível;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art39_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>agravo</p>
+            <Alinea id="art39_cpt_inc5_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>de petição, das decisões do juiz da Vara do Trabalho, nas execuções;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc5_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>de instrumento, dos despachos que denegarem a interposição de recursos;</p>
+            
+          </Alinea><Alinea id="art39_cpt_inc5_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>regimental, dos despachos que denegarem seguimento a recurso, já no tribunal &quot;ad quem&quot;; bem como nos demais casos previstos em regimento do tribunal.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art39_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos processos de dissídio coletivo,</p>
+            <Inciso id="art39_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o julgamento deverá ser concluído no máximo três meses após o ajuizamento;</p>
+            
+          </Inciso><Inciso id="art39_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o relator ou redator terá vinte dias para redigir o acórdão, que deverá ser publicado nos vinte dias subsequentes;</p>
+            
+          </Inciso><Inciso id="art39_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>não publicado no prazo acima, qualquer dos litigantes ou o Ministério Público do Trabalho poderá interpor recurso ordinário fundado, apenas, na certidão de julgamento, inclusive com pedido de efeito suspensivo, pagas as custas se for o caso. Publicado o acórdão, reabrir-se-á o prazo para aditamento do recurso interposto; IV. formalizado o acordo integral entre as partes, só caberá recurso por parte do Ministério Público do Trabalho; V. o efeito suspensivo do recurso, que for deferido pelo Presidente do Superior Tribunal do trabalho, terá eficácia por 120 dias, mas será renovado se o retardamento do processo no Tribunal não for imputável ao recorrente; VI. a sentença normativa poderá ser objeto de ação de cumprimento decorridos seis meses de sua publicação, ou antes, se transitada em julgado.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art39_par2">
+            <!--Link: urn:lex:br:federal:lei:1970;5584!art6--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art893--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O prazo para interpor e contra-arrazoar todos os recursos trabalhistas, inclusive agravo interno e agravo regimental, sendo igual o prazo do recorrido para impugnar e recorrer adesivamente é de oito dias (<span xlink:href="urn:lex:br:federal:lei:1970;5584!art6">art. 6° da Lei n° 5.584/70</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art893">art. 893 da CLT</span>); exceto os embargos de declaração, em qualquer instância, e o agravo regimental, cujo prazo é sempre de cinco dias (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 897-A).</p>
+            
+          </Paragrafo><Paragrafo id="art39_par3">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art893_par1-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Observar-se-á, em todo caso, o princípio da irrecorribilidade em separado das decisões interlocutórias, de conformidade com o <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art893_par1">art. 893, § 1° da CLT</span> e Súmula nº 214 do TST.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>Na execução de sentença no processo trabalhista sem prejuízo da inclusão do devedor no Banco Nacional de Devedores Trabalhistas (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, art. 642-A), aplicam-se as normas dos artigos 495, 517 e 782, §§ 3°, 4° e 5° do CPC, que tratam respectivamente da hipoteca judiciária, do protesto de decisão judicial e da inclusão do nome do executado em cadastros de inadimplentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor após decorridos noventa dias de sua publicação oficial, aplicando-se imediatamente após a sua publicação os prazos de recurso constantes do § 2° do art. 39.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

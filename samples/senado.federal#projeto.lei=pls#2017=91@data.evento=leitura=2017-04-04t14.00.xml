@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;91@data.evento;leitura;2017-04-04t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 91 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera os <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art130">arts. 130</span>, <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art134">134</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art145">145 da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, para dispor sobre as férias dos empregados, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span>, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art134 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art134), art145 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art145), art134_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art134_par2), art130_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art130_par1), art134_par3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art134_par3), art134_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art134_cpt), art130_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art130_cpt), art134_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art134_par1), art130 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art130), art145_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art145_cpt), art134_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art134_par4)))))-->
+              <Artigo xlink:href="art130" id="art1_cpt_alt1_art130" abreAspas="s">
+            
+            
+            <Rotulo>Art. 130.</Rotulo>
+            
+            <Caput xlink:href="art130_cpt" id="art1_cpt_alt1_art130_cpt">
+            
+            
+            
+            <p>Após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias de trinta dias, descontados os dias de faltas injustificadas.</p>
+            
+          </Caput><Paragrafo xlink:href="art130_par1u" id="art1_cpt_alt1_art130_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O período de férias será computado, para todos os efeitos, como tempo de serviço.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art134" id="art1_cpt_alt1_art134" abreAspas="s">
+            
+            
+            <Rotulo>Art. 134.</Rotulo>
+            
+            <Caput xlink:href="art134_cpt" id="art1_cpt_alt1_art134_cpt">
+            
+            
+            
+            <p>As férias serão concedidas por ato do empregador, em até três períodos, nos 12 (doze) meses subsequentes à data em que o empregado tiver adquirido o direito.</p>
+            
+          </Caput><Paragrafo xlink:href="art134_par1" id="art1_cpt_alt1_art134_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Caso o empregado converta um terço de suas férias em abono pecuniário, na forma do art. 143, o fracionamento das férias não excederá a duas vezes, com um dos períodos observando o mínimo de 14 (quatorze) dias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art134_par2" id="art1_cpt_alt1_art134_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Aos menores de 18 (dezoito) anos e aos maiores de 60 (sessenta) anos de idade, as férias serão sempre concedidas de uma só vez.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art134_par3" id="art1_cpt_alt1_art134_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Havendo fracionamento de férias em desrespeito ao disposto neste artigo, será devido, em dobro, o pagamento do período.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art134_par4" id="art1_cpt_alt1_art134_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Em caso de cancelamento das férias concedidas, o empregador deverá indenizar, em até 30 (trinta) dias, o empregado pelas despesas, devidamente comprovadas, eventualmente efetuadas com a perspectiva do gozo das férias.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art145" id="art1_cpt_alt1_art145" abreAspas="s">
+            
+            
+            <Rotulo>Art. 145.</Rotulo>
+            
+            <Caput xlink:href="art145_cpt" id="art1_cpt_alt1_art145_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>O pagamento da remuneração das férias e, se for o caso, o do abono referido no art. 143 serão efetuados até 2 (dois) dias antes do início do respectivo período, sob pena de pagamento em dobro.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

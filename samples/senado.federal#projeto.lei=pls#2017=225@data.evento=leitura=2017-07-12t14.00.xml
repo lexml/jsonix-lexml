@@ -1,0 +1,232 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;225@data.evento;leitura;2017-07-12t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 225 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a assistência ao paciente com diabetes mellitus no âmbito do Sistema Único de Saúde - SUS.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O Sistema Único de Saúde (SUS) prestará atenção integral à pessoa com diabetes mellitus, tendo, como princípios, universalidade de acesso, integralidade e igualdade de assistência, direito à informação e descentralização administrativa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São diretrizes das ações e serviços de atenção ao paciente com diabetes mellitus:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>possibilitar o acesso universal, equânime e contínuo a serviços de qualidade e resolutivos;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>desenvolver ações que garantam adequado acolhimento, realizado por equipe médica especializada e, quando necessário, por profissionais de apoio assistencial;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>efetivar relações de vínculo entre a equipe de saúde e a população adstrita;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>desenvolver política de educação permanente para os profissionais envolvidos no atendimento do paciente com diabetes mellitus;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>realizar avaliação e acompanhamento sistemático dos resultados alcançados, com finalidade de aprimorar o processo de planejamento;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>realizar, periodicamente, pesquisas nacionais referentes ao diabetes mellitus e suas complicações agudas e crônicas, possibilitando a disponibilização de dados atualizados para o desenvolvimento da ciência e da tecnologia nesse campo;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>implantar e manter ações e serviços de prevenção do diabetes mellitus;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>implantar e manter ações e serviços de diagnóstico precoce e de tratamento do diabetes mellitus;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>implantar e manter ações e serviços de rastreamento, de diagnóstico precoce e de tratamento das complicações crônicas do diabetes mellitus;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>assegurar o acesso aos medicamentos e aos insumos necessários ao adequado controle metabólico do diabetes mellitus, bem como ao tratamento de suas complicações;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>assegurar tempestivo acesso aos procedimentos necessários para o tratamento das complicações crônicas do diabetes mellitus.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Caberá ao Poder Público, no âmbito da atenção ao paciente com diabetes mellitus, as seguintes funções:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>elaborar estratégias para a disseminação de informações à população sobre questões referentes ao diabetes mellitus;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>definir protocolos, cientificamente referendados e periodicamente revisados, para orientar o acompanhamento e o tratamento do paciente com diabetes mellitus no âmbito do SUS;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>desenvolver periodicamente ações de capacitação técnica para os profissionais de saúde envolvidos no tratamento do diabetes mellitus;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>definir as competências de cada nível assistencial, detalhando as ações a cargo de cada um, de forma a otimizar os serviços disponíveis em todo o território nacional;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>acompanhar e avaliar as ações e serviços desenvolvidos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>As ações e serviços para prevenção, diagnóstico e tratamento do diabetes mellitus e de suas complicações devem seguir os princípios e diretrizes do SUS, com vistas a assegurar a universalidade de acesso e a integralidade da assistência à saúde.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os princípios previstos no caput serão consolidados mediante a instalação de centros especializados em diabetes mellitus distribuídos territorialmente, conforme o perfil epidemiológico de cada localidade do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os centros de que trata o § 1º do caput deverão:</p>
+            <Inciso id="art4_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dispor de atendimento médico em todas as especialidades envolvidas no diagnóstico e no tratamento do diabetes mellitus e de suas complicações, bem como, quando necessário, oferecer serviços de outros profissionais de apoio;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>assegurar amplo acesso a medicamentos, insulinas e demais insumos necessários para assegurar efetivo tratamento dos pacientes;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>assegurar acesso ao tratamento das complicações agudas e crônicas da diabetes mellitus;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>servir como referência assistencial para as unidades básicas de saúde localizadas em sua área de abrangência territorial;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>oferecer cursos de educação continuada sobre diabetes mellitus aos médicos e demais profissionais das unidades básicas de saúde de sua unidade territorial;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>manter banco de dados atualizado e amplamente divulgado contendo informações sobre aspectos nosológicos e epidemiológicos dos atendimentos realizados.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O Poder Público desenvolverá estratégias para ampliar o acesso aos recursos terapêuticos e aos insumos necessários para a prevenção, o diagnóstico e o tratamento do diabetes mellitus.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor cento e oitenta dias após a data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;120"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 120 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta § 10 ao <span xlink:href="urn:lex:br:federal:lei:1973-12-31;6015!art176">art. 176 da Lei nº 6.015, de 31 de dezembro de 1973</span>, que dispõe sobre os registros públicos, para dispensar a apresentação de carta de anuência dos confrontantes na averbação do georreferenciamento de imóveis rurais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1973-12-31;6015!art176-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1973-12-31;6015!art176">art. 176 da Lei nº 6.015, de 31 de dezembro de 1973</span>, passa a vigorar acrescido do seguinte § 10:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1973-12-31;6015" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1973-12-31;6015 -> MatchByBase(urn:lex:br:federal:lei:1973-12-31;6015,1973,Some((12,31)),Map(art176 -> ExactMatch(URN(1973,Some((12,31)),art176,urn:lex:br:federal:lei:1973-12-31;6015!art176)), art176_cpt -> PrefixMatch(URN(1973,Some((12,31)),art176,urn:lex:br:federal:lei:1973-12-31;6015!art176),art176_cpt), art176_par10 -> PrefixMatch(URN(1973,Some((12,31)),art176,urn:lex:br:federal:lei:1973-12-31;6015!art176),art176_par10)))))-->
+              <Artigo xlink:href="art176" id="art1_cpt_alt1_art176" abreAspas="s">
+            
+            
+            <Rotulo>Art. 176.</Rotulo>
+            
+            <Caput xlink:href="art176_cpt" id="art1_cpt_alt1_art176_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art176_omi1"/><Paragrafo xlink:href="art176_par10" id="art1_cpt_alt1_art176_par10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Para a identificação de que tratam os §§ 3º e 4º deste artigo, fica dispensada a anuência dos confrontantes, bastando para tanto a declaração do requerente de que respeitou os limites e confrontações.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,100 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;27@data.evento;leitura;2017-07-12t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 27 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui, no âmbito do Senado Federal, o Diploma do Mérito Social.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituído, no âmbito do Senado Federal, o Diploma do Mérito Social, a ser conferido a pessoa física ou jurídica que tenha oferecido contribuição ou desenvolvido iniciativas relevantes para a causa da criança e do adolescente, em qualquer localidade do País.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O Diploma será conferido, anualmente, em data próxima ao dia 10 de abril, durante Sessão do Senado Federal especialmente convocada para esse fim.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A indicação do candidato, acompanhada da respectiva justificativa e de curriculum vitae, será realizada por qualquer Senador ou Senadora da República.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Para proceder à apreciação das indicações e à escolha do agraciado, será constituído o Conselho do Diploma do Mérito Social, composto por um representante de cada um dos partidos políticos com assento no Senado Federal.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A composição do Conselho a que se refere o caput será renovada a cada dois anos, entre os meses de fevereiro e março da primeira sessão legislativa ordinária e da terceira sessão legislativa ordinária de cada legislatura, permitida a recondução de seus membros.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Conselho definirá a cada ano o período de acolhimento das indicações e a data de premiação do agraciado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Uma vez escolhido o agraciado, seu nome será amplamente divulgado pelos meios de comunicação do Senado Federal e em sessão plenária.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

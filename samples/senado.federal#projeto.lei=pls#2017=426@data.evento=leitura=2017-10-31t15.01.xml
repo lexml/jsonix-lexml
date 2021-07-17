@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;426@data.evento;leitura;2017-10-31t15.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 426 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a Lei Geral de Telecomunicações, <span xlink:href="urn:lex:br:federal:lei:1997-07-16;9472">Lei nº 9.472, de 16 de julho de 1997</span>, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da <span xlink:href="urn:lex:br:federal:emenda.constitucional:1995;8">Emenda Constitucional nº 8, de 1995</span>, para dispor sobre as obrigações de universalização de serviços de telecomunicações relacionadas a instalações de Terminal de Uso Público-TUP.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-07-16;9472-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:1997-07-16;9472">Lei nº 9.472, de 16 de julho de 1997</span>, para dispor sobre as obrigações de universalização relacionadas a instalações de uso coletivo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-07-16;9472!art80-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-07-16;9472!art80">art. 80 da Lei nº 9.472, de 16 de julho de 1997</span>, passa a vigorar acrescido do seguinte § 3º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-07-16;9472" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-07-16;9472 -> MatchByBase(urn:lex:br:federal:lei:1997-07-16;9472,1997,Some((7,16)),Map(par3 -> NeighborMatch(URN(1997,Some((7,16)),art80,urn:lex:br:federal:lei:1997-07-16;9472!art80),par3,)))))-->
+              <Paragrafo xlink:href="art80_par3" id="art2_cpt_alt1_art80_par3" abreAspas="s" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os acessos e instalações de uso coletivo utilizados menos de uma vez ao dia, em média, serão excluídos das obrigações de universalização e o saldo decorrente deverá ser aplicado na expansão das redes de telecomunicações em localidades sem atratividades econômicas, conforme regulamentação.</p>
+            
+          </Paragrafo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

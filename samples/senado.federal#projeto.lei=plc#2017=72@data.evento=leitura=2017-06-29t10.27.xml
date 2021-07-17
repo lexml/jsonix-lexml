@@ -1,0 +1,256 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;72@data.evento;leitura;2017-06-29t10.27"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 72 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a Política Nacional da Erva-Mate.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei institui a Política Nacional da Erva-Mate, com o objetivo de fomentar a produção sustentável, elevar o padrão de qualidade, apoiar e incentivar o comércio de erva-mate (Ilex paraguariensis) do Brasil.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São princípios e diretrizes da Política Nacional da Erva-Mate:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a sustentabilidade ambiental, econômica e social da cadeia produtiva;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a elevação do padrão de qualidade e segurança do produto;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a pesquisa e o desenvolvimento tecnológico;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o aproveitamento da diversidade cultural, ambiental, de solos e de climas do País para a produção de erva-mate;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a desburocratização e a adequação das normas que regem os aspectos sanitário, trabalhista e ambiental relacionados à produção, colheita, industrialização, comércio e consumo da erva-mate, considerando as peculiaridades sociais, culturais, locais, regionais e do sistema de cultivo;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a articulação e a colaboração entre o setor privado e os entes públicos federais, estaduais e municipais;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o estímulo às economias locais; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>o incentivo ao consumo e ao desenvolvimento de novos mercados e empregos industriais para a erva-mate brasileira.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São instrumentos da Política Nacional da Erva-Mate:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o crédito oficial para a produção, industrialização e comercialização;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a pesquisa agrícola, bioquímica, farmacêutica e alimentícia;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o desenvolvimento tecnológico agrícola e industrial;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a assistência técnica e a extensão rural;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a capacitação gerencial e a qualificação de mão de obra;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o associativismo, o cooperativismo e os arranjos produtivos locais;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o seguro rural;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>as certificações de origem, social e de qualidade dos produtos;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a prospecção de mercados, feiras e ações de divulgação do produto no Brasil e no exterior;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>a promoção de ajustes normativos; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>os fóruns, câmaras e conselhos setoriais, públicos e privados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Na formulação e execução da Política de que trata esta Lei, os órgãos competentes deverão:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estabelecer acordos e parcerias com entidades públicas e privadas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>considerar as reivindicações e sugestões do setor produtivo e dos consumidores;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apoiar o comércio interno e externo de erva-mate e de seus produtos derivados;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>incentivar pesquisas públicas e privadas nas áreas alimentícia, bioquímica, farmacêutica, cosmética, entre outras pertinentes, com a finalidade de ampliar a utilização industrial da erva-mate;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>fomentar a pesquisa e o desenvolvimento de variedades superiores de erva-mate e de tecnologias de cultivo, colheita e industrialização que elevem a qualidade dos produtos de erva-mate e a sustentabilidade econômica, social e ambiental da cadeia produtiva;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>promover o uso de boas práticas de cultivo, produção e industrialização e apoiar o desenvolvimento de sistemas de certificação de qualidade e relativos ao cumprimento de requisitos sociais e ambientais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>promover a melhoria da qualidade da erva-mate;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>incentivar e apoiar a organização produtiva;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>estimular investimentos que promovam a adoção de boas práticas de cultivo e a inovação tecnológica em sistemas de produção e de industrialização, visando ao aumento da produtividade e da qualidade e à ampliação do mercado consumidor de erva-mate; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>ofertar linhas de crédito e de financiamento em condições favorecidas para a produção, industrialização e comercialização de erva-mate.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A oferta de crédito e de financiamento de que trata o inciso X do caput deste artigo deve ser complementada pela disponibilização de assistência técnica e extensão rural de qualidade, especialmente para os agricultores familiares, pequenos e médios produtores rurais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

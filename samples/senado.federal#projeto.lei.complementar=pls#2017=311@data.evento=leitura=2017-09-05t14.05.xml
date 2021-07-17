@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;311@data.evento;leitura;2017-09-05t14.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 311 DE 2017</Epigrafe>
+      <Ementa id="ementa">Limita as taxas de juros cobradas nas operações de crédito a pessoas físicas e pessoas jurídicas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>As instituições ofertantes de crédito deverão divulgar em seus sítios na internet as taxas de juros cobradas em cada linha de crédito por elas oferecidas.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As taxas de juros divulgadas conforme o caput deverão ser acessíveis a quem estiver pesquisando no sítio da instituição em no máximo três cliques.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Nas operações de crédito com garantia real ou descontos certos de valores a serem recebidos pelo devedor, as taxas de juros ficam limitadas a, no máximo, 1,5 (uma vez e meia) a taxa Selic. Nas demais operações, as taxas de juros ficam limitadas a, no máximo, 3 (três vezes) a taxa Selic.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Conselho Monetário Nacional definirá o enquadramento de cada linha de crédito nas duas categorias definidas no caput.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Além dos limites previstos no art. 2º, as taxas de juros cobradas por cada instituição ofertante de crédito, em cada um dos dois tipos de operações de créditos previstas naquele artigo, não poderão ultrapassar em 40% as taxas de juros médias praticadas por todas as instituições financeiras no trimestre anterior.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Conselho Monetário Nacional definirá trimestralmente as taxas de juros máximas para o trimestre seguinte, com base no disposto no caput.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entrará em vigor no prazo de 120 (cento e vinte dias) dias contados de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

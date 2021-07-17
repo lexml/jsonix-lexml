@@ -1,0 +1,601 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;37@data.evento;leitura;2018-02-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 37 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a provisão de conteúdo audiovisual por demanda (CAvD) e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Titulo id="tit1">
+            
+            
+            <Rotulo>TÍTULO I</Rotulo>
+            <NomeAgrupador>Disposições preliminares</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta lei dispõe sobre a provisão de conteúdo audiovisual por demanda (CAvD) e dá outras providências.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Para os efeitos desta lei entende-se:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>conteúdo audiovisual – qualquer conteúdo resultante de atividade de produção destinada à fixação ou transmissão de imagens, acompanhadas ou não de som, que tenham a finalidade de criar a impressão de movimento, independentemente dos processos de captação, do suporte utilizado inicial ou posteriormente para fixá-las ou transmiti-las, ou dos meios utilizados para sua veiculação, reprodução, transmissão ou difusão;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc15-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>modalidade avulsa de programação – modalidade de programação organizada para aquisição avulsa em canal específico para tal fim, nos termos do <span xlink:href="urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc15">art. 2º, inciso XV, da Lei nº 12.485, de 12 de setembro de 2011</span>;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>provimento de conteúdo audiovisual por demanda (CAvD) – atividade destinada à oferta de conteúdo audiovisual para aquisição avulsa, destinado à preservação pelo destinatário (“download”) ou ao direito de acesso ao mesmo (“streaming”), mediante o uso de recursos de telecomunicações que lhe sirvam de suporte, a seu pedido e em momento por ele determinado;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>produtora – empresa que exerça atividade de elaboração, composição, constituição ou criação de conteúdos audiovisuais em qualquer meio de suporte;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            <!--Link: urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc18-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>produtora brasileira – produtora que atenda às condições previstas no <span xlink:href="urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc18">art. 2º, inciso XVIII, da Lei nº 12.485, de 12 de setembro de 2011</span>;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            <!--Link: urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc19-->
+            
+            <Rotulo>VI –</Rotulo>
+            <p>produtora brasileira independente – produtora que atenda às condições previstas no <span xlink:href="urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc19">art. 2º, inciso XIX, da Lei nº 12.485, de 12 de setembro de 2011</span>;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>provedora de conteúdo audiovisual por demanda – empresa que atenda a uma ou várias condições a seguir:</p>
+            <Alinea id="art2_cpt_inc7_ali1">
+            <!--Link: urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc23-->
+            
+            <Rotulo>a)</Rotulo>
+            <p>programadora de canal destinado a modalidade avulsa de programação disponível em Serviço de Acesso Condicionado definido no <span xlink:href="urn:lex:br:federal:lei:2011-09-12;12485!art2_cpt_inc23">art. 2º, inciso XXIII, da Lei nº 12.485, de 12 de setembro de 2011</span>;</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc7_ali2">
+            <!--Link: urn:lex:br:federal:lei:2014-04-23;12965!art5_cpt_inc7-->
+            
+            <Rotulo>b)</Rotulo>
+            <p>provedora de aplicação de internet definida no <span xlink:href="urn:lex:br:federal:lei:2014-04-23;12965!art5_cpt_inc7">art. 5º, inciso VII, da Lei nº 12.965, de 23 de abril de 2014</span>, que execute atividade de provimento de conteúdo audiovisual por demanda, observado o disposto no artigo 3º;</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc7_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>fornecedora de conteúdo audiovisual por demanda a público restrito sobre qualquer serviço de telecomunicações.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não se caracterizam como provedoras de conteúdo audiovisual por demanda:</p>
+            <Inciso id="art2_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pessoas físicas;</p>
+            
+          </Inciso><Inciso id="art2_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>microempreendedores individuais;</p>
+            
+          </Inciso><Inciso id="art2_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>provedoras de aplicação de internet dedicadas ao provimento de conteúdo gerados por usuários pessoas naturais (User-Generated Content) sem fins econômicos.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Poder Executivo regulamentará a atividade de comunicação audiovisual por demanda, que incidirá sobre os serviços com fins econômicos que sejam ofertados ao consumidor mediante remuneração, em qualquer suporte tecnológico e em qualquer modelo de distribuição de conteúdo audiovisual, inclusive mídia social e redes sociais, nas seguintes modalidades:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Acesso gratuito ao usuário com receita auferida pelo prestador do serviço proveniente de publicidade;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Acesso condicionado ao pagamento pelo usuário de assinatura ou subscrição de qualquer tipo, e;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Acesso condicionado ao pagamento pelo usuário para compra ou aluguel de conteúdo de qualquer tipo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O credenciamento das empresas de que trata o art. 2º, inciso VII, desta Lei, será de responsabilidade do Poder Executivo.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O credenciamento de que trata este artigo constitui condição prévia para o exercício de atividades de provimento de conteúdo audiovisual por demanda.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Todos os agentes deverão prestar informações à agência quando solicitadas, incluindo dados sobre a oferta e o consumo de conteúdos audiovisuais, assim como sobre as receitas auferidas no desempenho de suas atividades.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>ª O Poder Executivo poderá incluir no escopo da regulação e da fiscalização outras modalidades de acesso que porventura venham a ser desenvolvidos e que impliquem em remuneração ao prestador de serviço de CAvD, bem como os conteúdos gerados por usuários pessoas naturais (User-Generated Content) que venham a associar ou inserir publicidade de qualquer forma em seus conteúdos, na forma do regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A provisão de conteúdo audiovisual por demanda, em todas as suas atividades, será guiada pelos seguintes princípios:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>liberdade de expressão e de acesso à informação;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>promoção da diversidade cultural e das fontes de informação, produção e programação;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>promoção da língua portuguesa e da cultura brasileira;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estímulo à produção independente e regional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>liberdade de iniciativa, mínima intervenção da administração pública e defesa da concorrência.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Adicionam-se aos princípios previstos nos incisos deste artigo aqueles estabelecidos na Convenção sobre a Proteção e Promoção da Diversidade das Expressões Culturais, aprovada pelo Decreto Legislativo nº 485, de 20 de dezembro de 2006.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>As empresas provedoras de conteúdo audiovisual por demanda deverão oferecer tais serviços em condições isonômicas para qualquer empresa provedora de conexão de Internet ou responsável pela distribuição de tais serviços, sendo vedados acordos ou práticas de exclusividade.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A fim de garantir o cumprimento do previsto no caput, empresas que sejam ao mesmo tempo provedoras de conteúdo audiovisual por demanda e provedoras de conexão à Internet deverão providenciar a separação funcional dessas atividades.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O Poder Executivo poderá estabelecer mecanismos para soluções de conflito e arbitragem sobre disputas comerciais entre empresas provedoras de conteúdo audiovisual por demanda ou entre elas e empresas que atuem em segmentos de produção e distribuição deste mercado, ou ainda entre as empresas supramencionadas e pessoas físicas que sejam titulares de direitos patrimoniais de produções audiovisuais ou consumidores, a partir da provocação de uma das partes.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Condutas anticoncorrenciais, constadas a qualquer tempo, serão objeto de apreciação pelos órgãos do Sistema Brasileiro de Defesa da Concorrência, sem prejuízo da atuação do Poder Judiciário.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta lei se aplica a todos os agentes econômicos que disponibilizam acesso a conteúdos audiovisuais por meio de comunicação audiovisual por demanda a usuários residentes no Brasil com conteúdo direcionado ao público brasileiro, independentemente da localização de sua sede ou de sua infraestrutura para prestação do serviço.</p>
+            
+          </Caput><Paragrafo id="art7_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Essa lei não se aplica a:</p>
+            <Inciso id="art7_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>serviços de comunicação audiovisual por demanda que se destine precipuamente à oferta de conteúdos jornalísticos;</p>
+            
+          </Inciso><Inciso id="art7_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>serviços cuja oferta de conteúdos audiovisuais seja incidental ou acessória ao provimento de conteúdos textuais ou sonoros; e</p>
+            
+          </Inciso><Inciso id="art7_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>serviços que sejam operados sob a responsabilidade de algum dos Poderes constituídos da República Federativa do Brasil.</p>
+            
+          </Inciso><Inciso id="art7_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Oferta e seleção de conteúdo brasileiro</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O catálogo de títulos ofertados por provedora de conteúdo audiovisual por demanda deverá incluir um número de títulos produzidos por produtora brasileira, determinado pelo Poder Executivo, considerando a capacidade econômica de cada provedora, sua atuação no mercado brasileiro e a produção total de títulos brasileiros nos cinco anos precedentes.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Da cota estabelecida para cada provedora na forma deste artigo, 50% será composta de obras produzidas por produtora brasileira independente.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A cota estabelecida no caput deverá ter caráter progressivo, não sendo inferior a 2% do total de horas do catálogo ofertado para empresas com receita bruta anual até R$ 3,6 milhões e tendo como patamar mínimo 20% para empresas com receita bruta anual acima de R$ 70 milhões.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            <!--Link: urn:lex:br:federal:lei.complementar:2006-12-14;123-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Estão excluídas das obrigações dispostas no item anterior as microempresas e as empresas de pequeno porte optantes pelo Simples Nacional, nos termos da <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123">Lei Complementar nº. 123, de 14 de dezembro de 2006</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Os mecanismos de catalogação e seleção postos pela provedora de conteúdo audiovisual por demanda à disposição dos consumidores deverão assegurar destaque a conteúdo de produtoras brasileiras nas seguintes condições:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>será oferecida disposição destacada a obras de produtoras brasileiras, de modo a assegurar proeminência às mesmas em relação ao restante do catálogo, na forma do regulamento;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a disposição de que trata o inciso I será aplicada aos vários gêneros ou categorias adotados nos mecanismos de busca e de oferta da provedora;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>é vedado às provedoras de conteúdo audiovisual por demanda utilizarem-se de mecanismos para aumentar a proeminência de conteúdos audiovisuais em desacordo com o disposto nesta Lei, devendo ainda precaverem-se contra tentativas de terceiros de aumentar artificiosamente a proeminência de determinados conteúdos audiovisuais, conforme disposto em regulamento;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>é vedada a utilização pelas provedoras de conteúdo audiovisual por demanda de quaisquer mecanismos para a aferição da utilização de conteúdos audiovisuais que causem prejuízo à intimidade, vida privada, honra e imagem das pessoas e às liberdades e direitos individuais, observada a legislação relativa ao tratamento de dados e informações pessoais.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para a fiscalização do cumprimento do disposto neste artigo, os algoritmos de busca, de seleção e de catalogação utilizados pelas provedoras de conteúdo audiovisual por demanda devem ser fornecidos ao Poder Executivo, quando solicitados, nos prazos e condições estabelecidos em regulamento.</p>
+            <Inciso id="art9_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Estímulo à produção audiovisual</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1">Medida Provisória nº 2.228-1, de 6 de setembro de 2001</span>, passa a viger com as seguintes modificações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1" id="art10_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1 -> MatchByBase(urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1,2001,Some((9,6)),Map(art1 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art1), art33_par3 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art33_par3), art1_cpt -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art1_cpt), art33 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art33), art1_par4 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art1_par4), art33_par7 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art33_par7), art33_par6 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art33_par6), art33_cpt -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art33_cpt), art1_par4_inc3 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art1_par4_inc3), art33_cpt_inc4 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art33_cpt_inc4), art33_par3_inc3 -> PrefixMatch(URN(2001,Some((9,6)),,urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1),art33_par3_inc3)))))-->
+              <Artigo xlink:href="art1" id="art10_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art10_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art10_cpt_alt1_art1_omi1"/><Paragrafo xlink:href="art1_par4" id="art10_cpt_alt1_art1_par4" textoOmitido="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            
+            <Omissis id="art10_cpt_alt1_art1_par4_omi1"/><Inciso xlink:href="art1_par4_inc3" id="art10_cpt_alt1_art1_par4_inc3" fechaAspas="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>provedoras de conteúdo audiovisual por demanda (CAvD): empresas de que trata lei específica sobre a provisão de conteúdo audiovisual por demanda.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33" id="art10_cpt_alt1_art33" abreAspas="s">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput xlink:href="art33_cpt" id="art10_cpt_alt1_art33_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art10_cpt_alt1_art33_cpt_omi1"/><Inciso xlink:href="art33_cpt_inc4" id="art10_cpt_alt1_art33_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>receita da empresa, aplicando-se quotas estabelecidas progressivamente, iniciando em 0% para a parcela de receita bruta anual até R$ 3,6 milhões e tendo como limite 4% para a parcela de receita bruta anual acima de R$ 70 milhões, sobre a receita bruta das vendas e serviços, decorrente de operações realizadas no País, no caso de provedoras de conteúdo audiovisual por demanda (CAvD).</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art10_cpt_alt1_art33_omi1"/><Paragrafo xlink:href="art33_par3" id="art10_cpt_alt1_art33_par3" textoOmitido="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            
+            <Omissis id="art10_cpt_alt1_art33_par3_omi1"/><Inciso xlink:href="art33_par3_inc3" id="art10_cpt_alt1_art33_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a cada ano, para os serviços a que se referem os incisos III e IV do caput deste artigo.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art10_cpt_alt1_art33_omi2"/><Paragrafo xlink:href="art33_par6" id="art10_cpt_alt1_art33_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>As provedoras de conteúdo audiovisual por demanda (CAvD) poderão descontar até 30% (trinta por cento) do valor devido a título de CONDECINE, recolhido na forma do inciso IV do caput, para aquisição de direitos ou em projetos de produção ou co-produção de obras cinematográficas ou videofonográficas brasileiras de produção independente, na forma do regulamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33_par7" id="art10_cpt_alt1_art33_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Parcela de 30% (trinta por cento) dos recursos recolhidos na forma do inciso IV do caput serão destinados a produtoras brasileiras estabelecidas nas regiões Norte, Nordeste e Centro-Oeste, conforme critérios e condições estabelecidos pela Ancine</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Os provedores do Serviço de Comunicação Audiovisual por demanda devem explicitar ao usuário a classificação indicativa dos conteúdos por ele fornecidos, bem como disponibilizar aos usuários meio eletrônico que permita o bloqueio da visualização de conteúdos audiovisuais, de acordo com as faixas etárias a que se recomende.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O Poder Executivo regulamentará a obrigação de disponibilização de legendagem, legendagem descritiva, audiodescrição e Linguagem Brasileira de Sinais – LIBRAS nos conteúdos audiovisuais disponibilizados ao consumidor do serviço de comunicação audiovisual por demanda.</p>
+            <Inciso id="art12_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Penalidades</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>A empresa que descumprir quaisquer das obrigações dispostas nesta Lei no exercício de atividade de provimento de conteúdo audiovisual por demanda sujeitar-se-á às seguintes sanções aplicáveis pelo Poder Executivo, sem prejuízo de outras previstas em lei, inclusive as de natureza civil e penal:</p>
+            <Inciso id="art13_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>advertência;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>multa, inclusive diária;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>suspensão temporária do credenciamento, quando couber;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>cancelamento do credenciamento, quando couber.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na aplicação de sanções, serão considerados a natureza e a gravidade da infração, os danos a terceiros dela resultantes, a vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidência específica, entendida como a repetição de falta de igual natureza após decisão administrativa anterior.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nas infrações praticadas por pessoa jurídica, também serão punidos com a sanção de multa seus administradores ou controladores, quando tiverem agido de má-fé.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A existência de sanção anterior será considerada como agravante na aplicação de outra sanção.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A multa poderá ser imposta isoladamente ou em conjunto com outra sanção, não devendo ser inferior a R$ 1.250,00 (mil duzentos e cinquenta reais) nem superior a R$ 25.000,00 (vinte e cinco mil reais) para cada infração cometida.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Na aplicação de multa, serão considerados a condição econômica do infrator e o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sanção.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A suspensão temporária do credenciamento, de até 30 (trinta) dias, será imposta em caso de infração grave cujas circunstâncias não justifiquem o cancelamento do credenciamento.</p>
+            <Inciso id="art13_par6_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Disposições finais</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>As empresas sujeitas a credenciamento junto ao Poder Executivo para exercício de atividades de provimento de conteúdo audiovisual por demanda deverão regularizar sua situação no prazo de 180 (cento e oitenta) dias, contados da publicação desta lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

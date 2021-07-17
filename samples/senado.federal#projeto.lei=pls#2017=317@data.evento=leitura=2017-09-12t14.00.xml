@@ -1,0 +1,448 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;317@data.evento;leitura;2017-09-12t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 317 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a regulamentação do exercício das profissões de Analista de Sistemas, Desenvolvedor, Engenheiro de Sistemas, Analista de Redes, Administrador de Banco de Dados, Suporte e suas correlatas, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>É livre, em todo o território nacional, o exercício das profissões de Analista de Sistemas, Desenvolvedor, Engenheiro de Sistemas, Analista de Redes, Administrador de Banco de Dados, Suporte e suas correlatas, observadas as disposições desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Poderão exercer a profissão de Analista de Sistemas:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os possuidores de diploma de nível superior em Análise de Sistemas, Ciência da Computação e Sistemas de Informação, expedido por escolas oficiais ou reconhecidas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os diplomados por escolas estrangeiras reconhecidas pelas leis de seu País, após a validação de seus diplomas de acordo com a legislação em vigor;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os que, na data de entrada em vigor desta Lei, tenham exercido, comprovadamente, durante o período de, no mínimo cinco anos, a função de Analista de Sistemas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Poderão exercer a profissão de Desenvolvedor:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os possuidores de diploma de nível superior em Análise de Sistemas, Ciência da Computação, Sistemas de Informação, Processamento de Dados, Engenharia da Computação, Tecnólogo em Desenvolvimento de Sistemas e correlatas, expedido por escolas oficiais ou reconhecidas;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os diplomados por escolas estrangeiras reconhecidas pelas leis de seu País, após a validação de seus diplomas de acordo com a legislação em vigor;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os que, na data de entrada em vigor desta Lei, tenham exercido, comprovadamente, durante o período de, no mínimo cinco anos, a função de Desenvolvedor de Sistemas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Poderão exercer a profissão de Engenheiro de Sistemas:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os possuidores de diploma de nível superior em Análise de Sistemas, Ciência da Computação, Sistemas de Informação, Engenharia de Sistemas, Tecnólogo em Engenharia da Sistemas e correlatas, expedido por escolas oficiais ou reconhecidas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os diplomados por escolas estrangeiras reconhecidas pelas leis de seu País, após a validação de seus diplomas de acordo com a legislação em vigor;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os que, na data de entrada em vigor desta Lei, tenham exercido, comprovadamente, durante o período de, no mínimo cinco anos, a função de Desenvolvedor de Sistemas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Poderão exercer a profissão de Analista de Redes:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os possuidores de diploma de nível superior em Análise de Sistemas, Ciência da Computação, Rede de computadores, Tecnólogo em Rede de computadores e correlatas, expedido por escolas oficiais ou reconhecidas;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os diplomados por escolas estrangeiras reconhecidas pelas leis de seu País, após a validação de seus diplomas de acordo com a legislação em vigor;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os que, na data de entrada em vigor desta Lei, tenham exercido, comprovadamente, durante o período de, no mínimo cinco anos, a função de Analista de Redes de Computadores.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Poderão exercer a profissão de Administrador de Bancos de Dados:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os possuidores de diploma de nível superior em Análise de Sistemas, Ciência da Computação, Sistemas de informação, Administração em Bancos de Dados, tecnólogo em Bancos de Dados e correlatas, expedido por escolas oficiais ou reconhecidas;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os diplomados por escolas estrangeiras reconhecidas pelas leis de seu País, após a validação de seus diplomas de acordo com a legislação em vigor;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os que, na data de entrada em vigor desta Lei, tenham exercido, comprovadamente, durante o período de, no mínimo cinco anos, a função de Administrador de Banco de Dados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Poderão exercer a profissão de Suporte em Informática:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os possuidores de diploma de nível superior em Tecnologia da Informação e correlatas, expedido por escolas oficiais ou reconhecidas;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os estudantes de curso de graduação em Tecnologia, a partir do segundo semestre;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os diplomados por escolas estrangeiras reconhecidas pelas leis de seu País, após a validação de seus diplomas de acordo com a legislação em vigor;</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>São atribuições do Analista de Sistemas e do Engenheiro de Sistemas:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejamento, coordenação e execução de projetos de sistemas de informação, como tais entendidos os que envolvam o processamento de dados ou utilização de recursos de informática e automação;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>elaboração de orçamentos e definições operacionais e funcionais de projetos e sistemas para processamento de dados, informática e automação;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>definição, estruturação, teste e simulação de programas e sistemas de informação;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>elaboração e codificação de programas;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estudos de viabilidade técnica e financeira para implantação de projetos e sistemas de informação, assim como máquinas e aparelhos de informática e automação.</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>controle e operação de sistemas de processamento de dados que demandem acompanhamento especializado.</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>estudos, análises, avaliações, vistorias, pareceres, perícias e auditorias de projetos e sistemas de informação;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>ensino, pesquisa, experimentação e divulgação tecnológica.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ao Analista de Sistemas caberá a responsabilidade técnica por projetos e sistemas para processamento de dados, informática e automação, assim como a emissão de laudos, relatórios ou pareceres técnicos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>São atribuições dos profissionais de Desenvolvimento de Sistemas:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>definições operacionais e funcionais de projetos e sistemas para processamento de dados;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>definição, estruturação, teste e simulação de programas e sistemas de informação;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>elaboração e codificação de programas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>São atribuições do Analista de Redes de Computadores:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejamento, coordenação e execução de projetos de redes computacionais;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>elaboração de orçamentos e definições operacionais e funcionais de projetos de redes de computadores;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estudos de viabilidade técnica e financeira para implantação de projetos de redes de computadores;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>controle e operação de projetos de redes de computadores.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>São atribuições do Administrador de Banco de Dados:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejamento, coordenação e execução de projetos de banco de dados;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>elaboração de orçamentos e definições operacionais e funcionais de projetos de banco de dados;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estudos de viabilidade técnica e financeira para implantação de projeto de banco de dados;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>controle e operação de projetos banco de dados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>São atribuições dos profissionais de Suporte Técnico em Informática:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>suporte técnico e consultoria especializada em informática e automação;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>qualquer outra atividade que, por sua natureza, esteja incluída no âmbito de suas profissões.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Ao responsável por plano, projeto, sistema ou programa é assegurado o direito de acompanhar a sua execução e implantação, para garantir a sua realização conforme as condições, especificações e detalhes técnicos estabelecidos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>A jornada de trabalho dos profissionais de que trata esta Lei não excederá quarenta horas semanais, facultada a compensação de horários e a redução de jornada mediante acordo ou convenção coletiva de trabalho.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>A jornada de trabalho dos profissionais submetidos a atividades que demandem esforço repetitivo, como a do Desenvolvedor de Sistemas e Suporte Técnico, será de vinte horas semanais, não excedendo a cinco horas diárias, já computado um período de quinze minutos para descanso.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

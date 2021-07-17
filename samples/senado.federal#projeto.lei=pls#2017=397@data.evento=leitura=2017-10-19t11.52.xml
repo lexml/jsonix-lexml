@@ -1,0 +1,256 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;397@data.evento;leitura;2017-10-19t11.52"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 397 DE 2017</Epigrafe>
+      <Ementa id="ementa">Torna obrigatória a divulgação dos custos efetivos de operações de empréstimos, financiamentos e arrendamento mercantil.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta lei estatui regras de divulgação dos custos e da taxa de juros efetiva incidentes sobre operações de empréstimos, arrendamento mercantil e de financiamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Para efeitos desta lei, são considerados:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>empréstimos: qualquer operação em que uma instituição disponibiliza recursos financeiros a um mutuário, sem destinação específica estabelecida em contrato;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>financiamento: qualquer forma modalidade de parcelamento de valor, inclusive por meio de cartão de crédito, quando o montante recebido destine-se: à aquisição de bens de qualquer natureza; ou à contratação de serviços que não sejam de prestação continuada;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>arrendamento mercantil: contrato de natureza econômica e financeira, pelo qual uma empresa cede em locação a outrem um bem móvel ou imóvel, mediante o pagamento parcelado de determinado preço.</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>serviços de prestação continuada: serviços prestados a cada período, com tendência de manter-se permanentemente ou por período mínimo de um ano, a exemplo das prestações escolares, planos de saúde, e fornecimento de água, energia, assinaturas em geral, telefonia, banda larga e outros de semelhante natureza;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>custo efetivo total (CET): a soma de todos os custos incidentes em uma operação de empréstimo, de financiamento ou de arrendamento mercantil, e compreende: os juros totais da operação; todos os encargos e despesas da operação; tributos; tarifas; seguros; honorários de despachantes; custos relacionados a registro de contrato; outras despesas cobradas na operação, sejam elas obrigatórias ou opcionais; e o preço total a pagar, assim entendido como o somatório nominal dos adiantamentos e das prestações a serem pagas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Antes da contratação de qualquer operação de crédito, de financiamento ou de arrendamento mercantil, a instituição concedente apresentará ao cliente demonstrativo da operação, nele identificando:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o valor líquido a ser financiado ou emprestado;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a composição do custo efetivo total, discriminada na forma do inciso V do art. 2º;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o fluxo de pagamentos a ser efetivado pelo cliente;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a taxa percentual de custo efetivo anual da operação projetada para a operação, em valor percentual;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a taxa percentual de custo efetivo mensal projetada para a operação;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a data da elaboração do demonstrativo; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o valor de toda e qualquer despesa ou custo pagos antecipadamente.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A taxa unitária de custo efetivo total anual - CET será calculada a partir da seguinte fórmula: Onde: FC0 - valor do crédito concedido, deduzido das despesas e tarifas pagas antecipadamente; FCj - valores cobrados, incluindo amortizações, juros, prêmio de seguro e tarifa de cadastro ou de renovação de cadastro, bem como qualquer outro custo ou encargo cobrado; j - j-ésimo intervalo existente entre a data do pagamento dos valores periódicos e a data do desembolso inicial, expresso em dias corridos; N - prazo do contrato, expresso em dias corridos; dj - data do pagamento dos valores cobrados, periódicos ou não (FCj); d0 - data da liberação do crédito pela instituição (FC0).</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A unitária taxa de custo efetivo total mensal CETm será calculada com base na seguinte fórmula:</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            <TituloDispositivo>CETm = ((1 + CET)1/12) -1)</TituloDispositivo>
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Nenhuma operação de empréstimo, financiamento ou arrendamento mercantil poderá ser contratada sem a prévia apresentação ao cliente do documento de que trata o art. 3º, e sem seu aceite, por meio de assinatura.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Nas operações efetivadas por meio da rede mundial de computadores – internet – admite-se o aceite por meio de indicação, pelo cliente, em preenchimento de forma eletrônica, desde que o sítio apresente, de forma clara e indiscutivelmente legível, o conteúdo do extrato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Qualquer contratação em descumprimento às normas estabelecidas nesta lei confere ao consumidor o direito:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>de receber a integralidade dos juros incidentes sobre todo o contrato e que já tenham sido pagos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de não pagar os juros sobre prestações ainda não pagas; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>de não pagar multa por atraso de qualquer prestação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O extrato apresentado ao cliente e por ele aceito tem validade por trinta dias, obrigando-se a instituição a manter aquela taxa durante esse período.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Todo informe publicitário relativo a empréstimos, financiamentos e operações de arrendamento mercantil deverá informar os dados elencados no art. 3º.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Caso o custo efetivo total englobe taxas de juros flutuantes, índices de preços ou outros referenciais de remuneração cujo valor se altere no decorrer do prazo da operação, esses componentes devem ser destacados no demonstrativo a que se refere o art. 3º, mediante explicitação, em valores nominais, dos juros totais a que alude o art. 1o.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Nas hipóteses previstas no caput, o cálculo das taxas de juros mensal e anual deve ser elaborado por aproximação, com base nas taxas mensais verificadas nos respectivos juros ou índices nos seis meses anteriores à elaboração do demonstrativo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O descumprimento das normas previstas nesta Lei confere ao consumidor, desde que concretizada a operação, o direito de pagar exclusivamente o capital principal, sem qualquer juro ou custo assessório, na periodicidade estipulada em contrato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

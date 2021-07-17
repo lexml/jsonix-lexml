@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;11"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 11 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta os arts. 1.345-A e 1.345-B à <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> – Código Civil, para permitir a aquisição de imóvel para a recuperação de cotas condominiais vencidas e não pagas ou para acrescer benfeitorias voluptuárias ou úteis.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>Esta Lei acrescenta os arts. 1.345-A e 1.345-B à <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> - Código Civil, para permitir a arrematação ou adjudicação de imóvel para a recuperação de cotas condominiais vencidas e não pagas ou para acrescer benfeitorias voluptuárias ou úteis.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> - Código Civil, passa a vigorar acrescida dos seguintes arts. 1.345-A e 1.345-B:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-01-10;10406" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-01-10;10406 -> MatchByBase(urn:lex:br:federal:lei:2002-01-10;10406,2002,Some((1,10)),Map(art1345-2 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1345-2), art1345-1_par2 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1345-1_par2), art1345-1 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1345-1), art1345-1_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1345-1_cpt), art1345-2_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1345-2_cpt), art1345-1_par1 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1345-1_par1)))))-->
+              <Artigo xlink:href="art1345-1" id="art2_cpt_alt1_art1345-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.345-A.</Rotulo>
+            
+            <Caput xlink:href="art1345-1_cpt" id="art2_cpt_alt1_art1345-1_cpt">
+            
+            
+            
+            <p>O condomínio edilício, para a recuperação das cotas condominiais vencidas e não pagas, poderá arrematar, adjudicar ou receber por dação em pagamento unidades autônomas da própria estrutura edilícia ou qualquer outro bem imóvel.</p>
+            
+          </Caput><Paragrafo xlink:href="art1345-1_par1" id="art2_cpt_alt1_art1345-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os bens imóveis arrematados, adjudicados e os recebidos por dação em pagamento deverão ser alienados ou locados, tão logo seja possível, pelo valor de mercado, para o retorno do valor pecuniário ao caixa condominial.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1345-1_par2" id="art2_cpt_alt1_art1345-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As despesas referentes ao imóvel, enquanto não for alienado ou locado, serão distribuídas entre os condôminos, proporcionalmente às suas cotas condominiais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art1345-2" id="art2_cpt_alt1_art1345-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.345-B.</Rotulo>
+            
+            <Caput xlink:href="art1345-2_cpt" id="art2_cpt_alt1_art1345-2_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O condomínio edilício, para fins de benfeitorias voluptuárias ou úteis, poderá adquirir unidades imobiliárias autônomas do condomínio ou imóvel contíguo, mediante autorização de dois terços dos condôminos, se voluptuárias, ou da maioria dos condôminos, se úteis.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

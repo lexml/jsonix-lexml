@@ -1,0 +1,106 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;21@data.evento;leitura;2017-06-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 21 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o intralimite de concessão de garantias pela União às operações de crédito interno e externo dos Estados, do Distrito Federal e dos Municípios.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Resolução estabelece regras sobre o intralimite de concessão de garantias às operações de crédito interno e externo dos Estados, do Distrito Federal, dos Municípios e respectivas empresas estatais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:2007;48!art9-->
+            
+            
+            <p>Observado o limite de que trata o <span xlink:href="urn:lex:br:federal:resolucao:2007;48!art9">art. 9º da Resolução do Senado Federal nº 48, de 2007</span>, deverá ser estabelecido, mediante deliberação do Senado Federal, intralimite das garantias concedidas pela União.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O intralimite a que se refere o caput vigerá por um ano e observará:</p>
+            <Inciso id="art2_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a meta de resultado primário estimada para os Estados, o Distrito Federal e os Municípios, prevista na Lei de Diretrizes Orçamentárias para o exercício financeiro de referência;</p>
+            
+          </Inciso><Inciso id="art2_par1u_inc2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art59_par1_inc3-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>o limite de concessão de garantia previsto no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art59_par1_inc3">inciso III do § 1º do art. 59 da Lei Complementar nº 101, de 4 de maio de 2000</span>;</p>
+            
+          </Inciso><Inciso id="art2_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a capacidade de pagamento dos entes da federação, conforme metodologia definida em Portaria do Ministério da Fazenda e aplicada pela Secretaria do Tesouro Nacional; e</p>
+            
+          </Inciso><Inciso id="art2_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o valor anual das novas operações de crédito passíveis de contratação junto às instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil com órgãos e entidades do setor público, conforme estabelecido pelo Conselho Monetário Nacional.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O intralimite a que se refere o art. 2º desta Resolução poderá ser fixado, ou revisado, por proposta do Presidente da República ou por iniciativa da Comissão de Assuntos Econômicos do Senado Federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A Secretaria do Tesouro Nacional deverá divulgar, quadrimestralmente, em sítio eletrônico, o nível de comprometimento do intralimite a que se refere o art. 2º desta Resolução.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,448 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;104"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 104 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui e estabelece diretrizes para a Política Nacional de Erradicação da Fome e de Promoção da Função Social dos Alimentos (Pefsa), fundamentada em uma sociedade fraterna, justa e solidária.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei institui e estabelece diretrizes para a Política Nacional de Erradicação da Fome e de Promoção da Função Social dos Alimentos (Pefsa), fundamentada em uma sociedade fraterna, justa e solidária, com o cumprimento da função social dos alimentos.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Esta Lei não se aplica aos produtos cujo objetivo primário não seja a alimentação humana.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Fica instituída a Política Nacional de Erradicação da Fome e de Promoção da Função Social dos Alimentos (Pefsa), fundamentada em uma sociedade fraterna, justa e solidária, com o cumprimento da função social dos alimentos.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As ações no âmbito da Pefsa observarão as diretrizes constantes desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A função social dos alimentos é cumprida quando os processos de produção, beneficiamento, transporte, distribuição, armazenamento, comercialização, exportação, importação ou transformação industrial tenham como resultado o consumo humano de forma justa e solidária.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não cumprem sua função social os alimentos considerados pela legislação vigente como aptos para o consumo humano que não tiverem tal destinação e que poderiam tê-la caso fossem submetidos a beneficiamento ou processamento adequados.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para garantir o cumprimento de sua função social, o alimento considerado pela legislação vigente como apto para o consumo humano deve ser submetido a técnicas adequadas de beneficiamento ou de processamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Para os efeitos desta Lei, entende-se por:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>alimento - toda substância ou mistura de substâncias, no estado sólido, líquido, pastoso ou em qualquer outra forma adequada, destinada a fornecer ao organismo humano os elementos necessários a sua formação, manutenção e desenvolvimento;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>erradicação da fome - o combate aos diferentes níveis de insegurança alimentar da população, segundo as categorias da Escala Brasileira de Insegurança Alimentar (Ebia);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>segurança alimentar - acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>beneficiamento de alimentos - limpeza, secagem, polimento, descascamento, descaroçamento, parboilização, ou outras operações por que passam certos produtos agrícolas antes de serem processados ou distribuídos para consumo;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>processamento de alimentos - processos, métodos e tecnologias voltados à transformação ou à preservação dos alimentos, que lhes agregue valor e estabilidade;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>destinação inadequada - descarte, incineração, lançamento em aterros sanitários ou lixões, inutilização ou reciclagem de alimentos considerados aptos ao consumo humano, que os impeçam de cumprir sua função social;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>desperdício de alimentos - qualquer forma de utilização dos alimentos produzidos e considerados aptos para o consumo humano, que não priorize sua função social, definida nos termos desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>São objetivos da Política Nacional de Erradicação da Fome e de Promoção da Função Social dos Alimentos (Pefsa):</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a preservação da vida e a erradicação da fome, inclusive em situações emergenciais e em catástrofes;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a busca de uma sociedade fraterna;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o combate ao desperdício de alimentos, bem como dos recursos naturais, econômicos e sociais empregados em sua produção;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o estímulo à adoção de novos processos, métodos e tecnologias que contribuam para o alcance da função social dos alimentos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o incentivo à pesquisa e desenvolvimento em segurança, nutrição, qualidade e tecnologias alimentares com vista a evitar a destinação inadequada dos alimentos e a contribuir para o cumprimento de sua função social;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a racionalização do manejo dos alimentos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o estímulo à adoção de padrões sustentáveis de produção e consumo de alimentos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>São princípios da Pefsa:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o direito à vida;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o respeito à dignidade humana;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a universalidade e a equidade no acesso à alimentação adequada;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a segurança alimentar;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o desenvolvimento sustentável;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a cooperação entre as diferentes esferas do poder público, o setor empresarial e demais segmentos da sociedade;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a cooperação de caráter humanitário com nações cuja população se encontre em situação de insegurança alimentar, inclusive em decorrência de catástrofes;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a responsabilidade compartilhada pelo ciclo de vida dos alimentos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>o reconhecimento do combate ao desperdício dos alimentos como bem jurídico-econômico e de valor social, garantidor do direito à vida;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>o respeito às diversidades locais e regionais;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>o direito da sociedade à informação e ao controle social;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>a razoabilidade e a proporcionalidade;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>a capacitação contínua dos que atuam em processos, métodos e tecnologias voltados para a garantia da função social dos alimentos.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplicam-se também à Pefsa os princípios da precaução, da prevenção, do poluidor-pagador e do protetor-recebedor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>São instrumentos para a consecução dos objetivos da Pefsa:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>plano de ação;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>incentivos econômicos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cadastro nacional de boas práticas de manejo, processamento e conservação de alimentos nos setores de produção, beneficiamento, transporte, distribuição, armazenamento, comercialização, exportação, importação ou transformação industrial;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>certificação quanto ao cumprimento da função social dos alimentos por empreendimentos ou processos associados aos setores de produção, beneficiamento, transporte, distribuição, armazenamento, comercialização, exportação, importação ou transformação industrial;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>criação de centros de pesquisa dedicados ao desenvolvimento de tecnologias, métodos e processos relacionados ao beneficiamento, ao processamento, ao enriquecimento nutricional, à garantia da qualidade, à segurança e à conservação dos alimentos, de maneira que estes cumpram sua função social.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Poder Executivo federal disporá sobre normas, procedimentos e requisitos a serem observados na certificação e no credenciamento de entidades e profissionais certificadores, e sobre a forma e a periodicidade mínima de monitoramento e fiscalização dos empreendimentos ou processos certificados na forma do inciso IV do caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O plano de ação de que trata o inciso I caput do art. 7º desta Lei contemplará:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estímulos à conscientização e à informação que visem ao esclarecimento e ao comprometimento dos agentes econômicos e da população em relação à necessidade de erradicação da fome, de destinação adequada de alimentos e de se evitar o desperdício no uso dos recursos naturais empregados na produção de alimentos;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>incentivos e fomento à realização de estudos e pesquisas para o desenvolvimento de tecnologias, métodos e processos de manejo, beneficiamento e conservação mais eficientes de alimentos que não cumprem com a função social;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>desenvolvimento de plano de gerenciamento de alimentos visando ao levantamento das informações referentes à produção, ao consumo, aos estoques públicos existentes de alimentos, ao diagnóstico quanto à insegurança alimentar predominante em cada localidade e às ações necessárias para que se cumpram os objetivos do Pefsa;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>adoção das melhores práticas disponíveis às operações de produção, transporte, armazenamento, manejo, beneficiamento e processamento de alimentos, de forma a evitar sua deterioração, perecimento e destinação inadequada;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>implantação de unidades de beneficiamento ou de processamento de alimentos em regiões nas quais se verifique destinação inadequada de volumes significativos de alimentos;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>capacitação contínua dos que atuam em processos, métodos e tecnologias voltados para a garantia da função social dos alimentos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Para os fins de que trata esta Lei, são aplicáveis os seguintes incentivos:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>creditícios, que compreendem a concessão de financiamentos em condições favorecidas, com admissão de créditos a título não reembolsável;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>programas de financiamento e incentivo à pesquisa e desenvolvimento de tecnologias, métodos, processos e equipamentos, para garantir que os alimentos cumpram com sua função social;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>isenção de Imposto sobre Produtos Industrializados na fabricação pela indústria nacional de máquinas e equipamentos cujo uso esteja comprovadamente associado ao combate à insegurança alimentar;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>outros incentivos fiscais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-09-15;11346--><!--Link: urn:lex:br:federal:lei:1999-04-27;9795--><!--Link: urn:lex:br:federal:lei:2010-08-02;12305--><!--Link: urn:lex:br:federal:lei:1990-09-11;8078--><!--Link: urn:lex:br:federal:lei:1981-08-31;6938-->
+            
+            
+            <p>As ações a serem implementadas no âmbito da Pefsa articulam-se com o Sistema Nacional de Segurança Alimentar e Nutricional (Sisan), instituído pela <span xlink:href="urn:lex:br:federal:lei:2006-09-15;11346">Lei nº 11.346, de 15 de setembro de 2006</span>; a Política Nacional do Meio Ambiente, instituída pela nº <span xlink:href="urn:lex:br:federal:lei:1981-08-31;6938">Lei 6.938, de 31 de agosto de 1981</span>; o Código de Defesa do Consumidor, instituído pela <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span>; a Política Nacional de Educação Ambiental, instituída pela <span xlink:href="urn:lex:br:federal:lei:1999-04-27;9795">Lei nº 9.795, de 27 de abril de 1999</span>; e a Política Nacional de Resíduos Sólidos, instituída pela <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12305">Lei nº 12.305, de 2 de agosto de 2010</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Estão sujeitas à observância do disposto nesta Lei as pessoas físicas ou jurídicas, de direito público ou privado, responsáveis direta ou indiretamente pela produção, beneficiamento, processamento, manejo, distribuição, comercialização, consumo e destinação final de alimentos e de insumos necessários à sua produção.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

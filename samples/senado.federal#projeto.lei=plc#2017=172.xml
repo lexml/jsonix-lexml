@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;172"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 172 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1983-08-29;7116">Lei nº 7.116, de 29 de agosto de 1983</span>, para estabelecer que o número da Carteira de Identidade seja o mesmo em todo o território nacional.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei estabelece que o número da Carteira de Identidade seja o mesmo em todo o território nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1983-08-29;7116!art1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1983-08-29;7116!art1">art. 1º da Lei nº 7.116, de 29 de agosto de 1983</span>, passa a vigorar acrescido do seguinte parágrafo único:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1983-08-29;7116" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1983-08-29;7116 -> MatchByBase(urn:lex:br:federal:lei:1983-08-29;7116,1983,Some((8,29)),Map(art1 -> ExactMatch(URN(1983,Some((8,29)),art1,urn:lex:br:federal:lei:1983-08-29;7116!art1)), art1_cpt -> PrefixMatch(URN(1983,Some((8,29)),art1,urn:lex:br:federal:lei:1983-08-29;7116!art1),art1_cpt), art1_par1 -> PrefixMatch(URN(1983,Some((8,29)),art1,urn:lex:br:federal:lei:1983-08-29;7116!art1),art1_par1)))))-->
+              <Artigo xlink:href="art1" id="art2_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art2_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art1_par1u" id="art2_cpt_alt1_art1_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O número da Carteira de Identidade será o mesmo em todo o território nacional.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

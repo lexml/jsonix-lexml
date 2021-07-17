@@ -1,0 +1,202 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;76@data.evento;leitura;2017-03-29t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 76 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656">Lei nº 9.656, de 3 de junho de 1998</span>, que dispõe sobre os planos privados de assistência à saúde, para estabelecer o controle dos reajustes das mensalidades dos planos coletivos, assegurar a ampliação da oferta de planos individuais de assistência à saúde e regulamentar as rescisões contratuais unilaterais de planos coletivos por adesão.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-06-03;9656-->
+            
+            
+            <p>Os arts. 8º e 35–E da <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656">Lei nº 9.656, de 3 de junho de 1998</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-06-03;9656" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-06-03;9656 -> MatchByBase(urn:lex:br:federal:lei:1998-06-03;9656,1998,Some((6,3)),Map(art35_cpt -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art35_cpt), art35_par2_inc2 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art35_par2_inc2), art8 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art8), art8_cpt_inc8 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art8_cpt_inc8), art35_par2_inc1 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art35_par2_inc1), art35_par2 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art35_par2), art8_cpt -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art8_cpt), art35 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art35)))))-->
+              <Artigo xlink:href="art8" id="art1_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art1_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art8_cpt_omi1"/><Inciso xlink:href="art8_cpt_inc8" id="art1_cpt_alt1_art8_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>oferecer todos os tipos de contratação previstos no inciso VII do art. 16 desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art8_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art35" id="art1_cpt_alt1_art35" abreAspas="s">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput xlink:href="art35_cpt" id="art1_cpt_alt1_art35_cpt">
+            
+            
+            
+            <p>–E. .......................................</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art35_omi1"/><Paragrafo xlink:href="art35_par2" id="art1_cpt_alt1_art35_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Independentemente da data de sua celebração, a aplicação de cláusula de reajuste das contraprestações pecuniárias dependerá de prévia aprovação da ANS nos seguintes tipos de contratação de produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei:</p>
+            <Inciso xlink:href="art35_par2_inc1" id="art1_cpt_alt1_art35_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Individual;</p>
+            
+          </Inciso><Inciso xlink:href="art35_par2_inc2" id="art1_cpt_alt1_art35_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Coletivo de titulares com mais de sessenta anos de idade.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art35_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-06-03;9656!art13-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656!art13">art. 13 da Lei nº 9.656, de 3 de junho de 1998</span>, passa a vigorar acrescido dos seguintes §§ 2º, 3º e 4º, renomeando-se o parágrafo único como § 1º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-06-03;9656" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-06-03;9656 -> MatchByBase(urn:lex:br:federal:lei:1998-06-03;9656,1998,Some((6,3)),Map(art13_par3 -> PrefixMatch(URN(1998,Some((6,3)),art13,urn:lex:br:federal:lei:1998-06-03;9656!art13),art13_par3), art13 -> ExactMatch(URN(1998,Some((6,3)),art13,urn:lex:br:federal:lei:1998-06-03;9656!art13)), art13_par2 -> PrefixMatch(URN(1998,Some((6,3)),art13,urn:lex:br:federal:lei:1998-06-03;9656!art13),art13_par2), art13_cpt -> PrefixMatch(URN(1998,Some((6,3)),art13,urn:lex:br:federal:lei:1998-06-03;9656!art13),art13_cpt), art13_par4 -> PrefixMatch(URN(1998,Some((6,3)),art13,urn:lex:br:federal:lei:1998-06-03;9656!art13),art13_par4)))))-->
+              <Artigo xlink:href="art13" id="art2_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art2_cpt_alt1_art13_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art13_omi1"/><Paragrafo xlink:href="art13_par2" id="art2_cpt_alt1_art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedada, por iniciativa da operadora, a suspensão ou a rescisão unilateral dos contratos de planos privados de assistência à saúde coletivos por adesão, salvo se houver justa causa, assim definida em regulamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art13_par3" id="art2_cpt_alt1_art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Em caso de suspensão ou rescisão unilateral dos contratos previstos no caput, os consumidores serão notificados com antecedência mínima de sessenta dias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art13_par4" id="art2_cpt_alt1_art13_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A extinção ou cancelamento do vínculo do titular do plano coletivo por adesão com a entidade subestipulante não extingue o contrato, sendo assegurado aos dependentes já inscritos o direito à manutenção das mesmas condições contratuais, em plano individual, com a assunção das obrigações decorrentes.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-06-03;9656!art16-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656!art16">art. 16 da Lei nº 9.656, de 3 de junho de 1998</span>, passa a vigorar acrescido do seguinte § 2º, renomeando-se o parágrafo único como § 1º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-06-03;9656" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-06-03;9656 -> MatchByBase(urn:lex:br:federal:lei:1998-06-03;9656,1998,Some((6,3)),Map(art16 -> ExactMatch(URN(1998,Some((6,3)),art16,urn:lex:br:federal:lei:1998-06-03;9656!art16)), art16_cpt -> PrefixMatch(URN(1998,Some((6,3)),art16,urn:lex:br:federal:lei:1998-06-03;9656!art16),art16_cpt), art16_par2 -> PrefixMatch(URN(1998,Some((6,3)),art16,urn:lex:br:federal:lei:1998-06-03;9656!art16),art16_par2)))))-->
+              <Artigo xlink:href="art16" id="art3_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art3_cpt_alt1_art16_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art3_cpt_alt1_art16_omi1"/><Paragrafo xlink:href="art16_par2" id="art3_cpt_alt1_art16_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Assegura-se ao titular de plano coletivo com mais de sessenta anos de idade e, no mínimo, dez anos de vigência do contrato, migração para plano individual ou familiar da mesma operadora, com a mesma cobertura e sem cumprimento de novo prazo de carência.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-06-03;9656-->
+            
+            
+            <p>O art. 17–A da <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656">Lei nº 9.656, de 3 de junho de 1998</span>, passa a vigorar acrescido do seguinte § 6º, renumerando-se o atual § 6º como § 7º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-06-03;9656" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-06-03;9656 -> MatchByBase(urn:lex:br:federal:lei:1998-06-03;9656,1998,Some((6,3)),Map(art17 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art17), art17_cpt -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art17_cpt), art17_par6 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art17_par6)))))-->
+              <Artigo xlink:href="art17" id="art4_cpt_alt1_art17" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput xlink:href="art17_cpt" id="art4_cpt_alt1_art17_cpt">
+            
+            
+            
+            <p>–A. .......................................</p>
+            
+          </Caput><Omissis id="art4_cpt_alt1_art17_omi1"/><Paragrafo xlink:href="art17_par6" id="art4_cpt_alt1_art17_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os reajustes das contraprestações pecuniárias dos planos coletivos de assistência à saúde não poderão ultrapassar os índices máximos autorizados pela ANS para reajuste dos planos individuais ou familiares.</p>
+            
+          </Paragrafo><Omissis id="art4_cpt_alt1_art17_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor cento e oitenta dias após a data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

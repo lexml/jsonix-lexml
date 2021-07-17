@@ -1,0 +1,148 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;347@data.evento;leitura;2017-09-21t11.29"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 347 DE 2017</Epigrafe>
+      <Ementa id="ementa">Modifica os <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213!art120">arts. 120</span> e <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213!art121">121 da Lei nº 8.213, de 24 de julho de 1991</span>, e acrescenta o art. 40-B na <span xlink:href="urn:lex:br:federal:lei:1993-12-07;8742">Lei nº 8.742, de 7 de dezembro de 1993</span>, para dispor sobre o ajuizamento de ação regressiva, pela Previdência Social, contra quem, pela prática de ato ilícito, der causa ao pagamento de benefício previdenciário ou assistencial.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8213!art120--><!--Link: urn:lex:br:federal:lei:1991-07-24;8213!art121-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213!art120">arts. 120</span> e <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213!art121">121 da Lei nº 8.213, de 24 de julho de 1991</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1991-07-24;8213" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1991-07-24;8213 -> MatchByBase(urn:lex:br:federal:lei:1991-07-24;8213,1991,Some((7,24)),Map(art120_cpt_inc2 -> PrefixMatch(URN(1991,Some((7,24)),art120,urn:lex:br:federal:lei:1991-07-24;8213!art120),art120_cpt_inc2), art120_cpt -> PrefixMatch(URN(1991,Some((7,24)),art120,urn:lex:br:federal:lei:1991-07-24;8213!art120),art120_cpt), art120 -> ExactMatch(URN(1991,Some((7,24)),art120,urn:lex:br:federal:lei:1991-07-24;8213!art120)), art120_cpt_inc1 -> PrefixMatch(URN(1991,Some((7,24)),art120,urn:lex:br:federal:lei:1991-07-24;8213!art120),art120_cpt_inc1), art121 -> ExactMatch(URN(1991,Some((7,24)),art121,urn:lex:br:federal:lei:1991-07-24;8213!art121)), art121_cpt -> PrefixMatch(URN(1991,Some((7,24)),art121,urn:lex:br:federal:lei:1991-07-24;8213!art121),art121_cpt), art120_cpt_inc3 -> PrefixMatch(URN(1991,Some((7,24)),art120,urn:lex:br:federal:lei:1991-07-24;8213!art120),art120_cpt_inc3), art120_par1 -> PrefixMatch(URN(1991,Some((7,24)),art120,urn:lex:br:federal:lei:1991-07-24;8213!art120),art120_par1)))))-->
+              <Artigo xlink:href="art120" id="art1_cpt_alt1_art120" abreAspas="s">
+            
+            
+            <Rotulo>Art. 120.</Rotulo>
+            
+            <Caput xlink:href="art120_cpt" id="art1_cpt_alt1_art120_cpt">
+            
+            
+            
+            <p>A Previdência Social ajuizará ação regressiva contra aqueles que, pela prática de ato ilícito, derem causa ao pagamento de prestações previdenciárias, notadamente nos casos de:</p>
+            <Inciso xlink:href="art120_cpt_inc1" id="art1_cpt_alt1_art120_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>negligência quanto às normas padrão de saúde e segurança do trabalho indicadas para a proteção individual e coletiva;</p>
+            
+          </Inciso><Inciso xlink:href="art120_cpt_inc2" id="art1_cpt_alt1_art120_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2006-08-07;11340-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>violência doméstica e familiar, nos termos da <span xlink:href="urn:lex:br:federal:lei:2006-08-07;11340">Lei n° 11.340, de 7 de agosto de 2006</span>;</p>
+            
+          </Inciso><Inciso xlink:href="art120_cpt_inc3" id="art1_cpt_alt1_art120_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>acidentes de trânsito decorrentes de infrações graves ou gravíssimas às normas de trânsito, assim definidas no Código de Trânsito Brasileiro.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art120_par1u" id="art1_cpt_alt1_art120_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O ressarcimento corresponderá às prestações adimplidas nos 5 (cinco) anos que antecedam ao ajuizamento da ação regressiva, bem como àquelas que venham a ser adimplidas até a extinção dos benefícios</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art121" id="art1_cpt_alt1_art121" abreAspas="s">
+            
+            
+            <Rotulo>Art. 121.</Rotulo>
+            
+            <Caput xlink:href="art121_cpt" id="art1_cpt_alt1_art121_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>O pagamento, pela Previdência Social, das prestações previdenciárias decorrentes das situações indicadas no art. 120 não exclui a responsabilidade civil, penal ou administrativa de quem lhe deu causa.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-12-07;8742-->
+            
+            
+            <p>Inclua-se o art. 40-B na <span xlink:href="urn:lex:br:federal:lei:1993-12-07;8742">Lei nº 8.742, de 7 de dezembro de 1993</span>, com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1993-12-07;8742" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1993-12-07;8742 -> MatchByBase(urn:lex:br:federal:lei:1993-12-07;8742,1993,Some((12,7)),Map(art40-2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art40-2), art40-2_cpt_inc3 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art40-2_cpt_inc3), art40-2_cpt_inc2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art40-2_cpt_inc2), art40-2_cpt_inc1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art40-2_cpt_inc1), art40-2_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art40-2_cpt)))))-->
+              <Artigo xlink:href="art40-2" id="art2_cpt_alt1_art40-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 40-B.</Rotulo>
+            
+            <Caput xlink:href="art40-2_cpt" id="art2_cpt_alt1_art40-2_cpt">
+            
+            
+            
+            <p>A pessoa jurídica de direito público responsável pelo pagamento do benefício de prestação continuada ajuizará ação regressiva contra aqueles que, pela prática de ato ilícito, derem causa ao seu pagamento, notadamente nos casos de:</p>
+            <Inciso xlink:href="art40-2_cpt_inc1" id="art2_cpt_alt1_art40-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>negligência quanto às normas padrão de saúde e segurança do trabalho indicadas para a proteção individual e coletiva;</p>
+            
+          </Inciso><Inciso xlink:href="art40-2_cpt_inc2" id="art2_cpt_alt1_art40-2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2006-08-07;11340-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>violência doméstica e familiar, nos termos da <span xlink:href="urn:lex:br:federal:lei:2006-08-07;11340">Lei n° 11.340, de 7 de agosto de 2006</span>;</p>
+            
+          </Inciso><Inciso xlink:href="art40-2_cpt_inc3" id="art2_cpt_alt1_art40-2_cpt_inc3" fechaAspas="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>acidentes de trânsito decorrentes de infrações graves ou gravíssimas às normas de trânsito, assim definidas no Código de Trânsito Brasileiro.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O pagamento dos benefícios assistenciais não exclui a responsabilidade civil, penal ou administrativa de quem lhe deu causa.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O ressarcimento corresponderá às prestações adimplidas nos 5 (cinco) anos que antecedam ao ajuizamento da ação regressiva, bem como àquelas que venham a ser adimplidas até a extinção dos benefícios assistenciais”.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;31@data.evento;leitura;2017-08-31t11.14"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 31 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:resolucao:2001-12-21;43">Resolução do Senado Federal nº 43, de 21 de dezembro de 2001</span>, para possibilitar a contratação de operações de crédito externo e interno pelos consórcios públicos.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:2001-12-21;43-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:resolucao:2001-12-21;43">Resolução do Senado Federal nº 43, de 21 de dezembro de 2001</span>, passa a vigorar com as seguintes modificações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:2001-12-21;43" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:2001-12-21;43 -> MatchByBase(urn:lex:br:federal:resolucao:2001-12-21;43,2001,Some((12,21)),Map(art2_cpt_inc1 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art2_cpt_inc1), art35-1 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art35-1), art2_par1 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art2_par1), art2 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art2), art2_par2 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art2_par2), art2_cpt -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art2_cpt), art2_par2_inc1 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art2_par2_inc1), art20-1 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art20-1), art2_par2_inc2 -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art2_par2_inc2), art35-1_cpt -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art35-1_cpt), art20-1_cpt -> PrefixMatch(URN(2001,Some((12,21)),,urn:lex:br:federal:resolucao:2001-12-21;43),art20-1_cpt)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art2_cpt_inc1" id="art1_cpt_alt1_art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Estado, Distrito Federal e Município: as respectivas administrações diretas, os fundos, as autarquias, as fundações e as empresas estatais dependentes;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1"/><Paragrafo xlink:href="art2_par1" id="art1_cpt_alt1_art2_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par2" id="art1_cpt_alt1_art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Compreendem-se no inciso I do caput os consórcios públicos dos quais os entes da Federação participem, observadas as seguintes vedações:</p>
+            <Inciso xlink:href="art2_par2_inc1" id="art1_cpt_alt1_art2_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o consórcio público não deve ter como objetivo único a contratação de operações de crédito;</p>
+            
+          </Inciso><Inciso xlink:href="art2_par2_inc2" id="art1_cpt_alt1_art2_par2_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a União não deve figurar como consorciada.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art20-1" id="art1_cpt_alt1_art20-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 20-A.</Rotulo>
+            
+            <Caput xlink:href="art20-1_cpt" id="art1_cpt_alt1_art20-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Para os consórcios públicos, os limites e condições para a realização de crédito de que trata este Capítulo deverão ser atendidos, individual e proporcionalmente ao valor da operação de crédito, por cada ente da Federação consorciado.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art35-1" id="art1_cpt_alt1_art35-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 35-A.</Rotulo>
+            
+            <Caput xlink:href="art35-1_cpt" id="art1_cpt_alt1_art35-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Para os consórcios públicos, os requisitos previstos neste Capítulo para instruir os pedidos de autorização para a realização de operações de crédito deverão ser atendidos, individualmente, por cada ente da Federação consorciado.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

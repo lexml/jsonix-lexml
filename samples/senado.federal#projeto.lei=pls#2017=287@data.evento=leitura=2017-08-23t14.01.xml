@@ -1,0 +1,133 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;287@data.evento;leitura;2017-08-23t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 287 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2008-07-16;11738">Lei nº 11.738, de 16 de julho de 2008</span>, para reajustar o valor do piso salarial profissional nacional para os profissionais do magistério público da educação básica.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2008-07-16;11738!art2--><!--Link: urn:lex:br:federal:lei:2008-07-16;11738!art3--><!--Link: urn:lex:br:federal:lei:2008-07-16;11738!art4-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:2008-07-16;11738!art2">arts. 2º</span>, <span xlink:href="urn:lex:br:federal:lei:2008-07-16;11738!art3">3º</span> e <span xlink:href="urn:lex:br:federal:lei:2008-07-16;11738!art4">4º da Lei nº 11.738, de 16 de julho de 2008</span>, passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2008-07-16;11738" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2008-07-16;11738 -> MatchByBase(urn:lex:br:federal:lei:2008-07-16;11738,2008,Some((7,16)),Map(art3_cpt_inc4 -> PrefixMatch(URN(2008,Some((7,16)),art3,urn:lex:br:federal:lei:2008-07-16;11738!art3),art3_cpt_inc4), art3_cpt -> PrefixMatch(URN(2008,Some((7,16)),art3,urn:lex:br:federal:lei:2008-07-16;11738!art3),art3_cpt), art4_par3 -> PrefixMatch(URN(2008,Some((7,16)),art4,urn:lex:br:federal:lei:2008-07-16;11738!art4),art4_par3), art4 -> ExactMatch(URN(2008,Some((7,16)),art4,urn:lex:br:federal:lei:2008-07-16;11738!art4)), art2 -> ExactMatch(URN(2008,Some((7,16)),art2,urn:lex:br:federal:lei:2008-07-16;11738!art2)), art3_cpt_inc3 -> PrefixMatch(URN(2008,Some((7,16)),art3,urn:lex:br:federal:lei:2008-07-16;11738!art3),art3_cpt_inc3), art4_cpt -> PrefixMatch(URN(2008,Some((7,16)),art4,urn:lex:br:federal:lei:2008-07-16;11738!art4),art4_cpt), art2_cpt -> PrefixMatch(URN(2008,Some((7,16)),art2,urn:lex:br:federal:lei:2008-07-16;11738!art2),art2_cpt), art4_par1 -> PrefixMatch(URN(2008,Some((7,16)),art4,urn:lex:br:federal:lei:2008-07-16;11738!art4),art4_par1), art3_cpt_inc2 -> PrefixMatch(URN(2008,Some((7,16)),art3,urn:lex:br:federal:lei:2008-07-16;11738!art3),art3_cpt_inc2), art3 -> ExactMatch(URN(2008,Some((7,16)),art3,urn:lex:br:federal:lei:2008-07-16;11738!art3)), art2_par6 -> PrefixMatch(URN(2008,Some((7,16)),art2,urn:lex:br:federal:lei:2008-07-16;11738!art2),art2_par6), art3_cpt_inc1 -> PrefixMatch(URN(2008,Some((7,16)),art3,urn:lex:br:federal:lei:2008-07-16;11738!art3),art3_cpt_inc1), art4_par4 -> PrefixMatch(URN(2008,Some((7,16)),art4,urn:lex:br:federal:lei:2008-07-16;11738!art4),art4_par4), art4_par2 -> PrefixMatch(URN(2008,Some((7,16)),art4,urn:lex:br:federal:lei:2008-07-16;11738!art4),art4_par2)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394!art62-->
+            
+            
+            <p>O piso salarial profissional nacional para os profissionais do magistério público da educação básica, entendido como vencimento básico, será de R$ 7.767,94 (sete mil, setecentos e sessenta e sete reais e noventa e quatro centavos) mensais, para a formação em nível médio, na modalidade Normal, prevista no <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394!art62">art. 62 da Lei no 9.394, de 20 de dezembro de 1996</span>, que estabelece as diretrizes e bases da educação nacional.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1"/><Paragrafo xlink:href="art2_par6" id="art1_cpt_alt1_art2_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A União será responsável pelo pagamento de 70% (setenta por cento) do valor do piso salarial profissional nacional para os profissionais do magistério público da educação básica, a que se refere o caput deste artigo, para os professores das redes públicas dos Estados, do Distrito Federal e dos Municípios.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt">
+            
+            
+            
+            <p>A integralização do valor de que trata o art. 2º como vencimento básico inicial das Carreiras dos profissionais da educação básica pública, pela União, Estados, Distrito Federal e Municípios será feita de forma progressiva e proporcional, observado o seguinte:</p>
+            <Inciso xlink:href="art3_cpt_inc1" id="art1_cpt_alt1_art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a partir de 1º de janeiro de 2018, acréscimo de 1/4 (um quarto) da diferença entre o valor referido no art. 2º desta Lei, atualizado na forma do art. 5º desta Lei, e o piso salarial profissional nacional para os profissionais do magistério público da educação básica vigente;</p>
+            
+          </Inciso><Inciso xlink:href="art3_cpt_inc2" id="art1_cpt_alt1_art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a partir de 1º de janeiro de 2019, 1/4 (um quarto) da diferença entre o valor referido no art. 2º desta Lei, atualizado na forma do art. 5º desta Lei, e o valor resultante do observado no inciso I;</p>
+            
+          </Inciso><Inciso xlink:href="art3_cpt_inc3" id="art1_cpt_alt1_art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a partir de 1º de janeiro de 2019, 1/4 (um quarto) da diferença entre o valor referido no art. 2º desta Lei, atualizado na forma do art. 5º desta Lei, e o valor resultante do observado no inciso II;</p>
+            
+          </Inciso><Inciso xlink:href="art3_cpt_inc4" id="art1_cpt_alt1_art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a partir de 1º de janeiro de 2020, o acréscimo da diferença remanescente entre o valor de que trata o art. 2º desta Lei e o resultado do observado no inciso III, atualizado na forma do art. 5º desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>O repasse dos valores referidos no § 6º do art. 2º desta Lei, do caixa da União para os Estados, o Distrito Federal e os Municípios ocorrerá imediatamente ao órgão responsável pela educação, conforme o número de profissionais do magistério público da educação básica na respectiva rede, até o décimo dia de cada mês.</p>
+            
+          </Caput><Paragrafo xlink:href="art4_par1" id="art1_cpt_alt1_art4_par1">
+            <!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art60_cpt_inc6-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A União será responsável por cooperar financeiramente, na forma e no limite do disposto no <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art60_cpt_inc6">inciso VI do caput do art. 60 do Ato das Disposições Constitucionais Transitórias</span> e em regulamento, com o ente federativo que, a partir da consideração dos recursos constitucionalmente vinculados à educação, não tenha disponibilidade orçamentária para cumprir o valor fixado como de sua responsabilidade no pagamento do piso salarial profissional nacional para os profissionais do magistério público da educação básica dos docentes de sua respectiva rede pública.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par2" id="art1_cpt_alt1_art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O ente federativo deverá justificar sua necessidade e incapacidade, enviando ao Ministério da Educação solicitação fundamentada, acompanhada de planilha de custos comprovando a necessidade da complementação de que trata o § 1º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par3" id="art1_cpt_alt1_art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A União será responsável por cooperar tecnicamente com o ente federativo que não conseguir assegurar o pagamento da parte sob sua responsabilidade no piso, de forma a assessorá-lo no planejamento e aperfeiçoamento da aplicação de seus recursos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par4" id="art1_cpt_alt1_art4_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>De forma a assegurar o cumprimento do disposto no caput deste artigo os Estados, o Distrito Federal e os Municípios fornecerão à União informações detalhadas sobre a situação contratual de cada profissional do magistério público da educação básica de suas redes, na forma do regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

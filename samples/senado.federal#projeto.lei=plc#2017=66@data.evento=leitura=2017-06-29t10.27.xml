@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;66@data.evento;leitura;2017-06-29t10.27"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 66 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art50">art. 50 da Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), para dispor sobre a garantia contratual.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art50-->
+            
+            
+            <p>Esta Lei altera o <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art50">art. 50 da Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), para dispor sobre a garantia contratual.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art50-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art50">art. 50 da Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-11;8078" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-11;8078 -> MatchByBase(urn:lex:br:federal:lei:1990-09-11;8078,1990,Some((9,11)),Map(art50_par4 -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_par4), art50_par3 -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_par3), art50_par5 -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_par5), art50 -> ExactMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50)), art50_par1 -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_par1), art50_par6 -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_par6), art50_cpt -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_cpt), art50_par2 -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_par2), art50_par7 -> PrefixMatch(URN(1990,Some((9,11)),art50,urn:lex:br:federal:lei:1990-09-11;8078!art50),art50_par7)))))-->
+              <Artigo xlink:href="art50" id="art2_cpt_alt1_art50" abreAspas="s">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput xlink:href="art50_cpt" id="art2_cpt_alt1_art50_cpt">
+            
+            
+            
+            <p>A garantia contratual é complementar à legal e será conferida mediante termo escrito, e o uso do termo de garantia será obrigatório em todos os instrumentos de garantia legal e contratual.</p>
+            
+          </Caput><Paragrafo xlink:href="art50_par1" id="art2_cpt_alt1_art50_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O termo de garantia contratual será obrigatório e não poderá ser substituído por outro documento ou meio, e os fabricantes poderão também disponibilizar os termos de garantia de seus produtos em portal na rede mundial de computadores, cujo endereço deverá ser informado pelo fabricante no certificado de garantia.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par2" id="art2_cpt_alt1_art50_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O instrumento de garantia designará, obrigatoriamente, a data de início do prazo de garantia contratual e o tempo de sua vigência.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par3" id="art2_cpt_alt1_art50_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A garantia contratual terá que discriminar detalhadamente as situações cobertas e as não cobertas, sempre com destaque em negrito, de modo a facilitar a visualização do consumidor.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par4" id="art2_cpt_alt1_art50_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O termo de garantia contratual deverá, obrigatoriamente, especificar o local de exercício dos direitos oriundos do contrato, que, preferencialmente, incluirá a loja em que foi realizada a compra ou os locais de prestação de assistência técnica, mas a escolha do local será de vontade exclusiva do consumidor.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par5" id="art2_cpt_alt1_art50_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A garantia contratual não se confunde com a garantia securitária que será contratada por decisão exclusiva do consumidor e para vigorar após o término do prazo de garantia contratual disponibilizado pelo fabricante do produto.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par6" id="art2_cpt_alt1_art50_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A utilização da garantia contratual não acarretará ônus para o consumidor, em especial no tocante à remessa do produto para ser substituído ou reparado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par7" id="art2_cpt_alt1_art50_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>As instruções e ilustrações contidas nos manuais de instrução deverão apresentar tamanho suficiente para facilitar a visualização e a compreensão do consumidor, bem como ser redigidas em termos simples e comumente utilizados na linguagem cotidiana.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,910 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;116@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 116 DE 2017</Epigrafe>
+      <Ementa id="ementa">Regulamenta o art. 41, § 1º, III, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, para dispor sobre a perda do cargo público por insuficiência de desempenho do servidor público estável.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DAS DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Esta Lei Complementar disciplina a perda do cargo público por insuficiência de desempenho do servidor público estável, nos termos do art. 41, § 1º, III, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Subordinam-se ao regime desta Lei Complementar todos os órgãos e entidades da Administração Pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O desempenho profissional dos servidores públicos estáveis deverá ser avaliado periodicamente pelos órgãos e entidades da Administração Pública, assegurado o contraditório e a ampla defesa, nos termos desta Lei Complementar.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A avaliação de que trata esta Lei Complementar não substitui a avaliação de desempenho para fins de estágio probatório.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Para os fins desta Lei Complementar, considera-se:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>avaliado: servidor público estável que tenha exercido suas atribuições no cargo ou função por prazo igual ou superior a 25% do período avaliativo, não computadas as ausências ao serviço, sejam elas por motivo de férias, recessos, licenças ou outros afastamentos;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>avaliador: servidor público estável que exerça a chefia imediata do avaliado;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>período avaliativo: um semestre, nos termos do art. 5º;</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DA GESTÃO DO DESEMPENHO</NomeAgrupador>
+            <Secao id="cap2_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Das fases da gestão do desempenho</NomeAgrupador>
+            <Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A gestão do desempenho é um ciclo que envolve avaliador e avaliado e contempla as seguintes fases:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejamento da avaliação;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>acompanhamento das atividades realizadas ao longo do período avaliativo;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>avaliação de desempenho profissional mediante atribuição de conceitos de desempenho pelo avaliador, na forma detalhada nos arts. 11 a 13 desta Lei Complementar; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>retorno ao servidor acerca dos pontos que devem ser melhorados ou reforçados quanto ao seu desempenho.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O planejamento da avaliação compreende as seguintes etapas:</p>
+            <Inciso id="art4_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejamento das atividades do avaliado para o período avaliativo;</p>
+            
+          </Inciso><Inciso id="art4_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>seleção dos fatores avaliativos variáveis; e</p>
+            
+          </Inciso><Inciso id="art4_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>atribuição de pesos aos fatores avaliativos.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A realização das fases e etapas que possuem prazo fixado segue os cronogramas constantes do art. 5º a 7º desta Lei Complementar.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos Cronogramas para a Realização das Fases do Ciclo de Gestão do Desempenho Profissional</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O período avaliativo corresponderá a um semestre, compreendido entre 1º de abril e 30 de setembro, e entre 1º de outubro e 31 de março.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A determinação dos fatores avaliativos variáveis e respectivos pesos deverá ser realizada entre o 1º e o 15º dia útil do mês imediatamente anterior ao início do período avaliativo.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A homologação dos fatores variáveis e respectivos pesos pela chefia imediata dos avaliadores, se houver, deverá ocorrer entre o 16º e o último dia útil do mês anterior ao início do período avaliativo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A avaliação deverá ser concluída no mês imediatamente subsequente ao término do período avaliativo.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A atribuição dos conceitos de desempenho pelos avaliadores aos avaliados deverá ocorrer entre o 1º e o 8º dia útil do mês subsequente ao término do período avaliativo.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os conceitos de desempenho atribuídos pelos avaliadores serão submetidos à chefia imediata do avaliador, se houver, que deverá homologá-los ou alterá-los entre o 9º e 15º dia útil do mês subsequente ao término do período avaliativo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Dos Fatores Avaliativos</NomeAgrupador>
+            <Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Os fatores avaliativos fixos consistem em:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>qualidade: o avaliado realiza os trabalhos de forma adequada à finalidade a que se destinam, observando as normas e os procedimentos do órgão, e toma as providências necessárias para evitar a reincidência de erros e contribuir para a melhoria contínua;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>produtividade: o avaliado realiza os trabalhos a ele atribuídos com tempestividade, contribuindo para a obtenção dos resultados da unidade com eficiência e eficácia.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Os fatores avaliativos variáveis consistem em:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>relacionamento profissional: o avaliado cria e mantém vínculos pessoais e profissionais cooperativos e construtivos;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>foco no usuário/cidadão: o avaliado atende as necessidades do cliente/cidadão com confiabilidade e presteza;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>inovação: o avaliado propõe ideias aplicáveis a situações de trabalho;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>capacidade de iniciativa: o avaliado busca ou propõe soluções e age em tempo oportuno, antecipando as designações da chefia e adotando comportamentos que estão além de suas atribuições diretas e que contribuem para o desempenho da unidade;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>responsabilidade: o avaliado responde por suas ações, compromete-se com suas tarefas, deveres e normas, zela por bens e informações, buscando o alcance das metas da unidade e da instituição;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>solução de problemas: o avaliado propõe soluções consistentes para problemas enfrentados em situações de trabalho;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>tomada de decisão: o avaliado adota em tempo hábil a solução mais adequada entre possíveis alternativas;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>aplicação do conhecimento: o avaliado aplica oportunamente o conhecimento adquirido para a melhoria do desempenho pessoal e da equipe;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>compartilhamento de conhecimento: o avaliado compartilha conhecimentos que possam ser relevantes para o desenvolvimento de pessoas ou o aperfeiçoamento de atividades;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>compromisso com objetivos institucionais: o avaliado demonstra senso de responsabilidade, profissionalismo e compromisso com os objetivos de sua unidade;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>autodesenvolvimento: o avaliado investe na aprendizagem contínua para aprimorar seus conhecimentos, habilidades, atitudes e comportamentos; e</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>abertura a feedback: o avaliado utiliza feedback recebido para aprimorar o próprio desenvolvimento pessoal e profissional.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Os servidores serão avaliados pelos fatores avaliativos fixos “produtividade” e “qualidade”, acrescidos de cinco fatores variáveis, escolhidos de acordo com as atividades primordiais a serem realizadas no período avaliativo, observado o cronograma definido no art. 6º desta Lei Complementar.</p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A atribuição de pesos para os fatores avaliativos variáveis será realizada pelo avaliador, seguindo as diretrizes expedidas pelo órgão máximo de gestão de recursos humanos em que se insere a unidade avaliadora.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os servidores públicos vinculados ao mesmo avaliador na data da atribuição de pesos e que desenvolvam tarefas equivalentes devem ser avaliados sob o mesmo conjunto de fatores avaliativos e sob idêntica distribuição de pesos.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Cada fator avaliativo fixo corresponderá a vinte e cinco pontos percentuais.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O peso mínimo a ser atribuído a cada fator avaliativo variável corresponderá a cinco pontos percentuais.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Nos casos de não atribuição dos pesos pelo avaliador, conforme cronograma constante do art. 6º desta Lei, serão atribuídos os pesos definidos para os agentes públicos da respectiva unidade avaliadora no período avaliativo imediatamente anterior.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>É responsabilidade do avaliador envolver o avaliado no processo de escolha dos fatores avaliativos e lhe dar conhecimento, previamente ao início do período avaliativo e por escrito, dos fatores avaliativos e respectivos pesos pelos quais será avaliado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O avaliador atribuirá a cada fator avaliativo uma nota correspondente ao seu grau de atendimento, em escala de 0 a 10 pontos.</p>
+            
+          </Caput><Paragrafo id="art11_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As notas serão atribuídas conforme os seguintes critérios:</p>
+            <Inciso id="art11_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>igual ou superior a 9 pontos: o avaliado superou de forma excepcional o esperado para o fator avaliativo;</p>
+            
+          </Inciso><Inciso id="art11_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>igual ou superior a 7 e inferior a 9 pontos: o avaliado superou o esperado para o fator avaliativo;</p>
+            
+          </Inciso><Inciso id="art11_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>igual ou superior a 5 e inferior a 7 pontos: o avaliado atendeu o esperado para o fator avaliativo, ainda que com pequenas necessidades de ajustes;</p>
+            
+          </Inciso><Inciso id="art11_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>igual ou superior a 3 e inferior a 5 pontos: o avaliado atendeu apenas parcialmente o esperado para o fator avaliativo, com necessidade de acompanhamento e ajustes; e</p>
+            
+          </Inciso><Inciso id="art11_par1u_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>inferior a 3 pontos: o avaliado não atendeu o esperado para o fator avaliativo.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Dos Conceitos de Desempenho Profissional</NomeAgrupador>
+            <Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Os conceitos de desempenho profissional serão atribuídos conforme a média ponderada das notas atribuídas aos fatores avaliativos, observados os pesos estabelecidos nos §§ 3º e 4º do art. 10.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Os conceitos de desempenho profissional são os seguintes:</p>
+            <Inciso id="art13_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>superação (“S”): a média ponderada das notas atribuídas aos fatores avaliativos é igual ou superior a 80 pontos percentuais;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>atendimento (“A”): a média ponderada das notas atribuídas aos fatores avaliativos é igual ou superior a 50 pontos percentuais e inferior a 80 pontos percentuais;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>atendimento parcial (“P”): a média ponderada das notas atribuídas aos fatores avaliativos é igual ou superior a 30 pontos percentuais e inferior a 50 pontos percentuais; e</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>não atendimento (“N”): a média ponderada das notas atribuídas aos fatores avaliativos foi inferior 30 pontos percentuais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Da Unidade Avaliadora e dos Responsáveis pela Avaliação</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>O servidor público será avaliado na unidade em que tiver permanecido por mais tempo durante o período avaliativo.</p>
+            
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Caso haja igualdade no período de permanência em unidade, o servidor será avaliado na unidade onde tenha sido lotado por último.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>Compete à chefia imediata à qual o servidor ficou subordinado durante o período avaliativo e, em seus impedimentos legais, aos respectivos substitutos, avaliar o desempenho profissional dos servidores públicos a eles subordinados e indicar os conceitos de desempenho profissional detalhados no art. 13 desta Lei Complementar.</p>
+            
+          </Caput><Paragrafo id="art15_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Em caso de mudança da chefia imediata, compete ao gestor que ficou mais tempo no exercício da função a realização das avaliações e, nos impedimentos legais do ocupante anterior, ao titular da função no momento da realização da avaliação.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Do Planejamento das Atividades</NomeAgrupador>
+            <Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O planejamento das atividades a serem realizadas no período avaliativo deverá ser acordado entre avaliador e avaliado, em consonância com as metas institucionais.</p>
+            
+          </Caput><Paragrafo id="art16_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O planejamento das atividades deve ser flexível, permitindo repactuações ao longo do período avaliativo, sempre que houver necessidade de melhor adequá-lo aos resultados que se deseja alcançar.</p>
+            
+          </Paragrafo><Paragrafo id="art16_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O avaliador poderá realizar registro formal das atividades acordadas com o avaliado em sistema informatizado de planejamento de atividades, em solução específica de tecnologia da informação ou em outro suporte escolhido, informando o avaliado a respeito.</p>
+            
+          </Paragrafo><Paragrafo id="art16_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na existência de registro formal, é responsabilidade do avaliado o acesso ao sistema informatizado de planejamento de atividades, ou a outro suporte adotado pelo avaliador, para conhecimento dos trabalhos a ele atribuídos.</p>
+            
+          </Paragrafo><Paragrafo id="art16_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O planejamento das atividades registrado formalmente poderá ser utilizado, tanto pelo avaliador quanto pelo avaliado, entre outras situações, para subsidiar a análise realizada quando da discordância com os conceitos de desempenho atribuídos.</p>
+            
+          </Paragrafo><Paragrafo id="art16_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>É obrigatório o registro formal das atividades a serem realizadas pelo avaliado nas seguintes situações:</p>
+            <Inciso id="art16_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>servidores públicos com conceito final “P” ou “N” no período avaliativo anterior, conforme o art. 13 desta Lei Complementar;</p>
+            
+          </Inciso><Inciso id="art16_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>servidores públicos que tenham apresentado no período avaliativo anterior ou apresentem, no período avaliativo em curso, dificuldade na realização de suas tarefas, identificada pelo próprio avaliado ou pelo avaliador; ou</p>
+            
+          </Inciso><Inciso id="art16_par5_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>servidores públicos que manifestem formalmente necessidade de clareza quanto às suas atividades e metas de desempenho.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec7">
+            
+            
+            <Rotulo>SEÇÃO VII</Rotulo>
+            <NomeAgrupador>Do Acompanhamento das Atividades Realizadas</NomeAgrupador>
+            <Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>O acompanhamento das atividades realizadas pelo servidor público ao longo do período avaliativo incumbe ao avaliador.</p>
+            
+          </Caput><Paragrafo id="art17_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A critério do avaliador ou mediante requerimento formal do avaliado, será realizado o registro formal do acompanhamento a que se refere o caput.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec8">
+            
+            
+            <Rotulo>SEÇÃO VIII</Rotulo>
+            <NomeAgrupador>Da Avaliação do Avaliador</NomeAgrupador>
+            <Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>Ao fim de cada período avaliativo, todos os avaliados da unidade avaliadora deverão receber formulário contendo questionamento quanto aos critérios escolhidos para avaliação e à isenção no procedimento.</p>
+            
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os avaliados não serão identificados nos formulários de que trata o caput.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As respostas dos formulários não serão sigilosas, podendo ser utilizadas pelo avaliado com desempenho insatisfatório em eventual recurso contra avaliação.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DA REVISÃO E DOS RECURSOS RELATIVOS À ATRIBUIÇÃO DOS CONCEITOS DE DESEMPENHO PROFISSIONAL</NomeAgrupador>
+            <Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>O requerimento de revisão dos conceitos de desempenho profissional, na hipótese de lançamento incorreto, deverá ser encaminhado ao órgão máximo de gestão de recursos humanos em que se insere a unidade avaliadora, no prazo de dez dias, contados do lançamento dos conceitos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>O avaliado que não concordar com o conceito atribuído ao seu desempenho profissional poderá requerer reconsideração ao avaliador, no prazo de quinze dias, contados do lançamento da avaliação, devendo fundamentar seu pedido e expor as justificativas relativas a cada fator avaliativo que esteja contestando.</p>
+            
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Acolhido o pedido de reconsideração, o avaliador deverá solicitar ao órgão de gestão de recursos humanos em que se insere a unidade avaliadora a alteração dos conceitos inicialmente atribuídos.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Subsistindo a discordância, o pedido de reconsideração deve ser contra-arrazoado pelo avaliador, no prazo de quinze dias, contados da data de recebimento do pedido de reconsideração, dando-se ciência ao avaliado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>O avaliado pode apresentar recurso ao órgão máximo de gestão de recursos humanos em que se insere a unidade avaliadora, no prazo de quinze dias, contados da data da ciência do indeferimento, total ou parcial, do pedido de reconsideração.</p>
+            
+          </Caput><Paragrafo id="art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O órgão de que trata o caput decidirá a respeito do recurso em quinze dias, prorrogável por igual período, dando-se ciência do resultado ao avaliado e ao avaliador.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Antes da decisão de que trata o § 1º, serão ouvidas as chefias imediatas do avaliado e do avaliador, no prazo de cinco dias.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DO ACOMPANHAMENTO SISTEMÁTICO DA AVALIAÇÃO DE DESEMPENHO PROFISSIONAL</NomeAgrupador>
+            <Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>O acompanhamento sistemático das avaliações de desempenho profissional é dever do órgão máximo de gestão de recursos humanos em que se insere a unidade avaliadora.</p>
+            
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Concluído o período avaliativo, inclusive o destinado ao exame dos recursos de que trata o Capítulo III desta Lei Complementar, o órgão de que trata o caput identificará os servidores que obtiveram conceito final de atendimento parcial baixo (“P”) ou de não atendimento (“N”).</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O órgão de que trata o caput definirá, em conjunto com o avaliador, as ações destinadas à melhoria de desempenho dos avaliados com conceito final “P” em dois períodos avaliativos subsequentes ou conceito final “N” em um só período, mediante autuação de processo de apuração de insuficiência de desempenho.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O processo de que trata o § 2º terá por objetivo auxiliar o avaliado a identificar as causas da insuficiência de desempenho e superar as dificuldades encontradas, sendo obrigação do órgão de que trata o caput e do avaliador propor mecanismos de aprimoramento de desempenho para a próxima avaliação.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DO PROCESSO DE DESLIGAMENTO</NomeAgrupador>
+            <Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Será exonerado o servidor estável que receber:</p>
+            <Inciso id="art23_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quatro conceitos sucessivos “N”; ou</p>
+            
+          </Inciso><Inciso id="art23_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cinco conceitos interpolados “N” ou “P” nas últimas dez avaliações.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art23_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese de recurso de que trata o art. 21, exige-se o prévio julgamento para a atribuição do conceito final de cada avaliação.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A insuficiência de desempenho relacionada a problemas de saúde e psicossociais não será óbice à exoneração, se for constatada a falta de colaboração do servidor público no cumprimento das ações de melhoria sugeridas pelo órgão a que refere o art. 22.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Tratando-se de doença incapacitante, o servidor será aposentado por invalidez, na forma da Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>É indelegável a decisão dos recursos administrativos previstos nesta Lei Complementar.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DO PROCESSO DE DESLIGAMENTO DOS POLICIAIS, DOS PROCURADORES DOS ÓRGÃOS DE REPRESENTAÇÃO JUDICIAL, DOS DEFENSORES PÚBLICOS E DOS AUDITORES TRIBUTÁRIOS</NomeAgrupador>
+            <Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Os policiais, os procuradores dos órgãos de representação judicial da União, dos estados e do Distrito Federal, os defensores públicos da União, dos Estados e do Distrito Federal e os auditores tributários poderão recorrer contra a decisão de que trata o art. 23 à autoridade máxima do órgão ou entidade ao qual se vincula a unidade avaliadora, no prazo de quinze dias contados da data da ciência do indeferimento, total ou parcial do recurso.</p>
+            
+          </Caput><Paragrafo id="art25_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O recurso não será conhecido quando:</p>
+            <Inciso id="art25_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>interposto fora do prazo;</p>
+            
+          </Inciso><Inciso id="art25_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>não indicar o fator objeto da contestação; e</p>
+            
+          </Inciso><Inciso id="art25_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>desprovido de justificativa.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>A exoneração dos servidores de que trata o art. 25 dependerá de processo administrativo disciplinar específico, destinado à apuração da insuficiência de desempenho, assegurado o contraditório e a ampla defesa.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>O avaliador que não cumprir com as obrigações de avaliação previstas nesta Lei Complementar, na forma e nos prazos estabelecidos, terá contra si instaurado, automaticamente, procedimento disciplinar para apuração de descumprimento funcional, momento em que poderá apresentar as justificativas do descumprimento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>O ato de exoneração por insuficiência de desempenho será publicado, de forma resumida, no órgão oficial, com menção apenas do cargo, do número da matrícula e lotação do servidor.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação, iniciando-se o primeiro período avaliativo no dia 1º de outubro do ano subsequente à sua vigência.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

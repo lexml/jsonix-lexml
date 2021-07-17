@@ -1,0 +1,100 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;140"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 140 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera os <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decretos-Lei nºs 2.848, de 7 de dezembro de 1940</span> (Código Penal), e 3.689, de 3 de outubro de 1941 (Código de Processo Penal).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art65--><!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art115-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art65">arts. 65</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art115">115 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal), passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art65_cpt_inc1 -> PrefixMatch(URN(1940,Some((12,7)),art65,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art65),art65_cpt_inc1), art65_cpt -> PrefixMatch(URN(1940,Some((12,7)),art65,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art65),art65_cpt), art115 -> ExactMatch(URN(1940,Some((12,7)),art115,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art115)), art65 -> ExactMatch(URN(1940,Some((12,7)),art65,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art65)), art115_cpt -> PrefixMatch(URN(1940,Some((12,7)),art115,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art115),art115_cpt)))))-->
+              <Artigo xlink:href="art65" id="art1_cpt_alt1_art65" abreAspas="s">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput xlink:href="art65_cpt" id="art1_cpt_alt1_art65_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art65_cpt_inc1" id="art1_cpt_alt1_art65_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ser o agente maior de setenta anos, na data da sentença;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art65_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art115" id="art1_cpt_alt1_art115" abreAspas="s">
+            
+            
+            <Rotulo>Art. 115.</Rotulo>
+            
+            <Caput xlink:href="art115_cpt" id="art1_cpt_alt1_art115_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>São reduzidos de metade os prazos de prescrição quando o criminoso era, na data da sentença, maior de setenta anos.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art34-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art34">art. 34 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> (Código de Processo Penal), passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art34 -> ExactMatch(URN(1941,Some((10,3)),art34,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art34)), art34_cpt -> PrefixMatch(URN(1941,Some((10,3)),art34,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art34),art34_cpt)))))-->
+              <Artigo xlink:href="art34" id="art2_cpt_alt1_art34" abreAspas="s">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput xlink:href="art34_cpt" id="art2_cpt_alt1_art34_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Se o ofendido for menor de dezoito e maior de dezesseis anos, o direito de queixa poderá ser exercido por ele ou por seu representante legal.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

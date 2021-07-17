@@ -1,0 +1,211 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;121"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 121 DE 2017</Epigrafe>
+      <Ementa id="ementa">Cria a Política de Preços Mínimos do Transporte Rodoviário de Cargas; e altera a <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442">Lei nº 11.442, de 5 de janeiro de 2007</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei cria a Política de Preços Mínimos do Transporte Rodoviário de Cargas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Para os fins do disposto nesta Lei, entende-se por:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p> carga geral - aquela embarcada e transportada com acondicionamento, marca de identificação e contagem de unidades;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p> carga a granel - aquela líquida ou seca embarcada e transportada sem acondicionamento, marca de identificação, e contagem de unidades;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p> carga frigorificada - aquela que necessita ser refrigerada ou congelada para conservar as qualidades essenciais do produto transportado;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p> carga perigosa - aquela passível de provocar acidentes, ocasionar ou potencializar riscos, danificar cargas ou meios de transporte e gerar perigo às pessoas que a manipulam; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p> carga neogranel - aquela formada por conglomerados homogêneos de mercadorias, de carga geral, sem acondicionamento específico, cujo volume ou quantidade possibilite o transporte em lotes, em um único embarque.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A Política de Preços Mínimos do Transporte Rodoviário de Cargas tem como finalidade promover condições razoáveis à realização de fretes em todo o território nacional, de forma a proporcionar retribuição ao serviço prestado em patamar adequado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O transporte rodoviário de cargas, em âmbito nacional, obedece aos preços fixados com base nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Para a execução da Política de Preços Mínimos do Transporte Rodoviário de Cargas, será editada pelo órgão competente, nos meses de janeiro e julho, tabela com os valores mínimos referentes ao quilômetro rodado na realização de fretes, por eixo carregado, consideradas as especificidades das cargas definidas no art. 2º desta Lei.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A publicação da tabela a que se refere o caput deste artigo deve ocorrer até o dia vinte dos meses de janeiro e julho de cada ano, e a tabela terá validade para o semestre em que for editada.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os preços definidos na tabela a que se refere o caput deste artigo têm natureza vinculativa, e sua não observância sujeita o infrator às penalidades pertinentes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O processo de definição dos preços mínimos deve contar com a participação dos sindicatos de empresas de transportes e de transportadores autônomos de cargas, bem como dos representantes das cooperativas de transporte de cargas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Os preços mínimos serão fixados levando-se em conta, prioritariamente, a oscilação e a importância do valor do óleo diesel e dos pedágios na composição dos custos do frete.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Até que seja editada a norma referida no art. 5º desta Lei, ficam definidos os seguintes valores mínimos, com aplicação imediata em âmbito nacional:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>carga geral, carga a granel e carga neogranel: R$ 0,70 (setenta centavos de real) por quilômetro rodado para cada eixo carregado; e</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>carga frigorificada (refrigerada) e carga perigosa: R$ 0,90 (noventa centavos de real) por quilômetro rodado para cada eixo carregado.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Nos fretes curtos, realizados em distâncias inferiores a oitocentos quilômetros, os valores mencionados nos incisos I e II do caput deste artigo ficam acrescidos de, no mínimo, 15% (quinze por cento).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Do total de recursos financeiros aplicados pelo Governo Federal no pagamento de transporte rodoviário de cargas, no mínimo 40% (quarenta por cento) deverão ser utilizados na contratação de fretes realizados por cooperativas de transporte rodoviário de cargas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:lei:2007-01-05;11442-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442">Lei nº 11.442, de 5 de janeiro de 2007</span>, passa a vigorar acrescida do seguinte art. 5º-B:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2007-01-05;11442" id="art10_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2007-01-05;11442 -> MatchByBase(urn:lex:br:federal:lei:2007-01-05;11442,2007,Some((1,5)),Map())))-->
+              <p>“Art. 5º-B A remuneração da ETC, quando o frete for realizado por TAC, não poderá ser superior a 5% (cinco por cento) da importância por ele pactuada com o embarcador ou o proprietário da carga, excluídos os tributos devidos no caso, em se tratando de TAC-agregado, e de 7% (sete por cento) em se tratando de TAC-independente.</p>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

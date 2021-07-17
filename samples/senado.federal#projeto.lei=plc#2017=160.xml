@@ -1,0 +1,958 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;160"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 160 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio) e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DA POLÍTICA NACIONAL DE BIOCOMBUSTÍVEIS</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-08-06;9478!art1-->
+            
+            
+            <p>Fica instituída a Política Nacional de Biocombustíveis (RenovaBio), parte integrante da política energética nacional de que trata o <span xlink:href="urn:lex:br:federal:lei:1997-08-06;9478!art1">art. 1º da Lei nº 9.478, de 6 de agosto de 1997</span>, com os seguintes objetivos:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>contribuir para o atendimento aos compromissos do País no âmbito do Acordo de Paris sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>contribuir com a adequada relação de eficiência energética e de redução de emissões de gases causadores do efeito estufa na produção, na comercialização e no uso de biocombustíveis, inclusive com mecanismos de avaliação de ciclo de vida;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>promover a adequada expansão da produção e do uso de biocombustíveis na matriz energética nacional, com ênfase na regularidade do abastecimento de combustíveis; e</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>contribuir com previsibilidade para a participação competitiva dos diversos biocombustíveis no mercado nacional de combustíveis.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São fundamentos da Política Nacional de Biocombustíveis (RenovaBio):</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a contribuição dos biocombustíveis para a segurança do abastecimento nacional de combustíveis, da preservação ambiental e para a promoção do desenvolvimento e da inclusão econômica e social;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a promoção da livre concorrência no mercado de biocombustíveis;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a importância da agregação de valor à biomassa brasileira; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o papel estratégico dos biocombustíveis na matriz energética nacional.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A Política Nacional de Biocombustíveis (RenovaBio), composta por ações, atividades, projetos e programas, deverá viabilizar oferta de energia cada vez mais sustentável, competitiva e segura, observados os seguintes princípios:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>previsibilidade para a participação dos biocombustíveis, com ênfase na sustentabilidade da indústria de biocombustíveis e na segurança do abastecimento;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>proteção dos interesses do consumidor quanto a preço, qualidade e oferta de produtos;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>eficácia dos biocombustíveis em contribuir para a mitigação efetiva de emissões de gases causadores do efeito estufa e de poluentes locais;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>potencial de contribuição do mercado de biocombustíveis para a geração de emprego e de renda e para o desenvolvimento regional, bem como para a promoção de cadeias de valor relacionadas à bioeconomia sustentável;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>avanço da eficiência energética, com o uso de biocombustíveis em veículos, em máquinas e em equipamentos; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>impulso ao desenvolvimento tecnológico e à inovação, visando a consolidar a base tecnológica, a aumentar a competitividade dos biocombustíveis na matriz energética nacional e a acelerar o desenvolvimento e a inserção comercial de biocombustíveis avançados e de novos biocombustíveis.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São instrumentos da Política Nacional de Biocombustíveis (RenovaBio), entre outros:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as metas de redução de emissões de gases causadores do efeito estufa na matriz de combustíveis de que trata o Capítulo III desta Lei;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os Créditos de Descarbonização de que trata o Capítulo V desta Lei;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a Certificação de Biocombustíveis de que trata o Capítulo VI desta Lei;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as adições compulsórias de biocombustíveis aos combustíveis fósseis;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os incentivos fiscais, financeiros e creditícios; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>as ações no âmbito do Acordo de Paris sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os instrumentos previstos neste artigo, em relação às metas de redução das emissões mencionadas no inciso II do caput do art. 1º desta Lei, guardarão compatibilidade com as metas previstas para os demais setores.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DAS DEFINIÇÕES</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Ficam estabelecidas as seguintes definições:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Certificação de Biocombustíveis: conjunto de procedimentos e critérios em um processo, no qual a firma inspetora avalia a conformidade da mensuração de aspectos relativos à produção ou à importação de biocombustíveis, em função da eficiência energética e das emissões de gases do efeito estufa, com base em avaliação do ciclo de vida;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Certificado da Produção Eficiente de Biocombustíveis: documento emitido exclusivamente por firma inspetora como resultado do processo de Certificação de Biocombustíveis;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ciclo de vida: estágios consecutivos e encadeados de um sistema de produto, desde a matéria-prima ou de sua geração a partir de recursos naturais até a disposição final, conforme definido em regulamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>credenciamento: procedimento pelo qual se avalia, qualifica, credencia e registra a habilitação de uma firma inspetora para realizar a certificação e emitir o Certificado da Produção Eficiente de Biocombustíveis;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Crédito de Descarbonização (CBIO): instrumento registrado sob a forma escritural, para fins de comprovação da meta individual do distribuidor de combustíveis de que trata o art. 7º desta Lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>distribuidor de combustíveis: agente econômico autorizado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) a exercer a atividade de distribuição de combustíveis, nos termos do regulamento próprio da ANP;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>emissor primário: produtor ou importador de biocombustível, autorizado pela ANP, habilitado a solicitar a emissão de Crédito de Descarbonização em quantidade proporcional ao volume de biocombustível produzido ou importado e comercializado, relativamente à Nota de Eficiência Energético-Ambiental constante do Certificado da Produção Eficiente de Biocombustíveis, nos termos definidos em regulamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>escriturador: banco ou instituição financeira contratada pelo produtor ou pelo importador de biocombustível responsável pela emissão de Créditos de Descarbonização escriturais em nome do emissor primário;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>firma inspetora: organismo credenciado para realizar a Certificação de Biocombustíveis e emitir o Certificado da Produção Eficiente de Biocombustíveis e a Nota de Eficiência Energético-Ambiental;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>importador de biocombustível: agente econômico autorizado pela ANP a exercer a atividade de importação de biocombustível, nos termos do regulamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>intensidade de carbono: relação da emissão de gases causadores do efeito estufa, com base em avaliação do ciclo de vida, computada no processo produtivo do combustível, por unidade de energia;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>meta de descarbonização: meta fixada para assegurar menor intensidade de carbono na matriz nacional de combustíveis;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>Nota de Eficiência Energético-Ambiental: valor atribuído no Certificado da Produção Eficiente de Biocombustíveis, individualmente, por emissor primário, que representa a diferença entre a intensidade de carbono de seu combustível fóssil substituto e sua intensidade de carbono estabelecida no processo de certificação;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc14">
+            <!--Link: urn:lex:br:federal:lei:1997-08-06;9478!art68-1-->
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>produtor de biocombustível: agente econômico, nos termos do <span xlink:href="urn:lex:br:federal:lei:1997-08-06;9478!art68-1">art. 68-A da Lei nº 9.478, de 6 de agosto de 1997</span>, autorizado pela ANP a exercer a atividade de produção de biocombustível, conforme o regulamento próprio da ANP; e</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>sistema de produto: coleção de processos unitários, com fluxos elementares e de produtos, que realizam uma ou mais funções definidas e que modelam o ciclo de vida de um produto.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DAS METAS DE REDUÇÃO DE EMISSÕES NA MATRIZ DE COMBUSTÍVEIS</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>As metas compulsórias anuais de redução de emissões de gases causadores do efeito estufa para a comercialização de combustíveis serão definidas em regulamento, considerada a melhoria da intensidade de carbono da matriz brasileira de combustíveis ao longo do tempo, para um período mínimo de dez anos, observados:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a proteção dos interesses do consumidor quanto a preço, qualidade e oferta de combustíveis;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a disponibilidade de oferta de biocombustíveis por produtores e por importadores detentores do Certificado da Produção Eficiente de Biocombustíveis;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a contribuição dos biocombustíveis para a melhoria da qualidade do ar e da saúde e para a segurança do abastecimento nacional de combustíveis, inclusive seus reflexos positivos na infraestrutura logística e de transporte de combustíveis, na balança comercial, na geração de emprego, de renda e de investimentos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a valorização dos recursos energéticos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a evolução do consumo nacional de combustíveis e das importações;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>os compromissos internacionais de redução de emissões de gases causadores do efeito estufa assumidos pelo Brasil e ações setoriais no âmbito desses compromissos; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o impacto de preços de combustíveis em índices de inflação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A meta compulsória anual de que trata o art. 6º desta Lei será desdobrada, para cada ano corrente, em metas individuais, aplicadas a todos os distribuidores de combustíveis, proporcionais à respectiva participação de mercado na comercialização de combustíveis fósseis no ano anterior.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As metas individuais de cada distribuidor de combustíveis deverão ser tornadas públicas, preferencialmente por meio eletrônico.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A comprovação de atendimento à meta individual por cada distribuidor de combustíveis será realizada a partir da quantidade de Créditos de Descarbonização em sua propriedade, na data definida em regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Cada distribuidor de combustíveis comprovará ter alcançado sua meta individual de acordo com sua estratégia, sem prejuízo às adições volumétricas previstas em lei específica, como de etanol à gasolina e de biodiesel ao óleo diesel.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Até 15% (quinze por cento) da meta individual de um ano poderá ser comprovada pelo distribuidor de combustíveis no ano subsequente, desde que tenha comprovado cumprimento integral da meta no ano anterior.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O regulamento poderá autorizar a redução da meta individual do distribuidor de combustíveis nos seguintes casos:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aquisição de biocombustíveis mediante:</p>
+            <Alinea id="art8_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>contratos de fornecimento com prazo superior a um ano, firmados com produtor de biocombustível detentor do Certificado da Produção Eficiente de Biocombustíveis;</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>contratos com produtores de biocombustíveis instalados nas áreas da Superintendência do Desenvolvimento do Nordeste (Sudene), da Superintendência do Desenvolvimento da Amazônia (Sudam) e da Superintendência do Desenvolvimento do Centro-Oeste (Sudeco);</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aquisição de combustíveis fósseis de produtores instalados no País, em função de sua redução de emissões de gases causadores do efeito estufa, por unidade produtora, com base na avaliação de ciclo de vida, em relação aos produtos importados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-10-26;9847-->
+            
+            
+            <p>O não atendimento à meta individual sujeitará o distribuidor de combustíveis à multa, proporcional à quantidade de Crédito de Descarbonização que deixou de ser comprovada, sem prejuízo das demais sanções administrativas e pecuniárias previstas nesta Lei e na <span xlink:href="urn:lex:br:federal:lei:1999-10-26;9847">Lei nº 9.847, de 26 de outubro de 1999</span>, e de outras de natureza civil e penal cabíveis.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A multa a que se refere o caput deste artigo poderá variar, nos termos do regulamento, entre R$ 100.000,00 (cem mil reais) e R$ 50.000.000,00 (cinquenta milhões de reais).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Serão anualmente publicados o percentual de atendimento à meta individual por cada distribuidor de combustíveis e, quando for o caso, as respectivas sanções administrativas e pecuniárias aplicadas.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DO MONITORAMENTO DE BIOCOMBUSTÍVEIS E COMBUSTÍVEIS</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O monitoramento do abastecimento nacional de biocombustíveis será realizado nos termos de regulamento, e servirá de base para a definição:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>das metas compulsórias anuais de redução de emissões de gases causadores do efeito estufa para a comercialização de combustíveis, nos termos do art. 6º desta Lei, e dos respectivos intervalos de tolerância;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>dos critérios, diretrizes e parâmetros para o credenciamento de firmas inspetoras e a Certificação de Biocombustíveis; e</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dos requisitos para regulação técnica e econômica do Crédito de Descarbonização.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Previamente à sua aprovação, as metas compulsórias a que se refere o inciso I do caput do art. 11 desta Lei deverão ser submetidas a consulta pública.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DO CRÉDITO DE DESCARBONIZAÇÃO (CBIO)</NomeAgrupador>
+            <Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>A emissão primária de Créditos de Descarbonização será efetuada, sob a forma escritural, nos livros ou registros do escriturador, mediante solicitação do emissor primário, em quantidade proporcional ao volume de biocombustível produzido, importado e comercializado.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A definição da quantidade de Créditos de Descarbonização a serem emitidos considerará o volume de biocombustível produzido, importado e comercializado pelo emissor primário, observada a respectiva Nota de Eficiência Energético-Ambiental constante do Certificado da Produção Eficiente de Biocombustíveis do emissor primário.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A solicitação de que trata o caput deste artigo deverá ser efetuada em até sessenta dias pelo emissor primário da nota fiscal de compra e venda do biocombustível, extinguindo-se, para todos os efeitos, o direito de emissão de Crédito de Descarbonização após esse período.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>O Crédito de Descarbonização deve conter as seguintes informações:</p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>denominação “Crédito de Descarbonização - CBIO”;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>número de controle;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>data de emissão do Crédito de Descarbonização;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>identificação, qualificação e endereços das empresas destacadas na nota fiscal de compra e venda do biocombustível que servirão de lastro ao Crédito de Descarbonização;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>data de emissão da nota fiscal que servirá de lastro ao Crédito de Descarbonização;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>descrição e código do produto constantes da nota fiscal que servirão de lastro ao Crédito de Descarbonização; e</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>peso bruto e volume comercializado constantes da nota fiscal que servirão de lastro ao Crédito de Descarbonização.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>A negociação dos Créditos de Descarbonização será feita em mercados organizados, inclusive em leilões.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O escriturador será o responsável pela manutenção do registro da cadeia de negócios ocorridos no período em que os títulos estiverem registrados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Regulamento disporá sobre a emissão, o vencimento, a distribuição, a intermediação, a custódia, a negociação e os demais aspectos relacionados aos Créditos de Descarbonização.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DA CERTIFICAÇÃO DE BIOCOMBUSTÍVEIS</NomeAgrupador>
+            <Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>A certificação da produção ou importação eficiente de biocombustíveis, para os fins desta Lei, terá como prioridade o aumento da eficiência, com base em avaliação do ciclo de vida, em termos de conteúdo energético com menor emissão de gases causadores do efeito estufa em comparação às emissões auferidas pelo combustível fóssil.</p>
+            
+          </Caput><Paragrafo id="art18_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Regulamento estabelecerá os critérios, os procedimentos e as responsabilidades para concessão, renovação, suspensão e cancelamento do Certificado da Produção Eficiente de Biocombustíveis.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>O Certificado da Produção Eficiente de Biocombustíveis será concedido ao produtor ou ao importador de biocombustível que atender individualmente aos parâmetros definidos em regulamento.</p>
+            
+          </Caput><Paragrafo id="art19_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Certificado de que trata o caput deste artigo terá validade de até quatro anos, renovável sucessivamente por igual período.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Certificado do Importador deve ser emitido para cada operação de importação, com comprovação de que a origem do produto importado, em sua totalidade, atende aos critérios de certificação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Para a emissão do Certificado da Produção Eficiente de Biocombustíveis, poderão ser exigidos garantias, seguro e capital mínimo integralizado, para o fiel cumprimento de suas obrigações.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>O Certificado da Produção Eficiente de Biocombustíveis incluirá expressamente a Nota de Eficiência Energético-Ambiental do emissor primário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>No âmbito do credenciamento de firma inspetora referente à certificação da produção ou importação eficiente de biocombustíveis, cabe ao órgão competente, nos termos de regulamento:</p>
+            <Inciso id="art22_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estabelecer os procedimentos e responsabilidades para o credenciamento da firma inspetora;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>proceder ao credenciamento, por ato administrativo próprio ou mediante instrumento específico, com órgãos da Administração Pública direta e indireta da União;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>manter atualizada na internet a relação das Firmas Inspetoras credenciadas;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fiscalizar as firmas inspetoras credenciadas e aplicar as sanções administrativas e pecuniárias, quanto ao cumprimento dos requisitos previstos nesta Lei e em atos relacionados;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>solicitar dados e informações das firmas inspetoras e estabelecer prazos de atendimento, para fins de avaliação, monitoramento e fiscalização; e</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>auditar o processo de emissão ou de renovação do Certificado da Produção Eficiente de Biocombustíveis.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art22_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Anualmente, deverá ser publicado na internet relatório com o resultado das ações de fiscalização e com as eventuais sanções administrativas e pecuniárias aplicadas às firmas inspetoras.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>No âmbito da certificação da produção ou importação eficiente de biocombustíveis, será realizada, nos termos de regulamento, fiscalização da movimentação de combustíveis comercializados, de forma a verificar sua adequação com os Créditos de Descarbonização emitidos e o cumprimento das metas individuais compulsórias.</p>
+            
+          </Caput><Paragrafo id="art23_par1">
+            <!--Link: urn:lex:br:federal:lei:1997-08-06;9478--><!--Link: urn:lex:br:federal:lei:1999-10-26;9847-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para atendimento ao disposto no caput deste artigo, serão requisitados dados e informações dos produtores de biocombustíveis, dos importadores de biocombustíveis e dos distribuidores de combustíveis, sem prejuízo de outras ações de monitoramento e fiscalização definidas na <span xlink:href="urn:lex:br:federal:lei:1997-08-06;9478">Lei nº 9.478, de 6 de agosto de 1997</span>, e na <span xlink:href="urn:lex:br:federal:lei:1999-10-26;9847">Lei nº 9.847, de 26 de outubro de 1999</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Será publicada na internet lista atualizada dos Certificados da Produção ou Importação Eficiente de Biocombustíveis emitidos, renovados, suspensos, cancelados ou expirados, em base mensal, com informações do produtor ou do importador de biocombustível, da Nota de Eficiência Energético-Ambiental, da validade do certificado, do volume produzido e do volume comercializado, sem prejuízo de demais dados previstos no regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O acesso à base de dados das notas fiscais eletrônicas e à base de dados eletrônica de comercialização, de importação e de exportação de combustíveis fósseis e biocombustíveis será assegurado nos termos de regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p> Previamente à emissão ou à renovação do Certificado da Produção Eficiente de Biocombustíveis, a firma inspetora submeterá a consulta pública, por no mínimo trinta dias, proposta de certificação, com indicação expressa da proposição da Nota de Eficiência Energético-Ambiental a ser atribuída, cabendo-lhe dar ampla divulgação ao processo.</p>
+            
+          </Caput><Paragrafo id="art24_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A proposta de certificação incluirá os valores e os dados utilizados para a proposição da Nota de Eficiência Energético-Ambiental.</p>
+            
+          </Paragrafo><Paragrafo id="art24_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As sugestões e os comentários apresentados durante a consulta pública serão considerados pela firma inspetora:</p>
+            <Inciso id="art24_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>com incorporação ao processo daqueles que forem pertinentes; e</p>
+            
+          </Inciso><Inciso id="art24_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>com recusa motivada dos demais.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art24_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A firma inspetora deverá dar ciência aos órgãos federais competentes acerca do resultado da consulta pública, que incluirá as sugestões e os comentários apresentados e sua avaliação.</p>
+            
+          </Paragrafo><Paragrafo id="art24_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>É assegurado, mediante prévia solicitação, amplo acesso à integralidade do processo de certificação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Durante o período de suspensão ou de cancelamento do Certificado da Produção Eficiente de Biocombustíveis, a quantidade de biocombustível produzido, importado, comercializado, negociado, despachado ou entregue não surtirá efeito para fins de emissão de Créditos de Descarbonização.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>O produtor ou o importador de biocombustível terá seis meses para iniciar outro processo de certificação e concluir a obtenção de novo Certificado da Produção Eficiente de Biocombustíveis, nos seguintes casos:</p>
+            <Inciso id="art26_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cancelamento ou revogação do registro da firma inspetora; ou</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>extinção empresarial da firma inspetora, independentemente da razão.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art26_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A inobservância do prazo a que se refere o caput deste artigo implicará o cancelamento imediato do certificado vigente.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>Na comercialização de biodiesel por meio de leilões públicos, deverão ser estabelecidos mecanismos e metas para assegurar a participação prioritária de produtores de biodiesel de pequeno porte e de agricultores familiares.</p>
+            
+          </Caput><Paragrafo id="art27_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Regulamento estabelecerá as condições para a participação dos produtores de biodiesel de pequeno porte de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par2">
+            <!--Link: urn:lex:br:federal:lei:2006-07-24;11326-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para a definição de produtores de pequeno porte, aplica-se o disposto na <span xlink:href="urn:lex:br:federal:lei:2006-07-24;11326">Lei nº 11.326, de 24 de julho de 2006</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>Será aplicado um bônus sobre a Nota de Eficiência Energético-Ambiental do produtor ou do importador de biocombustível cuja Certificação de Biocombustíveis comprove a emissão negativa de gases causadores do efeito estufa no ciclo de vida em relação ao seu substituto de origem fóssil.</p>
+            
+          </Caput><Paragrafo id="art28_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Será de até 20% (vinte por cento) sobre o valor da Nota de Eficiência Energético-Ambiental mencionada no caput deste artigo o valor do bônus previsto neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-10-26;9847-->
+            
+            
+            <p>Os infratores às disposições desta Lei e às demais normas pertinentes ficarão sujeitos, nos termos de regulamento, às sanções administrativas e pecuniárias previstas na <span xlink:href="urn:lex:br:federal:lei:1999-10-26;9847">Lei nº 9.847, de 26 de outubro de 1999</span>, sem prejuízo de outras de natureza civil e penal cabíveis.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput><Paragrafo id="art30_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As metas compulsórias a que se refere o art. 6º desta Lei entrarão em vigor em cento e oitenta dias, contados a partir da data de sanção, e as metas a que se refere o inciso I do caput do art. 11 desta Lei entrarão em vigor dezoito meses após a entrada em vigor das metas previstas no art. 6º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

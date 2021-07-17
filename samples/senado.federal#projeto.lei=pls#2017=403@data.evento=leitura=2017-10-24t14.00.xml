@@ -1,0 +1,217 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;403@data.evento;leitura;2017-10-24t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 403 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui o Programa de Restauração de Áreas Degradadas na Amazônia – Restaura Amazônia.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituído o Programa de Restauração de Áreas Degradadas na Amazônia – Restaura Amazônia, com as seguintes finalidades:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>reduzir a necessidade de desmatamento de novas áreas destinadas à expansão da fronteira agrícola;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>elevar a produtividade das atividades agrícolas regionais;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>viabilizar economicamente a restauração de áreas degradadas na Amazônia;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estimular soluções de mercado para a recomposição de passivos ambientais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2007-01-03;124!art2-->
+            
+            
+            <p>São potenciais beneficiários dos estímulos oferecidos por esta Lei os proprietários de imóveis rurais localizados na Amazônia Legal, definida no <span xlink:href="urn:lex:br:federal:lei.complementar:2007-01-03;124!art2">art. 2º da Lei Complementar nº 124, de 3 de janeiro de 2007</span>, cujo Grau de Utilização da Terra (GUT) seja superior a 80% e apresentem áreas degradadas ou em vias de degradação.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É considerada degradada ou em vias de degradação, para os efeitos desta Lei, a área do imóvel rural que não faça parte da Área de Preservação Permanente, da Área de Reserva Legal ou da Área Efetivamente Utilizada, nos termos constantes da declaração do Imposto sobre a Propriedade Territorial Rural (ITR).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Os proprietários de imóveis rurais cujas declarações anuais à Secretaria da Receita Federal evidenciem a restauração, em período de até dez anos, de 80% da área identificada como degradada ou em vias de degradação, ficarão isentos dos seguintes tributos, enquanto perdurar a comprovada restauração ambiental:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Imposto de Renda sobre os ganhos de capital decorrentes da alienação de imóvel rural;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:1996-12-19;9393-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>Imposto Territorial Rural (ITR), instituído pela <span xlink:href="urn:lex:br:federal:lei:1996-12-19;9393">Lei nº 9.393, de 19 de dezembro de 1996</span>.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-01-20;8981!art21-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1995-01-20;8981!art21">art. 21 da Lei nº 8.981, de 20 de janeiro de 1995</span>, passa a vigorar com a seguinte alteração:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-01-20;8981" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-01-20;8981 -> MatchByBase(urn:lex:br:federal:lei:1995-01-20;8981,1995,Some((1,20)),Map(art21 -> ExactMatch(URN(1995,Some((1,20)),art21,urn:lex:br:federal:lei:1995-01-20;8981!art21)), art21_cpt -> PrefixMatch(URN(1995,Some((1,20)),art21,urn:lex:br:federal:lei:1995-01-20;8981!art21),art21_cpt), art21_par5 -> PrefixMatch(URN(1995,Some((1,20)),art21,urn:lex:br:federal:lei:1995-01-20;8981!art21),art21_par5)))))-->
+              <Artigo xlink:href="art21" id="art4_cpt_alt1_art21" abreAspas="s">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput xlink:href="art21_cpt" id="art4_cpt_alt1_art21_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art4_cpt_alt1_art21_omi1"/><Paragrafo xlink:href="art21_par5" id="art4_cpt_alt1_art21_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O disposto neste artigo não se aplica ao imóvel rural enquadrado no art. 3º da Lei que estabelece o Programa de Restauração de Áreas Degradadas na Amazônia – Restaura Amazônia.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-19;9393!art3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1996-12-19;9393!art3">art. 3º da Lei nº 9.393, de 19 de dezembro de 1996</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-12-19;9393" id="art5_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-12-19;9393 -> MatchByBase(urn:lex:br:federal:lei:1996-12-19;9393,1996,Some((12,19)),Map(art3 -> ExactMatch(URN(1996,Some((12,19)),art3,urn:lex:br:federal:lei:1996-12-19;9393!art3)), art3_cpt -> PrefixMatch(URN(1996,Some((12,19)),art3,urn:lex:br:federal:lei:1996-12-19;9393!art3),art3_cpt), art3_cpt_inc3 -> PrefixMatch(URN(1996,Some((12,19)),art3,urn:lex:br:federal:lei:1996-12-19;9393!art3),art3_cpt_inc3)))))-->
+              <Artigo xlink:href="art3" id="art5_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art5_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art5_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc3" id="art5_cpt_alt1_art3_cpt_inc3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o imóvel rural enquadrado no art. 3º da Lei que estabelece o Programa de Restauração de Áreas Degradadas na Amazônia – Restaura Amazônia.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O art. 44 da Lei nº 12.651 (Código Florestal), de 25 de maio de 2012, passa a vigora com a seguinte redação:</p>
+            <Alteracao id="art6_cpt_alt1">
+              <!--Matches: MatchResult(Map())-->
+              <Artigo xlink:href="art44" id="art6_cpt_alt1_art44" abreAspas="s">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput xlink:href="art44_cpt" id="art6_cpt_alt1_art44_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art6_cpt_alt1_art44_omi1"/><Paragrafo xlink:href="art44_par5" id="art6_cpt_alt1_art44_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p> Equipara-se ao conceito de área com vegetação nativa, para efeitos deste artigo, o imóvel rural enquadrado no art. 3º da Lei que estabelece o Programa de Restauração de Áreas Degradadas na Amazônia – Restaura Amazônia</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O imóvel rural localizado na Amazônia Legal que apresente redução contínua, nos últimos cinco anos, em sua área degradada ou em vias de degradação, não é passível de desapropriação para Reforma Agrária.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei entrará em vigor em 1º de janeiro do ano subsequente ao de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

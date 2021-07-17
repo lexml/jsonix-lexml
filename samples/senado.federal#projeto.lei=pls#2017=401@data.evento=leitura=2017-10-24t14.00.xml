@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;401@data.evento;leitura;2017-10-24t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 401 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2017-07-06;13463">Lei nº 13.463, de 6 de julho de 2017</span>, que dispõe sobre os recursos destinados aos pagamentos decorrentes de precatórios e de Requisições de Pequeno Valor (RPV) federais, para condicionar o cancelamento e a transferência ao Tesouro Nacional dos precatórios vencidos à análise do magistrado da respectiva execução.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2017-07-06;13463!art2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2017-07-06;13463!art2">art. 2º da Lei nº 13.463, de 6 de julho de 2017</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2017-07-06;13463" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2017-07-06;13463 -> MatchByBase(urn:lex:br:federal:lei:2017-07-06;13463,2017,Some((7,6)),Map(art2_par3 -> PrefixMatch(URN(2017,Some((7,6)),art2,urn:lex:br:federal:lei:2017-07-06;13463!art2),art2_par3), art2_par1 -> PrefixMatch(URN(2017,Some((7,6)),art2,urn:lex:br:federal:lei:2017-07-06;13463!art2),art2_par1), art2 -> ExactMatch(URN(2017,Some((7,6)),art2,urn:lex:br:federal:lei:2017-07-06;13463!art2)), art2_cpt -> PrefixMatch(URN(2017,Some((7,6)),art2,urn:lex:br:federal:lei:2017-07-06;13463!art2),art2_cpt), art2_par6 -> PrefixMatch(URN(2017,Some((7,6)),art2,urn:lex:br:federal:lei:2017-07-06;13463!art2),art2_par6), art2_par5 -> PrefixMatch(URN(2017,Some((7,6)),art2,urn:lex:br:federal:lei:2017-07-06;13463!art2),art2_par5), art2_par4 -> PrefixMatch(URN(2017,Some((7,6)),art2,urn:lex:br:federal:lei:2017-07-06;13463!art2),art2_par4)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>Ficam cancelados os precatórios e as RPV federais expedidos, desde que seus valores não tenham sido levantados por inércia do credor e que estejam depositados há mais de dois anos em instituição financeira oficial.</p>
+            
+          </Caput><Paragrafo xlink:href="art2_par1" id="art1_cpt_alt1_art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O cancelamento de que trata o caput será operacionalizado mensalmente pela instituição financeira oficial depositária, desde que autorizado prévia e expressamente pelo juízo de execução.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art2_omi1"/><Paragrafo xlink:href="art2_par3" id="art1_cpt_alt1_art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O cancelamento de que trata o caput será solicitado ao juízo da execução, que notificará o credor e deliberará, no prazo de 60 (sessenta) dias, acerca do cancelamento pretendido.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par4" id="art1_cpt_alt1_art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Vencido o prazo do § 3º, o silêncio do juízo de execução importará autorização tácita.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par5" id="art1_cpt_alt1_art2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Caso o juízo de execução indefira a solicitação de cancelamento do precatório, será observado interstício mínimo de seis meses até que a instituição financeira possa reapresentá-la.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par6" id="art1_cpt_alt1_art2_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os cancelamentos autorizados pelo juízo de execução serão efetivados mediante a transferência dos valores depositados para a Conta Única do Tesouro Nacional.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

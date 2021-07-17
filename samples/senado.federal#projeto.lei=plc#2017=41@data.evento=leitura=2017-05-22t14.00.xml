@@ -1,0 +1,256 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;41@data.evento;leitura;2017-05-22t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 41 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a Política Nacional de Incentivo à Produção de Café de Qualidade.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei institui a Política Nacional de Incentivo à Produção de Café de Qualidade, com o objetivo de elevar o padrão de qualidade do café brasileiro por meio do estímulo à produção, industrialização e comercialização de cafés de categorias superiores.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para efeitos desta Lei, consideram-se de categorias superiores os cafés das espécies Coffea arabica e Coffea canephora classificados como de alto padrão de qualidade por suas características físicas, químicas e sensoriais, de acordo com processos de análise e certificação reconhecidos pelo poder público.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Da espécie Coffea canephora, apenas as variedades conhecidas como robusta ou conillon poderão ser beneficiadas e comercializadas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São diretrizes da Política Nacional de Incentivo à Produção de Café de Qualidade:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a sustentabilidade ambiental, econômica e social da produção e dos produtores de café;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o desenvolvimento tecnológico da cafeicultura;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o aproveitamento da diversidade cultural, ambiental, de solos e de climas do País para a produção de cafés especiais e de qualidade superior;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a adequação da ação governamental às peculiaridades e diversidades regionais;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a articulação e colaboração entre os entes públicos federais, estaduais e municipais e o setor privado;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o estímulo às economias locais e a redução das desigualdades regionais; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a valorização dos cafés do Brasil e o acesso a mercados de cafés especiais e de qualidade.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São instrumentos da Política Nacional de Incentivo à Produção de Café de Qualidade, os quais deverão ser considerados nos estudos e decisões do Conselho Deliberativo da Política do Café (CDPC):</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o crédito rural para a produção, industrialização e comercialização;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a pesquisa agrícola e o desenvolvimento tecnológico;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a assistência técnica e a extensão rural;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o seguro rural;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a capacitação gerencial e a formação de mão de obra qualificada;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o associativismo, o cooperativismo e os arranjos produtivos locais;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>as certificações de origem, social e de qualidade dos produtos;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>as informações de mercado; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>os fóruns, câmaras e conselhos setoriais, públicos e privados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Na formulação e execução da Política de que trata esta Lei, o Conselho Deliberativo da Política do Café (CDPC) e os demais órgãos competentes deverão:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estabelecer parcerias com entidades públicas e privadas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>considerar as reivindicações e sugestões do setor cafeeiro e dos consumidores;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apoiar o comércio interno e externo de cafés especiais e de qualidade;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estimular investimentos produtivos direcionados ao atendimento das demandas do mercado de cafés especiais e de qualidade;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>fomentar a pesquisa e o desenvolvimento de variedades superiores de café e tecnologias de produção e industrialização que visem à elevação da qualidade do produto;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>promover o uso de boas práticas agrícolas e o incremento e a melhoria da infraestrutura de secagem e armazenamento;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>adotar ações sanitárias e fitossanitárias visando a elevar a qualidade da produção cafeeira;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>incentivar e apoiar a organização produtiva e a agregação de valor aos cafés nacionais, inclusive por meio de certificações de qualidade, de origem ou sociais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>promover a realização de eventos que incentivem a produção de cafés de qualidade e oferecer premiações aos produtores que alcançarem as melhores classificações de acordo com processos de análise e certificação reconhecidos pelo poder público; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>ofertar linhas de crédito e de financiamento que viabilizem os investimentos necessários à produção ou industrialização diferenciada de cafés de qualidade e especiais, em condições adequadas de taxas de juros e de prazos de pagamento.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A oferta das linhas de crédito e de financiamento de que trata o inciso X do caput deste artigo será complementada por ações de assistência técnica e capacitação, especialmente dos agricultores familiares, de pequeno ou médio porte, para a organização produtiva e a agregação de valor à produção.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os itens financiáveis pelas linhas de crédito e de financiamento de que trata o inciso X do caput deste artigo deverão ser aqueles recomendados por órgãos de pesquisa agrícola e extensão rural para melhorar a qualidade do café.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

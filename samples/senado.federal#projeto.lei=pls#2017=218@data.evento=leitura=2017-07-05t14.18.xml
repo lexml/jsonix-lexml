@@ -1,0 +1,376 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;218@data.evento;leitura;2017-07-05t14.18"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 218 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o conteúdo local obrigatório nas aquisições de bens e serviços para as atividades, em todos os regimes, de exploração e produção de petróleo, gás natural e outros hidrocarbonetos fluidos e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre o conteúdo local obrigatório nas aquisições de bens e serviços para as atividades, em todos os regimes, de exploração e produção de petróleo, gás natural e outros hidrocarbonetos fluidos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O aproveitamento das jazidas de petróleo, gás natural e outros hidrocarbonetos fluidos do Brasil deve ser realizado em benefício do desenvolvimento econômico e social, do adensamento das cadeias produtivas, do desenvolvimento tecnológico, da inovação e do bem-estar dos brasileiros.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Para os fins desta Lei, considera-se conteúdo local a proporção entre o valor dos bens produzidos e dos serviços prestados no País e o valor total dos bens utilizados e dos serviços prestados para execução de contrato de exploração e produção de petróleo, gás natural e outros hidrocarbonetos fluidos.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O conteúdo local global do contrato é medido por etapa, na forma dos incisos do caput do art. 4º.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É permitida a totalização de conteúdo local superior ao efetivamente existente em bens e serviços como incentivo a fornecedores e concessionários que promovam o desenvolvimento tecnológico e o adensamento da cadeia produtiva nacional para realização das atividades de exploração e produção de petróleo, gás natural e outros hidrocarbonetos fluidos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O percentual mínimo de conteúdo local global deve ser de:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>em blocos terrestres:</p>
+            <Alinea id="art4_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>etapa de exploração: 70% (setenta por cento); e</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>etapa de desenvolvimento: 75% (setenta e cinco por cento);</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em blocos na plataforma continental, no mar territorial e na zona econômica exclusiva:</p>
+            <Alinea id="art4_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>etapa de exploração: 35% (trinta e cinco por cento); e</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>etapa de desenvolvimento: 55% (cinquenta e cinco por cento).</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O percentual de conteúdo local global das etapas listadas no caput é resultado da ponderação do conteúdo local dos seguintes itens:</p>
+            <Inciso id="art4_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>serviços com:</p>
+            <Alinea id="art4_par1_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>baixa tecnologia;</p>
+            
+          </Alinea><Alinea id="art4_par1_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>média tecnologia; e</p>
+            
+          </Alinea><Alinea id="art4_par1_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>alta tecnologia;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art4_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>bens com: baixa tecnologia; média tecnologia; e alta tecnologia.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O percentual de conteúdo local nos serviços e bens classificados na forma dos incisos e alíneas do § 1º deve ser superior à metade do percentual mínimo do conteúdo local global estabelecido para as etapas correspondentes listadas no caput.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os percentuais dos conteúdos locais globais estabelecidos na alínea a do inciso I e na alínea a do inciso II do caput podem ser reduzidos em até 50% (cinquenta por cento) nas atividades que excederem o programa exploratório obrigatório.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os percentuais de conteúdo local das etapas e itens listados, respectivamente, no caput e no § 1º, bem como a sistemática de cálculo do conteúdo local, devem fazer parte do contrato e só podem ser alterados, no período de vigência do contrato, em comum acordo entre o Poder Concedente e o concessionário, ou na prorrogação do contrato.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>É vedado o uso do conteúdo local como critério de julgamento da seleção da melhor oferta nos processos de licitação de áreas para exploração e produção de petróleo, gás natural e outros hidrocarbonetos fluidos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>No contrato de partilha de produção, o concessionário que cumprir os valores de percentual mínimo de conteúdo local global pode recuperar o custo em óleo referente às etapas de exploração e de desenvolvimento, respeitando o limite de 70% (setenta por cento) do valor bruto de produção nos três primeiros anos de produção e de 50% (cinquenta por cento) do valor bruto de produção nos anos seguintes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O concessionário pode solicitar exoneração da obrigatoriedade do cumprimento do conteúdo local nas seguintes situações:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>não existe fornecedor nacional para a prestação do serviço ou o fornecimento do bem;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o preço do serviço ou do bem nacional é superior, em percentual definido em regulamento, aos preços efetivamente praticados no mercado internacional;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o prazo para execução local do serviço ou entrega do bem nacional é mais longo, em percentual definido em regulamento, do que os prazos efetivamente praticados no mercado internacional; ou</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a tecnologia a ser utilizada pela empresa ou pelo consórcio contratado não estava disponível comercialmente na data da publicação do edital de licitação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O serviço ou bem para o qual houve exoneração da obrigatoriedade do cumprimento do conteúdo local para determinado contrato não é considerado para fins de cálculo do conteúdo local das etapas e dos itens listados, respectivamente, no caput e no § 1º do art. 4º.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É garantida a oitiva dos representantes dos fornecedores nacionais no processo de exoneração da obrigatoriedade de cumprimento do conteúdo local.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O não cumprimento dos percentuais de conteúdo local mínimo sujeita o concessionário a multa administrativa de 30% (trinta por cento) até 60% (sessenta por cento) do valor não realizado do conteúdo local mínimo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-08-06;9478-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-08-06;9478">Lei nº 9.478, de 6 de agosto de 1997</span>, passa vigorar com a seguinte alteração:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-08-06;9478" id="art9_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-08-06;9478 -> MatchByBase(urn:lex:br:federal:lei:1997-08-06;9478,1997,Some((8,6)),Map(art37_cpt -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art37_cpt), art37 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art37), art37_cpt_inc6 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art37_cpt_inc6), art2 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art2), art37_cpt_inc7 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art37_cpt_inc7), art2_cpt_inc10 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art2_cpt_inc10), art2_cpt -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art2_cpt)))))-->
+              <Artigo xlink:href="art2" id="art9_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art9_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art9_cpt_alt1_art2_cpt_omi1"/><Inciso xlink:href="art2_cpt_inc10" id="art9_cpt_alt1_art2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>estabelecer os índices de conteúdo local de bens e serviços, respeitado o mínimo local, a serem observados em licitações e contratos de concessão e de partilha de produção, observado o disposto no inciso IX.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art9_cpt_alt1_art2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art37" id="art9_cpt_alt1_art37" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput xlink:href="art37_cpt" id="art9_cpt_alt1_art37_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art9_cpt_alt1_art37_cpt_omi1"/><Inciso xlink:href="art37_cpt_inc6" id="art9_cpt_alt1_art37_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>...................................................................; e</p>
+            
+          </Inciso><Inciso xlink:href="art37_cpt_inc7" id="art9_cpt_alt1_art37_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o conteúdo local, respeitado o mínimo legal, e sua sistemática de cálculo, bem como outros critérios relacionados ao desenvolvimento da indústria nacional.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art9_cpt_alt1_art37_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:lei:2010-12-22;12351-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2010-12-22;12351">Lei nº 12.351, de 22 de dezembro de 2010</span>, passa vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2010-12-22;12351" id="art10_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2010-12-22;12351 -> MatchByBase(urn:lex:br:federal:lei:2010-12-22;12351,2010,Some((12,22)),Map(art10_cpt -> PrefixMatch(URN(2010,Some((12,22)),,urn:lex:br:federal:lei:2010-12-22;12351),art10_cpt), art10_cpt_inc3 -> PrefixMatch(URN(2010,Some((12,22)),,urn:lex:br:federal:lei:2010-12-22;12351),art10_cpt_inc3), art15_cpt_inc8 -> PrefixMatch(URN(2010,Some((12,22)),,urn:lex:br:federal:lei:2010-12-22;12351),art15_cpt_inc8), art15 -> PrefixMatch(URN(2010,Some((12,22)),,urn:lex:br:federal:lei:2010-12-22;12351),art15), art15_cpt -> PrefixMatch(URN(2010,Some((12,22)),,urn:lex:br:federal:lei:2010-12-22;12351),art15_cpt), art10_cpt_inc3_ali5 -> PrefixMatch(URN(2010,Some((12,22)),,urn:lex:br:federal:lei:2010-12-22;12351),art10_cpt_inc3_ali5), art10 -> PrefixMatch(URN(2010,Some((12,22)),,urn:lex:br:federal:lei:2010-12-22;12351),art10)))))-->
+              <Artigo xlink:href="art10" id="art10_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art10_cpt_alt1_art10_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art10_cpt_alt1_art10_cpt_omi1"/><Inciso xlink:href="art10_cpt_inc3" id="art10_cpt_alt1_art10_cpt_inc3" textoOmitido="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            
+            <Omissis id="art10_cpt_alt1_art10_cpt_inc3_omi1"/><Alinea xlink:href="art10_cpt_inc3_ali5" id="art10_cpt_alt1_art10_cpt_inc3_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>o conteúdo local, respeitado o mínimo legal, e outros critérios relacionados ao desenvolvimento da indústria nacional; e</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art10_cpt_alt1_art10_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art15" id="art10_cpt_alt1_art15" abreAspas="s">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput xlink:href="art15_cpt" id="art10_cpt_alt1_art15_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art10_cpt_alt1_art15_cpt_omi1"/><Inciso xlink:href="art15_cpt_inc8" id="art10_cpt_alt1_art15_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>o conteúdo local, respeitado o mínimo legal, e sua sistemática de cálculo, bem como outros critérios relacionados ao desenvolvimento da indústria nacional;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art10_cpt_alt1_art15_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Esta Lei vigerá por 20 (vinte) anos a partir da data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

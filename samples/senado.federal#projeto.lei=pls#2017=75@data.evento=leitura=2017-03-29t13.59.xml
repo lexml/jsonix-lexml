@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;75@data.evento;leitura;2017-03-29t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 75 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12305">Lei nº 12.305, de 2 de agosto de 2010</span>, para incluir óleos e gorduras de uso culinário como produtos do sistema de logística reversa.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2010-08-02;12305!art33-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12305!art33">art. 33 da Lei nº 12.305, de 2 de agosto de 2010</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2010-08-02;12305" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2010-08-02;12305 -> MatchByBase(urn:lex:br:federal:lei:2010-08-02;12305,2010,Some((8,2)),Map(art33_par3 -> PrefixMatch(URN(2010,Some((8,2)),art33,urn:lex:br:federal:lei:2010-08-02;12305!art33),art33_par3), art33_par9 -> PrefixMatch(URN(2010,Some((8,2)),art33,urn:lex:br:federal:lei:2010-08-02;12305!art33),art33_par9), art33 -> ExactMatch(URN(2010,Some((8,2)),art33,urn:lex:br:federal:lei:2010-08-02;12305!art33)), art33_cpt_inc7 -> PrefixMatch(URN(2010,Some((8,2)),art33,urn:lex:br:federal:lei:2010-08-02;12305!art33),art33_cpt_inc7), art33_par4 -> PrefixMatch(URN(2010,Some((8,2)),art33,urn:lex:br:federal:lei:2010-08-02;12305!art33),art33_par4), art33_cpt -> PrefixMatch(URN(2010,Some((8,2)),art33,urn:lex:br:federal:lei:2010-08-02;12305!art33),art33_cpt)))))-->
+              <Artigo xlink:href="art33" id="art1_cpt_alt1_art33" abreAspas="s">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput xlink:href="art33_cpt" id="art1_cpt_alt1_art33_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art33_cpt_omi1"/><Inciso xlink:href="art33_cpt_inc7" id="art1_cpt_alt1_art33_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>óleos e gorduras de uso culinário.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art33_omi1"/><Paragrafo xlink:href="art33_par3" id="art1_cpt_alt1_art33_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Sem prejuízo de exigências específicas fixadas em lei ou regulamento, em normas estabelecidas pelos órgãos do Sisnama e do SNVS, ou em acordos setoriais e termos de compromisso firmados entre o poder público e o setor empresarial, cabe aos fabricantes, importadores, distribuidores e comerciantes dos produtos a que se referem os incisos II, III, V, VI e VII ou dos produtos e embalagens a que se referem os incisos I e IV do caput e o § 1º tomar todas as medidas necessárias para assegurar a implementação e operacionalização do sistema de logística reversa sob seu encargo, consoante o estabelecido neste artigo, podendo, entre outras medidas:</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art33_omi2"/><Paragrafo xlink:href="art33_par4" id="art1_cpt_alt1_art33_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os consumidores deverão efetuar a devolução após o uso, aos comerciantes ou distribuidores, dos produtos e das embalagens a que se referem os incisos I a VII do caput, e de outros produtos ou embalagens objeto de logística reversa, na forma do § 1º.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art33_omi3"/><Paragrafo xlink:href="art33_par9" id="art1_cpt_alt1_art33_par9" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>No caso dos produtos listados no inciso VII do caput, serão estabelecidos prazos de adequação para a criação de postos de coleta, campanhas educativas e lista de pessoas físicas e jurídicas que realizem seu tratamento e aproveitamento.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

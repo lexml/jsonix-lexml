@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;40@data.evento;leitura;2017-11-28t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 40 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art107">art. 107 do Ato das Disposições Constitucionais Transitórias</span>, para determinar que as despesas com manutenção e desenvolvimento do ensino custeadas com recursos de que trata o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1">§ 1º do art. 20 da Constituição Federal</span> pertencentes à União sejam excluídas da base de cálculo e dos limites de despesas primárias estabelecidas pelo Novo Regime Fiscal.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art107-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art107">art. 107 do Ato das Disposições Constitucionais Transitórias</span> passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988,1988,Some((10,5)),Map(art107 -> ExactMatch(URN(1988,Some((10,5)),art107,urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art107)), art107_cpt -> PrefixMatch(URN(1988,Some((10,5)),art107,urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art107),art107_cpt), art107_par6 -> PrefixMatch(URN(1988,Some((10,5)),art107,urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art107),art107_par6), art107_par6_inc5 -> PrefixMatch(URN(1988,Some((10,5)),art107,urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art107),art107_par6_inc5)))))-->
+              <Artigo xlink:href="art107" id="art1_cpt_alt1_art107" abreAspas="s">
+            
+            
+            <Rotulo>Art. 107.</Rotulo>
+            
+            <Caput xlink:href="art107_cpt" id="art1_cpt_alt1_art107_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art107_omi1"/><Paragrafo xlink:href="art107_par6" id="art1_cpt_alt1_art107_par6" textoOmitido="s">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art107_par6_omi1"/><Inciso xlink:href="art107_par6_inc5" id="art1_cpt_alt1_art107_par6_inc5">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>despesas com manutenção e desenvolvimento do ensino custeadas com recursos de que trata o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1">§ 1º do art. 20 da Constituição Federal</span> pertencentes à União.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art107_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação, produzindo efeitos a partir do exercício financeiro subsequente ao envio do próximo projeto de lei orçamentária ao Congresso Nacional.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

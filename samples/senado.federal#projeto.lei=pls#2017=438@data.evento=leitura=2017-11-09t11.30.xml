@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;438@data.evento;leitura;2017-11-09t11.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 438 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera as alíneas “a” e “b”, do <span xlink:href="urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1">inciso I, do art. 1º, do Decreto-Lei nº 4.295, de 13 de maio de 1942</span>, que estabelece medidas de emergência, transitórias, relativas à indústria da energia elétrica, para vedar a adoção, pelo Governo federal, de hora especial em todo o território nacional.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1-->
+            
+            
+            <p>Este Lei modifica as alíneas “a” e “b’, do <span xlink:href="urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1">inciso I, do art. 1º, do Decreto-Lei nº 4.295, de 13 de maio de 1942</span>, que estabelece medidas de emergência, transitórias, relativas à indústria da energia elétrica, para vedar a adoção, pelo Governo federal, do horário de verão em todo o território nacional.</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1942-05-13;4295" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1942-05-13;4295 -> MatchByBase(urn:lex:br:federal:decreto.lei:1942-05-13;4295,1942,Some((5,13)),Map(art1 -> SuperPrefixMatch(URN(1942,Some((5,13)),art1_cpt_inc1,urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1),art1), art1_cpt -> SuperPrefixMatch(URN(1942,Some((5,13)),art1_cpt_inc1,urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1),art1_cpt), art1_cpt_inc1_ali1 -> PrefixMatch(URN(1942,Some((5,13)),art1_cpt_inc1,urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1),art1_cpt_inc1_ali1), art1_cpt_inc1_ali2 -> PrefixMatch(URN(1942,Some((5,13)),art1_cpt_inc1,urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1),art1_cpt_inc1_ali2), art1_cpt_inc1 -> ExactMatch(URN(1942,Some((5,13)),art1_cpt_inc1,urn:lex:br:federal:decreto.lei:1942-05-13;4295!art1_cpt_inc1))))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art1_cpt_inc1" id="art1_cpt_alt1_art1_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            <Alinea xlink:href="art1_cpt_inc1_ali1" id="art1_cpt_alt1_art1_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o melhor aproveitamento da energia produzida, mediante agrupamento em condições mais favoráveis, bem como o fornecimento a novos consumidores cujas necessidades sejam complementares das dos existentes, e quaisquer outras providências análogas;</p>
+            
+          </Alinea><Alinea xlink:href="art1_cpt_inc1_ali2" id="art1_cpt_alt1_art1_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a redução de consumo, através da eliminação das utilizações prescindíveis, vedada a adoção de hora especial em qualquer região do território nacional ou épocas do ano.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

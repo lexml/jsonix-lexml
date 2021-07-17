@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;15@data.evento;leitura;2017-04-05t14.11"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 15 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta o § 8º ao <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art218">art. 218 da Constituição Federal</span> para instituir o Plano Nacional de Ciência, Tecnologia e Inovação.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art218-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art218">art. 218 da Constituição Federal</span> passa a vigorar acrescido do seguinte § 8º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art218 -> ExactMatch(URN(1988,Some((10,5)),art218,urn:lex:br:federal:constituicao:1988-10-05;1988!art218)), art218_cpt -> PrefixMatch(URN(1988,Some((10,5)),art218,urn:lex:br:federal:constituicao:1988-10-05;1988!art218),art218_cpt), art218_par8 -> PrefixMatch(URN(1988,Some((10,5)),art218,urn:lex:br:federal:constituicao:1988-10-05;1988!art218),art218_par8)))))-->
+              <Artigo xlink:href="art218" id="art1_cpt_alt1_art218" abreAspas="s">
+            
+            
+            <Rotulo>Art. 218.</Rotulo>
+            
+            <Caput xlink:href="art218_cpt" id="art1_cpt_alt1_art218_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art218_omi1"/><Paragrafo xlink:href="art218_par8" id="art1_cpt_alt1_art218_par8" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>A lei estabelecerá o Plano Nacional de Ciência, Tecnologia e Inovação, de duração decenal, com o objetivo de definir diretrizes, objetivos, metas e estratégias de implementação das atividades previstas no caput e estabelecer meta de aplicação de recursos públicos em ciência, tecnologia e inovação como proporção do produto interno bruto.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Esta Emenda à <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

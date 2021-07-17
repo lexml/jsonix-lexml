@@ -1,0 +1,151 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;165@data.evento;leitura;2017-05-30t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 165 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1957-09-30;3268">Lei nº 3.268, de 30 de setembro de 1957</span>, que dispõe sobre os Conselhos de Medicina e dá outras providências, para instituir o exame nacional de proficiência em Medicina.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1957-09-30;3268-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1957-09-30;3268">Lei nº 3.268, de 30 de setembro de 1957</span>, passa a vigorar acrescida dos seguintes arts. 17-A a 17-D:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1957-09-30;3268" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1957-09-30;3268 -> MatchByBase(urn:lex:br:federal:lei:1957-09-30;3268,1957,Some((9,30)),Map(art17-3 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-3), art17-4_cpt -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-4_cpt), art17-4 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-4), art17-2_cpt -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-2_cpt), art17-3_par1 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-3_par1), art17-3_cpt -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-3_cpt), art17-3_par2 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-3_par2), art17-2_par3 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-2_par3), art17-1 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-1), art17-2_par2 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-2_par2), art17-4_par1 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-4_par1), art17-1_cpt -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-1_cpt), art17-2_par1 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-2_par1), art17-2 -> PrefixMatch(URN(1957,Some((9,30)),,urn:lex:br:federal:lei:1957-09-30;3268),art17-2)))))-->
+              <Artigo xlink:href="art17-1" id="art1_cpt_alt1_art17-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-A.</Rotulo>
+            
+            <Caput xlink:href="art17-1_cpt" id="art1_cpt_alt1_art17-1_cpt">
+            
+            
+            
+            <p>Somente poderão se inscrever em Conselho Regional de Medicina os médicos que, além de cumprir os requisitos estabelecidos no art. 17, tenham sido aprovados em exame de proficiência em Medicina.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art17-2" id="art1_cpt_alt1_art17-2">
+            
+            
+            <Rotulo>Art. 17-B.</Rotulo>
+            
+            <Caput xlink:href="art17-2_cpt" id="art1_cpt_alt1_art17-2_cpt">
+            
+            
+            
+            <p>O exame de proficiência em Medicina terá caráter nacional e será oferecido pelo menos duas vezes ao ano, em todos os Estados e no Distrito Federal.</p>
+            
+          </Caput><Paragrafo xlink:href="art17-2_par1" id="art1_cpt_alt1_art17-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O exame será realizado em etapa única a partir do último ano do curso de graduação em Medicina.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art17-2_par2" id="art1_cpt_alt1_art17-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Compete ao Conselho Federal de Medicina a coordenação nacional do exame.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art17-2_par3" id="art1_cpt_alt1_art17-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Incumbe aos Conselhos Regionais de Medicina a aplicação do exame em sua jurisdição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art17-3" id="art1_cpt_alt1_art17-3">
+            
+            
+            <Rotulo>Art. 17-C.</Rotulo>
+            
+            <Caput xlink:href="art17-3_cpt" id="art1_cpt_alt1_art17-3_cpt">
+            
+            
+            
+            <p>O exame de proficiência em Medicina avaliará competências éticas e cognitivas e habilidades profissionais, tomando por base os padrões mínimos requeridos para o exercício da profissão.</p>
+            
+          </Caput><Paragrafo xlink:href="art17-3_par1" id="art1_cpt_alt1_art17-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O resultado do exame de proficiência em Medicina será comunicado ao Ministério da Educação e ao Ministério da Saúde pelo Conselho Federal de Medicina.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art17-3_par2" id="art1_cpt_alt1_art17-3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O exame de proficiência em Medicina fornecerá exclusivamente ao participante a avaliação individual obtida, vedada a divulgação nominal de resultados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art17-4" id="art1_cpt_alt1_art17-4">
+            
+            
+            <Rotulo>Art. 17-D.</Rotulo>
+            
+            <Caput xlink:href="art17-4_cpt" id="art1_cpt_alt1_art17-4_cpt">
+            
+            
+            
+            <p>Serão atribuídos conceitos aos cursos de graduação em Medicina com base nos resultados obtidos pelos respectivos alunos no exame de proficiência.</p>
+            
+          </Caput><Paragrafo xlink:href="art17-4_par1u" id="art1_cpt_alt1_art17-4_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os conceitos de que trata o caput serão objeto de ampla divulgação pública.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1957-09-30;3268-->
+            
+            
+            <p>Ficam dispensados da realização do exame de proficiência a que se referem os arts. 17-A a 17-D da <span xlink:href="urn:lex:br:federal:lei:1957-09-30;3268">Lei nº 3.268, de 30 de setembro de 1957</span>:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os médicos com inscrição em Conselho Regional de Medicina homologada em data anterior à de entrada em vigor desta Lei;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os estudantes que ingressarem em curso de graduação em Medicina, no Brasil, em data anterior à de entrada em vigor desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor no prazo de dois anos a contar da data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

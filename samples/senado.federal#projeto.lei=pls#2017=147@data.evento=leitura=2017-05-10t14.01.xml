@@ -1,0 +1,166 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;147@data.evento;leitura;2017-05-10t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 147 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a Lei de Execução Penal para prever nova hipótese de remição de pena, para o preso em situação degradante e de flagrante desrespeito à sua integridade física e moral, e define o procedimento do incidente de excesso ou desvio de execução.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1984-07-11;7210!art186-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210!art186">art. 186 da Lei nº 7.210, de 11 de julho de 1984</span>, passa a viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1984-07-11;7210" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1984-07-11;7210 -> MatchByBase(urn:lex:br:federal:lei:1984-07-11;7210,1984,Some((7,11)),Map(art186_cpt -> PrefixMatch(URN(1984,Some((7,11)),art186,urn:lex:br:federal:lei:1984-07-11;7210!art186),art186_cpt), art186_cpt_inc3 -> PrefixMatch(URN(1984,Some((7,11)),art186,urn:lex:br:federal:lei:1984-07-11;7210!art186),art186_cpt_inc3), art186_cpt_inc4 -> PrefixMatch(URN(1984,Some((7,11)),art186,urn:lex:br:federal:lei:1984-07-11;7210!art186),art186_cpt_inc4), art186_cpt_inc2 -> PrefixMatch(URN(1984,Some((7,11)),art186,urn:lex:br:federal:lei:1984-07-11;7210!art186),art186_cpt_inc2), art186_cpt_inc5 -> PrefixMatch(URN(1984,Some((7,11)),art186,urn:lex:br:federal:lei:1984-07-11;7210!art186),art186_cpt_inc5), art186 -> ExactMatch(URN(1984,Some((7,11)),art186,urn:lex:br:federal:lei:1984-07-11;7210!art186)), art186_cpt_inc1 -> PrefixMatch(URN(1984,Some((7,11)),art186,urn:lex:br:federal:lei:1984-07-11;7210!art186),art186_cpt_inc1)))))-->
+              <Artigo xlink:href="art186" id="art1_cpt_alt1_art186" abreAspas="s">
+            
+            
+            <Rotulo>Art. 186.</Rotulo>
+            
+            <Caput xlink:href="art186_cpt" id="art1_cpt_alt1_art186_cpt">
+            
+            
+            
+            <p>Podem suscitar o incidente de excesso ou desvio de execução:</p>
+            <Inciso xlink:href="art186_cpt_inc1" id="art1_cpt_alt1_art186_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Ministério Público;</p>
+            
+          </Inciso><Inciso xlink:href="art186_cpt_inc2" id="art1_cpt_alt1_art186_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a Defensoria Pública;</p>
+            
+          </Inciso><Inciso xlink:href="art186_cpt_inc3" id="art1_cpt_alt1_art186_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o Conselho Penitenciário;</p>
+            
+          </Inciso><Inciso xlink:href="art186_cpt_inc4" id="art1_cpt_alt1_art186_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o sentenciado;</p>
+            
+          </Inciso><Inciso xlink:href="art186_cpt_inc5" id="art1_cpt_alt1_art186_cpt_inc5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>qualquer dos demais órgãos da execução penal.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1984-07-11;7210-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210">Lei nº 7.210, de 11 de julho de 1984</span>, passa a viger acrescida dos seguintes artigos:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1984-07-11;7210" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1984-07-11;7210 -> MatchByBase(urn:lex:br:federal:lei:1984-07-11;7210,1984,Some((7,11)),Map(art186-1_cpt_inc2 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_cpt_inc2), art126-1_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art126-1_cpt), art186-1_cpt_inc1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_cpt_inc1), art126-1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art126-1), art186-2 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-2), art126-1_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art126-1_par1), art186-1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1), art186-1_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_cpt), art186-2_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-2_cpt), art126-1_par2 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art126-1_par2), art186-2_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-2_par1)))))-->
+              <Artigo xlink:href="art126-1" id="art2_cpt_alt1_art126-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 126-A.</Rotulo>
+            
+            <Caput xlink:href="art126-1_cpt" id="art2_cpt_alt1_art126-1_cpt">
+            
+            
+            
+            <p>O preso condenado com bom comportamento carcerário e que cumpre a pena em situação degradante ou ofensiva à sua integridade física e moral, em razão de o estabelecimento penal estar com lotação superior à sua capacidade, tem direito a remir a pena à razão de um dia de pena a cada sete dias de encarceramento em condições degradantes.</p>
+            
+          </Caput><Paragrafo xlink:href="art126-1_par1" id="art2_cpt_alt1_art126-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O juiz da execução decidirá sobre a remição de que trata este artigo após observado o procedimento previsto no Capítulo II do Título VII desta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art126-1_par2" id="art2_cpt_alt1_art126-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A remição de que trata este artigo poderá ser cumulada com outras hipóteses de remição previstas em lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art186-1" id="art2_cpt_alt1_art186-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 186-A.</Rotulo>
+            
+            <Caput xlink:href="art186-1_cpt" id="art2_cpt_alt1_art186-1_cpt">
+            
+            
+            
+            <p>Suscitado, por escrito, o desvio ou excesso de execução, o juiz observará o seguinte procedimento:</p>
+            <Inciso xlink:href="art186-1_cpt_inc1" id="art2_cpt_alt1_art186-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>mandará autuar em apartado o incidente, e em seguida ouvirá a parte contrária, que, no prazo de 48 horas, oferecerá resposta;</p>
+            
+          </Inciso><Inciso xlink:href="art186-1_cpt_inc2" id="art2_cpt_alt1_art186-1_cpt_inc2" fechaAspas="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>poderá ordenar as diligências e requisitar as provas que entender necessárias, inclusive inspecionar o estabelecimento penal, no prazo de até 10 dias, após o que, conclusos os autos, decidirá em até 48 horas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art186-2" id="art2_cpt_alt1_art186-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 186-B.</Rotulo>
+            
+            <Caput xlink:href="art186-2_cpt" id="art2_cpt_alt1_art186-2_cpt">
+            
+            
+            
+            <p>No caso de desvio ou excesso em razão de o estabelecimento estar com lotação superior à sua capacidade, o juiz decidirá sobre a remição de pena de que trata o art. 126-A desta Lei.</p>
+            
+          </Caput><Paragrafo xlink:href="art186-2_par1u" id="art2_cpt_alt1_art186-2_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A reparação civil só será cabível quando a remição da pena não for possível.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor trinta dias após a data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

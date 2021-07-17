@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;199@data.evento;leitura;2017-06-20t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 199 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Lei nº 9.504, de 30 de setembro de 1997</span>, para vedar a inauguração de obras públicas e a realização de eventos pagos com recursos públicos durante o pleito eleitoral e nos três meses que lhe antecedem.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-30;9504!art75--><!--Link: urn:lex:br:federal:lei:1997-09-30;9504!art77-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504!art75">arts. 75</span> e <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504!art77">77 da Lei nº 9.504, de 30 de setembro de 1997</span>, passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-30;9504" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-30;9504 -> MatchByBase(urn:lex:br:federal:lei:1997-09-30;9504,1997,Some((9,30)),Map(art75 -> ExactMatch(URN(1997,Some((9,30)),art75,urn:lex:br:federal:lei:1997-09-30;9504!art75)), art75_cpt -> PrefixMatch(URN(1997,Some((9,30)),art75,urn:lex:br:federal:lei:1997-09-30;9504!art75),art75_cpt), art77 -> ExactMatch(URN(1997,Some((9,30)),art77,urn:lex:br:federal:lei:1997-09-30;9504!art77)), art77_cpt -> PrefixMatch(URN(1997,Some((9,30)),art77,urn:lex:br:federal:lei:1997-09-30;9504!art77),art77_cpt)))))-->
+              <Artigo xlink:href="art75" id="art1_cpt_alt1_art75" abreAspas="s">
+            
+            
+            <Rotulo>Art. 75.</Rotulo>
+            
+            <Caput xlink:href="art75_cpt" id="art1_cpt_alt1_art75_cpt">
+            
+            
+            
+            <p>Durante o pleito eleitoral e nos três meses que lhe antecedem, é vedada a realização de shows artísticos, eventos culturais, feiras e exposições pagos com recursos públicos.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art75_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art77" id="art1_cpt_alt1_art77" abreAspas="s">
+            
+            
+            <Rotulo>Art. 77.</Rotulo>
+            
+            <Caput xlink:href="art77_cpt" id="art1_cpt_alt1_art77_cpt">
+            
+            
+            
+            <p>Durante o pleito eleitoral e nos três meses que lhe antecedem, é vedada a inauguração de obras públicas.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art77_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

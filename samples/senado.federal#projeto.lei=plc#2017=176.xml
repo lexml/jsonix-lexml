@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;176"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 176 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1974-07-16;6088">Lei nº 6.088, de 16 de julho de 1974</span>, que “dispõe sobre a criação da Companhia de Desenvolvimento do Vale do São Francisco – CODEVASF – e dá outras providências”.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1974-07-16;6088!art2_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1974-07-16;6088!art2_cpt">caput do art. 2º da Lei nº 6.088, de 16 de julho de 1974</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1974-07-16;6088" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1974-07-16;6088 -> MatchByBase(urn:lex:br:federal:lei:1974-07-16;6088,1974,Some((7,16)),Map(art2 -> SuperPrefixMatch(URN(1974,Some((7,16)),art2_cpt,urn:lex:br:federal:lei:1974-07-16;6088!art2_cpt),art2), art2_cpt -> ExactMatch(URN(1974,Some((7,16)),art2_cpt,urn:lex:br:federal:lei:1974-07-16;6088!art2_cpt))))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>A Codevasf terá sede e foro no Distrito Federal e atuação nos vales dos rios São Francisco, Parnaíba, Itapecuru, Mearim, Tocantins, Gurupi, Munim, Maracaçumé, Turiaçu, Preguiças, Periá, nos sistemas hidrográficos das ilhas maranhenses e do seu litoral ocidental, nos vales dos rios Jaguaribe, Banabuiú, Salgado, Curu, Acaraú, Coreaú, Jaburu, Poti, Aracatiaçu e Mundaú, nos Estados de Pernambuco, Alagoas, Sergipe, Bahia, Minas Gerais, Goiás, Piauí, Maranhão e Ceará e no Distrito Federal, podendo instalar e manter, no País, órgãos e setores de operação e representação.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1974-07-16;6088!art4_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1974-07-16;6088!art4_cpt">caput do art. 4º da Lei nº 6.088, de 16 de julho de 1974</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1974-07-16;6088" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1974-07-16;6088 -> MatchByBase(urn:lex:br:federal:lei:1974-07-16;6088,1974,Some((7,16)),Map(art4 -> SuperPrefixMatch(URN(1974,Some((7,16)),art4_cpt,urn:lex:br:federal:lei:1974-07-16;6088!art4_cpt),art4), art4_cpt -> ExactMatch(URN(1974,Some((7,16)),art4_cpt,urn:lex:br:federal:lei:1974-07-16;6088!art4_cpt))))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>A Codevasf tem por finalidade o aproveitamento, para fins agrícolas, agropecuários e agroindustriais, dos recursos de água e do solo dos vales dos rios São Francisco, Parnaíba, Itapecuru, Mearim, Tocantins, Gurupi, Munim, Maracaçumé, Turiaçu, Preguiças, Periá, nos sistemas hidrográficos das ilhas maranhenses e do seu litoral ocidental, nos vales dos rios Jaguaribe, Banabuiú, Salgado, Curu, Acaraú, Coreaú, Jaburu, Poti, Aracatiaçu e Mundaú, diretamente ou por intermédio de entidades públicas e privadas, promovendo o desenvolvimento integrado de áreas prioritárias e a implantação de distritos agroindustriais e agropecuários, podendo, para esse efeito, coordenar ou executar, diretamente ou mediante contratação, obras de infraestrutura, particularmente de captação de água para fins de irrigação, de construção de canais primários ou secundários, e também obras de saneamento básico, eletrificação e transportes, conforme Plano Diretor em articulação com os órgãos federais competentes.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

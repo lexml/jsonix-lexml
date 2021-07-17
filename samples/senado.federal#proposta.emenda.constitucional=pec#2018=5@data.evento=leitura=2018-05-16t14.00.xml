@@ -1,0 +1,106 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2018;5@data.evento;leitura;2018-05-16t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 5 DE 2018</Epigrafe>
+      <Ementa id="ementa">Acrescenta §§ 1º e 2º ao art. 51 e §§ 2º e 3º ao <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52">art. 52 da Constituição Federal</span>, para designar que a Mesa fará manter a ordem e a disciplina nas dependências sob a responsabilidade da Câmara dos Deputados e do Senado Federal.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art51-->
+            
+            
+            <p>É acrescentado ao <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art51">art. 51 da Constituição Federal</span> os seguintes parágrafos:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art51 -> ExactMatch(URN(1988,Some((10,5)),art51,urn:lex:br:federal:constituicao:1988-10-05;1988!art51)), art51_cpt -> PrefixMatch(URN(1988,Some((10,5)),art51,urn:lex:br:federal:constituicao:1988-10-05;1988!art51),art51_cpt), art51_par1 -> PrefixMatch(URN(1988,Some((10,5)),art51,urn:lex:br:federal:constituicao:1988-10-05;1988!art51),art51_par1), art51_par2 -> PrefixMatch(URN(1988,Some((10,5)),art51,urn:lex:br:federal:constituicao:1988-10-05;1988!art51),art51_par2)))))-->
+              <Artigo xlink:href="art51" id="art1_cpt_alt1_art51" abreAspas="s">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput xlink:href="art51_cpt" id="art1_cpt_alt1_art51_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art51_omi1"/><Paragrafo xlink:href="art51_par1" id="art1_cpt_alt1_art51_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A Mesa fará manter a ordem e a disciplina nas dependências sob a responsabilidade da Câmara dos Deputados, assegurando a inviolabilidade de sua sede, destinando-se a polícia legislativa federal, órgão permanente, estruturado em carreira, à execução das atividades típicas de polícia administrativa, de investigação e judiciária.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art51_par2" id="art1_cpt_alt1_art51_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nenhuma medida judicial de caráter constritivo será cumprida nas dependências sob a responsabilidade da Câmara dos Deputado sem as anuências expressas do Supremo Tribunal Federal e do Presidente da Câmara dos Deputados.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art52-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52">art. 52 da Constituição Federal</span> passa a vigorar acrescido dos seguintes parágrafos, renumerando-se como §1º o parágrafo único existente:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art52 -> ExactMatch(URN(1988,Some((10,5)),art52,urn:lex:br:federal:constituicao:1988-10-05;1988!art52)), art52_cpt -> PrefixMatch(URN(1988,Some((10,5)),art52,urn:lex:br:federal:constituicao:1988-10-05;1988!art52),art52_cpt), art52_par2 -> PrefixMatch(URN(1988,Some((10,5)),art52,urn:lex:br:federal:constituicao:1988-10-05;1988!art52),art52_par2), art52_par3 -> PrefixMatch(URN(1988,Some((10,5)),art52,urn:lex:br:federal:constituicao:1988-10-05;1988!art52),art52_par3)))))-->
+              <Artigo xlink:href="art52" id="art2_cpt_alt1_art52" abreAspas="s">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput xlink:href="art52_cpt" id="art2_cpt_alt1_art52_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art52_omi1"/><Paragrafo xlink:href="art52_par2" id="art2_cpt_alt1_art52_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Mesa fará manter a ordem e a disciplina nas dependências sob a responsabilidade do Senado Federal, destinando-se a polícia legislativa federal, órgão permanente, estruturado em carreira, à execução das atividades típicas de polícia administrativa, de investigação e judiciária.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art52_par3" id="art2_cpt_alt1_art52_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Nenhuma medida judicial de caráter constritivo será cumprida nas dependências sob a responsabilidade do Senado Federal sem as anuências expressas do Supremo Tribunal Federal e do Presidente do Senado Federal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

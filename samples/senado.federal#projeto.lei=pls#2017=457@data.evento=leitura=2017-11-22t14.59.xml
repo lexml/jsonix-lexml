@@ -1,0 +1,358 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;457@data.evento;leitura;2017-11-22t14.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 457 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a redação do art. 7º e acrescenta os arts. 7º-A a 7º-E à <span xlink:href="urn:lex:br:federal:lei:2002-07-17;10520">Lei nº 10.520, de 17 de julho de 2002</span>, para estabelecer procedimentos para a definição da dosimetria na aplicação da penalidade de impedimento de licitar e contratar com a Administração.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-07-17;10520!art7-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2002-07-17;10520!art7">art. 7º da Lei nº 10.520, de 17 de julho de 2002</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-07-17;10520" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-07-17;10520 -> MatchByBase(urn:lex:br:federal:lei:2002-07-17;10520,2002,Some((7,17)),Map(art7_cpt_inc8 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc8), art7_cpt_inc7_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc7_pena), art7_cpt_inc2 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc2), art7_cpt_inc3_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc3_pena), art7_cpt_inc5_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc5_pena), art7_cpt_inc7 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc7), art7 -> ExactMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7)), art7_par1_inc2 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_par1_inc2), art7_cpt_inc3 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc3), art7_par1_inc3 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_par1_inc3), art7_par2 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_par2), art7_cpt_inc6 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc6), art7_cpt_inc9_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc9_pena), art7_cpt_inc5 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc5), art7_cpt_inc1 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc1), art7_par1_inc1 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_par1_inc1), art7_cpt_inc1_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc1_pena), art7_cpt_inc2_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc2_pena), art7_par1_inc4 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_par1_inc4), art7_cpt_inc8_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc8_pena), art7_par1 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_par1), art7_cpt_inc4_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc4_pena), art7_cpt_inc4 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc4), art7_cpt_inc6_pena -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc6_pena), art7_par1_inc5 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_par1_inc5), art7_cpt -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt), art7_cpt_inc9 -> PrefixMatch(URN(2002,Some((7,17)),art7,urn:lex:br:federal:lei:2002-07-17;10520!art7),art7_cpt_inc9)))))-->
+              <Artigo xlink:href="art7" id="art1_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art1_cpt_alt1_art7_cpt">
+            
+            
+            
+            <p>Sem prejuízo de outras sanções previstas no edital, no contrato ou na legislação vigente, as condutas a seguir importarão nas penalidades assinaladas, aplicadas no âmbito de procedimento administrativo regularmente instaurado:</p>
+            <Inciso xlink:href="art7_cpt_inc1" id="art1_cpt_alt1_art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>não assinar o contrato/ata de registro de preços ou não aceitar/retirar o instrumento equivalente, quando convocado dentro do prazo de validade de sua proposta:</p>
+            <Pena xlink:href="art7_cpt_inc1_pena" id="art1_cpt_alt1_art7_cpt_inc1_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 3 (três) a 6 (seis) meses;</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc2" id="art1_cpt_alt1_art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>deixar de entregar documentação exigida para o certame:</p>
+            <Pena xlink:href="art7_cpt_inc2_pena" id="art1_cpt_alt1_art7_cpt_inc2_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 1 (um) a 3 (três) meses;</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc3" id="art1_cpt_alt1_art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fazer declaração falsa ou apresentar documentação falsa:</p>
+            <Pena xlink:href="art7_cpt_inc3_pena" id="art1_cpt_alt1_art7_cpt_inc3_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 18 (dezoito) a 30 (trinta) meses;</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc4" id="art1_cpt_alt1_art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ensejar o retardamento da execução do objeto:</p>
+            <Pena xlink:href="art7_cpt_inc4_pena" id="art1_cpt_alt1_art7_cpt_inc4_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 3 (três) a 6 (seis) meses;</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc5" id="art1_cpt_alt1_art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>não manter a proposta:</p>
+            <Pena xlink:href="art7_cpt_inc5_pena" id="art1_cpt_alt1_art7_cpt_inc5_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 3 (três) a 6 (seis) meses;</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc6" id="art1_cpt_alt1_art7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>falhar na execução do contrato:</p>
+            <Pena xlink:href="art7_cpt_inc6_pena" id="art1_cpt_alt1_art7_cpt_inc6_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 9 (nove) a 15 (quinze) meses;</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc7" id="art1_cpt_alt1_art7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>fraudar a execução do contrato:</p>
+            <Pena xlink:href="art7_cpt_inc7_pena" id="art1_cpt_alt1_art7_cpt_inc7_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 24 (vinte e quatro) a 36 (trinta e seis) meses;</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc8" id="art1_cpt_alt1_art7_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>comportar-se de modo inidôneo:</p>
+            <Pena xlink:href="art7_cpt_inc8_pena" id="art1_cpt_alt1_art7_cpt_inc8_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 18 (dezoito) a 30 (trinta) meses; e</p>
+            
+          </Pena>
+          </Inciso><Inciso xlink:href="art7_cpt_inc9" id="art1_cpt_alt1_art7_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>cometer fraude fiscal:</p>
+            <Pena xlink:href="art7_cpt_inc9_pena" id="art1_cpt_alt1_art7_cpt_inc9_pena">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>impedimento do direito de licitar e contratar com a Administração e descredenciamento do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei pelo período de 30 (trinta) a 40 (quarenta) meses;</p>
+            
+          </Pena>
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art7_par1" id="art1_cpt_alt1_art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para os fins desta Lei, considera-se:</p>
+            <Inciso xlink:href="art7_par1_inc1" id="art1_cpt_alt1_art7_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>retardar a execução do objeto qualquer ação ou omissão do licitante que prejudique o bom andamento da licitação, inclusive deixar de entregar a amostra no prazo assinalado no edital, que evidencie tentativa de indução a erro no julgamento, ou que atrase a assinatura do contrato ou da ata de registro de preços;</p>
+            
+          </Inciso><Inciso xlink:href="art7_par1_inc2" id="art1_cpt_alt1_art7_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>não manter a proposta a ausência de seu envio, bem como a recusa do envio de seu detalhamento, quando exigível, ou ainda o pedido, pelo licitante, da desclassificação de sua proposta, quando encerrada a etapa competitiva, desde que não esteja fundamentada na demonstração de vício ou falha na sua elaboração, que evidencie a impossibilidade de seu cumprimento;</p>
+            
+          </Inciso><Inciso xlink:href="art7_par1_inc3" id="art1_cpt_alt1_art7_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>falhar na execução contratual o inadimplemento grave ou inescusável de obrigação assumida pelo contratado;</p>
+            
+          </Inciso><Inciso xlink:href="art7_par1_inc4" id="art1_cpt_alt1_art7_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fraudar na execução contratual a prática de qualquer ato destinado à obtenção de vantagem ilícita, induzindo ou mantendo em erro a Administração Pública; e</p>
+            
+          </Inciso><Inciso xlink:href="art7_par1_inc5" id="art1_cpt_alt1_art7_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>comportar-se de modo inidôneo a prática de atos direcionados a prejudicar o bom andamento do certame ou do contrato, tais como a fraude ou frustração do caráter competitivo do procedimento licitatório, ação em conluio ou em desconformidade com a lei, indução deliberada a erro no julgamento, prestação falsa de informações, apresentação de documentação com informações inverídicas, ou que contenha emenda ou rasura, destinados a prejudicar a veracidade de seu teor original.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art7_par2" id="art1_cpt_alt1_art7_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As penalidades estabelecidas neste artigo serão aplicadas dentro dos limites fixados para cada conduta, de acordo com a culpabilidade e os antecedentes do agente, os motivos e as circunstâncias da infração e os seus prejuízos à Administração.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-07-17;10520-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2002-07-17;10520">Lei nº 10.520, de 17 de julho de 2002</span>, passa a vigorar acrescida dos arts. 7º-A a 7º-E:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-07-17;10520" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-07-17;10520 -> MatchByBase(urn:lex:br:federal:lei:2002-07-17;10520,2002,Some((7,17)),Map(art7-1_cpt_inc3 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-1_cpt_inc3), art7-2_cpt -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-2_cpt), art7-2 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-2), art7-5_par1 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-5_par1), art7-3_cpt -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-3_cpt), art7-3_cpt_inc4 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-3_cpt_inc4), art7-2_cpt_inc1 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-2_cpt_inc1), art7-1_cpt_inc2 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-1_cpt_inc2), art7-3 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-3), art7-2_cpt_inc2 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-2_cpt_inc2), art7-3_cpt_inc2 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-3_cpt_inc2), art7-3_cpt_inc5 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-3_cpt_inc5), art7-1 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-1), art7-4 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-4), art7-3_cpt_inc1 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-3_cpt_inc1), art7-4_cpt -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-4_cpt), art7-1_cpt_inc1 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-1_cpt_inc1), art7-5_cpt -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-5_cpt), art7-2_cpt_inc3 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-2_cpt_inc3), art7-1_cpt -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-1_cpt), art7-3_cpt_inc3 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-3_cpt_inc3), art7-5 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-5), art7-1_cpt_inc4 -> PrefixMatch(URN(2002,Some((7,17)),,urn:lex:br:federal:lei:2002-07-17;10520),art7-1_cpt_inc4)))))-->
+              <Artigo xlink:href="art7-1" id="art2_cpt_alt1_art7-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º-A.</Rotulo>
+            
+            <Caput xlink:href="art7-1_cpt" id="art2_cpt_alt1_art7-1_cpt">
+            
+            
+            
+            <p>As sanções previstas nos incisos I a IX do art. 7º poderão ser majoradas em 50% (cinquenta por cento), para cada agravante, até o limite de 60 (sessenta) meses, nas seguintes situações:</p>
+            <Inciso xlink:href="art7-1_cpt_inc1" id="art2_cpt_alt1_art7-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quando restar comprovado que o licitante ou contratado tenha registro no SICAF ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei de penalidade aplicada no âmbito do respectivo ente federativo, em decorrência da prática de qualquer das condutas tipificadas na presente norma, nos 12 (doze) meses que antecederam o fato em decorrência do qual será aplicada a penalidade;</p>
+            
+          </Inciso><Inciso xlink:href="art7-1_cpt_inc2" id="art2_cpt_alt1_art7-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>quando restar comprovado que o licitante tenha sido desclassificado ou inabilitado por não atender às condições do edital, quando for notória a sua impossibilidade de atendimento ao estabelecido;</p>
+            
+          </Inciso><Inciso xlink:href="art7-1_cpt_inc3" id="art2_cpt_alt1_art7-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>quando o licitante, deliberadamente, não responder às diligências destinadas a esclarecer ou a complementar a instrução do processo licitatório; ou</p>
+            
+          </Inciso><Inciso xlink:href="art7-1_cpt_inc4" id="art2_cpt_alt1_art7-1_cpt_inc4" fechaAspas="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>quando restar comprovado que o licitante tenha prestado declaração falsa de que é beneficiário do tratamento diferenciado concedido em legislação específica.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art7-2" id="art2_cpt_alt1_art7-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º-B.</Rotulo>
+            
+            <Caput xlink:href="art7-2_cpt" id="art2_cpt_alt1_art7-2_cpt">
+            
+            
+            
+            <p>As penas previstas nos incisos I, II, IV e V do art. 7º poderão ser reduzidas em 50% (cinquenta por cento), uma única vez, após a incidência do previsto no art. 7º-A, quando não tenha havido nenhum dano à Administração, em decorrência de qualquer das seguintes atenuantes:</p>
+            <Inciso xlink:href="art7-2_cpt_inc1" id="art2_cpt_alt1_art7-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a conduta praticada tenha sido, desde que devidamente comprovada, decorrente de falha escusável do licitante ou contratado;</p>
+            
+          </Inciso><Inciso xlink:href="art7-2_cpt_inc2" id="art2_cpt_alt1_art7-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a conduta praticada seja decorrente da apresentação de documentação que contenha vícios ou omissões para os quais não tenha contribuído, ou que não sejam de fácil identificação, desde que devidamente comprovado; ou</p>
+            
+          </Inciso><Inciso xlink:href="art7-2_cpt_inc3" id="art2_cpt_alt1_art7-2_cpt_inc3" fechaAspas="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a conduta praticada seja decorrente da apresentação de documentação que não atendeu às exigências do edital, desde que reste evidenciado equívoco em seu encaminhamento e a ausência de dolo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art7-3" id="art2_cpt_alt1_art7-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º-C.</Rotulo>
+            
+            <Caput xlink:href="art7-3_cpt" id="art2_cpt_alt1_art7-3_cpt">
+            
+            
+            
+            <p>A penalidade a que se refere o inciso II do art. 7º será afastada quando a entrega da documentação ocorrer fora dos prazos estabelecidos, desde que não tenha acarretado prejuízos à Administração, observando-se ainda, cumulativamente, que:</p>
+            <Inciso xlink:href="art7-3_cpt_inc1" id="art2_cpt_alt1_art7-3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a documentação entregue esteja correta e adequada ao que fora solicitado;</p>
+            
+          </Inciso><Inciso xlink:href="art7-3_cpt_inc2" id="art2_cpt_alt1_art7-3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o eventual atraso no cumprimento dos prazos não seja superior a sua quarta parte;</p>
+            
+          </Inciso><Inciso xlink:href="art7-3_cpt_inc3" id="art2_cpt_alt1_art7-3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>não tenha ocorrido nenhuma solicitação de prorrogação dos prazos;</p>
+            
+          </Inciso><Inciso xlink:href="art7-3_cpt_inc4" id="art2_cpt_alt1_art7-3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>não tenha ocorrido nenhuma hipótese de agravantes prevista no art. 7º-A; e</p>
+            
+          </Inciso><Inciso xlink:href="art7-3_cpt_inc5" id="art2_cpt_alt1_art7-3_cpt_inc5" fechaAspas="s">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o licitante faltoso não tenha sofrido registro de penalidade no SICAF ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º desta Lei em decorrência da prática de quaisquer condutas tipificadas na presente norma em procedimentos licitatórios ou em contratações ocorridas nos 12 (doze) meses que antecederam o fato em razão do qual será aplicada a penalidade.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art7-4" id="art2_cpt_alt1_art7-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º-D.</Rotulo>
+            
+            <Caput xlink:href="art7-4_cpt" id="art2_cpt_alt1_art7-4_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Quando a ação ou omissão do licitante ou contratante ensejar o enquadramento de concurso de condutas, aplicar-se-á a pena mais grave.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art7-5" id="art2_cpt_alt1_art7-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º-E.</Rotulo>
+            
+            <Caput xlink:href="art7-5_cpt" id="art2_cpt_alt1_art7-5_cpt">
+            
+            
+            
+            <p>Na apuração dos fatos, a Administração atuará com base no princípio da boa-fé objetiva, assegurando ao licitante ou ao contratante a ampla defesa e o contraditório, o direito de juntar todo e qualquer meio de prova necessário à sua defesa, podendo, inclusive, requerer diligências.</p>
+            
+          </Caput><Paragrafo xlink:href="art7-5_par1u" id="art2_cpt_alt1_art7-5_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Administração Pública formará sua convicção com base na livre apreciação dos fatos e condutas praticadas, devendo, quando necessário, promover diligências para a apuração da veracidade das informações e provas apresentadas pela defesa.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,325 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;405@data.evento;leitura;2017-10-25t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 405 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei no 5.452, de 1º de maio de 1943</span>, de modo adequar a legislação trabalhista ao equilíbrio da relação capital-trabalho.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452--><!--Link: urn:lex:br:federal:lei:2017-07-13;13467-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> – <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span> – aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, com a redação da pela <span xlink:href="urn:lex:br:federal:lei:2017-07-13;13467">Lei nº 13.467, de 13 de julho de 2017</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art611-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-1), art790 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790), art223-7_cpt_inc7 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc7), art790-2_par3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790-2_par3), art448-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art448-1_par1), art448-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art448-1_cpt), art4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art4), art510-3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art510-3), art223-2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-2), art790_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790_cpt), art790-2_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790-2_cpt), art611-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-1_cpt), art790-2_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790-2_par4), art223-2_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-2_cpt), art59_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art59_cpt), art611-1_cpt_inc3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-1_cpt_inc3), art223-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-1_cpt), art4_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art4_cpt), art611-1_cpt_inc9 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-1_cpt_inc9), art59 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art59), art223-7_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt), art790-2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790-2), art223-3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-3), art223-5_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-5_cpt), art510-3_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art510-3_cpt), art510-3_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art510-3_par1), art59_par6 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art59_par6), art611-2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2), art790-2_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790-2_par1), art448-1_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art448-1_par2), art223-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-1), art223-3_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-3_cpt), art611-2_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2_cpt), art448-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art448-1), art223-7 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7), art223-7_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_par1), art4_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art4_par2), art790_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art790_par4), art223-5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-5))), urn:lex:br:federal:lei:2017-07-13;13467 -> MatchByBase(urn:lex:br:federal:lei:2017-07-13;13467,2017,Some((7,13)),Map(art611-1 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art611-1), art790 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790), art223-7_cpt_inc7 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-7_cpt_inc7), art790-2_par3 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790-2_par3), art448-1_par1 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art448-1_par1), art448-1_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art448-1_cpt), art4 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art4), art510-3 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art510-3), art223-2 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-2), art790_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790_cpt), art790-2_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790-2_cpt), art611-1_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art611-1_cpt), art790-2_par4 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790-2_par4), art223-2_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-2_cpt), art59_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art59_cpt), art611-1_cpt_inc3 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art611-1_cpt_inc3), art223-1_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-1_cpt), art4_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art4_cpt), art611-1_cpt_inc9 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art611-1_cpt_inc9), art59 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art59), art223-7_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-7_cpt), art790-2 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790-2), art223-3 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-3), art223-5_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-5_cpt), art510-3_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art510-3_cpt), art510-3_par1 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art510-3_par1), art59_par6 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art59_par6), art611-2 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art611-2), art790-2_par1 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790-2_par1), art448-1_par2 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art448-1_par2), art223-1 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-1), art223-3_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-3_cpt), art611-2_cpt -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art611-2_cpt), art448-1 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art448-1), art223-7 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-7), art223-7_par1 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-7_par1), art4_par2 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art4_par2), art790_par4 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art790_par4), art223-5 -> PrefixMatch(URN(2017,Some((7,13)),,urn:lex:br:federal:lei:2017-07-13;13467),art223-5)))))-->
+              <Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par2" id="art1_cpt_alt1_art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não se considera tempo à disposição do empregador, o período que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no §1º do art. 58 desta Consolidação, quando o empregado buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas, bem como, por escolha própria, adentrar ou permanecer nas dependências da empresa para exercer atividades particulares, sem que haja trabalho de fato:</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art4_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art59" id="art1_cpt_alt1_art59" abreAspas="s">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput xlink:href="art59_cpt" id="art1_cpt_alt1_art59_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art59_omi1"/><Paragrafo xlink:href="art59_par6" id="art1_cpt_alt1_art59_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>É lícito o regime de compensação de jornada estabelecido por acordo individual escrito para a compensação no mesmo mês.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art223-1" id="art1_cpt_alt1_art223-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 223-A.</Rotulo>
+            
+            <Caput xlink:href="art223-1_cpt" id="art1_cpt_alt1_art223-1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Aplicam-se à reparação de danos de natureza extrapatrimonial decorrentes da relação de trabalho os dispositivos deste Título.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-2" id="art1_cpt_alt1_art223-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 223-B.</Rotulo>
+            
+            <Caput xlink:href="art223-2_cpt" id="art1_cpt_alt1_art223-2_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Causa dano de natureza extrapatrimonial a ofensa à esfera não patrimonial ou existencial da pessoa física ou jurídica.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-3" id="art1_cpt_alt1_art223-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 223-C.</Rotulo>
+            
+            <Caput xlink:href="art223-3_cpt" id="art1_cpt_alt1_art223-3_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>A honra, a imagem, a intimidade, a liberdade de ação, a autoestima, a sexualidade, a saúde, o lazer, a integridade física, dentre outros, são os bens juridicamente tutelados inerentes à pessoa física.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-5" id="art1_cpt_alt1_art223-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 223-E.</Rotulo>
+            
+            <Caput xlink:href="art223-5_cpt" id="art1_cpt_alt1_art223-5_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>São responsáveis pelo dano extrapatrimonial todos os que tenham colaborado para a ofensa ao bem jurídico tutelado, na proporção da responsabilidade.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-7" id="art1_cpt_alt1_art223-7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 223-G.</Rotulo>
+            
+            <Caput xlink:href="art223-7_cpt" id="art1_cpt_alt1_art223-7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art223-7_cpt_omi1"/><Inciso xlink:href="art223-7_cpt_inc7" id="art1_cpt_alt1_art223-7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o grau da responsabilidade;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art223-7_omi1"/><Paragrafo xlink:href="art223-7_par1" id="art1_cpt_alt1_art223-7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se julgar procedente o pedido, o juízo fixará a indenização a ser paga, a cada um dos ofendidos, em um dos seguintes parâmetros:</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art223-7_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art448-1" id="art1_cpt_alt1_art448-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 448-A.</Rotulo>
+            
+            <Caput xlink:href="art448-1_cpt" id="art1_cpt_alt1_art448-1_cpt">
+            
+            
+            
+            <p>Caracterizada a sucessão empresarial prevista nos arts. 10 e 448 desta Consolidação, as obrigações trabalhistas, inclusive as contraídas à época em que os empregados trabalhavam para a empresa sucedida, são de responsabilidade do sucessor, salvo ajuste em contrário.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art448-1_omi1"/><Paragrafo xlink:href="art448-1_par1" id="art1_cpt_alt1_art448-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A empresa sucedida responderá solidariamente com a sucessora quando ficar comprovada fraude na transferência.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art448-1_omi2"/><Paragrafo xlink:href="art448-1_par2" id="art1_cpt_alt1_art448-1_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A sucessão de empresários ocorre, também, na transferência provisória e abrange os direitos trabalhistas dos contratos vigentes e extintos antes da sucessão.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art510-3" id="art1_cpt_alt1_art510-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 510-C.</Rotulo>
+            
+            <Caput xlink:href="art510-3_cpt" id="art1_cpt_alt1_art510-3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art510-3_par1" id="art1_cpt_alt1_art510-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Será formada comissão eleitoral, integrada por cinco empregados, não candidatos, para a organização e o acompanhamento do processo eleitoral, vedada a interferência da empresa.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art510-3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art611-1" id="art1_cpt_alt1_art611-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 611-A.</Rotulo>
+            
+            <Caput xlink:href="art611-1_cpt" id="art1_cpt_alt1_art611-1_cpt">
+            
+            
+            
+            <p>A convenção e o acordo coletivo de trabalho têm prevalência sobre a lei quando dispuserem sobre:</p>
+            <Omissis id="art1_cpt_alt1_art611-1_cpt_omi1"/><Inciso xlink:href="art611-1_cpt_inc3" id="art1_cpt_alt1_art611-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>intervalo intrajornada, respeitado o limite mínimo de trinta minutos para jornadas superiores a seis horas, ressalvadas as atividades que, na forma do regulamento, demandem esforço físico contínuo e observadas as normas de medicina e segurança do trabalho;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art611-1_cpt_omi2"/><Inciso xlink:href="art611-1_cpt_inc9" id="art1_cpt_alt1_art611-1_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>remuneração por produtividade, incluídas as gorjetas percebidas pelo empregado, e remuneração por desempenho individual, observada a incorporação de 40% das referidas parcelas ao salário do trabalhador, para todos os fins;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art611-1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art611-2" id="art1_cpt_alt1_art611-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 611-B.</Rotulo>
+            
+            <Caput xlink:href="art611-2_cpt" id="art1_cpt_alt1_art611-2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Constituem objeto ilícito de convenção coletiva ou de acordo coletivo de trabalho a supressão ou a redução dos direitos previstos na <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, em normas de medicina e segurança do trabalho e em normas internacionais vigentes no país.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art611-2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art790" id="art1_cpt_alt1_art790" abreAspas="s">
+            
+            
+            <Rotulo>Art. 790.</Rotulo>
+            
+            <Caput xlink:href="art790_cpt" id="art1_cpt_alt1_art790_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art790_omi1"/><Paragrafo xlink:href="art790_par4" id="art1_cpt_alt1_art790_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O benefício da justiça gratuita será concedido à parte que comprovar insuficiência de recursos para o pagamento das custas do processo, podendo ser presumida para desempregados e pessoas naturais, desde que haja declaração expressa do seu estado de hipossuficiência econômica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art790-2" id="art1_cpt_alt1_art790-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 790-B.</Rotulo>
+            
+            <Caput xlink:href="art790-2_cpt" id="art1_cpt_alt1_art790-2_cpt">
+            
+            
+            
+            <p>A responsabilidade pelo pagamento dos honorários periciais é da parte sucumbente na pretensão objeto da perícia.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art790-2_omi1"/><Paragrafo xlink:href="art790-2_par1" id="art1_cpt_alt1_art790-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ao fixar o valor dos honorários periciais, o juízo deverá levar em consideração a complexidade da prova.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art790-2_omi2"/><Paragrafo xlink:href="art790-2_par3" id="art1_cpt_alt1_art790-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O juízo poderá exigir adiantamento de valores para realização de perícias.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art790-2_omi3"/><Paragrafo xlink:href="art790-2_par4" id="art1_cpt_alt1_art790-2_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Somente no caso em que o beneficiário da justiça gratuita não tenha obtido em juízo créditos capazes de suportar a despesa referida no caput, na mesma lide, a União responderá pelo encargo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452--><!--Link: urn:lex:br:federal:lei:2017-07-13;13467-->
+            
+            
+            <p>Ficam revogados os seguintes dispositivos da <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> – <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span> –, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, com a redação da pela <span xlink:href="urn:lex:br:federal:lei:2017-07-13;13467">Lei nº 13.467, de 13 de julho de 2017</span>:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>§ 4º do art. 71;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>inciso X do art. 223-G;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>§ 3º do art. 443;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>parágrafo único do art. 444;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>arts. 452-A e 394-A;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>incisos X, XII e XIII do art. 611-A.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

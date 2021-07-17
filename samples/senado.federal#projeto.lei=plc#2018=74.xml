@@ -1,0 +1,208 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;74"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 74 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a regulamentação da atividade profissional de psicomotricista e autoriza a criação dos Conselhos Federal e Regionais de Psicomotricidade.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei regulamenta a profissão de psicomotricista.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Poderão intitular-se psicomotricista e exercer sua atividade, sem prejuízo do uso do recurso pelos demais profissionais de saúde de profissões regulamentadas:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os profissionais registrados nos Conselhos Regionais de Psicomotricidade;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os portadores de diploma de curso superior de Psicomotricidade;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os portadores de diploma de curso de pós-graduação nas áreas de saúde ou de educação, desde que possuam, em quaisquer dos casos, especialização em Psicomotricidade, até 48 (quarenta e oito) meses após a promulgação desta Lei;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>aqueles que até a data do início da vigência desta Lei tenham comprovadamente exercido atividade de psicomotricidade;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os portadores de diploma em Psicomotricidade expedido por instituições de ensino superior estrangeiras, revalidado na forma da legislação em vigor.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Compete ao psicomotricista:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>atuar nas áreas de educação, reeducação e terapia psicomotora, utilizando recursos para a prevenção e o desenvolvimento;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ministrar disciplinas específicas dos cursos de graduação e pós-graduação em Psicomotricidade;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>atuar em treinamento institucional e em atividades de ensino e pesquisa;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>participar de planejamento, elaboração, programação, implementação, direção, coordenação, análise, organização, avaliação de atividades clínicas e parecer psicomotor em clínicas de reabilitação ou em serviços de assistência escolar;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>prestar auditoria, consultoria e assessoria no campo da psicomotricidade;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>gerenciar projetos de desenvolvimento de produtos e serviços relacionados à psicomotricidade;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>elaborar informes e pareceres técnico-científicos, estudos, trabalhos e pesquisas mercadológicas ou experimentais relativos à psicomotricidade.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Fica autorizada a criação do Conselho Federal de Psicomotricidade e dos Conselhos Regionais de Psicomotricidade, dotados de personalidade jurídica de direito privado.</p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os Conselhos a que se refere o caput deste artigo terão como objetivos precípuos orientar e fiscalizar, em caráter privado, o exercício das atividades de psicomotricidade, valendo-se, para isso, das normas regulamentadoras previstas no art. 5º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A organização, a estrutura e o funcionamento dos Conselhos Federal e Regionais de Psicomotricidade serão disciplinados em seus regimentos, mediante decisão do plenário do Conselho Federal, em cuja composição estejam representados todos os Conselhos Regionais de Psicomotricidade.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ficará a cargo da Sociedade Brasileira de Psicomotricidade a coordenação dos trabalhos de instalação dos Conselhos referidos no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O Conselho Federal e os Conselhos Regionais de Psicomotricidade, em suas áreas de competência, são autorizados, nos limites estabelecidos em lei, a fixar, a cobrar e a executar as contribuições anuais devidas por pessoas físicas ou jurídicas, bem como os preços de serviços, e a certidão de crédito constituirá título executivo extrajudicial.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O controle das atividades financeiras e administrativas dos Conselhos Federal e Regionais de Psicomotricidade será realizado pelos seus órgãos internos, e os Conselhos Regionais deverão prestar contas ao Conselho Federal, e este, aos Conselhos Regionais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Os profissionais da área de psicomotricidade terão 90 (noventa) dias, a contar da publicação desta Lei, para instalar os Conselhos Federal e Regionais de Psicomotricidade, elaborar e registrar seus estatutos e regimentos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;409@data.evento;leitura;2017-10-25t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 409 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1998-02-19;9610">Lei nº 9.610, de 19 de fevereiro de 1998</span>, para dispensar da arrecadação de direitos autorais a execução pública de composições musicais ou literomusicais, ou a utilização de fonogramas, nas condições que especifica.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-02-19;9610-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1998-02-19;9610">Lei nº 9.610, de 19 de fevereiro de 1998</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-02-19;9610" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-02-19;9610 -> MatchByBase(urn:lex:br:federal:lei:1998-02-19;9610,1998,Some((2,19)),Map(art46_cpt_inc6_ali1 -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46_cpt_inc6_ali1), art46_cpt_inc6_ali5 -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46_cpt_inc6_ali5), art46_cpt_inc6_ali4 -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46_cpt_inc6_ali4), art46_cpt_inc6_ali3 -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46_cpt_inc6_ali3), art46_cpt_inc6 -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46_cpt_inc6), art46_cpt -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46_cpt), art46_cpt_inc6_ali2 -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46_cpt_inc6_ali2), art46 -> PrefixMatch(URN(1998,Some((2,19)),,urn:lex:br:federal:lei:1998-02-19;9610),art46)))))-->
+              <Artigo xlink:href="art46" id="art1_cpt_alt1_art46" abreAspas="s">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput xlink:href="art46_cpt" id="art1_cpt_alt1_art46_cpt">
+            
+            
+            
+            <p>Não constitui ofensa aos direitos autorais a utilização de obras protegidas, dispensando-se, inclusive, a prévia e expressa autorização do titular e a necessidade de remuneração por parte de quem as utiliza:</p>
+            <Omissis id="art1_cpt_alt1_art46_cpt_omi1"/><Inciso xlink:href="art46_cpt_inc6" id="art1_cpt_alt1_art46_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a representação teatral e a execução pública de composições musicais ou literomusicais, ou a utilização de fonogramas, desde que não tenham intuito de lucro e que o público possa assistir de forma gratuita, realizadas nas seguintes hipóteses:</p>
+            <Alinea xlink:href="art46_cpt_inc6_ali1" id="art1_cpt_alt1_art46_cpt_inc6_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>no recesso familiar;</p>
+            
+          </Alinea><Alinea xlink:href="art46_cpt_inc6_ali2" id="art1_cpt_alt1_art46_cpt_inc6_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>nas associações comunitárias sem fins lucrativos, quando empregadas exclusivamente nas festividades voltadas ao congraçamento de seus associados;</p>
+            
+          </Alinea><Alinea xlink:href="art46_cpt_inc6_ali3" id="art1_cpt_alt1_art46_cpt_inc6_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>nos estabelecimentos de ensino, quando destinadas exclusivamente aos corpos discente e docente, pais de alunos e outras pessoas pertencentes à comunidade escolar;</p>
+            
+          </Alinea><Alinea xlink:href="art46_cpt_inc6_ali4" id="art1_cpt_alt1_art46_cpt_inc6_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>nos locais de cultos e templos religiosos, quando utilizadas no decorrer de atividades litúrgicas e de festas comunitárias;</p>
+            
+          </Alinea><Alinea xlink:href="art46_cpt_inc6_ali5" id="art1_cpt_alt1_art46_cpt_inc6_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>nos locais interditados ao público em geral, quando apresentadas em evento restrito a parentes e amigos.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art46_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

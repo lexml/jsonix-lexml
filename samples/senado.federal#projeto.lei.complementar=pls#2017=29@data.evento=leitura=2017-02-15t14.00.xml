@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;29@data.evento;leitura;2017-02-15t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 29 DE 2017</Epigrafe>
+      <Ementa id="ementa">Modifica o <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art6">art. 6º da Lei Complementar nº 105, de 10 de janeiro de 2001</span>, que dispõe sobre o sigilo das operações de instituições financeiras e dá outras providências, para permitir a membros do Ministério Público, autoridades e servidores do controle externo e interno da União, dos Estados, do Distrito Federal e dos Municípios o exame de documentos, livros e registros de instituições financeiras referentes a pessoas físicas e jurídicas que contratem com o Poder Público, recebam transferências voluntárias de recursos públicos, subsídios ou qualquer espécie de incentivo financeiro ou creditício envolvendo valores públicos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105">Lei Complementar nº 105, de 10 de janeiro de 2001</span>, passa a vigorar acrescida do seguinte art. 6º-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2001-01-10;105" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2001-01-10;105 -> MatchByBase(urn:lex:br:federal:lei.complementar:2001-01-10;105,2001,Some((1,10)),Map(art6-1 -> PrefixMatch(URN(2001,Some((1,10)),,urn:lex:br:federal:lei.complementar:2001-01-10;105),art6-1), art6-1_cpt -> PrefixMatch(URN(2001,Some((1,10)),,urn:lex:br:federal:lei.complementar:2001-01-10;105),art6-1_cpt), art6-1_par1 -> PrefixMatch(URN(2001,Some((1,10)),,urn:lex:br:federal:lei.complementar:2001-01-10;105),art6-1_par1)))))-->
+              <Artigo xlink:href="art6-1" id="art1_cpt_alt1_art6-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-A.</Rotulo>
+            
+            <Caput xlink:href="art6-1_cpt" id="art1_cpt_alt1_art6-1_cpt">
+            
+            
+            
+            <p>Membros do Ministério Público, autoridades e servidores do controle externo e do controle interno da União, dos Estados, do Distrito Federal e dos Municípios poderão examinar documentos, livros e registros de instituições financeiras referentes a pessoas físicas e jurídicas que tenham sido ou estejam contratadas pelo Poder Público, tenham recebido ou recebam transferências voluntárias de recursos públicos, subsídios ou qualquer espécie de incentivo financeiro ou creditício envolvendo valores públicos, desde que haja inquérito ou processo administrativo instaurado em curso e tais exames sejam considerados indispensáveis pela autoridade ministerial ou administrativa competente.</p>
+            
+          </Caput><Paragrafo xlink:href="art6-1_par1u" id="art1_cpt_alt1_art6-1_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O resultado dos exames, as informações e os documentos a que se refere este artigo serão conservados em sigilo, observada a legislação aplicável.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,40 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;13@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 13 DE 2017</Epigrafe>
+      <Ementa id="ementa">Suspende, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc10">art. 52, inciso X, da Constituição Federal</span>, a execução do do <span xlink:href="urn:lex:br:federal:lei:1992;8540!art1">artigo 1º da Lei nº 8.540/92</span>, que deu nova redação aos artigos 12, incisos V e VII, 25, incisos I e II, e 30, <span xlink:href="urn:lex:br:federal:lei:1991;8212!cpt_inc4">inciso IV, da Lei nº 8.212/91</span>, com a redação atualizada até a <span xlink:href="urn:lex:br:federal:lei:1997;9528">Lei nº 9.528/97</span>. O SENADO FEDERAL, nos termos do disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc10">art. 52, inciso X, da Constituição Federal</span> e considerando a declaração de inconstitucionalidade de dispositivo legal, conforme decisão definitiva proferida pelo Supremo Tribunal Federal nos autos do Recurso Extraordinário nº 363.852, RESOLVE:</Ementa>
+      <Preambulo id="preambulo"></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1992;8540!art1--><!--Link: urn:lex:br:federal:lei:1991;8212!cpt_inc4--><!--Link: urn:lex:br:federal:lei:1997;9528-->
+            
+            
+            <p>É suspensa a execução do <span xlink:href="urn:lex:br:federal:lei:1992;8540!art1">artigo 1º da Lei nº 8.540/92</span>, que deu nova redação aos artigos 12, incisos V e VII, 25, incisos I e II, e 30, <span xlink:href="urn:lex:br:federal:lei:1991;8212!cpt_inc4">inciso IV, da Lei nº 8.212/91</span>, com a redação atualizada até a <span xlink:href="urn:lex:br:federal:lei:1997;9528">Lei nº 9.528/97</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>º Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

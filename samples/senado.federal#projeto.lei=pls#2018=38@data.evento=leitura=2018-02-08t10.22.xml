@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;38@data.evento;leitura;2018-02-08t10.22"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 38 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343">Lei nº 11.343, de 23 de agosto de 2006</span>, para possibilitar ao magistrado aplicar a substituição da pena privativa de liberdade por uma restritiva de direitos, que, dadas a peculiaridades do caso, deverá consistir em internação compulsória para tratamento de dependentes químicos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-08-23;11343-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343">Lei nº 11.343, de 23 de agosto de 2006</span>, passa a vigorar acrescida do seguinte art. 22-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-08-23;11343" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-08-23;11343 -> MatchByBase(urn:lex:br:federal:lei:2006-08-23;11343,2006,Some((8,23)),Map(art22-1 -> PrefixMatch(URN(2006,Some((8,23)),,urn:lex:br:federal:lei:2006-08-23;11343),art22-1), art22-1_cpt_inc1 -> PrefixMatch(URN(2006,Some((8,23)),,urn:lex:br:federal:lei:2006-08-23;11343),art22-1_cpt_inc1), art22-1_par2 -> PrefixMatch(URN(2006,Some((8,23)),,urn:lex:br:federal:lei:2006-08-23;11343),art22-1_par2), art22-1_cpt -> PrefixMatch(URN(2006,Some((8,23)),,urn:lex:br:federal:lei:2006-08-23;11343),art22-1_cpt), art22-1_par1 -> PrefixMatch(URN(2006,Some((8,23)),,urn:lex:br:federal:lei:2006-08-23;11343),art22-1_par1), art22-1_cpt_inc2 -> PrefixMatch(URN(2006,Some((8,23)),,urn:lex:br:federal:lei:2006-08-23;11343),art22-1_cpt_inc2)))))-->
+              <Artigo xlink:href="art22-1" id="art1_cpt_alt1_art22-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 22-A.</Rotulo>
+            
+            <Caput xlink:href="art22-1_cpt" id="art1_cpt_alt1_art22-1_cpt">
+            
+            
+            
+            <p>Réus reincidentes comprovadamente dependentes químicos poderão ter a pena privativa de liberdade convertida em restritiva de direito, mediante reavaliação do juízo competente e com concordância do Ministério Público, desde que:</p>
+            <Inciso xlink:href="art22-1_cpt_inc1" id="art1_cpt_alt1_art22-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Estejam há mais de dois anos ininterruptos em processo de reabilitação e reinserção social com acompanhamento médico especializado; e</p>
+            
+          </Inciso><Inciso xlink:href="art22-1_cpt_inc2" id="art1_cpt_alt1_art22-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Não tenham, nesse período, praticado ato ofensivo à ordem e à paz social.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art22-1_par1" id="art1_cpt_alt1_art22-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A substituição da pena privativa de liberdade por restritiva de direitos é condicionada à internação em instituição dedicada à reinserção social, observado o disposto nos incisos I e II.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art22-1_par2" id="art1_cpt_alt1_art22-1_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto neste artigo aplica-se exclusivamente para os crimes contra o patrimônio com penas máximas de quatro anos praticados sem uso de violência ou grave ameaça.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

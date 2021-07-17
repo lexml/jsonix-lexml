@@ -1,0 +1,286 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;90@data.evento;leitura;2017-04-04t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 90 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a criação de Zona Franca no Estado do Espírito Santo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei cria a Zona Franca no Estado do Espírito Santo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Fica criada uma Zona Franca no Estado do Espírito Santo, área de livre comércio de importação e exportação e de incentivos fiscais especiais.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O regime fiscal especial instituído por esta Lei aplica-se, exclusivamente, à zona franca a que se refere o caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Poder Executivo fará demarcar área contínua onde será instalada a Zona Franca do Espirito Santo, incluindo locais próprios para entrepostamento de mercadorias a serem nacionalizadas ou reexportadas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>As mercadorias estrangeiras ou nacionais enviadas à Zona Franca do Espirito Santo serão, obrigatoriamente, destinadas às empresas autorizadas a operar nesse enclave.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A entrada de mercadorias na Zona Franca do Espirito Santo far-se-á com suspensão do Imposto de Importação e do Imposto sobre Produtos Industrializados, a qual será convertida em isenção quando as mercadorias forem destinadas a:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>consumo e vendas internas na zona franca;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>beneficiamento, em seu território, de pescado, pecuária, recursos minerais e matérias-primas de origem agrícola ou florestal;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>agropecuária e piscicultura;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estocagem para comercialização no mercado externo; e</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>industrialização de produtos em seu território.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A suspensão de impostos será também convertida em isenção nos casos de mercadorias que deixarem a Zona Franca do Espirito Santo como:</p>
+            <Inciso id="art5_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>bagagem acompanhada de viajantes, observados os limites fixados pelo Poder Executivo; e</p>
+            
+          </Inciso><Inciso id="art5_par1_inc2">
+            <!--Link: urn:lex:br:federal:decreto.lei:1980-09-03;1804--><!--Link: urn:lex:br:federal:lei:1991-12-30;8383--><!--Link: urn:lex:br:federal:lei:1995-03-16;9001-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>remessas postais para o restante do País, nas condições fixadas pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1980-09-03;1804">Decreto-Lei nº 1.804, de 03 de setembro de 1980</span>, com as modificações introduzidas pela <span xlink:href="urn:lex:br:federal:lei:1991-12-30;8383">Lei nº 8.383, de 30 de dezembro de 1991</span>, e pela <span xlink:href="urn:lex:br:federal:lei:1995-03-16;9001">Lei nº 9.001, de 16 de março de 1995</span>.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As mercadorias estrangeiras que saírem da Zona Franca do Espirito Santo para o restante do País estarão sujeitas a tributação no momento de sua internação, exceto nos casos previstos no § 1º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A industrialização a que se refere o inciso VI do caput estará sujeita ao cumprimento das mesmas normas e requisitos aplicáveis à Zona Franca de Manaus, inclusive no que se refere à autorização para o funcionamento das empresas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>As importações de mercadorias destinadas à Zona Franca do Espírito Santo estarão sujeitas aos procedimentos normais de importação, previamente ao desembaraço aduaneiro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A saída de mercadorias estrangeiras da Zona Franca do Espirito Santo para o restante do território nacional é considerada, para efeitos fiscais e administrativos, como importação normal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Os produtos nacionais ou nacionalizados que entrarem na Zona Franca do Espirito Santo estarão isentos do Imposto sobre Produtos Industrializados, sempre que destinados às finalidades mencionadas no caput do art. 5º.</p>
+            
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ficam asseguradas a manutenção e a utilização dos créditos do Imposto sobre Produtos Industrializados relativos às matérias-primas, produtos intermediários e material de embalagem empregados na industrialização dos produtos entrados na Zona Franca do Espirito Santo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Estão excluídos dos benefícios fiscais de que tratam os arts. 5º e 8º os produtos abaixo mencionados, compreendidos nos capítulos ou nas posições indicadas na Nomenclatura Comum do Mercosul – NCM:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>armas e munições: Capítulo 93;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>veículos de passageiros: posição 8703 do Capítulo 87, exceto ambulâncias, carros funerários, carros celulares e jipes;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>bebidas alcoólicas: posições 2203 a 2206 e 2208 do Capítulo 22, exceto o código 2208.90.00;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fumo e seus derivados: Capítulo 24.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Poder Executivo regulamentará a aplicação dos regimes aduaneiros especiais para as mercadorias estrangeiras destinadas à Zona Franca do Espirito Santo, bem como para as mercadorias dela procedentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Poder Executivo normatizará os procedimentos cambiais aplicáveis às operações da Zona Franca do Espirito Santo, visando a favorecer o seu comércio exterior.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>limite global para as importações através da Zona Franca do Espirito Santo será estabelecido anualmente pelo Poder Executivo, no ato em que o fizer para os demais enclaves de livre comércio já existentes.</p>
+            
+          </Caput><Paragrafo id="art12_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A critério do Poder Executivo, poderão ser excluídas do limite global as importações de produtos pela Zona Franca do Espirito Santo destinados exclusivamente à reexportação, observados todos os procedimentos legais aplicáveis às exportações brasileiras.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>As isenções e benefícios instituídos por esta Lei serão mantidos pelo prazo de 25 (vinte e cinco) anos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

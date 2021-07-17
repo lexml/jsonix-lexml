@@ -1,0 +1,127 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;67"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 67 DE 2017</Epigrafe>
+      <Ementa id="ementa">Determina a obrigatoriedade do uso de detectores de metal e de gravação contínua de imagens em eventos de qualquer natureza realizados em ginásios e estádios esportivos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei tem por objetivo determinar o uso de detectores de metal e de gravação contínua de imagens em eventos de qualquer natureza realizados em ginásios e estádios esportivos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-05-15;10671!art18-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2003-05-15;10671!art18">art. 18 da Lei nº 10.671, de 15 de maio de 2003</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2003-05-15;10671" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2003-05-15;10671 -> MatchByBase(urn:lex:br:federal:lei:2003-05-15;10671,2003,Some((5,15)),Map(art18_par1 -> PrefixMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18),art18_par1), art18 -> ExactMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18)), art18_cpt -> PrefixMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18),art18_cpt), art18_par1_inc3 -> PrefixMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18),art18_par1_inc3), art18_cpt_inc2 -> PrefixMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18),art18_cpt_inc2), art18_par1_inc2 -> PrefixMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18),art18_par1_inc2), art18_cpt_inc1 -> PrefixMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18),art18_cpt_inc1), art18_par1_inc1 -> PrefixMatch(URN(2003,Some((5,15)),art18,urn:lex:br:federal:lei:2003-05-15;10671!art18),art18_par1_inc1)))))-->
+              <Artigo xlink:href="art18" id="art2_cpt_alt1_art18" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput xlink:href="art18_cpt" id="art2_cpt_alt1_art18_cpt">
+            
+            
+            
+            <p>Os estádios com capacidade superior a dez mil pessoas e os ginásios com capacidade superior a cinco mil pessoas deverão manter central técnica de informações, com infraestrutura suficiente para viabilizar o monitoramento por imagem do público presente, e sistema de vigilância composto de, no mínimo:</p>
+            <Inciso xlink:href="art18_cpt_inc1" id="art2_cpt_alt1_art18_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>equipamentos que permitam a gravação contínua de imagens;</p>
+            
+          </Inciso><Inciso xlink:href="art18_cpt_inc2" id="art2_cpt_alt1_art18_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>equipamentos detectores de metal.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art18_par1u" id="art2_cpt_alt1_art18_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Deverão ser submetidas à gravação contínua de imagens, desde o momento em que for liberado o acesso ao estádio ou ginásio até a completa saída do público desses locais, as:</p>
+            <Inciso xlink:href="art18_par1u_inc1" id="art2_cpt_alt1_art18_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>rotas e áreas utilizadas para o acesso e saída do público;</p>
+            
+          </Inciso><Inciso xlink:href="art18_par1u_inc2" id="art2_cpt_alt1_art18_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>áreas utilizadas pelos usuários para a audiência do evento;</p>
+            
+          </Inciso><Inciso xlink:href="art18_par1u_inc3" id="art2_cpt_alt1_art18_par1u_inc3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dependências onde estejam instalados serviços oferecidos para os usuários do estádio ou ginásio.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-05-15;10671!art18-->
+            
+            
+            <p>O disposto no <span xlink:href="urn:lex:br:federal:lei:2003-05-15;10671!art18">art. 18 da Lei nº 10.671, de 15 de maio de 2003</span>, também se aplica, nas mesmas condições, a eventos de qualquer natureza realizados em estádios e ginásios com capacidade superior a dez mil e cinco mil pessoas, respectivamente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>No prazo de um ano, a contar da data de publicação desta Lei, todos os estádios e ginásios esportivos em funcionamento no País deverão estar adaptados às disposições desta Lei, sob pena de interdição.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

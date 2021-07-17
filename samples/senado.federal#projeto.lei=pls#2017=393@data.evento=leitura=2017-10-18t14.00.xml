@@ -1,0 +1,304 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;393@data.evento;leitura;2017-10-18t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 393 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui o Programa Nacional de Incentivo à Educação Superior (PRONIES).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica criado o Programa Nacional de Incentivo à Educação Superior (PRONIES) com a finalidade de captar e direcionar recursos privados, mediante a participação de pessoas físicas e jurídicas, para a adoção de políticas de ampliação dos investimentos e da melhoria da qualidade das redes de ensino superior do País.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São objetivos do Pronies:</p>
+            <Inciso id="art2_cpt_inc1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art205-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>garantir, com base no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art205">art. 205 da Constituição Federal</span>, alternativa para a colaboração da sociedade na manutenção e desenvolvimento da educação superior em todo o território nacional;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>incentivar e desenvolver pesquisas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estimular e promover projetos para construção, reforma ou ampliação de universidades;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>incentivar o investimento em educação superior;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estimular a implantação de projetos que possibilitem oferecer igualdade de condições para o acesso e permanência na universidade;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>financiar programas de formação continuada, com atualização e aperfeiçoamento dos profissionais da educação superior;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>aprimorar o ensino, na busca de padrão de qualidade e excelência;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>incentivar doações de caráter permanente ou periódico para formação de patrimônio das entidades de ensino superior públicas ou privadas sem fins lucrativos;</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Pronies utilizará o mecanismo de incentivos fiscais relativos a doações e patrocínios a instituições de educação superior, a saber:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>desenvolvimento de pesquisas;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>formação de patrimônio, que reverta diretamente à oferta e desenvolvimento da qualidade da educação superior;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>projetos de construção, ampliação e reforma das instituições de ensino contempladas pelo programa;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>aquisição de equipamentos;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>projetos de aperfeiçoamento e atualização dos profissionais da educação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os incentivos criados por esta Lei somente serão concedidos às instituições educacionais superiores que não apresentem restrições a matrículas de pessoas com direitos à educação superior.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394-->
+            
+            
+            <p>Atendendo aos critérios estabelecidos nesta Lei, as pessoas físicas ou jurídicas poderão aplicar parcelas do Imposto de Renda por elas devido, a título de doação ou patrocínio direto a projetos educacionais ou de pesquisas de instituições reconhecidas pelo órgão competente do sistema de ensino em que se enquadram, conforme o disposto na <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Lei nº 9.394, de 20 de dezembro de 1996</span>, que ofereçam de forma gratuita a educação superior em todas as suas modalidades.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>As pessoas físicas poderão deduzir até cem por cento dos valores despendidos em doações e patrocínios a projetos educacionais e de pesquisas, nos termos do art. 4º, observado o limite de até seis por cento do Imposto de Renda devido, apurado na declaração de ajuste anual feita no modelo completo.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O limite mencionado no caput não exclui o percentual máximo de aproveitamento dos incentivos fiscais, em cada ano, destinados ao Fundo dos Direitos da Criança e do Adolescente e os incentivos federais à cultura, assegurados na legislação.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para fins do disposto no caput, os desembolsos efetuados devem ser informados na declaração de rendimentos, no quadro de “pagamentos efetuados”, com a indicação da entidade beneficiada e seu número de registro no Cadastro Nacional de Pessoas Jurídicas (CNPJ), bem como o valor da doação ou patrocínio no respectivo exercício fiscal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>As pessoas jurídicas tributadas com base no lucro real poderão deduzir até cem por cento dos valores despendidos com a doação ou patrocínio a projetos educacionais, nos termos do art. 4º, observado o limite de até um por cento do Imposto de Renda devido.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O incentivo previsto no caput não concorre com os demais incentivos previstos na legislação federal, que terão seus limites mantidos de modo independente.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As pessoas jurídicas não poderão deduzir os valores de que trata o caput deste artigo para fins de determinação do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido das Empresas (CSLL).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>As pessoas jurídicas tributadas com base no lucro presumido poderão deduzir até cinquenta por cento dos valores despendidos com doações e patrocínios a projetos educacionais, nos termos do art. 4º e observado o disposto nos §§ 1º e 2º do art. 6º desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Só serão passíveis de dedução do Imposto de Renda da pessoa física ou jurídica os investimentos em doações e patrocínios a projetos educacionais desembolsados no mesmo exercício fiscal a que se refere o imposto.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No caso de os investimentos ultrapassarem mais de um exercício, a dedução fica limitada aos valores efetivamente despendidos em cada exercício, observados os limites dispostos nos arts. 5º, 6º e 7º.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não são dedutíveis os valores destinados a doação ou patrocínio a instituições privadas sem fins lucrativos em cuja direção participe pessoa física vinculada ao doador ou patrocinador, assim considerados o cônjuge e parentes até terceiro grau.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Os recursos provenientes de doações e patrocínios de projetos educacionais deverão ser dirigidos ao caixa único da instituição, com destinação garantida às unidades a serem beneficiadas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O doador ou patrocinador, quando pessoa jurídica, deverá informar em sua declaração de ajuste do Imposto de Renda os itens dispostos no § 2º do art. 6º.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Todas as instituições beneficiadas com doação ou patrocínio previstos nesta Lei estarão sujeitas a fiscalização dos órgãos públicos competentes, quanto à movimentação financeira e ao alcance dos objetivos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Os recursos doados que forem destinados para setores ou projetos específicos não poderão ser remanejados para outras áreas, nem para outros tipos de finalidade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor em 1º de janeiro do ano subsequente ao de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>O Governo Federal terá 180 dias para regulamentar a presente Lei, após a sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

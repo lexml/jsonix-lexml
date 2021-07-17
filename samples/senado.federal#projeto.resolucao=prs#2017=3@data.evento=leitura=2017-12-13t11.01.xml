@@ -1,0 +1,418 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;3@data.evento;leitura;2017-12-13t11.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 3 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a Jornada Nacional de Controle Externo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DA JORNADA NACIONAL DE CONTROLE EXTERNO</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituída a Jornada Nacional de Controle Externo, cuja realização ocorrerá, preferencialmente, a cada biênio.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A Jornada tem por objetivo promover o debate e a uniformização de entendimentos e de jurisprudência sobre matérias e assuntos relacionados ao controle externo da Administração Pública.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A uniformização a que se refere o caput será promovida por meio da publicação de enunciados, aprovados na forma desta Resolução e do Ato a que se refere o art. 3º.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os enunciados aprovados nas Jornadas Nacionais de Controle Externo não têm caráter vinculante e possuem força persuasiva de caráter técnico-jurídico, não se confundindo com a posição do Congresso Nacional ou de suas Casas ou respectivas comissões, bem como de seus membros quando no exercício da função pública, sobre o mérito de eventuais matérias, proposições ou conflitos administrativos a eles submetidos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Ato do Presidente do Congresso Nacional regulará a realização das edições da Jornada Nacional de Controle Externo, cujas normas constarão de edital específico, publicado nos sítios eletrônicos da Câmara dos Deputados, do Senado Federal e do Tribunal de Contas da União.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Ato a que se refere o caput disporá, entre outros, sobre:</p>
+            <Inciso id="art3_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>composição, organização, e competências da comissão científica e das comissões de trabalho responsáveis pela apreciação e aprovação das propostas enunciados;</p>
+            
+          </Inciso><Inciso id="art3_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>competências do Coordenador-Geral da Jornada e dos membros integrantes das comissões referidas no inciso I;</p>
+            
+          </Inciso><Inciso id="art3_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apresentação, seleção prévia, apreciação e votação das propostas de enunciados no âmbito das comissões de trabalho e da sessão plenária;</p>
+            
+          </Inciso><Inciso id="art3_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>publicação e divulgação dos enunciados aprovados.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DOS MEMBROS</NomeAgrupador>
+            <Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Poderão ser membros da Jornada Nacional de Controle Externo:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o presidente da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização do Congresso Nacional, na condição de Coordenador-Geral da Jornada;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o presidente do Tribunal de Contas da União, na condição de 1º Vice-Presidente;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os presidentes da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor do Senado Federal e da Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>deputados e senadores indicados pelas respectivas Casas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>consultores legislativos indicados pela Consultoria de Orçamento e Fiscalização Financeira da Câmara dos Deputados e pela Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>professores e doutrinadores nacionais e estrangeiros, especialistas nas matérias inerentes à Jornada, por convite das autoridades listadas no inciso I a III;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>membros dos Tribunais de Contas da União, dos Estados e dos Municípios, bem como dos Tribunais de Contas municipais, por indicação dos respectivos órgãos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>membros do Ministério Público, ou órgão equivalente, junto aos Tribunais referidos no inciso VII, por indicação dos respectivos órgãos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>representantes indicados pela Ordem dos Advogados do Brasil;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>mediante inscrição, no limite de vagas, os autores de proposições tempestivamente apresentadas e aceitas para discussão.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As autoridades mencionadas nos incisos I, II, III e VII deste artigo poderão ser representadas por terceiros, mediante indicação do respectivo titular.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Ato a que se refere o art. 3º desta Resolução poderá limitar o número de representantes a serem indicados pelos órgãos listados no incisos IV a IX deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Todos os membros terão direito a voz e a voto nas sessões das comissões de trabalho nas quais estiverem inscritos e na votação final na sessão plenária.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DA COMISSÃO CIENTÍFICA</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Caberá a uma comissão científica apoiar o Coordenador-Geral na realização da Jornada Nacional de Controle Externo.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A Comissão será designada pelo Coordenador-Geral, que indicará seu Presidente.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O número de membros da comissão científica será definido no Ato a que se refere o art. 3º, devendo, ao menos, haver um membro da comissão científica em cada uma das comissões de trabalho.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DAS COMISSÕES DE TRABALHO</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>As comissões de trabalho abrangerão uma ou mais matérias relacionadas ao controle externo da Administração Pública, especialmente:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>legislação e atos de pessoal;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>licitações e contratos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>convênios e instrumentos congêneres;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>concessões e parcerias público-privadas;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>obras;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>empresas estatais e desestatização;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>gestão, transparência e controle social;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>planejamento, elaboração e execução orçamentária e financeira e responsabilidade fiscal;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>processo e procedimento.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A comissão científica poderá ampliar ou reduzir o número de temas elencados no caput, bem como agrupá-los, cindi-los ou reagrupá-los, adaptando o número e a composição das comissões de trabalho.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>As comissões de trabalho serão integradas pelos membros indicados no art. 4º, segundo distribuição definida pela comissão científica.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DAS DISPOSIÇÕES FINAIS</NomeAgrupador>
+            <Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>A Jornada Nacional de Controle Externo, em sua sessão de abertura, será presidida pelo Presidente do Congresso Nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Os enunciados aprovados na Jornada Nacional de Controle Externo serão publicados eletronicamente, acompanhados das respectivas referências legislativas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O evento poderá incluir em sua programação palestras e painéis com parlamentares, Consultores Legislativos da Câmara dos Deputados e do Senado Federal, juristas e doutrinadores especialmente convidados para esse fim, que se manifestarão sobre temas de Direito Público ou de Direito Privado conexos com o controle externo da Administração Pública.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>As sessões das comissões de trabalho e a sessão plenária serão públicas, vedada a intervenção de quem não seja membro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Os membros da comissão científica e das comissões de trabalho não serão remunerados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Para a realização das Jornadas Nacionais de Controle Externo, poderão ser estabelecidas parcerias com entidades públicas ou privadas, vedada sua remuneração a qualquer título.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>O Ato a que se refere o art. 3º poderá estabelecer normas e critérios complementares a esta Resolução, desde que com ela não conflitem.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

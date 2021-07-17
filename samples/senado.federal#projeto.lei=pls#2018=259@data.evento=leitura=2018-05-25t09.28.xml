@@ -1,0 +1,1594 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;259@data.evento;leitura;2018-05-25t09.28"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 259 DE 2018</Epigrafe>
+      <Ementa id="ementa">Institui a Engenharia, Arquitetura e Urbanismo-Geral da União e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Titulo id="tit1">
+            
+            
+            <Rotulo>TÍTULO I</Rotulo>
+            <NomeAgrupador>DAS FUNÇÕES INSTITUCIONAIS E DA COMPOSIÇÃO.</NomeAgrupador>
+            <Capitulo id="tit1_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>Das Funções Institucionais.</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A Engenharia, Arquitetura e Urbanismo-Geral da União é a instituição que congrega, no âmbito da Administração Pública Federal, os profissionais de Engenharia, Arquitetura e Urbanismo, organizados em carreiras de Estado.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A Engenharia, Arquitetura e Urbanismo-Geral da União é a instituição que representa a União em assuntos de interesses públicos voltados à Engenharia, Arquitetura e Urbanismo.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            <!--Link: urn:lex:br:federal:lei:2010;12378-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Engenharia, Arquitetura e Urbanismo- Geral da União cabem as atividades de planejamento, execução, consultoria, assessoramento, sindicância, perícia e laudos em projetos e obras do poder Executivo nas áreas públicas da Engenharia, Arquitetura e Urbanismo, Agronomia e Geologia, em Ciências Tecnológicas e Inovações Tecnológicas, Informática, Ciência da Informação, Tecnologia da Informação e afins, ficando a cargo dos Conselhos de Classe a fiscalização do exercício profissional, de acordo com a <span xlink:href="urn:lex:br:federal:lei:2010;12378">Lei nº 12.378, de 2010</span>-CAU-BR, da Lei nº 5.194, de 24 de dez 1666-CONFEA e nos termos desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A Engenharia, Arquitetura e Urbanismo-Geral da União tem o seu quadro profissional composto pelos atuais servidores públicos federais, ocupantes de cargos e funções de Engenharia, Arquitetura e Urbanismo, até completar a sua totalidade.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na impossibilidade de todos os cargos da Engenharia, Arquitetura e Urbanismo-Geral da União não serem preenchidos pelos atuais servidores público federais, eles serão completados mediante concurso público, conforme previsto no art. 22 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Da Composição.</NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A Engenharia, Arquitetura e Urbanismo- Geral da União compreende:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Órgãos de direção superior:</p>
+            <Alinea id="art2_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o Engenheiro ou Arquiteto e Urbanista-Geral da União; Cargo de natureza especial;</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a Consultoria-Geral da Engenharia, Arquitetura e Urbanismo da União; Cargo com atribuição de DAS;</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>o Conselho Superior da Engenharia, Arquitetura e Urbanismo -Geral da União; e</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>a Corregedoria-Geral da Engenharia, Arquitetura e Urbanismo da União; Cargos com atribuições de DAS;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>órgãos de execução: a Consultoria da Engenharia, Arquitetura e Urbanismo-Geral da União, as Consultorias da Engenharia, Arquitetura e Urbanismo-Geral dos Ministérios;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>órgão de assistência direta e imediata ao Engenheiro ou Arquiteto e Urbanista-Geral da União: o Gabinete do Engenheiro ou Arquiteto e Urbanista-Geral da União;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            <!--Link: urn:lex:br:federal:lei.complementar:1993-02-10;73!art45_par1-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>órgão de assessoramento jurídico: a Consultoria Jurídica, com as competências estipuladas pelo art.11, observado o dispositivo no <span xlink:href="urn:lex:br:federal:lei.complementar:1993-02-10;73!art45_par1">art.45, § 1º, ambos da Lei Complementar nº 73, de 10 de fevereiro de 1993</span>.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Subordinam-se diretamente ao Engenheiro ou Arquiteto e Urbanista-Geral da União, além do seu gabinete, a Consultoria-Geral da Engenharia, Arquitetura e Urbanismo da União e a Corregedoria-Geral da Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os Departamentos de Engenharia das autarquias e fundações públicas são órgãos vinculados à Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit2">
+            
+            
+            <Rotulo>TÍTULO II</Rotulo>
+            <NomeAgrupador>DOS ÓRGÃOS DA ENGENHARIA, ARQUITETURA E URBANISMO-GERAL DA UNIÃO.</NomeAgrupador>
+            <Capitulo id="tit2_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>Do Engenheiro ou Arquiteto e Urbanista-Geral da União.</NomeAgrupador>
+            <Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A Engenharia, Arquitetura e Urbanismo-Geral da União tem por chefe o Engenheiro ou Arquiteto e Urbanista-Geral da União, de livre nomeação pelo Presidente da República, dentre cidadãos maiores de trinta e cinco anos, de notável saber técnico da área de Engenharia, Arquitetura e Urbanismo de reputação ilibada.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A Engenharia, Arquitetura e Urbanismo-Geral da União é o órgão de assessoramento técnico do Poder Executivo, submetido à direta, pessoal e imediata supervisão do Presidente da República.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Engenheiro ou Arquiteto e Urbanista-Geral da União terá substituto eventual nomeado pelo Presidente da República, atendidas as condições deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São atribuições do Engenheiro ou Arquiteto e Urbanista-Geral da União:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dirigir a Engenharia, Arquitetura e Urbanismo-Geral da União, superintender e coordenar suas atividades e orientar-lhe a atuação;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>despachar com o Presidente da República;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>assessorar o Presidente da República em assuntos de natureza técnica, elaborando pareceres e estudos ou propondo normas, medidas e diretrizes;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>sugerir ao Presidente da República medidas de caráter técnico reclamadas pelo interesse público;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            <!--Link: urn:lex:br:federal:lei:2010;12378-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>– subsidiar o Presidente da República quanto às atividades de planejamento, execução, sindicância e perícia em projetos e obras do poder Executivo nas áreas públicas da Engenharia, Arquitetura e Urbanismo, Agronomia e Geologia, em Ciências, Tecnologias e Inovações Tecnológicas, Informática, Ciência da Informação, Tecnologia da Informação e afins, ficando a cargo dos Conselhos de Classe a fiscalização do exercício profissional, de acordo com a <span xlink:href="urn:lex:br:federal:lei:2010;12378">Lei nº 12.378, de 2010</span>-CAU-BR, da Lei nº 5.194, de 24 de dez 1666-CONFEA e nos termos desta Lei.</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>assessorar o Presidente da República em assuntos de Engenharia, Arquitetura e Urbanismo, elaborando pareceres e estudos ou propondo normas, medidas e diretrizes;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>sugerir ao Presidente da República medidas voltadas às áreas de infraestrutura reclamadas pelo interesse público;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>editar o Regimento Interno da Engenharia, Arquitetura e Urbanismo-Geral da União;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>proferir decisão nas sindicâncias e nos processos administrativos disciplinares promovidos pela Corregedoria-Geral da Engenharia, Arquitetura e Urbanismo e aplicar penalidades acima descritas, salvo a de demissão, sem prejuízo do processamento e julgamento nos respectivos conselhos de fiscalização do exercício profissional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>homologar os concursos públicos de ingresso nas Carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>promover a lotação e a distribuição dos Membros e servidores, no âmbito da Engenharia, Arquitetura e Urbanismo-Geral da União;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>propor, ao Presidente da República, as alterações a esta lei;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>propor e assessorar o Presidente da República em acordos e cooperação técnicos-científicos internacionais nas áreas de sua competência.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Da Corregedoria-Geral da Engenharia, Arquitetura e Urbanismo da União.</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A Corregedoria-Geral da Engenharia, Arquitetura e Urbanismo da União tem como atribuições:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>fiscalizar as atividades funcionais dos Membros da Engenharia, Arquitetura e Urbanismo-Geral da União;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>promover correição nos órgãos da Engenharia, Arquitetura e Urbanismo-Geral da União, visando à verificação da regularidade e eficácia dos serviços, e à proposição de medidas, bem como à sugestão de providências necessárias ao seu aprimoramento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>coordenar o estágio confirmatório dos integrantes das Carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>emitir parecer sobre o desempenho dos integrantes das Carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União submetidos ao estágio confirmatório, opinando, fundamentadamente, por sua confirmação no cargo ou exoneração;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>instaurar, de ofício ou por determinação superior, sindicâncias e processos administrativos contra os Membros da Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Compete, ainda, à Corregedoria-Geral da Engenharia, Arquitetura e Urbanismo-Geral da União supervisionar e promover correições nos órgãos vinculados à Engenharia, à Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>Do Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União.</NomeAgrupador>
+            <Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União tem as seguintes atribuições:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>propor, organizar e dirigir os concursos de ingresso nas Carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>organizar as listas de promoção e de remoção;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>julgar reclamações e recursos contra a inclusão, exclusão e classificação nas listas de que trata o inciso II, e encaminhá-las ao Engenheiro ou Arquiteto e Urbanista-Geral da União;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>decidir, com base no parecer previsto no art. 5º, inciso V desta Lei, sobre a confirmação no cargo ou exoneração dos Membros das Carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União submetidos ao estágio confirmatório;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>editar o respectivo Regimento Interno.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os critérios disciplinadores dos concursos a que se refere o inciso I deste artigo serão integralmente fixados pelo Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Integram o Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Engenheiro ou Arquiteto e Urbanista-Geral da União, que o preside;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o Consultor-Geral da Engenharia, Arquitetura e Urbanismo da União e o Corregedor-Geral da Engenharia, Arquitetura e Urbanismo da União;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>um representante, eleito, de cada carreira da Engenharia, Arquitetura e Urbanismo-Geral da União, e respectivo suplente.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Todos os membros do Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União têm direito a voto, cabendo ao presidente o de desempate.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O mandato dos membros eleitos do Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União é de dois anos, vedada a recondução.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os membros do Conselho são substituídos, em suas faltas e impedimentos, na forma estabelecida no respectivo Regimento Interno.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>Da Consultoria-Geral da Engenharia, Arquitetura e Urbanismo da União.</NomeAgrupador>
+            <Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>À Consultoria-Geral da Engenharia, Arquitetura e Urbanismo da União, direta e imediatamente subordinada ao Engenheiro ou Arquiteto e Urbanista-Geral da União, incumbe, principalmente, colaborar com este em seu assessoramento técnico ao Presidente da República produzindo pareceres, informações e demais trabalhos técnicos que lhes sejam atribuídos pelo chefe da instituição.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>Do Gabinete do Engenheiro ou Arquiteto e Urbanista-Geral da União.</NomeAgrupador>
+            <Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O Gabinete do Engenheiro ou Arquiteto e Urbanista-Geral da União tem sua competência e estrutura fixadas no Regimento Interno da Engenharia, Arquitetura e Urbanismo da Administração Pública Federal.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>Da Assessoria Internacional da EAGU.</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p> Assessorar o Engenheiro ou Arquiteto e Urbanista-Geral da União e seu Gabinete no acompanhamento de ações de cooperação técnica-científica internacional na área de sua competência, assim como, outros ministérios setoriais supervisores, nas suas relações com organismos internacionais, com entidades e com governos estrangeiros, visando à coordenação e o estabelecimento das posições de interesse da EAGU e a sua harmonização com a política externa vigente;</p>
+            <Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>acompanhar e analisar as propostas, evolução e implementação dos acordos e deliberações de âmbito internacional, relativos aos temas de interesse da EAGU;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p> acompanhar e assessorar a representação brasileira em acordos com organismos internacionais, nas matérias de interesse da EAGU;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p> implementar, em coordenação com as unidades organizacionais, os compromissos da EAGU que sejam derivados das diretrizes da política externa brasileira;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p> responder pelo relacionamento com o Ministério das Relações Exteriores, no encaminhamento de proposições de interesse da EAGU em nível internacional;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p> instruir os processos de afastamento em missão técnico-científica internacional, de representação, de estudos e de capacitação profissional, interagindo com a área econômica da EAGU;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p> organizar e coordenar os eventos, as solenidades e as ações de cerimonial da EAGU, interagindo, no que couber, com as unidades organizacionais da EAGU.</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p> manter atualizado o conteúdo dos sítios eletrônicos da EAGU, inclusive redes sociais e a rede interna (intranet), relacionado à sua esfera de atuação, interagindo com o Gabinete do Engenheiro ou Arquiteto e Urbanista-Geral da União, a Secretaria de Tecnologia da Informação e, quando couber, com a Assessoria de Comunicação;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p> elaborar relatórios trimestrais e anuais de gestão, relativos à sua esfera de atuação; e</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p> instruir respostas a consultas inerentes à sua esfera de atuação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>Dos Órgãos Vinculados.</NomeAgrupador>
+            <Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Aos órgãos técnicos das autarquias e das fundações públicas competem as respectivas atividades de consultoria e assessoramento técnico.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>No desempenho das atividades de consultoria e assessoramento aos órgãos técnicos das autarquias e das fundações públicas aplica-se, no que couber, o disposto no art. 9º desta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit3">
+            
+            
+            <Rotulo>TÍTULO III</Rotulo>
+            <NomeAgrupador>Do Exercício Profissional da Engenharia e da Arquitetura e Urbanismo na Administração Pública Federal.</NomeAgrupador>
+            <Capitulo id="tit3_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>Das Atividades Profissionais.</NomeAgrupador>
+            <Secao id="tit3_cap1_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Caracterização e Exercício das Profissões.</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>As profissões de Engenheiro, Arquiteto e Urbanista, são caracterizadas pelos seguintes empreendimentos, no âmbito da administração pública federal:</p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>elaboração de projetos, reformas, execução, fiscalização, gerenciamento, assessoramento e consultoria; concorrência pública de obras e seleção de proposta mais vantajosa para a Administração Pública; planejamentos urbanísticos e execução das obras; locação, comodato, compra e venda de imóveis de relevância para a União no Brasil e no exterior. Todos os itens acima, sem exceção, têm aplicação em todo o território nacional e no exterior;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aproveitamento e utilização de recursos naturais;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>meios de locomoção e comunicações;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>edificações, serviços e equipamentos urbanos, rurais e regionais, nos seus aspectos técnicos e artísticos;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>instalações e meios de acesso a costas, cursos e massas de água e extensões terrestres;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>desenvolvimento industrial e agropecuário.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O disposto no inciso I tem aplicação em todo o território nacional e no exterior.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>O exercício das profissões previstas no art. 13 desta Lei deve observar, pelo menos, os seguintes requisitos:</p>
+            <Inciso id="art15_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aprovação em concurso público de provas ou de provas e títulos;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estar em gozo dos direitos políticos.</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estar quite com as obrigações militares, em caso de trabalhador do sexo masculino.</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estar quite com as obrigações eleitorais.</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>ter aptidão física e mental para o exercício das atribuições de engenheiro, arquiteto e urbanista.</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>ser titular:</p>
+            <Alinea id="art15_cpt_inc6_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>de diploma, devidamente registrado, de faculdade ou escola superior de engenharia, arquitetura e urbanismo, agronomia e geologia oficiais ou reconhecidas, existentes no País; ou</p>
+            
+          </Alinea><Alinea id="art15_cpt_inc6_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>de diploma, devidamente revalidado e registrado no País, de faculdade ou escola estrangeira de ensino superior de engenharia, arquitetura e urbanismo, agronomia e geologia, bem como os que tenham esse exercício amparado por convênios internacionais de intercâmbio.</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art15_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>estar registrado e em dia perante o respectivo conselho de fiscalização do exercício profissional;</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit3_cap1_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Do uso do Título Profissional.</NomeAgrupador>
+            <Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>São reservadas exclusivamente aos profissionais referidos nesta Lei as denominações de Engenheiro, Arquiteto e Urbanista da administração pública federal, acrescidas, obrigatoriamente, das características de sua formação básica.</p>
+            
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As qualificações de que trata este artigo poderão ser acompanhadas:</p>
+            <Inciso id="art16_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>de designações outros referentes a cursos de especialização; ou</p>
+            
+          </Inciso><Inciso id="art16_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de designações outros referentes ao cargo ocupado pelo servidor nos quadros da administração pública federal.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit3_cap1_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Atribuições profissionais e coordenação de suas atividades.</NomeAgrupador>
+            <Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>As atividades e atribuições profissionais do Engenheiro, e do Arquiteto e Urbanista da administração pública federal consistem em:</p>
+            <Inciso id="art17_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>desempenho de cargos ou empregos públicos que exijam conhecimentos de engenharia, arquitetura e urbanismo, nas entidades e órgãos públicos da administração pública federal direta e indireta;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pesquisas, experimentação e ensaios ligados aos cargos ou empregos públicos previstos no inciso I deste artigo;</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>São nulos de pleno direito o desempenho das atividades e atribuições previstas no art. 16 desta Lei por profissionais que não preencham os requisitos dos arts. 14 e 21 desta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="tit3_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Da responsabilidade e autoria.</NomeAgrupador>
+            <Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>Os direitos de autoria de projeto, plano ou planejamento de engenharia, arquitetura e urbanismo, agronomia e geologia elaborado pelos Engenheiros, Arquitetos e Urbanistas da administração pública federal pertencem à entidade à qual o profissional estiver vinculado, observando as Normas e Resoluções pertinentes do CAU-BR ou CONFEA.</p>
+            
+          </Caput><Paragrafo id="art19_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Cabem ao profissional que os tenha elaborado os prêmios ou distinções honoríficas concedidas a projetos, planos, obras ou serviços técnicos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            <!--Link: urn:lex:br:federal:lei:1973-12-14;5988--><!--Link: urn:lex:br:federal:lei:1998-02-19;9610--><!--Link: urn:lex:br:federal:lei:2013-08-14;12853-->
+            
+            
+            <p>As alterações do projeto ou plano original só poderão ser feitas pelo profissional que o tenha elaborado ou por seus coautores, conforme dispõe o art. 25, item V, da <span xlink:href="urn:lex:br:federal:lei:1973-12-14;5988">Lei nº 5.988, de 14 de dezembro de 1973</span>, reproduzida em 18 de dezembro de 1973; atualizada pela <span xlink:href="urn:lex:br:federal:lei:1998-02-19;9610">Lei nº 9.610, de 19 de fevereiro de 1998</span>, e pela <span xlink:href="urn:lex:br:federal:lei:2013-08-14;12853">Lei nº 12.853, de 14 de agosto de 2013</span>, e observando as Normas e Resolução pertinentes do CAU-BR e CONFEA.</p>
+            
+          </Caput><Paragrafo id="art20_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A alteração do projeto ou plano original por profissional distinto daquele que o tenha elaborado isenta o primeiro de qualquer responsabilidade decorrente, direta ou indiretamente, da alteração.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            <!--Link: urn:lex:br:federal:lei:1966-12-24;5194-->
+            
+            
+            <p>Aplica-se, no que couber, aos Engenheiros, Arquitetos e Urbanistas da administração pública federal o disposto na <span xlink:href="urn:lex:br:federal:lei:1966-12-24;5194">Lei nº 5.194, de 24 de dezembro de1966</span>.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit4">
+            
+            
+            <Rotulo>TÍTULO IV</Rotulo>
+            <NomeAgrupador>Dos Cargos Efetivos da Engenharia, Arquitetura e Urbanismo-Geral da União.</NomeAgrupador>
+            <Capitulo id="tit4_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>Das Carreiras.</NomeAgrupador>
+            <Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>As carreiras de Engenharia, Arquitetura e Urbanismo -Geral da União compõem-se dos seguintes cargos efetivos:</p>
+            <Inciso id="art22_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Engenheiros, Arquitetos e Urbanistas, ocupantes de cargos PGPE/PCCS, ERCE do serviço público federal;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2010;12277-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>Engenheiro, integrantes da Estrutura Remuneratória de Cargos Específicos, anexo II da <span xlink:href="urn:lex:br:federal:lei:2010;12277">Lei nº 12.277, de 2010</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc3">
+            <!--Link: urn:lex:br:federal:lei:2010;12277-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>Arquiteto e Urbanista, integrantes da Estrutura Remuneratória de Cargos Específicos, anexo I e I da <span xlink:href="urn:lex:br:federal:lei:2010;12277">Lei nº 12.277, de 2010</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc4">
+            <!--Link: urn:lex:br:federal:lei:2010;12277-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Geólogo, integrantes da Estrutura Remuneratória de Cargos Específicos, anexo II da <span xlink:href="urn:lex:br:federal:lei:2010;12277">Lei nº 12.277, de 2010</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc5">
+            <!--Link: urn:lex:br:federal:lei:2010;12277-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>Engenheiro Especializado, integrantes da Estrutura Remuneratória de Cargos Específicos, anexo II da <span xlink:href="urn:lex:br:federal:lei:2010;12277">Lei nº 12.277, de 2010</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc6">
+            <!--Link: urn:lex:br:federal:lei:2005;11171-->
+            
+            <Rotulo>VI –</Rotulo>
+            <p>Engenheiro, integrantes do Plano Especial de Cargos do DNIT, <span xlink:href="urn:lex:br:federal:lei:2005;11171">Lei nº 11.171, de 2005</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc7">
+            <!--Link: urn:lex:br:federal:lei:2005;11171-->
+            
+            <Rotulo>VII –</Rotulo>
+            <p>Arquitetos e Urbanistas, integrantes do Plano Especial de Cargos do DNIT, <span xlink:href="urn:lex:br:federal:lei:2005;11171">Lei nº 11.171, de 2005</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc8">
+            <!--Link: urn:lex:br:federal:lei:2005;11171-->
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>Geólogo, integrantes do Plano Especial de Cargos do DNIT, <span xlink:href="urn:lex:br:federal:lei:2005;11171">Lei nº 11.171, de 2005</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc9">
+            <!--Link: urn:lex:br:federal:lei:2005;11171-->
+            
+            <Rotulo>IX –</Rotulo>
+            <p>Engenheiro Especializado, integrantes do Plano Especial de Cargos do DNIT, <span xlink:href="urn:lex:br:federal:lei:2005;11171">Lei nº 11.171, de 2005</span>, estruturada nas Classes A, B, C e Especial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>carreira de Especialista em Infraestrutura da União:</p>
+            <Alinea id="art22_cpt_inc10_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>Especialista em Infraestrutura da União da 2ª Categoria (inicial);</p>
+            
+          </Alinea><Alinea id="art22_cpt_inc10_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>Especialista em Infraestrutura da União de 1ª Categoria (intermediária);</p>
+            
+          </Alinea><Alinea id="art22_cpt_inc10_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>Especialista em Infraestrutura da União de Categoria Especial (final);</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art22_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>carreira de Analista em Infraestrutura:</p>
+            <Alinea id="art22_cpt_inc11_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>Analista em Infraestrutura de 2ª. Categoria (inicial);</p>
+            
+          </Alinea><Alinea id="art22_cpt_inc11_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>Analista em Infraestrutura de 1ª Categoria (intermediária);</p>
+            
+          </Alinea><Alinea id="art22_cpt_inc11_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>Analista em Infraestrutura de Categoria Especial (final).</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art22_cpt_inc12">
+            <!--Link: urn:lex:br:federal:lei:2005;11091-->
+            
+            <Rotulo>XII –</Rotulo>
+            <p>Engenheiros integrantes do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, <span xlink:href="urn:lex:br:federal:lei:2005;11091">Lei nº 11.091, de 2005</span>, nível de classificação E nos cargos de Engenheiro/área;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc13">
+            <!--Link: urn:lex:br:federal:lei:2005;11091-->
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>Arquitetos e Urbanistas integrantes do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, <span xlink:href="urn:lex:br:federal:lei:2005;11091">Lei nº 11.091, de 2005</span>, nível de classificação E nos cargos de Arquiteto e Urbanista;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc14">
+            <!--Link: urn:lex:br:federal:lei:2005;11091-->
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>Engenheiros agrônomos integrantes do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, <span xlink:href="urn:lex:br:federal:lei:2005;11091">Lei nº 11.091, de 2005</span>, nível de classificação E nos cargos de Engenheiro Agrônomo;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc15">
+            <!--Link: urn:lex:br:federal:lei:2005;11091-->
+            
+            <Rotulo>XV –</Rotulo>
+            <p>Engenheiros de segurança integrantes do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, <span xlink:href="urn:lex:br:federal:lei:2005;11091">Lei nº 11.091, de 2005</span>, nível de classificação E nos cargos de Engenheiro de Segurança do Trabalho;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc16">
+            <!--Link: urn:lex:br:federal:lei:2005;11091-->
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>Geólogo do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, <span xlink:href="urn:lex:br:federal:lei:2005;11091">Lei nº 11.091, de 2005</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc17">
+            <!--Link: urn:lex:br:federal:lei:2007-07-11;11501-->
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>Analista do Seguro Social com formação em Engenharia Civil integrantes do Plano de Carreira dos Cargos da <span xlink:href="urn:lex:br:federal:lei:2007-07-11;11501">Lei n° 11.501, de 11 de julho de 2007</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc18">
+            <!--Link: urn:lex:br:federal:lei:2007-07-11;11501-->
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>Analista do Seguro Social com formação em Engenharia Mecânica integrantes do Plano de Carreira dos Cargos da <span xlink:href="urn:lex:br:federal:lei:2007-07-11;11501">Lei n° 11.501, de 11 de julho de 2007</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc19">
+            <!--Link: urn:lex:br:federal:lei:2007-07-11;11501-->
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>Analista do Seguro Social com formação em Engenharia Elétrica integrantes do Plano de Carreira dos Cargos da <span xlink:href="urn:lex:br:federal:lei:2007-07-11;11501">Lei n° 11.501, de 11 de julho de 2007</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc20">
+            <!--Link: urn:lex:br:federal:lei:2007-07-11;11501-->
+            
+            <Rotulo>XX –</Rotulo>
+            <p>Analista do Seguro Social com formação em Engenharia Segurança do Trabalho integrantes do Plano de Carreira dos Cargos da <span xlink:href="urn:lex:br:federal:lei:2007-07-11;11501">Lei n° 11.501, de 11 de julho de 2007</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc21">
+            <!--Link: urn:lex:br:federal:lei:2007-07-11;11501-->
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>Analista do Seguro Social com formação em Engenharia de Telecomunicações integrantes do Plano de Carreira dos Cargos da <span xlink:href="urn:lex:br:federal:lei:2007-07-11;11501">Lei n° 11.501, de 11 de julho de 2007</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc22">
+            <!--Link: urn:lex:br:federal:lei:2007-07-11;11501-->
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>Analista do Seguro Social com formação em Arquitetura integrantes do Plano de Carreira dos Cargos da <span xlink:href="urn:lex:br:federal:lei:2007-07-11;11501">Lei n° 11.501, de 11 de julho de 2007</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc23">
+            <!--Link: urn:lex:br:federal:lei:2015;13121--><!--Link: urn:lex:br:federal:lei:2013-04-23;12800-->
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>Engenheiros, Arquitetos e Urbanistas, Agrônomos e Geólogos, ocupantes e servidores dos ex territórios do Amapá, de Roraima e de Rondônia que fizeram a opção para a inclusão em quadro da União, incorporados ao quadro em extinção da União, que foram enquadrados em cargos de atribuições equivalentes ou assemelhadas, integrantes de planos de cargos e carreiras da União, no nível de progressão alcançado, assegurados os direitos, vantagens e padrões remuneratórios a eles inerentes, conforme incluído pela <span xlink:href="urn:lex:br:federal:lei:2015;13121">Lei nº 13.121, de 2015</span>, em Anexo da <span xlink:href="urn:lex:br:federal:lei:2013-04-23;12800">Lei nº 12.800, de 23 de abril de 2013</span>;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc24">
+            <!--Link: urn:lex:br:federal:lei:2005-01-07;11090-->
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>Engenheiros, Arquitetos e Urbanistas, Agrônomos e Geólogos, ocupantes dos cargos de Analista em Reforma e Desenvolvimento Agrário, pertencentes ao Plano de Carreira dos Cargos de Reforma e Desenvolvimento Agrário, de que trata a <span xlink:href="urn:lex:br:federal:lei:2005-01-07;11090">Lei nº 11.090, de 7 de janeiro de 2005</span> e suas alterações, e os pertencentes ao Plano de Carreira dos Cargos de Reforma e Desenvolvimento Agrário do Instituto Nacional de Colonização e Reforma Agrária – INCRA.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art22_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os cargos de provimento efetivo, estruturados conforme o Anexo I desta Lei, poderão integrar a Carreira de Engenharia, Arquitetura e Urbanismo-Geral da União de que trata o art. 21 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>O ingresso nas carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União ocorre nas categorias iniciais, mediante nomeação, em caráter efetivo, de candidatos habilitados em concursos públicos, de provas e títulos, obedecida a ordem de classificação.</p>
+            
+          </Caput><Paragrafo id="art23_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os concursos públicos devem ser realizados na hipótese em que o número de vagas da carreira exceda a dez por cento dos respectivos cargos, ou, com menor número, observado o interesse da Administração e a critério do Engenheiro ou Arquiteto e Urbanista-Geral da União.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O candidato, no momento da posse, há de comprovar um mínimo de dois anos de prática na especialidade técnica em que concorrer a uma vaga.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Considera-se título, para o fim previsto neste artigo, além de outros regularmente admitidos em direito, o exercício profissional de consultoria, assessoria e diretoria, bem como o desempenho de cargo, emprego ou função de nível superior, com atividades eminentemente técnicas.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O respectivo Conselho Nacional da categoria profissional ao qual esteja vinculado o candidato é representado na banca examinadora dos concursos de ingresso nas carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Nos dez dias seguintes à nomeação, o Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União deve convocar os nomeados para escolha de vagas, fixando-lhes prazo improrrogável.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Perde o direito à escolha de vaga o nomeado que não atender à convocação a que se refere o parágrafo anterior.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Os três primeiros anos de exercício em cargo inicial das carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União correspondem a estágio confirmatório.</p>
+            
+          </Caput><Paragrafo id="art24_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>São requisitos da confirmação no cargo a observância dos respectivos deveres, proibições e impedimentos, a eficiência, a disciplina e a assiduidade.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit4_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Da Lotação e da Distribuição.</NomeAgrupador>
+            <Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>As categorias do Art.21 desta Lei são lotados e distribuídos pelo Engenheiro ou Arquiteto e Urbanista-Geral da União.</p>
+            
+          </Caput><Paragrafo id="art25_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A lotação de Analista de Infraestrutura nos Ministérios, na Secretaria- Geral e nas demais Secretarias da Presidência da República, na Administração Pública Federal Direta e Indireta, Autarquias e nas Fundações Públicas é proposta por seus titulares.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit4_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>Da Promoção.</NomeAgrupador>
+            <Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>A promoção das categorias do Art.21 da Engenharia-Geral da União consiste em seu acesso à categoria imediatamente superior àquela em que se encontra.</p>
+            
+          </Caput><Paragrafo id="art26_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As promoções serão processadas semestralmente pelo Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União, para vagas ocorridas até 30 de junho e até 31 de dezembro de cada ano, obedecidos, alternadamente, os critérios de antiguidade e merecimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>A promoção por merecimento deve obedecer a critérios objetivos, fixados pelo Conselho Superior da Engenharia, Arquitetura e Urbanismo-Geral da União, dentre os quais a presteza e a segurança no desempenho da função, bem como a frequência e o aproveitamento em cursos de aperfeiçoamento reconhecidos por órgãos oficiais.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit4_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>Dos Direitos, dos Deveres, das Proibições, dos Impedimentos e das Correições.</NomeAgrupador>
+            <Secao id="tit4_cap4_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Dos Direitos.</NomeAgrupador>
+            <Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-12-11;8112--><!--Link: urn:lex:br:federal:lei:2010-06-30;12277--><!--Link: urn:lex:br:federal:lei:2005-09-02;11171--><!--Link: urn:lex:br:federal:lei:2006-09-08;11344-->
+            
+            
+            <p>As categorias e ou cargos do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União têm os direitos assegurados, respectivamente, pela <span xlink:href="urn:lex:br:federal:lei:1990-12-11;8112">Lei nº 8.112, de 11 de dezembro de 1990</span> e pelas Leis respectivas pertencentes aos seus Planos de Carreiras dos Cargos, e pelo Art.21, Inciso § 1 e Anexos I e II, constantes desta lei e pelas <span xlink:href="urn:lex:br:federal:lei:2010-06-30;12277">Leis nº 12.277, de 30 de junho de 2010</span>; nº <span xlink:href="urn:lex:br:federal:lei:2005-09-02;11171">11.171, de 02 de setembro de 2005</span>; nº <span xlink:href="urn:lex:br:federal:lei:2006-09-08;11344">11.344, de 8 de setembro de 2006</span> (Estrutura Remuneratória para os cargos efetivos de Engenheiro, Arquiteto, Economista, Estatístico e Geólogo). Observação: exclui-se, na aplicação desta Lei da EAGU;</p>
+            
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>excluem-se, da aplicação desta Lei, os cargos de Economista e de Estatístico;</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os cargos das carreiras da Engenharia, Arquitetura e Urbanismo-Geral da União têm o vencimento e remuneração estabelecidos em lei própria.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit4_cap4_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos Deveres, das Proibições e dos Impedimentos.</NomeAgrupador>
+            <Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-12-11;8112-->
+            
+            
+            <p>As categorias do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União têm os deveres previstos na <span xlink:href="urn:lex:br:federal:lei:1990-12-11;8112">Lei nº 8.112, de 11 de dezembro de 1990</span> e pelo Art.21, Inciso § 1 e Anexos I e II, constantes desta lei, sujeitando-se, ainda, às proibições e impedimentos estabelecidos nesta lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>Além das proibições decorrentes do exercício de cargo público, as categorias do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União é vedado:</p>
+            <Inciso id="art30_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exercer atividade privada na área de especialização em que exerce o cargo público;</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>contrariar súmula, parecer normativo ou orientação técnica adotada pelo Engenheiro ou Arquiteto e Urbanista-Geral da União;</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>manifestar-se, por qualquer meio de divulgação, sobre assunto pertinente às suas funções, salvo ordem, ou autorização expressa do Engenheiro ou Arquiteto e Urbanista-Geral da União.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>As categorias do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União devem dar-se por impedidos:</p>
+            <Inciso id="art31_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quando houverem proferido parecer favorável em assunto sob contestação técnico-administrativa;</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nas hipóteses da legislação processual.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art31_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Nas situações previstas neste artigo, cumpre seja dada ciência, ao superior hierárquico imediato, em expediente reservado, dos motivos do impedimento, objetivando a designação de substituto.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>As categorias do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União não podem participar de comissão ou banca de concurso, intervir no seu julgamento e votar sobre organização de lista para promoção ou remoção, quando concorrer parente consanguíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit4_cap4_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Das Correições.</NomeAgrupador>
+            <Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>A atividade funcional das categorias do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União está sujeita a:</p>
+            <Inciso id="art33_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>correição ordinária, realizada anualmente pelo Corregedor-Geral e respectivos auxiliares;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>correição extraordinária, também realizada pelo Corregedor-Geral e por seus auxiliares, de ofício ou por determinação da Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>Concluída a correição, o Corregedor-Geral deve apresentar ao Engenheiro ou Arquiteto e Urbanista-Geral da União relatório, propondo-lhe as medidas e providências a seu juízo cabíveis.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>Qualquer pessoa pode representar ao Corregedor-Geral da Engenharia, Arquitetura e Urbanismo da União contra abuso, erro grosseiro, omissão ou qualquer outra irregularidade funcional das categorias do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo>
+          </Titulo><Titulo id="tit5">
+            
+            
+            <Rotulo>TÍTULO V</Rotulo>
+            <NomeAgrupador>Dos Pareceres e da Súmula da Engenharia, Arquitetura e Urbanismo-Geral da União.</NomeAgrupador>
+            <Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>É privativo do Presidente da República submeter assuntos ao exame do Engenheiro ou Arquiteto e Urbanista-Geral da União, inclusive para seu parecer.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>Os pareceres do Engenheiro ou Arquiteto e Urbanista -Geral da União são por este submetidos à aprovação do Presidente da República.</p>
+            
+          </Caput><Paragrafo id="art37_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O parecer aprovado e publicado juntamente com o despacho presidencial vincula a Administração Federal, cujos órgãos e entidades ficam obrigados a lhe dar fiel cumprimento.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O parecer aprovado, mas não publicado, obriga apenas as repartições interessadas, a partir do momento em que dele tenham ciência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            
+            
+            
+            <p>Consideram-se, igualmente, pareceres do Engenheiro ou Arquiteto e Urbanista Geral da União, para os efeitos do artigo anterior, aqueles que, emitidos pela Consultoria-Geral da Engenharia, Arquitetura e Urbanismo da União, sejam por ele aprovados e submetidos ao Presidente da República.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>Os pareceres das Consultorias de Engenharia, Arquitetura e Urbanismo-Geral da União, aprovados pelo Ministro de Estado, pelo Secretário-Geral e pelos titulares das demais Secretarias da Presidência da República obrigam, também, os respectivos órgãos autônomos e entidades vinculadas.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo><Titulo id="tit6">
+            
+            
+            <Rotulo>TÍTULO VI</Rotulo>
+            <NomeAgrupador>Das Disposições Finais.</NomeAgrupador>
+            <Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>O Regimento Interno da Engenharia, Arquitetura e Urbanismo-Geral da União é editado pelo Engenheiro ou Arquiteto e Urbanista-Geral da União, observada a presente lei.</p>
+            
+          </Caput><Paragrafo id="art40_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Regimento Interno deve dispor sobre a competência, a estrutura e o funcionamento da Corregedoria-Geral da Engenharia, Arquitetura e Urbanismo-Geral da União, da Consultoria-Geral da Engenharia, Arquitetura e Urbanismo-Geral da União, do Gabinete do Engenheiro ou Arquiteto e Urbanista-Geral da União e dos Gabinetes dos Secretários-Gerais, da Diretoria-Geral de Administração e bem como sobre as atribuições de seus titulares e demais integrantes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>O Engenheiro ou Arquiteto e Urbanista-Geral da União pode requisitar servidores dos órgãos ou entidades da Administração Federal, para o desempenho de cargo em comissão ou atividade outra na Engenharia, Arquitetura e Urbanismo-Geral da União, assegurados ao servidor todos os direitos e vantagens a que faz jus no órgão ou entidade de origem, inclusive promoção.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            
+            
+            
+            <p>Os cargos da Engenharia, Arquitetura e Urbanismo-Geral da União integram quadro próprio.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>São nomeados pelo Presidente da República:</p>
+            <Inciso id="art43_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>mediante indicação do Engenheiro ou Arquiteto e Urbanista-Geral da União, os titulares dos cargos de natureza especial de Corregedor-Geral e de Consultor-Geral da Engenharia, Arquitetura e Urbanismo-Geral da União;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>mediante indicação do Ministro de Estado, do Secretário-Geral ou titular de Secretaria da Presidência da República, os titulares dos cargos em comissão de Consultor Técnico;</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art43_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Corregedor-Geral será escolhido dentre as categorias do Art.21 da Engenharia, Arquitetura e Urbanismo-Geral da União.</p>
+            
+          </Paragrafo><Paragrafo id="art43_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p> O Presidente da República pode delegar ao Engenheiro ou Arquiteto e Urbanista-Geral da União competência para prover, nos termos da lei, os demais cargos, efetivos e em comissão, da instituição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            
+            
+            
+            <p>Aos titulares de cargos de confiança, sejam de natureza especial ou em comissão, da Engenharia, Arquitetura e Urbanismo -Geral da União, assim como aos membros efetivos desta é vedado manter, sob sua chefia imediata, parente consanguíneo ou afim, em linha reta ou colateral, até o segundo grau, bem assim como cônjuge ou companheiro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            
+            
+            
+            <p>Os membros e servidores da Engenharia, Arquitetura e Urbanismo-Geral da União detêm identificação funcional específica, conforme modelos previstos em seu Regimento Interno.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            
+            
+            
+            <p>Os aposentados e pensionistas das categorias do Art 21 da Engenharia, Arquitetura e Urbanismo-Geral da União terão remunerações equivalentes às da ativa desta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo><Titulo id="tit7">
+            
+            
+            <Rotulo>TÍTULO VII</Rotulo>
+            <NomeAgrupador>Das Disposições Transitórias.</NomeAgrupador>
+            <Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            
+            
+            
+            <p>É criado, com natureza especial, o cargo de Engenheiro ou Arquiteto e Urbanista-Geral da União.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            
+            
+            
+            <p>São criados cargos de DAS, para os cargos de Consultor-Geral da Engenharia, Arquitetura e Urbanismo-Geral da União e de Corregedor-Geral da Engenharia, Arquitetura e Urbanismo-Geral da União, privativos de detentores de curso superior das áreas Engenharia, Arquitetura e Urbanismo, de elevado saber técnico e reconhecida idoneidade, com dez anos de experiência técnica no serviço público federal e maior de trinta e cinco anos.</p>
+            
+          </Caput><Paragrafo id="art48_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Cabe ao Engenheiro ou Arquiteto e Urbanista-Geral da União disciplinar, em ato próprio, o primeiro concurso público de provas e títulos, destinado ao provimento de cargos de Especialista de Infraestrutura da Engenharia, Arquitetura e Urbanismo-Geral da União de 2ª Categoria e de Analista de Infraestrutura da Engenharia, Arquitetura e Urbanismo -Geral da União de 2ª Categoria.</p>
+            
+          </Paragrafo><Paragrafo id="art48_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O concurso público a que se refere o parágrafo anterior deve ter o respectivo edital publicado nos sessenta dias seguintes à posse do Engenheiro ou Arquiteto e Urbanista-Geral da União.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

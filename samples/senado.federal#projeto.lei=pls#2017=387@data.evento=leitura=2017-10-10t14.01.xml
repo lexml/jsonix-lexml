@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;387@data.evento;leitura;2017-10-10t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 387 DE 2017</Epigrafe>
+      <Ementa id="ementa">Modifica a <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, para disciplinar o procedimento especial para ação fiscal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1">art. 627-A da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar acrescido dos seguintes parágrafos 1º a 5º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art627-1_par3 -> PrefixMatch(URN(1943,Some((5,1)),art627-1,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1),art627-1_par3), art627-1 -> ExactMatch(URN(1943,Some((5,1)),art627-1,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1)), art627-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),art627-1,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1),art627-1_cpt), art627-1_par2 -> PrefixMatch(URN(1943,Some((5,1)),art627-1,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1),art627-1_par2), art627-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),art627-1,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1),art627-1_par1), art627-1_par5 -> PrefixMatch(URN(1943,Some((5,1)),art627-1,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1),art627-1_par5), art627-1_par4 -> PrefixMatch(URN(1943,Some((5,1)),art627-1,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art627-1),art627-1_par4)))))-->
+              <Artigo xlink:href="art627-1" id="art1_cpt_alt1_art627-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 627-A.</Rotulo>
+            
+            <Caput xlink:href="art627-1_cpt" id="art1_cpt_alt1_art627-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art627-1_omi1"/><Paragrafo xlink:href="art627-1_par1" id="art1_cpt_alt1_art627-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A empresa poderá requerer a instauração de procedimento especial para ação fiscal sempre que ocorrer promulgação ou expedição de novas leis, regulamentos ou instruções ministeriais que demandem modificação de máquinas, equipamentos ou processos produtivos que gerem encargos financeiros expressivos, sem prejuízo da instauração pela autoridade competente do Ministério do Trabalho.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art627-1_par2" id="art1_cpt_alt1_art627-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Instaurado o procedimento especial para ação fiscal, a empresa deverá apresentar, em até 30 (trinta) dias, plano e cronograma das medidas que deverão ser implementadas para adequação das condições de trabalho às normas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art627-1_par3" id="art1_cpt_alt1_art627-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O plano e o cronograma referidos no § 2º serão analisados pela autoridade competente do Ministério do Trabalho, que se manifestará em até 30 (trinta) dias, dando ciência dos procedimentos à empresa, aos sindicatos de trabalhadores cujas atividades sejam abrangidas pelo procedimento especial de ação fiscal e, se o for caso, à Comissão Interna de Prevenção de Acidentes (CIPA) competente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art627-1_par4" id="art1_cpt_alt1_art627-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Acordadas as condições de implementação das medidas de adequação às normas, será firmado pela empresa e pela autoridade competente do Ministério do Trabalho o correspondente Termo de Compromisso, que estabeleça o prazo razoável de cumprimento das medidas, proporcional à gravidade das violações à legislação e à capacidade financeira da empresa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art627-1_par5" id="art1_cpt_alt1_art627-1_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Durante o prazo de cumprimento do Termo de Compromisso, será vedada a lavratura de auto de infração referente aos pontos acordados no Termo de Compromisso, salvo em caso de seu descumprimento pela empresa.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,100 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;100"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 100 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a redação do <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art775">art. 775 da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei n° 5.452, de 1° de maio de 1943</span>, e acrescenta-lhe o art. 775-A, a fim de dispor sobre a contagem de prazos processuais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art775--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art775">art. 775 da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art775 -> ExactMatch(URN(1943,Some((5,1)),art775,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art775)), art775_cpt -> PrefixMatch(URN(1943,Some((5,1)),art775,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art775),art775_cpt), art775_par1 -> PrefixMatch(URN(1943,Some((5,1)),art775,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art775),art775_par1)))))-->
+              <Artigo xlink:href="art775" id="art1_cpt_alt1_art775" abreAspas="s">
+            
+            
+            <Rotulo>Art. 775.</Rotulo>
+            
+            <Caput xlink:href="art775_cpt" id="art1_cpt_alt1_art775_cpt">
+            
+            
+            
+            <p>Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis, excluído o dia do começo e incluído o dia do vencimento.</p>
+            
+          </Caput><Paragrafo xlink:href="art775_par1u" id="art1_cpt_alt1_art775_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os prazos podem ser prorrogados pelo tempo estritamente necessário pelo juiz ou tribunal, ou em virtude de força maior comprovada.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar acrescida do seguinte art. 775-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art775-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art775-1), art775-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art775-1_cpt), art775-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art775-1_par1), art775-1_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art775-1_par2)))))-->
+              <Artigo xlink:href="art775-1" id="art2_cpt_alt1_art775-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 775-A.</Rotulo>
+            
+            <Caput xlink:href="art775-1_cpt" id="art2_cpt_alt1_art775-1_cpt">
+            
+            
+            
+            <p>Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.</p>
+            
+          </Caput><Paragrafo xlink:href="art775-1_par1" id="art2_cpt_alt1_art775-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ressalvadas as férias individuais e os feriados instituídos por lei, os juízes, os membros do Ministério Público, da Defensoria Pública e da Advocacia Pública e os auxiliares da Justiça exercerão suas atribuições durante o período previsto no caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art775-1_par2" id="art2_cpt_alt1_art775-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Durante a suspensão do prazo, não se realizarão audiências nem sessões de julgamento.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

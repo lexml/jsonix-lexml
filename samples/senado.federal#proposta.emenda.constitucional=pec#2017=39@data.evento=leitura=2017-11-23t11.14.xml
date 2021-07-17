@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;39@data.evento;leitura;2017-11-23t11.14"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 39 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art5">art. 5 º da Constituição Federal</span> para prever regime integralmente fechado para condenados por crime hediondo cometidos com violência contra a pessoa.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art5-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art5">art. 5º da Constituição Federal</span> passa a viger acrescido do seguinte § 5º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art5 -> ExactMatch(URN(1988,Some((10,5)),art5,urn:lex:br:federal:constituicao:1988-10-05;1988!art5)), art5_cpt -> PrefixMatch(URN(1988,Some((10,5)),art5,urn:lex:br:federal:constituicao:1988-10-05;1988!art5),art5_cpt), art5_par5 -> PrefixMatch(URN(1988,Some((10,5)),art5,urn:lex:br:federal:constituicao:1988-10-05;1988!art5),art5_par5)))))-->
+              <Artigo xlink:href="art5" id="art1_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art1_cpt_alt1_art5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art5_omi1"/><Paragrafo xlink:href="art5_par5" id="art1_cpt_alt1_art5_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A pena privativa de liberdade por crime hediondo cometidos com violência contra a pessoa será cumprida integralmente em regime fechado.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

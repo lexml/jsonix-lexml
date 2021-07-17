@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;471@data.evento;leitura;2017-11-29t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 471 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span>, que dispõe sobre o Estatuto da Criança e do Adolescente, para estabelecer que o poder público regulará o acesso de crianças e adolescentes a exposições e mostras de artes visuais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span>, que dispõe sobre o Estatuto da Criança e do Adolescente, para determinar que o poder público regulará o acesso de crianças e adolescentes a exposições e mostras de artes visuais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art74--><!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art75-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art74">arts. 74</span> e <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art75">75 da Lei nº 8.069, de 13 de julho de 1990</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art75 -> ExactMatch(URN(1990,Some((7,13)),art75,urn:lex:br:federal:lei:1990-07-13;8069!art75)), art75_cpt -> PrefixMatch(URN(1990,Some((7,13)),art75,urn:lex:br:federal:lei:1990-07-13;8069!art75),art75_cpt), art74_cpt -> PrefixMatch(URN(1990,Some((7,13)),art74,urn:lex:br:federal:lei:1990-07-13;8069!art74),art74_cpt), art74_par1 -> PrefixMatch(URN(1990,Some((7,13)),art74,urn:lex:br:federal:lei:1990-07-13;8069!art74),art74_par1), art74 -> ExactMatch(URN(1990,Some((7,13)),art74,urn:lex:br:federal:lei:1990-07-13;8069!art74))))))-->
+              <Artigo xlink:href="art74" id="art2_cpt_alt1_art74" abreAspas="s">
+            
+            
+            <Rotulo>Art. 74.</Rotulo>
+            
+            <Caput xlink:href="art74_cpt" id="art2_cpt_alt1_art74_cpt">
+            
+            
+            
+            <p>O poder público, por meio do órgão competente, regulará as diversões e espetáculos públicos, inclusive exposições ou mostras de artes visuais, informando sobre a natureza deles, as faixas etárias a que não se recomendam, locais e horários em que sua apresentação se mostre inadequada.</p>
+            
+          </Caput><Paragrafo xlink:href="art74_par1u" id="art2_cpt_alt1_art74_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os responsáveis por diversões e espetáculos públicos deverão afixar, em lugar visível e de fácil acesso, na entrada do local de exibição, informação destacada sobre a natureza da diversão, do espetáculo, da exposição ou da mostra de artes visuais e a faixa etária especificada no certificado de classificação. (NR)</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art75" id="art2_cpt_alt1_art75">
+            
+            
+            <Rotulo>Art. 75.</Rotulo>
+            
+            <Caput xlink:href="art75_cpt" id="art2_cpt_alt1_art75_cpt">
+            
+            
+            
+            <p>Toda criança ou adolescente terá acesso às diversões, aos espetáculos públicos e às exposições ou mostras de artes visuais classificados como adequados a sua faixa etária.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art75_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos noventa dias da data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

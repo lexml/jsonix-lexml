@@ -1,0 +1,826 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;137"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 137 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a Política Nacional de Economia Solidária e os empreendimentos econômicos solidários, cria o Sistema Nacional de Economia Solidária e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei estabelece as definições, os princípios, as diretrizes e os objetivos da Política Nacional de Economia Solidária, cria o Sistema Nacional de Economia Solidária e qualifica os empreendimentos econômicos solidários, com vistas a fomentar a economia solidária e o trabalho associado e cooperativado.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As diretrizes, os princípios e os objetivos fundamentais da Política Nacional de Economia Solidária integram-se às estratégias gerais de desenvolvimento sustentável, visando à promoção de atividades econômicas autogestionárias e ao incentivo aos empreendimentos econômicos solidários e sua integração em redes de cooperação na produção, comercialização e consumo de bens e serviços.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador> DAS DEFINIÇÕES</NomeAgrupador>
+            <Secao id="cap2_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Economia Solidária</NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A economia solidária abrange as atividades de organização da produção e da comercialização de bens e de serviços, da distribuição, do consumo e do crédito, observados os princípios da autogestão, da cooperação e da solidariedade, a gestão democrática e participativa, a distribuição equitativa das riquezas produzidas coletivamente, o desenvolvimento local, regional e territorial integrado e sustentável, o respeito aos ecossistemas, a preservação do meio ambiente, a valorização do ser humano, do trabalho e da cultura.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São princípios norteadores dos empreendimentos de economia solidária:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>administração democrática;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>soberania assemblear;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>garantia da adesão livre e voluntária;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estabelecimento de condições de trabalho decente;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>desenvolvimento das atividades de forma ambientalmente sustentável;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>desenvolvimento das atividades em cooperação entre empreendimentos e redes da mesma natureza;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>busca da inserção comunitária, com a adoção de práticas democráticas e de cidadania;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>prática de preços justos, de acordo com os princípios do comércio justo e solidário;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>respeito às diferenças e à dignidade da pessoa humana, e promoção da equidade, direitos e garantias fundamentais;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>exercício e demonstração da transparência na gestão dos recursos e na justa distribuição dos resultados; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>estímulo à participação efetiva dos membros no fortalecimento de seus empreendimentos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos Empreendimentos Econômicos Solidários</NomeAgrupador>
+            <Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São beneficiários da Política Nacional de Economia Solidária os empreendimentos econômicos solidários que apresentem as seguintes características:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ser uma organização coletiva e democrática, singular ou complexa, cujos membros sejam trabalhadores urbanos e/ou rurais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>exercer atividades de natureza econômica;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ser uma organização autogestionária, cujos membros exerçam coletivamente a gestão das atividades econômicas e a decisão sobre a partilha dos seus resultados, por meio da administração transparente e democrática, da soberania assemblear e da singularidade de voto dos sócios;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ter seus membros diretamente envolvidos na consecução de seu objetivo social;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>distribuir os resultados financeiros da atividade econômica de acordo com a deliberação de seus membros, considerada a proporcionalidade das operações e atividades econômicas realizadas individual e coletivamente;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>realizar pelo menos uma reunião ou assembleia trimestral para deliberação de questões relativas à organização das atividades realizadas pelo empreendimento, ressalvado o disposto nas legislações específicas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>destinar o resultado operacional líquido à consecução das suas finalidades e parte dele para auxiliar outros empreendimentos equivalentes que estejam em situação precária de constituição ou consolidação e ao desenvolvimento comunitário ou à qualificação profissional e social dos seus integrantes.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O enquadramento do empreendimento como beneficiário da Política Nacional de Economia Solidária independe da sua forma societária, observado o disposto em legislação específica.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não serão beneficiários da Política Nacional de Economia Solidária os empreendimentos que tenham como atividade econômica a intermediação de mão de obra subordinada.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os empreendimentos econômicos solidários poderão registrar-se no Registro Civil de Pessoas Jurídicas, independentemente de sua forma societária, ressalvada a legislação específica relativa às sociedades cooperativas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DA POLÍTICA NACIONAL DE ECONOMIA SOLIDÁRIA</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A Política Nacional de Economia Solidária constitui-se instrumento pelo qual o poder público, com a participação da sociedade civil organizada, formulará e implementará políticas, planos, programas e ações com vistas ao fomento da economia solidária.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>São objetivos da Política Nacional de Economia Solidária:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>contribuir para a concretização dos preceitos constitucionais que garantam aos cidadãos o direito a uma vida digna;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fortalecer e estimular a organização e a participação social e política em empreendimentos de economia solidária;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fortalecer e estimular o associativismo e o cooperativismo que se caracterizem como empreendimento da economia solidária;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>reconhecer e fomentar as diferentes formas organizativas de empreendimentos qualificados nos termos desta Lei como de economia solidária;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>contribuir para a geração de riqueza, a melhoria da qualidade de vida e a promoção da justiça social;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>contribuir para a equidade, a garantia da dignidade da pessoa humana e dos direitos fundamentais, de modo a propiciar condições concretas de participação social;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>promover o acesso da economia solidária aos fundos públicos, aos instrumentos de fomento, aos meios de produção, aos mercados e ao conhecimento e às tecnologias sociais necessárias ao seu desenvolvimento;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>promover a integração, a interação e a intersetorialidade das políticas públicas que possam fomentar a economia solidária;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>apoiar ações que aproximem consumidores e produtores, de modo a impulsionar práticas relacionadas ao consumo consciente e ao comércio justo e solidário;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>contribuir para a redução das desigualdades regionais por meio de políticas de desenvolvimento territorial sustentável;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>promover práticas produtivas ambientalmente sustentáveis;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>contribuir para a promoção do trabalho decente perante os empreendimentos econômicos solidários; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>fomentar a articulação em redes dos empreendimentos de economia solidária.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A Política Nacional de Economia Solidária organiza-se nos seguintes eixos de ações:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>educação, formação, assistência técnica e qualificação social e profissional no meio rural e urbano;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>acesso a serviços de finanças e de crédito;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fomento à comercialização, ao comércio justo e solidário e ao consumo responsável;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fomento aos empreendimentos econômicos solidários e redes de cooperação;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>fomento à recuperação de empresas por trabalhadores organizados em autogestão; e</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>apoio à pesquisa e ao desenvolvimento e apropriação adequada de tecnologias.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os eixos dispostos no caput deste artigo devem ser desenvolvidos de acordo com a realidade, os princípios e os valores da economia solidária, definidos no Capítulo II desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Quando necessário, as ações devem contemplar o fomento e a implementação de equipamentos públicos correspondentes.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Entende-se por comércio justo e solidário a prática comercial diferenciada pautada nos valores de justiça social e solidariedade realizada pelos empreendimentos econômicos solidários, e por preço justo a definição de valor do produto ou serviço, construída a partir do diálogo, da transparência e da efetiva participação de todos os agentes envolvidos na sua composição que resulte em distribuição equânime do ganho na cadeia produtiva.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A Política Nacional de Economia Solidária poderá também atender aos beneficiários de programas sociais desenvolvidos por órgãos governamentais, com prioridade para aqueles que vivem em situação de vulnerabilidade social, desde que desejem se organizar em empreendimentos econômicos solidários.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O órgão competente da União instituirá Cadastro Nacional de Empreendimentos Econômicos Solidários, com a finalidade de dar reconhecimento público aos empreendimentos econômicos solidários para o acesso às políticas públicas nacionais de economia solidária e demais políticas, programas públicos de financiamento, compras governamentais, comercialização de produtos e serviços e demais ações e políticas públicas a elas dirigidas.</p>
+            
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os grupos informais qualificados como de economia solidária nos termos desta Lei e cadastrados no Cadastro Nacional de Empreendimentos Econômicos Solidários serão incentivados a buscar gradativamente a sua regularização jurídica para se inserirem plenamente no regime legal associativo e nas determinações desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>As ações de educação, formação, assistência técnica e qualificação previstas na Política Nacional de Economia Solidária poderão incluir a elevação de escolaridade, a formação para a cidadania e para a prática da autogestão e a qualificação técnica e tecnológica para formação de empreendimentos econômicos solidários.</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As ações educativas e de qualificação em economia solidária que visem à formação sistemática de trabalhadores dos empreendimentos econômicos solidários, bem como de formadores e gestores que atuam na economia solidária, serão implementadas, prioritariamente, por instituições de ensino superior e por entidades da sociedade civil sem fins lucrativos, de forma descentralizada, mediante acordos, convênios e parcerias com os governos estaduais, do Distrito Federal e municipais.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Política Nacional de Economia Solidária será implementada, preferencialmente, por meio de núcleos e redes, de caráter local, regional e nacional, de assistência técnica, gerencial, de assessoria e acompanhamento aos empreendimentos econômicos solidários, com utilização de metodologias adequadas a essa realidade e valorização das pedagogias populares e participativas e dos conteúdos apropriados à organização na perspectiva da autogestão, tendo como princípio a autonomia a partir dos princípios e metodologia da educação popular.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O poder público desenvolverá ações que propiciem apoio à pesquisa e ao desenvolvimento e transferência de tecnologias apropriadas aos empreendimentos econômicos solidários.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O poder público, na implementação da Política Nacional de Economia Solidária, promoverá o acesso dos empreendimentos de economia solidária aos serviços de crédito para capital de giro, custeio e aquisição de bens móveis e imóveis destinados à consecução das atividades econômicas fomentadas, conforme condições a serem estabelecidas em regulamento.</p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para as operações de crédito destinadas a empreendimentos econômicos solidários, as garantias reais poderão ser substituídas por garantias alternativas, observadas as condições estabelecidas por regulamento e pelo Conselho Monetário Nacional.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As operações de crédito a que se refere o § 1º deste artigo serão realizadas por meio de bancos públicos, ou por instituições de finanças solidárias, tais como Organizações da Sociedade Civil de Interesse Público (Oscips) de microcrédito, bancos comunitários e fundos rotativos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Fica a União autorizada a conceder subvenção aos agentes financeiros de que trata o § 2º do art. 10 desta Lei, sob a forma de equalização de taxa de juros, nas operações de financiamento aos empreendimentos econômicos solidários cadastrados no Cadastro Nacional de Empreendimentos Econômicos Solidários (Cadsol).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>As ações de fomento ao comércio justo e solidário e ao consumo responsável devem contemplar a criação de espaços de comercialização solidários, o apoio à constituição de redes cooperativas e de cadeias solidárias de produção, de comercialização, de logística e de consumo solidários, o assessoramento técnico contínuo e sistemático à comercialização e a promoção do consumo responsável, na forma do regulamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Fica o Poder Executivo autorizado a estabelecer condições, parâmetros e critérios diferenciados para acesso dos empreendimentos econômicos solidários às compras governamentais, como elemento propulsor do desenvolvimento sustentável.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            <!--Link: urn:lex:br:federal:lei.complementar:2006-12-14;123!art3_cpt_inc2-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O tratamento diferenciado e simplificado nas licitações públicas previsto no caput deste artigo aplica-se aos empreendimentos econômicos solidários que possuam forma societária compatível com o desenvolvimento de atividades econômicas e que tenham auferido, no ano-calendário anterior, ingressos até o limite definido no <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123!art3_cpt_inc2">inciso II do caput do art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DO SISTEMA NACIONAL DE ECONOMIA SOLIDÁRIA</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Fica instituído o Sistema Nacional de Economia Solidária (Sinaes) com a finalidade de promover a consecução da Política Nacional de Economia Solidária e a garantia do direito ao trabalho associado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>O Sinaes tem por objetivos:</p>
+            <Inciso id="art15_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>formular e implementar a Política Nacional de Economia Solidária, conforme definido nesta Lei;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estimular a integração dos esforços entre os entes federativos e entre governo e sociedade civil; e</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>promover o acompanhamento, o monitoramento e a avaliação da Política Nacional de Economia Solidária.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O Sinaes reger-se-á pelos seguintes princípios:</p>
+            <Inciso id="art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estímulo à economia solidária como estratégia de desenvolvimento sustentável;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>universalidade e equidade no acesso às políticas públicas de economia solidária, sem qualquer espécie de discriminação;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>preservação da autonomia e respeito à dignidade das pessoas;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>participação social na formulação, execução, acompanhamento, monitoramento e controle das políticas e dos planos de economia solidária em todas as esferas de governo; e</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>transparência na execução dos programas e ações e na aplicação dos recursos destinados ao Sinaes.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>O Sinaes tem como base as seguintes diretrizes:</p>
+            <Inciso id="art17_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>promoção da intersetorialidade das políticas, programas e ações governamentais e não governamentais;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>descentralização das ações e articulação, em regime de colaboração, entre as esferas de governo;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>articulação entre os diversos sistemas de informações existentes no âmbito federal, incluído o Sistema de Informações em Economia Solidária, a fim de subsidiar o ciclo de gestão das políticas voltadas à economia solidária nas diferentes esferas de governo;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>articulação entre orçamento e gestão; e</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>cooperação entre o setor público e as organizações da sociedade civil no desenvolvimento de atividades comuns de promoção da economia solidária.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>Integram o Sinaes:</p>
+            <Inciso id="art18_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a Conferência Nacional de Economia Solidária, instância responsável pela:</p>
+            <Alinea id="art18_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>indicação das diretrizes e prioridades da Política Nacional de Economia Solidária ao Conselho Nacional de Economia Solidária (CNES);</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>avaliação da Política Nacional de Economia Solidária e de seus instrumentos; e</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>avaliação do Sinaes;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art18_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o Conselho Nacional de Economia Solidária (CNES), órgão de articulação e coordenação das políticas e ações desenvolvidas pelo Sinaes, responsável pelas seguintes atribuições:</p>
+            <Alinea id="art18_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>convocar a Conferência Nacional de Economia Solidária, com periodicidade não superior a quatro anos, bem como definir seus parâmetros de composição, organização e funcionamento, por meio de regulamento próprio;</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>elaborar e propor ao Poder Executivo federal, considerando as deliberações da Conferência Nacional de Economia Solidária, a Política Nacional de Economia Solidária e o Plano Nacional de Economia Solidária, incluindo-se requisitos orçamentários para sua consecução;</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>articular, acompanhar e monitorar, em regime de colaboração com os demais integrantes do Sistema, a implementação e a convergência de ações inerentes à Política Nacional de Economia Solidária e ao Plano Nacional de Economia Solidária;</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>definir, em regimento, os critérios e procedimentos de adesão ao Sinaes;</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc2_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>instituir mecanismos permanentes de articulação com órgãos colegiados congêneres de economia solidária nos Estados, no Distrito Federal e nos Municípios, com a finalidade de promover o diálogo e a convergência das ações que integram o Sinaes;</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc2_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>mobilizar e apoiar entidades da sociedade civil na discussão e na implementação de ações públicas de economia solidária; e</p>
+            
+          </Alinea><Alinea id="art18_cpt_inc2_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>elaborar e propor ao Poder Executivo termos de referência dos programas e ações prioritárias à execução da Política Nacional de Economia Solidária;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art18_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os órgãos da Administração Pública federal responsáveis por desenvolver políticas, programas e ações voltados, total ou parcialmente, à economia solidária;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>os órgãos da Administração Pública de economia solidária dos Estados, do Distrito Federal e dos Municípios; e</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>as organizações da sociedade civil e empreendimentos econômicos solidários que manifestem interesse na adesão e que respeitem os critérios, os princípios e as diretrizes do Sinaes.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>A atuação dos conselheiros, efetivos e suplentes, no CNES, é considerada serviço de natureza relevante e não será remunerada.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Fica o Ministério do Trabalho, por meio da Secretaria Nacional de Economia Solidária, responsável pela implementação da Política Nacional de Economia Solidária.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>A Conferência Nacional de Economia Solidária será precedida de conferências estaduais, distrital, territoriais ou municipais, que deverão ser convocadas e organizadas pelos órgãos e entidades congêneres nos Estados, no Distrito Federal e nos Municípios, e, na falta destes, por órgão descentralizado do governo federal na região, nas quais serão escolhidos os delegados à Conferência Nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Fica a União autorizada a criar o Fundo Nacional de Economia Solidária (FNAES), de natureza contábil, conforme regulamentação própria, com o objetivo de centralizar e gerenciar recursos orçamentários para os programas estruturados no âmbito do Sistema Nacional de Economia Solidária, destinados a implementar a Política Nacional de Economia Solidária prevista nesta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador> DISPOSIÇÕES FINAIS</NomeAgrupador>
+            <Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Os empreendimentos econômicos solidários formalizados juridicamente serão classificados como sociedades de fins econômicos sem finalidade lucrativa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

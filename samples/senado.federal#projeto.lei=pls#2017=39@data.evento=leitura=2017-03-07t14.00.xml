@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;39@data.evento;leitura;2017-03-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 39 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1972-12-07;5851">Lei nº 5.851, de 7 de dezembro de 1972</span>, para prever que constituirão recursos da Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) os oriundos do licenciamento para exploração comercial das tecnologias, dos produtos, dos cultivares protegidos, dos serviços e dos direitos de uso da marca.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1972-12-07;5851!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1972-12-07;5851!art4">art. 4º da Lei nº 5.851, de 7de dezembro de 1972</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1972-12-07;5851" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1972-12-07;5851 -> MatchByBase(urn:lex:br:federal:lei:1972-12-07;5851,1972,Some((12,7)),Map(art4_cpt_inc11 -> PrefixMatch(URN(1972,Some((12,7)),art4,urn:lex:br:federal:lei:1972-12-07;5851!art4),art4_cpt_inc11), art4_par3 -> PrefixMatch(URN(1972,Some((12,7)),art4,urn:lex:br:federal:lei:1972-12-07;5851!art4),art4_par3), art4 -> ExactMatch(URN(1972,Some((12,7)),art4,urn:lex:br:federal:lei:1972-12-07;5851!art4)), art4_cpt -> PrefixMatch(URN(1972,Some((12,7)),art4,urn:lex:br:federal:lei:1972-12-07;5851!art4),art4_cpt), art4_par1 -> PrefixMatch(URN(1972,Some((12,7)),art4,urn:lex:br:federal:lei:1972-12-07;5851!art4),art4_par1), art4_par4 -> PrefixMatch(URN(1972,Some((12,7)),art4,urn:lex:br:federal:lei:1972-12-07;5851!art4),art4_par4), art4_par2 -> PrefixMatch(URN(1972,Some((12,7)),art4,urn:lex:br:federal:lei:1972-12-07;5851!art4),art4_par2)))))-->
+              <Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art4_cpt_omi1"/><Inciso xlink:href="art4_cpt_inc11" id="art1_cpt_alt1_art4_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>os recursos oriundos do licenciamento para exploração comercial das tecnologias, dos produtos, inclusive cultivares protegidos, dos serviços e dos direitos de uso da marca.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art4_par1" id="art1_cpt_alt1_art4_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par2" id="art1_cpt_alt1_art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os licenciamentos previstos no inciso XI deste artigo ocorrerão mediante dispensa de licitação, e qualquer interessado que atender aos critérios de habilitação estabelecidos pela Embrapa poderá celebrar contrato de licenciamento com a empresa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par3" id="art1_cpt_alt1_art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O licenciamento para o uso da marca só será permitido quando vinculado a uma tecnologia, produto ou serviço desenvolvidos pela Embrapa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par4" id="art1_cpt_alt1_art4_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os recursos arrecadados com os licenciamentos serão integralmente revertidos ao fomento da atividade de pesquisa e desenvolvimento realizada pela Embrapa.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

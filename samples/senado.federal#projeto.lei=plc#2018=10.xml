@@ -1,0 +1,154 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;10"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 10 DE 2018</Epigrafe>
+      <Ementa id="ementa">Disciplina o aproveitamento de carcaças de animais de produção e de outros resíduos animais no campo para fins agropecuários e industriais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei disciplina o aproveitamento de carcaças de animais de produção mortos e de outros resíduos animais para fins agropecuários e industriais e estabelece requisitos mínimos para a gestão desses resíduos.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os resíduos de que trata o caput deste artigo são compostos pelas carcaças de animais mortos em condições usuais, com exceção das mortes causadas por doenças animais de notificação obrigatória ao serviço veterinário oficial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os animais mortos devem ser recolhidos o mais breve possível, antes do início da autólise, e direcionados a locais adequados para o recebimento.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Deve-se assegurar que as carcaças e os demais resíduos animais sejam obtidos e estejam em condições apropriadas para sua destinação à fábrica de processamento de resíduos orgânicos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Fica autorizado o estabelecimento de entrepostos destinados ao transbordo do material, não permitida a manipulação do material coletado.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O entreposto a que se refere o caput deste artigo deverá adequar-se à regulamentação específica dos órgãos federal e estaduais de inspeção e de defesa sanitária animal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>É de responsabilidade das fábricas de processamento de resíduos orgânicos o treinamento dos funcionários para o manuseio correto das carcaças nos estabelecimentos rurais participantes do sistema.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O transporte das carcaças e dos outros resíduos animais para a fábrica de processamento de resíduos orgânicos será realizado em veículos cobertos, vedados e identificados, de forma a se evitar o derramamento de líquidos.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O veículo deverá ser periodicamente inspecionado quanto à sua integridade, para evitar vazamentos ou outras contaminações.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os motoristas devem estar adequadamente uniformizados e os operadores devem estar treinados para higienização dos contêineres após transporte e descarregamento de carcaças e outros resíduos nas fábricas de processamento de resíduos orgânicos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O processo de reciclagem deve gerar produtos sólidos, gordura e água, podendo os sólidos e as gorduras ser utilizados como ingredientes para a fabricação de adubos, biodiesel, produtos de higiene e limpeza e para a indústria química, devendo a água e os outros resíduos seguir para o sistema de tratamento de efluentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>As fábricas de processamento de resíduos orgânicos devem ser inspecionadas pelo Serviço de Inspeção Federal (SIF), pelo Serviço de Inspeção Estadual (SIE), ou pelo Serviço de Inspeção Municipal (SIM).</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os Serviços de que trata o caput deste artigo deverão trabalhar de forma articulada e poderão delegar a competência para a inspeção a profissionais qualificados.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Ministério da Agricultura, Pecuária e Abastecimento poderá realizar auditorias com o objetivo de avaliar a conformidade dos controles e das atividades efetuados pelo SIE e SIM.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

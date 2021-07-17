@@ -1,0 +1,370 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:congresso.nacional:medida.provisoria;mpv:LEXML_URN_ID"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">MEDIDA PROVISÓRIA Nº LEXML_EPIGRAFE_NUMERO de LEXML_EPIGRAFE_DATA</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre medidas de assistência emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre as medidas de assistência emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-07-22;9474--><!--Link: urn:lex:br:federal:lei:2017-05-24;13445-->
+            
+            
+            <p>As ações desenvolvidas no âmbito desta Lei observarão os acordos internacionais concernentes à matéria, dos quais a República Federativa do Brasil seja parte, bem como os dispositivos das <span xlink:href="urn:lex:br:federal:lei:1997-07-22;9474">Leis nºs 9.474, de 22 de julho de 1997</span>, e <span xlink:href="urn:lex:br:federal:lei:2017-05-24;13445">13.445, de 24 de maio de 2017</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Para os fins do disposto nesta Lei, considera-se:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>situação de vulnerabilidade: condição emergencial e urgente que evidencie a fragilidade da pessoa no âmbito da proteção social, decorrente de fluxo migratório desordenado provocado por crise humanitária;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>proteção social: conjunto de políticas públicas estruturadas para prevenir e remediar situações de vulnerabilidade social e de risco pessoal que impliquem violação dos direitos humanos; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>crise humanitária: situação de grave ou iminente instabilidade institucional, de conflito armado, de calamidade de grande proporção, de desastre ambiental ou de grave e generalizada violação de direitos humanos ou de direito internacional humanitário que cause fluxo migratório desordenado em direção a região do território nacional.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária, no território nacional, será reconhecida por ato do Presidente da República.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>As medidas de assistência emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária têm o objetivo de articular ações integradas a serem desempenhadas pelos governos federal, estaduais, distrital e municipais, por meio de adesão a instrumento de cooperação federativa, no qual serão estabelecidas as responsabilidades dos entes federativos envolvidos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>As medidas de assistência emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária visam à ampliação das políticas de:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>proteção social;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>atenção à saúde;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>oferta de atividades educacionais;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>formação e qualificação profissional;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>garantia dos direitos humanos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>proteção dos direitos das mulheres, das crianças, dos adolescentes, dos idosos, das pessoas com deficiência, da população indígena, das comunidades tradicionais atingidas e de outros grupos sociais vulneráveis;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>oferta de infraestrutura e saneamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>segurança pública e fortalecimento do controle de fronteiras;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>logística e distribuição de insumos; e</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>mobilidade, contemplados a distribuição e a interiorização no território nacional, o repatriamento e o reassentamento das pessoas mencionadas no caput deste artigo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art5_par1">
+            <!--Link: urn:lex:br:federal:lei:1990-09-19;8080-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Caberá à Comissão Intergestores Tripartite de que trata a <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080">Lei nº 8.080, de 19 de setembro de 1990</span>, no tocante à ampliação das políticas de que trata o inciso II do caput deste artigo, pactuar as diretrizes, o financiamento e as questões operacionais que envolvam a ampliação da demanda por serviços de saúde, mediante proposta ao Ministério da Saúde de valores per capita em cada bloco de financiamento do Sistema Único de Saúde compatíveis com as necessidades dos Estados e dos Municípios receptores do fluxo migratório.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            <!--Link: urn:lex:br:federal:lei:2007-06-20;11494-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caberá à Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade de que trata a <span xlink:href="urn:lex:br:federal:lei:2007-06-20;11494">Lei nº 11.494, de 20 de junho de 2007</span>, no tocante à ampliação das políticas de que trata o inciso III do caput deste artigo, revisar as ponderações aplicáveis entre diferentes etapas, modalidades e tipos de estabelecimento de ensino da educação básica, o limite proporcional de apropriação de recursos pelas diferentes etapas, modalidades e tipos de estabelecimento de ensino da educação básica e a parcela da complementação da União a ser distribuída para os fundos por meio de programas direcionados à melhoria da qualidade da educação básica, bem como respectivos critérios de distribuição.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No âmbito da administração pública federal, a promoção das políticas de que trata o caput deste artigo ocorrerá de forma integrada entre os Ministérios competentes, que poderão valer-se, para isso, da celebração de:</p>
+            <Inciso id="art5_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>acordos de cooperação ou instrumentos congêneres com organismos internacionais; e</p>
+            
+          </Inciso><Inciso id="art5_par3_inc2">
+            <!--Link: urn:lex:br:federal:lei:2014-07-31;13019-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>acordos de cooperação, termos de fomento ou termos de colaboração com organizações da sociedade civil que desenvolvam atividades relevantes na defesa dos direitos dos migrantes, em especial dos imigrantes e refugiados, observado o disposto na <span xlink:href="urn:lex:br:federal:lei:2014-07-31;13019">Lei nº 13.019, de 31 de julho de 2014</span>.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A implantação das medidas relacionadas à política de mobilidade de que trata o inciso X do caput deste artigo observará a necessidade da anuência prévia das pessoas atingidas em estabelecer-se em outro ponto do território nacional, retornar ao seu país de origem ou estabelecer-se em um terceiro país, conforme o caso.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Para fins de implantação das medidas de distribuição e interiorização no território nacional prescritas no inciso X do caput deste artigo, o governo federal, em colaboração com os Estados, o Distrito Federal e os Municípios, poderá propor cotas de migrantes a serem absorvidas por unidades da Federação, a partir da realização de prévia avaliação técnica da capacidade de absorção do ente federativo, observando-se as condições específicas das pessoas a serem acolhidas, como a existência de vínculo familiar ou empregatício no País.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Fica instituído o Comitê Federal de Assistência Emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária, e sua composição, suas competências e seu funcionamento serão definidos em regulamento.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Além das competências definidas em regulamento, caberá ao Comitê de que trata o caput deste artigo:</p>
+            <Inciso id="art6_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estabelecer as diretrizes e as ações prioritárias da administração pública federal para a execução das medidas de assistência emergencial;</p>
+            
+          </Inciso><Inciso id="art6_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>representar a União na assinatura do instrumento de cooperação federativa de que trata o art. 4º desta Lei, a ser firmado com os entes federativos que queiram aderir às medidas de assistência emergencial previstas nesta Lei; e</p>
+            
+          </Inciso><Inciso id="art6_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>promover e articular a participação das entidades e organizações da sociedade civil na execução das medidas de assistência emergencial.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os órgãos e as entidades da administração pública federal obedecerão às diretrizes e priorizarão as ações definidas pelo Comitê de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Estado ou o Município receptor de fluxo migratório poderá, quando for convidado, enviar representante para participar, com direito a voz, das reuniões do Comitê de que trata o caput deste artigo destinadas a discutir medidas de assistência emergencial a serem implementadas em seu território.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As organizações da sociedade civil que desenvolvam atividades relevantes na defesa dos direitos dos migrantes, em especial dos imigrantes e refugiados, poderão participar, com direito a voz, das reuniões do Comitê de que trata o caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Em razão do caráter emergencial das medidas de assistência de que trata esta Lei, os órgãos do governo federal priorizarão os procedimentos e as formas de transferências de recursos e de contratação mais céleres previstos em lei.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As transferências de que trata o caput deste artigo serão realizadas para conta específica do instrumento de cooperação firmado, e os recursos correspondentes somente poderão ser utilizados para pagamento de despesas relacionadas às medidas de assistência emergencial previstas nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            <!--Link: urn:lex:br:federal:lei:1993-06-21;8666!art24_cpt_inc4-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As contratações a serem realizadas por Estados e Municípios receptores de fluxo migratório poderão ocorrer de forma direta, nos termos do <span xlink:href="urn:lex:br:federal:lei:1993-06-21;8666!art24_cpt_inc4">inciso IV do art. 24 da Lei n° 8.666, de 21 de junho de 1993</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>As ações realizadas em razão das medidas de assistência emergencial, enquanto durar a situação que desencadeou a emergência, correrão à conta dos orçamentos dos órgãos e das entidades participantes.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A execução das ações previstas no caput deste artigo fica sujeita às disponibilidades orçamentárias e financeiras anuais.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os créditos adicionais abertos em razão do disposto no § 1º deste artigo serão exclusivamente destinados à execução das medidas de assistência emergencial e das ações descritas no art. 5º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os recursos de que trata este artigo deverão ser aplicados prioritariamente nas ações e serviços de saúde e segurança pública.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Fica a União autorizada a aumentar o repasse de recursos para os fundos estaduais e municipais de saúde, de educação e de assistência social dos entes afetados, na forma fixada pelo Poder Executivo federal, após a aprovação do crédito orçamentário para essa finalidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>As informações relativas à execução de recursos destinados a medidas de assistência emergencial previstas nesta Lei receberão ampla transparência, com obrigatoriedade de sua divulgação em sítios oficiais da rede mundial de computadores.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Qualquer cidadão poderá representar aos órgãos de controle interno e externo e ao Ministério Público contra irregularidades relacionadas a medidas de assistência emergencial previstas nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>A União poderá prestar cooperação humanitária, sob a coordenação do Ministério das Relações Exteriores, a fim de apoiar países ou populações que se encontrem em estado de conflito armado, de desastre natural, de calamidade pública, de insegurança alimentar e nutricional ou em outra situação de emergência ou de vulnerabilidade, inclusive grave ameaça à vida, à saúde e aos direitos humanos ou humanitários de sua população.</p>
+            
+          </Caput><Paragrafo id="art11_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Poder Executivo regulamentará a prestação de cooperação humanitária, inclusive a participação dos órgãos da administração pública federal em suas ações.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

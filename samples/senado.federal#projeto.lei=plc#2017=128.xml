@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;128"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 128 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre os serviços comerciais de tosa e banho em cães e gatos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei regula os serviços de tosa e banho em cães e gatos realizados em estabelecimentos comerciais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A tosa e o banho somente poderão ser realizados em estabelecimentos comerciais que possibilitem aos clientes a visão total da execução dos serviços.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Os estabelecimentos comerciais que prestem os serviços de tosa e banho em cães e gatos deverão instalar sistema de câmeras que filme os serviços prestados e que permita o acompanhamento dos serviços pelos clientes, por meio da rede mundial de computadores (internet), nas localidades onde houver disponibilidade técnica para sua realização.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A instalação dos sistemas de câmeras deverá ocorrer no prazo de dois anos, a contar da publicação desta Lei, e as gravações deverão ser armazenadas por seis meses após a realização dos serviços.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-02-12;9605!art72-->
+            
+            
+            <p>O não cumprimento das normas estabelecidas nesta Lei sujeitará o infrator às sanções estabelecidas no <span xlink:href="urn:lex:br:federal:lei:1998-02-12;9605!art72">art. 72 da Lei nº 9.605, de 12 de fevereiro de 1998</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

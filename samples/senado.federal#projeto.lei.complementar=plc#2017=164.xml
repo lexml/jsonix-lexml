@@ -1,0 +1,124 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;plc:2017;164"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 164 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui o Programa Especial de Regularização Tributária das Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2006-12-14;123!art21_par15-->
+            
+            
+            <p>Fica instituído o Programa Especial de Regularização Tributária das Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN), relativo aos débitos de que trata o <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123!art21_par15">§ 15 do art. 21 da Lei Complementar nº 123, de 14 de dezembro de 2006</span>, observadas as seguintes condições:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pagamento em espécie de, no mínimo, 5% (cinco por cento) do valor da dívida consolidada, sem reduções, em até cinco parcelas mensais e sucessivas, e o restante:</p>
+            <Alinea id="art1_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>liquidado integralmente, em parcela única, com redução de 90% (noventa por cento) dos juros de mora, 70% (setenta por cento) das multas de mora, de ofício ou isoladas e 100% (cem por cento) dos encargos legais, inclusive honorários advocatícios;</p>
+            
+          </Alinea><Alinea id="art1_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>parcelado em até cento e quarenta e cinco parcelas mensais e sucessivas, com redução de 80% (oitenta por cento) dos juros de mora, 50% (cinquenta por cento) das multas de mora, de ofício ou isoladas e 100% (cem por cento) dos encargos legais, inclusive honorários advocatícios; ou</p>
+            
+          </Alinea><Alinea id="art1_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>parcelado em até cento e setenta e cinco parcelas mensais e sucessivas, com redução de 50% (cinquenta por cento) dos juros de mora, 25% (vinte e cinco por cento) das multas de mora, de ofício ou isoladas e 100% (cem por cento) dos encargos legais, inclusive honorários advocatícios;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o valor mínimo das prestações será de R$ 300,00 (trezentos reais), exceto no caso dos Microempreendedores Individuais (MEIs), cujo valor será definido pelo Comitê Gestor do Simples Nacional (CGSN).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os interessados poderão aderir ao Pert-SN em até noventa dias após a entrada em vigor desta Lei Complementar, ficando suspensos os efeitos das notificações - Atos Declaratórios Executivos (ADE) - efetuadas até o término deste prazo.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Poderão ser parcelados na forma do caput deste artigo os débitos vencidos até a competência do mês de novembro de 2017 e apurados na forma do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O disposto neste artigo aplica-se aos créditos constituídos ou não, com exigibilidade suspensa ou não, parcelados ou não e inscritos ou não em dívida ativa do respectivo ente federativo, mesmo em fase de execução fiscal já ajuizada.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O pedido de parcelamento implicará desistência compulsória e definitiva de parcelamento anterior, sem restabelecimento dos parcelamentos rescindidos caso não seja efetuado o pagamento da primeira prestação.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O valor de cada prestação mensal, por ocasião do pagamento, será acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par6">
+            <!--Link: urn:lex:br:federal:lei.complementar:2006-12-14;123!art21_par15--><!--Link: urn:lex:br:federal:lei.complementar:2006-12-14;123!art21_par24--><!--Link: urn:lex:br:federal:lei.complementar:2016-10-27;155!art9-->
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Poderão ainda ser parcelados, na forma e nas condições previstas nesta Lei Complementar, os débitos parcelados de acordo com os <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123!art21_par15">§§ 15</span> a <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123!art21_par24">24 do art. 21 da Lei Complementar n° 123, de 14 de dezembro de 2006</span>, e o <span xlink:href="urn:lex:br:federal:lei.complementar:2016-10-27;155!art9">art. 9° da Lei Complementar n° 155, de 27 de outubro de 2016</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Compete ao CGSN a regulamentação do parcelamento disposto neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art5_cpt_inc2--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art14--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art17--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6-->
+            
+            
+            <p>O Poder Executivo federal, com vistas ao cumprimento do disposto no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art5_cpt_inc2">inciso II do caput do art. 5°</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art14">nos arts. 14</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art17">17 da Lei Complementar n° 101, de 4 de maio de 2000</span>, estimará o montante da renúncia fiscal decorrente desta Lei Complementar e o incluirá no demonstrativo a que se refere o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6">§ 6° do art. 165 da Constituição Federal</span>, que acompanhará o projeto da lei orçamentária cuja apresentação se der após a publicação desta Lei Complementar.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

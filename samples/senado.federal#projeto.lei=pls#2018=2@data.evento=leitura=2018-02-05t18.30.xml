@@ -1,0 +1,190 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;2@data.evento;leitura;2018-02-05t18.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 2 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> – Código Penal; as <span xlink:href="urn:lex:br:federal:lei:1998-03-03;9613">Leis nº 9.613, de 3 de março de 1998</span>, e nº <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343">11.343, de 23 de agosto de 2006</span>, e a <span xlink:href="urn:lex:br:federal:lei.complementar:1994-01-07;29">Lei Complementar nº 29, de 7 de janeiro de 1994</span>, e revoga dispositivos da <span xlink:href="urn:lex:br:federal:lei:1986-12-19;7560">Lei nº 7.560, de 19 de dezembro de 1986</span>, para destinar ao Fundo Nacional de Saúde o produto do perdimento de bens e valores em decorrência de condenação por crime contra a Administração Pública ou tráfico ilícito de drogas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art91-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art91">art. 91 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> – Código Penal, passa viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art91 -> ExactMatch(URN(1940,Some((12,7)),art91,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art91)), art91_cpt -> PrefixMatch(URN(1940,Some((12,7)),art91,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art91),art91_cpt), art91_par3 -> PrefixMatch(URN(1940,Some((12,7)),art91,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art91),art91_par3)))))-->
+              <Artigo xlink:href="art91" id="art1_cpt_alt1_art91" abreAspas="s">
+            
+            
+            <Rotulo>Art. 91.</Rotulo>
+            
+            <Caput xlink:href="art91_cpt" id="art1_cpt_alt1_art91_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art91_omi1"/><Paragrafo xlink:href="art91_par3" id="art1_cpt_alt1_art91_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Nos casos de crimes contra a Administração Pública ou tráfico ilícito de drogas, o perdimento previsto no inciso II deste artigo se dará em favor do Fundo Nacional de Saúde.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-03-03;9613!art7-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-03-03;9613!art7">art. 7º da Lei nº 9.613, de 3 de março de 1998</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-03-03;9613" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-03-03;9613 -> MatchByBase(urn:lex:br:federal:lei:1998-03-03;9613,1998,Some((3,3)),Map(art7 -> ExactMatch(URN(1998,Some((3,3)),art7,urn:lex:br:federal:lei:1998-03-03;9613!art7)), art7_cpt -> PrefixMatch(URN(1998,Some((3,3)),art7,urn:lex:br:federal:lei:1998-03-03;9613!art7),art7_cpt), art7_par3 -> PrefixMatch(URN(1998,Some((3,3)),art7,urn:lex:br:federal:lei:1998-03-03;9613!art7),art7_par3)))))-->
+              <Artigo xlink:href="art7" id="art2_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art2_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art7_omi1"/><Paragrafo xlink:href="art7_par3" id="art2_cpt_alt1_art7_par3" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:decreto:1969-07-24;64867-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se a infração penal antecedente consistir em crime contra a Administração Pública ou tráfico ilícito de drogas, o perdimento previsto no inciso I deste artigo se dará em favor do Fundo Nacional de Saúde, instituído pelo <span xlink:href="urn:lex:br:federal:decreto:1969-07-24;64867">Decreto nº 64.867, de 24 de julho de 1969</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-08-23;11343!art62--><!--Link: urn:lex:br:federal:lei:2006-08-23;11343!art63-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343!art62">arts. 62</span> e <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343!art63">63 da Lei nº 11.343, de 23 de agosto de 2006</span>, passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-08-23;11343" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-08-23;11343 -> MatchByBase(urn:lex:br:federal:lei:2006-08-23;11343,2006,Some((8,23)),Map(art62 -> ExactMatch(URN(2006,Some((8,23)),art62,urn:lex:br:federal:lei:2006-08-23;11343!art62)), art62_par9 -> PrefixMatch(URN(2006,Some((8,23)),art62,urn:lex:br:federal:lei:2006-08-23;11343!art62),art62_par9), art62_cpt -> PrefixMatch(URN(2006,Some((8,23)),art62,urn:lex:br:federal:lei:2006-08-23;11343!art62),art62_cpt), art63_cpt -> PrefixMatch(URN(2006,Some((8,23)),art63,urn:lex:br:federal:lei:2006-08-23;11343!art63),art63_cpt), art63_par1 -> PrefixMatch(URN(2006,Some((8,23)),art63,urn:lex:br:federal:lei:2006-08-23;11343!art63),art63_par1), art63 -> ExactMatch(URN(2006,Some((8,23)),art63,urn:lex:br:federal:lei:2006-08-23;11343!art63))))))-->
+              <Artigo xlink:href="art62" id="art3_cpt_alt1_art62" abreAspas="s">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput xlink:href="art62_cpt" id="art3_cpt_alt1_art62_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art3_cpt_alt1_art62_omi1"/><Paragrafo xlink:href="art62_par9" id="art3_cpt_alt1_art62_par9">
+            <!--Link: urn:lex:br:federal:decreto:1969-07-24;64867-->
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Realizado o leilão, permanecerá depositada em conta judicial a quantia apurada, até o final da ação penal respectiva, quando será transferida ao Fundo Nacional de Saúde, instituído pelo <span xlink:href="urn:lex:br:federal:decreto:1969-07-24;64867">Decreto nº 64.867, de 24 de julho de 1969</span>, juntamente com os valores de que trata o § 3º deste artigo.</p>
+            
+          </Paragrafo><Omissis id="art3_cpt_alt1_art62_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art63" id="art3_cpt_alt1_art63" abreAspas="s">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput xlink:href="art63_cpt" id="art3_cpt_alt1_art63_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art63_par1" id="art3_cpt_alt1_art63_par1">
+            <!--Link: urn:lex:br:federal:decreto:1969-07-24;64867-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os valores apreendidos em decorrência dos crimes tipificados nesta Lei e que não forem objeto de tutela cautelar, após decretado o seu perdimento em favor da União, serão revertidos diretamente ao Fundo Nacional de Saúde, instituído pelo <span xlink:href="urn:lex:br:federal:decreto:1969-07-24;64867">Decreto nº 64.867, de 24 de julho de 1969</span>.</p>
+            
+          </Paragrafo><Omissis id="art3_cpt_alt1_art63_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:1994-01-07;79!art2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:1994-01-07;79!art2">art. 2º da Lei Complementar nº 79, de 7 de janeiro de 1994</span> passa viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:1994-01-07;79" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:1994-01-07;79 -> MatchByBase(urn:lex:br:federal:lei.complementar:1994-01-07;79,1994,Some((1,7)),Map(art2 -> ExactMatch(URN(1994,Some((1,7)),art2,urn:lex:br:federal:lei.complementar:1994-01-07;79!art2)), art2_cpt -> PrefixMatch(URN(1994,Some((1,7)),art2,urn:lex:br:federal:lei.complementar:1994-01-07;79!art2),art2_cpt), art2_cpt_inc4 -> PrefixMatch(URN(1994,Some((1,7)),art2,urn:lex:br:federal:lei.complementar:1994-01-07;79!art2),art2_cpt_inc4)))))-->
+              <Artigo xlink:href="art2" id="art4_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art4_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art4_cpt_alt1_art2_cpt_omi1"/><Inciso xlink:href="art2_cpt_inc4" id="art4_cpt_alt1_art2_cpt_inc4">
+            <!--Link: urn:lex:br:federal:decreto:1969-07-24;64867-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>recursos confiscados ou provenientes da alienação dos bens perdidos em favor da União Federal, ressalvados os destinados ao Fundo Nacional de Saúde, instituído pelo <span xlink:href="urn:lex:br:federal:decreto:1969-07-24;64867">Decreto nº 64.867, de 24 de julho de 1969</span>, nos termos da legislação penal ou processual penal.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art4_cpt_alt1_art2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:lei:1986-12-19;7560!art2_cpt_inc6--><!--Link: urn:lex:br:federal:lei:1986-12-19;7560!art4-->
+            
+            
+            <p>Ficam revogados o <span xlink:href="urn:lex:br:federal:lei:1986-12-19;7560!art2_cpt_inc6">inciso VI do art. 2º</span> e o <span xlink:href="urn:lex:br:federal:lei:1986-12-19;7560!art4">art. 4º da Lei nº 7.560, de 19 de dezembro de 1986</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

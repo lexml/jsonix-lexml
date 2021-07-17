@@ -1,0 +1,610 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:LEXML_URN_ID"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº LEXML_EPIGRAFE_NUMERO de LEXML_EPIGRAFE_DATA</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o Programa Nacional de Microcrédito Produtivo Orientado (PNMPO); e revoga dispositivos das <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110">Leis nºs 11.110, de 25 de abril de 2005</span>, e <span xlink:href="urn:lex:br:federal:lei:2003-09-11;10735">10.735, de 11 de setembro de 2003</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituído, no âmbito do Ministério do Trabalho, o Programa Nacional de Microcrédito Produtivo Orientado (PNMPO), com objetivo de apoiar e financiar atividades produtivas de empreendedores, principalmente por meio da disponibilização de recursos para o microcrédito produtivo orientado.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>São beneficiárias do PNMPO pessoas naturais e jurídicas empreendedoras de atividades produtivas urbanas e rurais, apresentadas de forma individual ou coletiva.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A renda ou a receita bruta anual para enquadramento dos beneficiários do PNMPO, definidos no § 1º deste artigo, fica limitada ao valor de R$ 200.000,00 (duzentos mil reais).</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para os efeitos do disposto nesta Lei, considera-se microcrédito produtivo orientado o crédito concedido para financiamento das atividades produtivas, cuja metodologia será estabelecida em regulamento, observada a preferência do relacionamento direto com os empreendedores, admitido o uso de tecnologias digitais e eletrônicas que possam substituir o contato presencial.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O primeiro contato com os empreendedores, para fins de orientação e obtenção de crédito, dar-se-á de forma presencial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São recursos destinados ao PNMPO aqueles provenientes:</p>
+            <Inciso id="art2_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:1990-04-11;8019!art9-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>do Fundo de Amparo ao Trabalhador (FAT), nos termos estabelecidos no <span xlink:href="urn:lex:br:federal:lei:1990-04-11;8019!art9">art. 9º da Lei nº 8.019, de 11 de abril de 1990</span>;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2003-09-11;10735!art1-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>da parcela dos recursos de depósitos à vista destinados ao microcrédito, de que trata o <span xlink:href="urn:lex:br:federal:lei:2003-09-11;10735!art1">art. 1º da Lei nº 10.735, de 11 de setembro de 2003</span>;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>do orçamento geral da União;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali3-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>dos fundos constitucionais de financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali3">alínea c do inciso I do caput do art. 159 da Constituição Federal</span>, aplicáveis no âmbito de suas regiões; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>de outras fontes alocadas para o PNMPO.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São entidades autorizadas a operar ou participar do PNMPO, respeitadas as operações a elas permitidas, nos termos da legislação e da regulamentação em vigor:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Caixa Econômica Federal;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Banco Nacional de Desenvolvimento Econômico e Social;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>bancos comerciais;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>bancos múltiplos com carteira comercial;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>bancos de desenvolvimento;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>cooperativas centrais de crédito;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>cooperativas singulares de crédito;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>agências de fomento;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>sociedades de crédito ao microempreendedor e à empresa de pequeno porte;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>organizações da sociedade civil de interesse público;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>agentes de crédito constituídos como pessoas jurídicas, nos termos da Classificação Nacional de Atividades Econômicas (CNAE);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>fintechs, assim entendidas as sociedades que prestam serviços financeiros, inclusive operações de crédito, por meio de plataformas eletrônicas.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As instituições elencadas nos incisos I a XII do caput deste artigo deverão estimular e promover a participação dos seus respectivos correspondentes no PNMPO.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As instituições financeiras públicas federais que se enquadrem nas disposições do caput deste artigo poderão atuar no PNMPO por intermédio de sociedade da qual participem direta ou indiretamente, ou por meio de convênio ou contrato com quaisquer das instituições referidas nos incisos V a XII do caput deste artigo, desde que tais entidades tenham por objeto prestar serviços necessários à contratação e ao acompanhamento de operações de microcrédito produtivo orientado e desde que esses serviços não representem atividades privativas de instituições financeiras.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para o atendimento ao disposto no § 1º deste artigo, as instituições financeiras públicas federais, diretamente ou por intermédio de suas subsidiárias, poderão constituir sociedade ou adquirir participação em sociedade sediada no País, vedada a aquisição das instituições mencionadas no inciso IX do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As organizações da sociedade civil de interesse público e os agentes de crédito constituídos como pessoas jurídicas, de que tratam, respectivamente, os incisos X e XI do caput deste artigo, devem habilitar-se no Ministério do Trabalho para realizar operações no âmbito do PNMPO, nos termos estabelecidos no inciso II do caput do art. 6º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As entidades previstas nos incisos V a XII do caput deste artigo poderão prestar os seguintes serviços, sob responsabilidade das demais entidades previstas no caput deste artigo:</p>
+            <Inciso id="art3_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a recepção e o encaminhamento de propostas de abertura de contas de depósitos à vista e de conta de poupança;</p>
+            
+          </Inciso><Inciso id="art3_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a recepção e o encaminhamento de propostas de emissão de instrumento de pagamento para movimentação de moeda eletrônica aportada em conta de pagamento do tipo pré-paga;</p>
+            
+          </Inciso><Inciso id="art3_par5_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a elaboração e a análise de propostas de crédito e o preenchimento de ficha cadastral e de instrumentos de crédito, com a conferência da exatidão das informações prestadas pelo proponente, à vista de documentação competente;</p>
+            
+          </Inciso><Inciso id="art3_par5_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a cobrança não judicial;</p>
+            
+          </Inciso><Inciso id="art3_par5_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a realização de visitas de acompanhamento, de orientação e de qualificação, e a elaboração de laudos e relatórios; e</p>
+            
+          </Inciso><Inciso id="art3_par5_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a digitalização e a guarda de documentos, na qualidade de fiel depositário.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art3_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Todas as instituições listadas no caput deste artigo poderão, ainda, prestar os seguintes serviços com vistas à ampliação do alcance do PNMPO:</p>
+            <Inciso id="art3_par6_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a promoção e divulgação do PNMPO em áreas habitadas e frequentadas por população de baixa renda;</p>
+            
+          </Inciso><Inciso id="art3_par6_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a busca ativa de público-alvo para adesão ao PNMPO.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art3_par7">
+            <!--Link: urn:lex:br:federal:lei:1990-04-11;8019!art9-->
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os recursos do FAT, no âmbito do PNMPO, serão operados pelas instituições financeiras oficiais federais, mediante os depósitos especiais de que trata o <span xlink:href="urn:lex:br:federal:lei:1990-04-11;8019!art9">art. 9º da Lei nº 8.019, de 11 de abril de 1990</span>, bem como pelas entidades previstas nos incisos V a XII do caput deste artigo, nesse segundo caso com prestação de garantia por meio de títulos do Tesouro Nacional ou outra a ser definida pelo órgão gestor do FAT, nas condições estabelecidas pelo Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat).</p>
+            
+          </Paragrafo><Paragrafo id="art3_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>As taxas de juros efetivadas nas operações de microcrédito com recursos oriundos do FAT serão limitadas à taxa de juros de 2% (dois por cento) ao mês, vedada a cobrança de qualquer outra despesa, à exceção da Taxa de Abertura de Crédito de 3% (três por cento) sobre o valor do crédito, a ser cobrada uma única vez.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O Conselho Monetário Nacional (CMN), o Codefat e os conselhos deliberativos dos fundos constitucionais de financiamento disciplinarão, no âmbito de suas competências, as condições:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>de repasse de recursos e de aquisição de operações de crédito das instituições financeiras operadoras; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de financiamento aos tomadores finais dos recursos, podendo estabelecer estratificações que priorizem e estimulem os segmentos de mais baixa renda entre os beneficiários do PNMPO.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            <!--Link: urn:lex:br:federal:lei:1990-04-11;8019!art9-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No caso dos recursos de que trata o inciso I do caput do art. 2º desta Lei, o Codefat poderá estabelecer condições diferenciadas de depósitos especiais de que trata o <span xlink:href="urn:lex:br:federal:lei:1990-04-11;8019!art9">art. 9º da Lei nº 8.019, de 11 de abril de 1990</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>As operações de crédito no âmbito do PNMPO poderão contar com garantias, para as quais será admitido o uso, em conjunto ou isoladamente, de aval, inclusive o solidário, de contrato de fiança, de alienação fiduciária ou de outras modalidades e formas alternativas de garantias.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            <!--Link: urn:lex:br:federal:lei:1999-11-23;9872-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O cumprimento de operações de crédito no âmbito do PNMPO poderá ser assegurado por sistemas de garantias de crédito públicos ou privados inclusive do Fundo de Aval para a Geração de Emprego e Renda (Funproger), instituído pela <span xlink:href="urn:lex:br:federal:lei:1999-11-23;9872">Lei nº 9.872, de 23 de novembro de 1999</span>, e do Fundo de Aval às Micro e Pequenas Empresas (Fampe), do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae).</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Fica vedado às instituições financeiras, cumpridos os requisitos necessários à concessão do empréstimo, utilizar a condição de pessoa com idade igual ou superior a sessenta anos como critério para indeferir empréstimo ao tomador final.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Ao Ministério do Trabalho compete:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>celebrar convênios, parcerias, acordos, ajustes e outros instrumentos de cooperação técnico-científica, que objetivem o aprimoramento da atuação das entidades de que trata o art. 3º desta Lei;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estabelecer os requisitos para a habilitação das entidades de que tratam os incisos X e XI do caput do art. 3º desta Lei, entre os quais deverão constar o cadastro e, quando se tratar de organizações da sociedade civil de interesse público, o termo de compromisso;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>desenvolver e implementar instrumentos de avaliação do PNMPO e de monitoramento das entidades de que trata o art. 3º desta Lei; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>publicar em seu sítio eletrônico oficial, no primeiro quadrimestre de cada ano, relatório de efetividade que trate exclusivamente da performance do PNMPO no exercício anterior.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Ficam criadas as seguintes instâncias no âmbito do PNMPO:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Conselho Consultivo do PNMPO, órgão de natureza consultiva e propositiva, composto por representantes de órgãos e de entidades da União, com a finalidade de propor políticas e ações de fortalecimento e expansão do Programa; e</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Fórum Nacional de Microcrédito, com a participação de órgãos federais competentes e entidades representativas do setor, com o objetivo de promover o contínuo debate entre as entidades vinculadas ao segmento.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Fórum Nacional de Microcrédito será composto por um representante, titular e suplente, dos seguintes órgãos e entidades, entre outros previstos por decreto:</p>
+            <Inciso id="art7_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Ministério do Trabalho, que o presidirá;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Ministério da Fazenda;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Ministério do Desenvolvimento Social;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Ministério da Indústria, Comércio Exterior e Serviços;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Ministério do Planejamento, Desenvolvimento e Gestão;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>Ministério da Integração Nacional;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>Secretaria de Governo da Presidência da República;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>Banco Central do Brasil;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>Banco Nacional de Desenvolvimento Econômico e Social;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>Caixa Econômica Federal;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>Banco do Brasil S.A.;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>Banco do Nordeste do Brasil S.A.;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>Banco da Amazônia S.A;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>Casa Civil da Presidência da República;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>Instituto Nacional de Colonização e Reforma Agrária.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Poderão ser convidadas a participar do Fórum Nacional de Microcrédito as seguintes entidades:</p>
+            <Inciso id="art7_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Fórum Nacional de Secretarias Estaduais do Trabalho (Fonset);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Associação Brasileira de Entidades Operadoras de Microcrédito e Microfinanças (ABCRED);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Organização das Cooperativas do Brasil (OCB);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Associação Brasileira das Sociedades de Microcrédito (ABSCM);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>Associação Brasileira de Desenvolvimento (ABDE);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>Federação Brasileira de Bancos (Febraban);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>União Nacional das Organizações Cooperativistas Solidárias (Unicopas);</p>
+            
+          </Inciso><Inciso id="art7_par2_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>Fórum Brasileiro de Economia Solidária (FBES).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Fórum Nacional de Microcrédito poderá convidar outros representantes para participar de suas reuniões.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As proposições do Conselho Consultivo do PNMPO não vinculam a atuação do CMN, do Codefat e dos conselhos dos fundos constitucionais de financiamento.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A participação nas instâncias do PNMPO será considerada prestação de serviço público relevante, não remunerada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Ficam revogados:</p>
+            <Inciso id="art8_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art5--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art1--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art6--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art2--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art4-3--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art4-2--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art3--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art4-1--><!--Link: urn:lex:br:federal:lei:2005-04-25;11110!art4-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>os <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art1">arts. 1º</span>, <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art2">2º</span>, <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art3">3º</span>, <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art4">4º</span>, <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art4-1">4º-A</span>, <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art4-2">4º-B</span>, <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art4-3">4º-C</span>, <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art5">5º</span> e <span xlink:href="urn:lex:br:federal:lei:2005-04-25;11110!art6">6º da Lei nº 11.110, de 25 de abril de 2005</span>; e</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2003-09-11;10735-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>os seguintes dispositivos da <span xlink:href="urn:lex:br:federal:lei:2003-09-11;10735">Lei nº 10.735, de 11 de setembro de 2003</span>:</p>
+            <Alinea id="art8_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>alíneas a e c do inciso I do caput do art. 1º; e</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>incisos II e IV do caput do art. 2º.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,172 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;17"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 17 DE 2018</Epigrafe>
+      <Ementa id="ementa">Institui a obrigatoriedade de os estabelecimentos de ensino das redes pública e privada voltados à educação infantil e à educação básica e os estabelecimentos de recreação infantil capacitarem profissionais do seu corpo docente ou funcional em noções básicas de primeiros socorros.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei obriga os estabelecimentos de ensino das redes pública e privada voltados à educação infantil e à educação básica e os estabelecimentos de recreação infantil a promover a capacitação de funcionários em noções básicas de primeiros socorros.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os estabelecimentos de ensino de educação infantil e de educação básica da rede pública, por meio dos respectivos sistemas ou redes de ensino, e os estabelecimentos de ensino e de recreação infantil da rede privada deverão capacitar professores ou funcionários em noções de primeiros socorros.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O curso deverá ser ofertado anualmente e destinar-se-á à capacitação e/ou à reciclagem de parte dos professores e funcionários das unidades de ensino e recreação a que se refere o caput deste artigo, sem prejuízo de suas atividades ordinárias.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A quantidade de profissionais capacitados em cada estabelecimento de ensino ou de recreação será definida em regulamento, guardada a proporção com o tamanho do corpo de funcionários ou com o fluxo de atendimento de crianças e adolescentes no estabelecimento de recreação infantil.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A responsabilidade pela capacitação dos professores e funcionários dos estabelecimentos públicos caberá aos respectivos sistemas ou redes de ensino.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Os cursos de primeiros socorros serão ministrados por entidades municipais ou estaduais especializadas em práticas de auxílio imediato e emergencial à população, no caso dos estabelecimentos públicos, e por profissionais habilitados, no caso dos estabelecimentos privados, e têm por objetivo capacitar os professores e funcionários para identificar e agir preventivamente em situações de emergências e urgências médicas, até que o suporte médico especializado, local ou remoto, torne-se possível.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O conteúdo dos cursos de primeiros socorros básicos ministrados deverá ser condizente com a natureza e a faixa etária do público atendido nos estabelecimentos de ensino ou de recreação.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As unidades de ensino ou de recreação das redes pública e particular deverão dispor de kits de primeiros socorros, conforme orientação das entidades especializadas em atendimento emergencial à população.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Ficam os estabelecimentos de ensino obrigados a afixar em local visível a certificação que comprove a realização da capacitação de que trata esta Lei e o nome dos profissionais capacitados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O não cumprimento das disposições constantes desta Lei implicará a imposição das seguintes penalidades pela autoridade administrativa no âmbito de sua competência:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>notificação de descumprimento da Lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>multa, aplicada em dobro em caso de reincidência; ou</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>em caso de nova reincidência, a cassação do alvará de funcionamento ou da autorização concedida pelo órgão de educação, quando se tratar de creche ou estabelecimento particular de ensino ou de recreação, ou a responsabilização patrimonial do agente público, quando se tratar de creche ou estabelecimento público.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Os estabelecimentos de ensino de que trata esta Lei deverão estar integrados à rede de atenção de urgência e emergência de sua região e estabelecer fluxo de encaminhamento para uma unidade de saúde de referência.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei será regulamentada pelo Poder Executivo para a definição dos critérios para a implementação dos cursos de primeiros socorros previstos nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>As despesas para a execução desta Lei correrão por conta de dotações orçamentárias próprias, incluídas pelo Poder Executivo nas propostas orçamentárias anuais e em seu plano plurianual.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

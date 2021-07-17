@@ -1,0 +1,103 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;107"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 107 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2001-10-17;10295">Lei nº 10.295, de 17 de outubro de 2001</span>, que dispõe sobre a Política Nacional de Conservação e Uso Racional de Energia, para disciplinar o desligamento da iluminação noturna dos edifícios comerciais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-10-17;10295-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:2001-10-17;10295">Lei nº 10.295, de 17 de outubro de 2001</span>, que dispõe sobre a Política Nacional de Conservação e Uso Racional de Energia, para disciplinar o desligamento da iluminação noturna dos edifícios comerciais, com o objetivo de propiciar economia de energia elétrica e diminuição da poluição visual nas cidades.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-10-17;10295!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2001-10-17;10295!art4">art. 4º da Lei nº 10.295, de 17 de outubro de 2001</span>, passa a vigorar acrescido dos seguintes §§ 1º, 2º e 3º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2001-10-17;10295" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2001-10-17;10295 -> MatchByBase(urn:lex:br:federal:lei:2001-10-17;10295,2001,Some((10,17)),Map(art4_par1_inc3 -> PrefixMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4),art4_par1_inc3), art4_par3 -> PrefixMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4),art4_par3), art4 -> ExactMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4)), art4_cpt -> PrefixMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4),art4_cpt), art4_par1 -> PrefixMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4),art4_par1), art4_par1_inc2 -> PrefixMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4),art4_par1_inc2), art4_par1_inc1 -> PrefixMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4),art4_par1_inc1), art4_par2 -> PrefixMatch(URN(2001,Some((10,17)),art4,urn:lex:br:federal:lei:2001-10-17;10295!art4),art4_par2)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art4_par1" id="art2_cpt_alt1_art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A iluminação dos edifícios comerciais deverá ser desligada durante a noite, de acordo com os seguintes critérios:</p>
+            <Inciso xlink:href="art4_par1_inc1" id="art2_cpt_alt1_art4_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a iluminação interior dos estabelecimentos comerciais deverá ser desligada em até uma hora após o fim de sua ocupação diária;</p>
+            
+          </Inciso><Inciso xlink:href="art4_par1_inc2" id="art2_cpt_alt1_art4_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a iluminação das fachadas e das vitrines de edifícios comerciais deverá ser desligada até uma hora da manhã ou em até uma hora após o fim do funcionamento diário desses edifícios, o que ocorrer primeiro;</p>
+            
+          </Inciso><Inciso xlink:href="art4_par1_inc3" id="art2_cpt_alt1_art4_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a iluminação das fachadas dos edifícios comerciais não pode ser acionada antes do anoitecer.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art4_par2" id="art2_cpt_alt1_art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A regulamentação poderá prever situações excepcionais em que será dispensada a observância do disposto no § 1º deste artigo em época de feriados específicos, durante eventos culturais específicos e para o caso de áreas de interesse turístico.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par3" id="art2_cpt_alt1_art4_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O descumprimento do disposto no § 1º deste artigo sujeita os responsáveis ao pagamento de multa, no valor de R$ 500,00 (quinhentos reais) a R$ 5.000,00 (cinco mil reais).</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos trinta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

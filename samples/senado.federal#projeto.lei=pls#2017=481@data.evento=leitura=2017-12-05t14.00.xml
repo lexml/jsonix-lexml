@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;481@data.evento;leitura;2017-12-05t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 481 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), para obrigar os provedores de aplicações de internet a manterem serviço de atendimento ao usuário.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span>, para obrigar os provedores de aplicações de internet a fornecerem serviço de atendimento aos usuários.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span>, passa a vigorar acrescida do seguinte art. 35-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-11;8078" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-11;8078 -> MatchByBase(urn:lex:br:federal:lei:1990-09-11;8078,1990,Some((9,11)),Map(art35-1 -> PrefixMatch(URN(1990,Some((9,11)),,urn:lex:br:federal:lei:1990-09-11;8078),art35-1), art35-1_cpt -> PrefixMatch(URN(1990,Some((9,11)),,urn:lex:br:federal:lei:1990-09-11;8078),art35-1_cpt), art35-1_par1 -> PrefixMatch(URN(1990,Some((9,11)),,urn:lex:br:federal:lei:1990-09-11;8078),art35-1_par1), art35-1_par2 -> PrefixMatch(URN(1990,Some((9,11)),,urn:lex:br:federal:lei:1990-09-11;8078),art35-1_par2)))))-->
+              <Artigo xlink:href="art35-1" id="art2_cpt_alt1_art35-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 35-A.</Rotulo>
+            
+            <Caput xlink:href="art35-1_cpt" id="art2_cpt_alt1_art35-1_cpt">
+            
+            
+            
+            <p>Os provedores de aplicações de internet manterão serviço de atendimento ao usuário para a solução de demandas em relação a informação, dúvida, reclamação, suspensão ou cancelamento do serviço contratado.</p>
+            
+          </Caput><Paragrafo xlink:href="art35-1_par1" id="art2_cpt_alt1_art35-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O serviço previsto no caput compreenderá a disponibilização de canal de atendimento em tempo real por meio telefônico, de aplicativos de mensagens instantâneas ou recurso tecnológico equivalente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art35-1_par2" id="art2_cpt_alt1_art35-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os pequenos provedores de aplicações, assim definidos em regulamentação, poderão ser dispensados do disposto no § 1º.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após transcorridos noventa dias de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

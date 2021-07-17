@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;494@data.evento;leitura;2017-12-07t11.26"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 494 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123">Lei Complementar nº 123, de 14 de dezembro de 2006</span>, para isentar do Imposto sobre a Renda, da Contribuição Social sobre o Lucro Líquido, da Contribuição para o PIS/Pasep e da Cofins os rendimentos decorrentes da remuneração prevista em contrato de participação e do direito de resgate do aporte de capital efetuado por investidor-anjo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2006-12-14;123!art61-1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123!art61-1">art. 61-A da Lei Complementar nº 123, de 14 de dezembro de 2006</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2006-12-14;123" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2006-12-14;123 -> MatchByBase(urn:lex:br:federal:lei.complementar:2006-12-14;123,2006,Some((12,14)),Map(art61-1_cpt -> PrefixMatch(URN(2006,Some((12,14)),art61-1,urn:lex:br:federal:lei.complementar:2006-12-14;123!art61-1),art61-1_cpt), art61-1_par10_inc2 -> PrefixMatch(URN(2006,Some((12,14)),art61-1,urn:lex:br:federal:lei.complementar:2006-12-14;123!art61-1),art61-1_par10_inc2), art61-1_par10 -> PrefixMatch(URN(2006,Some((12,14)),art61-1,urn:lex:br:federal:lei.complementar:2006-12-14;123!art61-1),art61-1_par10), art61-1_par10_inc1 -> PrefixMatch(URN(2006,Some((12,14)),art61-1,urn:lex:br:federal:lei.complementar:2006-12-14;123!art61-1),art61-1_par10_inc1), art61-1 -> ExactMatch(URN(2006,Some((12,14)),art61-1,urn:lex:br:federal:lei.complementar:2006-12-14;123!art61-1))))))-->
+              <Artigo xlink:href="art61-1" id="art1_cpt_alt1_art61-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 61-A.</Rotulo>
+            
+            <Caput xlink:href="art61-1_cpt" id="art1_cpt_alt1_art61-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art61-1_omi1"/><Paragrafo xlink:href="art61-1_par10" id="art1_cpt_alt1_art61-1_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Os rendimentos decorrentes da remuneração paga ao investidor-anjo e do direito de resgate a que se refere o § 7º deste artigo não ficarão sujeitos à incidência do Imposto sobre a Renda Retido na Fonte (IRRF), nem integrarão a base de cálculo:</p>
+            <Inciso xlink:href="art61-1_par10_inc1" id="art1_cpt_alt1_art61-1_par10_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>do Imposto sobre a Renda da Pessoa Física (IRPF) beneficiária; e</p>
+            
+          </Inciso><Inciso xlink:href="art61-1_par10_inc2" id="art1_cpt_alt1_art61-1_par10_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>do IRPJ, da CSLL, da Contribuição para o PIS/Pasep e da Cofins da pessoa jurídica beneficiária.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

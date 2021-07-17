@@ -1,0 +1,124 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;17"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 17 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a proibição da eliminação de cães e gatos pelos órgãos de controle de zoonoses, canis públicos e estabelecimentos oficiais congêneres, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei se refere à proibição da eliminação de cães e gatos pelos órgãos de controle de zoonoses, canis públicos e estabelecimentos oficiais congêneres, salvo as disposições específicas que permitam a eutanásia.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Fica vedada a eliminação da vida de cães e de gatos pelos órgãos de controle de zoonoses, canis públicos e estabelecimentos oficiais congêneres, com exceção da eutanásia nos casos de males, doenças graves ou enfermidades infectocontagiosas incuráveis que coloquem em risco a saúde humana e a de outros animais.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A eutanásia será justificada por laudo do responsável técnico pelos órgãos e estabelecimentos referidos no caput deste artigo, precedido, quando for o caso, de exame laboratorial.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Ressalvada a hipótese de doença infectocontagiosa incurável, que caracterize risco à saúde pública, o animal que se encontrar na situação prevista no caput poderá ser disponibilizado para resgate por entidade de proteção dos animais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As entidades de proteção animal devem ter acesso irrestrito à documentação que comprove a legalidade da eutanásia nos casos citados no art. 2º.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Fica o Poder Executivo autorizado a celebrar convênios e parcerias com Municípios, entidades de proteção animal, organizações não governamentais, universidades, estabelecimentos veterinários, empresas públicas ou privadas e entidades de classe, para que sejam desenvolvidos programas ou feiras de adoção em todo o território nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O controle da natalidade de cães e gatos em todo o território nacional, após estudo feito nas localidades e regiões que apontem para a existência de superpopulação, deverá ser feito por esterilização cirúrgica.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O procedimento de esterilização referido no art. 5º deverá ser feito exclusivamente por médico-veterinário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-02-12;9605-->
+            
+            
+            <p>O descumprimento desta Lei sujeita o infrator às penalidades previstas na <span xlink:href="urn:lex:br:federal:lei:1998-02-12;9605">Lei nº 9.605, de 12 de fevereiro de 1998</span> - Lei de Crimes Ambientais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e vinte dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

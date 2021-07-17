@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;415@data.evento;leitura;2017-10-26t11.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 415 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-05-11;8036">Lei nº 8.036, de 11 de maio de 1990</span>, para permitir o uso do FGTS para pagamento de pensão alimentícia pelo trabalhador que não possuir outro recurso líquido disponível.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-05-11;8036!art20-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-05-11;8036!art20">art. 20 da Lei nº 8.036, de 11 de maio de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-05-11;8036" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-05-11;8036 -> MatchByBase(urn:lex:br:federal:lei:1990-05-11;8036,1990,Some((5,11)),Map(art20 -> ExactMatch(URN(1990,Some((5,11)),art20,urn:lex:br:federal:lei:1990-05-11;8036!art20)), art20_cpt -> PrefixMatch(URN(1990,Some((5,11)),art20,urn:lex:br:federal:lei:1990-05-11;8036!art20),art20_cpt), art20_cpt_inc20 -> PrefixMatch(URN(1990,Some((5,11)),art20,urn:lex:br:federal:lei:1990-05-11;8036!art20),art20_cpt_inc20)))))-->
+              <Artigo xlink:href="art20" id="art1_cpt_alt1_art20" abreAspas="s">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput xlink:href="art20_cpt" id="art1_cpt_alt1_art20_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art20_cpt_omi1"/><Inciso xlink:href="art20_cpt_inc20" id="art1_cpt_alt1_art20_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>pagamento de pensão alimentícia fixada em juízo, quando o trabalhador não possuir outro recurso líquido disponível.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art20_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

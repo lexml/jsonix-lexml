@@ -1,0 +1,136 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;69@data.evento;leitura;2017-03-28t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 69 DE 2017</Epigrafe>
+      <Ementa id="ementa">Cria o vale-cultura do servidor público federal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica criado o vale-cultura do servidor público, concedido pela Administração Pública Federal direta aos respectivos servidores, a fim de incentivar e viabilizar seu acesso e fruição de produtos e serviços culturais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O vale-cultura do servidor público tem caráter pessoal e intransferível, sendo válido em todo o território nacional para pagamento de produtos e serviços culturais providos pelas pessoas jurídicas que se cadastrarem para esse fim junto ao Ministério da Cultura.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            <!--Link: urn:lex:br:federal:lei:2012-12-27;12761!art2_par2-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os produtos e serviços culturais a que se refere o caput deverão inserir-se em uma das áreas descritas no <span xlink:href="urn:lex:br:federal:lei:2012-12-27;12761!art2_par2">§ 2º do art. 2º da Lei nº 12.761, de 27 de dezembro de 2012</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O vale-cultura de que trata esta Lei será fornecido ao servidor público que perceba mensalmente até 5 (cinco) salários mínimos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O valor mensal do vale-cultura do servidor público, por usuário, será de R$ 50,00 (cinquenta reais), disponibilizado preferencialmente por meio magnético.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p> O servidor que receber o vale-cultura terá descontado de sua remuneração o equivalente a 10 % (dez por cento) do valor do vale-cultura.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O servidor que se enquadre na condição descrita no art. 3º poderá optar pelo não recebimento do vale-cultura.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Os prazos de validade e condições de utilização do vale-cultura serão definidos em regulamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O valor correspondente ao vale-cultura do servidor público:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>não tem natureza de vencimento nem se incorpora à remuneração para quaisquer efeitos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>não constitui base de incidência de contribuição previdenciária; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>não se configura como rendimento tributável do servidor.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

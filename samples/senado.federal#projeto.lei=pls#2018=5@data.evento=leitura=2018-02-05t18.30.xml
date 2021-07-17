@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;5@data.evento;leitura;2018-02-05t18.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 5 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei nº 9.503, de 23 de setembro de 1997</span>, para instituir o Exame Nacional de Instrutores de Trânsito e o Exame Nacional de Examinadores de Trânsito.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art156-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art156">art. 156 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art156 -> ExactMatch(URN(1997,Some((9,23)),art156,urn:lex:br:federal:lei:1997-09-23;9503!art156)), art156_cpt -> PrefixMatch(URN(1997,Some((9,23)),art156,urn:lex:br:federal:lei:1997-09-23;9503!art156),art156_cpt), art156_par1 -> PrefixMatch(URN(1997,Some((9,23)),art156,urn:lex:br:federal:lei:1997-09-23;9503!art156),art156_par1), art156_par3 -> PrefixMatch(URN(1997,Some((9,23)),art156,urn:lex:br:federal:lei:1997-09-23;9503!art156),art156_par3), art156_par2 -> PrefixMatch(URN(1997,Some((9,23)),art156,urn:lex:br:federal:lei:1997-09-23;9503!art156),art156_par2)))))-->
+              <Artigo xlink:href="art156" id="art1_cpt_alt1_art156" abreAspas="s">
+            
+            
+            <Rotulo>Art. 156.</Rotulo>
+            
+            <Caput xlink:href="art156_cpt" id="art1_cpt_alt1_art156_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art156_par1" id="art1_cpt_alt1_art156_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O CONTRAN regulamentará exame obrigatório para avaliação de instrutores e examinadores de trânsito.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art156_par2" id="art1_cpt_alt1_art156_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O exame deverá ter conteúdo único, ser aplicado anualmente e ter validade nacional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art156_par3" id="art1_cpt_alt1_art156_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O exercício da atividade de instrutor ou examinador de trânsito dependerá de prévia aprovação no exame a que se refere o §1º.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art156_par3-->
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação, produzindo efeitos quanto ao disposto no <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art156_par3">§ 3º do art. 156 da Lei nº 9.503, de 23 de setembro de 1997</span>, após um ano.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

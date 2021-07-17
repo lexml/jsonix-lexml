@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;29@data.evento;leitura;2018-02-06t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 29 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1989-07-10;7797">Lei nº 7.797, de 10 de julho de 1989</span>, que cria o Fundo Nacional de Meio Ambiente e dá outras providências, para acrescentar a prevenção, o combate e a remediação de desastres naturais ou de origem antrópica cuja autoria não puder ser identificada entre as ações prioritárias para aplicação dos recursos financeiros do Fundo Nacional de Meio Ambiente.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1989-07-10;7797!art5-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1989-07-10;7797!art5">art. 5º da Lei nº 7.797, de 10 de julho de 1989</span>, passa a vigorar acrescido do seguinte inciso VIII:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1989-07-10;7797" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1989-07-10;7797 -> MatchByBase(urn:lex:br:federal:lei:1989-07-10;7797,1989,Some((7,10)),Map(art5 -> ExactMatch(URN(1989,Some((7,10)),art5,urn:lex:br:federal:lei:1989-07-10;7797!art5)), art5_cpt -> PrefixMatch(URN(1989,Some((7,10)),art5,urn:lex:br:federal:lei:1989-07-10;7797!art5),art5_cpt), art5_cpt_inc8 -> PrefixMatch(URN(1989,Some((7,10)),art5,urn:lex:br:federal:lei:1989-07-10;7797!art5),art5_cpt_inc8)))))-->
+              <Artigo xlink:href="art5" id="art1_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art1_cpt_alt1_art5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art5_cpt_omi1"/><Inciso xlink:href="art5_cpt_inc8" id="art1_cpt_alt1_art5_cpt_inc8" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>Prevenção, Combate e Remediação de Desastres Naturais e de Desastres de Origem Antrópica cuja autoria não puder ser identificada.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

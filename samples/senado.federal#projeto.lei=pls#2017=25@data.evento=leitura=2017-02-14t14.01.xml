@@ -1,0 +1,346 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;25@data.evento;leitura;2017-02-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 25 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Leis nos 9.394, de 20 de dezembro de 1996</span>, que estabelece as diretrizes e bases da educação nacional, e 9.615, de 24 de março de 1998, que institui normas gerais do desporto e dá outras providências, para incentivar e desenvolver o desporto nos sistemas de ensino.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Lei nº 9.394, de 20 de dezembro de 1996</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-12-20;9394" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-12-20;9394 -> MatchByBase(urn:lex:br:federal:lei:1996-12-20;9394,1996,Some((12,20)),Map(art3_cpt_inc13 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art3_cpt_inc13), art78 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art78), art3_cpt -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art3_cpt), art59_cpt_inc6 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art59_cpt_inc6), art59_cpt -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art59_cpt), art78_cpt -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art78_cpt), art26_par3 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art26_par3), art59 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art59), art3 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art3), art26 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art26), art26_cpt -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art26_cpt), art78_cpt_inc3 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art78_cpt_inc3)))))-->
+              <Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc13" id="art1_cpt_alt1_art3_cpt_inc13" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>incentivo ao desporto educacional.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art26" id="art1_cpt_alt1_art26" abreAspas="s">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput xlink:href="art26_cpt" id="art1_cpt_alt1_art26_cpt">
+            
+            
+            
+            <p>..................................................:</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art26_omi1"/><Paragrafo xlink:href="art26_par3" id="art1_cpt_alt1_art26_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A educação física, integrada à proposta pedagógica da escola, assim como aos projetos e programas de desporto educacional dos sistemas de ensino, é componente curricular obrigatório da educação básica, sendo sua prática facultativa ao aluno:</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art26_omi2"/>
+          </Artigo><Artigo xlink:href="art59" id="art1_cpt_alt1_art59" abreAspas="s">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput xlink:href="art59_cpt" id="art1_cpt_alt1_art59_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art59_cpt_inc6" id="art1_cpt_alt1_art59_cpt_inc6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>desenvolvimento de atividades específicas de desporto educacional.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art78" id="art1_cpt_alt1_art78" abreAspas="s">
+            
+            
+            <Rotulo>Art. 78.</Rotulo>
+            
+            <Caput xlink:href="art78_cpt" id="art1_cpt_alt1_art78_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art78_cpt_omi1"/><Inciso xlink:href="art78_cpt_inc3" id="art1_cpt_alt1_art78_cpt_inc3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>oferecer aos índios, suas comunidades e povos, atividades de desenvolvimento e valorização do desporto, assim como incentivar o desporto educacional aos estudantes indígenas da educação básica.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-03-24;9615-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1998-03-24;9615">Lei nº 9.615, de 24 de março de 1998</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-03-24;9615" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-03-24;9615 -> MatchByBase(urn:lex:br:federal:lei:1998-03-24;9615,1998,Some((3,24)),Map(art7_cpt_inc8 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art7_cpt_inc8), art3_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art3_cpt), art56_par2_inc1 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art56_par2_inc1), art6_par3 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art6_par3), art56_par3 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art56_par3), art56_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art56_cpt), art44_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art44_cpt), art56_par2_inc2 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art56_par2_inc2), art2_par1_inc6 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art2_par1_inc6), art7 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art7), art6_par2 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art6_par2), art2_par1 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art2_par1), art2 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art2), art18 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art18), art18_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art18_cpt), art3_cpt_inc1_ali2 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art3_cpt_inc1_ali2), art44 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art44), art3_cpt_inc1_ali1 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art3_cpt_inc1_ali1), art18_cpt_inc6 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art18_cpt_inc6), art2_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art2_cpt), art6 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art6), art7_cpt_inc6 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art7_cpt_inc6), art3 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art3), art10_par2 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art10_par2), art10_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art10_cpt), art11 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art11), art2_cpt_inc13 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art2_cpt_inc13), art11_cpt_inc4 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art11_cpt_inc4), art3_cpt_inc1 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art3_cpt_inc1), art44_cpt_inc1 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art44_cpt_inc1), art56_par2 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art56_par2), art11_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art11_cpt), art6_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art6_cpt), art10 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art10), art7_cpt -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art7_cpt), art56 -> PrefixMatch(URN(1998,Some((3,24)),,urn:lex:br:federal:lei:1998-03-24;9615),art56)))))-->
+              <Artigo xlink:href="art2" id="art2_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art2_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art2_cpt_omi1"/><Inciso xlink:href="art2_cpt_inc13" id="art2_cpt_alt1_art2_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>da formação desportiva, em especial no ambiente escolar, a fim de contribuir para a promoção da saúde, ampliação das potencialidades para a prática do desporto de rendimento, bem como o desenvolvimento do talento esportivo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art2_par1u" id="art2_cpt_alt1_art2_par1u" textoOmitido="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            
+            <Omissis id="art2_cpt_alt1_art2_par1u_omi1"/><Inciso xlink:href="art2_par1u_inc6" id="art2_cpt_alt1_art2_par1u_inc6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>do incentivo à formação desportiva</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art3" id="art2_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art2_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art3_cpt_inc1" id="art2_cpt_alt1_art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>O desporto educacional, praticado nos sistemas de ensino e em formas assistemáticas de educação, constitui-se em:</p>
+            <Alinea xlink:href="art3_cpt_inc1_ali1" id="art2_cpt_alt1_art3_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>desporto de formação escolar, referenciado em princípios socioeducativos como inclusão, participação, cooperação, promoção à saúde, coeducação e responsabilidade, com a finalidade de alcançar o desenvolvimento integral do indivíduo; e</p>
+            
+          </Alinea><Alinea xlink:href="art3_cpt_inc1_ali2" id="art2_cpt_alt1_art3_cpt_inc1_ali2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>desporto escolar, praticado pelos estudantes com talento desportivo no ambiente escolar, referenciado nos princípios do desenvolvimento desportivo e do desenvolvimento do espírito desportivo, podendo contribuir para ampliar as potencialidades para a prática do desporto de rendimento e promoção da saúde.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art3_omi1"/>
+          </Artigo><Artigo xlink:href="art6" id="art2_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art2_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par2" id="art2_cpt_alt1_art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Do adicional de 4,5% (quatro e meio por cento) de que trata o inciso II deste artigo, 1/3 (um terço) será repassado às Secretarias de Esporte dos Estados e do Distrito Federal ou, na inexistência destas, a órgãos que tenham atribuições semelhantes na área do desporto, proporcionalmente ao montante das apostas efetuadas em cada unidade da Federação, para aplicação prioritária em jogos escolares de esportes olímpicos e paraolímpicos, assim como para o desporto educacional nos sistemas de ensino municipais, admitida também sua aplicação nas destinações previstas nos incisos I, VI e VIII do art. 7º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par3" id="art2_cpt_alt1_art6_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A parcela repassada aos Estados e ao Distrito Federal na forma do § 2º será aplicada integralmente em atividades finalísticas do desporto, especialmente para o desporto educacional nos seus sistemas de ensino, sendo pelo menos 50% (cinquenta por cento) investidos em projetos apresentados pelos Municípios ou, na falta de projetos, em ações governamentais em benefício do desenvolvimento do desporto nos Municípios.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art6_omi2"/>
+          </Artigo><Artigo xlink:href="art7" id="art2_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art2_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art7_cpt_omi1"/><Inciso xlink:href="art7_cpt_inc6" id="art2_cpt_alt1_art7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>construção, ampliação e recuperação de instalações desportivas, em especial nos estabelecimentos escolares dos sistemas de ensino estadual, distrital e municipal;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art7_cpt_omi2"/><Inciso xlink:href="art7_cpt_inc8" id="art2_cpt_alt1_art7_cpt_inc8" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>apoio ao desporto para pessoas com deficiência em todas as suas manifestações, em especial no desporto educacional.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art10" id="art2_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art2_cpt_alt1_art10_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art10_omi1"/><Paragrafo xlink:href="art10_par2" id="art2_cpt_alt1_art10_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os recursos que não forem resgatados no prazo estipulado no § 1o deste artigo serão repassados ao Ministério do Esporte para aplicação em programas referentes à política nacional de incentivo e desenvolvimento da prática desportiva e em programas referentes ao desenvolvimento do desporto educacional.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art10_omi2"/>
+          </Artigo><Artigo xlink:href="art11" id="art2_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art2_cpt_alt1_art11_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art11_cpt_omi1"/><Inciso xlink:href="art11_cpt_inc4" id="art2_cpt_alt1_art11_cpt_inc4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>propor prioridades para o plano de aplicação de recursos do Ministério do Esporte, procurando sempre o desenvolvimento do desporto educacional;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art11_omi1"/>
+          </Artigo><Artigo xlink:href="art18" id="art2_cpt_alt1_art18" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput xlink:href="art18_cpt" id="art2_cpt_alt1_art18_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art18_cpt_omi1"/><Inciso xlink:href="art18_cpt_inc6" id="art2_cpt_alt1_art18_cpt_inc6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>desenvolvam projetos de formação desportiva ou auxiliem projetos de desporto educacional dos sistemas de ensino estadual, distrital ou municipal, aplicando recursos nestes ou cedendo espaço físico para o treinamento dos estudantes com talento desportivo.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art18_omi1"/>
+          </Artigo><Artigo xlink:href="art44" id="art2_cpt_alt1_art44" abreAspas="s">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput xlink:href="art44_cpt" id="art2_cpt_alt1_art44_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art44_cpt_inc1" id="art2_cpt_alt1_art44_cpt_inc1" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>desporto educacional, tanto nos estabelecimentos escolares dos diversos níveis escolares quanto nas entidades do Sistema Nacional do Desporto que atendam o disposto no inciso VI do art. 18 desta Lei;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art44_omi1"/>
+          </Artigo><Artigo xlink:href="art56" id="art2_cpt_alt1_art56" abreAspas="s">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput xlink:href="art56_cpt" id="art2_cpt_alt1_art56_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art56_omi1"/><Paragrafo xlink:href="art56_par2" id="art2_cpt_alt1_art56_par2" textoOmitido="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            
+            <Inciso xlink:href="art56_par2_inc1" id="art2_cpt_alt1_art56_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>10% (dez por cento) serão destinados ao desporto escolar na educação básica, em programação definida conjuntamente com a Confederação Brasileira do Desporto Escolar - CBDE;</p>
+            
+          </Inciso><Inciso xlink:href="art56_par2_inc2" id="art2_cpt_alt1_art56_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>5% (cinco por cento) serão destinados ao desporto escolar na educação superior, em programação definida conjuntamente com a Confederação Brasileira do Desporto Universitário - CBDU.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art56_par3" id="art2_cpt_alt1_art56_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os recursos a que se refere o inciso VI deste artigo serão exclusiva e integralmente aplicados em programas e projetos de fomento, desenvolvimento e manutenção do desporto, de incentivo ao desporto escolar nos sistemas de ensino, de formação de recursos humanos, de preparação técnica, manutenção e locomoção de atletas, bem como sua participação em eventos desportivos, inclusive a contratação do seguro previsto no inciso II do art. 82-B desta Lei.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art56_omi2"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

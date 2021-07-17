@@ -1,0 +1,49 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;138"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 138 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1973-09-10;5917">Lei nº 5.917, de 10 de setembro de 1973</span>, que aprova o Plano Nacional de Viação, para incluir no Anexo da Lei a interligação entre o rio Preto, localizado no Estado da Bahia, e o rio Tocantins, destinada a assegurar a navegação desde o rio São Francisco até o rio Amazonas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1973-09-10;5917-->
+            
+            
+            <p>O item 5.2.2 – Interligação de Bacias do Plano Nacional de Viação, constante do Anexo da <span xlink:href="urn:lex:br:federal:lei:1973-09-10;5917">Lei nº 5.917, de 10 de setembro de 1973</span>, passa a vigorar acrescido da interligação entre o rio Preto, localizado no Estado da Bahia, e o rio Tocantins, destinada a assegurar a navegação desde o rio São Francisco até o rio Amazonas, nos termos seguintes:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1973-09-10;5917" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1973-09-10;5917 -> MatchByBase(urn:lex:br:federal:lei:1973-09-10;5917,1973,Some((9,10)),Map(ite5 -> PrefixMatch(URN(1973,Some((9,10)),,urn:lex:br:federal:lei:1973-09-10;5917),ite5)))))-->
+              <Item xlink:href="ite5" id="art1_cpt_alt1_ite5" abreAspas="s">
+            
+            
+            <Rotulo>5–</Rotulo>
+            <p>2.2 – INTERLIGAÇÃO DE BACIAS DO PLANO NACIONAL DE VIAÇÃO INTERLIGAÇÃO TRECHO A SER TORNADO NAVEGÁVEL</p>
+            
+          </Item><Omissis id="art1_cpt_alt1_omi1"/><p>Rio Preto (BA)–Tocantins</p><Omissis id="art1_cpt_alt1_omi2"/><p>Rio São Francisco–Rio Amazonas</p><Omissis id="art1_cpt_alt1_omi3" fechaAspas="s"/>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

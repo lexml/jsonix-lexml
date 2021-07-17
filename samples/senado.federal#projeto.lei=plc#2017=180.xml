@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;180"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 180 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta inciso ao <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art193">art. 193 da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, para considerar perigosas as atividades desempenhadas pelos agentes das autoridades de trânsito.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art193--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art193">art. 193 da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar acrescido do seguinte inciso III:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art193 -> ExactMatch(URN(1943,Some((5,1)),art193,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art193)), art193_cpt -> PrefixMatch(URN(1943,Some((5,1)),art193,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art193),art193_cpt), art193_cpt_inc3 -> PrefixMatch(URN(1943,Some((5,1)),art193,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art193),art193_cpt_inc3)))))-->
+              <Artigo xlink:href="art193" id="art1_cpt_alt1_art193" abreAspas="s">
+            
+            
+            <Rotulo>Art. 193.</Rotulo>
+            
+            <Caput xlink:href="art193_cpt" id="art1_cpt_alt1_art193_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art193_cpt_omi1"/><Inciso xlink:href="art193_cpt_inc3" id="art1_cpt_alt1_art193_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>colisões, atropelamentos ou outras espécies de acidentes ou violências nas atividades profissionais dos agentes das autoridades de trânsito.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art193_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

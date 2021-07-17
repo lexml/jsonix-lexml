@@ -1,0 +1,181 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;451@data.evento;leitura;2017-11-21t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 451 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span> - Consolidação das Leis do Trabalho, para vedar a tarifação legal de danos extrapatrimoniais no âmbito das relações trabalhistas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art223-7_cpt_inc7 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc7), art223-6_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-6_par1), art223-7_cpt_inc3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc3), art223-2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-2), art223-6 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-6), art223-2_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-2_cpt), art223-7_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_par2), art223-7_cpt_inc1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc1), art223-7_cpt_inc2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc2), art223-4_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-4_cpt), art223-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-1_cpt), art223-7_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt), art223-3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-3), art223-5_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-5_cpt), art223-7_cpt_inc6 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc6), art223-4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-4), art223-7_cpt_inc5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc5), art223-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-1), art223-3_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-3_cpt), art223-6_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-6_cpt), art223-7 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7), art223-7_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_par1), art223-7_cpt_inc4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-7_cpt_inc4), art223-5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-5), art223-6_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art223-6_par2)))))-->
+              <Artigo xlink:href="art223-1" id="art1_cpt_alt1_art223-1" abreAspas="s">
+            
+            <TituloDispositivo>“TÍTULO II-A - DO DANO EXTRAPATRIMONIAL</TituloDispositivo>
+            <Rotulo>Art. 223-A.</Rotulo>
+            
+            <Caput xlink:href="art223-1_cpt" id="art1_cpt_alt1_art223-1_cpt">
+            
+            
+            
+            <p>Compete à Justiça do Trabalho julgar as ações relativas à reparação de danos de natureza extrapatrimonial decorrentes da relação de trabalho.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-2" id="art1_cpt_alt1_art223-2">
+            
+            
+            <Rotulo>Art. 223-B.</Rotulo>
+            
+            <Caput xlink:href="art223-2_cpt" id="art1_cpt_alt1_art223-2_cpt">
+            
+            
+            
+            <p>Causa dano de natureza extrapatrimonial a ação ou omissão que ofenda, prejudique ou reduza a fruição de bens e direitos da pessoa física ou jurídica implicando no direito à reparação.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-3" id="art1_cpt_alt1_art223-3">
+            
+            
+            <Rotulo>Art. 223-C.</Rotulo>
+            
+            <Caput xlink:href="art223-3_cpt" id="art1_cpt_alt1_art223-3_cpt">
+            
+            
+            
+            <p>A honra, a imagem, a intimidade, a liberdade de ação, a saúde, o lazer e a integridade física e psicológica são os bens juridicamente tutelados inerentes à pessoa física.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-4" id="art1_cpt_alt1_art223-4">
+            
+            
+            <Rotulo>Art. 223-D.</Rotulo>
+            
+            <Caput xlink:href="art223-4_cpt" id="art1_cpt_alt1_art223-4_cpt">
+            
+            
+            
+            <p>A imagem, a marca, o nome e o segredo empresarial são bens juridicamente tutelados inerentes à pessoa jurídica.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-5" id="art1_cpt_alt1_art223-5">
+            
+            
+            <Rotulo>Art. 223-E.</Rotulo>
+            
+            <Caput xlink:href="art223-5_cpt" id="art1_cpt_alt1_art223-5_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art932_cpt_inc3-->
+            
+            
+            <p>São responsáveis pelo dano extrapatrimonial todos os que tenham colaborado para a ofensa ao direito ou bem jurídico tutelado, na proporção da ação ou da omissão, respeitado o disposto no <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art932_cpt_inc3">art. 932, inciso III da Lei nº 10.406, de 10 de janeiro de 2002</span> – Código Civil.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art223-6" id="art1_cpt_alt1_art223-6">
+            
+            
+            <Rotulo>Art. 223-F.</Rotulo>
+            
+            <Caput xlink:href="art223-6_cpt" id="art1_cpt_alt1_art223-6_cpt">
+            
+            
+            
+            <p>A reparação por danos extrapatrimoniais pode ser pedida cumulativamente com a indenização por danos materiais decorrentes do mesmo ato lesivo.</p>
+            
+          </Caput><Paragrafo xlink:href="art223-6_par1" id="art1_cpt_alt1_art223-6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se houver cumulação de pedidos, o juízo, ao proferir a decisão, discriminará os valores das indenizações a título de danos patrimoniais e das reparações por danos de natureza extrapatrimonial.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art223-6_par2" id="art1_cpt_alt1_art223-6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A composição das perdas e danos, assim compreendidos os lucros cessantes e os danos emergentes, poderão ser considerados pelo juízo na avaliação dos danos extrapatrimoniais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art223-7" id="art1_cpt_alt1_art223-7">
+            
+            
+            <Rotulo>Art. 223-G.</Rotulo>
+            
+            <Caput xlink:href="art223-7_cpt" id="art1_cpt_alt1_art223-7_cpt">
+            
+            
+            
+            <p>Ao apreciar o pedido, o juízo poderá considerar:</p>
+            <Inciso xlink:href="art223-7_cpt_inc1" id="art1_cpt_alt1_art223-7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a natureza do bem jurídico tutelado;</p>
+            
+          </Inciso><Inciso xlink:href="art223-7_cpt_inc2" id="art1_cpt_alt1_art223-7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a intensidade do sofrimento ou da humilhação;</p>
+            
+          </Inciso><Inciso xlink:href="art223-7_cpt_inc3" id="art1_cpt_alt1_art223-7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os reflexos pessoais, familiares e sociais da ação ou da omissão;</p>
+            
+          </Inciso><Inciso xlink:href="art223-7_cpt_inc4" id="art1_cpt_alt1_art223-7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a extensão e a duração dos efeitos da ação ou omissão do ofensor;</p>
+            
+          </Inciso><Inciso xlink:href="art223-7_cpt_inc5" id="art1_cpt_alt1_art223-7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>as condições e circunstâncias em que ocorreu a ofensa ou o dano;</p>
+            
+          </Inciso><Inciso xlink:href="art223-7_cpt_inc6" id="art1_cpt_alt1_art223-7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o grau de publicidade do ocorrido;</p>
+            
+          </Inciso><Inciso xlink:href="art223-7_cpt_inc7" id="art1_cpt_alt1_art223-7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o efeito educativo contundente que deve ter a punição nos casos de reprodução de práticas discriminatórias, especialmente de gênero, raça, etnia, origem e nível de escolaridade.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art223-7_par1" id="art1_cpt_alt1_art223-7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Julgado procedente o pedido, o juízo fixará a indenização a ser paga a cada um dos ofendidos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art223-7_par2" id="art1_cpt_alt1_art223-7_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de reincidência, o juízo deverá elevar o valor da condenação, referindo-se explicitamente ao montante aumentado.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

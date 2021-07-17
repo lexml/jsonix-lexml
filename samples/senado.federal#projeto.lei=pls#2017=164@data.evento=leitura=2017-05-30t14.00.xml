@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;164@data.evento;leitura;2017-05-30t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 164 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1998-02-19;9609">Lei nº 9.609, de 19 de fevereiro de 1998</span>, para fixar no valor de 100 (cem) exemplares a quantificação das perdas e danos quando não for possível identificar o número de exemplares que constituem a edição fraudulenta.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-02-19;9609!art14-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-02-19;9609!art14">art. 14 da Lei nº 9.609, de 19 de fevereiro de 1998</span>, passa a vigorar acrescido do seguinte § 6º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-02-19;9609" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-02-19;9609 -> MatchByBase(urn:lex:br:federal:lei:1998-02-19;9609,1998,Some((2,19)),Map(art14 -> ExactMatch(URN(1998,Some((2,19)),art14,urn:lex:br:federal:lei:1998-02-19;9609!art14)), art14_cpt -> PrefixMatch(URN(1998,Some((2,19)),art14,urn:lex:br:federal:lei:1998-02-19;9609!art14),art14_cpt), art14_par6 -> PrefixMatch(URN(1998,Some((2,19)),art14,urn:lex:br:federal:lei:1998-02-19;9609!art14),art14_par6)))))-->
+              <Artigo xlink:href="art14" id="art1_cpt_alt1_art14" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput xlink:href="art14_cpt" id="art1_cpt_alt1_art14_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14_omi1"/><Paragrafo xlink:href="art14_par6" id="art1_cpt_alt1_art14_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Não se conhecendo o número de exemplares que constituem a edição fraudulenta, pagará o transgressor o valor de 100 (cem) exemplares, além dos apreendidos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

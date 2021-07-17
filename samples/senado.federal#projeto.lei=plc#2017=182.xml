@@ -1,0 +1,178 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;182"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 182 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a Política Nacional de Agricultura Urbana e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A agricultura urbana é a atividade agrícola e pecuária desenvolvida nos limites da cidade e integrada ao sistema ecológico e econômico urbano, destinada à produção de alimentos e de outros bens para o consumo próprio ou para a comercialização em pequena escala.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A agricultura urbana deverá atender às exigências estabelecidas nas legislações sanitária e ambiental pertinentes às fases de produção, de processamento e de comercialização de alimentos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São objetivos da Política Nacional de Agricultura Urbana:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ampliar a segurança alimentar e nutricional das populações urbanas vulneráveis;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>propiciar a ocupação de espaços urbanos ociosos;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>gerar alternativa de renda e de atividade ocupacional à população urbana;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>articular a produção de alimentos nas cidades com os programas institucionais de alimentação em escolas, creches, hospitais, asilos, restaurantes populares, estabelecimentos penais e outros;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estimular o trabalho familiar, de cooperativas, de associações e de organizações da economia popular e solidária voltado para a agricultura urbana;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>promover a educação ambiental e a produção orgânica de alimentos nas cidades;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>difundir o uso de resíduos orgânicos e de águas residuais das cidades na agricultura.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A agricultura urbana deverá estar prevista nos institutos jurídicos, tributários e financeiros contidos no planejamento municipal, especialmente nos planos diretores ou nas diretrizes gerais de uso e ocupação do solo urbano, com o objetivo de abranger aspectos de interesse local e garantir as funções sociais da propriedade e da cidade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A Política Nacional de Agricultura Urbana será planejada e executada de forma descentralizada e integrada às políticas sociais e de desenvolvimento urbano e implementada mediante a cooperação entre a União, os Estados e os Municípios.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O governo federal, em articulação com os Estados e os Municípios, empreenderá as seguintes ações para a consecução dos objetivos previstos nesta Lei:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>apoiar os Municípios na definição de áreas aptas ao desenvolvimento de agricultura urbana comunitária e individual, e das condicionantes para sua implantação;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>viabilizar a aquisição de produtos da agricultura urbana para os programas governamentais de aquisição de alimentos — Programa de Aquisição de Alimentos (PAA) e Programa Nacional de Alimentação Escolar (PNAE);</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>auxiliar técnica e financeiramente as prefeituras municipais para a prestação de assistência técnica e o treinamento dos agricultores urbanos na produção, no beneficiamento, na transformação, na embalagem e na comercialização dos produtos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estimular a criação e apoiar o funcionamento de feiras livres e de outras formas de comercialização direta entre agricultores urbanos e consumidores;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estabelecer linhas especiais de crédito para agricultores urbanos e suas organizações, sem prejuízo das linhas de crédito existentes, visando ao investimento na produção, no processamento e na estrutura de comercialização.</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>prestar apoio técnico para a certificação de origem e de qualidade dos produtos da agricultura urbana;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>promover campanhas de valorização e de divulgação de alimentos e produtos provenientes da agricultura urbana.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

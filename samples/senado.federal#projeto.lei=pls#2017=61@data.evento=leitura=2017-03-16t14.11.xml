@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;61@data.evento;leitura;2017-03-16t14.11"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 61 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1988-12-22;7713!cpt_inc14">inciso XIV da Lei nº 7.713, de 22 de dezembro de 1988</span>, com a redação dada pela <span xlink:href="urn:lex:br:federal:lei:1992-12-23;8541">Lei nº 8.541, de 23 de dezembro de 1992</span>, para incluir entre os rendimentos isentos do imposto de renda os proventos recebidos por portadores do mal de Alzheimer.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1988-12-22;7713!cpt_inc14--><!--Link: urn:lex:br:federal:lei:1992-12-23;8541-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1988-12-22;7713!cpt_inc14">inciso XIV da Lei nº 7.713, de 22 de dezembro de 1988</span>, com redação dada pela <span xlink:href="urn:lex:br:federal:lei:1992-12-23;8541">Lei nº 8.541, de 23 de dezembro de 1992</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1992-12-23;8541" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1988-12-22;7713 -> MatchByBase(urn:lex:br:federal:lei:1988-12-22;7713,1988,Some((12,22)),Map(art6 -> NoMatch(URN(1988,Some((12,22)),cpt_inc14,urn:lex:br:federal:lei:1988-12-22;7713!cpt_inc14),art6), art6_cpt -> NoMatch(URN(1988,Some((12,22)),cpt_inc14,urn:lex:br:federal:lei:1988-12-22;7713!cpt_inc14),art6_cpt), art6_cpt_inc14 -> NoMatch(URN(1988,Some((12,22)),cpt_inc14,urn:lex:br:federal:lei:1988-12-22;7713!cpt_inc14),art6_cpt_inc14))), urn:lex:br:federal:lei:1992-12-23;8541 -> MatchByBase(urn:lex:br:federal:lei:1992-12-23;8541,1992,Some((12,23)),Map(art6 -> PrefixMatch(URN(1992,Some((12,23)),,urn:lex:br:federal:lei:1992-12-23;8541),art6), art6_cpt -> PrefixMatch(URN(1992,Some((12,23)),,urn:lex:br:federal:lei:1992-12-23;8541),art6_cpt), art6_cpt_inc14 -> PrefixMatch(URN(1992,Some((12,23)),,urn:lex:br:federal:lei:1992-12-23;8541),art6_cpt_inc14)))))-->
+              <Artigo xlink:href="art6" id="art1_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art1_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art6_cpt_omi1"/><Inciso xlink:href="art6_cpt_inc14" id="art1_cpt_alt1_art6_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>os proventos de aposentadoria ou reforma motivada por acidente em serviço e os percebidos pelos portadores de moléstia profissional, tuberculose ativa, alienação mental, mal de Alzheimer, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome da imunodeficiência adquirida, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art6_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

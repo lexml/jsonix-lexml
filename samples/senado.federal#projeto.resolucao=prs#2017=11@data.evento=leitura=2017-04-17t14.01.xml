@@ -1,0 +1,124 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;11@data.evento;leitura;2017-04-17t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 11 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a Medalha João Calmon, a ser conferida pelo Senado Federal a instituições privadas de ensino básico que tenham se destacado na promoção de ações de responsabilidade social.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>É instituída, no âmbito do Senado Federal, a Medalha João Calmon, destinada a agraciar instituições privadas de ensino básico que tenham se destacado na promoção de ações de responsabilidade social.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A Medalha será concedida pela Mesa do Senado Federal e será acompanhada da concessão de diploma de menção honrosa às instituições agraciadas, em número de até três a cada ano.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A cerimônia de entrega da Medalha será realizada em sessão do Senado Federal especialmente convocada para esse fim.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Poderão indicar concorrentes à Medalha os Senadores e as Senadoras, com justificativa circunstanciada dos méritos dos estabelecimentos de ensino indicados acompanhada de vídeo apresentando a iniciativa.</p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Cada Senador ou Senadora poderá indicar apenas uma instituição concorrente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Caberá à Comissão de Educação, Cultura e Esporte a apreciação dos nomes dos concorrentes.</p>
+            
+          </Caput><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As indicações dos concorrentes à Medalha serão recebidas, pela Comissão de Educação, Cultura e Esporte, de abril a junho de cada ano.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A premiação ocorrerá no mês de agosto de cada ano, em dia a ser definido pela Comissão de Educação, Cultura e Esporte .</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Uma vez escolhidas as instituições agraciadas, seus nomes serão amplamente divulgados pelos meios de comunicação do Senado Federal e em sessão plenária.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Todas as instituições participantes receberão certificado de participação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,106 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;115"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 115 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a impenhorabilidade de bens de hospitais filantrópicos e Santas Casas de Misericórdia.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101-->
+            
+            
+            <p>Esta Lei dispõe sobre a impenhorabilidade de bens de hospitais filantrópicos e Santas Casas de Misericórdia mantidos por entidades certificadas como beneficentes de assistência social nos termos da <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101">Lei nº 12.101, de 27 de novembro de 2009</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101-->
+            
+            
+            <p>São impenhoráveis os bens de hospitais filantrópicos e Santas Casas de Misericórdia mantidos por entidades certificadas como beneficentes de assistência social nos termos da <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101">Lei nº 12.101, de 27 de novembro de 2009</span>, e não responderão por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, salvo nas hipóteses previstas nesta Lei.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A impenhorabilidade compreende os imóveis sobre os quais se assentam as construções, as benfeitorias de qualquer natureza e todos os equipamentos, inclusive os de uso profissional, ou móveis que os guarnecem, desde que quitados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Excluem-se da impenhorabilidade referida no art. 2º desta Lei as obras de arte e os adornos suntuosos.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No caso de imóvel locado, a impenhorabilidade aplica-se aos bens móveis quitados que o guarneçam e que sejam de propriedade do locatário, observado o disposto no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A impenhorabilidade referida no art. 2º desta Lei é oponível em qualquer processo de execução civil, fiscal, previdenciária ou de outra natureza, salvo se movido:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>para cobrança de dívida relativa ao próprio bem, inclusive daquela contraída para sua aquisição;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>para execução de garantia real;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>em razão dos créditos de trabalhadores e das respectivas contribuições previdenciárias.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

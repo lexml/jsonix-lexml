@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;42@data.evento;leitura;2017-11-01t11.22"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 42 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93">Regimento Interno do Senado Federal</span> para adequar as normas regimentais ao Novo Regime Fiscal, instituído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2016;95">Emenda Constitucional nº 95, de 2016</span>, e dispor sobre o exame de adequação orçamentária e financeira pela Comissão de Assuntos Econômicos.</Ementa>
+      <Preambulo id="preambulo"></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99">art. 99 do Regimento Interno do Senado Federal</span> passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:senado.federal:resolucao:1970-11-27;93" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:senado.federal:resolucao:1970-11-27;93 -> MatchByBase(urn:lex:br:senado.federal:resolucao:1970-11-27;93,1970,Some((11,27)),Map(art99_par6_inc1 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par6_inc1), art99_cpt -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_cpt), art99_par5 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par5), art99_par7 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par7), art99_par6_inc2 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par6_inc2), art99_cpt_inc1-1 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_cpt_inc1-1), art99_par6 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par6), art99 -> ExactMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99)), art99_par3 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par3), art99_par4 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par4), art99_par8 -> PrefixMatch(URN(1970,Some((11,27)),art99,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art99),art99_par8)))))-->
+              <Artigo xlink:href="art99" id="art1_cpt_alt1_art99" abreAspas="s">
+            
+            
+            <Rotulo>Art. 99.</Rotulo>
+            
+            <Caput xlink:href="art99_cpt" id="art1_cpt_alt1_art99_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art99_cpt_omi1"/><Inciso xlink:href="art99_cpt_inc1-1" id="art1_cpt_alt1_art99_cpt_inc1-1">
+            
+            
+            <Rotulo>I-A –</Rotulo>
+            <p>opinar sobre a adequação orçamentária e financeira das matérias que lhe forem submetidas por deliberação do Plenário, por despacho da Presidência, por consulta de qualquer comissão ou, quando em virtude desses aspectos, houver recurso de decisão terminativa de comissão para o Plenário;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art99_omi1"/><Paragrafo xlink:href="art99_par3" id="art1_cpt_alt1_art99_par3">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O exame de adequação orçamentária e financeira de que trata o inciso I-A do caput abrangerá a análise da repercussão da matéria sobre a receita e a despesa pública da União e da implicação quanto ao atendimento das normas orçamentárias e financeiras vigentes, em especial a conformidade com a <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>, a lei do plano plurianual, a lei de diretrizes orçamentárias e a lei orçamentária anual.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par4" id="art1_cpt_alt1_art99_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Quando a Comissão de Assuntos Econômicos emitir parecer pela inadequação orçamentária e financeira de qualquer proposição, será esta considerada rejeitada e arquivada definitivamente, por despacho do Presidente do Senado, salvo, não sendo unânime o parecer, recurso interposto nos termos do art. 254.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par5" id="art1_cpt_alt1_art99_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>No caso do § 4º, tratando-se de inadequação parcial, a Comissão de Assuntos Econômicos poderá oferecer emenda corrigindo o vício.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par6" id="art1_cpt_alt1_art99_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A proposição legislativa que se destine a criar ou alterar despesa obrigatória ou renúncia de receita:</p>
+            <Inciso xlink:href="art99_par6_inc1" id="art1_cpt_alt1_art99_par6_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>será acompanhada da estimativa do seu impacto orçamentário e financeiro (ADCT, art. 113);</p>
+            
+          </Inciso><Inciso xlink:href="art99_par6_inc2" id="art1_cpt_alt1_art99_par6_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>será obrigatoriamente distribuída à Comissão de Assuntos Econômicos, para a análise de adequação orçamentária e financeira.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art99_par7" id="art1_cpt_alt1_art99_par7">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2016;95-->
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A tramitação proposição legislativa que puder acarretar aumento de despesa ou renúncia de receita, salvo medida provisória, poderá ser suspensa, por até vinte dias, a requerimento de um quinto dos membros do Senado, ou líderes que representem esse número, para análise de sua compatibilidade com o Novo Regime Fiscal, instituído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2016;95">Emenda Constitucional nº 95, de 2016</span> (ADCT, art. 114).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par8" id="art1_cpt_alt1_art99_par8" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>No caso do § 7º, verificada a inadequação orçamentária ou financeira da matéria, aplicar-se-á o disposto nos §§ 4º e 5º.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

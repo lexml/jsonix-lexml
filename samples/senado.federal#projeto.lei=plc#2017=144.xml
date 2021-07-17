@@ -1,0 +1,559 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;144"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 144 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a Política Nacional de Busca de Pessoas Desaparecidas e cria o Cadastro Nacional de Pessoas Desaparecidas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei institui a Política Nacional de Busca de Pessoas Desaparecidas e cria o Cadastro Nacional de Pessoas Desaparecidas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Para efeitos desta Lei considera-se:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>desaparecido - todo ser humano cujo paradeiro é desconhecido, não importando a causa de seu desaparecimento, até que sua recuperação e identificação tenham sido confirmadas por vias físicas ou científicas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>criança desaparecida - todo ser humano menor de dezoito anos cujo paradeiro é desconhecido, não importando a causa de seu desaparecimento, até que sua recuperação e identificação tenham sido confirmadas por vias físicas ou científicas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>autoridade central federal - órgão responsável pela consolidação das informações em nível nacional, pela definição das diretrizes da investigação de pessoas desaparecidas e pela coordenação das ações de cooperação operacional entre os órgãos de segurança pública;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>autoridade central estadual - órgão responsável pela consolidação das informações em nível estadual, pela definição das diretrizes da investigação de pessoas desaparecidas em âmbito estadual e pela coordenação das ações de cooperação operacional entre os órgãos de segurança pública;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>cooperação operacional - compartilhamento de informações e integração de sistemas de informação entre órgãos estaduais e federais com a finalidade de unificar e aperfeiçoar o sistema nacional de localização de pessoas desaparecidas, coordenado pelos órgãos de segurança pública, com a intervenção de outras entidades, quando necessário.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os deveres atribuídos por esta Lei aos Estados e a órgãos estaduais aplicam-se ao Distrito Federal e aos Territórios.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A busca e a localização de pessoas desaparecidas são consideradas prioridade com caráter de urgência pelo poder público e devem ser realizadas preferencialmente por órgãos investigativos especializados, sendo obrigatória a cooperação operacional por meio de cadastro nacional, incluídos órgãos de segurança pública e outras entidades que venham a intervir nesses casos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>No cumprimento do disposto no art. 3° desta Lei, o poder público observará as seguintes diretrizes:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>desenvolvimento de programas de inteligência e articulação entre órgãos de segurança pública e demais órgãos públicos na investigação das circunstâncias do desaparecimento, até a localização da pessoa desaparecida;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>apoio e empenho do poder público à pesquisa e ao desenvolvimento científico e tecnológico voltados às análises que auxiliem e contribuam para a elucidação dos casos de desaparecimento, até a localização da pessoa desaparecida;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>participação dos órgãos públicos e da sociedade civil na formulação, na definição e no controle das ações da política de que trata esta Lei;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>desenvolvimento de sistema de informações, transferência de dados e comunicação em rede entre os diversos órgãos envolvidos, principalmente os de segurança pública, de modo a agilizar a divulgação dos desaparecimentos e a contribuir com as investigações, a busca e a localização de pessoas desaparecidas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>disponibilização e divulgação de informações que contenham dados básicos das pessoas desaparecidas na rede mundial de computadores, nos diversos meios de comunicação e em outros meios;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>capacitação permanente dos agentes públicos responsáveis pela investigação dos casos de desaparecimento e pela identificação dos desaparecidos.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para fins do disposto no inciso III deste artigo, participarão, entre outros, representantes:</p>
+            <Inciso id="art4_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>de órgãos de segurança pública;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de órgãos de direitos humanos e de defesa da cidadania;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dos institutos de identificação, de medicina social e de criminologia;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>do Ministério Público;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>da Defensoria Pública;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>da Assistência Social;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>dos Conselhos de Direitos afins;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>dos Conselhos Tutelares.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O Cadastro Nacional de Pessoas Desaparecidas, que tem por objetivo implementar e dar suporte à política de que trata esta Lei, será composto de:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>banco de informações públicas, de livre acesso por meio da rede mundial de computadores, com informações acerca das características físicas das pessoas desaparecidas, fotos e outras informações úteis para sua identificação sempre que não houver risco para a vida da pessoa desaparecida;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>banco de informações sigilosas com registros padronizados de cada ocorrência e com o número do boletim de ocorrência, que deverá ser o mesmo do inquérito policial, bem como informações acerca das características físicas das pessoas desaparecidas, fotos, contatos dos familiares ou responsáveis pela inclusão dos dados do desaparecido no cadastro e qualquer outra informação relevante para a pronta localização do desaparecido;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>banco de informações sigilosas, destinado aos órgãos de segurança pública, que conterá informações genéticas e não genéticas das pessoas desaparecidas e de seus familiares, destinado exclusivamente a encontrar e a identificar a pessoa desaparecida.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O órgão competente implantará, coordenará e atualizará o Cadastro Nacional de Pessoas Desaparecidas em cooperação operacional e técnica com os Estados e demais entes federados.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos Estados, o Cadastro Nacional de Pessoas Desaparecidas ficará a cargo dos órgãos investigativos para a inserção, atualização e validação das informações relacionadas.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No âmbito federal, ficará a cargo da Polícia Federal, por meio do agente de investigação, a interlocução de casos de competência internacional, inclusive a coordenação com a Interpol e com demais órgãos internacionais.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As informações do cadastro serão inseridas, atualizadas e validadas exclusivamente pelas autoridades de segurança pública competentes para a investigação.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A não inserção, a não atualização e a não validação dos dados do Cadastro Nacional de Pessoas Desaparecidas implicará o impedimento de transferências voluntárias da União.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p> Se houver dúvida acerca da identidade do cadáver, promover-se-á a coleta de informações físicas e genéticas, que serão inseridas no cadastro a que se refere o art. 5º desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A autoridade central federal e as autoridades centrais estaduais elaborarão relatório anual, com as estatísticas acerca dos desaparecimentos, do qual deverão constar:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>número total de desaparecidos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>número de crianças e adolescentes desaparecidos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>quantidade de casos solucionados;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>causas dos desaparecimentos solucionados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>A autoridade do órgão de segurança pública, ao ser comunicada sobre o desaparecimento de uma pessoa, em observância às diretrizes elaboradas pela autoridade central, adotará todas as providências visando à sua localização, comunicará o fato às demais autoridades competentes e incluirá as informações no cadastro de que trata o art. 5º desta Lei.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A notificação do desaparecimento será registrada em ato contínuo no Cadastro Nacional de Pessoas Desaparecidas e na Rede de Integração Nacional de Informações de Segurança Pública, Justiça e Fiscalização (Rede Sinesp Infoseg) ou sistema similar de notificação adotado pelo Poder Executivo.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art208_par2-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de desaparecimento de criança, adolescente, pessoa com deficiência ou com doença incapacitante grave, a investigação será realizada imediatamente após a notificação, nos termos do <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art208_par2">§ 2º do art. 208 da Lei n° 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente).</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Aplicar-se-á o disposto no § 2º deste artigo nos casos em que a autoridade policial verificar a existência de qualquer causa que indique a vulnerabilidade do desaparecido.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O desaparecimento de criança ou adolescente será comunicado ao Conselho Tutelar.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A autoridade alertará o comunicante acerca da necessidade de informar o reaparecimento ou retorno da pessoa desaparecida.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>As investigações sobre o desaparecimento serão realizadas até a efetiva localização da pessoa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>As autoridades de segurança pública, mediante autorização judicial, poderão obter dados sobre a localização de aparelho de telefonia móvel sempre que houver indícios de risco à vida ou à integridade física do desaparecido.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Os hospitais, as clínicas e os albergues, públicos ou privados, deverão informar às autoridades públicas a respeito do ingresso ou cadastro de pessoas sem a devida identificação em suas dependências.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O poder público envidará esforços para promover convênios com as emissoras de rádio e televisão para a transmissão de alertas urgentes de desaparecimento, que conterá informações relativas a crianças e adolescentes, observados os seguintes critérios:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>confirmação do desaparecimento pelo órgão de segurança pública competente;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>evidência de que a vida ou a integridade física do desaparecido está em risco;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>descrição detalhada da criança ou adolescente, bem como do raptor ou do veículo envolvido no ato.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A transmissão de alertas restringir-se-á aos casos em que houver informações suficientes para a identificação do desaparecido ou do suspeito, que permitam localizá-lo.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O alerta de que trata o caput deste artigo não será utilizado quando a difusão da mensagem puder implicar aumento do risco para a vítima ou comprometer as investigações em curso.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O convênio de que trata o caput deste artigo pode ser celebrado, ainda, com empresas de transporte e organizações não governamentais.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A autoridade central federal e as autoridades centrais estaduais definirão os agentes responsáveis pela emissão do alerta.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Mediante convênio com órgãos de comunicação social e demais entes privados, o poder público poderá, ainda, promover a divulgação de informações de pessoas desaparecidas sobre as quais não haja indício do risco de que trata o inciso II do art. 12 desta Lei.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A divulgação de informações e imagens de que trata o caput deste artigo será feita mediante prévia autorização dos pais ou do responsável e, no caso de adultos desaparecidos, quando houver indícios da prática de infração penal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art83-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art83">art. 83 da Lei nº 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente), passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art14_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art83_par1_ali2 -> PrefixMatch(URN(1990,Some((7,13)),art83,urn:lex:br:federal:lei:1990-07-13;8069!art83),art83_par1_ali2), art83 -> ExactMatch(URN(1990,Some((7,13)),art83,urn:lex:br:federal:lei:1990-07-13;8069!art83)), art83_cpt -> PrefixMatch(URN(1990,Some((7,13)),art83,urn:lex:br:federal:lei:1990-07-13;8069!art83),art83_cpt), art83_par1 -> PrefixMatch(URN(1990,Some((7,13)),art83,urn:lex:br:federal:lei:1990-07-13;8069!art83),art83_par1), art83_par1_ali1 -> PrefixMatch(URN(1990,Some((7,13)),art83,urn:lex:br:federal:lei:1990-07-13;8069!art83),art83_par1_ali1)))))-->
+              <Artigo xlink:href="art83" id="art14_cpt_alt1_art83" abreAspas="s">
+            
+            
+            <Rotulo>Art. 83.</Rotulo>
+            
+            <Caput xlink:href="art83_cpt" id="art14_cpt_alt1_art83_cpt">
+            
+            
+            
+            <p>Nenhuma criança ou adolescente menor de dezesseis anos poderá viajar para fora da comarca onde reside desacompanhado dos pais ou responsáveis sem expressa autorização judicial.</p>
+            
+          </Caput><Paragrafo xlink:href="art83_par1" id="art14_cpt_alt1_art83_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Alinea xlink:href="art83_par1_ali1" id="art14_cpt_alt1_art83_par1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>tratar-se de comarca contígua à da residência da criança ou do adolescente menor de dezesseis anos, se na mesma unidade da Federação ou incluída na mesma região metropolitana;</p>
+            
+          </Alinea><Alinea xlink:href="art83_par1_ali2" id="art14_cpt_alt1_art83_par1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a criança ou adolescente menor de dezesseis anos estiver acompanhado:</p>
+            
+          </Alinea>
+          </Paragrafo><Omissis id="art14_cpt_alt1_art83_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>O poder público implementará programas de atendimento psicossocial à família de pessoas desaparecidas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O Cadastro Nacional de Crianças Desaparecidas fará parte do Cadastro Nacional de Pessoas Desaparecidas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>O órgão competente do Poder Executivo providenciará número telefônico gratuito, de âmbito nacional, para fornecimento e recebimento de informações relacionadas ao cadastro de que trata esta Lei.</p>
+            
+          </Caput><Paragrafo id="art17_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Cadastro Nacional de Crianças Desaparecidas manterá o número 100, para recebimento de denúncias de desaparecimento de crianças e adolescentes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>O Poder Executivo regulamentará o disposto nesta Lei no prazo de noventa dias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

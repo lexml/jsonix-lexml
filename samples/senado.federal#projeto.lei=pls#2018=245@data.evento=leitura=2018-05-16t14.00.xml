@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;245@data.evento;leitura;2018-05-16t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 245 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei.complementar:1993-02-10;73">Lei Complementar nº 73, de 10 de fevereiro de 1993</span>, que institui a Lei Orgânica da Advocacia-Geral da União e dá outras providências, para instituir vedações à atuação do Advogado-Geral da União.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:1993-02-10;73-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei.complementar:1993-02-10;73">Lei Complementar nº 73, de 10 de fevereiro de 1993</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:1993-02-10;73" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:1993-02-10;73 -> MatchByBase(urn:lex:br:federal:lei.complementar:1993-02-10;73,1993,Some((2,10)),Map(art3_cpt -> PrefixMatch(URN(1993,Some((2,10)),,urn:lex:br:federal:lei.complementar:1993-02-10;73),art3_cpt), art4 -> PrefixMatch(URN(1993,Some((2,10)),,urn:lex:br:federal:lei.complementar:1993-02-10;73),art4), art3_par1 -> PrefixMatch(URN(1993,Some((2,10)),,urn:lex:br:federal:lei.complementar:1993-02-10;73),art3_par1), art4_cpt -> PrefixMatch(URN(1993,Some((2,10)),,urn:lex:br:federal:lei.complementar:1993-02-10;73),art4_cpt), art3 -> PrefixMatch(URN(1993,Some((2,10)),,urn:lex:br:federal:lei.complementar:1993-02-10;73),art3), art4_par4 -> PrefixMatch(URN(1993,Some((2,10)),,urn:lex:br:federal:lei.complementar:1993-02-10;73),art4_par4)))))-->
+              <Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art3_par1" id="art1_cpt_alt1_art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Advogado-Geral da União é o mais elevado órgão de assessoramento jurídico do Poder Executivo.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par4" id="art1_cpt_alt1_art4_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>É vedada ao Advogado-Geral da União, e por extensão aos demais membros da instituição, a representação pessoal e individual, judicial ou extrajudicial, do titular da Presidência da República, dos agentes públicos titulares de Ministério ou de qualquer órgão da Administração Pública federal e dos agentes políticos membros de Poder, quando investigados ou acusados de cometimento de crime comum ou de crime de responsabilidade, nos casos em que a conduta imputada constitua ato lesivo ao patrimônio público ou de entidade de que o Estado participe ou à moralidade administrativa</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

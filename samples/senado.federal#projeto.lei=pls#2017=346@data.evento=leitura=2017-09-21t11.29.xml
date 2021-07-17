@@ -1,0 +1,136 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;346@data.evento;leitura;2017-09-21t11.29"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 346 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1995-05-18;9049">Lei nº 9.049, de 18 de maio de 1995</span>, e a <span xlink:href="urn:lex:br:federal:lei:2017-05-11;13444">Lei nº 13.444, de 11 de maio de 2017</span>, para permitir o registro da condição de “pessoa com deficiência” na Cédula de Identidade e no Documento Nacional de Identidade.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-05-18;9049-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1995-05-18;9049">Lei nº 9.049, de 18 de maio de 1995</span>, passa a vigorar acrescida do seguinte art. 2º-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-05-18;9049" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-05-18;9049 -> MatchByBase(urn:lex:br:federal:lei:1995-05-18;9049,1995,Some((5,18)),Map(art2-1_cpt -> PrefixMatch(URN(1995,Some((5,18)),,urn:lex:br:federal:lei:1995-05-18;9049),art2-1_cpt), art2-1_par1 -> PrefixMatch(URN(1995,Some((5,18)),,urn:lex:br:federal:lei:1995-05-18;9049),art2-1_par1), art2-1_par3 -> PrefixMatch(URN(1995,Some((5,18)),,urn:lex:br:federal:lei:1995-05-18;9049),art2-1_par3), art2-1 -> PrefixMatch(URN(1995,Some((5,18)),,urn:lex:br:federal:lei:1995-05-18;9049),art2-1), art2-1_par2 -> PrefixMatch(URN(1995,Some((5,18)),,urn:lex:br:federal:lei:1995-05-18;9049),art2-1_par2), art2-1_par4 -> PrefixMatch(URN(1995,Some((5,18)),,urn:lex:br:federal:lei:1995-05-18;9049),art2-1_par4)))))-->
+              <Artigo xlink:href="art2-1" id="art1_cpt_alt1_art2-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º-A.</Rotulo>
+            
+            <Caput xlink:href="art2-1_cpt" id="art1_cpt_alt1_art2-1_cpt">
+            
+            
+            
+            <p>A requerimento do titular ou de seu representante legal, poderá ser incluída na Cédula de Identidade informação sobre a condição de pessoa com deficiência.</p>
+            
+          </Caput><Paragrafo xlink:href="art2-1_par1" id="art1_cpt_alt1_art2-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A informação será registrada por meio da expressão “pessoa com deficiência”, podendo ser acompanhada da natureza da deficiência, física, auditiva, visual, sensorial, mental ou intelectual, se houver pedido do interessado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2-1_par2" id="art1_cpt_alt1_art2-1_par2">
+            <!--Link: urn:lex:br:federal:lei:2015-07-06;13146!art2-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O requerimento deverá ser acompanhado de documento comprobatório do reconhecimento da deficiência na forma do <span xlink:href="urn:lex:br:federal:lei:2015-07-06;13146!art2">art. 2º da Lei nº 13.146, de 6 de julho de 2015</span>.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2-1_par3" id="art1_cpt_alt1_art2-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O registro da informação na Cédula de Identidade provará, perante entidades públicas e privadas, a condição de pessoa com deficiência.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2-1_par4" id="art1_cpt_alt1_art2-1_par4" fechaAspas="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A lei poderá exigir avaliação específica como requisito para a obtenção de determinados benefícios concedidos à pessoa com deficiência.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2017-05-11;13444-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2017-05-11;13444">Lei nº 13.444, de 11 de maio de 2017</span>, passa a vigorar acrescida do seguinte art. 8º-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2017-05-11;13444" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2017-05-11;13444 -> MatchByBase(urn:lex:br:federal:lei:2017-05-11;13444,2017,Some((5,11)),Map(art8-1_par5 -> PrefixMatch(URN(2017,Some((5,11)),,urn:lex:br:federal:lei:2017-05-11;13444),art8-1_par5), art8-1_par4 -> PrefixMatch(URN(2017,Some((5,11)),,urn:lex:br:federal:lei:2017-05-11;13444),art8-1_par4), art8-1_par1 -> PrefixMatch(URN(2017,Some((5,11)),,urn:lex:br:federal:lei:2017-05-11;13444),art8-1_par1), art8-1 -> PrefixMatch(URN(2017,Some((5,11)),,urn:lex:br:federal:lei:2017-05-11;13444),art8-1), art8-1_par2 -> PrefixMatch(URN(2017,Some((5,11)),,urn:lex:br:federal:lei:2017-05-11;13444),art8-1_par2), art8-1_cpt -> PrefixMatch(URN(2017,Some((5,11)),,urn:lex:br:federal:lei:2017-05-11;13444),art8-1_cpt), art8-1_par3 -> PrefixMatch(URN(2017,Some((5,11)),,urn:lex:br:federal:lei:2017-05-11;13444),art8-1_par3)))))-->
+              <Artigo xlink:href="art8-1" id="art2_cpt_alt1_art8-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º-A.</Rotulo>
+            
+            <Caput xlink:href="art8-1_cpt" id="art2_cpt_alt1_art8-1_cpt">
+            
+            
+            
+            <p>A requerimento do titular ou de seu representante legal, poderá ser incluída no DNI informação sobre a condição de pessoa com deficiência.</p>
+            
+          </Caput><Paragrafo xlink:href="art8-1_par1" id="art2_cpt_alt1_art8-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A informação será registrada por meio da expressão “pessoa com deficiência”, podendo ser acompanhada da natureza da deficiência, física, auditiva, visual, sensorial, mental ou intelectual, se houver pedido do interessado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-1_par2" id="art2_cpt_alt1_art8-1_par2">
+            <!--Link: urn:lex:br:federal:lei:2015-07-06;13146!art2-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O requerimento deverá ser acompanhado de documento comprobatório do reconhecimento da deficiência na forma do <span xlink:href="urn:lex:br:federal:lei:2015-07-06;13146!art2">art. 2º da Lei nº 13.146, de 6 de julho de 2015</span>.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-1_par3" id="art2_cpt_alt1_art8-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se a informação já houver sido previamente registrada na Cédula de Identidade, o registro no DNI poderá ser efetivado mediante simples confirmação do interesse na transcrição da informação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-1_par4" id="art2_cpt_alt1_art8-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O registro da informação no DNI provará, perante entidades públicas e privadas, a condição de pessoa com deficiência.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8-1_par5" id="art2_cpt_alt1_art8-1_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A lei poderá exigir avaliação específica como requisito para a obtenção de determinados benefícios concedidos à pessoa com deficiência.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor após decorridos 90 (noventa) dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

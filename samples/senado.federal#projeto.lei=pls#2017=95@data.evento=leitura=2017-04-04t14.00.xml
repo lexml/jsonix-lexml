@@ -1,0 +1,178 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;95@data.evento;leitura;2017-04-04t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 95 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2004-12-02;10973">Lei nº 10.973, de 2 de dezembro de 2004</span>, que dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências, e a <span xlink:href="urn:lex:br:federal:lei:2011-08-04;12462">Lei nº 12.462, de 4 de agosto de 2011</span>, que institui o Regime Diferenciado de Contratações Públicas - RDC, para incentivar a criatividade, com o objetivo de fortalecer a economia criativa e as atividades econômicas que direta e indiretamente a compõem.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2004-12-02;10973--><!--Link: urn:lex:br:federal:lei:2011-08-04;12462-->
+            
+            
+            <p>Esta Lei dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica, à inovação e à criatividade e altera as <span xlink:href="urn:lex:br:federal:lei:2004-12-02;10973">Leis nº 10.973, de 2 de dezembro de 2004</span>, e nº <span xlink:href="urn:lex:br:federal:lei:2011-08-04;12462">12.462, de 4 de agosto de 2011</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2004-12-02;10973-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2004-12-02;10973">Lei nº 10.973, de 2 de dezembro de 2004</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2004-12-02;10973" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2004-12-02;10973 -> MatchByBase(urn:lex:br:federal:lei:2004-12-02;10973,2004,Some((12,2)),Map(art1 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art1), art1_par1 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art1_par1), art3_cpt -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art3_cpt), art27_cpt_inc9 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art27_cpt_inc9), art1_cpt -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art1_cpt), art27_cpt -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art27_cpt), art2 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art2), art3_par1 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art3_par1), art27 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art27), art2_cpt -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art2_cpt), art1_par1_inc15 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art1_par1_inc15), art3 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art3), art2_cpt_inc6-1 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art2_cpt_inc6-1), art27_cpt_inc8 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art27_cpt_inc8), art27_cpt_inc7 -> PrefixMatch(URN(2004,Some((12,2)),,urn:lex:br:federal:lei:2004-12-02;10973),art27_cpt_inc7)))))-->
+              <Artigo xlink:href="art1" id="art2_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art2_cpt_alt1_art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art24--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art23--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art167--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art219--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art200--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art218--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art219-1--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art213-->
+            
+            
+            <p>Esta Lei estabelece medidas de incentivo à inovação e à pesquisa científica e tecnológica no ambiente produtivo, com vistas à capacitação tecnológica, ao alcance da autonomia tecnológica, à criatividade e ao desenvolvimento do sistema produtivo nacional e regional do País, nos termos dos <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art23">arts. 23</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art24">24</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art167">167</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art200">200</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art213">213</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art218">218</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art219">219</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art219-1">219-A da Constituição Federal</span>.</p>
+            
+          </Caput><Paragrafo xlink:href="art1_par1u" id="art2_cpt_alt1_art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As medidas às quais se refere o caput deverão observar os seguintes princípios:</p>
+            <Omissis id="art2_cpt_alt1_art1_par1u_omi1"/><Inciso xlink:href="art1_par1u_inc15" id="art2_cpt_alt1_art1_par1u_inc15" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>apoio, incentivo e integração dos inventores independentes às atividades dos Polos de Economia Criativa (PEC).</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art2" id="art2_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art2_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art2_cpt_omi1"/><Inciso xlink:href="art2_cpt_inc6-1" id="art2_cpt_alt1_art2_cpt_inc6-1">
+            
+            
+            <Rotulo>VI-A –</Rotulo>
+            <p>Polos de Economia Criativa (PEC): territórios destinados ao incentivo e ao desenvolvimento de atividades econômicas que compõem a economia criativa, entendida como o ciclo de criação, produção e distribuição de bens e serviços tangíveis ou intangíveis que utilizam a criatividade, a habilidade e o talento de indivíduos ou grupos como insumos primários, sendo composta por atividades econômicas baseadas no conhecimento e capazes de produzir riqueza, gerar emprego e distribuir renda.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art3" id="art2_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art2_cpt_alt1_art3_cpt">
+            
+            
+            
+            <p>A União, os Estados, o Distrito Federal, os Municípios e as respectivas agências de fomento poderão estimular e apoiar a constituição de alianças estratégicas e o desenvolvimento de projetos de cooperação envolvendo empresas, ICTs, PECs e entidades privadas sem fins lucrativos voltados para atividades de pesquisa e desenvolvimento, que objetivem a geração de produtos, processos e serviços inovadores e a transferência e a difusão de tecnologia.</p>
+            
+          </Caput><Paragrafo xlink:href="art3_par1u" id="art2_cpt_alt1_art3_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O apoio previsto no caput poderá contemplar as redes e os projetos internacionais de pesquisa tecnológica, as ações de empreendedorismo tecnológico e de criação de ambientes de inovação e de criatividade, inclusive incubadoras e parques tecnológicos, e a formação e a capacitação de recursos humanos qualificados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art27" id="art2_cpt_alt1_art27" abreAspas="s">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput xlink:href="art27_cpt" id="art2_cpt_alt1_art27_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art27_cpt_omi1"/><Inciso xlink:href="art27_cpt_inc7" id="art2_cpt_alt1_art27_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>estimular o setor empresarial a valorizar seus ativos criativos e inovadores com a finalidade de promover a competitividade de produtos, bens e serviços cujos insumos primários sejam o talento e a criatividade individual e coletiva;</p>
+            
+          </Inciso><Inciso xlink:href="art27_cpt_inc8" id="art2_cpt_alt1_art27_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>melhorar a interatividade entre os atores criativos, culturais e inovadores;</p>
+            
+          </Inciso><Inciso xlink:href="art27_cpt_inc9" id="art2_cpt_alt1_art27_cpt_inc9" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>propor, articular, estimular e divulgar linhas de financiamento, fundos de investimento e outros mecanismos de fomento, com vistas a ampliar o acesso de empreendimentos a essas fontes.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:2011-08-04;12462!art1_cpt_inc10-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2011-08-04;12462!art1_cpt_inc10">inciso X do art. 1º da Lei nº 12.462, de 4 de agosto de 2011</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2011-08-04;12462" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2011-08-04;12462 -> MatchByBase(urn:lex:br:federal:lei:2011-08-04;12462,2011,Some((8,4)),Map(art1 -> SuperPrefixMatch(URN(2011,Some((8,4)),art1_cpt_inc10,urn:lex:br:federal:lei:2011-08-04;12462!art1_cpt_inc10),art1), art1_cpt -> SuperPrefixMatch(URN(2011,Some((8,4)),art1_cpt_inc10,urn:lex:br:federal:lei:2011-08-04;12462!art1_cpt_inc10),art1_cpt), art1_cpt_inc10 -> ExactMatch(URN(2011,Some((8,4)),art1_cpt_inc10,urn:lex:br:federal:lei:2011-08-04;12462!art1_cpt_inc10))))))-->
+              <Artigo xlink:href="art1" id="art3_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art3_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art3_cpt_alt1_art1_cpt_omi1"/><Inciso xlink:href="art1_cpt_inc10" id="art3_cpt_alt1_art1_cpt_inc10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>das ações em órgãos e entidades dedicados à ciência, à tecnologia, à inovação e à criatividade.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

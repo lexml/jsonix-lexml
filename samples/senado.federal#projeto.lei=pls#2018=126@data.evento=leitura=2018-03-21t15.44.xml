@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;126@data.evento;leitura;2018-03-21t15.44"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 126 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-07-25;8072">Lei nº 8.072, de 25 de julho de 1990</span>, para restringir o rol de crimes hediondos e aumentar o tempo mínimo de cumprimento da pena para fins de progressão de regime.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-25;8072!art2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-07-25;8072!art2">art. 2º da Lei nº 8.072, de 25 de julho de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-25;8072" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-25;8072 -> MatchByBase(urn:lex:br:federal:lei:1990-07-25;8072,1990,Some((7,25)),Map(art2 -> ExactMatch(URN(1990,Some((7,25)),art2,urn:lex:br:federal:lei:1990-07-25;8072!art2)), art2_cpt -> PrefixMatch(URN(1990,Some((7,25)),art2,urn:lex:br:federal:lei:1990-07-25;8072!art2),art2_cpt), art2_par2 -> PrefixMatch(URN(1990,Some((7,25)),art2,urn:lex:br:federal:lei:1990-07-25;8072!art2),art2_par2)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1"/><Paragrafo xlink:href="art2_par2" id="art1_cpt_alt1_art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A progressão de regime, no caso dos condenados aos crimes previstos neste artigo, dar-se-á após o cumprimento de 3/4 (três quartos) da pena, se o apenado for primário, e de 5/6 (cinco sextos), se reincidente.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art2_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos 30 (trinta) dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;73@data.evento;leitura;2017-03-28t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 73 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>, para disciplinar a edição de atos de caráter normativo pelas agências reguladoras.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>, passa a vigorar acrescida do seguinte art. 69-B:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1999-01-29;9784" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1999-01-29;9784 -> MatchByBase(urn:lex:br:federal:lei:1999-01-29;9784,1999,Some((1,29)),Map(art69-2_par2 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art69-2_par2), art69-2_par1 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art69-2_par1), art69-2_par3 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art69-2_par3), art69-2_cpt -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art69-2_cpt), art69-2 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art69-2)))))-->
+              <Artigo xlink:href="art69-2" id="art1_cpt_alt1_art69-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 69-B.</Rotulo>
+            
+            <Caput xlink:href="art69-2_cpt" id="art1_cpt_alt1_art69-2_cpt">
+            
+            
+            
+            <p>O Congresso Nacional exercerá, com o auxílio do Tribunal de Contas da União, o controle externo sobre a atividade das agências reguladoras federais.</p>
+            
+          </Caput><Paragrafo xlink:href="art69-2_par1" id="art1_cpt_alt1_art69-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No exercício do seu poder regulamentar, as agências reguladoras deverão, quando a matéria for de interesse geral, obrigatoriamente abrir período de consulta pública para manifestação de terceiros e representantes da sociedade civil.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art69-2_par2" id="art1_cpt_alt1_art69-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O período da consulta pública deverá ser de, no mínimo, trinta dias, devendo ser ampliado de acordo com a complexidade da matéria.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art69-2_par3" id="art1_cpt_alt1_art69-2_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Congresso Nacional deverá ser comunicado imediatamente sempre que for aberta consulta pública voltada à regulamentação de matéria de interesse geral por parte de agência reguladora federal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

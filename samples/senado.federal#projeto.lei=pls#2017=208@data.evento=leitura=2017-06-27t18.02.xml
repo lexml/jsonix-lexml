@@ -1,0 +1,139 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;208@data.evento;leitura;2017-06-27t18.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 208 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210">Lei nº 7.210, de 11 de julho de 1984</span> (Lei de Execução Penal), para dispor sobre a remição de parte do tempo de execução da pena pela leitura.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1984-07-11;7210!art126-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210!art126">art. 126 da Lei nº 7.210, de 11 de julho de 1984</span> (Lei de Execução Penal), passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1984-07-11;7210" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1984-07-11;7210 -> MatchByBase(urn:lex:br:federal:lei:1984-07-11;7210,1984,Some((7,11)),Map(art126_par9_inc3 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc3), art126_par4 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par4), art126_par3 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par3), art126_par9_inc2 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc2), art126_par9_inc6 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc6), art126_par9_inc7 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc7), art126_par9_inc4 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc4), art126 -> ExactMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126)), art126_par9_inc5 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc5), art126_par9_inc9 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc9), art126_par9 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9), art126_par1 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par1), art126_cpt -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_cpt), art126_par9_inc1 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc1), art126_par1_inc3 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par1_inc3), art126_par9_inc8 -> PrefixMatch(URN(1984,Some((7,11)),art126,urn:lex:br:federal:lei:1984-07-11;7210!art126),art126_par9_inc8)))))-->
+              <Artigo xlink:href="art126" id="art1_cpt_alt1_art126" abreAspas="s">
+            
+            
+            <Rotulo>Art. 126.</Rotulo>
+            
+            <Caput xlink:href="art126_cpt" id="art1_cpt_alt1_art126_cpt">
+            
+            
+            
+            <p>O preso ou o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho, estudo ou leitura, parte do tempo de execução da pena.</p>
+            
+          </Caput><Paragrafo xlink:href="art126_par1" id="art1_cpt_alt1_art126_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art126_par1_omi1"/><Inciso xlink:href="art126_par1_inc3" id="art1_cpt_alt1_art126_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>4 (quatro) dias de pena por cada obra lida.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art126_omi1"/><Paragrafo xlink:href="art126_par3" id="art1_cpt_alt1_art126_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para fins de cumulação dos casos de remição, as horas diárias de trabalho, estudo e leitura serão definidas de forma a se compatibilizarem.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art126_par4" id="art1_cpt_alt1_art126_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O preso impossibilitado, por acidente, de prosseguir no trabalho, nos estudos ou na leitura continuará a beneficiar-se com a remição.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art126_omi2"/><Paragrafo xlink:href="art126_par9" id="art1_cpt_alt1_art126_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>A remição de parte do tempo de execução da pena do preso ou condenado pela leitura observará os seguintes aspectos:</p>
+            <Inciso xlink:href="art126_par9_inc1" id="art1_cpt_alt1_art126_par9_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>constituição, por parte da autoridade penitenciária estadual ou federal, de projeto específico de remição pela leitura, atendendo a pressupostos de ordem objetiva;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc2" id="art1_cpt_alt1_art126_par9_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>participação do preso ou condenado de forma voluntária, disponibilizando-se ao participante um exemplar de obra literária, clássica, científica, técnica ou filosófica, dentre outras, de acordo com o acervo disponível na unidade, adquiridas pelo Poder Judiciário, pelo Departamento Penitenciário Nacional, pelas Secretarias Estaduais ou Superintendências de Administração Penitenciária dos Estados ou por outros órgãos de execução penal e doadas aos respectivos estabelecimentos prisionais;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc3" id="art1_cpt_alt1_art126_par9_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>participação no projeto, quanto possível, de presos submetidos à prisão cautelar;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc4" id="art1_cpt_alt1_art126_par9_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>acervos das bibliotecas de, no mínimo, cinco exemplares de cada obra a ser trabalhada no desenvolvimento de atividades;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc5" id="art1_cpt_alt1_art126_par9_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>prazo de até 30 (trinta) dias para a leitura de cada obra, com apresentação, ao final do período, de resenha sobre o assunto, possibilitando, segundo critério estabelecido de avaliação, a remição de 4 (quatro) dias de pena por obra lida, com possibilidade de até 12 (doze) obras lidas e avaliadas a cada período de 12 (doze) meses, de acordo com a capacidade gerencial da unidade prisional;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc6" id="art1_cpt_alt1_art126_par9_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>análise por comissão organizadora, em prazo razoável, dos trabalhos produzidos, observando-se os aspectos relacionados à compreensão e à compatibilidade do texto com o livro trabalhado, e envio do resultado da avaliação, por ofício, ao juiz de execução penal competente, a fim de que este decida sobre o aproveitamento da leitura realizada, contabilizando-se 4 (quatro) dias de remição de pena, por obra lida, para os que alcançarem os objetivos propostos;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc7" id="art1_cpt_alt1_art126_par9_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>aferição e declaração da remição pelo juízo da execução penal competente, ouvidos o Ministério Público e a defesa;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc8" id="art1_cpt_alt1_art126_par9_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>encaminhamento mensal, pelo diretor do estabelecimento penal, estadual ou federal, ao juízo da execução penal competente, de cópia do registro de todos os presos ou condenados participantes do projeto, com informações sobre o item de leitura de cada um deles;</p>
+            
+          </Inciso><Inciso xlink:href="art126_par9_inc9" id="art1_cpt_alt1_art126_par9_inc9" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>fornecimento ao preso ou condenado da relação dos dias de sua pena remidos pela leitura.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

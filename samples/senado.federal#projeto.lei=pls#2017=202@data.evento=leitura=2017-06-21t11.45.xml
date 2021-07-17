@@ -1,0 +1,148 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;202@data.evento;leitura;2017-06-21t11.45"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 202 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span> – Estatuto da Criança e do Adolescente – e a <span xlink:href="urn:lex:br:federal:lei:2003-11-24;10778">Lei nº 10.778, de 24 de novembro de 2003</span>, que estabelece a notificação compulsória, no território nacional, do caso de violência contra a mulher que for atendida em serviços de saúde públicos ou privados, para prever a obrigatoriedade de os profissionais de saúde notificarem e comunicarem à autoridade policial os casos de violência contra mulher ou pessoa com identidade de gênero feminina e de crime contra a dignidade sexual de crianças ou adolescentes.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art13_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art13_cpt">caput do art. 13 da Lei nº 8.069, de 13 de julho de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art13 -> SuperPrefixMatch(URN(1990,Some((7,13)),art13_cpt,urn:lex:br:federal:lei:1990-07-13;8069!art13_cpt),art13), art13_cpt -> ExactMatch(URN(1990,Some((7,13)),art13_cpt,urn:lex:br:federal:lei:1990-07-13;8069!art13_cpt))))))-->
+              <Artigo xlink:href="art13" id="art1_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art1_cpt_alt1_art13_cpt">
+            
+            
+            
+            <p>São de notificação obrigatória pelos profissionais de saúde, à autoridade sanitária, os casos suspeitos ou confirmados, atendidos nos serviços de saúde públicos ou privados, de crime contra a dignidade sexual de criança ou adolescente, de castigo físico, de tratamento cruel ou degradante e de maus-tratos contra criança ou adolescente, que serão obrigatoriamente comunicados ao Conselho Tutelar da respectiva localidade, sem prejuízo de outras providências legais.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art13_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span>, passa a vigorar acrescida do seguinte art. 13-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art13-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art13-1), art13-1_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art13-1_cpt)))))-->
+              <Artigo xlink:href="art13-1" id="art2_cpt_alt1_art13-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13-A.</Rotulo>
+            
+            <Caput xlink:href="art13-1_cpt" id="art2_cpt_alt1_art13-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Os profissionais de saúde que atenderem casos suspeitos ou confirmados de crime contra a dignidade sexual de crianças ou adolescentes deverão comunicá-los à autoridade policial, em até 24 (vinte e quatro horas), a fim de que sejam adotadas as providências legais cabíveis.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-11-24;10778!art1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2003-11-24;10778!art1">art. 1º da Lei nº 10.778, de 24 de novembro de 2003</span>, passa a vigorar com a seguinte redação dada ao § 1º e acrescido do seguinte § 4º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2003-11-24;10778" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2003-11-24;10778 -> MatchByBase(urn:lex:br:federal:lei:2003-11-24;10778,2003,Some((11,24)),Map(art1 -> ExactMatch(URN(2003,Some((11,24)),art1,urn:lex:br:federal:lei:2003-11-24;10778!art1)), art1_cpt -> PrefixMatch(URN(2003,Some((11,24)),art1,urn:lex:br:federal:lei:2003-11-24;10778!art1),art1_cpt), art1_par1 -> PrefixMatch(URN(2003,Some((11,24)),art1,urn:lex:br:federal:lei:2003-11-24;10778!art1),art1_par1), art1_par4 -> PrefixMatch(URN(2003,Some((11,24)),art1,urn:lex:br:federal:lei:2003-11-24;10778!art1),art1_par4)))))-->
+              <Artigo xlink:href="art1" id="art3_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art3_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art1_par1" id="art3_cpt_alt1_art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para os efeitos desta Lei, entende-se por violência contra a mulher qualquer ação ou conduta baseada no gênero, inclusive decorrente de discriminação ou desigualdade étnica ou por orientação sexual ou identidade de gênero, que cause morte, dano ou sofrimento físico, sexual ou psicológico à vítima, tanto no âmbito público quanto no privado.</p>
+            
+          </Paragrafo><Omissis id="art3_cpt_alt1_art1_omi1"/><Paragrafo xlink:href="art1_par4" id="art3_cpt_alt1_art1_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para os efeitos desta Lei, a violência contra a mulher abrange também a violência cometida contra mulheres transexuais ou travestis ou quaisquer outras pessoas com identidade de gênero feminina.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-11-24;10778-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2003-11-24;10778">Lei nº 10.778, de 24 de novembro de 2003</span>, passa a vigorar acrescida do seguinte art. 3º-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2003-11-24;10778" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2003-11-24;10778 -> MatchByBase(urn:lex:br:federal:lei:2003-11-24;10778,2003,Some((11,24)),Map(art3-1 -> PrefixMatch(URN(2003,Some((11,24)),,urn:lex:br:federal:lei:2003-11-24;10778),art3-1), art3-1_cpt -> PrefixMatch(URN(2003,Some((11,24)),,urn:lex:br:federal:lei:2003-11-24;10778),art3-1_cpt)))))-->
+              <Artigo xlink:href="art3-1" id="art4_cpt_alt1_art3-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º-A.</Rotulo>
+            
+            <Caput xlink:href="art3-1_cpt" id="art4_cpt_alt1_art3-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Os casos de notificação compulsória de que trata esta Lei deverão ser comunicados à autoridade policial, em até 24 (vinte e quatro horas), a fim de que sejam adotadas as providências legais cabíveis.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

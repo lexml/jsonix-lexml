@@ -1,0 +1,169 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;13"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 13 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei n° 2.848, de 7 de dezembro de 1940</span> (Código Penal), e as <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Leis nºs 8.069, de 13 de julho de 1990</span>, e <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">10.406, de 10 de janeiro de 2002</span> (Código Civil), para dispor sobre hipóteses de perda de poder familiar.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848--><!--Link: urn:lex:br:federal:lei:1990-07-13;8069--><!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>Esta Lei altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal), e as <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Leis nºs 8.069, de 13 de julho de 1990</span>, e a <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), para dispor sobre a perda do poder familiar pelo autor de determinados crimes contra outrem igualmente titular do mesmo poder familiar, filho ou filha ou outro descendente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art92_cpt_inc2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art92_cpt_inc2">inciso II do caput do art. 92 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal), passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art92 -> SuperPrefixMatch(URN(1940,Some((12,7)),art92_cpt_inc2,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art92_cpt_inc2),art92), art92_cpt -> SuperPrefixMatch(URN(1940,Some((12,7)),art92_cpt_inc2,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art92_cpt_inc2),art92_cpt), art92_cpt_inc2 -> ExactMatch(URN(1940,Some((12,7)),art92_cpt_inc2,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art92_cpt_inc2))))))-->
+              <Artigo xlink:href="art92" id="art2_cpt_alt1_art92" abreAspas="s">
+            
+            
+            <Rotulo>Art. 92.</Rotulo>
+            
+            <Caput xlink:href="art92_cpt" id="art2_cpt_alt1_art92_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art92_cpt_omi1"/><Inciso xlink:href="art92_cpt_inc2" id="art2_cpt_alt1_art92_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a incapacidade para o exercício do poder familiar, tutela ou curatela nos crimes dolosos sujeitos à pena de reclusão cometidos contra filho ou filha ou outro descendente, tutelado, curatelado ou outrem igualmente titular do mesmo poder familiar;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art92_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art23_cpt-->
+            
+            
+            <p>O § 2º do <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art23_cpt">caput do art. 23 da Lei nº 8.069, de 13 de julho de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art23 -> SuperPrefixMatch(URN(1990,Some((7,13)),art23_cpt,urn:lex:br:federal:lei:1990-07-13;8069!art23_cpt),art23), art23_cpt -> ExactMatch(URN(1990,Some((7,13)),art23_cpt,urn:lex:br:federal:lei:1990-07-13;8069!art23_cpt)), art23_par2 -> NoMatch(URN(1990,Some((7,13)),art23_cpt,urn:lex:br:federal:lei:1990-07-13;8069!art23_cpt),art23_par2)))))-->
+              <Artigo xlink:href="art23" id="art3_cpt_alt1_art23" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput xlink:href="art23_cpt" id="art3_cpt_alt1_art23_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art3_cpt_alt1_art23_omi1"/><Paragrafo xlink:href="art23_par2" id="art3_cpt_alt1_art23_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A condenação criminal do pai ou da mãe não implicará a destituição do poder familiar, exceto na hipótese de condenação por crime doloso, sujeito à pena de reclusão, contra outrem igualmente titular do mesmo poder familiar, filho ou filha ou outro descendente.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>O art. 1.638 da <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), passa a vigorar acrescido dos seguintes §§ 1º, 2º e 3º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-01-10;10406" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-01-10;10406 -> MatchByBase(urn:lex:br:federal:lei:2002-01-10;10406,2002,Some((1,10)),Map(art1638_par2_inc1 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_par2_inc1), art1638_par2_inc2 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_par2_inc2), art1638_par1_inc2 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_par1_inc2), art1638_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_cpt), art1638_par1 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_par1), art1638_par2 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_par2), art1638_par1_inc1 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_par1_inc1), art1638 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638)))))-->
+              <Artigo xlink:href="art1638" id="art4_cpt_alt1_art1638" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.638.</Rotulo>
+            
+            <Caput xlink:href="art1638_cpt" id="art4_cpt_alt1_art1638_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art1638_par1" id="art4_cpt_alt1_art1638_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Perderá também por ato judicial o poder familiar aquele que praticar contra outrem igualmente titular do mesmo poder familiar:</p>
+            <Inciso xlink:href="art1638_par1_inc1" id="art4_cpt_alt1_art1638_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>homicídio, feminicídio ou lesão corporal de natureza grave ou seguida de morte quando se tratar de crime doloso e envolver violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher;</p>
+            
+          </Inciso><Inciso xlink:href="art1638_par1_inc2" id="art4_cpt_alt1_art1638_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estupro ou outro crime contra a dignidade sexual sujeito à pena de reclusão.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art1638_par2" id="art4_cpt_alt1_art1638_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Perderá ainda por ato judicial o poder familiar aquele que praticar contra filho, filha ou outro descendente:</p>
+            <Inciso xlink:href="art1638_par2_inc1" id="art4_cpt_alt1_art1638_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>homicídio, feminicídio ou lesão corporal de natureza grave ou seguida de morte quando se tratar de crime doloso e envolver violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher;</p>
+            
+          </Inciso><Inciso xlink:href="art1638_par2_inc2" id="art4_cpt_alt1_art1638_par2_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estupro, estupro de vulnerável ou outro crime contra a dignidade sexual sujeito à pena de reclusão.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

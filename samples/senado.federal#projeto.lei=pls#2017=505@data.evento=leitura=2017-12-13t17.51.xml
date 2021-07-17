@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;505@data.evento;leitura;2017-12-13t17.51"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 505 DE 2017</Epigrafe>
+      <Ementa id="ementa">Cria a Universidade Federal do Maranhão do Sul (UFMA-Sul), no Estado do Maranhão.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica o Poder Executivo autorizado a criar a Universidade Federal do Maranhão do Sul (UFMA-SUL), vinculada ao Ministério da Educação, com sede e foro no Município de Imperatriz, no Estado do Maranhão.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Universidade Federal do Maranhão do Sul (UFMA-Sul) terá como objetivos ministrar ensino superior, desenvolver pesquisas e promover extensão universitária voltadas especialmente para as vocações e necessidades da sua área de influência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A estrutura organizacional e as normas de funcionamento da Universidade Federal do Maranhão do Sul (UFMA-Sul), observado o princípio de indissociabilidade entre ensino, pesquisa e extensão, serão definidas em seu Estatuto.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Fica o Poder Executivo autorizado a praticar os atos necessários ao cumprimento do disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A instalação da universidade de que dispõe esta Lei subordina-se a previa consignação, no Orçamento da União, das dotações orçamentárias necessárias ao seu funcionamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

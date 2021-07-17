@@ -1,0 +1,76 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;54@data.evento;leitura;2017-06-14t09.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 54 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a garantia aos profissionais do magistério de desconto em livros, periódicos e materiais didáticos correlatos vinculados à sua área de ensino e de atuação profissional.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Será garantido aos profissionais do magistério desconto de, ao menos, 20% (vinte por cento) em livros, periódicos e materiais didáticos correlatos vinculados à sua área de ensino e de atuação profissional, nos termos do regulamento.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394!art64-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Por profissionais do magistério entendem-se aqueles atuantes nas funções de magistério, compreendidas as de docência e planejamento, administração, supervisão, orientação e inspeção educacionais, nos termos do <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394!art64">art. 64 da Lei nº 9.394, de 20 de dezembro de 1996</span>, em efetivo exercício nas redes pública e particular de educação infantil, de ensino fundamental, de ensino médio, bem como os docentes da educação superior.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A comprovação da qualidade de profissional do magistério far-se-á pela apresentação de pelo menos um dos seguintes documentos que permita sua clara caracterização:</p>
+            <Inciso id="art1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>carteira de trabalho;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>carteira funcional emitida pelo órgão público competente;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>comprovante de renda que identifique a função de magistério exercida;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>documento sindical.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

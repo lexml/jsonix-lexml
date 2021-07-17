@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;324@data.evento;leitura;2017-09-14t11.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 324 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o art. 213 do Código Penal para prever o crime de importunação mediante prática de ato libidinoso.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art213-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art213">art. 213 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> - Código Penal, passa a vigorar acrescido do seguinte § 3º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art213 -> ExactMatch(URN(1940,Some((12,7)),art213,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art213)), art213_cpt -> PrefixMatch(URN(1940,Some((12,7)),art213,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art213),art213_cpt), art213_par3 -> PrefixMatch(URN(1940,Some((12,7)),art213,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art213),art213_par3), art213_par3_pena -> PrefixMatch(URN(1940,Some((12,7)),art213,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art213),art213_par3_pena)))))-->
+              <Artigo xlink:href="art213" id="art1_cpt_alt1_art213" abreAspas="s">
+            
+            
+            <Rotulo>Art. 213.</Rotulo>
+            
+            <Caput xlink:href="art213_cpt" id="art1_cpt_alt1_art213_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art213_omi1"/><Paragrafo xlink:href="art213_par3" id="art1_cpt_alt1_art213_par3">
+            
+            <TituloDispositivo>Importunação mediante prática de ato libidinoso</TituloDispositivo>
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se o agente importuna a vítima mediante a pratica de ato libidinoso, sem violência ou grave ameaça:</p>
+            <Pena xlink:href="art213_par3_pena" id="art1_cpt_alt1_art213_par3_pena" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>reclusão, de 2 (dois) a 5 (cinco) anos.</p>
+            
+          </Pena>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

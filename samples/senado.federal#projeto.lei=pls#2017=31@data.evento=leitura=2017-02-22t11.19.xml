@@ -1,0 +1,88 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;31@data.evento;leitura;2017-02-22t11.19"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 31 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span>, que “dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências”, para estabelecer prazo máximo para a conclusão do procedimento de adoção após o início do estágio de convivência.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art46-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art46">art. 46 da Lei nº 8.069, de 13 de julho de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art46 -> ExactMatch(URN(1990,Some((7,13)),art46,urn:lex:br:federal:lei:1990-07-13;8069!art46)), art46_cpt -> PrefixMatch(URN(1990,Some((7,13)),art46,urn:lex:br:federal:lei:1990-07-13;8069!art46),art46_cpt)))))-->
+              <Artigo xlink:href="art46" id="art1_cpt_alt1_art46" abreAspas="s">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput xlink:href="art46_cpt" id="art1_cpt_alt1_art46_cpt">
+            
+            
+            
+            <p>A adoção será precedida de estágio de convivência com a criança ou adolescente, pelo prazo que a autoridade judiciária fixar, observadas as peculiaridades do caso e o prazo máximo para a conclusão do procedimento.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art46_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art47-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art47">art. 47 da Lei nº 8.069, de 13 de julho de 1990</span>, passa a vigorar acrescido do seguinte § 10:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art47 -> ExactMatch(URN(1990,Some((7,13)),art47,urn:lex:br:federal:lei:1990-07-13;8069!art47)), art47_cpt -> PrefixMatch(URN(1990,Some((7,13)),art47,urn:lex:br:federal:lei:1990-07-13;8069!art47),art47_cpt), art47_par10 -> PrefixMatch(URN(1990,Some((7,13)),art47,urn:lex:br:federal:lei:1990-07-13;8069!art47),art47_par10)))))-->
+              <Artigo xlink:href="art47" id="art2_cpt_alt1_art47" abreAspas="s">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput xlink:href="art47_cpt" id="art2_cpt_alt1_art47_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art47_omi1"/><Paragrafo xlink:href="art47_par10" id="art2_cpt_alt1_art47_par10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Iniciado o estágio de convivência, o prazo máximo para conclusão do procedimento de adoção será de doze meses.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação, aplicando-se o prazo de doze meses previsto no art. 2º aos procedimentos de adoção que já estiverem em curso.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

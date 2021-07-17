@@ -1,0 +1,898 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;318@data.evento;leitura;2017-09-12t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 318 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o replanejamento de dívida e a insolvência civil.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DAS DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre o replanejamento de dívida e a insolvência civil de devedores em situação de vulnerabilidade financeira.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Consideram-se em vulnerabilidade financeira os devedores em situação de endividamento que ultrapassa ou ameaça seriamente ultrapassar o valor dos seus bens penhoráveis.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Presume-se a vulnerabilidade financeira quando:</p>
+            <Inciso id="art1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o devedor não possuir outros bens livres e desembaraçados para nomear à penhora; Il – não forem encontrados bens penhoráveis de quem não tenha sido encontrado mesmo após citação ou intimação por edital.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É cabível agravo de instrumento contra as decisões interlocutórias proferidas no processo previsto nesta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DO REPLANEJAMENTO DE DÍVIDA</NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O replanejamento de dívida objetiva garantir ao devedor a condição de recuperar-se da sua situação de vulnerabilidade financeira na forma desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O replanejamento de dívida poderá ser requerido pelo devedor pessoalmente ou por seu representante convencional ou legal com poderes específicos.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Só poderá requerer o replanejamento de dívida o devedor que não tiver sido submetido a replanejamento de dívida ou a insolvência civil nos cinco anos anteriores.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O requerimento de replanejamento de dívida será iniciado por petição inicial que conterá:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a relação nominal de todos os credores, com indicação do domicílio de cada um, da importância, da natureza dos respectivos créditos e, se possível, dos documentos comprobatórios desses créditos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a individuação de todos os bens penhoráveis e não penhoráveis do devedor, com a estimativa do valor de cada um, acompanhada de avaliações por corretores de imóveis, quando se tratar de bens de raiz;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o relatório do estado patrimonial, com a exposição das causas que conduziram à vulnerabilidade financeira e das fontes de rendas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a proposta de plano de pagamento das dívidas.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O plano de pagamento envolverá proposta de pagamento que:</p>
+            <Inciso id="art4_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>preserve o mínimo existencial do devedor;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>envolva dilação dos prazos de pagamento das dívidas no prazo máximo de 5 (cinco) anos;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ofereça garantias creditórias, se viável;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>distribua as deduções e as flexibilizações de modo equitativo entre as dívidas, podendo ser levado em conta critérios de proporcionalidade ou de relevância;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>outras medidas destinadas a facilitar o pagamento;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>data a partir da qual será providenciada a exclusão do nome do devedor de bancos de dados e cadastros de inadimplentes, se for o caso.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Os credores serão citados, com cópia da petição inicial, para audiência de conciliação presidida pelo juiz ou por conciliador credenciado.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Além do endereço indicado pelo devedor, o juiz determinará a consulta dos endereços dos credores na base de dados da Secretaria da Receita Federal do Brasil e do Banco Central do Brasil e, em seguida, determinará a citação em todos os endereços pelo correio.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Concomitantemente às providências previstas no § 1º, o juiz determinará a citação por edital de todos os credores e interessados, caso em que se presumirão citados em sua totalidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A audiência de conciliação poderá ser dividida em mais de um dia, caso as partes não tenham condições de estabelecer acordo.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A ausência de credores devidamente intimados não impedirá a realização da audiência, mas os seus créditos deverão ser contemplados na proposta de conciliação que eventualmente resulte da audiência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Os credores poderão apresentar impugnações até o prazo de 15 (quinze) dias da publicação da ata de encerramento da audiência de conciliação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Não havendo necessidade de produção de provas, o juiz prolatará sentença, decidindo com base na equidade e podendo homologar o acordo de conciliação, aprovar o plano de pagamento oferecido pelo devedor ou fixar outro plano de pagamento compulsório, entre outras soluções que a equidade indicar.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A improcedência total do pedido de replanejamento deverá ser feita por decisão interlocutória, observado o disposto no art. 9º.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O juiz deverá atentar para os seguintes parâmetros:</p>
+            <Inciso id="art8_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>eficiência na satisfação dos créditos;</p>
+            
+          </Inciso><Inciso id="art8_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>proteção ao mínimo existencial do devedor;</p>
+            
+          </Inciso><Inciso id="art8_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>práticas de mercado em renegociações de dívida semelhantes;</p>
+            
+          </Inciso><Inciso id="art8_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>igualdade material na distribuição dos ônus entre os credores;</p>
+            
+          </Inciso><Inciso id="art8_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>viabilidade do cumprimento do plano de pagamento.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para evitar o agravamento da situação de insolvência, o juiz poderá:</p>
+            <Inciso id="art8_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>impor obrigações de fazer e de não fazer ao devedor;</p>
+            
+          </Inciso><Inciso id="art8_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>determinar a entrega total ou parcial da administração do patrimônio do devedor a terceiros.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A sentença proferida nos termos do caput deste artigo constitui título executivo judicial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Por decisão interlocutória, o juiz decretará a insolvência civil no caso de:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o pedido de replanejamento de dívida ser julgado improcedente por falta de viabilidade de um plano de pagamento; ou</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ter havido descumprimento do plano de pagamento ou das obrigações acessórias impostas pelo juiz.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese deste artigo, o processo passará a seguir o rito previsto para a insolvência civil.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A decisão de que trata este artigo poderá ser proferida antes mesmo da citação dos devedores quando o juiz verificar manifesta inviabilidade do plano de pagamento oferecido pelo devedor ou a manifesta ausência dos requisitos legais.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DA INSOLVÊNCIA CIVIL</NomeAgrupador>
+            <Secao id="cap3_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da fase de decretação da insolvência civil</NomeAgrupador>
+            <Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O juiz decretará a insolvência civil do devedor em situação de vulnerabilidade financeira apenas nas hipóteses previstas em lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>A decretação de insolvência pode ser requerida:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo devedor;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>por qualquer credor quirografário ou com garantia insuficiente, desde que tenha crédito fundado em título executivo judicial ou extrajudicial.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Na hipótese do inciso I do art. 11, a petição inicial deverá conter os requisitos dos incisos I a III do art. 4º desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Na hipótese do inciso II do art. 11, a petição inicial deverá ser instruída com o título executivo judicial ou extrajudicial que respalda o crédito.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O devedor será citado para, no prazo de 15 (quinze) dias, opor impugnação nos mesmos autos, podendo alegar:</p>
+            <Inciso id="art13_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as matérias admissíveis para impugnar, conforme o caso, o cumprimento de sentença ou os embargos à execução de título executivo extrajudicial;</p>
+            
+          </Inciso><Inciso id="art13_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a não caracterização da situação de vulnerabilidade financeira.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Sem prejuízo do direito à impugnação, o devedor poderá impedir a decretação de insolvência se, no prazo da impugnação:</p>
+            <Inciso id="art13_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>depositar a importância integral do crédito vencido; ou</p>
+            
+          </Inciso><Inciso id="art13_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>formular pedido de replanejamento de dívida, observado os requisitos do art. 4º desta Lei.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art13_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Feito o depósito elisivo de que trata o § 3º deste artigo, o juiz extinguirá o feito com resolução do mérito.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Requerido o replanejamento de dívida e não sendo o caso de manifesto descabimento do pedido, o juiz prolatará decisão interlocutória determinando a observância do procedimento do planejamento civil, caso em que a impugnação do devedor será levada em conta na decisão final desse procedimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Não havendo provas a produzir e ante a falta do depósito elisivo, o juiz dará sentença em 15 (quinze) dias.</p>
+            
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Havendo provas a produzir, o juiz designará audiência de instrução e julgamento, se for o caso.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>Na sentença que decretar a insolvência civil, o juiz:</p>
+            <Inciso id="art15_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nomeará um administrador da massa, preferencialmente entre os credores; e</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>mandará expedir edital, convocando os credores para que apresentem, no prazo de 20 (vinte) dias, a declaração do crédito, acompanhada do respectivo título e com indicação da existência de alguma preferência ou privilégio creditórios na forma dos arts. 955 ao 965 da <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), se já não tiver sido tomada tal providência na fase de replanejamento de dívida.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>A decretação de insolvência do devedor produz:</p>
+            <Inciso id="art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o vencimento antecipado das suas dívidas;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a arrecadação de todos os seus bens suscetíveis de penhora, quer os atuais, quer os adquiridos no curso do processo;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a execução por concurso universal dos seus credores.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na mesma oportunidade da perda do direito de administração e de disposição dos bens pelo devedor, poderá o juiz autorizar que o devedor utilize livremente até 50% (cinquenta por cento) dos seus rendimentos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Ao juízo da insolvência concorrerão todos os credores do devedor comum.</p>
+            
+          </Caput><Paragrafo id="art17_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As execuções movidas por credores individuais serão remetidas ao juízo da insolvência.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Havendo, em alguma execução, dia designado para a praça ou o leilão, far-se-á a arrematação, entrando para a massa o produto dos bens.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap3_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Das atribuições do administrador</NomeAgrupador>
+            <Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>A massa dos bens do devedor insolvente ficará sob a custódia e responsabilidade de um administrador, que exercerá as suas atribuições, sob a direção e superintendência do juiz.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>Nomeado o administrador, o escrivão o intimará a assinar, dentro de 24 (vinte e quatro) horas, termo de compromisso de desempenhar bem e fielmente o cargo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Cumpre ao administrador:</p>
+            <Inciso id="art20_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>arrecadar todos os bens do devedor, onde quer que estejam, requerendo para esse fim as medidas judiciais necessárias;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>representar a massa, ativa e passivamente, contratando advogado, cujos honorários serão previamente ajustados e submetidos à aprovação judicial;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>praticar todos os atos conservatórios de direitos e de ações, bem como promover a cobrança das dívidas ativas;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>alienar, com autorização judicial, os bens da massa.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>O administrador terá direito a uma remuneração, que o juiz arbitrará, atendendo à sua diligência, ao trabalho, à responsabilidade da função e à importância da massa.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap3_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Da verificação e da classificação dos créditos</NomeAgrupador>
+            <Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Findo o prazo, a que se refere o inciso II do art. 15, o escrivão, dentro de 15 (cinco) dias:</p>
+            <Inciso id="art22_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ordenará todas as declarações, autuando cada uma com o seu respectivo título;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>intimará, mediante publicação no órgão oficial, todos os credores para, no prazo comum de 30 (trinta) dias, oferecerem impugnação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Não havendo impugnações, o escrivão remeterá os autos ao contador, que organizará o quadro geral dos credores, observando, quanto à classificação dos créditos e dos títulos legais de preferência, o que dispuser a lei civil.</p>
+            
+          </Caput><Paragrafo id="art23_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Entre os credores de mesma classe, a organização deverá ser feita em ordem alfabética.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Ouvidos todos os interessados, no prazo de 10 (dez) dias, sobre o quadro geral dos credores, o juiz proferirá sentença.</p>
+            
+          </Caput><Paragrafo id="art24_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Havendo impugnação pelo credor ou pelo devedor, o juiz deferirá, quando necessário, a produção de provas e em seguida proferirá sentença.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap3_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Do pagamento e do saldo devedor remanescente</NomeAgrupador>
+            <Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Entre os credores da mesma classe, todos terão direito à mesma porção de pagamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>Para o pagamento dos credores, o juiz adotará, entre outras, as seguintes medidas:</p>
+            <Inciso id="art26_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>determinará a reversão, para a quitação das dívidas, pelo prazo máximo de 5 (cinco anos) a partir da sentença de homologação do quadro geral de credores:</p>
+            <Alinea id="art26_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>de até 50% (cinquenta por cento) dos rendimentos auferidos pelo devedor;</p>
+            
+          </Alinea><Alinea id="art26_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>dos frutos dos seus bens;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art26_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estimulará a dação em pagamento mediante aceitação dos credores de receberem bens não pecuniários do devedor levando em conta o valor de avaliação;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>alienação de bens por iniciativa particular ou por leilão, quando se verificar que a exploração dos frutos desses bens não é recomendável.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art26_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O juiz deverá, com base na equidade, privilegiar meios de pagamento menos onerosos ao devedor e buscar, ao máximo, preservar a propriedade do devedor sobre bens que sejam essenciais à sua dignidade e à sua profissão.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par2">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art833_cpt_inc4-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As disposições do inciso II do caput excepcionam quaisquer regras de impenhorabilidade, com inclusão da prevista no <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art833_cpt_inc4">inciso IV do art. 833 da Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil).</p>
+            
+          </Paragrafo><Paragrafo id="art26_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O juiz poderá autorizar a penhora de imóvel considerado bem de família, se de valor superior a 1.000 (mil) salários mínimos, caso em que, apurado o valor em dinheiro, a quantia até aquele limite será entregue ao devedor, sob cláusula de impenhorabilidade.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para efeito do disposto no § 3º deste artigo, o juiz deverá adotar o meio mais eficiente e menos oneroso de efetivação da reversão do excesso aos credores, como a realização de permutas com torna em dinheiro, o desmembramento do imóvel, a alienação por iniciativa particular, entre outros.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Se os bens da massa não forem suficientes para a quitação imediata de todos os débitos, tornar-se-ão inexigíveis todos os acréscimos à dívida principal, tais como os juros de mora e a multa moratória, com exceção da correção monetária.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap3_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Da extinção das obrigações</NomeAgrupador>
+            <Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>Não satisfeitos os credores apesar das medidas de que trata o art. 26 ao longo do prazo de 5 (cinco) anos a partir da sentença de homologação do quadro geral de credores, extinguem-se as obrigações remanescentes.</p>
+            
+          </Caput><Paragrafo id="art27_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O devedor poderá pedir ao juízo da insolvência a declaração de extinção das obrigações remanescentes, caso em que o juiz intimará os credores, por edital e por correio, nos termos do art. 5º, §§ 1º e 2º, desta Lei, para oferecer impugnação no prazo de 15 (quinze) dias.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Ouvido o devedor, o juiz proferirá sentença no prazo de 10 (dez) dias; havendo provas a produzir, o juiz designará audiência de instrução e julgamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>A sentença, declarando extintas as obrigações, habilitará o devedor a praticar plenamente os atos da vida civil.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS</NomeAgrupador>
+            <Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>Ao credor retardatário é assegurado o direito de disputar, por ação direta, antes do rateio final, a prelação ou a cota proporcional ao seu crédito.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>O juiz poderá, a requerimento do interessado, determinar liminarmente a indisponibilidade de todos os bens do devedor, mesmo antes da citação do devedor, quando verificar plausibilidade jurídica no pedido de insolvência.</p>
+            
+          </Caput><Paragrafo id="art30_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na hipótese do caput deste artigo, caso o crédito do requerente seja tido por indevido, caber-lhe-á pagar ao devedor o percentual de 5% (cinco por cento) do patrimônio total bloqueado a título de indenização, independentemente de prova de danos, sem prejuízo de, mediante prova específica, ser obrigado a pagar indenização suplementar.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            <!--Link: urn:lex:br:federal:lei:1973-01-11;5869-->
+            
+            
+            <p>Revogam-se o Livro II, Título IV, da <span xlink:href="urn:lex:br:federal:lei:1973-01-11;5869">Lei nº 5.869,de 11 de janeiro de 1973</span>.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

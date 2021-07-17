@@ -1,0 +1,184 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;191@data.evento;leitura;2018-04-18t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 191 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera o Código de Processo Penal para aperfeiçoar as regras sobre o processamento de embargos infringentes, embargos de declaração e habeas corpus e sobre os pedidos de vista nos tribunais, a fim de dar mais agilidade ao processo penal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art609_par1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art609_par1">parágrafo único do art. 609 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art609 -> SuperPrefixMatch(URN(1941,Some((10,3)),art609_par1,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art609_par1),art609), art609_cpt -> SuperPrefixMatch(URN(1941,Some((10,3)),art609_par1,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art609_par1),art609_cpt), art609_par1 -> ExactMatch(URN(1941,Some((10,3)),art609_par1,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art609_par1))))))-->
+              <Artigo xlink:href="art609" id="art1_cpt_alt1_art609" abreAspas="s">
+            
+            
+            <Rotulo>Art. 609.</Rotulo>
+            
+            <Caput xlink:href="art609_cpt" id="art1_cpt_alt1_art609_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art609_par1u" id="art1_cpt_alt1_art609_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando na decisão de segunda instância houver voto vencido pela absolvição do réu, serão admitidos embargos infringentes, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do art. 613 deste Código.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art620-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art620">art. 620 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(par3 -> NeighborMatch(URN(1941,Some((10,3)),art620,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art620),par3,), par4 -> NeighborMatch(URN(1941,Some((10,3)),art620,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art620),par4,), par5 -> NeighborMatch(URN(1941,Some((10,3)),art620,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art620),par5,)))))-->
+              <p>“Art. 620. .....................................................................</p><Omissis id="art2_cpt_alt1_omi1"/><Paragrafo xlink:href="art620_par3" id="art2_cpt_alt1_art620_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A decisão em face da qual já foram opostos embargos de declaração não poderá ser objeto de novos embargos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art620_par4" id="art2_cpt_alt1_art620_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Quando os embargos de declaração forem manifestamente protelatórios, o relator ou o tribunal condenará o embargante a pagar multa de 1 (um) a 1000 (mil) salários-mínimos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art620_par5" id="art2_cpt_alt1_art620_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Caso sejam opostos novos embargos protelatórios, no curso do mesmo processo, a multa será elevada em até 10 (dez) vezes.</p>
+            
+          </Paragrafo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art650-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art650">art. 650 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span>, passa a vigorar com o seguinte § 3º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art650 -> ExactMatch(URN(1941,Some((10,3)),art650,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art650)), art650_cpt -> PrefixMatch(URN(1941,Some((10,3)),art650,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art650),art650_cpt), art650_par3 -> PrefixMatch(URN(1941,Some((10,3)),art650,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art650),art650_par3)))))-->
+              <Artigo xlink:href="art650" id="art3_cpt_alt1_art650" abreAspas="s">
+            
+            
+            <Rotulo>Art. 650.</Rotulo>
+            
+            <Caput xlink:href="art650_cpt" id="art3_cpt_alt1_art650_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art3_cpt_alt1_art650_omi1"/><Paragrafo xlink:href="art650_par3" id="art3_cpt_alt1_art650_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não se conhecerá do habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a outro tribunal, indefere a liminar.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689">Decreto-Lei nº 3.689, de 3 de outubro de 1941</span>, passa a vigorar com o seguinte art. 578-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art578-1_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art578-1_par2), art578-1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art578-1), art578-1_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art578-1_cpt), art578-1_par3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art578-1_par3), art578-1_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art578-1_par1)))))-->
+              <Artigo xlink:href="art578-1" id="art4_cpt_alt1_art578-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 578-A.</Rotulo>
+            
+            <Caput xlink:href="art578-1_cpt" id="art4_cpt_alt1_art578-1_cpt">
+            
+            
+            
+            <p>O desembargador ou ministro que não se considerar habilitado a proferir imediatamente seu voto poderá solicitar vista pelo prazo máximo de dez dias, após o qual o recurso será reincluído em pauta para julgamento na sessão seguinte à data da devolução.</p>
+            
+          </Caput><Paragrafo xlink:href="art578-1_par1" id="art4_cpt_alt1_art578-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se os autos não forem devolvidos ou se não for solicitada a prorrogação de prazo de, no máximo, mais dez dias, o presidente do órgão os requisitará para julgamento na sessão ordinária subsequente, com publicação da pauta em que for incluído.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art578-1_par2" id="art4_cpt_alt1_art578-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Requisitados os autos na forma do § 1º deste artigo, e não se sentindo o desembargador ou o ministro que solicitou vista habilitado a votar, o presidente convocará substituto para proferir voto, na forma estabelecida no regimento interno do respectivo tribunal.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art578-1_par3" id="art4_cpt_alt1_art578-1_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O disposto no caput e nos §§ 1º e 2º deste artigo também se aplica aos julgamentos de competência originária dos tribunais.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art600_par4-->
+            
+            
+            <p>Revogue-se o <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art600_par4">§ 4º do art. 600 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

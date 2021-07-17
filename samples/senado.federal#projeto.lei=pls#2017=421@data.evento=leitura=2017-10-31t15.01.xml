@@ -1,0 +1,52 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;421@data.evento;leitura;2017-10-31t15.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 421 DE 2017</Epigrafe>
+      <Ementa id="ementa">Regulamenta limite máximo de comissão cobrada pelas empresas de transporte remunerado privado individual.</Ementa>
+      <Preambulo id="preambulo"></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A empresa que atua no transporte remunerado privado individual de passageiros não poderá se apropriar de percentual superior a 10% (dez por cento) do valor das viagens realizadas pelos condutores.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Fica vedada a cobrança de valor de qualquer natureza além daquele a que se refere o caput.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Por transporte remunerado privado individual de passageiros de que trata o caput entende-se o serviço remunerado de transporte de passageiros, não aberto ao público, contratado por intermédio de provedor de aplicações de internet para a realização de viagens individualizadas ou compartilhadas, abrangendo aquelas solicitadas por usuários previamente cadastrados em aplicativos ou outras plataformas de comunicação em rede.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

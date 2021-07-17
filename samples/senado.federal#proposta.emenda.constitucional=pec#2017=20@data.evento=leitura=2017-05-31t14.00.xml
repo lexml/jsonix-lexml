@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;20@data.evento;leitura;2017-05-31t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 20 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art197">art. 197 da Constituição Federal</span>, para dispor sobre a instituição de Plano de Saúde Público para a cobertura financeira de serviços de saúde prestados por instituições e profissionais da rede privada.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art197-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art197">art. 197 da Constituição Federal</span> passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art197_cpt_inc2_ali3 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc2_ali3), art197_cpt_inc1 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc1), art197_cpt_inc2_ali4 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc2_ali4), art197_cpt -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt), art197_cpt_inc2 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc2), art197_cpt_inc2_ali5 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc2_ali5), art197 -> ExactMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197)), art197_cpt_inc2_ali1 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc2_ali1), art197_cpt_inc2_ali2 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc2_ali2), art197_cpt_inc2_ali6 -> PrefixMatch(URN(1988,Some((10,5)),art197,urn:lex:br:federal:constituicao:1988-10-05;1988!art197),art197_cpt_inc2_ali6)))))-->
+              <Omissis id="art1_cpt_alt1_omi1" abreAspas="s"/><Artigo xlink:href="art197" id="art1_cpt_alt1_art197">
+            
+            
+            <Rotulo>Art. 197.</Rotulo>
+            
+            <Caput xlink:href="art197_cpt" id="art1_cpt_alt1_art197_cpt">
+            
+            
+            
+            <p>São de relevância pública as ações e serviços de saúde, cabendo ao Poder Público, mediante lei:</p>
+            <Inciso xlink:href="art197_cpt_inc1" id="art1_cpt_alt1_art197_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dispor sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art197_cpt_omi1"/><Inciso xlink:href="art197_cpt_inc2" id="art1_cpt_alt1_art197_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>instituir plano de saúde para custeio integral de serviços assistenciais de saúde prestados por instituições e profissionais da rede privada, obedecidos os seguintes critérios:</p>
+            <Alinea xlink:href="art197_cpt_inc2_ali1" id="art1_cpt_alt1_art197_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>ampla cobertura ambulatorial, nas áreas médica, odontológica e psicológica, aos segurados e dependentes;</p>
+            
+          </Alinea><Alinea xlink:href="art197_cpt_inc2_ali2" id="art1_cpt_alt1_art197_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>adesão voluntária e gratuita das pessoas naturais hipossuficientes ou em situação de desemprego, enquanto permanecerem nessa condição;</p>
+            
+          </Alinea><Alinea xlink:href="art197_cpt_inc2_ali3" id="art1_cpt_alt1_art197_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>adesão voluntária das pessoas naturais, mediante pagamento de anuidade;</p>
+            
+          </Alinea><Alinea xlink:href="art197_cpt_inc2_ali4" id="art1_cpt_alt1_art197_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>portabilidade para plano de saúde privado e deste para o público, aproveitado o período de carência cumprido no sistema de origem;</p>
+            
+          </Alinea><Alinea xlink:href="art197_cpt_inc2_ali5" id="art1_cpt_alt1_art197_cpt_inc2_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>pagamento de honorários profissionais nunca inferior aos constantes das tabelas atualizadas dos respectivos conselhos federais;</p>
+            
+          </Alinea><Alinea xlink:href="art197_cpt_inc2_ali6" id="art1_cpt_alt1_art197_cpt_inc2_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>caráter democrático e descentralizado da administração, mediante gestão tripartite, com participação dos usuários, dos conselhos de classe dos profissionais de saúde prestadores de serviços e do governo nos órgãos colegiados.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art197_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

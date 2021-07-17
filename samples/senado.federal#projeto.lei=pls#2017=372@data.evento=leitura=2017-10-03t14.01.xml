@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;372@data.evento;leitura;2017-10-03t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 372 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2014-08-08;13021">Lei nº 13.021, de 8 de agosto de 2014</span>, que dispõe sobre o exercício e a fiscalização das atividades farmacêuticas, para dispor sobre a presença de farmacêutico nas farmácias constituídas como Microempreendedor Individual (MEI) e Microempresas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2014-08-08;13021!art6-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2014-08-08;13021!art6">art. 6º da Lei nº 13.021, de 8 de agosto de 2014</span>, passa a vigorar acrescido dos seguintes §§ 1º e 2º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2014-08-08;13021" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2014-08-08;13021 -> MatchByBase(urn:lex:br:federal:lei:2014-08-08;13021,2014,Some((8,8)),Map(art6 -> ExactMatch(URN(2014,Some((8,8)),art6,urn:lex:br:federal:lei:2014-08-08;13021!art6)), art6_cpt -> PrefixMatch(URN(2014,Some((8,8)),art6,urn:lex:br:federal:lei:2014-08-08;13021!art6),art6_cpt), art6_par1 -> PrefixMatch(URN(2014,Some((8,8)),art6,urn:lex:br:federal:lei:2014-08-08;13021!art6),art6_par1), art6_par2 -> PrefixMatch(URN(2014,Some((8,8)),art6,urn:lex:br:federal:lei:2014-08-08;13021!art6),art6_par2)))))-->
+              <Artigo xlink:href="art6" id="art1_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art1_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par1" id="art1_cpt_alt1_art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O disposto no inciso I não se aplica às farmácias constituídas como Microempreendedor Individual (MEI) e Microempresas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par2" id="art1_cpt_alt1_art6_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os estabelecimentos a que se refere o § 1º deverão contar com a supervisão de farmacêutico, na forma do regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos noventa dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;483@data.evento;leitura;2017-12-05t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 483 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei no 9.503, de 23 de setembro de 1997</span>, que institui o Código de Trânsito Brasileiro, para estabelecer normas gerais para a utilização de veículos apreendidos e sem identificação, pelas polícias civis, federal, rodoviária federal e militares.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei no 9.503, de 23 de setembro de 1997</span>, passa a vigorar acrescida do seguinte art. 328-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art328-1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1), art328-1_par1_inc3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par1_inc3), art328-1_par2 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par2), art328-1_par1_inc2 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par1_inc2), art328-1_par3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par3), art328-1_par1_inc1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par1_inc1), art328-1_par4 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par4), art328-1_par5 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par5), art328-1_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_cpt), art328-1_par1_inc4 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par1_inc4), art328-1_par1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art328-1_par1)))))-->
+              <Artigo xlink:href="art328-1" id="art1_cpt_alt1_art328-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 328-A.</Rotulo>
+            
+            <Caput xlink:href="art328-1_cpt" id="art1_cpt_alt1_art328-1_cpt">
+            
+            
+            
+            <p>O veículo automotor apreendido que, após vistoria e exame pericial, não tiver identificada sua procedência e propriedade, em função de adulteração de sua numeração original, poderá ser utilizado pela Polícia Civil, Federal, Rodoviária Federal ou Militar, comprovado o interesse público, em atividades exclusivas de segurança pública, a pedido, respectivamente, do Delegado-Geral, Diretor-Geral ou Chefe de Polícia Civil, do Diretor-Geral da Polícia Federal, do Diretor-Geral da Polícia Rodoviária Federal ou do Comandante-Geral da Polícia Militar, mediante autorização do juízo competente, ouvido o Ministério Público.</p>
+            
+          </Caput><Paragrafo xlink:href="art328-1_par1" id="art1_cpt_alt1_art328-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O pedido de utilização do veículo observará os seguintes requisitos:</p>
+            <Inciso xlink:href="art328-1_par1_inc1" id="art1_cpt_alt1_art328-1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exposição fundamentada do pedido;</p>
+            
+          </Inciso><Inciso xlink:href="art328-1_par1_inc2" id="art1_cpt_alt1_art328-1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>laudo pericial criminal do órgão competente, que comprove a impossibilidade atual de identificação do veículo;</p>
+            
+          </Inciso><Inciso xlink:href="art328-1_par1_inc3" id="art1_cpt_alt1_art328-1_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>vistoria da unidade policial especializada em roubos e furtos de veículos; e</p>
+            
+          </Inciso><Inciso xlink:href="art328-1_par1_inc4" id="art1_cpt_alt1_art328-1_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>relatório do estado de conservação do veículo, com discriminação de seus acessórios.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art328-1_par2" id="art1_cpt_alt1_art328-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Após o deferimento do pedido de utilização do veículo, o órgão para o qual foi destinado procederá a sua identificação para efeito de controle, ficando a manutenção, abastecimento e fiscalização de uso sob sua responsabilidade.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art328-1_par3" id="art1_cpt_alt1_art328-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os veículos destinados à Polícia Militar e à Polícia Rodoviária Federal deverão ser caracterizados para utilização ostensiva, enquanto os destinados à Polícia Civil ou Federal poderão ser utilizados de modo ostensivo ou descaracterizado, conforme sua finalidade investigativa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art328-1_par4" id="art1_cpt_alt1_art328-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O uso indevido do veículo acarretará seu imediato recolhimento, sem prejuízo da responsabilidade administrativa, civil e penal do detentor.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art328-1_par5" id="art1_cpt_alt1_art328-1_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Cessando, por qualquer motivo, os efeitos do pedido de utilização, ou havendo futura identificação do proprietário, o veículo deverá ser imediatamente recolhido.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,97 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;21@data.evento;leitura;2017-05-31t18.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 21 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span> para determinar que as nomeações para cargo em comissão, de direção e função pública na administração pública direta e indireta deverão observar as qualificações técnico-profissionais exigidas para o seu exercício, em conformidade com os critérios estabelecidos em lei, e incluir no texto constitucional a vedação a nomeações e exonerações baseadas no interesse político-partidário.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span> passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art37_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37_cpt), art37 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37), art37_cpt_inc2 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37_cpt_inc2), art173_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art173_cpt), art173 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art173), art173_par1_inc5 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art173_par1_inc5), art173_par1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art173_par1), art37_cpt_inc23 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37_cpt_inc23), art37_cpt_inc5 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37_cpt_inc5)))))-->
+              <Artigo xlink:href="art37" id="art1_cpt_alt1_art37" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput xlink:href="art37_cpt" id="art1_cpt_alt1_art37_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art37_cpt_omi1"/><Inciso xlink:href="art37_cpt_inc2" id="art1_cpt_alt1_art37_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração que deverão observar as qualificações técnico-profissionais exigidas para o exercício do cargo, em conformidade com os critérios estabelecidos em lei;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art37_cpt_omi2"/><Inciso xlink:href="art37_cpt_inc5" id="art1_cpt_alt1_art37_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento, observadas as qualificações técnico-profissionais exigidas para o exercício da função ou do cargo, em conformidade com os critérios estabelecidos em lei;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art37_cpt_omi3"/><Inciso xlink:href="art37_cpt_inc23" id="art1_cpt_alt1_art37_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>fica vedada a nomeação e exoneração baseadas em critérios político-partidários, para cargo em comissão declarado em lei de livre nomeação e exoneração;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art37_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art173" id="art1_cpt_alt1_art173" abreAspas="s">
+            
+            
+            <Rotulo>Art. 173.</Rotulo>
+            
+            <Caput xlink:href="art173_cpt" id="art1_cpt_alt1_art173_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art173_par1" id="art1_cpt_alt1_art173_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art173_par1_omi1"/><Inciso xlink:href="art173_par1_inc5" id="art1_cpt_alt1_art173_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os mandatos, a avaliação de desempenho, a responsabilidade dos administradores e os critérios de qualificação técnico-profissional exigidos para a sua nomeação.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art173_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

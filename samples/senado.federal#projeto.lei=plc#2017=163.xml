@@ -1,0 +1,160 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;163"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 163 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, relativo ao exercício de 2017, com o objetivo de fomentar as exportações do País.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A União entregará aos Estados, ao Distrito Federal e aos Municípios o montante de R$ 1.910.415.896,00 (um bilhão, novecentos e dez milhões, quatrocentos e quinze mil oitocentos e noventa e seis reais), com o objetivo de fomentar as exportações do País, de acordo com os critérios, os prazos e as condições previstos nesta Lei.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O montante referido no caput deste artigo será entregue aos Estados, ao Distrito Federal e aos Municípios em parcela única a partir do mês de dezembro de 2017.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A entrega de recursos ocorrerá na forma fixada pela Secretaria do Tesouro Nacional do Ministério da Fazenda, que poderá prever a antecipação da parcela.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>As parcelas pertencentes a cada Estado, incluídas as parcelas de seus Municípios, e ao Distrito Federal serão proporcionais aos coeficientes individuais de participação discriminados no Anexo desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Do montante dos recursos que cabe a cada Estado, a União entregará diretamente ao próprio Estado 75% (setenta e cinco por cento) e, aos seus Municípios, 25% (vinte e cinco por cento).</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O rateio da parcela de que trata o § 1º do art. 1º desta Lei entre os Municípios obedecerá aos coeficientes individuais de participação na distribuição da parcela do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) dos respectivos Estados, aplicados no exercício de 2017.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Para a entrega dos recursos ao ente federativo, a ser realizada na forma prevista no art. 5º desta Lei, serão obrigatoriamente deduzidos até o montante total apurado no período os valores das dívidas vencidas e não pagas do ente federativo, na seguinte ordem:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>primeiro, as contraídas com a União, depois, as contraídas com garantia da União, inclusive dívida externa, e, somente após, as contraídas com entidades da administração federal indireta; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>primeiro, as da administração direta e, depois, as da administração indireta do ente federativo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Respeitada a ordem prevista nos incisos I e II do caput deste artigo, ato do Poder Executivo federal poderá autorizar:</p>
+            <Inciso id="art4_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a quitação de parcelas vincendas, mediante acordo com o respectivo ente federativo; e</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a suspensão temporária da dedução, quanto às dívidas contraídas com entidades da administração federal indireta, quando as informações necessárias não estiverem disponíveis no prazo devido.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Os recursos a serem entregues mensalmente ao ente federativo, equivalentes à diferença positiva entre o valor total que lhe cabe e o valor da dívida apurada nos termos do art. 4º desta Lei, serão pagos pela União por meio de crédito, em moeda corrente, na conta bancária do beneficiário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par2_inc10_ali1-->
+            
+            
+            <p>O Ministério da Fazenda definirá regras para a prestação de informações pelos Estados e pelo Distrito Federal sobre a efetiva manutenção e aproveitamento de créditos pelos exportadores a que se refere a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par2_inc10_ali1">alínea a do inciso X do § 2º do art. 155 da Constituição Federal</span>.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O ente federativo que não enviar as informações referidas no caput deste artigo poderá ficar sujeito à suspensão do recebimento do auxílio de que trata esta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Regularizado o envio das informações de que trata o caput deste artigo, o repasse de recursos ao ente federativo será retomado e os valores retidos serão entregues no mês imediatamente posterior.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,139 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;428@data.evento;leitura;2017-10-31t15.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 428 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o Plano de Revisão Periódica de Gastos.</Ementa>
+      <Preambulo id="preambulo"></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-03-17;4320-->
+            
+            
+            <p>Inclua-se na <span xlink:href="urn:lex:br:federal:lei:1964-03-17;4320">Lei nº 4.320, de 17 de março de 1964</span>, o seguinte artigo 114-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1964-03-17;4320" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1964-03-17;4320 -> MatchByBase(urn:lex:br:federal:lei:1964-03-17;4320,1964,Some((3,17)),Map(art114-1_cpt_inc3 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_cpt_inc3), art114-1_cpt_inc5 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_cpt_inc5), art114-1_cpt_inc4 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_cpt_inc4), art114-1_par5 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par5), art114-1_par1 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par1), art114-1_par5_inc1 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par5_inc1), art114-1_par2 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par2), art114-1_par6 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par6), art114-1_cpt_inc1 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_cpt_inc1), art114-1_par5_inc2 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par5_inc2), art114-1_par3 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par3), art114-1 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1), art114-1_par7 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par7), art114-1_cpt_inc2 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_cpt_inc2), art114-1_par4 -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_par4), art114-1_cpt -> PrefixMatch(URN(1964,Some((3,17)),,urn:lex:br:federal:lei:1964-03-17;4320),art114-1_cpt)))))-->
+              <Artigo xlink:href="art114-1" id="art1_cpt_alt1_art114-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 114-A.</Rotulo>
+            
+            <Caput xlink:href="art114-1_cpt" id="art1_cpt_alt1_art114-1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art84_cpt_inc11-->
+            
+            
+            <p>O plano de governo a que se refere o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art84_cpt_inc11">art. 84, inciso XI, da Constituição</span>, a ser remetido anualmente ao Congresso Nacional, incluirá, em anexo específico, o Plano de Revisão Periódica de Gastos, o qual conterá:</p>
+            <Omissis id="art1_cpt_alt1_art114-1_cpt_omi1"/><Inciso xlink:href="art114-1_cpt_inc1" id="art1_cpt_alt1_art114-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quadro plurianual de despesas públicas evidenciadas por funções de governo;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art114-1_cpt_omi2"/><Inciso xlink:href="art114-1_cpt_inc2" id="art1_cpt_alt1_art114-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>avaliação da economicidade e sustentabilidade fiscal das políticas públicas e programas governamentais, incluindo renúncias e incentivos fiscais;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art114-1_cpt_omi3"/><Inciso xlink:href="art114-1_cpt_inc3" id="art1_cpt_alt1_art114-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>evidenciação do impacto fiscal das despesas obrigatórias;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art114-1_cpt_omi4"/><Inciso xlink:href="art114-1_cpt_inc4" id="art1_cpt_alt1_art114-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>medidas necessárias para o aprimoramento das políticas públicas e da gestão fiscal, incluindo a agenda legislativa prioritária; e</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art114-1_cpt_omi5"/><Inciso xlink:href="art114-1_cpt_inc5" id="art1_cpt_alt1_art114-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>identificação de opções de economia orçamentária para reduzir o déficit fiscal ou criar espaço fiscal para programas de maior prioridade.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art114-1_omi1"/><Paragrafo xlink:href="art114-1_par1" id="art1_cpt_alt1_art114-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O principal objetivo do Plano de Revisão Periódica de Gastos é servir de base para decisões sobre o nível de financiamento de programas e projetos existentes na administração pública federal a partir de repriorizações de gastos e identificação de ganhos de eficiência na execução de políticas públicas.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art114-1_omi2"/><Paragrafo xlink:href="art114-1_par2" id="art1_cpt_alt1_art114-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Plano de Revisão Periódica de Gastos será elaborado em conjunto pelo Ministério da Fazenda e pelo Órgão Central do Sistema de Planejamento e Orçamento Federal e contará com a participação de todos as unidades orçamentárias da administração pública federal.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art114-1_omi3"/><Paragrafo xlink:href="art114-1_par3" id="art1_cpt_alt1_art114-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Congresso Nacional deverá manter em permanente funcionamento a Comissão de Revisão de Despesas, que deverá avaliar sistematicamente o Plano de Revisão de Gastos de que trata o caput com apoio técnico da Instituição Fiscal Independente do Senado Federal.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art114-1_omi4"/><Paragrafo xlink:href="art114-1_par4" id="art1_cpt_alt1_art114-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>No plano será apresentado cenário fiscal de referência e as medidas necessárias para o alcance e preservação do equilíbrio das contas públicas no curto, médio e longo prazo.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art114-1_omi5"/><Paragrafo xlink:href="art114-1_par5" id="art1_cpt_alt1_art114-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O cenário fiscal de referência previsto no § 1º deverá:</p>
+            <Omissis id="art1_cpt_alt1_art114-1_par5_omi1"/><Inciso xlink:href="art114-1_par5_inc1" id="art1_cpt_alt1_art114-1_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>conter projeções fiscais para receitas e despesas baseadas na legislação vigente no horizonte de três, dez e vinte anos;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art114-1_par5_omi2"/><Inciso xlink:href="art114-1_par5_inc2" id="art1_cpt_alt1_art114-1_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ser atualizado permanentemente para refletir mudanças nas políticas fiscal, monetária e cambial, nas premissas macroeconômicas e em outras variáveis relevantes;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art114-1_omi6"/><Paragrafo xlink:href="art114-1_par6" id="art1_cpt_alt1_art114-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O Plano de Revisão Periódica de Gastos divulgará avaliações de programas, de vinculações orçamentárias, de subsídios e subvenções, bem como de renúncias de receitas do governo federal, para servir de insumo ao processo orçamentário.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art114-1_omi7"/><Paragrafo xlink:href="art114-1_par7" id="art1_cpt_alt1_art114-1_par7" fechaAspas="s">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>As análises, os estudos e os diagnósticos do Plano de Revisão Periódica de Gastos serão considerados na elaboração do Plano Plurianual, da lei de diretrizes orçamentárias e da lei orçamentária anual.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

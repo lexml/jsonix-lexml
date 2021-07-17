@@ -1,0 +1,46 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;50@data.evento;leitura;2017-12-14t11.46"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 50 DE 2017</Epigrafe>
+      <Ementa id="ementa">Assegura aos substitutos das serventias extrajudiciais e do foro judicial, investidos por concurso público, abrangidos pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1982-06-29;22">Emenda Constitucional nº 22, de 29 de junho de 1982</span>, o direito a efetivação no cargo de titular, quando de sua vacância a qualquer tempo.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art208--><!--Link: urn:lex:br:federal:emenda.constitucional:1982-06-29;22--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art236_par3-->
+            
+            
+            <p>Fica assegurado aos substitutos das serventias extrajudiciais e do foro judicial, investidos por concurso público e que, na forma do previsto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art208">art. 208 da Constituição</span> de 24 de janeiro de 1967, na redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1982-06-29;22">Emenda Constitucional nº 22, de 29 de junho de 1982</span>, contem cinco anos de exercício, nessa condição e na mesma serventia, até a promulgação da constituição de 1988, o direito a efetivação no cargo de titular, quando de sua vacância a qualquer tempo, não se lhes aplicando o disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art236_par3">§ 3º do art. 236 da Constituição</span>.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O disposto neste artigo se aplica às vacâncias ocorridas até a publicação desta Emenda Constitucional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

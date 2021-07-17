@@ -1,0 +1,340 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;103"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 103 DE 2017</Epigrafe>
+      <Ementa id="ementa">Disciplina o exercício da profissão de mercadólogo (marketing).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O exercício da profissão de mercadólogo (marketing) é disciplinado por esta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Profissional de mercadologia (marketing) é o responsável pelo planejamento e operacionalização de ações no mercado, com desempenho de atividades nos ambientes interno e externo de uma organização.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Poderão exercer a profissão de mercadólogo (marketing):</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os portadores de diploma de nível superior em marketing (mercadologia), devidamente registrado, expedido por instituição brasileira de ensino superior oficialmente reconhecida;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os portadores de diploma de nível superior em marketing (mercadologia), devidamente registrado, expedido por instituição estrangeira de ensino superior, revalidado na forma da lei, cujos cursos foram considerados equivalentes aos mencionados no inciso I do caput deste artigo;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os que, comprovadamente, já exerciam atividades de marketing (mercadologia) até a data de publicação desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São atribuições do profissional de mercadologia (marketing):</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>elaborar ou cooperar no planejamento e na administração da endomercadologia (endomarketing) organizacional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cooperar na produção do pensamento estratégico organizacional e na elaboração do planejamento estratégico;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cooperar na adoção de filosofias de gestão organizacional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>cooperar na educação e no treinamento das lideranças organizacionais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>cooperar nos processos de produtividade organizacional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>cooperar nos processos de qualidade e de excelência organizacional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>cooperar na captação de recursos para a organização, com objetivo de:</p>
+            <Alinea id="art4_cpt_inc7_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>financiamento;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc7_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>parceria;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc7_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>patrocínio;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc7_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>apoio;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc7_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>doação;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>cooperar na identificação de leis de incentivo, a fim de aumentar a possibilidade de atuação no mercado, com ética e responsabilidade social;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>cooperar na definição do posicionamento organizacional, considerando mercados, segmentos e nichos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>gerenciar o relacionamento com os clientes;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>administrar a carteira de clientes, com identificação de pontos fortes e fracos e elaboração de estratégias e táticas para aumentar o volume de negócios e minimizar perdas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>proceder a perícias judiciais ou extrajudiciais e a mediação no universo de atuação da mercadologia (marketing);</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>elaborar e operacionalizar os planos de venda e de mercadologia (marketing), considerando os recursos organizacionais disponíveis;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>planejar e administrar as variáveis controláveis, considerando as seguintes necessidades de produção, em integração com os demais profissionais da organização e de mercado:</p>
+            <Alinea id="art4_cpt_inc14_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>definição de produtos ou serviços a serem disponibilizados para o mercado;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>análise do porta-fólio de produtos e serviços;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>escolha de caminhos e estratégias a serem percorridos pelos produtos e serviços no mercado;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>análise do ciclo de vida dos produtos e serviços e as respectivas estratégias e táticas para os momentos identificados;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>definição de preço para os produtos e serviços, de forma a cooperar na identificação de custos fixos e variáveis e na projeção de faturamento e resultados financeiros para cada um deles;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>definição de mercados, segmentos e nichos nos quais o produto será ofertado;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>análise de geomercadologia (geomarketing) na distribuição dos produtos e serviços, com identificação de ameaças e oportunidades de mercado, da relação custo e benefício dessas escolhas, bem como dos meios e instrumentos a serem utilizados na distribuição;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali8">
+            
+            
+            <Rotulo>h)</Rotulo>
+            <p>estabelecimento de parcerias para facilitar a presença dos produtos e serviços nos pontos de venda;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc14_ali9">
+            
+            
+            <Rotulo>i)</Rotulo>
+            <p>definição de ferramentas de comunicação e de relacionamento a serem utilizadas no mercado interno e externo, a fim de facilitar a produção e a gestão da informação e do conhecimento;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art4_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>criar mecanismos e estratégias para monitorar:</p>
+            <Alinea id="art4_cpt_inc15_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a concorrência;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc15_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a percepção de consumo de clientes e não clientes;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc15_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>o meio ambiente e respectivos cenários;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc15_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>as ocorrências de mercado, a fim de projetar tendências e estratégias de antecipação e inovação.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>São deveres dos profissionais de mercadologia (marketing):</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>prestar o serviço dentro das mais rigorosas regras éticas e de responsabilidade social;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>garantir o sigilo das informações recebidas, vedada sua divulgação em texto ou de forma oral, sem a expressa autorização do contratante;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>planejar e implementar ações no mercado, com respeito à <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), bem como aos demais critérios, códigos e recomendações de boas práticas das entidades reguladoras ou não das relações de troca no mercado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>isentar-se de assumir compromissos de planejamento e operacionalização de práticas referentes a outros campos profissionais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Os direitos de autoria e a responsabilidade legal pelos planos, programas e projetos na área de mercadologia (marketing) pertencem ao profissional que os elaborar.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

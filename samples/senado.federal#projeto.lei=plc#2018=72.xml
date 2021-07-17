@@ -1,0 +1,151 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;72"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 72 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1994-07-04;8906">Leis nºs 8.906, de 4 de julho de 1994</span>, <span xlink:href="urn:lex:br:federal:lei:2006-12-19;11419">11.419, de 19 de dezembro de 2006</span>, e <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105">13.105, de 16 de março de 2015</span> (Código de Processo Civil), para assegurar a advogados o exame e a obtenção de cópias de atos e documentos de processos e de procedimentos eletrônicos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1994-07-04;8906--><!--Link: urn:lex:br:federal:lei:2006-12-19;11419--><!--Link: urn:lex:br:federal:lei:2015-03-16;13105-->
+            
+            
+            <p>Esta Lei altera as <span xlink:href="urn:lex:br:federal:lei:1994-07-04;8906">Leis nºs 8.906, de 4 de julho de 1994</span>, <span xlink:href="urn:lex:br:federal:lei:2006-12-19;11419">11.419, de 19 de dezembro de 2006</span>, e <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105">13.105, de 16 de março de 2015</span> (Código de Processo Civil), para assegurar a advogados o exame, mesmo sem procuração, de atos e documentos de processos e de procedimentos eletrônicos, independentemente da fase de tramitação, bem como a obtenção de cópias, salvo nas hipóteses de sigilo ou segredo de justiça, nas quais apenas o advogado constituído terá acesso aos atos e aos documentos referidos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1994-07-04;8906!art7-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1994-07-04;8906!art7">art. 7º da Lei nº 8.906, de 4 de julho de 1994</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1994-07-04;8906" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1994-07-04;8906 -> MatchByBase(urn:lex:br:federal:lei:1994-07-04;8906,1994,Some((7,4)),Map(art7 -> ExactMatch(URN(1994,Some((7,4)),art7,urn:lex:br:federal:lei:1994-07-04;8906!art7)), art7_cpt -> PrefixMatch(URN(1994,Some((7,4)),art7,urn:lex:br:federal:lei:1994-07-04;8906!art7),art7_cpt), art7_cpt_inc13 -> PrefixMatch(URN(1994,Some((7,4)),art7,urn:lex:br:federal:lei:1994-07-04;8906!art7),art7_cpt_inc13), art7_par13 -> PrefixMatch(URN(1994,Some((7,4)),art7,urn:lex:br:federal:lei:1994-07-04;8906!art7),art7_par13)))))-->
+              <Artigo xlink:href="art7" id="art2_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art2_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art7_cpt_omi1"/><Inciso xlink:href="art7_cpt_inc13" id="art2_cpt_alt1_art7_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estiverem sujeitos a sigilo ou segredo de justiça, assegurada a obtenção de cópias, com possibilidade de tomar apontamentos;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art7_omi1"/><Paragrafo xlink:href="art7_par13" id="art2_cpt_alt1_art7_par13" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>O disposto nos incisos XIII e XIV do caput deste artigo aplica-se integralmente a processos e a procedimentos eletrônicos, ressalvado o disposto nos §§ 10 e 11 deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-12-19;11419!art11-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2006-12-19;11419!art11">art. 11 da Lei nº 11.419, de 19 de dezembro de 2006</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-12-19;11419" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-12-19;11419 -> MatchByBase(urn:lex:br:federal:lei:2006-12-19;11419,2006,Some((12,19)),Map(art11 -> ExactMatch(URN(2006,Some((12,19)),art11,urn:lex:br:federal:lei:2006-12-19;11419!art11)), art11_cpt -> PrefixMatch(URN(2006,Some((12,19)),art11,urn:lex:br:federal:lei:2006-12-19;11419!art11),art11_cpt), art11_par6 -> PrefixMatch(URN(2006,Some((12,19)),art11,urn:lex:br:federal:lei:2006-12-19;11419!art11),art11_par6), art11_par7 -> PrefixMatch(URN(2006,Some((12,19)),art11,urn:lex:br:federal:lei:2006-12-19;11419!art11),art11_par7)))))-->
+              <Artigo xlink:href="art11" id="art3_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art3_cpt_alt1_art11_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art3_cpt_alt1_art11_omi1"/><Paragrafo xlink:href="art11_par6" id="art3_cpt_alt1_art11_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os documentos digitalizados juntados em processo eletrônico estarão disponíveis para acesso por meio da rede externa pelas respectivas partes processuais, pelos advogados, independentemente de procuração nos autos, pelos membros do Ministério Público e pelos magistrados, sem prejuízo da possibilidade de visualização nas secretarias dos órgãos julgadores, à exceção daqueles que tramitarem em segredo de justiça.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art11_par7" id="art3_cpt_alt1_art11_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os sistemas de informações pertinentes a processos eletrônicos devem possibilitar que advogados, procuradores e membros do Ministério Público cadastrados, mas não vinculados a processo previamente identificado, acessem automaticamente todos os atos e documentos processuais armazenados em meio eletrônico, desde que demonstrado interesse para fins apenas de registro, salvo nos casos de processos em segredo de justiça.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art107-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art107">art. 107 da Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil), passa a vigorar acrescido do seguinte § 5º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2015-03-16;13105" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2015-03-16;13105 -> MatchByBase(urn:lex:br:federal:lei:2015-03-16;13105,2015,Some((3,16)),Map(art107 -> ExactMatch(URN(2015,Some((3,16)),art107,urn:lex:br:federal:lei:2015-03-16;13105!art107)), art107_cpt -> PrefixMatch(URN(2015,Some((3,16)),art107,urn:lex:br:federal:lei:2015-03-16;13105!art107),art107_cpt), art107_par5 -> PrefixMatch(URN(2015,Some((3,16)),art107,urn:lex:br:federal:lei:2015-03-16;13105!art107),art107_par5)))))-->
+              <Artigo xlink:href="art107" id="art4_cpt_alt1_art107" abreAspas="s">
+            
+            
+            <Rotulo>Art. 107.</Rotulo>
+            
+            <Caput xlink:href="art107_cpt" id="art4_cpt_alt1_art107_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art4_cpt_alt1_art107_omi1"/><Paragrafo xlink:href="art107_par5" id="art4_cpt_alt1_art107_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O disposto no inciso I do caput deste artigo aplica-se integralmente a processos eletrônicos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

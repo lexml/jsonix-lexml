@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;119@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 119 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art17">art. 17 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> – Código de Processo Penal, para fixar prazo peremptório para a conclusão de investigação preliminar no processo penal e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art17-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art17">art. 17 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> – Código de Processo Penal – passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art17 -> ExactMatch(URN(1941,Some((10,3)),art17,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art17)), art17_cpt -> PrefixMatch(URN(1941,Some((10,3)),art17,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art17),art17_cpt), art17_par1 -> PrefixMatch(URN(1941,Some((10,3)),art17,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art17),art17_par1), art17_par2 -> PrefixMatch(URN(1941,Some((10,3)),art17,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art17),art17_par2)))))-->
+              <Artigo xlink:href="art17" id="art1_cpt_alt1_art17" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput xlink:href="art17_cpt" id="art1_cpt_alt1_art17_cpt">
+            
+            
+            
+            <p>A autoridade policial não poderá mandar arquivar autos de inquérito, que não poderá, contudo, exceder o prazo de 720 (setecentos e vinte) dias de duração.</p>
+            
+          </Caput><Paragrafo xlink:href="art17_par1" id="art1_cpt_alt1_art17_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Esgotado o prazo previsto no caput deste artigo, os autos do inquérito serão encaminhados ao juiz para arquivamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art17_par2" id="art1_cpt_alt1_art17_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Em face da complexidade da investigação, constatado o empenho da autoridade policial e ouvido o Ministério Público, o juiz poderá prorrogar o inquérito pelo prazo do 30 (trinta) dias, não renováveis, para a conclusão das diligências faltantes, sob pena de arquivamento</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

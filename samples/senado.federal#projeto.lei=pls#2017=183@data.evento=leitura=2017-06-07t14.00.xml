@@ -1,0 +1,103 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;183@data.evento;leitura;2017-06-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 183 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta art. 49-A ao Capítulo VIII da <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766">Lei nº 6.766, de 19 de dezembro de 1979</span>, para estabelecer a obrigatoriedade de o titular de direito real sobre o lote ressarcir despesas de associação de moradores concessionária de uso de bem público em loteamento de acesso controlado.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1979-12-19;6766-->
+            
+            
+            <p>O Capítulo VIII da <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766">Lei nº 6.766, de 19 de dezembro de 1979</span>, passa a vigorar acrescido do seguinte art. 49-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1979-12-19;6766" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1979-12-19;6766 -> MatchByBase(urn:lex:br:federal:lei:1979-12-19;6766,1979,Some((12,19)),Map(art49-1_par2 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_par2), art49-1_par1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_par1), art49-1_cpt -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_cpt), art49-1_cpt_inc5 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_cpt_inc5), art49-1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1), art49-1_cpt_inc1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_cpt_inc1), art49-1_cpt_inc2 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_cpt_inc2), art49-1_par3 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_par3), art49-1_cpt_inc4 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_cpt_inc4), art49-1_cpt_inc3 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art49-1_cpt_inc3)))))-->
+              <Artigo xlink:href="art49-1" id="art1_cpt_alt1_art49-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 49-A.</Rotulo>
+            
+            <Caput xlink:href="art49-1_cpt" id="art1_cpt_alt1_art49-1_cpt">
+            
+            
+            
+            <p>Ainda que não seja associado, o titular de direito real sobre lote é obrigado a restituir o proveito obtido com as despesas havidas por associação que:</p>
+            <Inciso xlink:href="art49-1_cpt_inc1" id="art1_cpt_alt1_art49-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tenha sido credenciada pelo Poder Público competente a manter e conservar as vias de circulação e os demais equipamentos urbanos e comunitários na área da gleba loteada;</p>
+            
+          </Inciso><Inciso xlink:href="art49-1_cpt_inc2" id="art1_cpt_alt1_art49-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>seja destinada à administração dos interesses dos ocupantes na área da gleba loteada;</p>
+            
+          </Inciso><Inciso xlink:href="art49-1_cpt_inc3" id="art1_cpt_alt1_art49-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>seja composta exclusivamente por associados que sejam proprietários ou ocupantes de lote na área da gleba loteada;</p>
+            
+          </Inciso><Inciso xlink:href="art49-1_cpt_inc4" id="art1_cpt_alt1_art49-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>mantenha, em seu quadro de associados, proprietários ou ocupantes que representem, no mínimo, dois terços dos lotes, independentemente da área de cada um deles;</p>
+            
+          </Inciso><Inciso xlink:href="art49-1_cpt_inc5" id="art1_cpt_alt1_art49-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>assegure aos proprietários ou ocupantes não associados o direito de voto, em igualdade de condições com os associados, em todas as deliberações, com exceção daquelas que não digam respeito à gestão da área da gleba loteada, a exemplo de questões relativas ao previsto nos incisos I, II, III, V e VI do art. 54 do Código Civil.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art49-1_par1" id="art1_cpt_alt1_art49-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor a ser restituído na forma do caput deste artigo jamais excederá os valores das contribuições devidas pelos associados e deverá ser cobrado em parcelas e em datas iguais a essas contribuições.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art49-1_par2" id="art1_cpt_alt1_art49-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os proprietários ou ocupantes não associados devem ser comunicados previamente das deliberações de seu interesse pela mesma via de comunicação utilizada em favor dos associados.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art49-1_par3" id="art1_cpt_alt1_art49-1_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Ficam dispensados da obrigação de que trata este artigo os proprietários e os ocupantes de lotes que, por sua localização, não se aproveitem da estrutura e dos serviços da associação.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

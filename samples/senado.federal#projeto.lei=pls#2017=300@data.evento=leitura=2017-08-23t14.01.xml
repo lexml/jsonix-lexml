@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;300@data.evento;leitura;2017-08-23t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 300 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta § 4º ao <span xlink:href="urn:lex:br:federal:lei:1990-12-11;8112!art5">art. 5º da Lei nº 8.112, de 11 de dezembro de 1990</span>, para promover a reserva de cargos em comissão e de funções comissionadas na administração pública direta, nas autarquias e nas fundações públicas federais, nos percentuais que estabelece, para as pessoas com deficiência.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-12-11;8112!art5-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-12-11;8112!art5">art. 5º da Lei nº 8.112, de 11 de dezembro de 1990</span>, passa a vigorar acrescido do seguinte § 4º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-12-11;8112" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-12-11;8112 -> MatchByBase(urn:lex:br:federal:lei:1990-12-11;8112,1990,Some((12,11)),Map(art5_par4_inc2 -> PrefixMatch(URN(1990,Some((12,11)),art5,urn:lex:br:federal:lei:1990-12-11;8112!art5),art5_par4_inc2), art5_par4 -> PrefixMatch(URN(1990,Some((12,11)),art5,urn:lex:br:federal:lei:1990-12-11;8112!art5),art5_par4), art5_par4_inc1 -> PrefixMatch(URN(1990,Some((12,11)),art5,urn:lex:br:federal:lei:1990-12-11;8112!art5),art5_par4_inc1), art5_par4_inc3 -> PrefixMatch(URN(1990,Some((12,11)),art5,urn:lex:br:federal:lei:1990-12-11;8112!art5),art5_par4_inc3), art5_par4_inc4 -> PrefixMatch(URN(1990,Some((12,11)),art5,urn:lex:br:federal:lei:1990-12-11;8112!art5),art5_par4_inc4), art5_cpt -> PrefixMatch(URN(1990,Some((12,11)),art5,urn:lex:br:federal:lei:1990-12-11;8112!art5),art5_cpt), art5 -> ExactMatch(URN(1990,Some((12,11)),art5,urn:lex:br:federal:lei:1990-12-11;8112!art5))))))-->
+              <Artigo xlink:href="art5" id="art1_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art1_cpt_alt1_art5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art5_omi1"/><Paragrafo xlink:href="art5_par4" id="art1_cpt_alt1_art5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O órgão ou a entidade da administração pública com 100 (cem) ou mais servidores está obrigado a preencher de 2% (dois por cento) a 5% (cinco por cento) dos seus cargos em comissão e funções de confiança com pessoas com deficiência, habilitadas, observados os demais requisitos legais, na seguinte proporção:</p>
+            <Inciso xlink:href="art5_par4_inc1" id="art1_cpt_alt1_art5_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>até 200 servidores públicos: 2%;</p>
+            
+          </Inciso><Inciso xlink:href="art5_par4_inc2" id="art1_cpt_alt1_art5_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de 201 a 500 servidores públicos: 3%;</p>
+            
+          </Inciso><Inciso xlink:href="art5_par4_inc3" id="art1_cpt_alt1_art5_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>de 501 a 1.000 servidores públicos: 4%;</p>
+            
+          </Inciso><Inciso xlink:href="art5_par4_inc4" id="art1_cpt_alt1_art5_par4_inc4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>mais de 1.000 servidores públicos: 5%.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

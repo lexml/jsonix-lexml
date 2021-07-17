@@ -1,0 +1,385 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;53@data.evento;leitura;2018-02-20t20.25"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 53 DE 2018</Epigrafe>
+      <Ementa id="ementa">Institui programa de concessão de créditos da União, denominado “Nota Azul”, para incentivar a pessoa física que adquirir mercadorias ou tomar serviços a solicitar a emissão de documento fiscal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituído o programa de concessão de créditos, denominado “Nota Azul”, com o objetivo de incentivar a pessoa física que adquirir mercadorias ou tomar serviços a exigir do fornecedor ou do prestador a emissão de documento fiscal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A pessoa física que adquirir mercadorias ou tomar serviços de contribuinte da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (COFINS) fará jus a crédito do Tesouro Nacional.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Somente terá direito ao crédito a pessoa física que exigir do fornecedor de mercadoria ou prestador de serviço a emissão de documento fiscal hábil.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para fins de identificação, a pessoa física deverá informar ao fornecedor ou ao prestador o número de inscrição no Cadastro de Pessoas Físicas (CPF) do Ministério da Fazenda.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A pessoa física beneficiária do programa, adquirente ou tomadora, referida no art. 2º desta Lei fará jus ao valor de até 30% (trinta por cento) do valor da Contribuição para o PIS/Pasep e da Cofins efetivamente recolhidas pelo estabelecimento fornecedor ou prestador.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para fins de apuração do crédito a ser concedido à pessoa física, serão observados:</p>
+            <Inciso id="art3_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a proporcionalidade entre o valor do documento fiscal referente à aquisição ou à prestação e o valor total dos documentos fiscais emitidos pelo estabelecimento fornecedor ou prestador, no respectivo mês, considerados os documentos não cancelados e os com indicação de CPF.</p>
+            
+          </Inciso><Inciso id="art3_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o limite de 7,5% (sete inteiros e cinco décimos por cento) em relação ao valor de cada documento fiscal.</p>
+            
+          </Inciso><Inciso id="art3_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o total dos recolhimentos efetuados para o mês das respectivas aquisições ou prestações;</p>
+            
+          </Inciso><Inciso id="art3_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as correções efetuadas pelo contribuinte em sua escrituração para o respectivo mês.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na definição do percentual referido no caput deste artigo, serão considerados, em relação ao fornecedor ou prestador:</p>
+            <Inciso id="art3_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a atividade econômica preponderante;</p>
+            
+          </Inciso><Inciso id="art3_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o regime de apuração da Contribuição para o PIS/Pasep e da Cofins;</p>
+            
+          </Inciso><Inciso id="art3_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o porte econômico;</p>
+            
+          </Inciso><Inciso id="art3_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a localização geográfica, inclusive se situado em Estado ou Distrito Federal que mantenha programa de incentivo, mediante concessão de crédito ou distribuição de prêmios, para que a pessoa física exija a entrega do documento fiscal.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art3_par3">
+            <!--Link: urn:lex:br:federal:lei.complementar:2006-12-14;123-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No caso de estabelecimento optante pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), o valor da Contribuição para o PIS/Pasep e da Cofins a ser rateado corresponderá à aplicação dos respectivos percentuais de partilha sobre o recolhimento mensal previstos na <span xlink:href="urn:lex:br:federal:lei.complementar:2006-12-14;123">Lei Complementar nº 123, de 14 de dezembro de 2006</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O disposto nos incisos III e IV do § 1º deste artigo observará o prazo para consolidação dos créditos fixado pelo Poder Executivo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O crédito previsto nos arts. 2º e 3º desta Lei não será concedido:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nas vendas e prestações não sujeitas à incidência da Contribuição para o PIS/Pasep e da Cofins;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>no fornecimento de energia elétrica, no abastecimento de água e no esgotamento sanitário, e na prestação de serviços de comunicação e de transporte público coletivo de passageiros;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>na aquisição de mercadorias sujeitas à incidência monofásica da Contribuição para o PIS/Pasep e da Cofins;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            <!--Link: urn:lex:br:federal:lei.complementar:2003-07-31;116-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>na prestação de serviços bancários ou financeiros a que se refere o item 15 da lista anexa à <span xlink:href="urn:lex:br:federal:lei.complementar:2003-07-31;116">Lei Complementar nº 116, de 31 de julho de 2003</span>;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            <!--Link: urn:lex:br:federal:lei.complementar:2006;123!art18-1-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>nas vendas e prestações pelo Microempreendedor Individual (MEI) de que trata o <span xlink:href="urn:lex:br:federal:lei.complementar:2006;123!art18-1">art. 18-A da Lei Complementar nº 123, de 2006</span>;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>na hipótese de documento: inidôneo; não hábil para acobertar a operação ou prestação; que não identifique corretamente o adquirente ou tomador; emitido mediante fraude, dolo ou simulação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Os créditos a que se refere esta Lei poderão ser utilizados como abatimento do Imposto sobre a Renda da Pessoa Física (IRPF) anual devido, apurado com opção pelas deduções legais ou com o desconto simplificado.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            <!--Link: urn:lex:br:federal:lei:1995-12-26;9250!art13-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese de ser negativo o montante a que se refere o <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9250!art13">art. 13 da Lei nº 9.250, de 26 de dezembro de 1995</span>, os créditos utilizados serão somados ao valor do IRPF a ser restituído.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            <!--Link: urn:lex:br:federal:lei:1995-06-29;9069!art60-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para utilizar o crédito, a pessoa física deverá atender ao disposto no <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069!art60">art. 60 da Lei nº 9.069, de 29 de junho de 1995</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É proibida a transferência de créditos entre pessoas físicas.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A pessoa física isenta do imposto deverá apresentar a Declaração de Ajuste Anual do IRPF para utilizar o crédito.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Será cancelado e estornado ao caixa do Tesouro Nacional o crédito não utilizado no prazo de 5 (cinco) anos, contado da data em que tiver sido disponibilizado pelo Poder Executivo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Ato do Poder Executivo, atendidas as demais condições previstas nesta Lei:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estabelecerá cronograma de implementação do programa “Nota Azul”, em função da atividade econômica preponderante do fornecedor ou prestador;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>disciplinará: prazos, forma de disponibilização, utilização, transferência e consolidação dos créditos; podendo estabelecer limite de valor, a concessão de crédito à pessoa física que tenha realizado aquisição de mercadorias ou bens ou tomado serviços, cujos documentos fiscais não tenham sido regularmente escriturados pelo fornecedor ou prestador, desde que o consumidor tenha efetuado a respectiva reclamação por meio da internet.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O Poder Executivo poderá divulgar e disponibilizar, por meio da internet, estatísticas do programa “Nota Azul”, incluindo-se as relativas à quantidade de reclamações e denúncias registradas em seu âmbito.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As estatísticas de que trata o caput deste artigo poderão ser segregadas por atividade econômica preponderante e por fornecedores e prestadores, inclusive com a indicação do nome empresarial, número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) e endereço.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Sem prejuízo do disposto no § 1º deste artigo, quando se tratar de reclamações e denúncias, as estatísticas versarão sobre apontamentos e registros objetivos do respectivo banco de dados, sem a realização de juízo de valor sobre as práticas ou condutas comerciais dos fornecedores e prestadores nele catalogados, e não poderão conter informações negativas referentes a período superior a 5 (cinco) anos.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art44-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O disposto no § 2º deste artigo não prejudicará a divulgação do cadastro de reclamações fundamentadas previsto no <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art44">art. 44 da Lei nº 8.078, de 11 de setembro de 1990</span>, com o qual não se confunde o banco de dados de que trata este artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Sem prejuízo de outras penalidades previstas na legislação, aplicar-se-á multa no valor de R$ 70,00 (setenta reais), na hipótese de o fornecedor de mercadoria ou o prestador de serviço:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quando solicitado, deixar de informar, no documento fiscal, os dados necessários à identificação do adquirente ou tomador;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>deixar de registrar em livro eletrônico, de acordo com o leiaute previsto na legislação específica, os dados necessários à identificação do adquirente ou tomador, quando essas informações constarem no documento fiscal.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nas hipóteses a que se referem os incisos I e II do caput deste artigo, as multas serão aplicadas por documento fiscal.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A multa será reduzida:</p>
+            <Inciso id="art8_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>em 50%, quando o registro no livro eletrônico for efetuado após o prazo, mas antes de qualquer procedimento de ofício;</p>
+            
+          </Inciso><Inciso id="art8_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em 25% (vinte e cinco por cento), se houver a realização do registro no livro eletrônico no prazo fixado em intimação.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os percentuais de redução referidos nos incisos I e II do § 2º deste artigo serão multiplicados por 1,5 (um inteiro e cinco décimos) no caso de o fornecedor ou prestador ser optante pelo Simples Nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:1988-12-22;7713!art6_cpt_inc22-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1988-12-22;7713!art6_cpt_inc22">inciso XXII do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1988-12-22;7713" id="art9_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1988-12-22;7713 -> MatchByBase(urn:lex:br:federal:lei:1988-12-22;7713,1988,Some((12,22)),Map(art6 -> SuperPrefixMatch(URN(1988,Some((12,22)),art6_cpt_inc22,urn:lex:br:federal:lei:1988-12-22;7713!art6_cpt_inc22),art6), art6_cpt -> SuperPrefixMatch(URN(1988,Some((12,22)),art6_cpt_inc22,urn:lex:br:federal:lei:1988-12-22;7713!art6_cpt_inc22),art6_cpt), art6_cpt_inc22 -> ExactMatch(URN(1988,Some((12,22)),art6_cpt_inc22,urn:lex:br:federal:lei:1988-12-22;7713!art6_cpt_inc22))))))-->
+              <Artigo xlink:href="art6" id="art9_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art9_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art9_cpt_alt1_art6_cpt_omi1"/><Inciso xlink:href="art6_cpt_inc22" id="art9_cpt_alt1_art6_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>os valores pagos em espécie pela União, pelos Estados, Distrito Federal e Municípios, relativos ao Imposto sobre a Renda da Pessoa Física, ao Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS e ao Imposto sobre Serviços de Qualquer Natureza - ISS, no âmbito de programas de concessão de crédito voltados ao estímulo à solicitação de documento fiscal na aquisição de mercadorias e serviços;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art9_cpt_alt1_art6_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação, produzindo efeitos 180 (cento e oitenta) dias após sua regulamentação.</p>
+            
+          </Caput><Paragrafo id="art10_par1u">
+            <!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art76-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A perda de eficácia da desvinculação de receitas prevista no <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art76">art. 76 do Ato das Disposições Constitucionais Transitórias</span> implicará a revogação desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

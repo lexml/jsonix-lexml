@@ -1,0 +1,1120 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;145"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 145 DE 2017</Epigrafe>
+      <Ementa id="ementa">Cria o Conselho Federal dos Técnicos Industriais e Agrícolas e os Conselhos Regionais dos Técnicos Industriais e Agrícolas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Ficam criados o Conselho Federal dos Técnicos Industriais e Agrícolas e os Conselhos Regionais dos Técnicos Industriais e Agrícolas, autarquias com autonomia administrativa e financeira e estrutura federativa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art150_cpt_inc6_ali3-->
+            
+            
+            <p>Aplica-se o disposto na <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art150_cpt_inc6_ali3">alínea c do inciso VI do caput do art. 150 da Constituição Federal</span> ao Conselho Federal dos Técnicos Industriais e Agrícolas e aos Conselhos Regionais dos Técnicos Industriais e Agrícolas</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Conselho Federal dos Técnicos Industriais e Agrícolas e os Conselhos Regionais dos Técnicos Industriais e Agrícolas têm como função orientar, disciplinar e fiscalizar o exercício profissional da categoria dos técnicos industriais e agrícolas.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os Conselhos Regionais serão denominados de Conselho Regional dos Técnicos Industriais e Agrícolas, com acréscimo da sigla da unidade federativa ou da região geográfica correspondente.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Conselho Federal e os Conselhos Regionais terão suas estruturas e seu funcionamento definidos em regimento interno próprio, aprovado pela maioria absoluta dos seus conselheiros.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A instituição das estruturas regionais ocorrerá com estrita observância às possibilidades efetivas de seu custeio com os recursos próprios, considerados ainda seus efeitos nos exercícios subsequentes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O Conselho Federal dos Técnicos Industriais e Agrícolas, com sede e foro em Brasília, terá como membros brasileiros, natos ou naturalizados, cujos diplomas profissionais estejam registrados de acordo com a legislação em vigor e as disposições desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O Conselho Federal será composto pela Diretoria Executiva e pelo Plenário deliberativo, composto pelos conselheiros federais, eleitos juntamente com os seus suplentes, respeitados os critérios de representação regional definidos em regimento interno próprio.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O mandato dos membros do Conselho Federal terá duração de quatro anos, admitida uma reeleição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A Diretoria Executiva do Conselho Federal será composta por:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Presidente;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Vice-Presidente;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Diretor Administrativo;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Diretor Financeiro;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Diretor de Fiscalização e Normas da Área Agrícola; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>Diretor de Fiscalização e Normas da Área Industrial.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os membros da Diretoria Executiva serão eleitos, por meio de voto direto e secreto, pelos profissionais aptos a votar.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de vacância nos cargos de que tratam os incisos III, IV, V e VI do caput deste artigo, o Plenário deliberativo escolherá entre seus membros o novo Diretor-Executivo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O Plenário do Conselho Federal será composto, no mínimo, por doze conselheiros federais e, no máximo, por vinte e sete conselheiros, acrescido dos membros da Diretoria Executiva.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            <!--Link: urn:lex:br:federal:lei:1968-11-05;5524-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na composição do Plenário do Conselho Federal, será observada a proporcionalidade entre as profissões mencionadas na <span xlink:href="urn:lex:br:federal:lei:1968-11-05;5524">Lei nº 5.524, de 5 de novembro de 1968</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Cada unidade federativa do País será representada no Plenário por, no máximo, um conselheiro.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Compete ao Conselho Federal:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>zelar pela dignidade, pela independência, pelas prerrogativas e pela valorização do exercício profissional dos técnicos;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>editar e alterar o regimento, o código de ética, as normas eleitorais e os provimentos que julgar necessários;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>adotar medidas para assegurar o funcionamento regular dos Conselhos Regionais;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>intervir nos Conselhos Regionais quando constatada violação desta Lei ou de regimento interno do respectivo Conselho;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>homologar os regimentos internos e as prestações de contas dos Conselhos Regionais;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>firmar convênios com entidades públicas e privadas, observada a legislação aplicável;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>autorizar a oneração ou a alienação de bens imóveis de sua propriedade;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>julgar, em grau de recurso, as questões decididas pelos Conselhos Regionais;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>inscrever empresas de Técnicos Industriais e Agrícolas e profissionais estrangeiros Técnicos Industriais e Agrícolas que não tenham domicílio no País;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>criar órgãos colegiados com finalidades e funções específicas;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>deliberar sobre assuntos administrativos e financeiros e elaborar programas de trabalho e orçamento;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>manter relatórios públicos de suas atividades;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>representar os Técnicos Industriais e Agrícolas em colegiados de órgãos da Administração Pública federal que tratem de questões de exercício profissional dos Técnicos Industriais e Agrícolas;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>aprovar e divulgar tabelas indicativas de honorários dos Técnicos Industriais e Agrícolas;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>instituir e manter o Cadastro Nacional dos Técnicos Industriais e Agrícolas; e</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>instituir e manter o Acervo de Responsabilidade Técnica dos Técnicos Industriais e Agrícolas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O Conselho Regional será constituído pela Diretoria Executiva e pelo Plenário deliberativo.</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Plenário deliberativo será composto pelos conselheiros regionais, eleitos juntamente com os seus suplentes, conforme os critérios de representação definidos em regimento interno.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O mandato dos membros do Conselho Regional terá duração de quatro anos, admitida uma reeleição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>A Diretoria Executiva do Conselho Regional será composta por:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Presidente;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Vice-Presidente;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Diretor Administrativo;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Diretor Financeiro;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Diretor de Fiscalização e Normas da Área Agrícola; e</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>Diretor de Fiscalização e Normas da Área Industrial.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os membros da Diretoria Executiva serão eleitos, por meio do voto direto e secreto, pelos profissionais aptos a votar.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de vacância nos cargos de que tratam os incisos III, IV, V e VI do caput deste artigo, o Plenário deliberativo escolherá entre seus membros o novo Diretor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O Plenário do Conselho Regional será composto por, no mínimo, doze e, no máximo, cem conselheiros regionais, acrescidos dos membros da Diretoria Executiva, observado o quantitativo de profissionais inscritos em cada Conselho.</p>
+            
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O número de conselheiros de cada Conselho Regional será definido em resolução aprovada pelo Conselho Federal.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            <!--Link: urn:lex:br:federal:lei:1968-11-05;5524-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na composição do Plenário do Conselho Regional será observada a proporcionalidade entre as profissões mencionadas na <span xlink:href="urn:lex:br:federal:lei:1968-11-05;5524">Lei nº 5.524, de 5 de novembro de 1968</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Compete aos Conselhos Regionais:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>elaborar e alterar os seus regimentos e os demais atos;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cumprir e fazer cumprir o disposto nesta Lei, no regimento interno do Conselho Federal, nos demais atos normativos do Conselho Federal e em seus próprios atos, no âmbito de sua competência;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>criar representações e escritórios descentralizados na sua área de atuação, na forma do regimento interno do Conselho Federal;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>criar colegiados com finalidades e funções específicas;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>cadastrar os profissionais e as pessoas jurídicas habilitadas na forma desta Lei e emitir o registro de sua carteira de identificação;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>manter atualizado o cadastro de que trata o inciso V do caput deste artigo;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>cobrar as anuidades, as multas e os Termos de Responsabilidade Técnica;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>fazer e manter atualizados os registros de direitos autorais e de responsabilidade e os acervos técnicos;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>fiscalizar o exercício das atividades dos Técnicos Industriais e Agrícolas;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>julgar em primeira instância os processos disciplinares, na forma que determinar o regimento interno do Conselho Federal;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>deliberar sobre assuntos administrativos e financeiros e elaborar programas de trabalho e orçamento;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>sugerir ao Conselho Federal medidas para aprimorar a aplicação do disposto nesta Lei e para promover o cumprimento de suas finalidades e a observância aos princípios estabelecidos;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>representar os Técnicos Industriais e Agrícolas em colegiados de órgãos da Administração Pública estadual, distrital e municipal que tratem de questões de exercício profissional e em órgãos não governamentais da área de sua competência;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>manter relatórios públicos de suas atividades;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>firmar convênios e outros instrumentos legais para a valoração e a qualificação profissional; e</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>operacionalizar o Acervo de Responsabilidade Técnica.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>As atividades do Conselho Federal e dos Conselhos Regionais serão custeadas exclusivamente por sua renda própria.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Constituem recursos dos Conselhos:</p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>doações, legados, juros e receitas patrimoniais;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>subvenções;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>resultados de convênios; e</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>outros rendimentos eventuais.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Constituem, ainda, recursos dos Conselhos Regionais receitas com anuidades, contribuições, multas, taxas e tarifas de serviços.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Constituem, ainda, recursos do Conselho Federal 15% (quinze por cento) da arrecadação prevista no § 1º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            <!--Link: urn:lex:br:federal:lei:2011-10-28;12514-->
+            
+            
+            <p>A cobrança de multas e anuidades observará o disposto na <span xlink:href="urn:lex:br:federal:lei:2011-10-28;12514">Lei nº 12.514, de 28 de outubro de 2011</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>A realização de trabalho de atuação compartilhada com outras profissões regulamentadas será objeto de Termo de Responsabilidade Técnica.</p>
+            
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ato do Conselho Federal dos Técnicos Industriais e Agrícolas detalhará as hipóteses de obrigatoriedade e de dispensa do Termo de Responsabilidade Técnica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Não será efetuado Termo de Responsabilidade Técnica sem o prévio recolhimento da Taxa do Termo de Responsabilidade Técnica pela pessoa física do profissional ou pela pessoa jurídica responsável.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>O valor da Taxa de Termo de Responsabilidade Técnica não poderá ser superior a R$ 50,00 (cinquenta reais).</p>
+            
+          </Caput><Paragrafo id="art18_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O valor referido no caput deste artigo poderá ser atualizado, anualmente, de acordo com a variação integral do Índice Nacional de Preços ao Consumidor (INPC), calculado pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), no exercício anterior.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>A falta do Termo de Responsabilidade Técnica sujeitará o profissional ou a empresa responsável à multa de 300% (trezentos por cento) sobre o valor da Taxa de Termo de Responsabilidade Técnica não paga, corrigida a partir da autuação com base na variação da Taxa Referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulada mensalmente até o último dia do mês anterior ao da devolução dos recursos, acrescido este montante de 1% (um por cento) no mês de efetivação do pagamento, sem prejuízo da responsabilização pessoal pela violação ética e da obrigatoriedade da paralisação do trabalho até a regularização da situação.</p>
+            
+          </Caput><Paragrafo id="art19_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não se aplica o disposto no caput deste artigo na hipótese de trabalho realizado em resposta à situação de emergência se o profissional ou a pessoa jurídica providenciar, assim que possível, a regularização da situação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Constituem infrações disciplinares, além de outras definidas pelo Código de Ética:</p>
+            <Inciso id="art20_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>registrar projeto ou trabalho técnico ou de criação no Conselho dos Técnicos Industriais e Agrícolas, para fins de comprovação de direitos autorais e formação de acervo técnico, que não tenha sido efetivamente concebido, desenvolvido ou elaborado por quem houver requerido o registro;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>reproduzir projeto ou trabalho, técnico ou de criação, de autoria de terceiros sem a devida autorização do detentor dos seus direitos autorais;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fazer falsa prova dos documentos exigidos para o registro no Conselho dos Técnicos Industriais e Agrícolas;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>praticar, no exercício da atividade profissional, ato que a lei defina como crime ou contravenção;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>integrar empresa ou instituição sem nela atuar, efetivamente, com objetivo de viabilizar o registro da empresa no Conselho dos Técnicos Industriais e Agrícolas;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>locupletar-se ilicitamente, por qualquer meio, à custa de cliente, diretamente ou por intermédio de terceiros;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>recusar-se, injustificadamente, a prestar contas a cliente a respeito de quantias que houver recebido dele, diretamente ou por intermédio de terceiros;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>deixar de informar os dados exigidos nos termos desta Lei em documento ou em peça de comunicação dirigida a cliente, ao público ou ao Conselho dos Técnicos Industriais e Agrícolas;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>deixar de observar as normas legais e técnicas pertinentes à execução de trabalhos técnicos;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>agir de maneira desidiosa na execução do trabalho contratado;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>deixar de pagar anuidade, taxas, preços de serviços e multas devidos ao Conselho dos Técnicos Industriais e Agrícolas quando devidamente notificado;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>não efetuar o Termo de Responsabilidade Técnica quando for obrigatório;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>exercer a profissão quando impedido de fazê-lo, ou facilitar, por qualquer meio, o seu exercício a pessoas não inscritas ou impedidas; e</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>abster-se de votar nas eleições do Conselho Federal dos Técnicos Industriais e Agrícolas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>São sanções disciplinares:</p>
+            <Inciso id="art21_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>advertência;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>suspensão do exercício da atividade de Técnico Industrial e Agrícola em todo o território nacional por período entre trinta dias e um ano;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cancelamento de registro; e</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>multa no valor de uma a dez anuidades.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese de o profissional ou a sociedade de profissionais de Técnicos Industriais e Agrícolas deixar de pagar anuidade, taxas, preços de serviços e multas devidos ao Conselho, quando devidamente notificado, será aplicada suspensão até a regularização da dívida.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A sanção prevista no inciso IV do caput deste artigo poderá incidir cumulativamente com as demais.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese de participação de profissional vinculado a conselho de outra profissão em infração disciplinar, o referido conselho deverá ser comunicado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            
+            <p>Os processos disciplinares do Conselho Federal e dos Conselhos Regionais observarão as regras constantes da <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>, desta Lei e, de forma complementar, das resoluções do Conselho Federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>O processo disciplinar poderá ser instaurado de ofício ou mediante representação de qualquer autoridade ou pessoa interessada.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>A pedido do acusado ou do acusador, o processo disciplinar poderá tramitar em sigilo, disponíveis as informações e os documentos nele contidos apenas ao acusado, ao eventual acusador e aos procuradores por eles constituídos.</p>
+            
+          </Caput><Paragrafo id="art24_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Após a decisão final, o processo será tornado público.</p>
+            
+          </Paragrafo><Paragrafo id="art24_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caberá recurso ao Conselho Federal, que decidirá em última instância administrativa, das decisões definitivas proferidas pelos Conselhos Regionais.</p>
+            
+          </Paragrafo><Paragrafo id="art24_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Além do acusado e do acusador, o Presidente e os Conselheiros do Conselho Federal são legitimados para interpor o recurso previsto no § 2º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>A pretensão de punição das sanções disciplinares prescreverá no prazo de cinco anos, contado da data do fato.</p>
+            
+          </Caput><Paragrafo id="art25_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A prescrição será interrompida pela intimação do acusado para apresentar defesa.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>Cabe a cada Conselho Regional a emissão do registro da carteira de identificação para o exercício das atividades dos Técnicos Industriais e Agrícolas que estabelecerem domicílio profissional no respectivo território, prevalecendo, em caso de dúvida, o domicílio da pessoa física.</p>
+            
+          </Caput><Paragrafo id="art26_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O registro de que trata o caput deste artigo habilita o profissional a atuar em todo o território nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>O Conselho Federal e os Conselhos Regionais serão auditados, anualmente, por auditoria independente, e os resultados serão divulgados para conhecimento público.</p>
+            
+          </Caput><Paragrafo id="art27_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Após a aprovação pelo Plenário de cada Conselho Regional, as contas serão submetidas ao Conselho Federal para homologação.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto neste artigo não exclui a fiscalização pelo Tribunal de Contas da União.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>O exercício de funções da Diretoria Executiva e de conselheiro do Conselho Federal e dos Conselhos Regionais será considerado prestação de serviço público relevante, não remunerada.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>O exercício de função em Conselho Regional é incompatível com o exercício de função no Conselho Federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>Aos empregados do Conselho Federal e dos Conselhos Regionais aplicam-se o regime jurídico da <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span>, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, e a legislação complementar.</p>
+            
+          </Caput><Paragrafo id="art30_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os empregados do Conselho Federal e dos Conselhos Regionais, ressalvados os ocupantes de cargo em comissão, serão admitidos mediante processo seletivo que garanta o princípio da impessoalidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>O Conselho Federal dos Técnicos Industriais e Agrícolas detalhará, observados os limites legais e regulamentares, as áreas de atuação privativas dos Técnicos Industriais e Agrícolas e as áreas de atuação compartilhadas com outras profissões regulamentadas.</p>
+            
+          </Caput><Paragrafo id="art31_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não serão consideradas privativas de profissional especializado as áreas de atuação nas quais a ausência de formação específica não exponha o usuário do serviço a risco ou danos materiais à segurança, à saúde ou ao meio ambiente.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de as normas do Conselho Federal dos Técnicos Industriais e Agrícolas sobre área de atuação contradizerem normas de outro conselho profissional, a controvérsia será resolvida por meio de resolução conjunta de ambos os conselhos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>O Conselho Federal e os Conselhos Regionais de Engenharia e Agronomia deverão, no prazo de noventa dias, contado da data de entrada em vigor desta Lei:</p>
+            <Inciso id="art32_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:1968-11-05;5524-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>entregar o cadastro de profissionais de nível técnico abrangidos pela <span xlink:href="urn:lex:br:federal:lei:1968-11-05;5524">Lei nº 5.524, de 5 de novembro de 1968</span>, para o Conselho Federal dos Técnicos Industriais e Agrícolas;</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>depositar em conta bancária do Conselho Federal dos Técnicos Industriais e Agrícolas da circunscrição correspondente o montante de 90% (noventa por cento) da anuidade pro rata tempore recebida dos técnicos a que se refere esta Lei, proporcionalmente ao período restante do ano da criação do Conselho dos Técnicos Industriais e Agrícolas; e</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>entregar cópia de todo o acervo técnico dos profissionais abarcados nesta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art32_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Conselho Federal dos Técnicos Industriais e Agrícolas deverá escriturar separadamente os dados e os numerários referentes a cada ente federativo e retê-los até que o respectivo Conselho Regional seja instituído.</p>
+            
+          </Paragrafo><Paragrafo id="art32_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Por ocasião da instituição de cada Conselho Regional dos Técnicos Industriais e Agrícolas, o Conselho Federal dos Técnicos Industriais e Agrícolas deverá repassar as informações a que se refere o § 1º deste artigo e transferir os recursos repassados pelo Conselho Federal e pelos Conselhos Regionais de Engenharia e Agronomia, na forma estabelecida no inciso II do caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>Ressalvado o disposto no art. 32 desta Lei, o ativo e o passivo do Conselho Federal de Engenharia e Agronomia e dos Conselhos Regionais de Engenharia e Agronomia permanecerão integralmente com eles.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>A Confederação Nacional dos Profissionais Liberais (CNPL), em articulação com as federações, sindicatos e associações dos profissionais referidos nesta Lei, coordenará o primeiro processo eleitoral para criação do Conselho Federal, devendo a eleição e a posse ocorrer no prazo máximo de seis meses, contado da publicação desta Lei.</p>
+            
+          </Caput><Paragrafo id="art34_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Realizada a eleição e instalado o Conselho Federal de Técnicos Industriais e Agrícolas, caberá ao referido Conselho decidir quais serão os Conselhos Regionais instalados em cada Estado e quais serão os Estados que compartilharão Conselho Regional por insuficiência de inscritos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>A eleição dos primeiros conselheiros regionais será organizada pela Diretoria Executiva de cada Conselho Regional, observadas as disposições desta Lei.</p>
+            
+          </Caput><Paragrafo id="art35_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A eleição de que trata este artigo será realizada no prazo de noventa dias, contado da data de posse dos membros da Diretoria Executiva e instalação de cada Conselho Regional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>Os regimentos internos do Conselho Federal e dos Conselhos Regionais, constituídos na forma desta Lei, deverão ser elaborados no prazo de cento e oitenta dias, contado da data da posse de seus conselheiros.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>O Conselho Federal dos Técnicos Industriais e Agrícolas terá o prazo de um ano, após a entrada em vigor desta Lei, para elaborar o Código de Ética.</p>
+            
+          </Caput><Paragrafo id="art37_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplicam-se as normas do Conselho Federal de Engenharia e Agronomia (Confea) aos Técnicos Industriais e Agrícolas enquanto o novo Conselho Federal não dispuser diversamente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            <!--Link: urn:lex:br:federal:lei:1966-12-24;5194!art84-->
+            
+            
+            <p>Fica revogado o <span xlink:href="urn:lex:br:federal:lei:1966-12-24;5194!art84">art. 84 da Lei nº 5.194, de 24 de dezembro de 1966</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

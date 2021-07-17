@@ -1,0 +1,262 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;70"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 70 DE 2018</Epigrafe>
+      <Ementa id="ementa">Institui a Política Nacional de Racionalização e Combate ao Desperdício da Água.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituída a Política Nacional de Racionalização e Combate ao Desperdício da Água, cujos objetivos, princípios e instrumentos são estabelecidos nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O combate ao desperdício quantitativo de água compreende ações governamentais voltadas à conscientização da população por meio de campanhas educativas sobre uso abusivo, métodos de conservação e uso racional da água, bem como ações de caráter fiscal e tributário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Para efeito desta Lei, considera-se:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>conservação e uso racional da água: conjunto de ações que propiciam economia de água e combate ao desperdício quantitativo nas edificações;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>desperdício quantitativo de água: volume de água potável desperdiçado pelo uso abusivo;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>utilização de fontes alternativas: conjunto de ações que possibilitam o uso de outras fontes para captação de água que não seja o sistema público de abastecimento;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>águas servidas: águas utilizadas nas áreas de cozinha, lavanderia e banheiros, excluídas as do sistema de esgoto.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>As ações de utilização de fontes alternativas compreendem:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a captação, o armazenamento e a utilização de água das chuvas; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a captação, o armazenamento e a utilização de águas servidas.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A água das chuvas será captada na cobertura das edificações e encaminhada a uma cisterna ou tanque para ser utilizada em atividades que não requeiram o uso de água tratada proveniente da rede pública de abastecimento, tais como:</p>
+            <Inciso id="art4_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>rega de jardins e hortas;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>lavagem de veículos;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>lavagem de vidros, calçadas e pisos;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>sistemas de descarga sanitária.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>São instrumentos da Política Nacional de Racionalização e Combate ao Desperdício da Água:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Programa Nacional de Combate ao Desperdício de Água (PNCDA);</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o Plano Nacional de Recursos Hídricos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o Programa de Eficiência Energética em Saneamento Ambiental (Procel Sanear);</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a cobrança pelo uso da água;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a política federal de saneamento básico;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>os contratos e convênios com os entes federados;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os Comitês de Bacia Hidrográfica.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>São objetivos da Política Nacional de Racionalização e Combate ao Desperdício da Água:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>promover ações que visem ao uso eficiente da água em sistemas de saneamento ambiental, inclusive pelos consumidores, segundo uma visão integrada de utilização desses recursos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>incentivar o uso eficiente dos recursos hídricos como estratégia de prevenção à escassez de água destinada ao consumo humano;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>contribuir para a universalização dos serviços de saneamento ambiental, com menores custos para a sociedade e benefícios adicionais nas áreas de saúde e de meio ambiente;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>incrementar o fluxo de recursos financeiros para implementação de projetos de eficiência no uso da água;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>melhorar os indicadores de desempenho associados ao processamento de água dos prestadores de serviços de saneamento;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>conscientizar os consumidores quanto ao uso adequado de água e informá-los sobre novas tecnologias e seus benefícios;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>integrar-se com as políticas de saúde, de meio ambiente, de saneamento, de recursos hídricos e de desenvolvimento urbano e rural.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Os entes federativos que aderirem aos programas referidos nos incisos I e II do caput do art. 5º terão preferência nos convênios federais no âmbito desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

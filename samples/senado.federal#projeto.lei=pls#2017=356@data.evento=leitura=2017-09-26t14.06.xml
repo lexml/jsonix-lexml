@@ -1,0 +1,112 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;356@data.evento;leitura;2017-09-26t14.06"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 356 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1996-12-26;9427">Leis nº 9.427, de 26 de dezembro de 1996</span>, e nº <span xlink:href="urn:lex:br:federal:lei:2000-07-24;9991">9.991, de 24 de julho de 2000</span>, para incentivar a modernização das instalações do serviço público de distribuição de energia elétrica.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-26;9427-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1996-12-26;9427">Lei nº 9.427, de 26 de dezembro de 1996</span>, passa a vigorar acrescida do seguinte art. 16-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-12-26;9427" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-12-26;9427 -> MatchByBase(urn:lex:br:federal:lei:1996-12-26;9427,1996,Some((12,26)),Map(art16-1 -> PrefixMatch(URN(1996,Some((12,26)),,urn:lex:br:federal:lei:1996-12-26;9427),art16-1), art16-1_cpt -> PrefixMatch(URN(1996,Some((12,26)),,urn:lex:br:federal:lei:1996-12-26;9427),art16-1_cpt)))))-->
+              <Artigo xlink:href="art16-1" id="art1_cpt_alt1_art16-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16-A.</Rotulo>
+            
+            <Caput xlink:href="art16-1_cpt" id="art1_cpt_alt1_art16-1_cpt" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1995-02-13;8987!art6-->
+            
+            
+            <p>Para fins do serviço público de distribuição de energia elétrica, a modernização de suas instalações e o monitoramento e gerenciamento do transporte de eletricidade em tempo real, com o fluxo de energia elétrica e de informações bidirecionais entre o sistema de fornecimento de energia elétrica e o consumidor final, fazem parte da condição de atualidade na prestação do serviço adequado a que se refere o <span xlink:href="urn:lex:br:federal:lei:1995-02-13;8987!art6">art. 6º da Lei nº 8.987, de 13 de fevereiro de 1995</span>.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2000-07-24;9991-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2000-07-24;9991">Lei nº 9.991, de 24 de julho de 2000</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2000-07-24;9991" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2000-07-24;9991 -> MatchByBase(urn:lex:br:federal:lei:2000-07-24;9991,2000,Some((7,24)),Map(art4_par4_inc1 -> PrefixMatch(URN(2000,Some((7,24)),,urn:lex:br:federal:lei:2000-07-24;9991),art4_par4_inc1), art5-1_cpt -> PrefixMatch(URN(2000,Some((7,24)),,urn:lex:br:federal:lei:2000-07-24;9991),art5-1_cpt), art4 -> PrefixMatch(URN(2000,Some((7,24)),,urn:lex:br:federal:lei:2000-07-24;9991),art4), art5-1 -> PrefixMatch(URN(2000,Some((7,24)),,urn:lex:br:federal:lei:2000-07-24;9991),art5-1), art4_cpt -> PrefixMatch(URN(2000,Some((7,24)),,urn:lex:br:federal:lei:2000-07-24;9991),art4_cpt), art4_par4_inc2 -> PrefixMatch(URN(2000,Some((7,24)),,urn:lex:br:federal:lei:2000-07-24;9991),art4_par4_inc2), art4_par4 -> PrefixMatch(URN(2000,Some((7,24)),,urn:lex:br:federal:lei:2000-07-24;9991),art4_par4)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art4_par4" id="art2_cpt_alt1_art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Nos programas e projetos de pesquisa e inovação tecnológica do setor de energia elétrica, deverá ser priorizada a obtenção de resultados de aplicação prática, com foco:</p>
+            <Inciso xlink:href="art4_par4_inc1" id="art2_cpt_alt1_art4_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>na criação e no aperfeiçoamento de produtos, processos, metodologias e técnicas; e</p>
+            
+          </Inciso><Inciso xlink:href="art4_par4_inc2" id="art2_cpt_alt1_art4_par4_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>na modernização das instalações vinculadas à geração, transmissão e distribuição de energia elétrica</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art5-1" id="art2_cpt_alt1_art5-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º-A.</Rotulo>
+            
+            <Caput xlink:href="art5-1_cpt" id="art2_cpt_alt1_art5-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Para fins do disposto nesta Lei, redes elétricas que utilizam tecnologia para monitorar e gerenciar o transporte de eletricidade em tempo real, com fluxo de energia elétrica e de informações bidirecionais entre o sistema de fornecimento de energia elétrica e o cliente final, são consideradas instrumentos de eficiência energética e de modernização das instalações vinculadas à distribuição de energia elétrica</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

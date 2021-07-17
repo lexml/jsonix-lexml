@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;391@data.evento;leitura;2017-10-16t14.08"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 391 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2005-02-09;11101">Lei nº 11.101, de 9 de fevereiro de 2005</span>, para prever como requisito para o processamento de recuperação judicial que o devedor não tenha condenação por órgão colegiado pelos crimes que especifica.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2005-02-09;11101!art48_cpt_inc4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2005-02-09;11101!art48_cpt_inc4">inciso IV do art. 48 da Lei nº 11.101, de 9 de fevereiro de 2005</span>, passa a viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2005-02-09;11101" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2005-02-09;11101 -> MatchByBase(urn:lex:br:federal:lei:2005-02-09;11101,2005,Some((2,9)),Map(art48 -> SuperPrefixMatch(URN(2005,Some((2,9)),art48_cpt_inc4,urn:lex:br:federal:lei:2005-02-09;11101!art48_cpt_inc4),art48), art48_cpt -> SuperPrefixMatch(URN(2005,Some((2,9)),art48_cpt_inc4,urn:lex:br:federal:lei:2005-02-09;11101!art48_cpt_inc4),art48_cpt), art48_cpt_inc4 -> ExactMatch(URN(2005,Some((2,9)),art48_cpt_inc4,urn:lex:br:federal:lei:2005-02-09;11101!art48_cpt_inc4))))))-->
+              <Artigo xlink:href="art48" id="art1_cpt_alt1_art48" abreAspas="s">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput xlink:href="art48_cpt" id="art1_cpt_alt1_art48_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art48_cpt_omi1"/><Inciso xlink:href="art48_cpt_inc4" id="art1_cpt_alt1_art48_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>não ter sido condenado ou não ter, como administrador ou sócio controlador, pessoa condenada, em decisão proferida por órgão judicial colegiado, por qualquer dos crimes previstos nesta Lei.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art48_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;108"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 108 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a redação do art. 1.021 da <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span>, que “institui o Código Civil”.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei visa a permitir que os sócios examinem, a qualquer tempo, livros e documentos da empresa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>O art. 1.021 da <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-01-10;10406" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-01-10;10406 -> MatchByBase(urn:lex:br:federal:lei:2002-01-10;10406,2002,Some((1,10)),Map(art1021 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1021), art1021_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1021_cpt)))))-->
+              <Artigo xlink:href="art1021" id="art2_cpt_alt1_art1021" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.021.</Rotulo>
+            
+            <Caput xlink:href="art1021_cpt" id="art2_cpt_alt1_art1021_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>O sócio pode, a qualquer tempo, examinar os livros e documentos, e o estado da caixa e da carteira da sociedade.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

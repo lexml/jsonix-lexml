@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;5@data.evento;leitura;2017-02-22t11.19"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 5 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art2">art. 2º da Constituição Federal</span> para estabelecer vedação absoluta à ocupação de funções de chefia de Poder por réus em processo penal.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art2">art. 2º da Constituição Federal</span> passa a vigorar acrescido da seguinte alteração:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art2 -> ExactMatch(URN(1988,Some((10,5)),art2,urn:lex:br:federal:constituicao:1988-10-05;1988!art2)), art2_cpt -> PrefixMatch(URN(1988,Some((10,5)),art2,urn:lex:br:federal:constituicao:1988-10-05;1988!art2),art2_cpt), art2_par1 -> PrefixMatch(URN(1988,Some((10,5)),art2,urn:lex:br:federal:constituicao:1988-10-05;1988!art2),art2_par1), art2_par2 -> PrefixMatch(URN(1988,Some((10,5)),art2,urn:lex:br:federal:constituicao:1988-10-05;1988!art2),art2_par2)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art2_par1" id="art1_cpt_alt1_art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É incompatível com o modelo republicano nacional que as funções de chefia de Poder, em todos os níveis federativos, sejam exercidas por quem esteja na condição de réu em processo penal, situação que, se prévia à investidura, importa a proibição absoluta de acesso ao cargo respectivo, e, se posterior, impõe o afastamento no prazo máximo de quarenta e oito horas, sob pena de nulidade de todos os atos praticados.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par2" id="art1_cpt_alt1_art2_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A vedação determinada pelo parágrafo anterior cessa quando sobrevier decisão judicial absolutória definitiva.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

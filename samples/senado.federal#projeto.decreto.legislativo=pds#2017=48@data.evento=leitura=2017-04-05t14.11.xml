@@ -1,0 +1,52 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.decreto.legislativo;pds:2017;48@data.evento;leitura;2017-04-05t14.11"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE DECRETO LEGISLATIVO (SF) Nº 48 DE 2017</Epigrafe>
+      <Ementa id="ementa">Susta, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art49_cpt_inc5">inciso V do art. 49 da Constituição Federal</span>, os efeitos da expressão “devendo ser fixado o prazo de validade do laudo pericial no caso de moléstias passíveis de controle”, constante do inciso II do art. 6º da Instrução Normativa nº 1500, de 29 de outubro de 2014, da Receita Federal do Brasil, bem como o inciso IV do § 5º do mesmo art. 6º.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art49_cpt_inc5-->
+            
+            
+            <p>Ficam sustados, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art49_cpt_inc5">inciso V do art. 49 da Constituição Federal</span>, os efeitos:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>da expressão “devendo ser fixado o prazo de validade do laudo pericial no caso de moléstias passíveis de controle”, constante do inciso II do art. 6º da Instrução Normativa nº 1.500, de 29 de outubro de 2014, da Receita Federal do Brasil;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>do inciso IV do § 5º do mesmo dispositivo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Este Decreto Legislativo entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

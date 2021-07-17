@@ -1,0 +1,259 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;8@data.evento;leitura;2017-02-07t14.03"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 8 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a Política Nacional de Saúde Bucal no âmbito do Sistema Único de Saúde (SUS) e altera a <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080">Lei nº 8.080, de 19 de setembro de 1990</span>, para incluir a saúde bucal no campo de atuação do SUS.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica criada a Política Nacional de Saúde Bucal, compreendida como um conjunto de diretrizes que conforma um modelo de organização e atuação, preconizado para a atenção à saúde bucal no País, que se constitui como instrumento para orientar as ações direcionadas à produção social da saúde bucal e, especificamente, as ações odontológicas em todos os níveis de atenção à saúde no âmbito do Sistema Único de Saúde – SUS.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São diretrizes da Política Nacional de Saúde Bucal:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estimular e promover a prática da gestão participativa, assegurando a atuação das representações populares e o controle público ou social, em todas as esferas de governo, na formulação e discussão de estratégias de saúde bucal;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>assegurar que toda e qualquer ação seja regida pelos princípios universais da ética em saúde;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>possibilitar o acesso universal, equânime e contínuo a serviços de saúde bucal de qualidade e resolutivos, dando resolução para toda demanda manifesta, seja espontânea ou programada, e viabilizar a obtenção e alocação dos recursos destinados à eliminação da demanda reprimida na área;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>desenvolver ações considerando o princípio da integralidade em saúde, a qual deve ser compreendida como abrangendo tanto as ações do âmbito intersetorial quanto as dimensões do indivíduo, do sistema de saúde e do cuidado em saúde, garantindo-se o acolhimento e pressupondo que o serviço de saúde seja organizado de forma usuário-centrado, realizado por equipe multiprofissional nos atos de receber, escutar, orientar, atender, encaminhar e acompanhar;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>efetivar relações de vínculo entre a equipe de saúde bucal e a população adstrita, garantindo-se que as ações estejam voltadas para as diferentes linhas do cuidado em saúde;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>desenvolver política de educação permanente em saúde para os trabalhadores em saúde bucal, com o objetivo de implementar projetos de mudança na formação técnica, de graduação e pós-graduação para que atendam às necessidades da população e aos princípios do SUS;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>realizar avaliação e acompanhamento sistemático dos resultados alcançados, como parte do processo de planejamento e programação;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>organizar e manter ações de vigilância epidemiológica e sanitária em saúde bucal, articuladas com o sistema de vigilância em saúde, incorporando práticas contínuas de avaliação e acompanhamento dos danos, riscos e determinantes do processo saúde-doença, com atuação intersetorial e ações sobre o território;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>realizar, periodicamente, pesquisas nacionais de saúde bucal, notadamente os inquéritos populacionais epidemiológicos, possibilitando ao País dispor de dados atualizados sobre essa área e promover o desenvolvimento da ciência e tecnologia nesse campo;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>implantar e manter ações de vigilância sanitária da fluoretação das águas de abastecimento público, obrigatória por imposição legal no Brasil onde houver Estação de Tratamento de Água, bem como ações complementares nos locais em que se fizerem necessárias, assegurando ao Poder Público controle sobre essas ações.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As ações e serviços de saúde bucal devem integrar as demais políticas públicas de saúde, de acordo com os princípios e diretrizes do SUS, com vistas à articulação de ações e à concretização de ações integrais de saúde que viabilizem a intervenção sobre fatores comuns de risco.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As ações e serviços de que tratam o caput deste artigo devem compor todas as redes de atenção à saúde, nos diversos níveis de complexidade, com a finalidade de garantir a integralidade da atenção à saúde.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art6--><!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art16--><!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art17--><!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art18-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art6">arts. 6º</span>, <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art16">16</span>, <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art17">17</span> e <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art18">18 da Lei nº 8.080, de 19 de setembro de 1990</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-19;8080" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-19;8080 -> MatchByBase(urn:lex:br:federal:lei:1990-09-19;8080,1990,Some((9,19)),Map(art17_cpt_inc4 -> PrefixMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17),art17_cpt_inc4), art17_cpt_inc4_ali5 -> PrefixMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17),art17_cpt_inc4_ali5), art17_cpt -> PrefixMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17),art17_cpt), art16_cpt -> PrefixMatch(URN(1990,Some((9,19)),art16,urn:lex:br:federal:lei:1990-09-19;8080!art16),art16_cpt), art17_cpt_inc4_ali3 -> PrefixMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17),art17_cpt_inc4_ali3), art17 -> ExactMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17)), art6_cpt_inc1_ali3 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_cpt_inc1_ali3), art18 -> ExactMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18)), art18_cpt -> PrefixMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18),art18_cpt), art16 -> ExactMatch(URN(1990,Some((9,19)),art16,urn:lex:br:federal:lei:1990-09-19;8080!art16)), art18_cpt_inc4_ali4 -> PrefixMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18),art18_cpt_inc4_ali4), art6 -> ExactMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6)), art6_cpt_inc1 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_cpt_inc1), art18_cpt_inc4 -> PrefixMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18),art18_cpt_inc4), art6_par4 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_par4), art6_cpt_inc1_ali5 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_cpt_inc1_ali5), art6_cpt -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_cpt), art16_cpt_inc20 -> PrefixMatch(URN(1990,Some((9,19)),art16,urn:lex:br:federal:lei:1990-09-19;8080!art16),art16_cpt_inc20), art18_cpt_inc4_ali6 -> PrefixMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18),art18_cpt_inc4_ali6)))))-->
+              <Artigo xlink:href="art6" id="art4_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art4_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art6_cpt_inc1" id="art4_cpt_alt1_art6_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            <Omissis id="art4_cpt_alt1_art6_cpt_inc1_omi1"/><Alinea xlink:href="art6_cpt_inc1_ali3" id="art4_cpt_alt1_art6_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>de saúde do trabalhador;</p>
+            
+          </Alinea><Omissis id="art4_cpt_alt1_art6_cpt_inc1_omi2"/><Alinea xlink:href="art6_cpt_inc1_ali5" id="art4_cpt_alt1_art6_cpt_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>de saúde bucal.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art4_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par4" id="art4_cpt_alt1_art6_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Entende-se por saúde bucal o conjunto articulado de ações, em todos os níveis de complexidade, que visem a garantir a promoção, prevenção, recuperação e reabilitação odontológica, individual e coletiva, inseridas no contexto da integralidade da atenção.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art16" id="art4_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art4_cpt_alt1_art16_cpt">
+            
+            
+            
+            <p>À direção nacional do Sistema Único de Saúde (SUS) compete:</p>
+            <Omissis id="art4_cpt_alt1_art16_cpt_omi1"/><Inciso xlink:href="art16_cpt_inc20" id="art4_cpt_alt1_art16_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>definir as diretrizes e normas para a estruturação física e organizacional dos serviços de saúde bucal.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art4_cpt_alt1_art16_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art17" id="art4_cpt_alt1_art17" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput xlink:href="art17_cpt" id="art4_cpt_alt1_art17_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art4_cpt_alt1_art17_cpt_omi1"/><Inciso xlink:href="art17_cpt_inc4" id="art4_cpt_alt1_art17_cpt_inc4" textoOmitido="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            
+            <Omissis id="art4_cpt_alt1_art17_cpt_inc4_omi1"/><Alinea xlink:href="art17_cpt_inc4_ali3" id="art4_cpt_alt1_art17_cpt_inc4_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>de alimentação e nutrição;</p>
+            
+          </Alinea><Omissis id="art4_cpt_alt1_art17_cpt_inc4_omi2"/><Alinea xlink:href="art17_cpt_inc4_ali5" id="art4_cpt_alt1_art17_cpt_inc4_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>de saúde bucal.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art4_cpt_alt1_art17_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art18" id="art4_cpt_alt1_art18" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput xlink:href="art18_cpt" id="art4_cpt_alt1_art18_cpt">
+            
+            
+            
+            <p>À direção municipal do Sistema Único de Saúde (SUS) compete:</p>
+            <Omissis id="art4_cpt_alt1_art18_cpt_omi1"/><Inciso xlink:href="art18_cpt_inc4" id="art4_cpt_alt1_art18_cpt_inc4" textoOmitido="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            
+            <Omissis id="art4_cpt_alt1_art18_cpt_inc4_omi1"/><Alinea xlink:href="art18_cpt_inc4_ali4" id="art4_cpt_alt1_art18_cpt_inc4_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>de saneamento básico;</p>
+            
+          </Alinea><Omissis id="art4_cpt_alt1_art18_cpt_inc4_omi2"/><Alinea xlink:href="art18_cpt_inc4_ali6" id="art4_cpt_alt1_art18_cpt_inc4_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>de saúde bucal.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art4_cpt_alt1_art18_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor noventa dias após a data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

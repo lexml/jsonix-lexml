@@ -1,0 +1,88 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;17@data.evento;leitura;2017-02-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 17 DE 2017</Epigrafe>
+      <Ementa id="ementa">Isenta de taxas a emissão da segunda via de documentos furtados ou roubados, mas mantém a cobrança de taxas de emissão da segunda via de documentos perdidos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>É isenta da cobrança de taxas a confecção da segunda via de documentos que tenham sido furtados ou roubados e cuja emissão seja atribuição de órgão ou ente público federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Para obter a isenção de que trata o art. 1º, a vítima deve apresentar ao órgão emissor o respectivo boletim de ocorrência policial, no qual deverá constar a enumeração dos documentos furtados ou roubados.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A isenção de que trata esta Lei prescreve em 60 (sessenta) dias contados da data do registro policial do furto ou roubo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Aquele que tiver comunicado falsamente à autoridade o crime de furto ou de roubo para a obtenção da isenção de que trata esta Lei deverá pagar, além das correspondentes taxas para a emissão dos documentos, multa, sem prejuízo de sua responsabilização civil e penal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>É válida cobrança de taxas a confecção da segunda via de documentos que tenham sido perdidos e cuja emissão seja atribuição de órgão ou ente público federal.</p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O interessado na emissão do documento perdido deverá apresentar ao órgão emissor o respectivo boletim de ocorrência policial, no qual deverá constar a enumeração dos documentos perdidos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

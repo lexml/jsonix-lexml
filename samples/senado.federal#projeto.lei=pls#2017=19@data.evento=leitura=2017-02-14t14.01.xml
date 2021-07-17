@@ -1,0 +1,100 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;19@data.evento;leitura;2017-02-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 19 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213">Lei nº 8.213, de 24 de julho de 1991</span>, que dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências, para elevar para 24 anos o limite de idade para os filhos perceberem o benefício de pensão por morte.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8213!art16_cpt_inc1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213!art16_cpt_inc1">inciso I do art. 16 da Lei nº 8.213, de 24 de julho de 1991</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1991-07-24;8213" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1991-07-24;8213 -> MatchByBase(urn:lex:br:federal:lei:1991-07-24;8213,1991,Some((7,24)),Map(art16 -> SuperPrefixMatch(URN(1991,Some((7,24)),art16_cpt_inc1,urn:lex:br:federal:lei:1991-07-24;8213!art16_cpt_inc1),art16), art16_cpt -> SuperPrefixMatch(URN(1991,Some((7,24)),art16_cpt_inc1,urn:lex:br:federal:lei:1991-07-24;8213!art16_cpt_inc1),art16_cpt), art16_cpt_inc1 -> ExactMatch(URN(1991,Some((7,24)),art16_cpt_inc1,urn:lex:br:federal:lei:1991-07-24;8213!art16_cpt_inc1))))))-->
+              <Artigo xlink:href="art16" id="art1_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art1_cpt_alt1_art16_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art16_cpt_inc1" id="art1_cpt_alt1_art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave, excetuado o disposto no inciso II do § 2º do art. 77;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art16_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8213!art77_par2_inc2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213!art77_par2_inc2">inciso II do § 2º do art. 77 da Lei nº 8.213, de 24 de julho de 1991</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1991-07-24;8213" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1991-07-24;8213 -> MatchByBase(urn:lex:br:federal:lei:1991-07-24;8213,1991,Some((7,24)),Map(art77 -> SuperPrefixMatch(URN(1991,Some((7,24)),art77_par2_inc2,urn:lex:br:federal:lei:1991-07-24;8213!art77_par2_inc2),art77), art77_cpt -> SuperPrefixMatch(URN(1991,Some((7,24)),art77_par2_inc2,urn:lex:br:federal:lei:1991-07-24;8213!art77_par2_inc2),art77_cpt), art77_par2 -> SuperPrefixMatch(URN(1991,Some((7,24)),art77_par2_inc2,urn:lex:br:federal:lei:1991-07-24;8213!art77_par2_inc2),art77_par2), art77_par2_inc2 -> ExactMatch(URN(1991,Some((7,24)),art77_par2_inc2,urn:lex:br:federal:lei:1991-07-24;8213!art77_par2_inc2))))))-->
+              <Artigo xlink:href="art77" id="art2_cpt_alt1_art77" abreAspas="s">
+            
+            
+            <Rotulo>Art. 77.</Rotulo>
+            
+            <Caput xlink:href="art77_cpt" id="art2_cpt_alt1_art77_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art77_omi1"/><Paragrafo xlink:href="art77_par2" id="art2_cpt_alt1_art77_par2" textoOmitido="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            
+            <Omissis id="art2_cpt_alt1_art77_par2_omi1"/><Inciso xlink:href="art77_par2_inc2" id="art2_cpt_alt1_art77_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>para o filho, a pessoa a ele equiparada ou o irmão, de ambos os sexos, ao completar vinte e quatro anos de idade, salvo se for inválido ou tiver deficiência intelectual ou mental ou deficiência grave;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art2_cpt_alt1_art77_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor noventa dias após a sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

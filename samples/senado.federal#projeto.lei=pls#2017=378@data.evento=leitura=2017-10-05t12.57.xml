@@ -1,0 +1,502 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;378@data.evento;leitura;2017-10-05t12.57"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 378 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a fabricação, importação, comercialização, registro, posse e porte de armas de fogo e munição em todo o território nacional.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES PRELIMINARES</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre a fabricação, importação, comercialização, registro, posse e porte de armas de fogo e munição em todo o território nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Para os fins desta Lei, são adotadas as seguintes definições:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>arma de fogo: arma que arremessa projéteis empregando a força expansiva dos gases gerados pela combustão de um propelente confinado em uma câmara que, normalmente, está solidária a um cano que tem a função de propiciar continuidade à combustão do propelente, além de direção e estabilidade ao projétil;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>arma curta: arma de fogo de dimensões e peso reduzidos, que pode ser portada por um indivíduo em um coldre, tais como pistolas, revólveres e garruchas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>arma longa: arma cujo peso e cujas dimensões não permitem que seja conduzida em um coldre, exigindo, em situações normais, ambas as mãos para a realização eficiente do disparo, tais como carabinas, espingardas e fuzis;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>arma automática: arma em que o carregamento, o disparo e todas as operações de funcionamento ocorrem continuamente enquanto o gatilho estiver sendo acionado;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>arma semiautomática: arma que realiza, automaticamente, todas as operações de funcionamento, com exceção do disparo, o qual, para ocorrer, requer, a cada disparo, um novo acionamento do gatilho;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>arma de uso permitido: arma cuja utilização é permitida a pessoas físicas em geral, bem como a pessoas jurídicas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>arma de uso restrito: arma que só pode ser utilizada pelas Forças Armadas, pelos órgãos de segurança pública e por pessoas físicas e jurídicas devidamente habilitadas, com energia cinética, medida na boca do cano, superior a 800J (oitocentos joules) para armas curtas, 1.800J (mil e oitocentos joules) para armas longas de alma raiada e 3.600J (três mil e seiscentos joules) para armas longas de alma lisa;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>arma de fogo obsoleta: arma de fogo que não se presta mais ao uso normal, devido a sua munição e elementos de munição não serem mais fabricados, ou por ser ela própria de fabricação antiga ou de modelo antigo e fora de uso;</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DO SISTEMA NACIONAL DE ARMAS</NomeAgrupador>
+            <Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Sistema Nacional de Armas – Sinarm, instituído no Ministério da Justiça, no âmbito da Polícia Federal, tem circunscrição em todo o território nacional, competindo-lhe:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>identificar as características e a propriedade de armas de fogo, mediante cadastro;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cadastrar as armas de fogo produzidas, importadas e vendidas no País;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cadastrar as licenças de porte de arma de fogo e as renovações respectivas;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>cadastrar as transferências de propriedade, extravio, furto, roubo e outras ocorrências suscetíveis de alterar os dados cadastrais, inclusive as decorrentes de fechamento de empresas de segurança privada e de transporte de valores;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>identificar as modificações que alterem as características ou o funcionamento de arma de fogo;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>integrar no cadastro os acervos policiais já existentes;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>cadastrar as apreensões de armas de fogo, inclusive as vinculadas a procedimentos policiais e judiciais;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>cadastrar os armeiros em atividade no País, bem como conceder licença para exercer a atividade;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>cadastrar mediante registro os produtores, atacadistas, varejistas, exportadores e importadores autorizados de armas de fogo, acessórios e munições;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>cadastrar a identificação do cano da arma, as características das impressões de raiamento e de microestriamento de projétil disparado, conforme marcação e testes obrigatoriamente realizados pelo fabricante;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>informar às Secretarias de Segurança Pública dos Estados e do Distrito Federal os registros e as licenças de porte de armas de fogo nos respectivos territórios, bem como manter o cadastro atualizado para consulta.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As Secretarias de Segurança Pública dos Estados e do Distrito Federal atuarão de forma integrada ao Sinarm, sendo-lhes facultado, mediante delegação, o exercício das atividades constantes dos incisos I a X do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As disposições deste artigo não se aplicam às armas de fogo das Forças Armadas e Auxiliares, bem como as demais que constem dos seus registros próprios.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DO REGISTRO</NomeAgrupador>
+            <Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>É obrigatório o registro de arma de fogo no órgão competente, excetuadas as consideradas obsoletas.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As armas de fogo de uso permitido serão registradas perante o Sinarm, sendo necessária, para sua aquisição, a comprovação de bons antecedentes, mediante a apresentação de certidões negativas criminais.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As armas de fogo de uso restrito serão registradas perante o órgão competente do Exército Brasileiro, sendo necessária, para sua aquisição, a comprovação de:</p>
+            <Inciso id="art4_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>capacidade técnica, mediante a apresentação de certificado de curso de tiro emitido por instrutor certificado;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aptidão psicológica, mediante a apresentação de laudo emitido por psicólogo credenciado; e</p>
+            
+          </Inciso><Inciso id="art4_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>bons antecedentes, mediante a apresentação de certidões negativas criminais.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O registro de arma de fogo automática somente será permitido mediante autorização especial emitida pelo órgão competente do Exército Brasileiro, nos termos do regulamento desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As armas de fogo dos colecionadores, dos atiradores esportivos, dos caçadores e das entidades desportivas legalmente constituídas serão registradas perante o órgão competente do Exército Brasileiro.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O Certificado de Registro de Arma de Fogo – CRAF, com validade em todo o território nacional, autoriza o seu proprietário a manter a arma de fogo no interior de sua residência ou domicílio, ou dependência desses, ou, ainda, no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa, ou, então, esteja por este autorizado mediante declaração escrita.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O CRAF terá validade mínima de 10 (dez anos), sendo necessária, para sua renovação, a comprovação dos requisitos exigidos para a sua expedição, nos termos do art. 4º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DO PORTE</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O porte de arma de fogo fica condicionado à prévia emissão de licença pela autoridade competente.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art142--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art144-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O disposto no caput deste artigo não se aplica aos integrantes dos órgãos e entidades de que tratam os <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art142">arts. 142</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art144">144 da Constituição Federal</span>, que obedecerão a regulamentos próprios.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A emissão da licença de que trata o caput deste artigo é assegurada aos integrantes dos órgãos ou entidades da administração pública direta e indireta cujas competências funcionais demandem a utilização de armas de fogo, nos termos do regulamento desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A emissão da licença de porte de arma de fogo de uso permitido será concedida pelo Sinarm, mediante a apresentação de CRAF válido e da comprovação de:</p>
+            <Inciso id="art6_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>capacidade técnica, mediante a apresentação de certificado de curso de tiro emitido por instrutor certificado;</p>
+            
+          </Inciso><Inciso id="art6_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aptidão psicológica, mediante a apresentação de laudo emitido por psicólogo credenciado; e</p>
+            
+          </Inciso><Inciso id="art6_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>bons antecedentes, mediante a apresentação de certidões negativas criminais.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O porte de armas de fogo de uso restrito e automáticas somente é permitido aos integrantes dos órgãos e entidades de que tratam os §§ 1º e 2º deste artigo, quando em serviço.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Independentemente da expedição da licença de que trata o caput deste artigo, é assegurado o porte de trânsito de uma arma de fogo de uso permitido aos atiradores esportivos e caçadores no trajeto entre o local de guarda do acervo e o local de treinamento, competição ou caça.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DOS CRIMES E DAS PENAS Posse ilegal de arma de fogo de uso permitido</NomeAgrupador>
+            <Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Possuir ou manter sob sua guarda arma de fogo de uso permitido, em desacordo com determinação legal, no interior de sua residência ou dependência desta, ou, ainda, no seu local de trabalho: Pena – detenção, de 1 (um) a 3 (três) anos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            <TituloDispositivo>Porte ilegal de arma de fogo de uso permitido</TituloDispositivo>
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo sem autorização e em desacordo com determinação legal: Pena – reclusão, de 2 (dois) a 4 (quatro) anos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            <TituloDispositivo>Posse ou porte ilegal de acessório de arma de fogo ou munição</TituloDispositivo>
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar acessório de arma de fogo ou munição sem autorização e em desacordo com determinação legal: Pena – detenção, de 6 (seis) meses a 1 (um) ano, ou multa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            <TituloDispositivo>Posse ou porte ilegal de arma de fogo de uso restrito</TituloDispositivo>
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo de uso proibido ou restrito, sem autorização e em desacordo com determinação legal: Pena – reclusão, de 3 (três) a 6 (seis) anos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            <TituloDispositivo>Comércio ilegal de arma de fogo</TituloDispositivo>
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Adquirir, alugar, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, adulterar, vender, expor à venda, ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, arma de fogo, acessório ou munição, sem autorização e em desacordo com determinação legal: Pena – reclusão, de 4 (quatro) a 8 (oito) anos, e multa.</p>
+            
+          </Caput><Paragrafo id="art11_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Equipara-se à atividade comercial ou industrial, para efeito deste artigo, qualquer forma de prestação de serviços, fabricação ou comércio irregular ou clandestino, inclusive o exercido em residência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            <TituloDispositivo>Tráfico internacional de arma de fogo</TituloDispositivo>
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Importar, exportar, favorecer a entrada ou saída do território nacional, a qualquer título, de arma de fogo, acessório ou munição, sem autorização da autoridade competente: Pena – reclusão, de 4 (quatro) a 8 (oito) anos, e multa.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Excetuadas as atribuições a que se refere o art. 3º desta Lei, compete ao Exército Brasileiro autorizar e fiscalizar a produção, exportação, importação, desembaraço alfandegário e o comércio de armas de fogo e demais produtos controlados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>As armas de fogo apreendidas, após a elaboração do laudo pericial e sua juntada aos autos, quando não mais interessarem à persecução penal, serão encaminhadas pelo juiz competente ao Exército Brasileiro, no prazo máximo de 48 (quarenta e oito) horas, para destruição ou doação aos órgãos de segurança pública, tendo prioridade as polícias estaduais, ou às Forças Armadas, nos termos do regulamento desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>É vedado ao menor de 18 (dezoito) anos adquirir, possuir e portar armas de fogo.</p>
+            
+          </Caput><Paragrafo id="art15_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É assegurada ao menor de 18 (dezoito) anos a participação em atividades desportivas que demandem a utilização de armas de fogo, mediante autorização escrita de seu responsável legal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O regulamento desta Lei será expedido pelo Poder Executivo no prazo de 30 (trinta) dias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-12-22;10826-->
+            
+            
+            <p>É revogada a <span xlink:href="urn:lex:br:federal:lei:2003-12-22;10826">Lei nº 10.826, de 22 de dezembro de 2003</span>.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

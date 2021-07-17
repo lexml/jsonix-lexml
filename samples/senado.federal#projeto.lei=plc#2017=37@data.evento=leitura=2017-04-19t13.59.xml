@@ -1,0 +1,43 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;37@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 37 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:2015-12-29;13233!art3">art. 3º da Lei nº 13.233, de 29 de dezembro de 2015</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2015-12-29;13233!art3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2015-12-29;13233!art3">art. 3º da Lei nº 13.233, de 29 de dezembro de 2015</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2015-12-29;13233" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2015-12-29;13233 -> MatchByBase(urn:lex:br:federal:lei:2015-12-29;13233,2015,Some((12,29)),Map(art3 -> ExactMatch(URN(2015,Some((12,29)),art3,urn:lex:br:federal:lei:2015-12-29;13233!art3)), art3_cpt -> PrefixMatch(URN(2015,Some((12,29)),art3,urn:lex:br:federal:lei:2015-12-29;13233!art3),art3_cpt)))))-->
+              <Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos trezentos e sessenta e cinco dias de sua publicação oficial para novos produtos e após decorridos dois anos de sua publicação oficial para os produtos já comercializáveis.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

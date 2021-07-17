@@ -1,0 +1,253 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;147"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 147 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-11-26;9519">Lei nº 9.519, de 26 de novembro de 1997</span>, que “dispõe sobre a reestruturação dos Corpos e Quadros de Oficiais e de Praças da Marinha”.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-26;9519-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-11-26;9519">Lei nº 9.519, de 26 de novembro de 1997</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-11-26;9519" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-11-26;9519 -> MatchByBase(urn:lex:br:federal:lei:1997-11-26;9519,1997,Some((11,26)),Map(art7_par3 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art7_par3), art16_cpt -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art16_cpt), art9_par2 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art9_par2), art8_par2 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art8_par2), art12_cpt -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art12_cpt), art8 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art8), art9_par1_inc2 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art9_par1_inc2), art6_par1 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art6_par1), art7 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art7), art12 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art12), art9_par1 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art9_par1), art7_par6 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art7_par6), art16 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art16), art9_par1_inc1 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art9_par1_inc1), art8_par6 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art8_par6), art7_par2 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art7_par2), art8_par1 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art8_par1), art10_par1 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art10_par1), art6 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art6), art8_cpt -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art8_cpt), art16_par1 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art16_par1), art10_cpt -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art10_cpt), art12_par4 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art12_par4), art8_par5 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art8_par5), art9_cpt -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art9_cpt), art7_par5 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art7_par5), art7_par1 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art7_par1), art6_cpt -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art6_cpt), art9 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art9), art10 -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art10), art7_cpt -> PrefixMatch(URN(1997,Some((11,26)),,urn:lex:br:federal:lei:1997-11-26;9519),art7_cpt)))))-->
+              <Artigo xlink:href="art6" id="art1_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art1_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art6_par1" id="art1_cpt_alt1_art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os Oficiais do Quadro de Médicos são ordenados em escala hierárquica constituída pelos postos de Primeiro-Tenente a Vice-Almirante, e os Oficiais dos Quadros de Cirurgiões-Dentistas e de Apoio à Saúde, pelos postos de Primeiro-Tenente a Capitão de Mar e Guerra.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art6_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art7" id="art1_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art1_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art7_par1" id="art1_cpt_alt1_art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os Oficiais do Quadro Técnico e do Quadro de Capelães Navais são ordenados em escala hierárquica constituída pelos postos de Primeiro-Tenente a Capitão de Mar e Guerra.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par2" id="art1_cpt_alt1_art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Ingressarão no Quadro Técnico os candidatos civis e militares graduados nas habilitações requeridas pelo Serviço Naval, aprovados em processo seletivo, Curso de Formação e Estágio de Aplicação de Oficiais e, por transferência, após seleção pela Comissão de Promoções de Oficiais, os Capitães-Tenentes dos Quadros Complementares.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par3" id="art1_cpt_alt1_art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Ingressarão nos Quadros Auxiliares da Armada e de Fuzileiros Navais as Praças da Marinha, com nível médio completo, aprovadas em concurso de admissão, Curso de Formação e Estágio de Aplicação de Oficiais.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art7_omi1"/><Paragrafo xlink:href="art7_par5" id="art1_cpt_alt1_art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os Oficiais dos Quadros Auxiliares da Armada e de Fuzileiros Navais são ordenados em escala hierárquica constituída pelos postos de Segundo-Tenente a Capitão de Mar e Guerra, exigida a graduação em curso superior de interesse da Administração Naval para os postos de Capitão de Corveta a Capitão de Mar e Guerra.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par6" id="art1_cpt_alt1_art7_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A transferência para o Quadro Técnico poderá ser realizada em caráter de voluntariado, após seleção pela Comissão de Promoções de Oficiais, para os Capitães Tenentes dos Quadros Auxiliares da Armada e de Fuzileiros Navais, com curso superior de interesse da Administração Naval.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art8" id="art1_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art1_cpt_alt1_art8_cpt">
+            
+            
+            
+            <p>Os candidatos, civis e militares, ao Corpo de Engenheiros da Marinha, aos Quadros do Corpo de Saúde da Marinha, aos Quadros Complementares, ao Quadro Técnico e ao Quadro de Capelães Navais serão nomeados por ato do Comandante da Marinha, após a conclusão com aproveitamento do Curso de Formação e Estágio de Aplicação de Oficiais, Primeiros-Tenentes ou Segundos-Tenentes da Reserva da Marinha, conforme o caso, do respectivo Corpo ou Quadro, e imediatamente convocados para o Serviço Ativo da Marinha.</p>
+            
+          </Caput><Paragrafo xlink:href="art8_par1" id="art1_cpt_alt1_art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os candidatos civis e militares serão matriculados como alunos nos Cursos de Formação e Estágios de Aplicação de Oficiais com o grau hierárquico de Guarda-Marinha.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8_par2" id="art1_cpt_alt1_art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os candidatos militares, por ocasião da sua matrícula, serão demitidos ex officio ou licenciados, conforme o caso.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art8_omi1"/><Paragrafo xlink:href="art8_par5" id="art1_cpt_alt1_art8_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os integrantes dos Corpos e dos Quadros a que se refere o § 4º deste artigo que não obtiverem avaliação favorável serão licenciados ex officio e incluídos na reserva não remunerada, e ser-lhes-á assegurada indenização financeira no valor de uma remuneração por ano de serviço como convocado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art8_par6" id="art1_cpt_alt1_art8_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>As normas relativas às habilitações requeridas, à seleção inicial, à matrícula em Curso de Formação e Estágio de Aplicação, à convocação para o Serviço Ativo, ao ingresso nos diversos Corpos e Quadros e à permanência definitiva no Serviço Ativo da Marinha serão estabelecidas em ato do Comandante da Marinha.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art9" id="art1_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art1_cpt_alt1_art9_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art9_par1" id="art1_cpt_alt1_art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na conciliação, obrigatória, entre as exigências do preparo do Poder Naval e sua aplicação em situação de guerra e crise e as diferenças físicas entre os sexos feminino e masculino, será observado o seguinte:</p>
+            <Inciso xlink:href="art9_par1_inc1" id="art1_cpt_alt1_art9_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os Corpos e os Quadros de Oficiais da Marinha do Brasil serão integrados por Oficiais de ambos os sexos, e compete ao Comandante da Marinha fixar em quais escolas de formação e cursos, além de definir as capacitações e as atividades, em que serão empregados Oficiais dos sexos feminino e masculino; e</p>
+            
+          </Inciso><Inciso xlink:href="art9_par1_inc2" id="art1_cpt_alt1_art9_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ato do Poder Executivo definirá os percentuais dos cargos dos diversos Corpos e Quadros para os sexos feminino e masculino.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art9_par2" id="art1_cpt_alt1_art9_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Revogado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art10" id="art1_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art1_cpt_alt1_art10_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art10_par1u" id="art1_cpt_alt1_art10_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As normas e os requisitos para transferência serão estabelecidos em ato do Comandante da Marinha.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art12" id="art1_cpt_alt1_art12" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput xlink:href="art12_cpt" id="art1_cpt_alt1_art12_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art12_omi1"/><Paragrafo xlink:href="art12_par4" id="art1_cpt_alt1_art12_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A distribuição dos efetivos de alunos das escolas de formação de Oficiais será regulada em ato do Comandante da Marinha, de modo a atender às necessidades de Oficiais nos postos iniciais dos diversos Corpos e Quadros.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art16" id="art1_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art1_cpt_alt1_art16_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art16_par1u" id="art1_cpt_alt1_art16_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Compete ao Comandante da Marinha regulamentar a constituição e a organização do Corpo de Praças da Marinha, observados, no que couber, os princípios estabelecidos para Oficiais no art. 9º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-26;9519-->
+            
+            
+            <p>Ficam revogados os seguintes dispositivos da <span xlink:href="urn:lex:br:federal:lei:1997-11-26;9519">Lei nº 9.519, de 26 de novembro de 1997</span>:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o § 2º do art. 9º; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o parágrafo único do art. 18.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

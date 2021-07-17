@@ -1,0 +1,460 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;376@data.evento;leitura;2017-10-03t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 376 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre incentivos fiscais e econômicos aos produtores rurais da Amazônia Legal para a preservação, conservação e recuperação de cobertura florestal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre a concessão de incentivos fiscais e econômicos a pessoas físicas e jurídicas, produtores rurais da Amazônia Legal, que promovam a preservação, a conservação ou a recuperação da cobertura florestal em seus imóveis rurais.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para os fins desta Lei, entende-se por recuperação da cobertura florestal o plantio de espécies autóctones, mesmo quando destinado à recomposição das áreas de preservação permanente e de reserva legal exigidas pela legislação ambiental.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os incentivos fiscais e econômicos de que trata esta Lei podem ser concedidos às atividades que visem à preservação, à conservação ou à recuperação da cobertura florestal de matas ciliares, de nascentes, olhos d’água, cursos ou depósitos de água, terrenos, remanescentes florestais, bem como à formação de áreas de refúgio para a fauna local ou ao estímulo à sua criação.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os incentivos fiscais e econômicos previstos nesta Lei serão suspensos em caso de descumprimento dos requisitos para sua concessão, bem como no caso de infrações à legislação ambiental.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A suspensão dos benefícios concedidos nos termos desta Lei obrigará os beneficiários à devolução dos recursos recebidos durante o período em que ocorreram os fatos que motivaram a suspensão, acrescidos de multas e encargos financeiros previstos na legislação em vigor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As atividades relativas à preservação, à conservação ou à recuperação da cobertura florestal de que trata esta Lei deverão ser implementadas de acordo com projeto técnico elaborado por profissional legalmente habilitado, que contenha cronograma físico-financeiro e seja aprovado pelo órgão ou entidade ambiental competente, mediante expedição de certificado específico, com validade de um ano.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O projeto técnico referido no caput será elaborado gratuitamente pelo Poder Público para os produtores rurais que exploram o imóvel rural em regime de economia familiar, nos termos da regulamentação desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O produtor rural que promova a preservação, a conservação ou a recuperação de cobertura florestal da Amazônia Legal, nos termos desta Lei poderá abater, na declaração anual relativa ao Imposto sobre a Renda e Proventos de Qualquer Natureza, o valor correspondente ao produto da alíquota a que estiver submetido pelo montante dos recursos aplicados nessas atividades, no ano-base.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A dedução referida no caput não poderá exceder, em cada ano, a 20% (vinte por cento) do Imposto de Renda devido antes da aplicação da dedução.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A concessão do benefício previsto no caput fica condicionada à comprovação, por parte do órgão ou entidade ambiental competente, da aplicação em ações de preservação, conservação ou recuperação florestal, dos valores declarados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>São isentos da incidência do Imposto sobre Produtos Industrializados (IPI), as máquinas agrícolas e veículos automotores utilitários adquiridos por produtores rurais que conservem, no mínimo, 80% da cobertura florestal nativa em imóveis rurais de sua propriedade ou posse localizados na Amazônia Legal.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A comprovação do cumprimento dos requisitos dispostos no caput será atestada pelo órgão ou entidade ambiental competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Aos valores monetários recebidos a título de compensação financeira pela preservação ou conservação de cobertura florestal, bem como às subvenções vinculadas à emissão de Cotas de Reserva Ambiental não alienadas, nos termos desta Lei, aplicam-se as seguintes regras fiscais:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ficam isentos do Imposto sobre a Renda e Proventos de Qualquer Natureza e da Contribuição Social sobre o Lucro Líquido;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>não integram a base de cálculo da Contribuição para o PIS/PASEP ou da Contribuição para o Financiamento da Seguridade Social (COFINS).</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            <!--Link: urn:lex:br:federal:lei:1989-07-10;7797-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1989-07-10;7797">Lei nº 7.797, de 10 de julho de 1989</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1989-07-10;7797" id="art7_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1989-07-10;7797 -> MatchByBase(urn:lex:br:federal:lei:1989-07-10;7797,1989,Some((7,10)),Map(art3_cpt -> PrefixMatch(URN(1989,Some((7,10)),,urn:lex:br:federal:lei:1989-07-10;7797),art3_cpt), art5_par3 -> PrefixMatch(URN(1989,Some((7,10)),,urn:lex:br:federal:lei:1989-07-10;7797),art5_par3), art3 -> PrefixMatch(URN(1989,Some((7,10)),,urn:lex:br:federal:lei:1989-07-10;7797),art3), art5_cpt -> PrefixMatch(URN(1989,Some((7,10)),,urn:lex:br:federal:lei:1989-07-10;7797),art5_cpt), art5 -> PrefixMatch(URN(1989,Some((7,10)),,urn:lex:br:federal:lei:1989-07-10;7797),art5), art5_cpt_inc8 -> PrefixMatch(URN(1989,Some((7,10)),,urn:lex:br:federal:lei:1989-07-10;7797),art5_cpt_inc8)))))-->
+              <Artigo xlink:href="art3" id="art7_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art7_cpt_alt1_art3_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Os recursos do Fundo Nacional do Meio Ambiente serão aplicados por meio de órgãos e entidades públicos dos níveis federal, estadual, distrital e municipal ou de entidades privadas cujos objetivos estejam em consonância com os objetivos do Fundo Nacional do Meio Ambiente, desde que as referidas entidades não possuam fins lucrativos, ressalvada a aplicação de que trata o inciso VIII do caput do art. 5º.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art5" id="art7_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art7_cpt_alt1_art5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art7_cpt_alt1_art5_cpt_omi1"/><Inciso xlink:href="art5_cpt_inc8" id="art7_cpt_alt1_art5_cpt_inc8">
+            <!--Link: urn:lex:br:federal:lei:2012-05-25;12651-->
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>pagamento de compensação financeira a produtores rurais da Amazônia Legal cujos imóveis de sua propriedade ou posse cumpram rigorosamente as exigências da <span xlink:href="urn:lex:br:federal:lei:2012-05-25;12651">Lei nº 12.651, de 25 de maio de 2012</span>.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art7_cpt_alt1_art5_omi1"/><Paragrafo xlink:href="art5_par3" id="art7_cpt_alt1_art5_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No mínimo vinte por cento das aplicações anuais de recursos financeiros do Fundo Nacional do Meio Ambiente serão destinados a projetos relacionados ao disposto no inciso VIII do caput.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-03-02;11284!art41-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2006-03-02;11284!art41">art. 41 da Lei nº 11.284, de 2 de março de 2006</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-03-02;11284" id="art8_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-03-02;11284 -> MatchByBase(urn:lex:br:federal:lei:2006-03-02;11284,2006,Some((3,2)),Map(art41 -> ExactMatch(URN(2006,Some((3,2)),art41,urn:lex:br:federal:lei:2006-03-02;11284!art41)), art41_par1_inc9 -> PrefixMatch(URN(2006,Some((3,2)),art41,urn:lex:br:federal:lei:2006-03-02;11284!art41),art41_par1_inc9), art41_par7 -> PrefixMatch(URN(2006,Some((3,2)),art41,urn:lex:br:federal:lei:2006-03-02;11284!art41),art41_par7), art41_par1 -> PrefixMatch(URN(2006,Some((3,2)),art41,urn:lex:br:federal:lei:2006-03-02;11284!art41),art41_par1), art41_par10 -> PrefixMatch(URN(2006,Some((3,2)),art41,urn:lex:br:federal:lei:2006-03-02;11284!art41),art41_par10), art41_cpt -> PrefixMatch(URN(2006,Some((3,2)),art41,urn:lex:br:federal:lei:2006-03-02;11284!art41),art41_cpt)))))-->
+              <Artigo xlink:href="art41" id="art8_cpt_alt1_art41" abreAspas="s">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput xlink:href="art41_cpt" id="art8_cpt_alt1_art41_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art41_par1" id="art8_cpt_alt1_art41_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Omissis id="art8_cpt_alt1_art41_par1_omi1"/><Inciso xlink:href="art41_par1_inc9" id="art8_cpt_alt1_art41_par1_inc9">
+            <!--Link: urn:lex:br:federal:lei:2012-05-25;12651-->
+            
+            <Rotulo>IX –</Rotulo>
+            <p>pagamento de compensação financeira a produtores rurais da Amazônia Legal cujos imóveis de sua propriedade ou posse cumpram rigorosamente as exigências da <span xlink:href="urn:lex:br:federal:lei:2012-05-25;12651">Lei nº 12.651, de 25 de maio de 2012</span>.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art8_cpt_alt1_art41_omi1"/><Paragrafo xlink:href="art41_par7" id="art8_cpt_alt1_art41_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os recursos do FNDF somente poderão ser destinados a projetos de órgãos e entidades públicos, ou de entidades privadas sem fins lucrativos, ressalvada a aplicação de que trata o inciso IX do § 1º deste artigo.</p>
+            
+          </Paragrafo><Omissis id="art8_cpt_alt1_art41_omi2"/><Paragrafo xlink:href="art41_par10" id="art8_cpt_alt1_art41_par10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>No mínimo vinte por cento das aplicações anuais de recursos financeiros do Fundo Nacional de Desenvolvimento Florestal serão destinados a projetos relacionados ao disposto no inciso IX do § 1º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:2010-12-22;12351!art51-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2010-12-22;12351!art51">art. 51 da Lei nº 12.351, de 22 de dezembro de 2010</span>, passa a vigorar acrescido do seguinte § 2º, renumerando-se o seu parágrafo único como § 1º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2010-12-22;12351" id="art9_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2010-12-22;12351 -> MatchByBase(urn:lex:br:federal:lei:2010-12-22;12351,2010,Some((12,22)),Map(art51 -> ExactMatch(URN(2010,Some((12,22)),art51,urn:lex:br:federal:lei:2010-12-22;12351!art51)), art51_cpt -> PrefixMatch(URN(2010,Some((12,22)),art51,urn:lex:br:federal:lei:2010-12-22;12351!art51),art51_cpt), art51_par1 -> PrefixMatch(URN(2010,Some((12,22)),art51,urn:lex:br:federal:lei:2010-12-22;12351!art51),art51_par1), art51_par2 -> PrefixMatch(URN(2010,Some((12,22)),art51,urn:lex:br:federal:lei:2010-12-22;12351!art51),art51_par2)))))-->
+              <Artigo xlink:href="art51" id="art9_cpt_alt1_art51" abreAspas="s">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput xlink:href="art51_cpt" id="art9_cpt_alt1_art51_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art51_par1" id="art9_cpt_alt1_art51_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art51_par2" id="art9_cpt_alt1_art51_par2" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:2012-05-25;12651-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No mínimo um por cento dos recursos a que se refere o caput será destinado ao pagamento a produtores rurais da Amazônia Legal cujos imóveis de sua propriedade ou posse cumpram rigorosamente as exigências da <span xlink:href="urn:lex:br:federal:lei:2012-05-25;12651">Lei nº 12.651, de 25 de maio de 2012</span>, em consonância com o disposto nos incisos VI e VII do art. 47.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:lei:2012-05-25;12651-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2012-05-25;12651">Lei nº 12.651, de 25 de maio de 2012</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2012-05-25;12651" id="art10_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2012-05-25;12651 -> MatchByBase(urn:lex:br:federal:lei:2012-05-25;12651,2012,Some((5,25)),Map(art49_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art49_cpt), art45 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45), art44_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art44_cpt), art45_par2 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45_par2), art45_par2_inc2 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45_par2_inc2), art48_par4 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art48_par4), art49 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art49), art50_par3 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art50_par3), art44_par1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art44_par1), art45_par1_inc1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45_par1_inc1), art44_par5 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art44_par5), art44 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art44), art50_cpt_inc1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art50_cpt_inc1), art45_par1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45_par1), art48 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art48), art50 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art50), art45_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45_cpt), art45_par1_inc2 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45_par1_inc2), art48_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art48_cpt), art46_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art46_cpt), art50_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art50_cpt), art45_par3 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art45_par3), art46 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art46), art46_par1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art46_par1), art49_par1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art49_par1)))))-->
+              <Artigo xlink:href="art44" id="art10_cpt_alt1_art44" abreAspas="s">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput xlink:href="art44_cpt" id="art10_cpt_alt1_art44_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art10_cpt_alt1_art44_omi1"/><Paragrafo xlink:href="art44_par1" id="art10_cpt_alt1_art44_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A emissão de CRA será feita mediante requerimento do proprietário ou possuidor, após inclusão do imóvel no CAR e laudo comprobatório emitido pelo próprio órgão ambiental ou por entidade credenciada, assegurado o controle do órgão federal competente do Sisnama, na forma de ato do Chefe do Poder Executivo.</p>
+            
+          </Paragrafo><Omissis id="art10_cpt_alt1_art44_omi2"/><Paragrafo xlink:href="art44_par5" id="art10_cpt_alt1_art44_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Para imóveis localizados na Amazônia Legal, enquanto as Cotas de Reserva Ambiental não forem alienadas, o proprietário ou possuidor rural fará jus a subvenção anual de R$ 50,00 (cinquenta reais) por hectare vinculado à CRA, limitado ao máximo de duzentos hectares.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art45" id="art10_cpt_alt1_art45" abreAspas="s">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput xlink:href="art45_cpt" id="art10_cpt_alt1_art45_cpt">
+            
+            
+            
+            <p>A CRA será emitida pelo órgão competente do Sisnama em favor de proprietário ou possuidor de imóvel incluído no CAR que mantenha área nas condições previstas no art. 44.</p>
+            
+          </Caput><Paragrafo xlink:href="art45_par1" id="art10_cpt_alt1_art45_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O proprietário ou possuidor interessado na emissão da CRA deve apresentar ao órgão referido no caput proposta acompanhada de:</p>
+            <Inciso xlink:href="art45_par1_inc1" id="art10_cpt_alt1_art45_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>certidão atualizada da matrícula do imóvel expedida pelo registro de imóveis competente ou declaração de posse acompanhada de manifestação de concordância de todos os confrontantes;</p>
+            
+          </Inciso><Inciso xlink:href="art45_par1_inc2" id="art10_cpt_alt1_art45_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cédula de identidade do proprietário ou possuidor, quando se tratar de pessoa física;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art10_cpt_alt1_art45_omi1"/><Paragrafo xlink:href="art45_par2" id="art10_cpt_alt1_art45_par2" textoOmitido="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            
+            <Omissis id="art10_cpt_alt1_art45_par2_omi1"/><Inciso xlink:href="art45_par2_inc2" id="art10_cpt_alt1_art45_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o nome do proprietário ou possuidor rural da área vinculada ao título;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art10_cpt_alt1_art45_omi2"/><Paragrafo xlink:href="art45_par3" id="art10_cpt_alt1_art45_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O vínculo de área à CRA será averbado na matrícula do respectivo imóvel no registro de imóveis competente, exceto no caso de possuidores que não detêm o título de propriedade do imóvel.</p>
+            
+          </Paragrafo><Omissis id="art10_cpt_alt1_art45_omi3" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art46" id="art10_cpt_alt1_art46" abreAspas="s">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput xlink:href="art46_cpt" id="art10_cpt_alt1_art46_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art10_cpt_alt1_art46_omi1"/><Paragrafo xlink:href="art46_par1" id="art10_cpt_alt1_art46_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O estágio sucessional ou o tempo de recomposição ou regeneração da vegetação nativa será avaliado pelo órgão ambiental estadual competente com base em declaração do proprietário ou possuidor e vistoria de campo.</p>
+            
+          </Paragrafo><Omissis id="art10_cpt_alt1_art46_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art48" id="art10_cpt_alt1_art48" abreAspas="s">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput xlink:href="art48_cpt" id="art10_cpt_alt1_art48_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art10_cpt_alt1_art48_omi1"/><Paragrafo xlink:href="art48_par4" id="art10_cpt_alt1_art48_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A utilização de CRA para compensação da Reserva Legal será averbada na matrícula do imóvel beneficiário da compensação e na do imóvel no qual se situa a área vinculada ao título, exceto no caso de possuidores que não detêm o título de propriedade do imóvel.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art49" id="art10_cpt_alt1_art49" abreAspas="s">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput xlink:href="art49_cpt" id="art10_cpt_alt1_art49_cpt">
+            
+            
+            
+            <p>Cabe ao proprietário ou possuidor do imóvel rural em que se situa a área vinculada à CRA a responsabilidade plena pela manutenção das condições de conservação da vegetação nativa da área que deu origem ao título.</p>
+            
+          </Caput><Paragrafo xlink:href="art49_par1" id="art10_cpt_alt1_art49_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A área vinculada à emissão da CRA com base nos incisos I e II do art. 44 desta Lei poderá ser utilizada conforme PMFS.</p>
+            
+          </Paragrafo><Omissis id="art10_cpt_alt1_art49_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art50" id="art10_cpt_alt1_art50" abreAspas="s">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput xlink:href="art50_cpt" id="art10_cpt_alt1_art50_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art50_cpt_inc1" id="art10_cpt_alt1_art50_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>por solicitação do proprietário ou possuidor rural, em caso de desistência de manter áreas nas condições previstas nos incisos I e II do art. 44;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art10_cpt_alt1_art50_omi1"/><Paragrafo xlink:href="art50_par3" id="art10_cpt_alt1_art50_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O cancelamento da CRA deve ser averbado na matrícula do imóvel no qual a compensação foi aplicada e na do imóvel no qual se situa a área vinculada ao título, se nelas tiver sido averbada por ocasião da emissão da CRA ou de seu uso para compensação de reserva legal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor no primeiro dia do exercício financeiro subsequente ao de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

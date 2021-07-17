@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;52@data.evento;leitura;2017-03-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 52 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11445">Lei nº 11.445, de 5 de janeiro de 2007</span>, para conceder, durante cinco exercícios financeiros, créditos relativos à Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição para o PIS/PASEP) e à Contribuição para o Financiamento da Seguridade Social (COFINS), de modo a estimular o aumento do volume de investimentos das pessoas jurídicas sujeitas ao Regime Especial de Incentivos para o Desenvolvimento do Saneamento Básico (REISB).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2007-01-05;11445-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11445">Lei nº 11.445, de 5 de janeiro de 2007</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2007-01-05;11445" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2007-01-05;11445 -> MatchByBase(urn:lex:br:federal:lei:2007-01-05;11445,2007,Some((1,5)),Map(art54-4_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4_cpt), art54-4 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4), art54-4_par3 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4_par3), art54-1_par1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-1_par1), art54-4_par2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4_par2), art54-4_par2_inc1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4_par2_inc1), art54-4_par1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4_par1), art54-1_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-1_cpt), art54-4_par4 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4_par4), art54-4_par2_inc2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-4_par2_inc2), art54-1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art54-1)))))-->
+              <Artigo xlink:href="art54-1" id="art1_cpt_alt1_art54-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 54-A.</Rotulo>
+            
+            <Caput xlink:href="art54-1_cpt" id="art1_cpt_alt1_art54-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art54-1_par1u" id="art1_cpt_alt1_art54-1_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Reisb produzirá efeitos por cinco exercícios financeiros contados a partir de 1º de janeiro do ano seguinte ao de entrada em vigor do art. 54-D desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art54-4" id="art1_cpt_alt1_art54-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 54-D.</Rotulo>
+            
+            <Caput xlink:href="art54-4_cpt" id="art1_cpt_alt1_art54-4_cpt">
+            <!--Link: urn:lex:br:federal:lei:2007-06-15;11488!art4-->
+            
+            
+            <p>Sem prejuízo do incentivo de que trata o <span xlink:href="urn:lex:br:federal:lei:2007-06-15;11488!art4">art. 4º da Lei nº 11.488, de 15 de junho de 2007</span>, a pessoa jurídica beneficiária do Reisb que realizar investimento enquadrado nas hipóteses do § 1º do art. 54-B, com recursos próprios ou onerosos, poderá descontar do valor devido a título de Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição para o PIS/PASEP) e de Contribuição para o Financiamento da Seguridade Social (COFINS) créditos apurados nos termos deste artigo.</p>
+            
+          </Caput><Paragrafo xlink:href="art54-4_par1" id="art1_cpt_alt1_art54-4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os créditos referidos no caput serão equivalentes à diferença entre os investimentos em saneamento básico realizados no segundo exercício anterior ao de fruição do crédito e o valor médio anual de investimentos da pessoa jurídica em saneamento básico no período de 2005 a 2015, sendo este último corrigido anualmente pela variação do Índice Nacional de Custo da Construção (INCC) tendo por base o mês de dezembro de 2016.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art54-4_par2" id="art1_cpt_alt1_art54-4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O crédito apurado não poderá ser superior ao menor dos seguintes limites:</p>
+            <Inciso xlink:href="art54-4_par2_inc1" id="art1_cpt_alt1_art54-4_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o valor que seria devido no ano-calendário pela pessoa jurídica a título de Contribuição para o PIS/Pasep e de Cofins; ou</p>
+            
+          </Inciso><Inciso xlink:href="art54-4_par2_inc2" id="art1_cpt_alt1_art54-4_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o valor total dos investimentos que atendam ao disposto no § 1º do art. 54-B.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art54-4_par3" id="art1_cpt_alt1_art54-4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O valor dos créditos apurados de acordo com este artigo não constitui receita bruta da pessoa jurídica, servindo somente para desconto do valor apurado a título de Contribuição para o PIS/Pasep e de Cofins.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art54-4_par4" id="art1_cpt_alt1_art54-4_par4" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:1995-02-13;8987!art9_par3-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Aos créditos de que trata este artigo não se aplicam as disposições do <span xlink:href="urn:lex:br:federal:lei:1995-02-13;8987!art9_par3">§ 3º do art. 9º da Lei no 8.987, de 13 de fevereiro de 1995</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

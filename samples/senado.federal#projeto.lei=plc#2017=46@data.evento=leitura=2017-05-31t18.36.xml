@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;46@data.evento;leitura;2017-05-31t18.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 46 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei nº 9.503, de 23 de setembro de 1997</span>, que institui o Código de Trânsito Brasileiro, para tornar obrigatório o teste de impacto nos dispositivos de retenção para o transporte de crianças em veículos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art64-->
+            
+            
+            <p>Esta Lei acrescenta parágrafo único ao <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art64">art. 64 da Lei nº 9.503, de 23 de setembro de 1997</span>, para tornar obrigatório o teste de impacto nos dispositivos de retenção para o transporte de crianças em veículos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art64-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art64">art. 64 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a vigorar acrescido do seguinte parágrafo único:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art64 -> ExactMatch(URN(1997,Some((9,23)),art64,urn:lex:br:federal:lei:1997-09-23;9503!art64)), art64_cpt -> PrefixMatch(URN(1997,Some((9,23)),art64,urn:lex:br:federal:lei:1997-09-23;9503!art64),art64_cpt), art64_par1 -> PrefixMatch(URN(1997,Some((9,23)),art64,urn:lex:br:federal:lei:1997-09-23;9503!art64),art64_par1)))))-->
+              <Artigo xlink:href="art64" id="art2_cpt_alt1_art64" abreAspas="s">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput xlink:href="art64_cpt" id="art2_cpt_alt1_art64_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art64_par1u" id="art2_cpt_alt1_art64_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os dispositivos de retenção para o transporte de crianças em veículos deverão ser certificados pelo órgão ou entidade de metrologia legal, após a realização de testes de impacto frontal e lateral, nos termos de regulamentação do Contran.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

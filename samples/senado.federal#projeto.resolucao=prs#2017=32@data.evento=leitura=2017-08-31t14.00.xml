@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;32@data.evento;leitura;2017-08-31t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 32 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:resolucao:1970-11-27;93">Resolução nº 93, de 27 de novembro de 1970</span>, do Senado Federal (<span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93">Regimento Interno do Senado Federal</span>), a fim de possibilitar a realização de reuniões virtuais de deliberação eletrônica.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:1970-11-27;93--><!--Link: urn:lex:br:senado.federal:resolucao:1970-11-27;93-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:resolucao:1970-11-27;93">Resolução nº 93, de 27 de novembro de 1970</span>, do Senado Federal (<span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93">Regimento Interno do Senado Federal</span>), passa a vigorar acrescida do seguinte art. 117-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:1970-11-27;93" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:1970-11-27;93 -> MatchByBase(urn:lex:br:federal:resolucao:1970-11-27;93,1970,Some((11,27)),Map(art117-1_par5 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par5), art117-1_par8 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par8), art117-1_par2 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par2), art117-1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1), art117-1_par9 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par9), art117-1_par1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par1), art117-1_par3 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par3), art117-1_par6 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par6), art117-1_par7 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par7), art117-1_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_cpt), art117-1_par4 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art117-1_par4))), urn:lex:br:senado.federal:resolucao:1970-11-27;93 -> MatchByBase(urn:lex:br:senado.federal:resolucao:1970-11-27;93,1970,Some((11,27)),Map(art117-1_par5 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par5), art117-1_par8 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par8), art117-1_par2 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par2), art117-1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1), art117-1_par9 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par9), art117-1_par1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par1), art117-1_par3 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par3), art117-1_par6 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par6), art117-1_par7 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par7), art117-1_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_cpt), art117-1_par4 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:senado.federal:resolucao:1970-11-27;93),art117-1_par4)))))-->
+              <Artigo xlink:href="art117-1" id="art1_cpt_alt1_art117-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 117-A.</Rotulo>
+            
+            <Caput xlink:href="art117-1_cpt" id="art1_cpt_alt1_art117-1_cpt">
+            
+            
+            
+            <p>As deliberações sobre projetos de lei não terminativos poderão ocorrer em reuniões virtuais, a juízo dos respectivos presidentes das comissões.</p>
+            
+          </Caput><Paragrafo xlink:href="art117-1_par1" id="art1_cpt_alt1_art117-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As reuniões virtuais serão públicas e poderão ser acompanhadas na respectiva página da comissão na internet.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par2" id="art1_cpt_alt1_art117-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os votos do relator e dos demais membros da comissão serão lançados mediante assinatura com certificação digital até a data prevista para a conclusão da votação, considerando-se concluída esta no dia e horário previamente previsto para o seu encerramento, caso seja atingido o quórum regimental.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par3" id="art1_cpt_alt1_art117-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na primeira reunião ordinária após a inclusão do relatório em pauta, a comissão deverá ler o relatório divulgado no ambiente virtual em reunião presencial, podendo ser designado relator ad-hoc para tanto.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par4" id="art1_cpt_alt1_art117-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O relator da matéria poderá realizar vídeo de até 5 minutos sobre o relatório, para postagem no ambiente virtual.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par5" id="art1_cpt_alt1_art117-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As deliberações eletrônicas em reuniões virtuais observarão o prazo mínimo de quinze dias úteis de duração, a partir da divulgação da pauta na página da comissão na internet e notificação eletrônica dos membros da comissão, iniciando-se a contagem do prazo a partir do primeiro dia útil subsequente à divulgação e notificação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par6" id="art1_cpt_alt1_art117-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O prazo assinalado no parágrafo anterior poderá ser dilatado pelo Presidente da Comissão, a depender da complexidade e extensão da matéria.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par7" id="art1_cpt_alt1_art117-1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Depois de divulgada a pauta, nenhuma modificação, ainda que de redação, poderá ser feita no relatório, o qual, se modificado, deverá ser oportunamente incluído em nova pauta.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par8" id="art1_cpt_alt1_art117-1_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Somente por meio da assinatura de três Senadores poderá ser requerida a exclusão de projetos de lei da pauta de reunião virtual, no prazo de cinco dias após a sua divulgação, em requerimento escrito protocolado perante a respectiva comissão, caso em que as matérias serão retiradas automaticamente de pauta e passarão a integrar a pauta da reunião presencial da semana subsequente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art117-1_par9" id="art1_cpt_alt1_art117-1_par9" fechaAspas="s">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Na primeira reunião ordinária após a inclusão do relatório em pauta, a comissão deverá, para dar publicidade, ler o relatório divulgado no ambiente virtual em reunião presencial, podendo ser designado relator ad-hoc para tanto.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor decorridos cento e oitenta dias da data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

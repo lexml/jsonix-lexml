@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;449@data.evento;leitura;2017-11-21t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 449 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span> - Consolidação das Leis do Trabalho, para disciplinar a jornada de trabalho em regime parcial.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art58-1_par5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par5), art58-1_par9 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par9), art58-1_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par4), art58-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par1), art58-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_cpt), art58-1_par8 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par8), art58-1_par7 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par7), art58-1_par6 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par6), art58-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1), art58-1_par3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par3)))))-->
+              <Artigo xlink:href="art58-1" id="art1_cpt_alt1_art58-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 58-A.</Rotulo>
+            
+            <Caput xlink:href="art58-1_cpt" id="art1_cpt_alt1_art58-1_cpt">
+            
+            
+            
+            <p>Considera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a vinte e cinco horas semanais, com a possibilidade de até cinco horas suplementares semanais, sem exceder duas horas extras diárias.</p>
+            
+          </Caput><Paragrafo xlink:href="art58-1_par1" id="art1_cpt_alt1_art58-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O salário a ser pago aos empregados sob o regime de tempo parcial será proporcional à sua jornada, em relação aos empregados que cumprem, nas mesmas funções, tempo integral, desde que não seja inferior ao salário mínimo.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art58-1_omi1"/><Paragrafo xlink:href="art58-1_par3" id="art1_cpt_alt1_art58-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As horas suplementares à jornada de trabalho semanal normal serão pagas com o acréscimo de, no mínimo, cinquenta por cento sobre o salário-hora normal, podendo ser definido em acordo ou convenção coletiva de trabalho o percentual de acréscimo que exceder o mínimo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art58-1_par4" id="art1_cpt_alt1_art58-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na hipótese de o contrato de trabalho em regime de tempo parcial ser estabelecido em número inferior a vinte e cinco horas semanais, as horas que superarem o pactuado serão consideradas horas-extras para fins do pagamento estipulado no § 3º, estando também limitadas a cinco horas suplementares semanais, sem exceder duas horas extras diárias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art58-1_par5" id="art1_cpt_alt1_art58-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As horas suplementares da jornada de trabalho normal deverão ser quitadas na folha de pagamento do mês subsequente, podendo ser estabelecida compensação dessas horas na semana imediatamente posterior à da sua execução, nos casos em que tal hipótese de compensação esteja prevista em acordo ou convenção coletiva.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art58-1_par6" id="art1_cpt_alt1_art58-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>É facultado ao empregado contratado sob regime de tempo parcial converter um quarto do período de férias a que tiver direito em abono pecuniário.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art58-1_par7" id="art1_cpt_alt1_art58-1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>As férias do regime de trabalho a tempo parcial serão regidas pelo disposto nos arts. 129 e 130.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art58-1_par8" id="art1_cpt_alt1_art58-1_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>A admissão de trabalhadores por meio da modalidade contratual regulada por este artigo somente ocorrerá se mantida a quantidade de trabalhadores contratados por prazo indeterminado e a tempo integral existente no dia 22 de dezembro de 2016.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art58-1_par9" id="art1_cpt_alt1_art58-1_par9" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>O trabalhador com contrato de trabalho por prazo indeterminado e a tempo integral não poderá ser substituído por trabalhador contratado a tempo parcial.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,211 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;38@data.evento;leitura;2017-11-22t14.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 38 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera os art. 37 e 93 da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>.</Ementa>
+      <Preambulo id="preambulo"></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art37_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37_cpt), art37 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37), art37_cpt_inc10 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37_cpt_inc10), par14 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),par14), ali2 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali2), par9 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),par9), par13 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),par13), par16 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),par16), ali6 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali6), ali7 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali7), art37_cpt_inc23 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art37_cpt_inc23), ali5 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali5), art93_cpt_inc6-1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art93_cpt_inc6-1), par12 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),par12), ali8 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali8), art93 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art93), art93_cpt_inc5 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art93_cpt_inc5), ali4 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali4), ali3 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali3), art93_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art93_cpt), ali9 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),ali9)))))-->
+              <Artigo xlink:href="art37" id="art1_cpt_alt1_art37" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput xlink:href="art37_cpt" id="art1_cpt_alt1_art37_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art37_cpt_omi1"/><Inciso xlink:href="art37_cpt_inc10" id="art1_cpt_alt1_art37_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>a remuneração de servidor público ou membro de Poder da administração direta, de autarquia ou fundação será fixada ou alterada por meio de lei específica, observada a iniciativa privativa em cada caso, observada a equivalência estabelecida em lei complementar para os fins do disposto no inciso XII, assegurada a revisão geral anual, sempre na mesma data e sem distinção de índices, mediante lei específica, de iniciativa do Presidente da República, que será submetida ao Congresso Nacional até 30 de novembro do exercício, para vigorar a partir de 1º de janeiro do exercício subsequente;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art37_cpt_omi2"/><Inciso xlink:href="art37_cpt_inc23" id="art1_cpt_alt1_art37_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>é vedada a concessão a qualquer servidor, empregado ou membro de Poder da administração direta, de autarquia, fundação, empresa pública ou sociedade de economia mista de:</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art37_omi1"/>
+          </Artigo><p>férias em período superior a trinta dias por ano;</p><Omissis id="art1_cpt_alt1_omi1"/><Alinea xlink:href="ali2" id="art1_cpt_alt1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>pagamento de mais de doze remunerações mensais por ano, ressalvado o décimo terceiro salário e o adicional de um terço de férias;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi2"/><Alinea xlink:href="ali3" id="art1_cpt_alt1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>adicionais referentes a tempo de serviço, independentemente da denominação utilizada;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi3"/><Alinea xlink:href="ali4" id="art1_cpt_alt1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>promoções para o último nível ou classe da carreira com menos de dez anos de efetivo exercício no cargo;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi4"/><Alinea xlink:href="ali5" id="art1_cpt_alt1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>aumento de remuneração ou de concessão de parcelas indenizatórias com efeitos retroativos;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi5"/><Alinea xlink:href="ali6" id="art1_cpt_alt1_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>aumentos de remuneração ou de parcelas indenizatórias que produzam efeitos financeiros, parcialmente ou totalmente, a partir de cento e oitenta dias do final do mandato do atual titular do Poder Executivo do ente da federação;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi6"/><Alinea xlink:href="ali7" id="art1_cpt_alt1_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>acúmulo de cargos ou empregos públicos cuja soma das jornadas totalize mais de sessenta horas semanais;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi7"/><Alinea xlink:href="ali8" id="art1_cpt_alt1_ali8">
+            
+            
+            <Rotulo>h)</Rotulo>
+            <p>parcelas indenizatórias sem previsão de requisitos e valores em lei ou sem a caracterização de efetiva despesa vinculada ao trabalho;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi8"/><Alinea xlink:href="ali9" id="art1_cpt_alt1_ali9">
+            
+            
+            <Rotulo>i)</Rotulo>
+            <p>adicional ou indenização por substituição, independente da denominação dada, ressalvada a substituição de cargo de direção ou chefia.</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_omi9"/><Paragrafo xlink:href="par9" id="art1_cpt_alt1_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>O disposto no inciso XI aplica-se aos empregados permanentes e titulares de cargos em comissão de empresas públicas e às sociedades de economia mista e suas subsidiárias, ressalvada, nos termos da lei, a retribuição de seus diretores estatutários, no caso das empresas de que trata o art. 173, § 1º que atuem em regime de competição com empresas privadas.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_omi10"/><Paragrafo xlink:href="par12" id="art1_cpt_alt1_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Para os fins do disposto no inciso XI do caput deste artigo, fica facultado aos Estados e ao Distrito Federal fixar, em seu âmbito, mediante emenda às respectivas Constituições e Lei Orgânica, como limite único, o subsídio mensal dos Desembargadores do respectivo Tribunal de Justiça, vedada a vinculação remuneratória, não se aplicando o disposto neste parágrafo aos subsídios dos Deputados Estaduais e Distritais e dos Vereadores.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par13" id="art1_cpt_alt1_par13">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>Para fins do disposto nos incisos X e XII do caput, lei complementar de iniciativa do respectivo Chefe do Poder Executivo fixará, para cada unidade da federação, a equivalência entre cargos e funções do Poder Legislativo, do Poder Judiciário, do Poder Executivo, inclusive do Ministério Público e da Defensoria Pública, abrangendo também os valores e modalidades de verbas indenizatórias.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_omi11"/><Paragrafo xlink:href="par14" id="art1_cpt_alt1_par14">
+            
+            
+            <Rotulo>§ 14.</Rotulo>
+            <p>A equivalência de que trata o § 13 estabelecerá níveis de remuneração, de acordo com a natureza, nível de escolaridade, requisitos de ingresso, complexidade e responsabilidade dos cargos, efetivos ou em comissão.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_omi12"/><Paragrafo xlink:href="par16" id="art1_cpt_alt1_par16" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 16.</Rotulo>
+            <p>Sempre que houver recesso no órgão ou na entidade, as férias dos agentes mencionados inciso XXIII do caput serão gozadas nesse período, salvo nos casos de necessidade de plantão.</p>
+            
+          </Paragrafo><Artigo xlink:href="art93" id="art1_cpt_alt1_art93" abreAspas="s">
+            
+            
+            <Rotulo>Art. 93.</Rotulo>
+            
+            <Caput xlink:href="art93_cpt" id="art1_cpt_alt1_art93_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art93_cpt_omi1"/><Inciso xlink:href="art93_cpt_inc5" id="art1_cpt_alt1_art93_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsidio mensal fixado em lei para os Ministros do Supremo Tribunal Federal, e os subsídios dos demais magistrados, em nível federal, serão fixados em lei e escalonados conforme as respectivas categorias da estrutura judiciária, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI e XIII, e 39, § 4º.</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art93_cpt_omi2"/><Inciso xlink:href="art93_cpt_inc6-1" id="art1_cpt_alt1_art93_cpt_inc6-1">
+            
+            
+            <Rotulo>VI-A –</Rotulo>
+            <p>o subsídio dos desembargadores dos Tribunais de Justiça dos Estados e do Tribunal de Justiça do Distrito Federal e dos Territórios e dos juízes de direito dos Estados e dos juízes de direito da Justiça do Distrito Federal e dos Territórios serão fixados em lei específica, vedada a vinculação remuneratória a qualquer título;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art93_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art37_par13--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art37_par14-->
+            
+            
+            <p>As parcelas remuneratórias pagas em desacordo com a redação dada aos <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art37_par13">§13º</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art37_par14">§14º do art. 37 da Constituição</span> por esta Emenda Constitucional ficam convertidas em vantagens pessoais nominalmente identificadas, a serem absorvidas por ocasião da reorganização ou reestruturação da carreira ou tabela remuneratória, da concessão de reajustes, adicionais, gratificações ou vantagem de qualquer natureza ou do desenvolvimento na carreira.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Os períodos de férias excedentes já adquiridos quando da publicação desta Emenda Constitucional poderão ser gozados, no prazo de até cinco anos contados da publicação desta Emenda Constitucional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O pagamento de remunerações em desacordo com a alínea “b” do inciso XXIII do art. 37 será imediatamente suspenso quando da publicação desta Emenda Constitucional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art37_cpt_inc23-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As parcelas indenizatórias pagas em desacordo com o disposto na alínea “h” do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art37_cpt_inc23">inciso XXIII do art. 37 da Constituição</span> ou previstas apenas em ato infralegal ficam extintas a partir de noventa dias da publicação desta Emenda Constitucional.</p>
+            
+          </Paragrafo>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

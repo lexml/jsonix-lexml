@@ -1,0 +1,124 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;57@data.evento;leitura;2017-06-19t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 57 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre os recursos destinados aos pagamentos decorrentes de precatórios e de Requisições de Pequeno Valor (RPV) federais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A gestão dos recursos destinados aos pagamentos decorrentes de precatórios e de Requisições de Pequeno Valor (RPV) federais será realizada pelo Poder Judiciário, que contratará, com dispensa de licitação, instituições financeiras integrantes da administração pública federal para a operacionalização da gestão dos recursos.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os valores correspondentes à remuneração das disponibilidades dos recursos depositados, descontada a remuneração legal devida ao beneficiário do precatório ou da RPV, constituirão receita e deverão ser recolhidos em favor do Poder Judiciário, o qual poderá destinar até 10% (dez por cento) do total para o pagamento de perícias realizadas em ação popular.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Ficam cancelados os precatórios e as RPV federais expedidos e cujos valores não tenham sido levantados pelo credor e estejam depositados há mais de dois anos em instituição financeira oficial.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O cancelamento de que trata o caput deste artigo será operacionalizado mensalmente pela instituição financeira oficial depositária, mediante a transferência dos valores depositados para a Conta Única do Tesouro Nacional.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Do montante cancelado:</p>
+            <Inciso id="art2_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo menos 20% (vinte por cento) deverá ser aplicado pela União na manutenção e desenvolvimento do ensino;</p>
+            
+          </Inciso><Inciso id="art2_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pelo menos 5% (cinco por cento) será aplicado no Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte (PPCAAM).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Será dada ciência do cancelamento de que trata o caput deste artigo ao Presidente do Tribunal respectivo.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Presidente do Tribunal, após a ciência de que trata o § 3º deste artigo, comunicará o fato ao juízo da execução, que notificará o credor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Cancelado o precatório ou a RPV, poderá ser expedido novo ofício requisitório, a requerimento do credor.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O novo precatório ou a nova RPV conservará a ordem cronológica do requisitório anterior e a remuneração correspondente a todo o período.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Fica vedado o destaque, em montante superior a 2% (dois por cento) do principal, de honorários advocatícios contratuais em precatórios cujos credores da União sejam entes públicos da administração direta, indireta e fundacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

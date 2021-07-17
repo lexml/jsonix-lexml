@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;454@data.evento;leitura;2017-11-21t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 454 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1993-10-28;8723">Lei nº 8.723, de 28 de outubro de 1993</span>, que dispõe sobre a redução de emissão de poluentes por veículos automotores e dá outras providências, para dispor sobre a vedação a comercialização e a circulação de automóveis movidos a combustíveis fósseis.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-10-28;8723-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1993-10-28;8723">Lei nº 8.723, de 28 de outubro de 1993</span>, passa a vigorar acrescida do seguinte artigo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1993-10-28;8723" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1993-10-28;8723 -> MatchByBase(urn:lex:br:federal:lei:1993-10-28;8723,1993,Some((10,28)),Map(art16-1_par1 -> PrefixMatch(URN(1993,Some((10,28)),,urn:lex:br:federal:lei:1993-10-28;8723),art16-1_par1), art16-1_par2_inc1 -> PrefixMatch(URN(1993,Some((10,28)),,urn:lex:br:federal:lei:1993-10-28;8723),art16-1_par2_inc1), art16-1_cpt -> PrefixMatch(URN(1993,Some((10,28)),,urn:lex:br:federal:lei:1993-10-28;8723),art16-1_cpt), art16-1 -> PrefixMatch(URN(1993,Some((10,28)),,urn:lex:br:federal:lei:1993-10-28;8723),art16-1), art16-1_par2_inc3 -> PrefixMatch(URN(1993,Some((10,28)),,urn:lex:br:federal:lei:1993-10-28;8723),art16-1_par2_inc3), art16-1_par2 -> PrefixMatch(URN(1993,Some((10,28)),,urn:lex:br:federal:lei:1993-10-28;8723),art16-1_par2), art16-1_par2_inc2 -> PrefixMatch(URN(1993,Some((10,28)),,urn:lex:br:federal:lei:1993-10-28;8723),art16-1_par2_inc2)))))-->
+              <Artigo xlink:href="art16-1" id="art1_cpt_alt1_art16-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16-A.</Rotulo>
+            
+            <Caput xlink:href="art16-1_cpt" id="art1_cpt_alt1_art16-1_cpt">
+            
+            
+            
+            <p>É vedada a comercialização de veículos novos de tração automotora por motor a combustão a partir de 1º de janeiro de 2060 em todo o território nacional.</p>
+            
+          </Caput><Paragrafo xlink:href="art16-1_par1" id="art1_cpt_alt1_art16-1_par1">
+            <!--Link: urn:lex:br:federal:lei:1997-08-06;9478!art6_cpt_inc24-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A vedação estabelecida no caput não se aplica aos veículos abastecidos exclusivamente com biocombustíveis, definidos pelo <span xlink:href="urn:lex:br:federal:lei:1997-08-06;9478!art6_cpt_inc24">inciso XXIV do art. 6º da Lei nº 9.478, de 6 de agosto de 1997</span>.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art16-1_par2" id="art1_cpt_alt1_art16-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A cota de participação de veículos de tração automotora por motor a combustão no total de vendas, excluídos os referidos no § 1º, deverá ser de, no máximo:</p>
+            <Inciso xlink:href="art16-1_par2_inc1" id="art1_cpt_alt1_art16-1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>90% a partir de 1º de janeiro de 2030;</p>
+            
+          </Inciso><Inciso xlink:href="art16-1_par2_inc2" id="art1_cpt_alt1_art16-1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>70% a partir de 1º de janeiro de 2040;</p>
+            
+          </Inciso><Inciso xlink:href="art16-1_par2_inc3" id="art1_cpt_alt1_art16-1_par2_inc3" fechaAspas="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>10% a partir de 1º de janeiro de 2050.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

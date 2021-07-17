@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;33@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 33 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:2014-08-08;13022!art18">art. 18 da Lei nº 13.022, de 8 de agosto de 2014</span>, que dispõe sobre o Estatuto Geral das Guardas Municipais, para garantir que os guardas municipais serão recolhidos a quartéis ou a prisão especial, à disposição da autoridade competente, quando sujeitos a prisão antes de condenação definitiva, na forma que indica.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2014-08-08;13022!art18-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2014-08-08;13022!art18">art. 18 da Lei nº 13.022, de 8 de agosto de 2014</span>, que dispõe sobre o Estatuto Geral das Guardas Municipais, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2014-08-08;13022" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2014-08-08;13022 -> MatchByBase(urn:lex:br:federal:lei:2014-08-08;13022,2014,Some((8,8)),Map(art18_par1 -> PrefixMatch(URN(2014,Some((8,8)),art18,urn:lex:br:federal:lei:2014-08-08;13022!art18),art18_par1), art18 -> ExactMatch(URN(2014,Some((8,8)),art18,urn:lex:br:federal:lei:2014-08-08;13022!art18)), art18_cpt -> PrefixMatch(URN(2014,Some((8,8)),art18,urn:lex:br:federal:lei:2014-08-08;13022!art18),art18_cpt), art18_par5 -> PrefixMatch(URN(2014,Some((8,8)),art18,urn:lex:br:federal:lei:2014-08-08;13022!art18),art18_par5), art18_par4 -> PrefixMatch(URN(2014,Some((8,8)),art18,urn:lex:br:federal:lei:2014-08-08;13022!art18),art18_par4), art18_par3 -> PrefixMatch(URN(2014,Some((8,8)),art18,urn:lex:br:federal:lei:2014-08-08;13022!art18),art18_par3), art18_par2 -> PrefixMatch(URN(2014,Some((8,8)),art18,urn:lex:br:federal:lei:2014-08-08;13022!art18),art18_par2)))))-->
+              <Artigo xlink:href="art18" id="art1_cpt_alt1_art18" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput xlink:href="art18_cpt" id="art1_cpt_alt1_art18_cpt">
+            
+            
+            
+            <p>Os guardas municipais serão recolhidos a quartéis ou a prisão especial, à disposição da autoridade competente, quando sujeitos à prisão antes de condenação definitiva.</p>
+            
+          </Caput><Paragrafo xlink:href="art18_par1" id="art1_cpt_alt1_art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A prisão especial prevista neste artigo consiste exclusivamente no recolhimento em local distinto da prisão comum.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18_par2" id="art1_cpt_alt1_art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não havendo estabelecimento específico para o preso especial, este será recolhido em cela distinta do mesmo estabelecimento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18_par3" id="art1_cpt_alt1_art18_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A cela especial poderá consistir em alojamento coletivo, atendidos os requisitos de salubridade do ambiente, pela concorrência dos fatores de aeração, insolação e condicionamento térmico adequados à existência humana.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18_par4" id="art1_cpt_alt1_art18_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O guarda municipal não será transportado juntamente com o preso comum.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18_par5" id="art1_cpt_alt1_art18_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os demais direitos e deveres do guarda municipal preso serão os mesmos do preso comum.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

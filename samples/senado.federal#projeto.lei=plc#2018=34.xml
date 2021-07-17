@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;34"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 34 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2009-07-07;11977">Lei nº 11.977, de 7 de julho de 2009</span>, que dispõe sobre o Programa Minha Casa, Minha Vida (PMCMV), para prever a inclusão de requisitos econômicos, sociais e ambientais em empreendimentos habitacionais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009-07-07;11977-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:2009-07-07;11977">Lei nº 11.977, de 7 de julho de 2009</span>, que dispõe sobre o Programa Minha Casa, Minha Vida (PMCMV), para prever a inclusão de requisitos econômicos, sociais e ambientais em empreendimentos habitacionais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009-07-07;11977!art5-1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2009-07-07;11977!art5-1">art. 5º-A da Lei nº 11.977, de 7 de julho de 2009</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2009-07-07;11977" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2009-07-07;11977 -> MatchByBase(urn:lex:br:federal:lei:2009-07-07;11977,2009,Some((7,7)),Map(art5-1_cpt_inc5 -> PrefixMatch(URN(2009,Some((7,7)),art5-1,urn:lex:br:federal:lei:2009-07-07;11977!art5-1),art5-1_cpt_inc5), art5-1_cpt -> PrefixMatch(URN(2009,Some((7,7)),art5-1,urn:lex:br:federal:lei:2009-07-07;11977!art5-1),art5-1_cpt), art5-1 -> ExactMatch(URN(2009,Some((7,7)),art5-1,urn:lex:br:federal:lei:2009-07-07;11977!art5-1)), art5-1_cpt_inc2 -> PrefixMatch(URN(2009,Some((7,7)),art5-1,urn:lex:br:federal:lei:2009-07-07;11977!art5-1),art5-1_cpt_inc2), art5-1_cpt_inc6 -> PrefixMatch(URN(2009,Some((7,7)),art5-1,urn:lex:br:federal:lei:2009-07-07;11977!art5-1),art5-1_cpt_inc6)))))-->
+              <Artigo xlink:href="art5-1" id="art2_cpt_alt1_art5-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º-A.</Rotulo>
+            
+            <Caput xlink:href="art5-1_cpt" id="art2_cpt_alt1_art5-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art5-1_cpt_omi1"/><Inciso xlink:href="art5-1_cpt_inc2" id="art2_cpt_alt1_art5-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>adequação ambiental do projeto, incluindo, entre outros, a gestão de resíduos sólidos, o reaproveitamento da água de chuva, o reúso de águas servidas e a utilização de energia solar;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art5-1_cpt_omi2"/><Inciso xlink:href="art5-1_cpt_inc5" id="art2_cpt_alt1_art5-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>incentivo à organização social, com a destinação de espaço físico para atividades de lazer, culturais, esportivas e de formação;</p>
+            
+          </Inciso><Inciso xlink:href="art5-1_cpt_inc6" id="art2_cpt_alt1_art5-1_cpt_inc6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>incentivo à organização produtiva, com a destinação de espaço físico para o funcionamento de empreendimentos individuais ou coletivos voltados à geração de trabalho e renda, entendidos estes como as associações profissionais, cooperativas, microempreendimentos individuais ou coletivos e similares.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

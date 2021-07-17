@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;327@data.evento;leitura;2017-09-14t11.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 327 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei nº 9.503, de 23 de setembro de 1997</span>, que institui o Código de Trânsito Brasileiro, para prever a restrição de horário de tráfego de veículos de carga em rodovias com risco de desabamento ou deslizamento.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art94-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art94">art. 94 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a vigorar acrescido do seguinte parágrafo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art94_par2 -> PrefixMatch(URN(1997,Some((9,23)),art94,urn:lex:br:federal:lei:1997-09-23;9503!art94),art94_par2), art94_par3 -> PrefixMatch(URN(1997,Some((9,23)),art94,urn:lex:br:federal:lei:1997-09-23;9503!art94),art94_par3), art94 -> ExactMatch(URN(1997,Some((9,23)),art94,urn:lex:br:federal:lei:1997-09-23;9503!art94)), art94_cpt -> PrefixMatch(URN(1997,Some((9,23)),art94,urn:lex:br:federal:lei:1997-09-23;9503!art94),art94_cpt), art94_par1 -> PrefixMatch(URN(1997,Some((9,23)),art94,urn:lex:br:federal:lei:1997-09-23;9503!art94),art94_par1)))))-->
+              <Artigo xlink:href="art94" id="art1_cpt_alt1_art94" abreAspas="s">
+            
+            
+            <Rotulo>Art. 94.</Rotulo>
+            
+            <Caput xlink:href="art94_cpt" id="art1_cpt_alt1_art94_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art94_par1" id="art1_cpt_alt1_art94_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art94_par2" id="art1_cpt_alt1_art94_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Quando liberado o tráfego em trecho de rodovias com riscos de desabamentos, deslizamentos ou que tenha a sua estrutura comprometida por meio de rachaduras e assemelhados, o trânsito de veículos de carga que sobrecarregue e possa acarretar o agravamento do estado da rodovia deverá ser restrito a horários específicos e com a sinalização adequada ostensiva</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art94_par3" id="art1_cpt_alt1_art94_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A não fiscalização dos trechos descritos incorrerá em multa ao agente e ao órgão competente pela fiscalização</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor decorridos cento e oitenta dias de sua publicação</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

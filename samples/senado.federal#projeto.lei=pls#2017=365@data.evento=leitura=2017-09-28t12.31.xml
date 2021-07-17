@@ -1,0 +1,277 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;365@data.evento;leitura;2017-09-28t12.31"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 365 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1978-05-12;6530">Lei no 6.530, de 12 de maio de 1978</span>, para dispor sobre o contrato de associação entre corretores de imóveis e imobiliárias e/ou incorporadoras.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre o contrato de associação entre corretores de imóveis e imobiliárias e/ou incorporadoras.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1978-05-12;6530-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1978-05-12;6530">Lei nº 6.530, de 12 de maio de 1978</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1978-05-12;6530" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1978-05-12;6530 -> MatchByBase(urn:lex:br:federal:lei:1978-05-12;6530,1978,Some((5,12)),Map(art6-3 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-3), art3_cpt -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art3_cpt), art6_par3 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par3), art6_par5_inc6 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc6), art6-4 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-4), art6_par5_inc2 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc2), art6-2 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-2), art6-2_par1 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-2_par1), art6_par2 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par2), art6_par5_inc3 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc3), art6-1_cpt -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-1_cpt), art6-5_cpt -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-5_cpt), art3_par1 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art3_par1), art6_par5_inc7 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc7), art6 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6), art6-2_par2 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-2_par2), art6-4_cpt -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-4_cpt), art6_par5 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5), art3_par2 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art3_par2), art3 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art3), art6_par6 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par6), art6_par5_inc4 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc4), art6_par5_inc8 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc8), art6_par4 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par4), art6-2_cpt -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-2_cpt), art6_par5_inc1 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc1), art6-1_par1 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-1_par1), art6-3_par2 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-3_par2), art6-5 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-5), art6_cpt -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_cpt), art6-3_cpt -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-3_cpt), art6_par5_inc5 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6_par5_inc5), art6-3_par1 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-3_par1), art6-1 -> PrefixMatch(URN(1978,Some((5,12)),,urn:lex:br:federal:lei:1978-05-12;6530),art6-1)))))-->
+              <Artigo xlink:href="art3" id="art2_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art2_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art3_omi1"/><Paragrafo xlink:href="art3_par1" id="art2_cpt_alt1_art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As atribuições constantes deste artigo poderão ser exercidas, também, por pessoa jurídica inscrita nos termos desta lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art3_par2" id="art2_cpt_alt1_art3_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para fins desta lei consideram-se imobiliárias todas as empresas que tenham a intermediação de negócios imobiliários como uma de suas atividades, seja subsidiária ou principal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art6" id="art2_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art2_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par2" id="art2_cpt_alt1_art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O corretor de imóveis pode associar-se a uma ou mais imobiliárias, mantendo sua autonomia profissional, sem qualquer outro vínculo, inclusive empregatício e previdenciário, mediante contrato de associação específico, obrigatoriamente assinado entre as partes e por duas testemunhas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par3" id="art2_cpt_alt1_art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Pelo contrato de que trata o § 2º deste artigo, o corretor de imóveis associado e a imobiliária coordenam, entre si, o desempenho de funções correlatas à intermediação imobiliária.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par4" id="art2_cpt_alt1_art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O contrato de associação não implica troca de serviços, pagamentos ou remunerações entre a imobiliária e o corretor de imóveis associado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par5" id="art2_cpt_alt1_art6_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O contrato de associação, além dos elementos comuns e outros a juízo dos interessados, será sempre firmado por escrito e conterá cláusulas que estabeleçam:</p>
+            <Inciso xlink:href="art6_par5_inc1" id="art2_cpt_alt1_art6_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>condições e época da distribuição da cota-parte dos recebimentos destinada ao corretor de imóveis associado pelo serviço;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc2" id="art2_cpt_alt1_art6_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>distribuição de resultado vinculado à existência ou não de metas pré-estabelecidas;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc3" id="art2_cpt_alt1_art6_par5_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>forma e condição para o uso de instalações e quaisquer equipamentos próprios do corretor de imóveis associado, bem como o uso da infraestrutura, programa de computador, identidade visual, equipamentos disponibilizados da imobiliária para o desempenho das atividades profissionais do corretor;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc4" id="art2_cpt_alt1_art6_par5_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>forma e condição para o acesso e circulação nas dependências da imobiliária;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc4" id="art2_cpt_alt1_art6_par5_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>deveres de ambas as partes com a manutenção das instalações, equipamentos, funcionamento, regras de convivência e atendimento aos clientes;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc5" id="art2_cpt_alt1_art6_par5_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>previsão de escalas, plantões e organização para fins de atendimento ao cliente, a critério da imobiliária;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc6" id="art2_cpt_alt1_art6_par5_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>possibilidade de resilição unilateral do contrato, por qualquer das partes, mediante prévia comunicação;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc7" id="art2_cpt_alt1_art6_par5_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>obrigação, por parte do corretor de imóveis associado, de manutenção da regularidade de sua inscrição perante as autoridades fazendárias e o órgão fiscalizador da profissão;</p>
+            
+          </Inciso><Inciso xlink:href="art6_par5_inc8" id="art2_cpt_alt1_art6_par5_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>possibilidade de o corretor de imóveis associado celebrar simultaneamente associação com outras imobiliárias.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art6_par6" id="art2_cpt_alt1_art6_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O corretor associado fica obrigado a fornecer à imobiliária, segundo as disposições do contrato ou, sendo esse omisso, quando lhe for solicitado, informações detalhadas sobre o andamento dos negócios a seu cargo, sob pena de rescisão contratual.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art6-1" id="art2_cpt_alt1_art6-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-A.</Rotulo>
+            
+            <Caput xlink:href="art6-1_cpt" id="art2_cpt_alt1_art6-1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art3-->
+            
+            
+            <p>Entre o corretor-associado e a imobiliária não haverá relação de emprego prevista no <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art3">artigo 3º da CLT</span> ou de sociedade enquanto perdurar a relação de associação, sempre que formalizado o contrato de associação na forma descrita nesta lei.</p>
+            
+          </Caput><Paragrafo xlink:href="art6-1_par1u" id="art2_cpt_alt1_art6-1_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Havendo contrato de associação válido e vigente, considerando-se que o corretor de imóveis assume os riscos de sua atividade econômica, inexistirá vinculo de emprego, mesmo que no contrato de associação haja previsão que o corretor de imóveis prestará serviços não eventuais, com exclusividade, de forma contínua e sujeito a observância dos parâmetros e modus operandi estabelecidos pela imobiliária, no tocante a forma de execução e condução do objeto do contrato previsto nesta lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art6-2" id="art2_cpt_alt1_art6-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-B.</Rotulo>
+            
+            <Caput xlink:href="art6-2_cpt" id="art2_cpt_alt1_art6-2_cpt">
+            
+            
+            
+            <p>A imobiliária, conforme contrato de associação, poderá ser responsável pela centralização dos pagamentos e recebimentos decorrentes das atividades de intermediação imobiliária realizadas pelo corretor de imóveis associado.</p>
+            
+          </Caput><Paragrafo xlink:href="art6-2_par1" id="art2_cpt_alt1_art6-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A imobiliária e corretor-associado respondem, individualmente, com suas obrigações perante terceiros e com o Poder Público, especialmente em relação aos tributos, taxas e contribuições sociais e previdenciárias incidentes sobre os rendimentos que vierem a auferir.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6-2_par2" id="art2_cpt_alt1_art6-2_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A cota-parte dos valores destinada ao corretor-associado não será considerada para o cômputo da receita bruta da imobiliária ainda que adotado sistema de emissão de nota fiscal unificada ao consumidor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art6-3" id="art2_cpt_alt1_art6-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-C.</Rotulo>
+            
+            <Caput xlink:href="art6-3_cpt" id="art2_cpt_alt1_art6-3_cpt">
+            
+            
+            
+            <p>O corretor de imóveis poderá firmar contrato de associação diretamente com as incorporadoras para intermediação imobiliária dos imóveis de propriedade destas, desde que o contrato de associação seja formalizado na forma descrita nesta lei.</p>
+            
+          </Caput><Paragrafo xlink:href="art6-3_par1" id="art2_cpt_alt1_art6-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Entende-se por incorporadoras todas as empresas que tenham o intuito de promover e realizar a construção, para alienação total ou parcial, de edificações ou conjunto de edificações compostas de unidades autônomas, sendo estas dispensadas da inscrição de que trata o artigo 4º desta lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6-3_par2" id="art2_cpt_alt1_art6-3_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Ocorrendo o previsto no caput do presente artigo, quanto à relação de associação, aplicar-se-ão as disposições da presente lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art6-4" id="art2_cpt_alt1_art6-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-D.</Rotulo>
+            
+            <Caput xlink:href="art6-4_cpt" id="art2_cpt_alt1_art6-4_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Em decorrência da natureza da profissão de corretor de imóvel, inexiste hipossuficiência na relação de prestação de serviço ou associação com as imobiliárias e ou incorporadoras.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art6-5" id="art2_cpt_alt1_art6-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-E.</Rotulo>
+            
+            <Caput xlink:href="art6-5_cpt" id="art2_cpt_alt1_art6-5_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art3-->
+            
+            
+            <p>Em caso de demanda que verse sobre reconhecimento de vínculo empregatício, caberá ao corretor de imóveis o ônus da prova quanto a qualidade de empregado prevista no <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art3">artigo 3º da CLT</span>.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Aplicam-se as disposições contidas nessa lei às relações firmadas anteriormente a publicação desta, desde que atendam aos requisitos aqui constantes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

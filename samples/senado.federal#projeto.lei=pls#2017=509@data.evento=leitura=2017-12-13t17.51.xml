@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;509@data.evento;leitura;2017-12-13t17.51"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 509 DE 2017</Epigrafe>
+      <Ementa id="ementa">Concede pensão especial às famílias das vítimas fatais e aos sobreviventes brasileiros do acidente aéreo envolvendo a Associação Chapecoense de Futebol.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>É concedida pensão especial mensal, em valor atual equivalente ao limite máximo do salário de benefício do Regime Geral de Previdência Social, às famílias das vítimas fatais e aos sobreviventes brasileiros do acidente aéreo envolvendo a Associação Chapecoense de Futebol, ocorrido em 29 de novembro de 2016, constantes da relação anexa a esta lei.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Cada família de vítima fatal ou sobrevivente constante da relação anexa fará jus a única pensão especial a ser concedida de acordo com os normativos pertinentes à matéria.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A pensão de que trata o caput deste artigo é personalíssima e não se transmite aos herdeiros dos beneficiários.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O valor mensal da pensão será atualizado pelos mesmos índices e critérios estabelecidos para os benefícios do Regime Geral de Previdência Social.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>As pensões especiais concedidas com base nesta Lei serão devidas até o recebimento, por parte das vítimas e familiares, da indenização devida pelo seguro contratado pela empresa de aviação “LaMia – Línea Aérea Meridena Internacional de Aviación”, responsável pelo acidente aéreo da Associação Chapecoense de Futebol.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A despesa decorrente desta Lei correrá à conta do programa orçamentário Indenizações e Pensões Especiais de Responsabilidade da União.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

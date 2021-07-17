@@ -1,0 +1,55 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;40@data.evento;leitura;2018-02-08t10.22"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 40 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2016-06-30;13303">Lei nº 13.303, de 30 de junho de 2016</span>, que dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, para determinar a sabatina pelo Senado Federal de indicados a cargos do conselho diretor de instituições financeiras federais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2016-06-30;13303-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2016-06-30;13303">Lei nº 13.303, de 30 de junho de 2016</span>, passa a vigorar acrescida do seguinte art. 17-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2016-06-30;13303" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2016-06-30;13303 -> MatchByBase(urn:lex:br:federal:lei:2016-06-30;13303,2016,Some((6,30)),Map(art17-1 -> PrefixMatch(URN(2016,Some((6,30)),,urn:lex:br:federal:lei:2016-06-30;13303),art17-1), art17-1_cpt -> PrefixMatch(URN(2016,Some((6,30)),,urn:lex:br:federal:lei:2016-06-30;13303),art17-1_cpt)))))-->
+              <Artigo xlink:href="art17-1" id="art1_cpt_alt1_art17-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-A.</Rotulo>
+            
+            <Caput xlink:href="art17-1_cpt" id="art1_cpt_alt1_art17-1_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc3-->
+            
+            
+            <p>O presidente, diretor-geral ou diretor-presidente e os demais membros do conselho diretor de instituições financeiras federais, de natureza jurídica de empresa pública e de economia mista, serão brasileiros, escolhidos pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea “f” do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc3">inciso III do art. 52 da Constituição Federal</span>, entre cidadãos de reputação ilibada e de notório conhecimento.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após a sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

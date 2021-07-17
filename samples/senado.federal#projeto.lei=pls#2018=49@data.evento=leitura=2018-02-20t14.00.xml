@@ -1,0 +1,118 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;49@data.evento;leitura;2018-02-20t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 49 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a declaração destinada a fazer prova de vida, para fins de manutenção de benefício previdenciário.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A declaração destinada a fazer prova de vida, para fins da manutenção de benefício previdenciário, observará o disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-11-27;9717-->
+            
+            
+            <p>A declaração destinada a fazer prova de vida para fins da manutenção de benefício previdenciário no âmbito do Regime Geral de Previdência Social e dos regimes próprios de previdência social regidos pela <span xlink:href="urn:lex:br:federal:lei:1998-11-27;9717">Lei nº 9.717, de 27 de novembro de 1998</span>, quando pelo próprio interessado ou por procurador bastante, com procuração pública, sob as penas da Lei, presume-se verdadeira.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A procuração particular, desde que homologada pelo órgão ou autarquia previdenciária, terá os efeitos de procuração pública para os fins do “caput”.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedado ao órgão ou autarquia previdenciária exigir a presença pessoal, para fins de comprovação de vida, de pessoa idosa com mais de oitenta anos.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A declaração de que trata o “caput” poderá, ainda, ser firmada por médico, que atestará, em formulário própri o estabelecido pelo Instituto Nacional do Seguro Social (INSS) ou pelo órgão específico do regime próprio de previdência social, quando for o caso, que o beneficiário se encontra impossibilitado de comparecer pessoalmente em local designado para a comprovação de vida.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Serão aceitos, em substituição à declaração de que trata o “caput”, para os fins de comprovação de vida, registros papiloscópicos ou registros magnéticos ou digitais em áudio, ou audiovisuais produzidos nos trinta dias antecedentes, que permitam a confirmação da identidade do declarante e a data em que foram registrados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Em caso de comprovação de óbito em data anterior à da apresentação de declaração de vida inverídica, ou se comprovadamente falsa a declaração, a qualquer tempo, responderá o responsável pela declaração, sujeitando-se as sanções civis, administrativas e penais cabíveis, bem assim ao ressarcimento ao regime de previdência dos benefícios pagos indevidamente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A declaração mencionará expressamente a responsabilidade do declarante.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-08-24;8212!art68-->
+            
+            
+            <p>O INSS compartilhará com os administradores dos regimes próprios de previdência social os registros de óbitos comunicados pelos titulares de Cartório de Registro Civil de Pessoas Naturais de que trata o <span xlink:href="urn:lex:br:federal:lei:1991-08-24;8212!art68">art. 68 da Lei nº 8.212, de 24 de agosto de 1991</span>.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            <!--Link: urn:lex:br:federal:lei:1991;8212!art68--><!--Link: urn:lex:br:federal:lei:1991;8212!art92--><!--Link: urn:lex:br:federal:lei:1994-11-18;8935!art32-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A falta de comunicação pelos titulares de Cartórios de Registro Civil de Pessoas Naturais de que trata o <span xlink:href="urn:lex:br:federal:lei:1991;8212!art68">art. 68 da Lei nº 8.212, de 1991</span>, dos registros de óbitos acarretará, além da aplicação das penalidades de que trata o <span xlink:href="urn:lex:br:federal:lei:1991;8212!art92">art. 92 da Lei nº 8.212, de 1991</span>, na aplicação das penas de que trata o <span xlink:href="urn:lex:br:federal:lei:1994-11-18;8935!art32">art. 32 da Lei nº 8.935, de 18 de novembro de 1994</span>, cabendo ao Conselho Nacional de Justiça a sua aplicação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

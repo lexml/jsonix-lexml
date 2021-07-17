@@ -1,0 +1,142 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;474@data.evento;leitura;2017-11-29t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 474 DE 2017</Epigrafe>
+      <Ementa id="ementa">Estabelece os critérios de escolha e nomeação e o mandato por prazo determinado dos dirigentes das polícias civis dos Estados e do Distrito Federal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei estabelece os critérios de escolha e nomeação e o mandato por prazo determinado dos dirigentes das polícias civis dos Estados e do Distrito Federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O mandato dos chefes de polícia, delegados-gerais ou diretores-gerais das polícias civis dos Estados e do Distrito Federal será de dois anos, permitida uma recondução.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A função de chefe de polícia, delegado-geral ou diretor-geral de polícia civil é privativa de brasileiro com reputação ilibada e elevado conceito jurídico e institucional, sem condenação criminal transitada em julgado, pertencente ao último nível ou classe da carreira de delegado de polícia do respectivo Estado ou do Distrito Federal.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os chefes de polícia, delegados-gerais ou diretores-gerais das polícias civis serão escolhidos e nomeados pelos governadores dos Estados e do Distrito Federal, nos termos das respectivas Constituições Estaduais ou da Lei Orgânica do Distrito Federal.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os chefes de polícia, delegados-gerais ou diretores-gerais das polícias civis dos Estados e do Distrito Federal deverão apresentar, até noventa dias após sua nomeação, um planejamento estratégico de gestão, que contenha:</p>
+            <Inciso id="art2_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>metas qualitativas e quantitativas de produtividade e de redução de índices de criminalidade;</p>
+            
+          </Inciso><Inciso id="art2_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>medidas de otimização de recursos materiais e de busca da eficiência;</p>
+            
+          </Inciso><Inciso id="art2_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>programas de capacitação do efetivo;</p>
+            
+          </Inciso><Inciso id="art2_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>diagnóstico da necessidade de recursos humanos e materiais;</p>
+            
+          </Inciso><Inciso id="art2_par3_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>planejamento das ações específicas voltadas para o melhor exercício das atribuições do órgão;</p>
+            
+          </Inciso><Inciso id="art2_par3_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>previsão de criação de unidades policiais e de estrutura organizacional, a serem definidas por lei específica.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Em caso de vacância no curso do mandato, este será completado por sucessor investido na forma prevista nos §§ 1º a 3º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O ex-dirigente fica impedido de exercer atividades ou de prestar qualquer serviço na esfera de atribuições do respectivo órgão, nos casos de aposentadoria, exoneração ou disponibilidade, por um período de quatro meses contados da aposentadoria, exoneração, disponibilidade ou término do mandato.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Incorre na prática de crime de advocacia administrativa, sujeitando-se às penas da Lei, o ex-dirigente que violar o impedimento previsto neste artigo, sem prejuízo das demais sanções cabíveis, administrativas e civis.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O orçamento das polícias civis dos Estados e do Distrito Federal deverá ser o mínimo necessário para o seu custeio e despesas correntes, não podendo ser inferior ao do exercício anterior.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

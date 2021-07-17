@@ -1,0 +1,154 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;50@data.evento;leitura;2017-03-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 50 DE 2017</Epigrafe>
+      <Ementa id="ementa">Regulamenta o exercício das profissões de transcritor e de revisor de textos em braille.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Na produção de textos no sistema braille, com fins comerciais, educacionais ou culturais, é obrigatória a participação do transcritor e do revisor de textos em braille.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Para os efeitos desta Lei, define-se:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>transcritor de textos em braille: profissional responsável pela reprodução, em caracteres do alfabeto braille, do conteúdo de um texto originalmente impresso no sistema comum de escrita;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>revisor de textos em braille: profissional responsável pela verificação de possíveis incorreções cometidas no processo de transcrição de textos em braille, em qualquer meio físico de transcrição porventura existente.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O exercício da profissão de transcritor de textos em braille é permitido aos profissionais que tenham completado, ao menos, o ensino médio e que:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>possuam certificado de habilitação expedido por órgãos oficiais ou reconhecidos pelo Ministério da Educação ou por entidades representativas dos deficientes visuais; ou</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>tenham exercido o ofício por pelo menos três anos antes da promulgação desta Lei, desde que tenham sido aprovados em prova oficial que certifique:</p>
+            <Alinea id="art3_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>conhecimento das normas técnicas para a produção de textos em sistema braille, grafia braille da língua portuguesa, código matemático unificado e outros conhecimentos pertinentes à transcrição de textos em braille;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>conhecimento de, ao menos, um programa de computador de transcrição de textos em braille; e</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>conhecimento básico de manuseio de impressora braille.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A prova de que trata o inciso II do caput deste artigo será aplicada pelo órgão definido nos termos do regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O exercício da profissão de revisor de textos em braille é permitido aos profissionais que tenham completado, ao menos, o ensino médio e que possuam certificado de habilitação expedido por órgãos oficiais ou reconhecidos pelo Ministério da Educação ou por entidades representativas dos deficientes visuais, ou que tenham exercido o ofício por pelo menos três anos antes da promulgação desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A duração máxima do trabalho do transcritor e do revisor de textos em braille é de seis horas diárias e de trinta horas semanais.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art71--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É assegurada aos transcritores e revisores de textos em braille a concessão de intervalo de repouso de dez minutos a cada cento e vinte minutos contínuos de trabalho, sem prejuízo do intervalo de alimentação e repouso referido no <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art71">art. 71 da Consolidação das Leis do Trabalho</span>, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O empregador deve garantir aos transcritores e revisores de textos em braille, para o exercício de suas funções, o acesso à internet, a códigos de transcrição braille, às normas técnicas aplicáveis à produção de texto em braille e a dicionários e outras obras de referência.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor noventa dias após sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

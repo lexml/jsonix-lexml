@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;151"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 151 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dá nova redação ao <span xlink:href="urn:lex:br:federal:lei:2008-09-17;11775!art26_par1">§ 1º do art. 26 da Lei nº 11.775, de 17 de setembro de 2008</span>, que institui medidas de estímulo à liquidação ou regularização de dívidas originárias de operações de crédito rural e de crédito fundiário.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2008-09-17;11775!art26_par1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2008-09-17;11775!art26_par1">§ 1º do art. 26 da Lei nº 11.775, de 17 de setembro de 2008</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2008-09-17;11775" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2008-09-17;11775 -> MatchByBase(urn:lex:br:federal:lei:2008-09-17;11775,2008,Some((9,17)),Map(art26 -> SuperPrefixMatch(URN(2008,Some((9,17)),art26_par1,urn:lex:br:federal:lei:2008-09-17;11775!art26_par1),art26), art26_cpt -> SuperPrefixMatch(URN(2008,Some((9,17)),art26_par1,urn:lex:br:federal:lei:2008-09-17;11775!art26_par1),art26_cpt), art26_par1 -> ExactMatch(URN(2008,Some((9,17)),art26_par1,urn:lex:br:federal:lei:2008-09-17;11775!art26_par1))))))-->
+              <Artigo xlink:href="art26" id="art1_cpt_alt1_art26" abreAspas="s">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput xlink:href="art26_cpt" id="art1_cpt_alt1_art26_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art26_par1" id="art1_cpt_alt1_art26_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A individualização das operações será condicionada à decisão da maioria e obrigará todos os beneficiários de cada associação, vedada a regularização parcial do imóvel financiado.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art26_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

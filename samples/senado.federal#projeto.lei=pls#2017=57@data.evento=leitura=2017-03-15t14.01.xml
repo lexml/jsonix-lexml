@@ -1,0 +1,103 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;57@data.evento;leitura;2017-03-15t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 57 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2001-07-10;10257">Lei nº 10.257, de 10 de julho de 2001</span>, (Estatuto da Cidade), para dispor sobre as operações urbanas consorciadas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-07-10;10257-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2001-07-10;10257">Lei nº 10.257, de 10 de julho de 2001</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2001-07-10;10257" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2001-07-10;10257 -> MatchByBase(urn:lex:br:federal:lei:2001-07-10;10257,2001,Some((7,10)),Map(art33_par3 -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33_par3), art34 -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art34), art33 -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33), art33-1_par1 -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33-1_par1), art33-1 -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33-1), art33_par1 -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33_par1), art33-1_cpt -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33-1_cpt), art34_cpt -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art34_cpt), art33_cpt -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33_cpt), art33-1_par2 -> PrefixMatch(URN(2001,Some((7,10)),,urn:lex:br:federal:lei:2001-07-10;10257),art33-1_par2)))))-->
+              <Artigo xlink:href="art33" id="art1_cpt_alt1_art33" abreAspas="s">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput xlink:href="art33_cpt" id="art1_cpt_alt1_art33_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art33_omi1"/><Paragrafo xlink:href="art33_par1" id="art1_cpt_alt1_art33_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os recursos obtidos pelo Poder Público municipal na forma do inciso VI deste artigo serão aplicados exclusivamente na própria operação urbana consorciada até que todos os encargos constantes de seu plano sejam cumpridos.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art33_omi2"/><Paragrafo xlink:href="art33_par3" id="art1_cpt_alt1_art33_par3" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1979-12-19;6766!art9-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Caso a operação urbana consorciada exija parcelamento, reparcelamento ou remembramento de imóveis, o programa básico de ocupação da área conterá o respectivo projeto, que observará, no que couber, o disposto no <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766!art9">art. 9º da Lei nº 6.766, de 19 de dezembro de 1979</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33-1" id="art1_cpt_alt1_art33-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 33-A.</Rotulo>
+            
+            <Caput xlink:href="art33-1_cpt" id="art1_cpt_alt1_art33-1_cpt">
+            
+            
+            
+            <p>O gerenciamento da operação urbana consorciada poderá ser delegado, total ou parcialmente, a entidade de propósito específico constituída sob a forma de sociedade ou de fundo de investimento imobiliário.</p>
+            
+          </Caput><Paragrafo xlink:href="art33-1_par1" id="art1_cpt_alt1_art33-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A entidade poderá adquirir os imóveis necessários para a execução da operação e alienar ou explorar comercialmente os lotes que produzir, assim como arrecadar contribuição de melhoria decorrente das obras que executar.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-1_par2" id="art1_cpt_alt1_art33-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A entidade poderá ser instituída pelo Poder Público ou por empresa concessionária de serviço público ou de obra pública e será aberta à adesão dos proprietários de imóveis necessários à execução da operação, mediante sua entrega a título de integralização de capital.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art34" id="art1_cpt_alt1_art34" abreAspas="s">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput xlink:href="art34_cpt" id="art1_cpt_alt1_art34_cpt">
+            
+            
+            
+            <p>A lei específica que aprovar a operação urbana consorciada poderá prever a emissão pelo Município de quantidade determinada de certificados de potencial adicional de construção, que serão alienados em leilão, incorporados ao patrimônio da entidade de propósito específico responsável pelo gerenciamento da operação ou utilizados diretamente no pagamento das desapropriações ou obras necessárias à própria operação.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art34_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2018;3@data.evento;leitura;2018-02-05t18.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 3 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>, para vedar a aplicação de sanções aos gestores municipais por infração a dispositivos dessa lei, quando houver queda brusca da receita do Fundo de Participação dos Municípios (FPM).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art73-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art73">art. 73 da Lei Complementar nº 101, de 4 de maio de 2000</span>, passa a vigorar acrescido do seguinte parágrafo único:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2000-05-04;101" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2000-05-04;101 -> MatchByBase(urn:lex:br:federal:lei.complementar:2000-05-04;101,2000,Some((5,4)),Map(art73 -> ExactMatch(URN(2000,Some((5,4)),art73,urn:lex:br:federal:lei.complementar:2000-05-04;101!art73)), art73_cpt -> PrefixMatch(URN(2000,Some((5,4)),art73,urn:lex:br:federal:lei.complementar:2000-05-04;101!art73),art73_cpt), art73_par1 -> PrefixMatch(URN(2000,Some((5,4)),art73,urn:lex:br:federal:lei.complementar:2000-05-04;101!art73),art73_par1)))))-->
+              <Artigo xlink:href="art73" id="art1_cpt_alt1_art73" abreAspas="s">
+            
+            
+            <Rotulo>Art. 73.</Rotulo>
+            
+            <Caput xlink:href="art73_cpt" id="art1_cpt_alt1_art73_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art73_par1u" id="art1_cpt_alt1_art73_par1u" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As penalidades referidas no caput não se aplicam aos gestores do Município em caso de queda de receita da respectiva participação no fundo de que trata o art. 159, I, b, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, superior a 10% (dez por cento), em comparação ao correspondente quadrimestre do exercício financeiro anterior, sem prejuízo de quaisquer sanções cabíveis ao próprio Município.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos a partir do exercício financeiro subsequente.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

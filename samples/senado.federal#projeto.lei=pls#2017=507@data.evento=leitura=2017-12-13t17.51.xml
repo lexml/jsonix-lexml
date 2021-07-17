@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;507@data.evento;leitura;2017-12-13t17.51"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 507 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta os arts. 159-A e 169-A à <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> – <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, para dispor sobre normas de segurança e medicina do trabalho específicas para os empregados que trabalhem em estabelecimentos de educação infantil e de ensino fundamental.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> – <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar acrescida dos seguintes artigos:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art169-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art169-1_par1), art169-1_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art169-1_par2), art169-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art169-1_cpt), art159-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art159-1), art169-1_par3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art169-1_par3), art159-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art159-1_cpt), art169-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art169-1), art169-1_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art169-1_par4)))))-->
+              <Artigo xlink:href="art159-1" id="art1_cpt_alt1_art159-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 159-A.</Rotulo>
+            
+            <Caput xlink:href="art159-1_cpt" id="art1_cpt_alt1_art159-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>As empresas e estabelecimentos que prestem serviços de educação infantil ou ensino fundamental exigirão, no momento da contratação dos empregados, comprovação de seus antecedentes criminais.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art159-1_omi1"/>
+          </Artigo><Artigo xlink:href="art169-1" id="art1_cpt_alt1_art169-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 169-A.</Rotulo>
+            
+            <Caput xlink:href="art169-1_cpt" id="art1_cpt_alt1_art169-1_cpt">
+            
+            
+            
+            <p>Os empregados em estabelecimentos de educação infantil ou de ensino fundamental serão submetidos, no momento da contratação e anualmente, à avaliação de sua saúde física e mental para fins de habilitação ao exercício profissional e continuidade na função.</p>
+            
+          </Caput><Paragrafo xlink:href="art169-1_par1" id="art1_cpt_alt1_art169-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os empregados em estabelecimentos de educação infantil ou de ensino fundamental deverão informar os empregadores sobre o uso de medicamentos psicoativos, bem como sobre a existência, em seu histórico médico, de diagnóstico de transtorno mental.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art169-1_par2" id="art1_cpt_alt1_art169-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A lista dos medicamentos de que trata o § 1º será estabelecida em regulamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art169-1_par3" id="art1_cpt_alt1_art169-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O fornecimento das informações previstas no § 1º não poderá servir de pretexto para a redução ou restrição de direitos do empregado, sob pena de rescisão do contrato por culpa do empregador.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art169-1_par4" id="art1_cpt_alt1_art169-1_par4" fechaAspas="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Configura-se ato faltoso a omissão ou ocultação, pelo empregado, das informações previstas no § 1º deste artigo, passível de punição com advertência, suspensão ou demissão por justa causa, a depender da gravidade da omissão.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor noventa dias após a data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

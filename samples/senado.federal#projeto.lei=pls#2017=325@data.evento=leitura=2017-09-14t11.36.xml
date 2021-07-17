@@ -1,0 +1,394 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;325@data.evento;leitura;2017-09-14t11.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 325 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a gestão compartilhada, destinada ao acompanhamento orçamentário, financeiro e físico da execução de obras, da prestação de serviços públicos e de aquisições de materiais e equipamentos por grupos de cidadãos organizados em aplicativos agregadores disponíveis na internet ou na telefonia celular.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art5_cpt_inc14--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art5_cpt_inc33--><!--Link: urn:lex:br:federal:lei:1993-06-21;8666--><!--Link: urn:lex:br:federal:lei:2011-11-18;12527-->
+            
+            
+            <p>Esta Lei dispõe acerca dos procedimentos de gestão compartilhada a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir, quanto à execução orçamentária, financeira e física de obras públicas, à prestação de serviços públicos e à aquisição de materiais e equipamentos, o acesso a informações previsto nos <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art5_cpt_inc14">incisos XIV</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art5_cpt_inc33">XXXIII do art. 5º da Constituição Federal</span> e nas <span xlink:href="urn:lex:br:federal:lei:1993-06-21;8666">Leis nº 8.666, de 21 de junho de 1993</span>, e nº <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527">12.527, de 18 de novembro de 2011</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Subordinam-se ao regime desta Lei:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os órgãos públicos integrantes da administração direta dos Poderes Executivo, Legislativo, incluindo as Cortes de Contas, e Judiciário e do Ministério Público;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As instituições mencionadas nos itens I e II são, doravante, tratadas nesta Lei sob a designação geral de ente público.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A gestão compartilhada consiste no acompanhamento orçamentário, financeiro e físico dos gastos públicos, tais como a execução de obras, prestação de serviços públicos e aquisições de materiais e equipamentos, por grupos virtuais formados por meio de aplicativos congregantes de indivíduos, disponíveis na internet ou na telefonia celular.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para efeitos desta Lei, consideram-se aplicativos congregantes aqueles capazes de fazer com que indivíduos expressem ideias ou exponham documentos, sob a forma de texto ou de imagem, que sejam recebidas por todos os indivíduos inscritos em um mesmo grupo mantido no âmbito do aplicativo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DA IMPLEMENTAÇÃO E REGULAMENTAÇÃO</NomeAgrupador>
+            <Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A qualquer cidadão é assegurado, nos termos desta Lei, o direito de acompanhar, por meio de grupos de gestão compartilhada, a execução de obras e a prestação de serviços públicos, bem como a aquisição de materiais e de equipamentos, devendo para tanto:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>formar grupos de gestão compartilhada, por meio de aplicativos congregantes de indivíduos, que, uma vez cadastrados junto aos entes públicos citados no art. 2º desta Lei, habilitam-se a interagir e a trocar mensagens com as autoridades responsáveis sobre todas as fases do processo de execução orçamentária, financeira e física de obras, serviços e aquisição de materiais e equipamentos, zelando pela legalidade e razoabilidade da aplicação do recurso público.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para realizar o cadastramento, o grupo deverá apresentar regulamento próprio, que estabeleça:</p>
+            <Alinea id="art4_par1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>os administradores do grupo;</p>
+            
+          </Alinea><Alinea id="art4_par1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o objeto do acompanhamento;</p>
+            
+          </Alinea><Alinea id="art4_par1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>a obrigatoriedade de as comunicações se consolidarem de forma clara e não-contraditória e ocorrerem em termos corteses e civilizados;</p>
+            
+          </Alinea><Alinea id="art4_par1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>penalidades para os membros que descumprirem o regulamento, devendo constar, obrigatoriamente, pena de desligamento definitivo do grupo em casos de reincidência;</p>
+            
+          </Alinea><Alinea id="art4_par1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>o que mais houver o grupo de acordar entre si.</p>
+            
+          </Alinea>
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O cadastramento e demais procedimentos afins deverão ser realizados exclusivamente pela internet, por meio da ferramenta definida no art. 5º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para a efetivação do cadastro, cada componente individual do grupo se obriga a fornecer seu nome completo, número do título de eleitor, endereço eletrônico e/ou número de telefone.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O regulamento próprio deverá ser aceito pelos integrantes do grupo e por cada novo membro incluso.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>No prazo de trinta dias após o término da obra, da conclusão da prestação de serviços ou da entrega dos materiais e equipamentos adquiridos, o grupo deverá inserir, no âmbito da ferramenta definida no art. 5º desta Lei, relatório de suas atividades de acompanhamento, de que constem suas conclusões quanto à consecução das metas objeto de acompanhamento e sugestões para o aprimoramento das atividades da administração pública.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A suspensão da validação do cadastro nos termos do inciso III do art. 8º desta Lei, bem como a dissolução voluntária do grupo, acarretará a validação do cadastramento de grupo não validado anteriormente por exceder o limite previsto no § 2 do art. 5 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Os entes públicos mencionados no art. 2º desta Lei se obrigam a criar ferramenta específica, na página de apresentação de seus portais institucionais, denominada gestão compartilhada, para cadastramento dos grupos virtuais e armazenamento do conteúdo do grupo.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O ente público validará o cadastramento do grupo no prazo máximo de três dias úteis, ou, no mesmo prazo, decidir-se, fundamentando sua decisão, pelo indeferimento do pedido.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Cada ente público responsável deverá validar até três grupos, para a gestão compartilhada da execução orçamentária, financeira e física do objeto especificado no regulamento próprio apresentado ao ente público.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Havendo o cadastramento de mais de três grupos de gestão compartilhada para o acompanhamento do mesmo objeto, a administração validará os três grupos que evidenciarem as seguintes qualificações:</p>
+            <Alinea id="art5_par3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>morador, trabalhador ou empresário da região afetada pelo objeto da gestão compartilhada;</p>
+            
+          </Alinea><Alinea id="art5_par3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>usuário do serviço objeto da gestão compartilhada;</p>
+            
+          </Alinea><Alinea id="art5_par3_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>interessado direto, por razões profissionais, nos equipamentos e materiais cuja aquisição é objeto de gestão compartilhada;</p>
+            
+          </Alinea><Alinea id="art5_par3_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>profissional habilitado, portador de diploma ou outro título que evidencie, de modo cabal, seu conhecimento técnico ou especializado acerca do objeto da gestão compartilhada;</p>
+            
+          </Alinea><Alinea id="art5_par3_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>ter efetuado primeiro o cadastramento.</p>
+            
+          </Alinea>
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Cabe aos entes públicos responsáveis pela realização da obra, prestação de serviço, aquisição de materiais ou equipamentos indicar, no prazo de três dias úteis após a validação do cadastro do grupo virtual:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um representante da Administração Pública, a ser incluído no grupo para prestar as informações pertinentes;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>um representante de cada empresa contratada para execução da obra, prestação do serviço, aquisição de materiais e equipamentos, a ser incluído no grupo para prestar as informações pertinentes.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>As autoridades responsáveis, públicas ou privadas, adicionadas aos grupos de gestão compartilhada se obrigarão a, no prazo máximo de sete dias úteis, atender toda demanda de informação que seus membros julguem pertinente para inteirar-se da execução da obra, serviço, aquisição de materiais e equipamentos, salvo:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quando se encontrarem em local isolado, sem acesso à telefonia ou à internet, e apresentarem justificativa razoável para tal condição;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>quando o pedido de esclarecimento não estiver relacionado ao objeto do grupo, for descabido, repetido, formulado fora dos termos do regulamento ou de forma ofensiva ao representante do ente público ou da empresa contratada.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DAS PENALIDADES</NomeAgrupador>
+            <Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O grupo que deixar de observar o disposto nesta Lei, trouxer informação ou questionamento que não esteja razoavelmente relacionada ao objeto de seu acompanhamento ou o fizer de modo descortês ou agressivo estará sujeito a:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>advertência;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em caso de reincidência, notificação ao grupo para que aplique seu regulamento ao membro que não observe as boas práticas da atividade de gestão compartilhada;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>em caso de recusa do grupo em aplicar seu regulamento, suspensão, fundamentada, da validação do cadastro pelo ente público referido no art. 2º desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O agente público participante de grupos de gestão compartilhada que deixar de observar o disposto nesta Lei estará sujeito às seguintes sanções, além das previstas no seu respectivo estatuto:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>advertência;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>destituição da função de representante da Administração responsável por prestar as informações.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>A empresa contratada para execução de obra, prestação de serviço, aquisição de materiais e equipamentos que descumprir o disposto no parágrafo único do art. 6º e nos arts. 7º e 9º desta Lei, estará sujeita à aplicação das seguintes sanções:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>advertência;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>substituição do representante da empresa;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>multa de até cinco por cento do valor do contrato objeto de gestão compartilhada;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>rescisão unilateral do contrato com o poder público;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>suspensão temporária de participar em licitação e impedimento de contratar com a administração pública por prazo não superior a 2 (dois) anos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,1147 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;plc:2017;39@data.evento;leitura;2017-05-11t14.54"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 39 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal; altera as <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Leis Complementares nºs 101, de 4 de maio de 2000</span>, e <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156">156, de 28 de dezembro de 2016</span>; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES PRELIMINARES</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Fica instituído o Regime de Recuperação Fiscal dos Estados e do Distrito Federal, nos termos do Capítulo II do Título VI da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Regime de Recuperação Fiscal será orientado pelos princípios da sustentabilidade econômico-financeira, da equidade intergeracional, da transparência das contas públicas, da confiança nas demonstrações financeiras, da celeridade das decisões, da solidariedade entre os Poderes e os órgãos da administração pública.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Regime de Recuperação Fiscal envolve a ação planejada, coordenada e transparente de todos os Poderes, órgãos, entidades e fundos dos Estados e do Distrito Federal para corrigir os desvios que afetaram o equilíbrio das contas públicas por meio da implementação das medidas emergenciais e das reformas institucionais determinadas no Plano de Recuperação elaborado previamente pelo ente federativo que desejar aderir ao Regime de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para os efeitos desta Lei Complementar, as referências aos Estados e ao Distrito Federal compreendem o Poder Executivo, o Poder Legislativo, o Poder Judiciário, os Tribunais de Contas, o Ministério Público, a Defensoria Pública, a administração pública direta e indireta dos referidos entes federativos, além dos fundos a eles destinados.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para os efeitos desta Lei Complementar, as referências aos Estados compreendem também o Distrito Federal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DO PLANO DE RECUPERAÇÃO</NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O Plano de Recuperação será formado por lei ou por conjunto de leis do Estado que desejar aderir ao Regime de Recuperação Fiscal e por diagnóstico em que se reconhece a situação de desequilíbrio financeiro e o detalhamento das medidas de ajuste, com os impactos esperados e os prazos para a sua adoção.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A lei ou o conjunto de leis de que trata o caput deste artigo deverá implementar as seguintes medidas:</p>
+            <Inciso id="art2_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a autorização de privatização de empresas dos setores financeiro, de energia, de saneamento e outros, na forma do inciso II do § 1º do art. 4º, com vistas à utilização dos recursos para quitação de passivos;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc2">
+            <!--Link: urn:lex:br:federal:lei:2015-06-17;13135-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>a adoção pelo Regime Próprio de Previdência Social mantido pelo Estado, no que couber, das regras previdenciárias disciplinadas pela <span xlink:href="urn:lex:br:federal:lei:2015-06-17;13135">Lei nº 13.135, de 17 de junho de 2015</span>;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc3">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par2_inc12_ali7-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>a redução dos incentivos ou dos benefícios de natureza tributária dos quais decorram renúncias de receitas instituídos por lei estadual ou distrital, de, no mínimo, 10% (dez por cento) ao ano, ressalvados aqueles concedidos por prazo certo e em função de determinadas condições e aqueles instituídos na forma estabelecida pela <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par2_inc12_ali7">alínea g do inciso XII do § 2º do art. 155 da Constituição Federal</span>;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a revisão do regime jurídico único dos servidores estaduais da administração pública direta, autárquica e fundacional para suprimir benefícios ou vantagens não previstos no regime jurídico único dos servidores públicos da União;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc5">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par14--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par15--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par16-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>a instituição, se cabível, do regime de previdência complementar a que se referem os <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par14">§§ 14</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par15">15</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par16">16 do art. 40 da Constituição Federal</span>;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc6">
+            <!--Link: urn:lex:br:federal:lei.complementar:2015-08-05;151-->
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a proibição de realizar saques em contas de depósitos judiciais, ressalvados aqueles permitidos pela <span xlink:href="urn:lex:br:federal:lei.complementar:2015-08-05;151">Lei Complementar nº 151, de 5 agosto de 2015</span>, enquanto não houver a recomposição do saldo mínimo do fundo de reserva, de modo a assegurar o exato cumprimento do disposto na referida Lei Complementar; e</p>
+            
+          </Inciso><Inciso id="art2_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a autorização para realizar leilões de pagamento, nos quais será adotado o critério de julgamento por maior desconto, para fins de prioridade na quitação de obrigações inscritas em restos a pagar ou inadimplidas.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O prazo de vigência do Plano de Recuperação será fixado na lei que o instituir e será limitado a trinta e seis meses, admitida uma prorrogação, se necessário, por período não superior àquele originalmente fixado.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O conjunto de dívidas a ser submetido aos leilões de pagamento de que trata o inciso VII do § 1º deste artigo e a frequência dos leilões serão definidos nos Planos de Recuperação.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>É facultado ao Estado, em substituição ao previsto no inciso IV do § 1º deste artigo, aprovar Lei de Responsabilidade Fiscal Estadual que conterá regras para disciplinar o crescimento das despesas obrigatórias.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Na hipótese de o pré-acordo previsto no § 4º do art. 3º demonstrar a superioridade dos valores dos ativos ofertados para privatização nos termos do inciso I do § 1º deste artigo em relação ao montante global de reduções extraordinárias previstas no art. 9º, ou aos valores necessários à obtenção do equilíbrio fiscal, objetivo do Regime, o Ministério da Fazenda poderá dispensar o Estado de privatizar o excedente dos ativos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DAS CONDIÇÕES DO REGIME DE RECUPERAÇÃO FISCAL</NomeAgrupador>
+            <Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Considera-se habilitado para aderir ao Regime de Recuperação Fiscal o Estado que atender, cumulativamente, aos seguintes requisitos:</p>
+            <Inciso id="art3_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>receita corrente líquida anual menor que a dívida consolidada ao final do exercício financeiro anterior ao da solicitação de ingresso ao Regime de Recuperação Fiscal, nos termos da <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art18-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>despesas liquidadas com pessoal, apuradas na forma do <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art18">art. 18 da Lei Complementar nº 101, de 4 de maio de 2000</span>, com juros e amortizações, que somados representem, no mínimo, 70% (setenta por cento) da receita corrente líquida aferida no exercício financeiro anterior ao da solicitação de ingresso ao Regime de Recuperação Fiscal; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art42-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>valor total de obrigações contraídas maior que as disponibilidades de caixa e equivalentes de caixa de recursos sem vinculação, a ser apurado na forma do <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art42">art. 42 da Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ato do Ministro de Estado da Fazenda definirá a forma de verificação dos requisitos previstos neste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedada a homologação de Regime de Recuperação Fiscal para o Estado cujo Governador já tenha requerido a adesão ao Regime durante o seu mandato, mas o teve extinto em decorrência de não cumprimento do referido Plano.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O acesso e a permanência do Estado no Regime de Recuperação Fiscal têm como condição necessária a renúncia ao direito em que se funda a ação judicial que discuta a dívida ou o contrato de que trata o art. 9º.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Governo Federal e o Governo do Estado interessado poderão, respeitada a análise prevista no § 3º do art. 4º, assinar pré-acordo de adesão ao Regime de Recuperação Fiscal, do qual constem:</p>
+            <Inciso id="art3_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o interesse do Estado em aderir ao Regime;</p>
+            
+          </Inciso><Inciso id="art3_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o atendimento aos requisitos dispostos no caput deste artigo;</p>
+            
+          </Inciso><Inciso id="art3_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a capacidade do Plano proposto para equilibrar as contas públicas do Estado; e</p>
+            
+          </Inciso><Inciso id="art3_par4_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o compromisso do Governo Federal de homologar o Regime de Recuperação do Estado tão logo todas as medidas previstas no § 1º do art. 2º encontrem-se em vigor.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O Estado protocolará o pedido de ingresso ao Regime no Ministério da Fazenda por meio da apresentação do Plano de Recuperação.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O pedido de ingresso ao Regime de Recuperação Fiscal conterá, no mínimo, a comprovação de que:</p>
+            <Inciso id="art4_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as leis a que se refere o art. 2º estejam em vigor;</p>
+            
+          </Inciso><Inciso id="art4_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as privatizações de empresas estatais autorizadas na forma do inciso I do § 1º do art. 2º gerarão recursos suficientes para a quitação de passivos, segundo os critérios definidos pelo Ministério da Fazenda; e</p>
+            
+          </Inciso><Inciso id="art4_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os requisitos previstos no art. 3º tenham sido atendidos.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Após o pedido, o Ministério da Fazenda verificará o cumprimento das exigências estabelecidas nos arts. 2º e 3º e, caso o reconheça, publicará ato reconhecendo a condição de análise do andamento do Plano de Recuperação.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No prazo de até quinze dias, contado da data de publicação do ato referido no § 2º deste artigo, o Ministério da Fazenda emitirá parecer com vistas a apontar se as medidas tomadas equilibram as contas públicas do Estado durante a vigência do Plano de Recuperação.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na hipótese de ressalva ou rejeição ao Plano, o Estado poderá reapresentá-lo, a qualquer tempo, ao Ministério da Fazenda, que realizará nova avaliação na forma e no prazo estabelecido no § 3º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Caso o Ministério da Fazenda entenda que as exigências definidas nos arts. 2º e 3º tenham sido atendidas, emitirá pronunciamento favorável ao Plano de Recuperação e recomendará ao Presidente da República a homologação do Regime de Recuperação Fiscal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Ato do Presidente da República homologará e dará início à vigência do Regime de Recuperação Fiscal.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O ato a que se refere o caput deste artigo obedecerá aos seguintes requisitos:</p>
+            <Inciso id="art5_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a emissão de parecer prévio favorável ao Plano de Recuperação pelo Ministério da Fazenda; e</p>
+            
+          </Inciso><Inciso id="art5_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a posse dos membros titulares do Conselho de Supervisão de que trata o art. 6º.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DA SUPERVISÃO DO REGIME DE RECUPERAÇÃO FISCAL</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O Conselho de Supervisão, criado especificamente para o Regime de Recuperação Fiscal dos Estados e do Distrito Federal, será composto por três membros titulares, e seus suplentes, com experiência profissional e conhecimento técnico nas áreas de gestão de finanças públicas, recuperação judicial de empresas, gestão financeira ou recuperação fiscal de entes públicos.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Conselho de Supervisão a que se refere o caput deste artigo terá a seguinte composição:</p>
+            <Inciso id="art6_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um membro indicado pelo Ministro de Estado da Fazenda;</p>
+            
+          </Inciso><Inciso id="art6_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>um membro, entre auditores federais de controle externo, indicado pelo Tribunal de Contas da União; e</p>
+            
+          </Inciso><Inciso id="art6_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>um membro indicado pelo Estado em Regime de Recuperação Fiscal.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A eventual ausência de nomeação de membros suplentes para o Conselho de Supervisão não impossibilita o seu funcionamento pleno, desde que todos os membros titulares estejam no pleno exercício de suas funções.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A estrutura, a organização e o funcionamento do Conselho de Supervisão serão estabelecidos em decreto do Poder Executivo federal.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os membros titulares do Conselho de Supervisão serão investidos em cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS de nível 6, em regime de dedicação exclusiva.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os membros suplentes do Conselho de Supervisão serão remunerados apenas pelos períodos em que estiverem em efetivo exercício, em substituição aos membros titulares.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>São atribuições do Conselho de Supervisão:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>monitorar o cumprimento do Plano de Recuperação e apresentar ao Ministério da Fazenda, mensalmente, relatório simplificado sobre a sua execução e sobre a evolução da situação financeira do Estado, com vistas a apontar os riscos ou a ocorrência de desrespeito às vedações de que trata o art. 8º ou de descumprimento das exigências estabelecidas nos incisos VI e VII do § 1º do art. 2º;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>recomendar ao Estado e ao Ministério da Fazenda as providências e as alterações no Plano de Recuperação, com vistas a atingir as suas metas;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>emitir parecer que aponte desvio de finalidade na utilização de recursos obtidos por meio de operações de crédito, nos termos do § 4º do art. 11;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>convocar audiências com especialistas e com interessados, sendo-lhe facultado requisitar informações de órgãos públicos, as quais deverão ser prestadas no prazo de quinze dias;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>acompanhar as contas do Estado, com acesso direto, por meio de senhas e demais instrumentos de acesso, aos sistemas de execução e controle fiscal;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc6">
+            <!--Link: urn:lex:br:federal:lei:1993-06-21;8666-->
+            
+            <Rotulo>VI –</Rotulo>
+            <p>contratar consultoria técnica especializada, nos termos da <span xlink:href="urn:lex:br:federal:lei:1993-06-21;8666">Lei nº 8.666, de 21 de junho de 1993</span>, custeada pela União, conforme a disponibilidade orçamentária e financeira e mediante autorização prévia do Ministério da Fazenda;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>recomendar ao Estado a suspensão cautelar de execução de contrato ou de obrigação do Estado quando estiverem em desconformidade com o Plano de Recuperação;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>recomendar medidas que visem à revisão dos contratos do Estado;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>notificar as autoridades competentes nas hipóteses de indícios de irregularidades, violação de direito ou prejuízo aos interesses das partes afetadas pelo Plano de Recuperação; e</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>apresentar relatório conclusivo no prazo de até sessenta dias, contado da data do encerramento ou da extinção do Regime de Recuperação Fiscal.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As despesas do Conselho de Supervisão serão custeadas pela União, ressalvado o disposto no § 2º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Estado proverá servidores, espaço físico no âmbito da Secretaria de Estado responsável pela gestão fiscal, equipamentos e logística adequados ao exercício das funções do Conselho de Supervisão.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os indícios de irregularidades identificados pelo Conselho de Supervisão deverão ser encaminhados ao Ministro de Estado da Fazenda.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Conselho de Supervisão deliberará pela maioria simples de seus membros.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As deliberações do Conselho de Supervisão deverão ser divulgadas no sítio eletrônico do Governo do Estado, em página específica dedicada ao Regime de Recuperação Fiscal.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os relatórios de que trata este artigo e as demais informações consideradas relevantes pelo Conselho de Supervisão serão publicados no sítio eletrônico do Governo do Estado, em página específica dedicada ao Regime de Recuperação Fiscal.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>As competências do Conselho de Supervisão de que trata este artigo não afastam ou substituem as competências legais dos órgãos federais e estaduais de controle interno e externo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DAS VEDAÇÕES DURANTE O REGIME DE RECUPERAÇÃO FISCAL</NomeAgrupador>
+            <Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Ficam vedados ao Estado durante a vigência do Regime de Recuperação Fiscal:</p>
+            <Inciso id="art8_cpt_inc1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art37_cpt_inc10-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>a concessão, a qualquer título, de vantagem, aumento, reajuste ou adequação de remuneração de membros dos Poderes ou de órgãos, de servidores e de empregados públicos e militares, exceto aqueles provenientes de sentença judicial transitada em julgado, ressalvado o disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art37_cpt_inc10">inciso X do caput do art. 37 da Constituição Federal</span>;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a criação de cargo, emprego ou função que implique aumento de despesa;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a alteração de estrutura de carreira que implique aumento de despesa;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a admissão ou a contratação de pessoal, a qualquer título, ressalvadas as reposições de cargos de chefia e de direção que não acarretem aumento de despesa e aquelas decorrentes de vacância de cargo efetivo ou vitalício;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a realização de concurso público, ressalvadas as hipóteses de reposição de vacância;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a criação ou a majoração de auxílios, vantagens, bônus, abonos, verbas de representação ou benefícios de qualquer natureza em favor de membros de qualquer Poder, do Ministério Público ou da Defensoria Pública e de servidores e de empregados públicos e militares;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a criação de despesa obrigatória de caráter continuado;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc8">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4-->
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a adoção de medida que implique reajuste de despesa obrigatória acima da variação anual do Índice Nacional de Preços ao Consumidor Amplo (IPCA), ou de outro que vier a substituí-lo, ou da variação anual da receita corrente líquida apurada na forma do <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4">inciso IV do caput do art. 2º da Lei Complementar nº 101, de 4 de maio de 2000</span>, o que for menor;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc9">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par2_inc12_ali7-->
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a concessão ou a ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita, ressalvados os concedidos nos termos da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par2_inc12_ali7">alínea g do inciso XII do § 2º do art. 155 da Constituição Federal</span>;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>o empenho ou a contratação de despesas com publicidade e propaganda, exceto para as áreas de saúde, segurança, educação no trânsito e outras de demonstrada utilidade pública;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>a celebração de convênio, acordo, ajuste ou outros tipos de instrumentos que envolvam a transferência de recursos para outros entes federativos ou para organizações da sociedade civil, ressalvados:</p>
+            <Alinea id="art8_cpt_inc11_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>aqueles necessários para a efetiva recuperação fiscal;</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc11_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>as renovações de instrumentos já vigentes no momento da adesão ao Regime de Recuperação Fiscal;</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc11_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>aqueles decorrentes de parcerias com organizações sociais e que impliquem redução de despesa, comprovada pelo Conselho de Supervisão de que trata o art. 6º; e</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc11_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>aqueles destinados a serviços essenciais, a situações emergenciais, a atividades de assistência social relativas a ações voltadas para pessoas com deficiência, idosos, mulheres jovens em situação de risco e, suplementarmente, destinados ao cumprimento de limites constitucionais;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art8_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>a contratação de operações de crédito e o recebimento ou a concessão de garantia, ressalvadas aquelas autorizadas no âmbito do Regime de Recuperação Fiscal na forma estabelecida pelo art. 11.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Regime de Recuperação Fiscal impõe as restrições de que trata o caput deste artigo a todos os Poderes, aos órgãos, às entidades e aos fundos do Estado.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DAS PRERROGATIVAS DO ESTADO</NomeAgrupador>
+            <Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>A União concederá redução extraordinária integral das prestações relativas aos contratos de dívidas administrados pela Secretaria do Tesouro Nacional do Ministério da Fazenda, por prazo igual ou inferior ao estabelecido para a vigência do Regime de Recuperação Fiscal.</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A redução extraordinária de que trata o caput deste artigo não poderá ultrapassar o prazo de trinta e seis meses.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de prorrogação do Regime de Recuperação Fiscal, nos termos do § 2º do art. 2º, os pagamentos das prestações de que trata o caput deste artigo serão retomados de forma progressiva e linear, até que seja atingido o valor integral da prestação ao término do prazo da prorrogação.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para fins do disposto neste artigo, ato do Ministro de Estado da Fazenda estabelecerá a metodologia para a definição do valor integral da prestação.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par4">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Ficam dispensados os requisitos legais exigidos para a contratação com a União e a verificação dos requisitos exigidos pela <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>, para a realização de operações de crédito.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Por força do disposto neste artigo, os valores não pagos das dívidas com a União serão:</p>
+            <Inciso id="art9_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>controlados em conta gráfica pelo agente financeiro da União e pela Secretaria do Tesouro Nacional do Ministério da Fazenda; e</p>
+            
+          </Inciso><Inciso id="art9_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>capitalizados de acordo com os encargos financeiros de normalidade previstos originariamente nos contratos, para acréscimo aos saldos devedores atualizados, imediatamente após o encerramento da redução extraordinária de que trata o caput deste artigo ou da retomada progressiva dos pagamentos de que trata o § 2º deste artigo, no caso de se verificar essa possibilidade.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art9_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A redução imediata das prestações de que trata este artigo não afasta a necessidade de celebração de termo aditivo para cada um dos contratos renegociados.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Para fins do aditamento a que se refere o § 6º deste artigo, serão considerados os valores consolidados dos saldos devedores das obrigações, incluídos os saldos das contas gráficas, apurados no mês anterior ao da assinatura do termo aditivo.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par8">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2-->
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Constará dos termos aditivos a que se refere o § 6º deste artigo que o Estado vinculará em garantia à União as receitas de que trata o art. 155 e os recursos de que tratam o art. 157, a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1">alínea a do inciso I</span> e o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2">inciso II do caput do art. 159 da Constituição Federal</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Os valores pagos à União serão imputados prioritariamente ao pagamento dos juros contratuais, sendo o restante destinado à amortização do principal da dívida.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            
+            <p>Durante a vigência do Regime de Recuperação Fiscal, fica suspensa a aplicação dos seguintes dispositivos da <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>art. 23, ressalvado o disposto no inciso I do § 3º;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art195_par3-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>alíneas a e c do inciso IV do § 1º do art. 25, ressalvada a observância ao disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art195_par3">§ 3º do art. 195 da Constituição Federal</span>; e</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>art. 31.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art10_par1u">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art23_cpt-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para os Estados que aderirem ao Regime de Recuperação Fiscal, o prazo previsto no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art23_cpt">caput do art. 23 da Lei Complementar nº 101, de 4 de maio de 2000</span>, será o mesmo pactuado para o Plano de Recuperação.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>DOS FINANCIAMENTOS AUTORIZADOS</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Enquanto vigorar o Regime de Recuperação Fiscal, poderão ser contratadas operações de crédito para as seguintes finalidades:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>financiamento de programa de desligamento voluntário de pessoal;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>financiamento de auditoria do sistema de processamento da folha de pagamento de ativos e inativos;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>financiamento dos leilões de que trata o inciso VII do § 1º do art. 2º;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>reestruturação de dívidas com o sistema financeiro;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>modernização da administração fazendária;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>antecipação de receita da privatização de empresas, nos termos do inciso I do § 1º do art. 2º; e</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>demais finalidades previstas no Plano de Recuperação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art11_par1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A contratação das operações de crédito de que tratam os incisos I a VII do caput deste artigo contará com a garantia da União, devendo o Estado vincular em contragarantia as receitas de que trata o art. 155 e os recursos de que tratam o art. 157, a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1">alínea a do inciso I</span> e o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2">inciso II do caput do art. 159 da Constituição Federal</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nas operações de crédito de que trata o inciso VI do caput deste artigo, além da contragarantia de que trata o § 1º deste artigo, o Estado oferecerá, em benefício da União, penhor das ações da empresa a ser privatizada.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se for realizada a operação de crédito de que trata o inciso VI do caput deste artigo, o Estado compromete-se a promover alterações no corpo diretor da empresa a ser privatizada, com o objetivo de permitir que o credor indique representante, cujo papel será o de contribuir para o êxito da operação de alienação.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par4">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para fins do disposto neste artigo, estão dispensados os requisitos legais exigidos para a contratação de operações de crédito e para a concessão de garantia, inclusive aqueles dispostos na <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par5">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc8-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A Secretaria do Tesouro Nacional do Ministério da Fazenda definirá o limite para a concessão de garantia aplicável à contratação das operações de crédito de que trata o § 1º deste artigo, respeitados os limites definidos pelo Senado Federal nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc8">inciso VIII do caput do art. 52 da Constituição Federal</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Na hipótese de desvio de finalidade dos financiamentos de que trata este artigo, o acesso a novos financiamentos será suspenso até o fim do Regime de Recuperação Fiscal.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Durante a vigência do Regime de Recuperação Fiscal, fica autorizado o aditamento de contratos de financiamentos firmados com organismos internacionais multilaterais, desde que não haja aumentos dos valores originais nem dos encargos dos contratos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap8">
+            
+            
+            <Rotulo>CAPÍTULO VIII</Rotulo>
+            <NomeAgrupador>DO ENCERRAMENTO E DA EXTINÇÃO DO REGIME DE RECUPERAÇÃO FISCAL</NomeAgrupador>
+            <Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O Regime de Recuperação Fiscal será encerrado quando:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as metas estabelecidas no Plano de Recuperação forem atingidas; ou</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a vigência do Plano de Recuperação terminar.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando se verificar o cumprimento do disposto no inciso I do caput deste artigo antes do prazo final previsto para a sua vigência, o encerramento ocorrerá por meio de ato do Presidente da República.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O ato a que se refere o § 1º deste artigo será precedido de parecer do Ministério da Fazenda.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>São causas para a extinção do Regime de Recuperação Fiscal o descumprimento pelo Estado:</p>
+            <Inciso id="art13_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>das vedações de que trata o Capítulo V;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>do disposto nos incisos VI e VII do § 1º do art. 2º; e</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>do disposto no § 3º do art. 3º.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Incumbe ao Presidente da República extinguir o Regime de Recuperação Fiscal, com base em recomendação do Ministério da Fazenda, nos termos do § 1º do art. 12.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A extinção do Regime de Recuperação Fiscal implica a imediata extinção das prerrogativas de que tratam os arts. 9º e 10, com o retorno das condições contratuais das dívidas a que se refere o art. 9º àquelas vigentes antes da repactuação e do recálculo do passivo do Estado com a aplicação dos encargos financeiros de inadimplemento.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap9">
+            
+            
+            <Rotulo>CAPÍTULO IX</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art32-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art32">art. 32 da Lei Complementar nº 101, de 4 de maio de 2000</span>, passa a vigorar acrescido do seguinte § 6º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2000-05-04;101" id="art14_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2000-05-04;101 -> MatchByBase(urn:lex:br:federal:lei.complementar:2000-05-04;101,2000,Some((5,4)),Map(art32 -> ExactMatch(URN(2000,Some((5,4)),art32,urn:lex:br:federal:lei.complementar:2000-05-04;101!art32)), art32_cpt -> PrefixMatch(URN(2000,Some((5,4)),art32,urn:lex:br:federal:lei.complementar:2000-05-04;101!art32),art32_cpt), art32_par6 -> PrefixMatch(URN(2000,Some((5,4)),art32,urn:lex:br:federal:lei.complementar:2000-05-04;101!art32),art32_par6)))))-->
+              <Artigo xlink:href="art32" id="art14_cpt_alt1_art32" abreAspas="s">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput xlink:href="art32_cpt" id="art14_cpt_alt1_art32_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art14_cpt_alt1_art32_omi1"/><Paragrafo xlink:href="art32_par6" id="art14_cpt_alt1_art32_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O prazo de validade da verificação dos limites e das condições de que trata este artigo e da análise realizada para a concessão de garantia pela União será de, no mínimo, noventa dias e, no máximo, duzentos e setenta dias, a critério do Ministério da Fazenda.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156">Lei Complementar nº 156, de 28 de dezembro de 2016</span>, passa a vigorar acrescida do seguinte art. 12-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2016-12-28;156" id="art15_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2016-12-28;156 -> MatchByBase(urn:lex:br:federal:lei.complementar:2016-12-28;156,2016,Some((12,28)),Map(art12-1_par2 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_par2), art12-1 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1), art12-1_par1 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_par1), art12-1_par5 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_par5), art12-1_par6 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_par6), art12-1_par3 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_par3), art12-1_cpt -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_cpt), art12-1_par7 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_par7), art12-1_par4 -> PrefixMatch(URN(2016,Some((12,28)),,urn:lex:br:federal:lei.complementar:2016-12-28;156),art12-1_par4)))))-->
+              <Artigo xlink:href="art12-1" id="art15_cpt_alt1_art12-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12-A.</Rotulo>
+            
+            <Caput xlink:href="art12-1_cpt" id="art15_cpt_alt1_art12-1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-11-05;8727-->
+            
+            
+            <p>A União poderá adotar nos contratos de refinanciamento de dívidas celebrados com os Estados e o Distrito Federal com base na <span xlink:href="urn:lex:br:federal:lei:1993-11-05;8727">Lei n° 8.727, de 5 de novembro de 1993</span>, mediante celebração de termo aditivo, o prazo adicional de até duzentos e quarenta meses para o pagamento das dívidas refinanciadas cujos créditos sejam originalmente detidos pela União ou por ela adquiridos.</p>
+            
+          </Caput><Paragrafo xlink:href="art12-1_par1" id="art15_cpt_alt1_art12-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As operações de que trata o caput deste artigo não abrangem aquelas para as quais foram mantidos os prazos, os encargos financeiros e as demais condições pactuadas nos contratos originais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par2" id="art15_cpt_alt1_art12-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O novo prazo para pagamentos será de até duzentos e quarenta meses, conforme efetivamente definido em cada um dos contratos vigentes, acrescido do prazo de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par3" id="art15_cpt_alt1_art12-1_par3">
+            <!--Link: urn:lex:br:federal:lei:1993-11-05;8727!art2-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As prestações mensais e consecutivas serão calculadas com base na Tabela Price, afastando-se as disposições contidas no <span xlink:href="urn:lex:br:federal:lei:1993-11-05;8727!art2">art. 2º da Lei nº 8.727, de 5 de novembro de 1993</span>.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par4" id="art15_cpt_alt1_art12-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para efeito de cálculo das prestações, na forma do § 3º deste artigo, serão considerados o saldo devedor e o prazo remanescente existentes na data de celebração do termo aditivo, após a aplicação da extensão do prazo de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par5" id="art15_cpt_alt1_art12-1_par5">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art32-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Estão dispensados, para a assinatura do aditivo de que trata o caput deste artigo, todos os requisitos legais exigidos para a contratação com a União, inclusive os dispostos no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art32">art. 32 da Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par6" id="art15_cpt_alt1_art12-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O prazo para a assinatura do termo aditivo a que se refere o caput deste artigo é de trezentos e sessenta dias, contado da data de publicação desta Lei Complementar.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par7" id="art15_cpt_alt1_art12-1_par7" fechaAspas="s">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A concessão do prazo adicional de até duzentos e quarenta meses de que trata o caput deste artigo depende da desistência de eventuais ações judiciais que tenham por objeto a dívida ou o contrato ora renegociados, sendo causa de rescisão do termo aditivo a manutenção do litígio ou o ajuizamento de novas ações.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156!art12--><!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156!art13-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156!art12">arts. 12</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156!art13">13 da Lei Complementar nº 156, de 28 dezembro de 2016</span>, passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2016-12-28;156" id="art16_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2016-12-28;156 -> MatchByBase(urn:lex:br:federal:lei.complementar:2016-12-28;156,2016,Some((12,28)),Map(art13 -> ExactMatch(URN(2016,Some((12,28)),art13,urn:lex:br:federal:lei.complementar:2016-12-28;156!art13)), art12_cpt -> PrefixMatch(URN(2016,Some((12,28)),art12,urn:lex:br:federal:lei.complementar:2016-12-28;156!art12),art12_cpt), art12 -> ExactMatch(URN(2016,Some((12,28)),art12,urn:lex:br:federal:lei.complementar:2016-12-28;156!art12)), art13_cpt -> PrefixMatch(URN(2016,Some((12,28)),art13,urn:lex:br:federal:lei.complementar:2016-12-28;156!art13),art13_cpt), art13_par1 -> PrefixMatch(URN(2016,Some((12,28)),art13,urn:lex:br:federal:lei.complementar:2016-12-28;156!art13),art13_par1)))))-->
+              <Artigo xlink:href="art12" id="art16_cpt_alt1_art12" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput xlink:href="art12_cpt" id="art16_cpt_alt1_art12_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-11-05;8727-->
+            
+            
+            <p>Fica a União autorizada a efetuar a quitação das obrigações assumidas pela <span xlink:href="urn:lex:br:federal:lei:1993-11-05;8727">Lei nº 8.727, de 5 de novembro de 1993</span>, que envolvam recursos oriundos do Fundo de Garantia do Tempo de Serviço (FGTS), perante a Caixa Econômica Federal, mediante cessão definitiva dos direitos creditórios derivados das operações firmadas ao amparo da referida Lei com os Estados, o Distrito Federal e os Municípios, ou com as respectivas entidades da administração indireta.</p>
+            
+          </Caput><Omissis id="art16_cpt_alt1_art12_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art13" id="art16_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art16_cpt_alt1_art13_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-11-05;8727-->
+            
+            
+            <p>A cessão de que trata o art. 12 desta Lei só poderá ser realizada caso o Estado, o Distrito Federal e o Município, ou a respectiva entidade da administração indireta, celebre, concomitantemente, perante o agente operador do FGTS, repactuação da totalidade das suas dívidas decorrentes de financiamentos obtidos com recursos do FGTS, vencidas e vincendas, derivadas de operações de créditos contratadas até lº de junho de 2001, abrangidas ou não pela <span xlink:href="urn:lex:br:federal:lei:1993-11-05;8727">Lei nº 8.727, de 5 de novembro de 1993</span>, ainda que essas tenham sido objeto de renegociação anterior.</p>
+            
+          </Caput><Paragrafo xlink:href="art13_par1" id="art16_cpt_alt1_art13_par1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali2--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Fica a União autorizada a conceder garantia à repactuação prevista no caput deste artigo, mediante concessão de contragarantias por parte dos Estados, do Distrito Federal e dos Municípios, representadas pelas suas receitas próprias e recursos de que tratam os arts. 155, 156, 157, 158 e as <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1">alíneas a</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali2">b do inciso I</span> e o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2">inciso II do caput do art. 159 da Constituição Federal</span>, conforme o caso.</p>
+            
+          </Paragrafo><Omissis id="art16_cpt_alt1_art13_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Durante a vigência do Regime de Recuperação Fiscal, na hipótese de inadimplência em operações de crédito com o sistema financeiro e instituições multilaterais, garantidas pela União, contratadas em data anterior à homologação do pedido de ingresso no Regime de Recuperação Fiscal, fica a União impedida de executar as contragarantias ofertadas.</p>
+            
+          </Caput><Paragrafo id="art17_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Por força do disposto no caput deste artigo, os valores inadimplidos, mas não executados, serão:</p>
+            <Inciso id="art17_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>controlados em conta gráfica pela Secretaria do Tesouro Nacional do Ministério da Fazenda;</p>
+            
+          </Inciso><Inciso id="art17_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>capitalizados de acordo com os encargos financeiros de normalidade previstos originariamente nos respectivos contratos;</p>
+            
+          </Inciso><Inciso id="art17_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cobrados no prazo previsto no § 1º do art. 9º.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art17_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de prorrogação do Regime de Recuperação Fiscal, será aplicado o disposto no § 2º do art. 9º.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par3">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para fins do disposto neste artigo, estão dispensados os requisitos legais exigidos para a contratação de operações de crédito, inclusive aqueles dispostos na <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par4">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para fins de aplicação do disposto no § 1º deste artigo, o Estado deverá vincular em contragarantia as receitas de que trata o art. 155 e os recursos de que tratam o art. 157, a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc1_ali1">alínea a do inciso I</span> e o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159_cpt_inc2">inciso II do caput do art. 159 da Constituição Federal</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

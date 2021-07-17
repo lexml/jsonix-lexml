@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;24@data.evento;leitura;2017-06-13t17.23"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 24 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:resolucao:2012;15">Resolução nº 15, de 2012</span>, para acrescentar as denominações Chico Mendes, José Antônio Kroeff Lutzenberger e Almirante Ibsen de Gusmão Câmara às categorias Responsabilidade Ambiental, Gestão Sustentável e Inovação Ambiental, respectivamente, do Prêmio Mérito Ambiental.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:2012;15!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:resolucao:2012;15!art4">art. 4º da Resolução nº 15, de 2012</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:2012;15" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:2012;15 -> MatchByBase(urn:lex:br:federal:resolucao:2012;15,2012,None,Map(art4 -> ExactMatch(URN(2012,None,art4,urn:lex:br:federal:resolucao:2012;15!art4)), art4_cpt_inc2 -> PrefixMatch(URN(2012,None,art4,urn:lex:br:federal:resolucao:2012;15!art4),art4_cpt_inc2), art4_cpt -> PrefixMatch(URN(2012,None,art4,urn:lex:br:federal:resolucao:2012;15!art4),art4_cpt), art4_cpt_inc3 -> PrefixMatch(URN(2012,None,art4,urn:lex:br:federal:resolucao:2012;15!art4),art4_cpt_inc3), art4_cpt_inc1 -> PrefixMatch(URN(2012,None,art4,urn:lex:br:federal:resolucao:2012;15!art4),art4_cpt_inc1)))))-->
+              <Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art4_cpt_inc1" id="art1_cpt_alt1_art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Responsabilidade Ambiental – Ambientalista Chico Mendes: iniciativas de proteção ambiental que promovam crescimento econômico e inclusão social na comunidade;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc2" id="art1_cpt_alt1_art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Gestão Sustentável – Ambientalista José Antônio Kroeff Lutzenberger: iniciativas de prevenção ou mitigação dos impactos ambientais das atividades humanas;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc3" id="art1_cpt_alt1_art4_cpt_inc3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Inovação Ambiental – Almirante Ibsen de Gusmão Câmara: iniciativas inéditas para o aprimoramento significativo de sistemas, processos ou produtos, com vistas à promoção do desenvolvimento sustentável.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

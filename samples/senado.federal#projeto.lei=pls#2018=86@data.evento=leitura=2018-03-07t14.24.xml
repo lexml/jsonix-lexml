@@ -1,0 +1,115 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;86@data.evento;leitura;2018-03-07t14.24"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 86 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857">Lei nº 3.857, de 22 de dezembro de 1960</span>, para assegurar o livre exercício da profissão de músico.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1960-12-22;3857-->
+            
+            
+            <p>Os arts. 1º, 17, 54, e 55 da <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857">Lei nº 3.857, de 22 de dezembro de 1960</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1960-12-22;3857" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1960-12-22;3857 -> MatchByBase(urn:lex:br:federal:lei:1960-12-22;3857,1960,Some((12,22)),Map(art1 -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art1), art54_cpt_ali2 -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art54_cpt_ali2), art17_cpt -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art17_cpt), art1_cpt -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art1_cpt), art54_cpt_ali1 -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art54_cpt_ali1), art17 -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art17), art54 -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art54), art55 -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art55), art54_cpt -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art54_cpt), art55_cpt -> PrefixMatch(URN(1960,Some((12,22)),,urn:lex:br:federal:lei:1960-12-22;3857),art55_cpt)))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Fica criada a Ordem dos Músicos do Brasil com a finalidade de exercer, em todo o país, a defesa da classe, mantidas as atribuições específicas do Sindicato respectivo.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art17" id="art1_cpt_alt1_art17" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput xlink:href="art17_cpt" id="art1_cpt_alt1_art17_cpt">
+            
+            
+            
+            <p>Aos profissionais registrados de acordo com esta lei, serão entregues as carteiras profissionais.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art17_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art54" id="art1_cpt_alt1_art54" abreAspas="s">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput xlink:href="art54_cpt" id="art1_cpt_alt1_art54_cpt">
+            
+            
+            
+            <p>Para os efeitos da execução e, consequentemente, da fiscalização do trabalho dos músicos, os empregadores são obrigados:</p>
+            <Alinea xlink:href="art54_cpt_ali1" id="art1_cpt_alt1_art54_cpt_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a manter afixado, em lugar visível, no local de trabalho, quadro discriminativo do horário dos músicos em serviço;</p>
+            
+          </Alinea><Alinea xlink:href="art54_cpt_ali2" id="art1_cpt_alt1_art54_cpt_ali2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a possuir livro de registro de empregados, número da carteira profissional, data de admissão e saída, condições de trabalho, férias e obrigações da lei de acidentes do trabalho, nacionalização, além de outras estipuladas em lei.</p>
+            
+          </Alinea>
+          </Caput>
+          </Artigo><Artigo xlink:href="art55" id="art1_cpt_alt1_art55" abreAspas="s">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput xlink:href="art55_cpt" id="art1_cpt_alt1_art55_cpt" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>A fiscalização do trabalho dos músicos compete às Superintendências Regionais de Trabalho e Emprego do Ministério do Trabalho e Emprego, obedecidas as normas fixadas pelos arts. 626 e seguintes da <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span>.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art40--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art28--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art38--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art52--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art33--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art19--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art37--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art49--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art34--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art51--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art31--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art36--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art35--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art50--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art30--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art32--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art53--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art39--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art29--><!--Link: urn:lex:br:federal:lei:1960-12-22;3857!art18-->
+            
+            
+            <p>Revogam-se os arts. 16; os §§ 2º e 3º do art. 17, renumerando-se o § 1º como parágrafo único; e os <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art18">arts. 18</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art19">19</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art28">28</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art29">29</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art30">30</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art31">31</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art32">32</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art33">33</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art34">34</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art35">35</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art36">36</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art37">37</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art38">38</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art39">39</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art40">40</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art49">49</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art50">50</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art51">51</span>, <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art52">52</span> e <span xlink:href="urn:lex:br:federal:lei:1960-12-22;3857!art53">53, todos da Lei nº 3.857, de 22 de dezembro de 1960</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

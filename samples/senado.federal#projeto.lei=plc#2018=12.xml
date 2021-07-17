@@ -1,0 +1,160 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;12"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 12 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1975-04-17;6202">Lei nº 6.202, de 17 de abril de 1975</span>, que atribui à estudante em estado de gestação o regime de exercícios domiciliares instituído pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1969-10-21;1044">Decreto-Lei nº 1.044, de 21 de outubro de 1969</span>, e a <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Lei nº 9.394, de 20 de dezembro de 1996</span>, que estabelece as diretrizes e bases da educação nacional, para assegurar os direitos educacionais às mulheres gestantes, em estado de puerpério e lactantes.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1975-04-17;6202!art1--><!--Link: urn:lex:br:federal:lei:1975-04-17;6202!art2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1975-04-17;6202!art1">arts. 1º</span> e <span xlink:href="urn:lex:br:federal:lei:1975-04-17;6202!art2">2º da Lei nº 6.202, de 17 de abril de 1975</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1975-04-17;6202" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1975-04-17;6202 -> MatchByBase(urn:lex:br:federal:lei:1975-04-17;6202,1975,Some((4,17)),Map(art2_cpt_inc1 -> PrefixMatch(URN(1975,Some((4,17)),art2,urn:lex:br:federal:lei:1975-04-17;6202!art2),art2_cpt_inc1), art1 -> ExactMatch(URN(1975,Some((4,17)),art1,urn:lex:br:federal:lei:1975-04-17;6202!art1)), art1_par1 -> PrefixMatch(URN(1975,Some((4,17)),art1,urn:lex:br:federal:lei:1975-04-17;6202!art1),art1_par1), art1_cpt -> PrefixMatch(URN(1975,Some((4,17)),art1,urn:lex:br:federal:lei:1975-04-17;6202!art1),art1_cpt), art2_par1 -> PrefixMatch(URN(1975,Some((4,17)),art2,urn:lex:br:federal:lei:1975-04-17;6202!art2),art2_par1), art2 -> ExactMatch(URN(1975,Some((4,17)),art2,urn:lex:br:federal:lei:1975-04-17;6202!art2)), art2_cpt_inc4 -> PrefixMatch(URN(1975,Some((4,17)),art2,urn:lex:br:federal:lei:1975-04-17;6202!art2),art2_cpt_inc4), art2_cpt -> PrefixMatch(URN(1975,Some((4,17)),art2,urn:lex:br:federal:lei:1975-04-17;6202!art2),art2_cpt), art1_par3 -> PrefixMatch(URN(1975,Some((4,17)),art1,urn:lex:br:federal:lei:1975-04-17;6202!art1),art1_par3), art2_cpt_inc3 -> PrefixMatch(URN(1975,Some((4,17)),art2,urn:lex:br:federal:lei:1975-04-17;6202!art2),art2_cpt_inc3), art1_par2 -> PrefixMatch(URN(1975,Some((4,17)),art1,urn:lex:br:federal:lei:1975-04-17;6202!art1),art1_par2), art2_cpt_inc2 -> PrefixMatch(URN(1975,Some((4,17)),art2,urn:lex:br:federal:lei:1975-04-17;6202!art2),art2_cpt_inc2)))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1969-10-21;1044-->
+            
+            
+            <p>A partir do oitavo mês de gestação e até seis meses após o nascimento da criança, a estudante, de qualquer nível ou modalidade de ensino, em estado de gravidez, puerpério ou lactação em livre demanda, fica assistida pelo regime de exercícios domiciliares instituído pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1969-10-21;1044">Decreto-Lei nº 1.044, de 21 de outubro de 1969</span>.</p>
+            
+          </Caput><Paragrafo xlink:href="art1_par1" id="art1_cpt_alt1_art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O início e o fim do período de afastamento serão determinados por atestado médico a ser apresentado à direção da instituição de ensino.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1_par2" id="art1_cpt_alt1_art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Em casos excepcionais devidamente comprovados mediante laudo médico, poderá ser aumentado, antes e depois do parto, o período de repouso, incluída a estudante no regime de exercícios domiciliares.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1_par3" id="art1_cpt_alt1_art1_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Sem prejuízo da garantia do direito ao afastamento para regime de exercícios domiciliares, as instituições de ensino terão suas instalações físicas adaptadas, além de prover medidas de acolhimento à adolescente grávida, em estado de puerpério ou lactação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>É assegurado às estudantes de que trata esta Lei, no âmbito dos exercícios domiciliares a que fazem jus:</p>
+            <Inciso xlink:href="art2_cpt_inc1" id="art1_cpt_alt1_art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>acompanhamento pedagógico próprio, com cronograma e plano de trabalho, para o período de afastamento;</p>
+            
+          </Inciso><Inciso xlink:href="art2_cpt_inc2" id="art1_cpt_alt1_art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>utilização de instrumentos pedagógicos, disponibilizados pela instituição de ensino, bem como de meios análogos aos utilizados na educação a distância, para a realização de tarefas e esclarecimento de dúvidas;</p>
+            
+          </Inciso><Inciso xlink:href="art2_cpt_inc3" id="art1_cpt_alt1_art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>realização de todos os testes, provas e demais exames, inclusive as provas finais, preferencialmente em consonância com o calendário escolar com vistas ao regular e tempestivo aproveitamento do curso, sempre que compatível com o estado de saúde da estudante e com as possibilidades do estabelecimento de ensino;</p>
+            
+          </Inciso><Inciso xlink:href="art2_cpt_inc4" id="art1_cpt_alt1_art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>continuidade do recebimento de bolsa de estudos de que sejam beneficiárias.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art2_par1u" id="art1_cpt_alt1_art2_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Lei nº 9.394, de 20 de dezembro de 1996</span>, passa a vigorar acrescida do seguinte art. 80-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-12-20;9394" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-12-20;9394 -> MatchByBase(urn:lex:br:federal:lei:1996-12-20;9394,1996,Some((12,20)),Map(art80-1 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art80-1), art80-1_cpt -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art80-1_cpt), art80-1_par1 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art80-1_par1)))))-->
+              <Artigo xlink:href="art80-1" id="art2_cpt_alt1_art80-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 80-A.</Rotulo>
+            
+            <Caput xlink:href="art80-1_cpt" id="art2_cpt_alt1_art80-1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1969-10-21;1044--><!--Link: urn:lex:br:federal:lei:1975-04-17;6202-->
+            
+            
+            <p>É responsabilidade dos sistemas de ensino oferecer atendimento educacional e acompanhamento pedagógico próprios, em qualquer nível ou modalidade de ensino, para as estudantes em estado de gravidez, puerpério ou lactação em livre demanda que se encontrem sob o regime de exercícios domiciliares instituído pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1969-10-21;1044">Decreto-Lei nº 1.044, de 21 de outubro de 1969</span>, nos termos da <span xlink:href="urn:lex:br:federal:lei:1975-04-17;6202">Lei nº 6.202, de 17 de abril de 1975</span>.</p>
+            
+          </Caput><Paragrafo xlink:href="art80-1_par1u" id="art2_cpt_alt1_art80-1_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O cumprimento do disposto neste artigo deverá contemplar ainda a adaptação de instalações no ambiente do estabelecimento de ensino.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art12--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art14--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6-->
+            
+            
+            <p>O Poder Executivo, com vistas ao cumprimento do disposto nos <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art12">arts. 12</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art14">14 da Lei Complementar nº 101, de 4 de maio de 2000</span>, estimará o montante da despesa decorrente do disposto no art. 2º desta Lei e o incluirá no demonstrativo a que se refere o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6">§ 6º do art. 165 da Constituição Federal</span>, que acompanhará o projeto de lei orçamentária cuja apresentação se der após decorridos sessenta dias da publicação desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

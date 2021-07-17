@@ -1,0 +1,418 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;19"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 19 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a Identidade Civil Nacional e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica criada a Identificação Civil Nacional (ICN), com o objetivo de identificar o brasileiro, em suas relações com a sociedade e com os órgãos e entidades governamentais e privados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A ICN utilizará:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a base de dados biométricos da Justiça Eleitoral;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2009-07-07;11977!art41-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>a base de dados do Sistema Nacional de Informações de Registro Civil (SIRC), criado pelo Poder Executivo federal, e da Central Nacional de Informações do Registro Civil (CRC–Nacional), instituída pelo Conselho Nacional de Justiça, em cumprimento ao disposto no <span xlink:href="urn:lex:br:federal:lei:2009-07-07;11977!art41">art. 41 da Lei nº 11.977, de 7 de julho de 2009</span>; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>outras informações, não disponíveis no SIRC, contidas em bases de dados da Justiça Eleitoral, dos Institutos de Identificação dos Estados e do Distrito Federal, do Instituto Nacional de Identificação, ou disponibilizadas por outros órgãos, conforme definido pelo Comitê Gestor da ICN.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A base de dados da ICN será armazenada e gerida pelo Tribunal Superior Eleitoral, que a manterá atualizada e adotará as providências necessárias para assegurar a integridade, a disponibilidade, a autenticidade, a confidencialidade de seu conteúdo e a interoperabilidade entre os sistemas eletrônicos governamentais.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A interoperabilidade de que trata o § 1º deste artigo observará a legislação aplicável e as recomendações técnicas da arquitetura dos Padrões de Interoperabilidade de Governo Eletrônico (e-PING).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Tribunal Superior Eleitoral garantirá aos Poderes Executivo e Legislativo da União, dos Estados, do Distrito Federal e dos Municípios o acesso à base de dados da ICN, de forma gratuita, exceto quanto às informações eleitorais.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Poder Executivo dos entes federados poderá integrar aos seus próprios bancos de dados as informações da base de dados da ICN, com exceção dos dados biométricos.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Ato do Tribunal Superior Eleitoral disporá sobre a integração dos registros biométricos pelas Polícias Federal e Civil, com exclusividade, às suas bases de dados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Fica vedada a comercialização, total ou parcial, da base de dados da ICN.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em caso de descumprimento do disposto no caput deste artigo: Pena: detenção, de dois a quatro anos, e multa.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto no caput deste artigo não impede o serviço de conferência de dados que envolvam a biometria prestado a particulares, a ser realizado exclusivamente pelo Tribunal Superior Eleitoral.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Fica criado o Comitê da ICN.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Comitê da ICN será composto por:</p>
+            <Inciso id="art5_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>três representantes do Poder Executivo federal;</p>
+            
+          </Inciso><Inciso id="art5_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>três representantes do Tribunal Superior Eleitoral;</p>
+            
+          </Inciso><Inciso id="art5_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>um representante da Câmara dos Deputados;</p>
+            
+          </Inciso><Inciso id="art5_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>um representante do Senado Federal; e</p>
+            
+          </Inciso><Inciso id="art5_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>um representante do Conselho Nacional de Justiça.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Compete ao Comitê da ICN:</p>
+            <Inciso id="art5_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>recomendar:</p>
+            <Alinea id="art5_par2_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o padrão biométrico da ICN;</p>
+            
+          </Alinea><Alinea id="art5_par2_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a regra de formação do número da ICN;</p>
+            
+          </Alinea><Alinea id="art5_par2_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>o padrão e os documentos necessários para expedição do Documento de Identificação Nacional (DIN);</p>
+            
+          </Alinea><Alinea id="art5_par2_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>os parâmetros técnicos e econômico-financeiros da prestação dos serviços de conferência de dados que envolvam a biometria; e</p>
+            
+          </Alinea><Alinea id="art5_par2_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>as diretrizes para administração do Fundo da Identificação Civil Nacional (FICN) e gestão de seus recursos.</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>orientar a implementação da interoperabilidade entre os sistemas eletrônicos do Poder Executivo federal e da Justiça Eleitoral; e</p>
+            
+          </Inciso><Inciso id="art5_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estabelecer regimento.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As decisões do Comitê da ICN serão tomadas por maioria de dois terços dos membros.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Comitê da ICN poderá criar grupos técnicos, com a participação paritária do Poder Executivo federal, do Poder Legislativo e do Tribunal Superior Eleitoral, para assessorá-lo em suas atividades.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A participação no Comitê da ICN e em seus grupos técnicos será considerada serviço público relevante, não remunerado.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A coordenação do Comitê será alternada entre os representantes do Poder Executivo federal e do Tribunal Superior Eleitoral, conforme regimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Fica instituído o Fundo da Identificação Civil Nacional (FICN), de natureza contábil, gerido e administrado pelo Tribunal Superior Eleitoral, com a finalidade de constituir fonte de recursos para o desenvolvimento e a manutenção da ICN e das bases por ela utilizadas.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Constituem recursos do FICN:</p>
+            <Inciso id="art6_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os que lhe forem destinados no orçamento da União especificamente para os fins de que trata esta Lei, que não se confundirão com o orçamento da Justiça Eleitoral;</p>
+            
+          </Inciso><Inciso id="art6_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o resultado de aplicações financeiras sobre as receitas diretamente arrecadadas;</p>
+            
+          </Inciso><Inciso id="art6_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a receita proveniente da prestação de serviços de conferência de dados;</p>
+            
+          </Inciso><Inciso id="art6_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>outros recursos que lhe forem destinados, tais como os decorrentes de convênios e de instrumentos congêneres ou de doações.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O FICN será administrado pelo Tribunal Superior Eleitoral, observadas as diretrizes estabelecidas pelo Comitê da ICN.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O saldo positivo do FICN apurado em balanço será transferido para o exercício seguinte, a crédito do mesmo fundo.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Observadas as diretrizes estabelecidas pelo Comitê da ICN, o FICN deverá garantir o funcionamento e a integração, padronização e interoperabilidade das bases biométricas no âmbito da União.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O Tribunal Superior Eleitoral estabelecerá cronograma das etapas de implementação da ICN e de coleta das informações biométricas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Fica criado o Documento de Identificação Nacional (DIN), com fé pública e validade em todo o território nacional.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O DIN faz prova de todos os dados nele incluídos, dispensando a apresentação dos documentos que lhe deram origem ou nele tenham sido mencionados.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É gratuita a emissão da primeira via do DIN.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O DIN será emitido pela Justiça Eleitoral, ou por delegação do TSE a outros órgãos, com certificação da Justiça Eleitoral, e pelos institutos de identificação civil dos Estados, com certificação da Justiça Eleitoral, e poderá substituir o título de eleitor, observada a legislação do alistamento eleitoral, na forma regulamentada pelo Tribunal Superior Eleitoral.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A impressão do DIN será realizada pela Casa da Moeda.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O número do Cadastro de Pessoas Físicas (CPF) será incorporado, de forma gratuita, aos documentos de identidade civil da União e dos Estados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Os documentos emitidos pelas entidades de classe somente serão validados se atenderem os requisitos de biometria e de fotografia conforme o padrão utilizado no DIN.</p>
+            
+          </Caput><Paragrafo id="art10_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As entidades de classe terão dois anos para adequarem seus documentos aos requisitos exigidos pelo DIN.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O poder público deverá oferecer mecanismos que possibilitem o cruzamento de informações, constantes em bases de dados oficiais, a partir do número de inscrição no CPF do solicitante, de modo que a comprovação do cumprimento de requisitos de elegibilidade para a concessão e manutenção de benefícios sociais seja feita pelo órgão concedente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O Poder Executivo federal e o Tribunal Superior Eleitoral editarão, no âmbito de suas competências, atos complementares para a execução do disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

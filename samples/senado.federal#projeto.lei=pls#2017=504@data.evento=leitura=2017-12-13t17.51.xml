@@ -1,0 +1,121 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;504@data.evento;leitura;2017-12-13t17.51"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 504 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei.complementar:2007-01-03;125">Lei Complementar nº 125, de 3 de janeiro de 2007</span>, e a <span xlink:href="urn:lex:br:federal:lei:1989-09-27;7827">Lei nº 7.827, de 27 de setembro de 1989</span>, para acrescentar à área de atuação da Superintendência de Desenvolvimento do Nordeste (SUDENE) e à área de aplicação dos recursos do Fundo Constitucional de Financiamento do Nordeste (FNE) os municípios situados nas mesorregiões Norte e Noroeste do Estado do Rio de Janeiro.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2007-01-03;125!art2_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2007-01-03;125!art2_cpt">caput do art. 2º da Lei Complementar nº 125, de 3 de janeiro de 2007</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2007-01-03;125" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2007-01-03;125 -> MatchByBase(urn:lex:br:federal:lei.complementar:2007-01-03;125,2007,Some((1,3)),Map(art2 -> SuperPrefixMatch(URN(2007,Some((1,3)),art2_cpt,urn:lex:br:federal:lei.complementar:2007-01-03;125!art2_cpt),art2), art2_cpt -> ExactMatch(URN(2007,Some((1,3)),art2_cpt,urn:lex:br:federal:lei.complementar:2007-01-03;125!art2_cpt))))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1951-02-10;1348--><!--Link: urn:lex:br:federal:lei:1975-07-07;6218--><!--Link: urn:lex:br:federal:lei:1998-07-15;9690-->
+            
+            
+            <p>A área de atuação da Sudene abrange os Estados do Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia e as regiões e os Municípios do Estado de Minas Gerais de que tratam as <span xlink:href="urn:lex:br:federal:lei:1951-02-10;1348">Leis nos 1.348, de 10 de fevereiro de 1951</span>, <span xlink:href="urn:lex:br:federal:lei:1975-07-07;6218">6.218, de 7 de julho de 1975</span>, e <span xlink:href="urn:lex:br:federal:lei:1998-07-15;9690">9.690, de 15 de julho de 1998</span>, bem como os Municípios de Águas Formosas, Angelândia, Aricanduva, Arinos, Ataléia, Bertópolis, Campanário, Carlos Chagas, Catuji, Crisólita, Formoso, Franciscópolis, Frei Gaspar, Fronteira dos Vales, Itaipé, Itambacuri, Jenipapo de Minas, José Gonçalves de Minas, Ladainha, Leme do Prado, Maxacalis, Monte Formoso, Nanuque, Novo Oriente de Minas, Ouro Verde de Minas, Pavão, Pescador, Ponto dos Volantes, Poté, Riachinho, Santa Fé de Minas, Santa Helena de Minas, São Romão, Serra dos Aimorés, Setubinha, Teófilo Otoni, Umburatiba e Veredinha, todos em Minas Gerais, os Municípios do Estado do Espírito Santo relacionados na <span xlink:href="urn:lex:br:federal:lei:1998-07-15;9690">Lei nº 9.690, de 15 de julho de 1998</span>, bem como o Município de Governador Lindemberg, e ainda os Municípios de Aperibé, Bom Jesus do Itabapoana, Cambuci, Campos dos Goytacazes, Carapebus, Cardoso Moreira, Conceição de Macabu, Italva, Itaocara, Itaperuna, Laje do Muriaé, Macaé, Miracema, Natividade, Porciúncula, Quissamã, Santo Antônio de Pádua, São Fidélis, São Francisco de Itabapoana, São João da Barra, São José de Ubá e Varre-Sai, no Estado do Rio de Janeiro.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2007-01-03;125!art8_cpt_inc1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2007-01-03;125!art8_cpt_inc1">inciso I do art. 8º da Lei Complementar nº 125, de 3 de janeiro de 2007</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2007-01-03;125" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2007-01-03;125 -> MatchByBase(urn:lex:br:federal:lei.complementar:2007-01-03;125,2007,Some((1,3)),Map(art8 -> SuperPrefixMatch(URN(2007,Some((1,3)),art8_cpt_inc1,urn:lex:br:federal:lei.complementar:2007-01-03;125!art8_cpt_inc1),art8), art8_cpt -> SuperPrefixMatch(URN(2007,Some((1,3)),art8_cpt_inc1,urn:lex:br:federal:lei.complementar:2007-01-03;125!art8_cpt_inc1),art8_cpt), art8_cpt_inc1 -> ExactMatch(URN(2007,Some((1,3)),art8_cpt_inc1,urn:lex:br:federal:lei.complementar:2007-01-03;125!art8_cpt_inc1))))))-->
+              <Artigo xlink:href="art8" id="art2_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art2_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art8_cpt_inc1" id="art2_cpt_alt1_art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os Governadores dos Estados do Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia, Minas Gerais, Espírito Santo e Rio de Janeiro;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art8_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1989-09-27;7827!art5_cpt_inc2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1989-09-27;7827!art5_cpt_inc2">inciso II do art. 5º da Lei nº 7.827, de 27 de setembro de 1989</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1989-09-27;7827" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1989-09-27;7827 -> MatchByBase(urn:lex:br:federal:lei:1989-09-27;7827,1989,Some((9,27)),Map(art5 -> SuperPrefixMatch(URN(1989,Some((9,27)),art5_cpt_inc2,urn:lex:br:federal:lei:1989-09-27;7827!art5_cpt_inc2),art5), art5_cpt -> SuperPrefixMatch(URN(1989,Some((9,27)),art5_cpt_inc2,urn:lex:br:federal:lei:1989-09-27;7827!art5_cpt_inc2),art5_cpt), art5_cpt_inc2 -> ExactMatch(URN(1989,Some((9,27)),art5_cpt_inc2,urn:lex:br:federal:lei:1989-09-27;7827!art5_cpt_inc2))))))-->
+              <Artigo xlink:href="art5" id="art3_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art3_cpt_alt1_art5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art3_cpt_alt1_art5_cpt_omi1"/><Inciso xlink:href="art5_cpt_inc2" id="art3_cpt_alt1_art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Nordeste, a região abrangida pelos Estados do Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe e Bahia, além das partes dos Estados de Minas Gerais, Espírito Santo e Rio de Janeiro incluídas na área de atuação da Sudene;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art3_cpt_alt1_art5_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

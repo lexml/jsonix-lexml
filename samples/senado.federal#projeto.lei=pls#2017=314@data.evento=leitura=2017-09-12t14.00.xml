@@ -1,0 +1,349 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;314@data.evento;leitura;2017-09-12t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 314 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil e sobre instrumentos para condução da política monetária, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, sobre a carteira de títulos mantida pelo Banco Central do Brasil para fins de condução da política monetária e sobre o acolhimento de depósitos voluntários pelo Banco Central do Brasil.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O resultado positivo apurado no balanço do Banco Central do Brasil, após a constituição de reservas, será considerado obrigação da referida entidade com a União, devendo ser objeto de pagamento até o décimo dia útil subsequente ao da aprovação do balanço.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Durante o período compreendido entre a data da apuração do balanço e a data do efetivo pagamento, a obrigação de que trata este artigo terá remuneração idêntica àquela aplicada às disponibilidades de caixa da União depositadas no Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os valores pagos à União na forma do caput deste artigo serão destinados exclusivamente ao pagamento da Dívida Pública Mobiliária Federal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A parcela do resultado positivo apurado no balanço do Banco Central do Brasil que corresponder ao resultado financeiro positivo de suas operações com reservas cambiais e das operações com derivativos cambiais por ele realizadas no mercado interno, observado o limite do valor integral do resultado positivo, será destinada à constituição de reserva de resultado.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para os efeitos deste artigo, considera-se:</p>
+            <Inciso id="art3_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>resultado financeiro das operações do Banco Central do Brasil com reservas cambiais: o produto entre o estoque de reservas cambiais, apurado em reais, e a diferença entre sua taxa média ponderada de rentabilidade, em reais, e a taxa média ponderada do passivo do Banco Central do Brasil, nele incluído seu patrimônio líquido; e</p>
+            
+          </Inciso><Inciso id="art3_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>resultado financeiro das operações com derivativos cambiais realizadas pelo Banco Central do Brasil no mercado interno: a soma dos valores referentes aos ajustes periódicos dos contratos de derivativos cambiais firmados pelo Banco Central do Brasil no mercado interno, apurados por câmara ou prestador de serviços de compensação, liquidação e custódia.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Ato normativo conjunto do Banco Central do Brasil e do Ministério da Fazenda regulamentará o procedimento de cálculo das parcelas de que trata o § 1º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A reserva de resultado de que trata este artigo somente poderá ser utilizada para a finalidade prevista no art. 4º, inciso I, ressalvada a hipótese prevista no art. 5º.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O resultado negativo apurado no balanço do Banco Central do Brasil será coberto, sucessivamente, mediante:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>reversão da reserva de resultado constituída na forma do art. 3º;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>redução do patrimônio institucional do Banco Central do Brasil.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A cobertura do resultado negativo na forma do caput ocorrerá na data do balanço do Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A cobertura do resultado negativo na forma do inciso II do caput deste artigo somente ocorrerá até que o patrimônio líquido do Banco Central do Brasil atinja o limite mínimo de 1,5% (um inteiro e cinco décimos por cento) do ativo total existente na data do balanço.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Caso o procedimento previsto no caput deste artigo não seja suficiente para a cobertura do resultado negativo, o saldo remanescente será considerado obrigação da União com o Banco Central do Brasil, devendo ser objeto de pagamento até o décimo dia útil do exercício subsequente ao da aprovação do balanço.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Durante o período compreendido entre a data da apuração do balanço e a data do efetivo pagamento, a obrigação da União de que trata o § 3º deste artigo terá remuneração idêntica àquela aplicada às disponibilidades de caixa da União depositadas no Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Para pagamento da obrigação a que se refere o § 3º deste artigo, poderão ser emitidos títulos da Dívida Pública Mobiliária Federal interna (DPMFi) adequados aos fins de política monetária, com características definidas pelo Ministro de Estado da Fazenda.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Mediante prévia autorização do Conselho Monetário Nacional, os recursos existentes na reserva de resultado de que trata o art. 3º, observado o limite estabelecido no art. 4º, § 2º, poderão ser destinados ao pagamento da DPMFi, quando severas restrições nas condições de liquidez afetarem de forma significativa o seu refinanciamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Sempre que, no vigésimo dia do mês, o patrimônio líquido do Banco Central do Brasil atingir o valor igual ou inferior a 0,25% (vinte e cinco centésimos por cento) do ativo total, a União, até o último dia útil do mesmo mês, efetuará emissão de títulos adequados aos fins de política monetária em favor da referida Autarquia, no montante necessário para que seu patrimônio líquido atinja o valor de 0,5% (cinco décimos por cento) do ativo total.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A emissão de títulos de que trata este artigo dar-se-á de forma direta em favor do Banco Central do Brasil, sem contrapartida financeira.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Sempre que o valor da carteira de títulos da DPMFi livres para negociação, em poder do Banco Central do Brasil, atingir percentual igual ou inferior a 4% (quatro por cento) de sua carteira total de títulos, a União efetuará emissão de títulos adequados aos fins de política monetária em favor da referida Autarquia, no montante necessário para que sua carteira de títulos livres para negociação atinja o valor de 5% (cinco por cento) da carteira total.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Consideram-se livres para negociação os títulos da DPMFi existentes na carteira do Banco Central do Brasil que não sejam objeto de obrigação de recompra decorrente de operação compromissada, nem estejam vinculados a margem de garantia em operação com derivativos ou a operação de empréstimo de títulos.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Banco Central do Brasil monitorará permanentemente os fatores condicionantes da base monetária, comunicando ao Ministério da Fazenda sempre que suas projeções indicarem que, nos 10 (dez) dias úteis seguintes, a carteira livre de títulos atingirá o percentual indicado no caput, devendo a União, em até 5 (cinco) dias úteis a partir da comunicação, efetuar a recomposição da carteira nos termos do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A comunicação ao Ministério da Fazenda de que trata o § 2º deste artigo será acompanhada de memória de cálculo que demonstre as projeções do Banco Central do Brasil para a carteira livre de títulos e o quantitativo necessário para que seja recomposta até o percentual indicado no caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Sem prejuízo do disposto neste artigo, o Banco Central do Brasil e o Ministério da Fazenda avaliarão a necessidade de aporte emergencial de títulos, sempre que se verificar a possibilidade de comprometimento futuro da carteira de títulos disponíveis para a execução da política monetária.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As emissões de títulos de que trata este artigo dar-se-ão de forma direta em favor do Banco Central do Brasil, sem contrapartida financeira.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Mediante prévia autorização do Conselho Monetário Nacional, a União poderá efetuar o resgate, sem desembolso financeiro a favor do Banco Central do Brasil, e correspondente cancelamento de títulos livres para negociação do Banco Central do Brasil, com vistas a reduzir a DPMFi.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O resgate e o cancelamento de que trata este artigo será limitado ao saldo do patrimônio institucional do Banco Central do Brasil resultante da emissão direta de títulos da DPMFi sem contrapartida financeira, observando-se, ainda, o limite mínimo estabelecido no art. 4º, § 2º.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Ministério da Fazenda efetuará o resgate e o cancelamento de títulos, certificando a efetiva redução na DPMFi, em até 10 (dez) dias úteis após a autorização do Conselho Monetário Nacional a que se refere este artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Fica o Banco Central do Brasil autorizado a acolher depósitos voluntários à vista ou a prazo das instituições financeiras.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Banco Central do Brasil regulamentará o disposto neste artigo, podendo dispor, inclusive, sobre remuneração, condições, prazos e formas de negociação de depósitos voluntários.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:lei:2008-11-05;11803-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2008-11-05;11803">Lei nº 11.803, de 5 de novembro de 2008</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2008-11-05;11803" id="art10_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2008-11-05;11803 -> MatchByBase(urn:lex:br:federal:lei:2008-11-05;11803,2008,Some((11,5)),Map(art5 -> PrefixMatch(URN(2008,Some((11,5)),,urn:lex:br:federal:lei:2008-11-05;11803),art5), art5_cpt -> PrefixMatch(URN(2008,Some((11,5)),,urn:lex:br:federal:lei:2008-11-05;11803),art5_cpt), art10 -> PrefixMatch(URN(2008,Some((11,5)),,urn:lex:br:federal:lei:2008-11-05;11803),art10), art10_cpt -> PrefixMatch(URN(2008,Some((11,5)),,urn:lex:br:federal:lei:2008-11-05;11803),art10_cpt)))))-->
+              <Artigo xlink:href="art5" id="art10_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art10_cpt_alt1_art5_cpt" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2001;2179-36!art9_cpt_inc2-->
+            
+            
+            <p>Para pagamento dos valores a que se refere o <span xlink:href="urn:lex:br:federal:medida.provisoria:2001;2179-36!art9_cpt_inc2">art. 9º, inciso II, da Medida Provisória nº 2.179-36, de 2001</span>, poderão ser emitidos títulos da Dívida Pública Mobiliária Federal interna adequados aos fins de política monetária, com características definidas pelo Ministro de Estado da Fazenda.</p>
+            
+          </Caput><Omissis id="art10_cpt_alt1_art5_omi1"/>
+          </Artigo><Artigo xlink:href="art10" id="art10_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art10_cpt_alt1_art10_cpt">
+            
+            
+            
+            <p>Ato normativo conjunto do Banco Central do Brasil e do Ministério da Fazenda regulamentará os procedimentos necessários para a execução do disposto nos arts. 2º e 5º desta Lei.</p>
+            
+          </Caput><Omissis id="art10_cpt_alt1_art10_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Ficam revogados:</p>
+            <Inciso id="art12_cpt_inc1">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2001-08-24;2179-36!art2-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-08-24;2179-36!art2">art. 2º da Medida Provisória nº 2.179-36, de 24 de agosto de 2001</span>;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2008;11803!art3--><!--Link: urn:lex:br:federal:lei:2008;11803!art4--><!--Link: urn:lex:br:federal:lei:2008;11803!art6-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>os <span xlink:href="urn:lex:br:federal:lei:2008;11803!art3">artigos 3º</span>, <span xlink:href="urn:lex:br:federal:lei:2008;11803!art4">4º</span> e <span xlink:href="urn:lex:br:federal:lei:2008;11803!art6">6º da Lei nº 11.803, de 2008</span>;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            <!--Link: urn:lex:br:federal:lei:1995-06-29;9069!art3--><!--Link: urn:lex:br:federal:lei:1995-06-29;9069!art4--><!--Link: urn:lex:br:federal:lei:1995-06-29;9069!art6--><!--Link: urn:lex:br:federal:lei:1995-06-29;9069!art7-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>os <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069!art3">artigos 3º</span>, <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069!art4">4º</span>, <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069!art6">6º</span> e <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069!art7">7º da Lei nº 9.069, de 29 de junho de 1995</span>.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art12_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplica-se o disposto nos arts. 2º a 4º desta lei às operações com reservas cambiais e às operações com derivativos cambiais no mercado interno realizadas pelo Banco Central do Brasil a partir de 1º de janeiro do ano posterior à entrada em vigência desta lei.</p>
+            
+          </Paragrafo>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,70 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;455@data.evento;leitura;2017-11-21t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 455 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre as atribuições do Ministério Público junto ao Tribunal de Contas da União no que diz respeito à realização de auditorias e inspeções para a instrução de processos de competência do Tribunal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art71_cpt_inc4-->
+            
+            
+            <p>Esta Lei dispõe sobre as atribuições do Ministério Público junto ao Tribunal de Contas da União na realização de auditorias e inspeções para a instrução de processos de controle externo de competência do Tribunal, em auxílio ao Congresso Nacional, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art71_cpt_inc4">inciso IV do art. 71 da Constituição Federal</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art71_cpt_inc4-->
+            
+            
+            <p>Para fins do disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art71_cpt_inc4">inciso IV do art. 71 da Constituição Federal</span>, o Ministério Público junto ao Tribunal de Contas da União, sempre que necessitar, determinará à Secretaria do Tribunal a realização de auditorias ou inspeções, a fim de garantir a adequada análise dos processos de competência do Tribunal.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Todas as recomendações e análises do Ministério Público junto ao Tribunal de Contas da União, obrigatoriamente, constarão dos processos, para todos os efeitos legais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Presidente do Tribunal de Contas determinará anualmente o número de ações de fiscalização a serem realizadas pelo Ministério Público junto ao Tribunal de Contas da União, não podendo ser inferior a 4 (quatro).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

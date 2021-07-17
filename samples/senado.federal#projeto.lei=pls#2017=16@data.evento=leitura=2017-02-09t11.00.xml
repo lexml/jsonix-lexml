@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;16@data.evento;leitura;2017-02-09t11.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 16 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1983-06-20;7102!art22">art. 22 da Lei no 7.102, de 20 de junho de 1983</span>, para permitir que o vigilante, quando em serviço, possa portar pistola calibre .40 polegada e, quando empenhado em transporte de valores, fuzil 5,56mm, desde que tenha sido aprovado em treinamento de manuseio esses armamentos, assim como prever que qualquer armamento utilizado por vigilante seja de fabricação nacional.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1983-06-20;7102!art22-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1983-06-20;7102!art22">art. 22 da Lei no 7.102, de 20 de junho de 1983</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1983-06-20;7102" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1983-06-20;7102 -> MatchByBase(urn:lex:br:federal:lei:1983-06-20;7102,1983,Some((6,20)),Map(art22 -> ExactMatch(URN(1983,Some((6,20)),art22,urn:lex:br:federal:lei:1983-06-20;7102!art22)), art22_cpt -> PrefixMatch(URN(1983,Some((6,20)),art22,urn:lex:br:federal:lei:1983-06-20;7102!art22),art22_cpt), art22_par1 -> PrefixMatch(URN(1983,Some((6,20)),art22,urn:lex:br:federal:lei:1983-06-20;7102!art22),art22_par1)))))-->
+              <Artigo xlink:href="art22" id="art1_cpt_alt1_art22" abreAspas="s">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput xlink:href="art22_cpt" id="art1_cpt_alt1_art22_cpt">
+            
+            
+            
+            <p>Será permitido ao vigilante, quando em serviço, portar pistola calibre .40 polegada, desde que tenha sido aprovado em treinamento para manuseá-la, ou revólver calibre 32 ou 38, todos de fabricação nacional, bem como utilizar cassetete de madeira ou de borracha.</p>
+            
+          </Caput><Paragrafo xlink:href="art22_par1u" id="art1_cpt_alt1_art22_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O vigilante, quando empenhado em transporte de valores, poderá, também, utilizar fuzil 5,56 mm, desde que tenha sido aprovado em treinamento para manuseá-lo, ou espingarda de uso permitido, de calibre 12, 16 ou 20, todos de fabricação nacional.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

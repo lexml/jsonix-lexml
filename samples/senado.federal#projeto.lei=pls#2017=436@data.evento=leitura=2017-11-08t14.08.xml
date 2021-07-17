@@ -1,0 +1,154 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;436@data.evento;leitura;2017-11-08t14.08"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 436 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre os registros imobiliários com origem em títulos de alienação ou de concessão de terras devolutas expedidos pelo Estado do Tocantins, referentes a imóveis rurais situados na faixa de 100 quilômetros de largura em cada lado do eixo das rodovias federais e dá outras providencias.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>São ratificados pelos efeitos desta Lei os registros imobiliários com origem em títulos de alienação ou de concessão de terras devolutas expedidos pelo Estado do Tocantins, por meio do Instituto de Terras do Tocantins (ITERTINS), referentes a imóveis rurais situados na faixa de 100 quilômetros de largura em cada lado do eixo das rodovias federais que cortam o território tocantinense, incluindo os seus desmembramentos e remembramentos, devidamente inscritos no Registro de Imóveis até a data de publicação desta Lei.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            <!--Link: urn:lex:br:federal:decreto.lei:1971-04-01;1164-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os registros imobiliários passíveis de ratificação referem-se às áreas anteriormente arrecadadas e matriculadas pela União, por força do <span xlink:href="urn:lex:br:federal:decreto.lei:1971-04-01;1164">Decreto-Lei nº 1.164, de 1º de abril de 1971</span>, declaradas como indispensáveis à segurança e ao desenvolvimento nacional, localizadas na faixa de 100 quilômetros de largura de cada lado das rodovias federais situadas no território do Estado do Tocantins.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não impede a ratificação do registro imobiliário de imóvel cujo domínio esteja sendo questionado ou reivindicado na esfera administrativa ou judicial por órgão ou entidade da administração federal direta e indireta, exceto quando seja objeto de ação de desapropriação por interesse social para fins de reforma agrária ajuizada até a data de publicação desta Lei, pela União ou INCRA.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese de haver sobreposição entre a área correspondente ao registro ratificado e a área correspondente a título de domínio de outro particular, a ratificação não produzirá efeitos na definição de qual direito prevalecerá.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os registros imobiliários de que tratam o art. 1º desta Lei, com área superior a oitenta módulos fiscais, serão ratificados desde que os interessados obtenham no órgão federal responsável:</p>
+            <Inciso id="art2_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:1973-12-31;6015!art176_par3--><!--Link: urn:lex:br:federal:lei:1973-12-31;6015!art176_par5-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>a certificação do georreferenciamento do imóvel, nos termos dos <span xlink:href="urn:lex:br:federal:lei:1973-12-31;6015!art176_par3">§3º</span> e <span xlink:href="urn:lex:br:federal:lei:1973-12-31;6015!art176_par5">§5º do art. 176 da Lei nº 6.015, de 31 de dezembro de 1973</span>; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:1972-12-12;5868-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>a atualização da inscrição do imóvel no Sistema Nacional de Cadastro Rural, instituído pela <span xlink:href="urn:lex:br:federal:lei:1972-12-12;5868">Lei nº 5.868, de 12 de dezembro de 1972</span>.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os interessados em obter a ratificação de que trata o caput deste artigo deverão requerer a certificação e a atualização de que tratam os incisos I e II no prazo de quatro anos a partir da publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O requerimento de que trata o §1o será apreciado pelo órgão federal responsável em até dois anos do pedido, salvo se houver diligências propostas pela autarquia agrária referentes à certificação do georreferenciamento do imóvel, hipótese na qual o período utilizado pelo proprietário para seu atendimento deverá ser debitado do prazo total de análise.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não se admitirá a ratificação pelo decurso do prazo de que trata o §2º.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Decorrido o prazo constante do §1º sem que o interessado tenha requerido as providências dispostas nos incisos I e II do caput, ou na hipótese de a ratificação não ser possível, o órgão federal responsável deverá requerer o registro do imóvel em nome da União ao Cartório de Registro de Imóveis.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par5">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art188_par1-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A ratificação dos registros imobiliários referentes a imóveis com área superior a dois mil e quinhentos hectares ficará condicionada à aprovação do Congresso Nacional, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art188_par1">§1º do art. 188 da Constituição Federal</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O encaminhamento ao Congresso Nacional para o fim disposto no §5º dar-se-á nos termos do regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A ratificação prevista nos artigos 1º e 2º alcançará os registros imobiliários oriundos de alienações e concessões de terras públicas ou devolutas federais, originários de títulos expedidos pelo Estado do Tocantins há mais de 10 (dez) anos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Caso a desapropriação por interesse social para fins de reforma agrária recaia sobre imóvel rural, inscrito no Registro Geral de Imóveis em nome de particular, que não tenha sido destacado, validamente, do domínio público por título formal ou por força de legislação específica, o Estado no qual esteja situada a área será citado para integrar a ação de desapropriação.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nas ações judiciais em andamento, o órgão federal responsável requererá a citação do Estado.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Em qualquer hipótese, feita a citação, se o Estado reivindicar o domínio do imóvel, o valor depositado ficará retido até decisão final sobre a propriedade da área.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Nas situações de que trata este artigo, caso venha a ser reconhecido o domínio do Estado sobre a área, fica a União previamente autorizada a desapropriar o imóvel rural de domínio do Estado, prosseguindo a ação de desapropriação em relação a este.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após quarenta e cinco dias de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

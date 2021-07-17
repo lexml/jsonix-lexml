@@ -1,0 +1,3052 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;129"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 129 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o processo administrativo sancionador na esfera de atuação do Banco Central do Brasil e da Comissão de Valores Mobiliários; altera as <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385">Leis nºs 6.385, de 7 de dezembro de 1976</span>, <span xlink:href="urn:lex:br:federal:lei:1962-09-03;4131">4.131, de 3 de setembro de 1962</span>, <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829">4.829, de 5 de novembro de 1965</span>, <span xlink:href="urn:lex:br:federal:lei:1974-03-13;6024">6.024, de 13 de março de 1974</span>, <span xlink:href="urn:lex:br:federal:lei:1986-06-16;7492">7.492, de 16 de junho de 1986</span>, <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069">9.069, de 29 de junho de 1995</span>, <span xlink:href="urn:lex:br:federal:lei:1998-03-03;9613">9.613, de 3 de março de 1998</span>, <span xlink:href="urn:lex:br:federal:lei:2001-03-27;10214">10.214, de 27 de março de 2001</span>, <span xlink:href="urn:lex:br:federal:lei:2006-11-28;11371">11.371, de 28 de novembro de 2006</span>, <span xlink:href="urn:lex:br:federal:lei:2008-10-08;11795">11.795, de 8 de outubro de 2008</span>, <span xlink:href="urn:lex:br:federal:lei:2013-05-15;12810">12.810, de 15 de maio de 2013</span>, <span xlink:href="urn:lex:br:federal:lei:2013-10-09;12865">12.865, de 9 de outubro de 2013</span>, e <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595">4.595, de 31 de dezembro de 1964</span>, o <span xlink:href="urn:lex:br:federal:decreto:1933-10-19;23258">Decreto nº 23.258, de 19 de outubro de 1933</span>, o <span xlink:href="urn:lex:br:federal:decreto.lei:1946-02-27;9025">Decreto-Lei nº 9.025, de 27 de fevereiro de 1946</span>, e a <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-09-04;2224">Medida Provisória nº 2.224, de 4 de setembro de 2001</span>; revoga o <span xlink:href="urn:lex:br:federal:decreto.lei:1969-02-03;448">Decreto-Lei nº 448, de 3 de fevereiro de 1969</span>, e dispositivos das <span xlink:href="urn:lex:br:federal:lei:1997-03-14;9447">Leis nºs 9.447, de 14 de março de 1997</span>, <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380">4.380, de 21 de agosto de 1964</span>, <span xlink:href="urn:lex:br:federal:lei:1965-07-14;4728">4.728, de 14 de julho de 1965</span>, e <span xlink:href="urn:lex:br:federal:lei:1999-11-23;9873">9.873, de 23 de novembro de 1999</span>; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES PRELIMINARES</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre o processo administrativo sancionador nas esferas de atuação do Banco Central do Brasil e da Comissão de Valores Mobiliários.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DO PROCESSO ADMINISTRATIVO SANCIONADOR NA ESFERA DE ATUAÇÃO DO BANCO CENTRAL DO BRASIL</NomeAgrupador>
+            <Secao id="cap2_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Disposições Preliminares</NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Este Capítulo dispõe sobre infrações, penalidades, medidas coercitivas e meios alternativos de solução de controvérsias aplicáveis às instituições financeiras, às demais instituições supervisionadas pelo Banco Central do Brasil e aos integrantes do Sistema de Pagamentos Brasileiro, e estabelece o rito processual a ser observado nos processos administrativos sancionadores no âmbito do Banco Central do Brasil.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O disposto neste Capítulo aplica-se também às pessoas físicas ou jurídicas que:</p>
+            <Inciso id="art2_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exerçam, sem a devida autorização, atividade sujeita à supervisão ou à vigilância do Banco Central do Brasil;</p>
+            
+          </Inciso><Inciso id="art2_par1_inc2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2009-04-17;130!art12_cpt_inc5-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>prestem serviço de auditoria independente para as instituições de que trata o caput deste artigo ou de auditoria cooperativa de que trata o <span xlink:href="urn:lex:br:federal:lei.complementar:2009-04-17;130!art12_cpt_inc5">inciso V do caput do art. 12 da Lei Complementar nº 130, de 17 de abril de 2009</span>; e</p>
+            
+          </Inciso><Inciso id="art2_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>atuem como administradores, membros da diretoria, do conselho de administração, do conselho fiscal, do comitê de auditoria e de outros órgãos previstos no estatuto ou no contrato social de instituição de que trata o caput deste artigo.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto neste Capítulo aplica-se também aos administradores e aos responsáveis técnicos das pessoas jurídicas que prestem os serviços mencionados no inciso II do § 1º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Das Infrações</NomeAgrupador>
+            <Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Constitui infração punível com base neste Capítulo:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>realizar operações no Sistema Financeiro Nacional, no Sistema de Consórcios e no Sistema de Pagamentos Brasileiro em desacordo com princípios previstos em normas legais e regulamentares que regem a atividade autorizada pelo Banco Central do Brasil;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>realizar operações ou atividades vedadas, não autorizadas ou em desacordo com a autorização concedida pelo Banco Central do Brasil;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>opor embaraço à fiscalização do Banco Central do Brasil;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>deixar de fornecer ao Banco Central do Brasil documentos, dados ou informações cuja remessa seja imposta por normas legais ou regulamentares;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>fornecer ao Banco Central do Brasil documentos, dados ou informações incorretos ou em desacordo com os prazos e as condições estabelecidos em normas legais ou regulamentares;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>atuar como administrador ou membro de órgão previsto no estatuto ou no contrato social das pessoas mencionadas no caput do art. 2º desta Lei sem a prévia aprovação pelo Banco Central do Brasil;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105-->
+            
+            <Rotulo>VII –</Rotulo>
+            <p>deixar de adotar controles internos destinados a conservar o sigilo de que trata a <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105">Lei Complementar nº 105, de 10 de janeiro de 2001</span>;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>negociar títulos, instrumentos financeiros e outros ativos, ou realizar operações de crédito ou de arrendamento mercantil, em preços destoantes dos praticados pelo mercado, em prejuízo próprio ou de terceiros;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>simular ou estruturar operações sem fundamentação econômica, com o objetivo de propiciar ou obter, para si ou para terceiros, vantagem indevida;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>desviar recursos de pessoa mencionada no caput do art. 2º desta Lei ou de terceiros;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>inserir ou manter registros ou informações falsos ou incorretos em demonstrações contábeis, financeiras ou em relatórios de auditoria de pessoa mencionada no caput do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>distribuir dividendos, pagar juros sobre capital próprio ou, de qualquer outra forma, remunerar os acionistas, os administradores ou os membros de órgãos previstos no estatuto ou no contrato social de pessoa mencionada no caput do art. 2º desta Lei com base em resultados apurados a partir de demonstrações contábeis ou financeiras falsas ou incorretas;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>deixar de atuar com diligência e prudência na condução dos interesses de pessoa mencionada no caput do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>deixar de segregar as atividades de pessoa mencionada no caput do art. 2º desta Lei das atividades de outras sociedades, controladas e coligadas, de modo a gerar ou contribuir para gerar confusão patrimonial;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>deixar de fiscalizar os atos dos órgãos de administração de pessoa mencionada no caput do art. 2º desta Lei, quando obrigado a isso;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>descumprir determinações do Banco Central do Brasil, e seus respectivos prazos, adotadas com base em sua competência; e</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>descumprir normas legais e regulamentares do Sistema Financeiro Nacional, do Sistema de Consórcios e do Sistema de Pagamentos Brasileiro, cujo cumprimento caiba ao Banco Central do Brasil fiscalizar, inclusive as relativas a:</p>
+            <Alinea id="art3_cpt_inc17_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>contabilidade e auditoria;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>elaboração, divulgação e publicação de demonstrações contábeis e financeiras;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>auditoria independente;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>controles internos e gerenciamento de riscos;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>governança corporativa;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>abertura ou movimentação de contas de depósito e de pagamento;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>limites operacionais;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali8">
+            
+            
+            <Rotulo>h)</Rotulo>
+            <p>meio circulante e operações com numerário;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali9">
+            
+            
+            <Rotulo>i)</Rotulo>
+            <p>guarda de documentos e informações exigidos pelo Banco Central do Brasil;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali10">
+            
+            
+            <Rotulo>j)</Rotulo>
+            <p>capital, fundos de reserva, patrimônios especiais ou de afetação, encaixe, recolhimentos compulsórios e direcionamentos obrigatórios de recursos, operações ou serviços;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali11">
+            
+            
+            <Rotulo>k)</Rotulo>
+            <p>ouvidoria;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali12">
+            
+            
+            <Rotulo>l)</Rotulo>
+            <p>concessão, renovação, cessão e classificação de operações de crédito e de arrendamento mercantil e constituição de provisão para perdas nas referidas operações;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali13">
+            
+            
+            <Rotulo>m)</Rotulo>
+            <p>administração de recursos de terceiros e custódia de títulos e outros ativos e instrumentos financeiros;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali14">
+            
+            
+            <Rotulo>n)</Rotulo>
+            <p>atividade de depósito centralizado e registro;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali15">
+            
+            
+            <Rotulo>o)</Rotulo>
+            <p>aplicação de recursos mantidos em contas de pagamento;</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali16">
+            
+            
+            <Rotulo>p)</Rotulo>
+            <p>utilização de instrumentos de pagamento; e</p>
+            
+          </Alinea><Alinea id="art3_cpt_inc17_ali17">
+            
+            
+            <Rotulo>q)</Rotulo>
+            <p>relacionamento entre as pessoas mencionadas no caput do art. 2º desta Lei e seus clientes e usuários de serviços e de produtos financeiros.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Constitui embaraço à fiscalização, para os fins deste Capítulo, negar ou dificultar o acesso a sistemas de dados e de informação e não exibir ou não fornecer documentos, papéis e livros de escrituração, inclusive em meio eletrônico, nos prazos, nas formas e nas condições estabelecidos pelo Banco Central do Brasil, no exercício da atividade de fiscalização que lhe é atribuída por lei.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedado às instituições financeiras:</p>
+            <Inciso id="art3_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>emitir debêntures e partes beneficiárias; e</p>
+            
+          </Inciso><Inciso id="art3_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>adquirir bens imóveis não destinados ao próprio uso, exceto os recebidos em liquidação de empréstimos de difícil ou duvidosa solução ou quando expressamente autorizadas pelo Banco Central do Brasil, observada a norma editada pelo Conselho Monetário Nacional.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Constituem infrações graves aquelas infrações que produzam ou possam produzir quaisquer dos seguintes efeitos:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>causar dano à liquidez, à solvência ou à higidez ou assumir risco incompatível com a estrutura patrimonial de pessoa mencionada no caput do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>contribuir para gerar indisciplina no mercado financeiro ou para afetar a estabilidade ou o funcionamento regular do Sistema Financeiro Nacional, do Sistema de Consórcios, do Sistema de Pagamentos Brasileiro ou do mercado de capitais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dificultar o conhecimento da real situação patrimonial ou financeira de pessoa mencionada no caput do art. 2º desta Lei; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>afetar severamente a finalidade e a continuidade das atividades ou das operações no âmbito do Sistema Financeiro Nacional, do Sistema de Consórcios ou do Sistema de Pagamentos Brasileiro.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Das Penalidades</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>São aplicáveis as seguintes penalidades às pessoas mencionadas no art. 2º desta Lei, de forma isolada ou cumulativa:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>admoestação pública;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>multa;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>proibição de prestar determinados serviços para as instituições mencionadas no caput do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>proibição de realizar determinadas atividades ou modalidades de operação;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>inabilitação para atuar como administrador e para exercer cargo em órgão previsto em estatuto ou em contrato social de pessoa mencionada no caput do art. 2º desta Lei; e</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>cassação de autorização para funcionamento.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A penalidade de admoestação pública consistirá na publicação de texto especificado na decisão condenatória, na forma e nas condições estabelecidas em regulamentação.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O texto mencionado no caput deste artigo conterá, no mínimo, o nome do apenado, a conduta ilícita praticada e a sanção imposta.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A notícia sobre a imposição da pena de admoestação e o texto especificado na decisão condenatória serão publicados no sítio eletrônico do órgão ou autarquia que tenha aplicado a penalidade, sem prejuízo de outras formas de publicação previstas em regulamentação.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A publicação a que se refere o caput deste artigo será realizada às expensas do infrator, o qual ficará sujeito à multa prevista no art. 18 desta Lei, em caso de descumprimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A penalidade de multa não excederá o maior destes valores:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>0,5% (cinco décimos por cento) da receita de serviços e de produtos financeiros apurada no ano anterior ao da consumação da infração, ou, no caso de ilícito continuado, da consumação da última infração; ou</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>R$ 2.000.000.000,00 (dois bilhões de reais).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A receita de serviços e de produtos financeiros mencionada no inciso I do caput deste artigo será calculada mediante a agregação de:</p>
+            <Inciso id="art7_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>rendas de operações de crédito;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>rendas de arrendamento mercantil, que serão abatidas dos lucros na alienação de bens arrendados, da depreciação de bens arrendados e dos ajustes por insuficiência ou superveniência de depreciação de bens arrendados;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>rendas de operações de câmbio, que serão abatidas das despesas de operações de câmbio;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>rendas com títulos e valores mobiliários e instrumentos financeiros derivativos, que serão abatidas dos lucros com títulos de renda fixa e de renda variável e das rendas com operações com derivativos;</p>
+            
+          </Inciso><Inciso id="art7_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>rendas de prestação de serviços; e</p>
+            
+          </Inciso><Inciso id="art7_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>outras receitas operacionais, que serão abatidas dos lucros em operações de venda ou de transferência de ativos financeiros, da recuperação de créditos baixados como prejuízo, da recuperação de encargos e despesas, da reversão de provisões operacionais e dos ajustes positivos ao valor de mercado sobre títulos e valores mobiliários e instrumentos financeiros derivativos.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O órgão ou autarquia competente poderá editar norma complementar que identifique as contas contábeis que comporão a receita de serviços e de produtos financeiros mencionada no inciso I do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As multas aplicadas serão pagas mediante recolhimento ao Banco Central do Brasil, no prazo de trinta dias, contado da data da intimação para pagamento.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os créditos oriundos de condenação do apenado ao pagamento de indenização em ação civil pública, movida em benefício de clientes e demais credores do apenado, e os do Fundo Garantidor de Crédito (FGC) ou de outros mecanismos de ressarcimento aprovados pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários, se houver, preferirão aos créditos oriundos da aplicação da penalidade de multa.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Em caso de falência, liquidação extrajudicial ou qualquer outra forma de concurso de credores do apenado, os créditos do Banco Central do Brasil oriundos da aplicação da penalidade de multa serão subordinados.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A imposição de multa em valor superior a R$ 50.000.000,00 (cinquenta milhões de reais) será automaticamente submetida a reexame por órgão colegiado, previsto no seu regimento interno, do qual faça parte ao menos um diretor do Banco Central do Brasil, e somente após o reexame será considerada efetiva e notificada às partes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>A penalidade de inabilitação implicará o impedimento de atuar em cargos cujo exercício dependa de autorização do Banco Central do Brasil.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p> O Banco Central do Brasil notificará, no prazo de até cinco dias, a instituição mencionada no caput do art. 2º desta Lei em que o inabilitado atue como administrador ou como membro de órgão previsto no estatuto ou no contrato social, para que cumpra o disposto no § 3º deste artigo, em razão da aplicação da penalidade de inabilitação.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O prazo de cumprimento da penalidade de inabilitação começará a contar da data em que o Banco Central do Brasil receber do inabilitado ou de cada instituição mencionada no caput do art. 2º desta Lei em que ele atuou como administrador ou exerceu cargo em órgão previsto no seu estatuto ou no seu contrato social comunicação de que houve o efetivo afastamento do cargo para cujo exercício fora autorizado, instruída com os documentos comprobatórios do fato.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A instituição mencionada no caput do art. 2º desta Lei, em que o apenado atue como administrador ou exerça cargo em órgão previsto no seu estatuto ou no seu contrato social deverá afastá-lo do cargo no prazo de sessenta dias, contado da data do recebimento da notificação de que trata o § 1º deste artigo e deverá comunicar o fato ao Banco Central do Brasil no prazo de cinco dias, contado da data do efetivo afastamento.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Decorridos os prazos mencionados no § 3º deste artigo sem que tenha sido recebida a comunicação a que se refere o § 2º deste artigo, os apenados e as instituições omissas estarão sujeitos à multa prevista no art. 18 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O prazo de cumprimento da pena de inabilitação será automaticamente suspenso sempre que forem desrespeitados os termos da decisão que a aplicou, sem prejuízo da imposição das penalidades cabíveis.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>As penalidades previstas nos incisos III, IV, V e VI do caput do art. 5º desta Lei serão restritas às hipóteses em que se verificar a ocorrência de infração grave.</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O prazo das penalidades previstas nos incisos III, IV e V do caput do art. 5º desta Lei não excederá o período de vinte anos.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Aplicada a penalidade de cassação de autorização para funcionamento, a instituição apenada permanecerá sob supervisão do Banco Central do Brasil enquanto mantiver em seu patrimônio operações passivas privativas de instituição mencionada no caput do art. 2º desta Lei, e aquela autarquia poderá determinar a adoção das medidas que entender necessárias para a retirada da instituição do Sistema Financeiro Nacional, do Sistema de Consórcios ou do Sistema de Pagamentos Brasileiro, cujo descumprimento ensejará a cominação da multa de que trata o art. 18 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Na aplicação das penalidades estabelecidas neste Capítulo, serão considerados, na medida em que possam ser determinados:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a gravidade e a duração da infração;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o grau de lesão, ou o perigo de lesão, ao Sistema Financeiro Nacional, ao Sistema de Consórcios, ao Sistema de Pagamentos Brasileiro, à instituição ou a terceiros;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a vantagem auferida ou pretendida pelo infrator;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a capacidade econômica do infrator;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o valor da operação;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a reincidência; e</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a colaboração do infrator com o Banco Central do Brasil para a apuração da infração.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Do Termo de Compromisso</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil, em juízo de conveniência e oportunidade, devidamente fundamentado, com vistas a atender ao interesse público, poderá deixar de instaurar ou suspender, em qualquer fase que preceda a tomada da decisão de primeira instância, o processo administrativo destinado à apuração de infração prevista neste Capítulo ou nas demais normas legais e regulamentares cujo cumprimento lhe caiba fiscalizar se o investigado assinar termo de compromisso no qual se obrigue a, cumulativamente:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cessar a prática sob investigação ou os seus efeitos lesivos;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>corrigir as irregularidades apontadas e indenizar os prejuízos; e</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cumprir as demais condições que forem acordadas no caso concreto, com obrigatório recolhimento de contribuição pecuniária, observado o disposto no art. 10 desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A apresentação de proposta de termo de compromisso não suspende o andamento do processo administrativo.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de processo administrativo já instaurado, a suspensão dar-se-á somente em relação ao acusado que firmou o termo de compromisso.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A decisão do Banco Central do Brasil sobre a assinatura do termo de compromisso, nos termos deste artigo, será tomada por órgão colegiado previsto em seu regimento interno.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Banco Central não firmará termo de compromisso nas hipóteses de que trata o art. 4º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O termo de compromisso poderá prever cláusula penal para a hipótese de total ou parcial inadimplemento das obrigações compromissadas, para a hipótese de mora do devedor ou para a garantia especial de determinada cláusula.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>O termo de compromisso será publicado, de forma clara e suficiente para compreensão de suas cláusulas, no sítio eletrônico do Banco Central do Brasil, no prazo de cinco dias, contado de sua assinatura.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A proposta de termo de compromisso será sigilosa.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art9-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto nesta Seção não prejudica o dever legal do Banco Central do Brasil de realizar comunicação ao Ministério Público e aos demais órgãos públicos competentes, nos termos do <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art9">art. 9º da Lei Complementar nº 105, de 10 de janeiro de 2001</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Ministério Público, no uso de suas atribuições legais, poderá requisitar informações ao Banco Central do Brasil ou o acesso a suas bases de dados sobre os termos de compromisso celebrados pela autarquia.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>O termo de compromisso constitui título executivo extrajudicial.</p>
+            
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O termo de compromisso não importará em confissão quanto à matéria de fato, nem em reconhecimento da ilicitude da conduta analisada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-11-23;9873-->
+            
+            
+            <p>Durante a vigência do termo de compromisso, os prazos de prescrição de que trata a <span xlink:href="urn:lex:br:federal:lei:1999-11-23;9873">Lei nº 9.873, de 23 de novembro de 1999</span>, ficarão suspensos, e o procedimento administrativo será arquivado se todas as condições nele estabelecidas forem atendidas.</p>
+            
+          </Caput><Paragrafo id="art15_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O cumprimento das condições do termo de compromisso gerará efeitos exclusivamente na esfera de atuação do Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de descumprimento do compromisso, o Banco Central do Brasil adotará as medidas administrativas e judiciais necessárias para a execução das obrigações assumidas e determinará a instauração ou o prosseguimento do processo administrativo, a fim de dar continuidade à apuração das infrações e de aplicar as sanções cabíveis.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Das Medidas Coercitivas e Acautelatórias</NomeAgrupador>
+            <Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Poderão ser aplicadas às pessoas de que trata o art. 2º desta Lei as seguintes medidas e obrigações:</p>
+            <Inciso id="art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a prestação de informações ou esclarecimentos necessários ao desempenho de suas atribuições legais;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a cessação de atos que prejudiquem ou coloquem em risco o funcionamento regular de pessoa mencionada no caput do art. 2º desta Lei, do Sistema Financeiro Nacional, do Sistema de Consórcios ou do Sistema de Pagamentos Brasileiro; e</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a adoção de medidas necessárias ao funcionamento regular de pessoa mencionada no caput do art. 2º desta Lei, do Sistema Financeiro Nacional, do Sistema de Consórcios ou do Sistema de Pagamentos Brasileiro.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Antes da instauração ou durante a tramitação do processo administrativo sancionador, quando estiverem presentes os requisitos de verossimilhança das alegações e do perigo de mora, o Banco Central do Brasil poderá, cautelarmente:</p>
+            <Inciso id="art17_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>determinar o afastamento de quaisquer das pessoas mencionadas no inciso III do § 1º do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>impedir que o investigado atue, em nome próprio ou como mandatário ou preposto, como administrador, como membro da diretoria, do conselho de administração, do conselho fiscal, do comitê de auditoria ou de outros órgãos previstos no estatuto ou no contrato social de instituição mencionada no caput do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>impor restrições à realização de determinadas atividades ou modalidades de operações a pessoa mencionada no caput do art. 2º desta Lei; ou</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>determinar à instituição supervisionada a substituição:</p>
+            <Alinea id="art17_cpt_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>do auditor independente ou da sociedade responsável pela auditoria contábil; ou</p>
+            
+          </Alinea><Alinea id="art17_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>da entidade responsável pela auditoria cooperativa.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art17_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Desde que o processo administrativo sancionador seja instaurado no prazo de cento e vinte dias, contado da data da intimação da decisão cautelar, as medidas mencionadas neste artigo conservarão sua eficácia até que a decisão de primeira instância comece a produzir efeitos, as quais poderão ser revistas, de ofício ou a requerimento do interessado, se cessarem as circunstâncias que as determinaram.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de não ser iniciado o processo administrativo sancionador no prazo previsto no § 1º deste artigo, as medidas cautelares perderão automaticamente sua eficácia e não poderão ser novamente aplicadas se não forem modificadas as circunstâncias de fato que as determinaram.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A decisão cautelar estará sujeita a impugnação, sem efeito suspensivo, no prazo de dez dias.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Da decisão que julgar a impugnação caberá recurso, em última instância, ao Conselho de Recursos do Sistema Financeiro Nacional.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O recurso de que trata o § 4º deste artigo será recebido apenas com efeito devolutivo e deverá ser interposto no prazo de dez dias.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>O descumprimento das medidas previstas nesta Seção sujeitará o infrator ao pagamento de multa cominatória por dia de atraso, a qual não poderá exceder o maior destes valores:</p>
+            <Inciso id="art18_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um milésimo da receita de serviços e de produtos financeiros mencionada no inciso I do caput do art. 7º desta Lei; ou</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>R$ 100.000,00 (cem mil reais).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A multa de que trata o caput deste artigo será paga mediante recolhimento ao Banco Central do Brasil, no prazo de dez dias, contado da data da intimação para pagamento.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A decisão que impuser multa cominatória, se não estiver sujeita à impugnação e ao recurso de que tratam os §§ 3º e 4º do art. 17 desta Lei, estará sujeita a impugnação, sem efeito suspensivo, no prazo de dez dias.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Da decisão que julgar a impugnação caberá recurso, em última instância, no âmbito do Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O recurso de que trata o § 3º será recebido apenas com efeito devolutivo e deverá ser interposto no prazo de dez dias.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Do Rito do Processo</NomeAgrupador>
+            <Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>O processo administrativo sancionador será instaurado nos casos em que se verificarem indícios da ocorrência de infração prevista neste Capítulo ou nas demais normas legais e regulamentares cujo cumprimento seja fiscalizado pelo Banco Central do Brasil.</p>
+            
+          </Caput><Paragrafo id="art19_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Banco Central do Brasil poderá deixar de instaurar processo administrativo sancionador considerada a baixa lesão ao bem jurídico tutelado, devendo utilizar outros instrumentos e medidas de supervisão que julgar mais efetivos, observados os princípios da finalidade, da razoabilidade e da eficiência.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A instauração do processo administrativo sancionador ocorrerá por meio de citação.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os atos e os termos processuais poderão ser formalizados, comunicados e transmitidos em meio eletrônico, observado o disposto nesta Lei, em regulamentação editada pelo Banco Central do Brasil e na legislação específica.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As pessoas físicas e jurídicas sujeitas ao disposto nesta Lei deverão manter atualizados no Banco Central do Brasil seu endereço, seu telefone e seu endereço eletrônico e também os de seu procurador, quando houver, e acompanhar o andamento do processo.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O Banco Central do Brasil estabelecerá diretrizes, em regulamentação, para a aplicação do disposto no § 1º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>O acusado será citado para apresentar defesa no prazo de trinta dias, oportunidade em que deverá juntar os documentos destinados a provar as suas alegações e indicar as demais provas que pretenda produzir, sob pena de preclusão.</p>
+            
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A citação conterá:</p>
+            <Inciso id="art20_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a identificação do acusado;</p>
+            
+          </Inciso><Inciso id="art20_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a indicação dos fatos imputados ao acusado;</p>
+            
+          </Inciso><Inciso id="art20_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a finalidade da citação;</p>
+            
+          </Inciso><Inciso id="art20_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o prazo para a apresentação de defesa;</p>
+            
+          </Inciso><Inciso id="art20_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a informação da continuidade do processo, independentemente de seu comparecimento;</p>
+            
+          </Inciso><Inciso id="art20_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a indicação de local e horário para vista dos autos do processo; e</p>
+            
+          </Inciso><Inciso id="art20_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a obrigação prevista no § 4º do art. 19 desta Lei.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O acusado que, embora citado, não apresentar defesa no prazo previsto neste artigo, será considerado revel.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>A citação poderá ser efetuada por ciência no processo, por via postal ou por meio eletrônico.</p>
+            
+          </Caput><Paragrafo id="art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando ignorado, incerto ou inacessível o lugar em que se encontrar o acusado, ou em caso de esquiva, a citação será efetuada por meio de publicação de edital no Diário Oficial da União ou no sítio eletrônico do Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Considera-se efetuada a citação na data:</p>
+            <Inciso id="art21_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>da ciência do acusado ou de procurador por ele constituído;</p>
+            
+          </Inciso><Inciso id="art21_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>da entrega no endereço do destinatário;</p>
+            
+          </Inciso><Inciso id="art21_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>do acesso a sistema eletrônico;</p>
+            
+          </Inciso><Inciso id="art21_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>em que for atestada a recusa; ou</p>
+            
+          </Inciso><Inciso id="art21_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>da publicação do edital no Diário Oficial da União ou no sítio eletrônico do Banco Central do Brasil.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art21_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Considera-se efetuada a citação no sexto dia subsequente ao da disponibilização do ato no sistema eletrônico caso o interessado não o acesse no referido prazo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Além das formas previstas no caput do art. 21 desta Lei, a intimação dos demais atos processuais poderá ser realizada mediante disponibilização no sítio eletrônico do Banco Central do Brasil.</p>
+            
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Considera-se efetuada a intimação na data:</p>
+            <Inciso id="art22_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>da ciência do acusado ou do procurador por ele constituído;</p>
+            
+          </Inciso><Inciso id="art22_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>da entrega no endereço do destinatário, do recebimento por meio eletrônico ou do acesso a sistema eletrônico;</p>
+            
+          </Inciso><Inciso id="art22_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>em que for atestada a recusa; ou</p>
+            
+          </Inciso><Inciso id="art22_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>da disponibilização no sítio eletrônico do Banco Central do Brasil.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Considera-se efetuada a intimação no sexto dia subsequente ao da disponibilização do ato no sistema eletrônico caso o interessado não o acesse no referido prazo.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A disponibilização por meio eletrônico na forma estabelecida por este artigo substitui qualquer outro meio de publicação oficial, para quaisquer efeitos legais, exceto quando lei estabelecer forma específica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Opera-se a preclusão quando o acusado praticar determinado ato processual ou quando decorrido o prazo previsto para a sua realização.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Os prazos serão contados de forma contínua, excluído o dia de início e incluído o dia de vencimento.</p>
+            
+          </Caput><Paragrafo id="art24_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Considera-se dia de início do prazo:</p>
+            <Inciso id="art24_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a data da ciência pelo interessado ou por seu procurador;</p>
+            
+          </Inciso><Inciso id="art24_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a data da entrega no endereço do destinatário ou do recebimento por meio eletrônico;</p>
+            
+          </Inciso><Inciso id="art24_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o sexto dia subsequente à data da disponibilização do ato em sistema eletrônico do Banco Central do Brasil ou a data do acesso ao referido sistema, o que ocorrer primeiro;</p>
+            
+          </Inciso><Inciso id="art24_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o sexto dia subsequente à disponibilização do ato no sítio eletrônico do Banco Central do Brasil; ou</p>
+            
+          </Inciso><Inciso id="art24_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o trigésimo primeiro dia subsequente à data de publicação do edital de citação no Diário Oficial da União ou no sítio eletrônico do Banco Central do Brasil.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art24_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O primeiro dia da contagem e o dia do vencimento do prazo, se coincidirem com fim de semana ou feriado, serão prorrogados para o primeiro dia útil seguinte.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil indeferirá, de forma fundamentada, as provas ilícitas, impertinentes, desnecessárias ou protelatórias e somente proverá as informações que estiverem em seu poder.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil poderá tomar o depoimento de qualquer pessoa que possa contribuir para a apuração dos fatos objeto da investigação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>As decisões de primeira instância em processo administrativo do Banco Central do Brasil instaurado contra pessoa mencionada no art. 2º desta Lei serão tomadas por órgão colegiado previsto em seu regimento interno, do qual, no caso de infração grave, fará parte ao menos um diretor do Banco Central do Brasil.</p>
+            
+          </Caput><Paragrafo id="art27_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As sessões serão públicas, mas poderá ser restringido o acesso de terceiros em função do interesse público envolvido.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>As decisões condenatórias ou absolutórias serão publicadas, em resumo, mediante disponibilização no sítio eletrônico do Banco Central do Brasil.</p>
+            
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se houver riscos para a higidez da instituição ou do Sistema Financeiro Nacional, do Sistema de Consórcios ou do Sistema de Pagamentos Brasileiro, o Banco Central do Brasil, a seu critério e mediante decisão fundamentada, poderá não publicar a decisão enquanto essa não se tornar definitiva.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A decisão que impuser a penalidade de admoestação pública somente será publicada quando se tornar definitiva.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>Caberá recurso das decisões condenatórias, no prazo de trinta dias, recebido com efeitos devolutivo e suspensivo, sem prejuízo da eficácia das medidas determinadas pelo Banco Central do Brasil na forma do art. 17 desta Lei.</p>
+            
+          </Caput><Paragrafo id="art29_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A petição recursal será apresentada ao Banco Central do Brasil e deverá ser dirigida ao Conselho de Recursos do Sistema Financeiro Nacional, última instância recursal no âmbito administrativo, para o julgamento do recurso.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Somente o apenado dispõe de legitimidade para recorrer, e não poderá ter sua penalidade agravada em razão do recurso.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As sessões e as decisões do Conselho de Recursos do Sistema Financeiro Nacional serão públicas.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Aos recursos em trâmite no Conselho de Recursos do Sistema Financeiro Nacional aplica-se o disposto nos §§ 3º e 4º do art. 19 e nos arts. 21, 22, 23 e 24 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p> O recurso interposto contra decisão que impuser as penalidades previstas nos incisos IV, V ou VI do art. 5º desta Lei será recebido no efeito devolutivo, e poderá o recorrente requerer o efeito suspensivo à autoridade prolatora da decisão, nos termos da regulamentação editada pelo Banco Central do Brasil.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec7">
+            
+            
+            <Rotulo>SEÇÃO VII</Rotulo>
+            <NomeAgrupador>Do Acordo Administrativo em Processo de Supervisão</NomeAgrupador>
+            <Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil poderá celebrar acordo administrativo em processo de supervisão com pessoas físicas ou jurídicas que confessarem a prática de infração às normas legais ou regulamentares cujo cumprimento lhe caiba fiscalizar, com extinção de sua ação punitiva ou redução de um terço a dois terços da penalidade aplicável, mediante efetiva, plena e permanente cooperação para a apuração dos fatos, da qual resulte utilidade para o processo, em especial:</p>
+            <Inciso id="art30_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a identificação dos demais envolvidos na prática da infração, quando couber; e</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a obtenção de informações e de documentos que comprovem a infração noticiada ou sob investigação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art30_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A proposta de acordo administrativo em processo de supervisão permanecerá sob sigilo até que o acordo seja celebrado.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O acordo de que trata o caput deste artigo somente poderá ser celebrado se forem preenchidos, cumulativamente, os seguintes requisitos:</p>
+            <Inciso id="art30_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a instituição for a primeira a se qualificar com respeito à infração noticiada ou sob investigação;</p>
+            
+          </Inciso><Inciso id="art30_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o envolvimento na infração noticiada ou sob investigação a partir da data de propositura do acordo cessar completamente;</p>
+            
+          </Inciso><Inciso id="art30_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o Banco Central do Brasil não dispuser de provas suficientes para assegurar a condenação administrativa das instituições ou das pessoas físicas por ocasião da propositura do acordo; e</p>
+            
+          </Inciso><Inciso id="art30_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a confissão de participação no ilícito e a cooperação plena e permanente com as investigações e com o processo administrativo, e o comparecimento, sob suas expensas, sempre que solicitada, a todos os atos processuais, até o seu encerramento.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art30_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As pessoas físicas poderão celebrar acordo administrativo em processo de supervisão, desde que cumpridos os requisitos estabelecidos nos incisos II, III e IV do § 2º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A instituição que não cumprir apenas o disposto no inciso I do § 2º deste artigo poderá celebrar acordo administrativo em processo de supervisão, hipótese em que poderá beneficiar-se exclusivamente da redução de um terço da penalidade a ela aplicável.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A celebração do acordo administrativo em processo de supervisão pelo Banco Central do Brasil suspenderá o prazo prescricional no âmbito administrativo com relação ao proponente signatário.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O acordo administrativo em processo de supervisão celebrado pelo Banco Central do Brasil, atinente à prática de infração às normas legais ou regulamentares cujo cumprimento lhe caiba fiscalizar, não afeta a atuação do Ministério Público e dos demais órgãos públicos no âmbito de suas correspondentes competências.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A decisão sobre a assinatura do acordo administrativo em processo de supervisão pelo Banco Central do Brasil, nos termos deste artigo, será tomada por órgão colegiado previsto em seu regimento interno.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>O acordo administrativo em processo de supervisão será publicado, de forma clara e suficiente para compreensão de suas cláusulas, no sítio eletrônico do Banco Central do Brasil, no prazo de cinco dias, contado de sua assinatura.</p>
+            
+          </Caput><Paragrafo id="art31_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não importará em confissão quanto à matéria de fato, nem em reconhecimento de ilicitude da conduta analisada, a proposta de acordo administrativo em processo de supervisão rejeitada, da qual não se fará qualquer divulgação.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art9-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto no § 1º do art. 30 desta Lei não prejudica o dever legal de o Banco Central do Brasil realizar comunicação aos órgãos públicos competentes, nos termos do <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art9">art. 9º da Lei Complementar nº 105, de 10 de janeiro de 2001</span>, tão logo recebida a proposta de acordo administrativo em processo de supervisão.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par3">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art9-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Ministério Público, com base nas competências que lhe são atribuídas em lei, poderá requisitar informações ou acesso a sistema informatizado do Banco Central do Brasil sobre os acordos administrativos em processo de supervisão celebrados pela autarquia, sem que lhe seja oponível sigilo e sem prejuízo do disposto no <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art9">art. 9º da Lei Complementar nº 105, de 10 de janeiro de 2001</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par4">
+            <!--Link: urn:lex:br:federal:lei.complementar:2001-01-10;105!art9-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Banco Central do Brasil manterá fórum permanente de comunicação com o Ministério Público, inclusive por meio de acordo de cooperação técnica, para atender ao disposto neste artigo e no <span xlink:href="urn:lex:br:federal:lei.complementar:2001-01-10;105!art9">art. 9º da Lei Complementar nº 105, de 10 de janeiro de 2001</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil, para fins de declarar o cumprimento do acordo administrativo em processo de supervisão, avaliará cumulativamente:</p>
+            <Inciso id="art32_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o atendimento das condições estipuladas no acordo;</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a efetividade da cooperação prestada; e</p>
+            
+          </Inciso><Inciso id="art32_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a boa-fé do infrator quanto ao cumprimento do acordo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art32_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A declaração do cumprimento do acordo administrativo em processo de supervisão pelo Banco Central do Brasil resultará, em relação ao infrator que firmou o acordo, na extinção da ação de natureza administrativa punitiva ou na aplicação do fator de redução da pena.</p>
+            
+          </Paragrafo><Paragrafo id="art32_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de descumprimento do acordo administrativo em processo de supervisão, o beneficiário ficará impedido de celebrar novo acordo administrativo em processo de supervisão pelo prazo de três anos, contado a partir do conhecimento pelo Banco Central do Brasil do referido descumprimento.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador> DO PROCESSO ADMINISTRATIVO SANCIONADOR NA ESFERA DE ATUAÇÃO DA COMISSÃO DE VALORES MOBILIÁRIOS</NomeAgrupador>
+            <Secao id="cap3_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Disposições Preliminares</NomeAgrupador>
+            <Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385-->
+            
+            
+            <p>Este Capítulo dispõe sobre o processo administrativo sancionador no âmbito da Comissão de Valores Mobiliários e altera a <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385">Lei nº 6.385, de 7 de dezembro de 1976</span>.</p>
+            
+          </Caput><Paragrafo id="art33_par1u">
+            <!--Link: urn:lex:br:federal:lei:1998-03-03;9613-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplicam-se as regras constantes deste Capítulo às infrações previstas na <span xlink:href="urn:lex:br:federal:lei:1998-03-03;9613">Lei nº 9.613, de 3 de março de 1998</span>, no que couber, quando apuradas pela Comissão de Valores Mobiliários, mantidas as penalidades previstas na lei específica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>Aos processos administrativos sancionadores conduzidos no âmbito da Comissão de Valores Mobiliários aplica-se, no que couber, o disposto no § 3º do art. 19 e nos arts. 21, 22, 24, 25, 29, 30, 31 e 32 desta Lei, observada a regulamentação editada pela Comissão de Valores Mobiliários.</p>
+            
+          </Caput><Paragrafo id="art34_par1">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_par4-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O recurso de que trata o <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_par4">§ 4º do art. 11 da Lei nº 6.385, de 7 de dezembro de 1976</span>, será recebido com efeitos devolutivo e suspensivo.</p>
+            
+          </Paragrafo><Paragrafo id="art34_par2">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc6--><!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc5--><!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc4--><!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc8--><!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc7-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O recurso interposto contra decisão que impuser as penalidades previstas nos <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc4">incisos IV</span>, <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc5">V</span>, <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc6">VI</span>, <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc7">VII</span> e <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc8">VIII do art. 11 da Lei nº 6.385, de 7 de dezembro de 1976</span>, será recebido no efeito devolutivo, e o recorrente poderá requerer o efeito suspensivo à autoridade prolatora da decisão, nos termos de regulamentação editada pela Comissão de Valores Mobiliários.</p>
+            
+          </Paragrafo><Paragrafo id="art34_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O prazo de cumprimento da penalidade de inabilitação será contado a partir da data em que a Comissão de Valores Mobiliários receber do inabilitado ou de cada entidade em que ele atuou como administrador ou conselheiro fiscal comunicação de que houve o efetivo afastamento do cargo, instruída com os documentos comprobatórios do fato.</p>
+            
+          </Paragrafo><Paragrafo id="art34_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O prazo de cumprimento da pena de inabilitação temporária será automaticamente suspenso sempre que forem desrespeitados os termos da decisão que a aplicou, sem prejuízo da imposição das penalidades cabíveis.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385">Lei nº 6.385, de 7 de dezembro de 1976</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1976-12-07;6385" id="art35_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1976-12-07;6385 -> MatchByBase(urn:lex:br:federal:lei:1976-12-07;6385,1976,Some((12,7)),Map(art27-4_par2 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-4_par2), art11_par1_inc1 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par1_inc1), art11_par1 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par1), art11_par15 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par15), art11_par5 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par5), art11_par2 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par2), art11_par1_inc4 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par1_inc4), art11_par7 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par7), art11_par1_inc2 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par1_inc2), art27-4_cpt -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-4_cpt), art11_par11_inc1 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par11_inc1), art27-3_cpt -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-3_cpt), art27-4 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-4), art11_par1_inc3 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par1_inc3), art11_par14 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par14), art11_par11_inc2 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par11_inc2), art27-4_par1 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-4_par1), art11 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11), art11_cpt_inc4 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_cpt_inc4), art11_par3 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par3), art9_cpt -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art9_cpt), art27-3 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-3), art11_par11 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par11), art11_par13 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_par13), art27-5_cpt -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-5_cpt), art27-5 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art27-5), art9_par4 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art9_par4), art11_cpt -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_cpt), art11_cpt_inc3 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_cpt_inc3), art11_cpt_inc6 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art11_cpt_inc6), art9 -> PrefixMatch(URN(1976,Some((12,7)),,urn:lex:br:federal:lei:1976-12-07;6385),art9)))))-->
+              <Artigo xlink:href="art9" id="art35_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art35_cpt_alt1_art9_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art35_cpt_alt1_art9_omi1"/><Paragrafo xlink:href="art9_par4" id="art35_cpt_alt1_art9_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na apuração de infrações da legislação do mercado de valores mobiliários, a Comissão priorizará as infrações de natureza grave, cuja apenação proporcione maior efeito educativo e preventivo para os participantes do mercado, e poderá deixar de instaurar o processo administrativo sancionador, consideradas a pouca relevância da conduta, a baixa expressividade da lesão ao bem jurídico tutelado e a utilização de outros instrumentos e medidas de supervisão que julgar mais efetivos.</p>
+            
+          </Paragrafo><Omissis id="art35_cpt_alt1_art9_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art11" id="art35_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art35_cpt_alt1_art11_cpt">
+            <!--Link: urn:lex:br:federal:lei:1976-12-15;6404-->
+            
+            
+            <p>A Comissão de Valores Mobiliários poderá impor aos infratores das normas desta Lei, da <span xlink:href="urn:lex:br:federal:lei:1976-12-15;6404">Lei nº 6.404, de 15 de dezembro de 1976</span> (Lei de Sociedades por Ações), de suas resoluções e de outras normas legais cujo cumprimento incumba a ela fiscalizar as seguintes penalidades, isoladas ou cumulativamente:</p>
+            <Omissis id="art35_cpt_alt1_art11_cpt_omi1"/><Inciso xlink:href="art11_cpt_inc3" id="art35_cpt_alt1_art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art11_cpt_inc4" id="art35_cpt_alt1_art11_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>inabilitação temporária, até o máximo de vinte anos, para o exercício de cargo de administrador ou de conselheiro fiscal de companhia aberta, de entidade do sistema de distribuição ou de outras entidades que dependam de autorização ou registro na Comissão de Valores Mobiliários;</p>
+            
+          </Inciso><Omissis id="art35_cpt_alt1_art11_cpt_omi2"/><Inciso xlink:href="art11_cpt_inc6" id="art35_cpt_alt1_art11_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>inabilitação temporária, até o máximo de vinte anos, para o exercício das atividades de que trata esta Lei;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art35_cpt_alt1_art11_omi1"/><Paragrafo xlink:href="art11_par1" id="art35_cpt_alt1_art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A multa deverá observar, para fins de dosimetria, os princípios da proporcionalidade e da razoabilidade, a capacidade de pagamento para que a atividade desenvolvida não seja inviabilizada e os motivos que justifiquem a imposição da sanção administrativa, e não deverá exceder o maior destes valores:</p>
+            <Inciso xlink:href="art11_par1_inc1" id="art35_cpt_alt1_art11_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>R$ 50.000.000,00 (cinquenta milhões de reais);</p>
+            
+          </Inciso><Inciso xlink:href="art11_par1_inc2" id="art35_cpt_alt1_art11_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o dobro do valor da emissão ou da operação irregular;</p>
+            
+          </Inciso><Inciso xlink:href="art11_par1_inc3" id="art35_cpt_alt1_art11_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>três vezes o montante da vantagem econômica obtida ou da perda evitada em decorrência do ilícito; ou</p>
+            
+          </Inciso><Inciso xlink:href="art11_par1_inc4" id="art35_cpt_alt1_art11_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o dobro do prejuízo causado aos investidores em decorrência do ilícito.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art11_par2" id="art35_cpt_alt1_art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nas hipóteses de reincidência, poderá ser aplicada multa, nos termos do § 1º deste artigo, até o triplo dos valores fixados.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art11_par3" id="art35_cpt_alt1_art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As penalidades previstas nos incisos IV, V, VI, VII e VIII do caput deste artigo somente serão aplicadas nos casos de infração grave, assim definidas em normas da Comissão de Valores Mobiliários, ou nos casos de reincidência.</p>
+            
+          </Paragrafo><Omissis id="art35_cpt_alt1_art11_omi2"/><Paragrafo xlink:href="art11_par5" id="art35_cpt_alt1_art11_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A Comissão de Valores Mobiliários, após análise de conveniência e oportunidade, com vistas a atender ao interesse público, poderá deixar de instaurar ou suspender, em qualquer fase que preceda a tomada da decisão de primeira instância, o procedimento administrativo destinado à apuração de infração prevista nas normas legais e regulamentares cujo cumprimento lhe caiba fiscalizar, se o investigado assinar termo de compromisso no qual se obrigue a:</p>
+            
+          </Paragrafo><Omissis id="art35_cpt_alt1_art11_omi3"/><Paragrafo xlink:href="art11_par7" id="art35_cpt_alt1_art11_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O termo de compromisso deverá ser publicado no sítio eletrônico da Comissão de Valores Mobiliários, com discriminação do prazo para cumprimento das obrigações eventualmente assumidas, e constituirá título executivo extrajudicial.</p>
+            
+          </Paragrafo><Omissis id="art35_cpt_alt1_art11_omi4"/><Paragrafo xlink:href="art11_par11" id="art35_cpt_alt1_art11_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>A multa cominada pela inexecução de ordem da Comissão de Valores Mobiliários, nos termos do inciso II do caput e do inciso IV do § 1º do art. 9º desta Lei, independentemente do processo administrativo previsto no inciso V do caput do art. 9º desta Lei, não excederá, por dia de atraso no seu cumprimento, o maior destes valores:</p>
+            <Inciso xlink:href="art11_par11_inc1" id="art35_cpt_alt1_art11_par11_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um milésimo do valor do faturamento total individual ou consolidado do grupo econômico, obtido no exercício anterior à aplicação da multa; ou</p>
+            
+          </Inciso><Inciso xlink:href="art11_par11_inc2" id="art35_cpt_alt1_art11_par11_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>R$ 100.000,00 (cem mil reais).</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art35_cpt_alt1_art11_omi5"/><Paragrafo xlink:href="art11_par13" id="art35_cpt_alt1_art11_par13">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>Adicionalmente às penalidades previstas no caput deste artigo, a Comissão de Valores Mobiliários poderá proibir os acusados de contratar, até o máximo de cinco anos, com instituições financeiras oficiais, e de participar de licitação que tenha por objeto aquisições, alienações, realizações de obras e serviços e concessões de serviços públicos, na administração pública federal, estadual, distrital e municipal e em entidades da administração pública indireta.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art11_par14" id="art35_cpt_alt1_art11_par14">
+            
+            
+            <Rotulo>§ 14.</Rotulo>
+            <p>Os créditos oriundos de condenação do apenado ao pagamento de indenização em ação civil pública, movida em benefício de investidores e demais credores do apenado, e os do Fundo Garantidor de Crédito (FGC) ou de outros mecanismos de ressarcimento aprovados pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários, se houver, preferirão aos créditos oriundos da aplicação da penalidade de multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art11_par15" id="art35_cpt_alt1_art11_par15" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 15.</Rotulo>
+            <p>Em caso de falência, liquidação extrajudicial ou qualquer outra forma de concurso de credores do apenado, os créditos da Comissão de Valores Mobiliários oriundos da aplicação da penalidade de multa de que trata o inciso II do caput deste artigo serão subordinados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art27-3" id="art35_cpt_alt1_art27-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 27-C.</Rotulo>
+            
+            <Caput xlink:href="art27-3_cpt" id="art35_cpt_alt1_art27-3_cpt">
+            
+            
+            
+            <p>Realizar operações simuladas ou executar outras manobras fraudulentas destinadas a elevar, manter ou baixar a cotação, o preço ou o volume negociado de um valor mobiliário, com o fim de obter vantagem indevida ou lucro, para si ou para outrem, ou causar dano a terceiros:</p>
+            
+          </Caput><Omissis id="art35_cpt_alt1_art27-3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art27-4" id="art35_cpt_alt1_art27-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 27-D.</Rotulo>
+            
+            <Caput xlink:href="art27-4_cpt" id="art35_cpt_alt1_art27-4_cpt">
+            
+            
+            
+            <p>Utilizar informação relevante ainda não divulgada ao mercado, de que tenha conhecimento, que seja capaz de propiciar, para si ou para outrem, vantagem indevida, mediante negociação, em nome próprio ou de terceiro, com valores mobiliários:</p>
+            
+          </Caput><Omissis id="art35_cpt_alt1_art27-4_omi1"/><Paragrafo xlink:href="art27-4_par1" id="art35_cpt_alt1_art27-4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Incorre na mesma pena quem repassa informação sigilosa relativa a fato relevante a que tenha tido acesso em razão de cargo ou posição que ocupe em emissor de valores mobiliários ou em razão de relação comercial, profissional ou de confiança com o emissor.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art27-4_par2" id="art35_cpt_alt1_art27-4_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A pena é aumentada em um terço se o agente comete o crime previsto no caput deste artigo valendo-se de informação relevante de que tenha conhecimento e da qual deva manter sigilo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art27-5" id="art35_cpt_alt1_art27-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 27-E.</Rotulo>
+            
+            <Caput xlink:href="art27-5_cpt" id="art35_cpt_alt1_art27-5_cpt">
+            
+            
+            
+            <p>Exercer, ainda que a título gratuito, no mercado de valores mobiliários, a atividade de administrador de carteira, agente autônomo de investimento, auditor independente, analista de valores mobiliários, agente fiduciário ou exercer qualquer cargo, profissão, atividade ou função, sem estar, para esse fim, autorizado ou registrado na autoridade administrativa competente, quando exigido por lei ou regulamento:</p>
+            
+          </Caput><Omissis id="art35_cpt_alt1_art27-5_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil disciplinará as penalidades, as medidas coercitivas, os meios alternativos de solução de controvérsias e o processo administrativo sancionador previstos no Capítulo II desta Lei, e disporá sobre:</p>
+            <Inciso id="art36_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a gradação das penalidades de multa, de proibição de prestar determinados serviços, de proibição de realizar determinadas atividades ou modalidades de operação e de inabilitação para atuar como administrador ou para exercer cargo em órgão previsto no estatuto ou no contrato social de pessoa mencionada no caput do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a multa cominatória e os critérios a serem considerados para a definição de seu valor, tendo em vista os seus objetivos;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o cabimento, o tempo e o modo de celebração do termo de compromisso e do acordo administrativo em processo de supervisão e, no caso deste último instrumento, sobre os critérios para declarar a extinção da ação punitiva administrativa e para a aplicação da redução da penalidade; e</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o rito e os prazos do processo administrativo sancionador no âmbito do Banco Central do Brasil.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art36_par1u">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplicam-se subsidiariamente aos processos administrativos sancionadores na esfera de atuação do Banco Central do Brasil as normas previstas na <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>, no que não conflitarem com aquelas previstas no Capítulo II desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-03-03;9613-->
+            
+            
+            <p>À exceção do disposto nos arts. 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9° e 10 desta Lei, as regras estabelecidas nos Capítulos II e IV desta Lei aplicam-se, no que couber, às infrações previstas na <span xlink:href="urn:lex:br:federal:lei:1998-03-03;9613">Lei nº 9.613, de 3 de março de 1998</span>, quando apuradas pelo Banco Central do Brasil.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            <!--Link: urn:lex:br:federal:lei:1962-09-03;4131--><!--Link: urn:lex:br:federal:medida.provisoria:2001-09-04;2224--><!--Link: urn:lex:br:federal:decreto.lei:1969-10-21;1060--><!--Link: urn:lex:br:federal:decreto:1933-10-19;23258--><!--Link: urn:lex:br:federal:lei:2006-11-28;11371--><!--Link: urn:lex:br:federal:decreto.lei:1946-02-27;9025-->
+            
+            
+            <p>À exceção do disposto nos arts. 2º, 3º e 4º e nos incisos I, III e V do caput do art. 5º desta Lei, as regras estabelecidas nos Capítulos II e IV desta Lei aplicam-se, no que couber, às infrações previstas no <span xlink:href="urn:lex:br:federal:decreto:1933-10-19;23258">Decreto nº 23.258, de 19 de outubro de 1933</span>, no <span xlink:href="urn:lex:br:federal:decreto.lei:1946-02-27;9025">Decreto-Lei nº 9.025, de 27 de fevereiro de 1946</span>, na <span xlink:href="urn:lex:br:federal:lei:1962-09-03;4131">Lei nº 4.131, de 3 de setembro de 1962</span>, no <span xlink:href="urn:lex:br:federal:decreto.lei:1969-10-21;1060">Decreto-Lei nº 1.060, de 21 de outubro de 1969</span>, na <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-09-04;2224">Medida Provisória nº 2.224, de 4 de setembro de 2001</span>, e na <span xlink:href="urn:lex:br:federal:lei:2006-11-28;11371">Lei nº 11.371, de 28 de novembro de 2006</span>, quando apuradas pelo Banco Central do Brasil.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil e a Comissão de Valores Mobiliários deverão coordenar suas atividades para assegurar o cumprimento de suas atribuições com a maior eficiência e o menor custo para os regulados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            <!--Link: urn:lex:br:federal:decreto:1933-10-19;23258!art1--><!--Link: urn:lex:br:federal:decreto:1933-10-19;23258!art2-->
+            
+            
+            <p>Sujeitam-se ao disposto nesta Lei as infrações previstas nos <span xlink:href="urn:lex:br:federal:decreto:1933-10-19;23258!art1">arts. 1º</span> e <span xlink:href="urn:lex:br:federal:decreto:1933-10-19;23258!art2">2º do Decreto nº 23.258, de 19 de outubro de 1933</span>, e as sonegações de cobertura nos valores de exportação ocorridas até 3 de agosto de 2006.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            <!--Link: urn:lex:br:federal:decreto:1933-10-19;23258-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto:1933-10-19;23258">Decreto nº 23.258, de 19 de outubro de 1933</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto:1933-10-19;23258" id="art41_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto:1933-10-19;23258 -> MatchByBase(urn:lex:br:federal:decreto:1933-10-19;23258,1933,Some((10,19)),Map(art6 -> PrefixMatch(URN(1933,Some((10,19)),,urn:lex:br:federal:decreto:1933-10-19;23258),art6), art6_cpt -> PrefixMatch(URN(1933,Some((10,19)),,urn:lex:br:federal:decreto:1933-10-19;23258),art6_cpt), art6-1 -> PrefixMatch(URN(1933,Some((10,19)),,urn:lex:br:federal:decreto:1933-10-19;23258),art6-1), art6-1_cpt -> PrefixMatch(URN(1933,Some((10,19)),,urn:lex:br:federal:decreto:1933-10-19;23258),art6-1_cpt)))))-->
+              <Artigo xlink:href="art6" id="art41_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art41_cpt_alt1_art6_cpt">
+            
+            
+            
+            <p>A infração prevista no art. 3º deste Decreto será punida com multa entre 5% (cinco por cento) e 100% (cem por cento) do valor da operação.</p>
+            
+          </Caput><Omissis id="art41_cpt_alt1_art6_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art6-1" id="art41_cpt_alt1_art6-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-A.</Rotulo>
+            
+            <Caput xlink:href="art6-1_cpt" id="art41_cpt_alt1_art6-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O Conselho Monetário Nacional disciplinará o disposto nos arts. 1º, 2º e 3º deste Decreto e poderá estabelecer a gradação das multas a que se refere o caput do art. 6º deste Decreto.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1946-02-27;9025!art10-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1946-02-27;9025!art10">art. 10 do Decreto-Lei nº 9.025, de 27 de fevereiro de 1946</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1946-02-27;9025" id="art42_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1946-02-27;9025 -> MatchByBase(urn:lex:br:federal:decreto.lei:1946-02-27;9025,1946,Some((2,27)),Map(art10 -> ExactMatch(URN(1946,Some((2,27)),art10,urn:lex:br:federal:decreto.lei:1946-02-27;9025!art10)), art10_cpt -> PrefixMatch(URN(1946,Some((2,27)),art10,urn:lex:br:federal:decreto.lei:1946-02-27;9025!art10),art10_cpt)))))-->
+              <Artigo xlink:href="art10" id="art42_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art42_cpt_alt1_art10_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>É vedada a realização de compensação privada de créditos ou valores de qualquer natureza, exceto nas situações expressamente previstas em regulamentação do Banco Central do Brasil, e os responsáveis ficam sujeitos às penalidades previstas em lei.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1946-02-27;9025!art10-->
+            
+            
+            <p>A compensação privada de créditos ou de valores de qualquer natureza de que trata o <span xlink:href="urn:lex:br:federal:decreto.lei:1946-02-27;9025!art10">art. 10 do Decreto-Lei nº 9.025, de 27 de fevereiro de 1946</span>, quando não realizada nas situações expressamente previstas em regulamentação do Banco Central do Brasil, sujeita os responsáveis ao disposto no art. 38 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            <!--Link: urn:lex:br:federal:lei:1962-09-03;4131-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1962-09-03;4131">Lei nº 4.131, de 3 de setembro de 1962</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1962-09-03;4131" id="art44_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1962-09-03;4131 -> MatchByBase(urn:lex:br:federal:lei:1962-09-03;4131,1962,Some((9,3)),Map(art23_par5 -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art23_par5), art23_par2 -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art23_par2), art23_cpt -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art23_cpt), art23 -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art23), art25_cpt -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art25_cpt), art23_par3 -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art23_par3), art25 -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art25), art23_par4 -> PrefixMatch(URN(1962,Some((9,3)),,urn:lex:br:federal:lei:1962-09-03;4131),art23_par4)))))-->
+              <Artigo xlink:href="art23" id="art44_cpt_alt1_art23" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput xlink:href="art23_cpt" id="art44_cpt_alt1_art23_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art44_cpt_alt1_art23_omi1"/><Paragrafo xlink:href="art23_par2" id="art44_cpt_alt1_art23_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Constitui infração imputável individualmente ao estabelecimento bancário, ao corretor e ao cliente a declaração de falsa identidade no formulário que, segundo o modelo determinado pelo Banco Central do Brasil, será exigido em cada operação, assinado pelo cliente e visado pelo estabelecimento bancário e pelo corretor que nela intervierem.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par3" id="art44_cpt_alt1_art23_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Constitui infração, de responsabilidade exclusiva do cliente, a declaração de informações falsas no formulário a que se refere o § 2º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par4" id="art44_cpt_alt1_art23_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Constitui infração imputável individualmente ao estabelecimento bancário e ao corretor que intervierem na operação a classificação em desacordo com as normas fixadas pelo Banco Central do Brasil das informações prestadas pelo cliente no formulário a que se refere o § 2º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par5" id="art44_cpt_alt1_art23_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Omissis id="art44_cpt_alt1_art23_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art25" id="art44_cpt_alt1_art25" abreAspas="s">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput xlink:href="art25_cpt" id="art44_cpt_alt1_art25_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Os estabelecimentos bancários que deixarem de informar o montante exato das operações realizadas ficarão sujeitos a multa, nos termos do art. 58 desta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            <!--Link: urn:lex:br:federal:lei:1962-09-03;4131-->
+            
+            
+            <p>Às infrações à <span xlink:href="urn:lex:br:federal:lei:1962-09-03;4131">Lei nº 4.131, de 3 de setembro de 1962</span>, e às normas que a regulamentam aplica-se o disposto no art. 38 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc3--><!--Link: urn:lex:br:federal:lei:1964-08-21;4380--><!--Link: urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc2--><!--Link: urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc5--><!--Link: urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc1--><!--Link: urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc6--><!--Link: urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc4-->
+            
+            
+            <p>Às infrações à <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380">Lei nº 4.380, de 21 de agosto de 1964</span>, e às demais normas legais e regulamentares que regem o Sistema Financeiro da Habitação e as instituições que o integram, referidas nos <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc1">incisos I</span>, <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc2">II</span>, <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc3">III</span>, <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc4">IV</span>, <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc5">V</span> e <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380!art8_cpt_inc6">VI do art. 8º da Lei nº 4.380, de 21 de agosto de 1964</span>, aplica-se o disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            <!--Link: urn:lex:br:federal:lei:1965-07-14;4728--><!--Link: urn:lex:br:federal:lei:1965-07-14;4728!art11--><!--Link: urn:lex:br:federal:lei:1965-07-14;4728!art12-->
+            
+            
+            <p>Às infrações à <span xlink:href="urn:lex:br:federal:lei:1965-07-14;4728">Lei nº 4.728, de 14 de julho de 1965</span>, e às demais normas legais e regulamentares que regem as sociedades corretoras, as sociedades referidas nos <span xlink:href="urn:lex:br:federal:lei:1965-07-14;4728!art11">arts. 11</span> e <span xlink:href="urn:lex:br:federal:lei:1965-07-14;4728!art12">12 da Lei nº 4.728, de 14 de julho de 1965</span>, e os bancos de investimento, aplica-se o disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            <!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art21-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art21">art. 21 da Lei nº 4.829, de 5 de novembro de 1965</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1965-11-05;4829" id="art48_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1965-11-05;4829 -> MatchByBase(urn:lex:br:federal:lei:1965-11-05;4829,1965,Some((11,5)),Map(art21_par3 -> PrefixMatch(URN(1965,Some((11,5)),art21,urn:lex:br:federal:lei:1965-11-05;4829!art21),art21_par3), art21_par4 -> PrefixMatch(URN(1965,Some((11,5)),art21,urn:lex:br:federal:lei:1965-11-05;4829!art21),art21_par4), art21_par1 -> PrefixMatch(URN(1965,Some((11,5)),art21,urn:lex:br:federal:lei:1965-11-05;4829!art21),art21_par1), art21_cpt -> PrefixMatch(URN(1965,Some((11,5)),art21,urn:lex:br:federal:lei:1965-11-05;4829!art21),art21_cpt), art21_par2 -> PrefixMatch(URN(1965,Some((11,5)),art21,urn:lex:br:federal:lei:1965-11-05;4829!art21),art21_par2), art21 -> ExactMatch(URN(1965,Some((11,5)),art21,urn:lex:br:federal:lei:1965-11-05;4829!art21))))))-->
+              <Artigo xlink:href="art21" id="art48_cpt_alt1_art21" abreAspas="s">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput xlink:href="art21_cpt" id="art48_cpt_alt1_art21_cpt">
+            
+            
+            
+            <p>As instituições referidas nos incisos II e III do caput do art. 7º, na alínea c do inciso I do § 1º do art. 7º e nas alíneas a, b, c e e do inciso II do § 1º do art. 7º desta Lei, manterão aplicados recursos no crédito rural, observadas a forma e as condições estabelecidas pelo Conselho Monetário Nacional.</p>
+            
+          </Caput><Paragrafo xlink:href="art21_par1" id="art48_cpt_alt1_art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As instituições mencionadas no caput deste artigo que apresentarem deficiência na aplicação de recursos ficarão sujeitas, a partir de 1º de julho de 2018, relativamente ao ano agrícola iniciado em 1º de julho de 2017, aos custos financeiros estabelecidos pelo Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art21_par2" id="art48_cpt_alt1_art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As instituições mencionadas no caput deste artigo que apresentarem deficiência na aplicação de recursos no período de 1º de julho de 2016 a 30 de junho de 2017 recolherão as somas correspondentes em depósito no Banco Central do Brasil, remuneradas na forma estabelecida pelo Conselho Monetário Nacional, para aplicação nos fins previstos nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art21_par3" id="art48_cpt_alt1_art21_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art21_par4" id="art48_cpt_alt1_art21_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            <!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali3--><!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc1_ali3--><!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali5--><!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art7_cpt_inc2--><!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali2--><!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art7_cpt_inc3--><!--Link: urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali1-->
+            
+            
+            <p>As instituições referidas nos <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art7_cpt_inc2">incisos II</span> e <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art7_cpt_inc3">III do caput do art. 7º</span>, na <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc1_ali3">alínea c do inciso I do § 1º do art. 7º</span> e <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali1">nas alíneas a</span>, <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali2">b</span>, <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali3">c</span> e <span xlink:href="urn:lex:br:federal:lei:1965-11-05;4829!art7_par1_inc2_ali5">e do inciso II do § 1º do art. 7º da Lei nº 4.829, de 5 de novembro de 1965</span>, que apresentarem deficiência na aplicação de recursos no crédito rural sujeitam-se ao disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1966-11-21;70-->
+            
+            
+            <p>Aplicam-se às associações de poupança e empréstimo, autorizadas a funcionar pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1966-11-21;70">Decreto-Lei nº 70, de 21 de novembro de 1966</span>:</p>
+            <Inciso id="art50_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406--><!--Link: urn:lex:br:federal:decreto.lei:1966-11-21;70-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>os arts. 53 a 69 da <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), quando não conflitarem com disposições do <span xlink:href="urn:lex:br:federal:decreto.lei:1966-11-21;70">Decreto-Lei nº 70, de 21 de novembro de 1966</span>; e</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc2">
+            <!--Link: urn:lex:br:federal:decreto.lei:1966-11-21;70-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>o disposto nesta Lei, relativamente às infrações ao <span xlink:href="urn:lex:br:federal:decreto.lei:1966-11-21;70">Decreto-Lei nº 70, de 21 de novembro de 1966</span>, e às demais normas legais e regulamentares que regem as associações de poupança e empréstimo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art51">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">
+            <!--Link: urn:lex:br:federal:lei:1974-03-13;6024!art19-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1974-03-13;6024!art19">art. 19 da Lei nº 6.024, de 13 de março de 1974</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1974-03-13;6024" id="art51_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1974-03-13;6024 -> MatchByBase(urn:lex:br:federal:lei:1974-03-13;6024,1974,Some((3,13)),Map(inc1_ali5 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc1_ali5,cpt), par1 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),par1,), inc1_ali2 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc1_ali2,cpt), inc1_ali6 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc1_ali6,cpt), art19_cpt -> PrefixMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),art19_cpt), inc1_ali1 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc1_ali1,cpt), art19 -> ExactMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19)), par1_inc2 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),par1_inc2,), inc1 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc1,cpt), par1_inc1 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),par1_inc1,), inc1_ali3 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc1_ali3,cpt), inc2 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc2,cpt), inc1_ali4 -> NeighborMatch(URN(1974,Some((3,13)),art19,urn:lex:br:federal:lei:1974-03-13;6024!art19),inc1_ali4,cpt)))))-->
+              <Artigo xlink:href="art19" id="art51_cpt_alt1_art19" abreAspas="s">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput xlink:href="art19_cpt" id="art51_cpt_alt1_art19_cpt">
+            
+            
+            
+            <p>A liquidação extrajudicial será encerrada:</p>
+            
+          </Caput>
+          </Artigo><p>(revogada);</p><p>(revogada);</p><p>(revogada);</p><p>(revogada).</p><Inciso xlink:href="art19cpt_inc1" id="art51_cpt_alt1_art19cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>por decisão do Banco Central do Brasil, nas seguintes hipóteses:</p>
+            <Alinea xlink:href="art19cpt_inc1_ali1" id="art51_cpt_alt1_art19cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>pagamento integral dos credores quirografários;</p>
+            
+          </Alinea><Alinea xlink:href="art19cpt_inc1_ali2" id="art51_cpt_alt1_art19cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>mudança de objeto social da instituição para atividade econômica não integrante do Sistema Financeiro Nacional;</p>
+            
+          </Alinea><Alinea xlink:href="art19cpt_inc1_ali3" id="art51_cpt_alt1_art19cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>transferência do controle societário da instituição;</p>
+            
+          </Alinea><Alinea xlink:href="art19cpt_inc1_ali4" id="art51_cpt_alt1_art19cpt_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>convolação em liquidação ordinária;</p>
+            
+          </Alinea><Alinea xlink:href="art19cpt_inc1_ali5" id="art51_cpt_alt1_art19cpt_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>exaustão do ativo da instituição, mediante a sua realização total e a distribuição do produto entre os credores, ainda que não ocorra o pagamento integral dos créditos; ou</p>
+            
+          </Alinea><Alinea xlink:href="art19cpt_inc1_ali6" id="art51_cpt_alt1_art19cpt_inc1_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>iliquidez ou difícil realização do ativo remanescente na instituição, reconhecidas pelo Banco Central do Brasil; e</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art19cpt_inc2" id="art51_cpt_alt1_art19cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pela decretação da falência da instituição.</p>
+            
+          </Inciso><Paragrafo xlink:href="art19_par1" id="art51_cpt_alt1_art19_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Encerrada a liquidação extrajudicial na forma prevista nas alíneas a, b, d, e e f do inciso I do caput deste artigo, o Banco Central do Brasil comunicará o encerramento ao órgão competente do Registro do Comércio, que deverá:</p>
+            <Inciso xlink:href="art19_par1_inc1" id="art51_cpt_alt1_art19_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nas hipóteses das alíneas b e d do inciso I do caput deste artigo, promover as anotações pertinentes; e</p>
+            
+          </Inciso><Inciso xlink:href="art19_par1_inc2" id="art51_cpt_alt1_art19_par1_inc2" fechaAspas="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nas hipóteses das alíneas a, e e f do inciso I do caput deste artigo, proceder à anotação do encerramento da liquidação extrajudicial no registro correspondente e substituir, na denominação da sociedade, a expressão “Em liquidação extrajudicial” por “Liquidação extrajudicial encerrada</p>
+            
+          </Inciso>
+          </Paragrafo>
+            </Alteracao>
+          </Caput><Paragrafo id="art51_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Encerrada a liquidação extrajudicial na forma prevista no inciso I do caput deste artigo, o prazo prescricional relativo às obrigações da instituição voltará a contar da data da publicação do ato de encerramento do regime.</p>
+            
+          </Paragrafo><Paragrafo id="art51_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O encerramento da liquidação extrajudicial na forma prevista nas alíneas b e d do inciso I do caput deste artigo pode ser proposto ao Banco Central do Brasil, após a aprovação por maioria simples dos presentes à assembleia geral de credores, pelos:</p>
+            <Inciso id="art51_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cooperados ou associados, autorizados pela assembleia geral; ou</p>
+            
+          </Inciso><Inciso id="art51_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>controladores.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art51_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A assembleia geral de credores a que se refere o § 3º será presidida pelo liquidante e nela poderão votar os titulares de créditos inscritos no quadro geral de credores, computados os votos proporcionalmente ao valor dos créditos dos presentes.</p>
+            
+          </Paragrafo><Paragrafo id="art51_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Encerrada a liquidação extrajudicial na forma prevista no inciso I do caput deste artigo, o acervo remanescente da instituição, se houver, será restituído:</p>
+            <Inciso id="art51_par5_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ao último sócio controlador ou a qualquer sócio participante do grupo de controle ou, na impossibilidade de identificá-lo ou localizá-lo, ao maior acionista ou cotista da sociedade; ou</p>
+            
+          </Inciso><Inciso id="art51_par5_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a qualquer cooperado, no caso de cooperativa de crédito.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art51_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>As pessoas de que trata o § 5º deste artigo não poderão recusar o recebimento do acervo remanescente e serão consideradas depositárias dos bens recebidos.</p>
+            
+          </Paragrafo><Paragrafo id="art51_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Na hipótese em que o lugar em que se encontrarem as pessoas mencionadas no § 5º deste artigo for ignorado, incerto ou inacessível ou na hipótese de suspeita de ocultação, fica o liquidante autorizado a depositar o acervo remanescente em favor delas, no juízo ao qual caberia decretar a falência.”(NR)</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art52">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">
+            <!--Link: urn:lex:br:federal:lei:1986-06-16;7492!art17_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1986-06-16;7492!art17_cpt">caput do art. 17 da Lei nº 7.492, de 16 de junho de 1986</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1986-06-16;7492" id="art52_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1986-06-16;7492 -> MatchByBase(urn:lex:br:federal:lei:1986-06-16;7492,1986,Some((6,16)),Map(art17 -> SuperPrefixMatch(URN(1986,Some((6,16)),art17_cpt,urn:lex:br:federal:lei:1986-06-16;7492!art17_cpt),art17), art17_cpt -> ExactMatch(URN(1986,Some((6,16)),art17_cpt,urn:lex:br:federal:lei:1986-06-16;7492!art17_cpt))))))-->
+              <Artigo xlink:href="art17" id="art52_cpt_alt1_art17" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput xlink:href="art17_cpt" id="art52_cpt_alt1_art17_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-12-31;4595!art34-->
+            
+            
+            <p>Tomar ou receber, qualquer das pessoas mencionadas no art. 25, ou deferir operações de crédito vedadas, observado o disposto no <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595!art34">art. 34 da Lei nº 4.595, de 31 de dezembro de 1964</span>:</p>
+            
+          </Caput><Omissis id="art52_cpt_alt1_art17_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art53">
+            
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-06-29;9069!art66_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069!art66_cpt">caput do art. 66 da Lei nº 9.069, de 29 de junho de 1995</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-06-29;9069" id="art53_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-06-29;9069 -> MatchByBase(urn:lex:br:federal:lei:1995-06-29;9069,1995,Some((6,29)),Map(art66 -> SuperPrefixMatch(URN(1995,Some((6,29)),art66_cpt,urn:lex:br:federal:lei:1995-06-29;9069!art66_cpt),art66), art66_cpt -> ExactMatch(URN(1995,Some((6,29)),art66_cpt,urn:lex:br:federal:lei:1995-06-29;9069!art66_cpt))))))-->
+              <Artigo xlink:href="art66" id="art53_cpt_alt1_art66" abreAspas="s">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput xlink:href="art66_cpt" id="art53_cpt_alt1_art66_cpt">
+            
+            
+            
+            <p>As instituições financeiras e as demais instituições autorizadas a funcionar pelo Banco Central do Brasil que apresentem insuficiência nos recolhimentos compulsórios ou efetuem saques a descoberto na conta Reservas Bancárias ficam sujeitas aos custos financeiros estabelecidos pelo Banco Central do Brasil.</p>
+            
+          </Caput><Omissis id="art53_cpt_alt1_art66_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art54">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">
+            
+            
+            
+            <p>As instituições financeiras e as demais instituições autorizadas a funcionar pelo Banco Central do Brasil que apresentem insuficiência nos recolhimentos compulsórios ou efetuem saques a descoberto na conta Reservas Bancárias ficam sujeitas ao disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art55">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-03-03;9613!art16_par2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-03-03;9613!art16_par2">§ 2º do art. 16 da Lei nº 9.613, de 3 de março de 1998</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-03-03;9613" id="art55_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-03-03;9613 -> MatchByBase(urn:lex:br:federal:lei:1998-03-03;9613,1998,Some((3,3)),Map(art16 -> SuperPrefixMatch(URN(1998,Some((3,3)),art16_par2,urn:lex:br:federal:lei:1998-03-03;9613!art16_par2),art16), art16_cpt -> SuperPrefixMatch(URN(1998,Some((3,3)),art16_par2,urn:lex:br:federal:lei:1998-03-03;9613!art16_par2),art16_cpt), art16_par2 -> ExactMatch(URN(1998,Some((3,3)),art16_par2,urn:lex:br:federal:lei:1998-03-03;9613!art16_par2))))))-->
+              <Artigo xlink:href="art16" id="art55_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art55_cpt_alt1_art16_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art55_cpt_alt1_art16_omi1"/><Paragrafo xlink:href="art16_par2" id="art55_cpt_alt1_art16_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caberá recurso das decisões do Coaf relativas às aplicações de penas administrativas ao Conselho de Recursos do Sistema Financeiro Nacional.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art56">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-11-23;9873--><!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_par5-->
+            
+            
+            <p>Fica suspensa a prescrição de que trata a <span xlink:href="urn:lex:br:federal:lei:1999-11-23;9873">Lei nº 9.873, de 23 de novembro de 1999</span>, durante a vigência do termo de compromisso de que tratam o <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_par5">§ 5º do art. 11 da Lei nº 6.385, de 7 de dezembro de 1976</span>, e os arts. 11, 12, 13, 14 e 15 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art57">
+            
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-03-27;10214-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2001-03-27;10214">Lei nº 10.214, de 27 de março de 2001</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2001-03-27;10214" id="art57_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2001-03-27;10214 -> MatchByBase(urn:lex:br:federal:lei:2001-03-27;10214,2001,Some((3,27)),Map(art9_par1 -> PrefixMatch(URN(2001,Some((3,27)),,urn:lex:br:federal:lei:2001-03-27;10214),art9_par1), art9_cpt_inc2 -> PrefixMatch(URN(2001,Some((3,27)),,urn:lex:br:federal:lei:2001-03-27;10214),art9_cpt_inc2), art9_cpt -> PrefixMatch(URN(2001,Some((3,27)),,urn:lex:br:federal:lei:2001-03-27;10214),art9_cpt), art9 -> PrefixMatch(URN(2001,Some((3,27)),,urn:lex:br:federal:lei:2001-03-27;10214),art9), art9_cpt_inc1 -> PrefixMatch(URN(2001,Some((3,27)),,urn:lex:br:federal:lei:2001-03-27;10214),art9_cpt_inc1)))))-->
+              <Artigo xlink:href="art9" id="art57_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art57_cpt_alt1_art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385-->
+            
+            
+            <p>A infração às normas legais e regulamentares que regem o sistema de pagamentos sujeita as câmaras e os prestadores de serviços de compensação e de liquidação, seus administradores e membros de conselhos fiscais, consultivos e assemelhados ao disposto na <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385">Lei nº 6.385, de 7 de dezembro de 1976</span>, e nas demais disposições legais.</p>
+            <Inciso xlink:href="art9_cpt_inc1" id="art57_cpt_alt1_art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art9_cpt_inc2" id="art57_cpt_alt1_art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>(revogado).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art9_par1u" id="art57_cpt_alt1_art9_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Caberá recurso, no prazo de trinta dias, sem efeito suspensivo, das decisões proferidas pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários, com fundamento neste artigo, para o Conselho de Recursos do Sistema Financeiro Nacional.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art58">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">
+            
+            
+            
+            <p>A infração às normas legais e regulamentares que regem o sistema de pagamentos sujeita as câmaras e os prestadores de serviços de compensação e de liquidação, seus administradores e membros de conselhos fiscais, consultivos e assemelhados ao disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art59">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art1_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art1_cpt">caput do art. 1º da Medida Provisória nº 2.224, de 4 de setembro de 2001</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:medida.provisoria:2001-09-04;2224" id="art59_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:medida.provisoria:2001-09-04;2224 -> MatchByBase(urn:lex:br:federal:medida.provisoria:2001-09-04;2224,2001,Some((9,4)),Map(art1 -> SuperPrefixMatch(URN(2001,Some((9,4)),art1_cpt,urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art1_cpt),art1), art1_cpt -> ExactMatch(URN(2001,Some((9,4)),art1_cpt,urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art1_cpt))))))-->
+              <Artigo xlink:href="art1" id="art59_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art59_cpt_alt1_art1_cpt">
+            
+            
+            
+            <p>O não fornecimento de informações regulamentares exigidas pelo Banco Central do Brasil relativas a capitais brasileiros no exterior e a prestação de informações falsas, incompletas, incorretas ou fora dos prazos e das condições previstas na regulamentação em vigor constituem infrações sujeitas à aplicação da ação punitiva do Banco Central do Brasil, nos termos definidos pela legislação em vigor.</p>
+            
+          </Caput><Omissis id="art59_cpt_alt1_art1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art60">
+            
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">
+            
+            
+            
+            <p>O não fornecimento de informações regulamentares exigidas pelo Banco Central do Brasil relativas a capitais brasileiros no exterior e a prestação de informações falsas, incompletas, incorretas ou fora dos prazos e das condições previstas na regulamentação em vigor constituem infrações sujeitas à aplicação do disposto no art. 38 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art61">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-11-28;11371!art7-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2006-11-28;11371!art7">art. 7º da Lei nº 11.371, de 28 de novembro de 2006</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-11-28;11371" id="art61_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-11-28;11371 -> MatchByBase(urn:lex:br:federal:lei:2006-11-28;11371,2006,Some((11,28)),Map(art7 -> ExactMatch(URN(2006,Some((11,28)),art7,urn:lex:br:federal:lei:2006-11-28;11371!art7)), art7_cpt -> PrefixMatch(URN(2006,Some((11,28)),art7,urn:lex:br:federal:lei:2006-11-28;11371!art7),art7_cpt), art7_par1 -> PrefixMatch(URN(2006,Some((11,28)),art7,urn:lex:br:federal:lei:2006-11-28;11371!art7),art7_par1)))))-->
+              <Artigo xlink:href="art7" id="art61_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art61_cpt_alt1_art7_cpt">
+            
+            
+            
+            <p>As infrações às normas que regulam os registros, no Banco Central do Brasil, de capital estrangeiro em moeda nacional sujeitam os responsáveis à aplicação da ação punitiva do Banco Central do Brasil, nos termos definidos pela legislação em vigor.</p>
+            
+          </Caput><Paragrafo xlink:href="art7_par1u" id="art61_cpt_alt1_art7_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art62">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">
+            
+            
+            
+            <p>As infrações às normas que regulam os registros, no Banco Central do Brasil, de capital estrangeiro em moeda nacional sujeitam os responsáveis ao disposto no art. 38 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art63">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">
+            <!--Link: urn:lex:br:federal:lei:2008-10-08;11795!art42-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2008-10-08;11795!art42">art. 42 da Lei nº 11.795, de 8 de outubro de 2008</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2008-10-08;11795" id="art63_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2008-10-08;11795 -> MatchByBase(urn:lex:br:federal:lei:2008-10-08;11795,2008,Some((10,8)),Map(art42_cpt_inc1 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc1), art42_cpt_inc8 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc8), art42_cpt_inc5 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc5), art42_cpt_inc4 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc4), art42_cpt -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt), art42 -> ExactMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42)), art42_cpt_inc3 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc3), art42_cpt_inc7 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc7), art42_cpt_inc2 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc2), art42_par1 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_par1), art42_cpt_inc6 -> PrefixMatch(URN(2008,Some((10,8)),art42,urn:lex:br:federal:lei:2008-10-08;11795!art42),art42_cpt_inc6)))))-->
+              <Artigo xlink:href="art42" id="art63_cpt_alt1_art42" abreAspas="s">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput xlink:href="art42_cpt" id="art63_cpt_alt1_art42_cpt">
+            
+            
+            
+            <p>Às infrações aos dispositivos desta Lei e às normas regulamentares aplica-se a ação punitiva do Banco Central do Brasil, nos termos definidos pela legislação em vigor.</p>
+            <Inciso xlink:href="art42_cpt_inc1" id="art63_cpt_alt1_art42_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art42_cpt_inc2" id="art63_cpt_alt1_art42_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art42_cpt_inc3" id="art63_cpt_alt1_art42_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art42_cpt_inc4" id="art63_cpt_alt1_art42_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art42_cpt_inc5" id="art63_cpt_alt1_art42_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art42_cpt_inc6" id="art63_cpt_alt1_art42_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art42_cpt_inc7" id="art63_cpt_alt1_art42_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art42_cpt_inc8" id="art63_cpt_alt1_art42_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>(revogado).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art42_par1u" id="art63_cpt_alt1_art42_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art64">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">
+            <!--Link: urn:lex:br:federal:lei:2008-10-08;11795-->
+            
+            
+            <p>Às infrações aos dispositivos da <span xlink:href="urn:lex:br:federal:lei:2008-10-08;11795">Lei nº 11.795, de 8 de outubro de 2008</span>, e às demais normas regulamentares do Sistema de Consórcios aplica-se o disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art65">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">
+            <!--Link: urn:lex:br:federal:lei:2013-05-15;12810!art29-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2013-05-15;12810!art29">art. 29 da Lei nº 12.810, de 15 de maio de 2013</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2013-05-15;12810" id="art65_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2013-05-15;12810 -> MatchByBase(urn:lex:br:federal:lei:2013-05-15;12810,2013,Some((5,15)),Map(art29 -> ExactMatch(URN(2013,Some((5,15)),art29,urn:lex:br:federal:lei:2013-05-15;12810!art29)), art29_cpt -> PrefixMatch(URN(2013,Some((5,15)),art29,urn:lex:br:federal:lei:2013-05-15;12810!art29),art29_cpt)))))-->
+              <Artigo xlink:href="art29" id="art65_cpt_alt1_art29" abreAspas="s">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput xlink:href="art29_cpt" id="art65_cpt_alt1_art29_cpt" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385-->
+            
+            
+            <p>A infração às normas legais e regulamentares que regem as atividades de depósito centralizado e de registro de ativos financeiros e de valores mobiliários sujeita as entidades autorizadas a exercer essas atividades, seus administradores e membros de conselhos fiscais, consultivos e assemelhados ao disposto na <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385">Lei nº 6.385, de 7 de dezembro de 1976</span>, aplicáveis pela Comissão de Valores Mobiliários, e às demais disposições legais.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art66">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput id="art66_cpt">
+            
+            
+            
+            <p>A infração às normas legais e regulamentares que regem as atividades de depósito centralizado e de registro de ativos financeiros e de valores mobiliários sujeita as entidades autorizadas a exercer essas atividades, seus administradores e membros de conselhos fiscais, consultivos e assemelhados ao disposto nesta Lei, aplicáveis pelo Banco Central do Brasil.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art67">
+            
+            
+            <Rotulo>Art. 67.</Rotulo>
+            
+            <Caput id="art67_cpt">
+            <!--Link: urn:lex:br:federal:lei:2013-10-09;12865!art11_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2013-10-09;12865!art11_cpt">caput do art. 11 da Lei nº 12.865, de 9 de outubro de 2013</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2013-10-09;12865" id="art67_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2013-10-09;12865 -> MatchByBase(urn:lex:br:federal:lei:2013-10-09;12865,2013,Some((10,9)),Map(art11 -> SuperPrefixMatch(URN(2013,Some((10,9)),art11_cpt,urn:lex:br:federal:lei:2013-10-09;12865!art11_cpt),art11), art11_cpt -> ExactMatch(URN(2013,Some((10,9)),art11_cpt,urn:lex:br:federal:lei:2013-10-09;12865!art11_cpt))))))-->
+              <Artigo xlink:href="art11" id="art67_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art67_cpt_alt1_art11_cpt">
+            
+            
+            
+            <p>As infrações às normas legais e regulamentares que regem os arranjos e as instituições de pagamento sujeitam o instituidor de arranjo de pagamento e a instituição de pagamento, os seus administradores e os membros de seus órgãos estatutários ou contratuais às penalidades previstas pela legislação em vigor.</p>
+            
+          </Caput><Omissis id="art67_cpt_alt1_art11_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art68">
+            
+            
+            <Rotulo>Art. 68.</Rotulo>
+            
+            <Caput id="art68_cpt">
+            
+            
+            
+            <p>As infrações às normas legais e regulamentares que regem os arranjos e as instituições de pagamento sujeitam o instituidor de arranjo de pagamento e a instituição de pagamento, os seus administradores e os membros de seus órgãos estatutários ou contratuais ao disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art69">
+            
+            
+            <Rotulo>Art. 69.</Rotulo>
+            
+            <Caput id="art69_cpt">
+            
+            
+            
+            <p>O Conselho Monetário Nacional, o Banco Central do Brasil e a Comissão de Valores Mobiliários editarão normas complementares ao disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art70">
+            
+            
+            <Rotulo>Art. 70.</Rotulo>
+            
+            <Caput id="art70_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-12-31;4595!art34-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595!art34">art. 34 da Lei nº 4.595, de 31 de dezembro de 1964</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1964-12-31;4595" id="art70_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1964-12-31;4595 -> MatchByBase(urn:lex:br:federal:lei:1964-12-31;4595,1964,Some((12,31)),Map(art34_par3 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3), art34_par2 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par2), art34_cpt_inc2 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_cpt_inc2), art34 -> ExactMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34)), art34_par3_inc2 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc2), art34_par3_inc5_ali4 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc5_ali4), art34_par4_inc3 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par4_inc3), art34_par3_inc5_ali3 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc5_ali3), art34_cpt_inc3 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_cpt_inc3), art34_par4_inc6 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par4_inc6), art34_par6 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par6), art34_par4_inc4 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par4_inc4), art34_par3_inc3 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc3), art34_par3_inc4 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc4), art34_par3_inc5 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc5), art34_par3_inc5_ali2 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc5_ali2), art34_cpt_inc5 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_cpt_inc5), art34_par1 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par1), art34_par4_inc1 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par4_inc1), art34_cpt -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_cpt), art34_par5 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par5), art34_par4_inc2 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par4_inc2), art34_cpt_inc4 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_cpt_inc4), art34_par4_inc5 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par4_inc5), art34_par3_inc5_ali1 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc5_ali1), art34_par4 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par4), art34_cpt_inc1 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_cpt_inc1), art34_par3_inc1 -> PrefixMatch(URN(1964,Some((12,31)),art34,urn:lex:br:federal:lei:1964-12-31;4595!art34),art34_par3_inc1)))))-->
+              <Artigo xlink:href="art34" id="art70_cpt_alt1_art34" abreAspas="s">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput xlink:href="art34_cpt" id="art70_cpt_alt1_art34_cpt">
+            
+            
+            
+            <p>É vedado às instituições financeiras realizar operação de crédito com a parte relacionada.</p>
+            <Inciso xlink:href="art34_cpt_inc1" id="art70_cpt_alt1_art34_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art34_cpt_inc2" id="art70_cpt_alt1_art34_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art34_cpt_inc3" id="art70_cpt_alt1_art34_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art34_cpt_inc4" id="art70_cpt_alt1_art34_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art34_cpt_inc5" id="art70_cpt_alt1_art34_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>(revogado).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art34_par1" id="art70_cpt_alt1_art34_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art34_par2" id="art70_cpt_alt1_art34_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art34_par3" id="art70_cpt_alt1_art34_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Considera-se parte relacionada à instituição financeira, para efeitos deste artigo:</p>
+            <Inciso xlink:href="art34_par3_inc1" id="art70_cpt_alt1_art34_par3_inc1">
+            <!--Link: urn:lex:br:federal:lei:1976-12-15;6404!art116-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>seus controladores, pessoas físicas ou jurídicas, nos termos do <span xlink:href="urn:lex:br:federal:lei:1976-12-15;6404!art116">art. 116 da Lei nº 6.404, de 15 de dezembro de 1976</span>;</p>
+            
+          </Inciso><Inciso xlink:href="art34_par3_inc2" id="art70_cpt_alt1_art34_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>seus diretores e membros de órgãos estatutários ou contratuais;</p>
+            
+          </Inciso><Inciso xlink:href="art34_par3_inc3" id="art70_cpt_alt1_art34_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o cônjuge, o companheiro e os parentes, consanguíneos ou afins, até o segundo grau, das pessoas mencionadas nos incisos I e II deste parágrafo;</p>
+            
+          </Inciso><Inciso xlink:href="art34_par3_inc4" id="art70_cpt_alt1_art34_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as pessoas físicas com participação societária qualificada em seu capital; e</p>
+            
+          </Inciso><Inciso xlink:href="art34_par3_inc5" id="art70_cpt_alt1_art34_par3_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>as pessoas jurídicas:</p>
+            <Alinea xlink:href="art34_par3_inc5_ali1" id="art70_cpt_alt1_art34_par3_inc5_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>com participação qualificada em seu capital;</p>
+            
+          </Alinea><Alinea xlink:href="art34_par3_inc5_ali2" id="art70_cpt_alt1_art34_par3_inc5_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>em cujo capital, direta ou indiretamente, haja participação societária qualificada;</p>
+            
+          </Alinea><Alinea xlink:href="art34_par3_inc5_ali3" id="art70_cpt_alt1_art34_par3_inc5_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>nas quais haja controle operacional efetivo ou preponderância nas deliberações, independentemente da participação societária; e</p>
+            
+          </Alinea><Alinea xlink:href="art34_par3_inc5_ali4" id="art70_cpt_alt1_art34_par3_inc5_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>que possuírem diretor ou membro de conselho de administração em comum.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art34_par4" id="art70_cpt_alt1_art34_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Excetuam-se da vedação de que trata o caput deste artigo, respeitados os limites e as condições estabelecidos em regulamentação:</p>
+            <Inciso xlink:href="art34_par4_inc1" id="art70_cpt_alt1_art34_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as operações realizadas em condições compatíveis com as de mercado, inclusive quanto a limites, taxas de juros, carência, prazos, garantias requeridas e critérios para classificação de risco para fins de constituição de provisão para perdas prováveis e baixa como prejuízo, sem benefícios adicionais ou diferenciados comparativamente às operações deferidas aos demais clientes de mesmo perfil das respectivas instituições;</p>
+            
+          </Inciso><Inciso xlink:href="art34_par4_inc2" id="art70_cpt_alt1_art34_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as operações com empresas controladas pela União, no caso das instituições financeiras públicas federais;</p>
+            
+          </Inciso><Inciso xlink:href="art34_par4_inc3" id="art70_cpt_alt1_art34_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as operações de crédito que tenham como contraparte instituição financeira integrante do mesmo conglomerado prudencial, desde que contenham cláusula contratual de subordinação, observado o disposto no inciso V do art. 10 desta Lei, no caso das instituições financeiras bancárias;</p>
+            
+          </Inciso><Inciso xlink:href="art34_par4_inc4" id="art70_cpt_alt1_art34_par4_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>os depósitos interfinanceiros regulados na forma do inciso XXXII do caput do art. 4º desta Lei;</p>
+            
+          </Inciso><Inciso xlink:href="art34_par4_inc5" id="art70_cpt_alt1_art34_par4_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>as obrigações assumidas entre partes relacionadas em decorrência de responsabilidade imposta a membros de compensação e demais participantes de câmaras ou prestadores de serviços de compensação e de liquidação autorizados pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários e suas respectivas contrapartes em operações conduzidas no âmbito das referidas câmaras ou prestadores de serviços; e</p>
+            
+          </Inciso><Inciso xlink:href="art34_par4_inc6" id="art70_cpt_alt1_art34_par4_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>os demais casos autorizados pelo Conselho Monetário Nacional.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art34_par5" id="art70_cpt_alt1_art34_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Considera-se também realizada com parte relacionada qualquer operação que caracterize negócio indireto, simulado ou mediante interposição de terceiro, com o fim de realizar operação vedada nos termos deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art34_par6" id="art70_cpt_alt1_art34_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O Conselho Monetário Nacional disciplinará o disposto neste artigo, inclusive a definição de operação de crédito, de limites e de participação qualificada.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art71">
+            
+            
+            <Rotulo>Art. 71.</Rotulo>
+            
+            <Caput id="art71_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art72">
+            
+            
+            <Rotulo>Art. 72.</Rotulo>
+            
+            <Caput id="art72_cpt">
+            
+            
+            
+            <p>Ficam revogados:</p>
+            <Inciso id="art72_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:1964-12-31;4595!art44--><!--Link: urn:lex:br:federal:lei:1964-12-31;4595!art43--><!--Link: urn:lex:br:federal:lei:1964-12-31;4595!art42--><!--Link: urn:lex:br:federal:lei:1964-12-31;4595!art35--><!--Link: urn:lex:br:federal:lei:1964-12-31;4595!art36-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>os <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595!art35">arts. 35</span>, <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595!art36">36</span>, <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595!art42">42</span>, <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595!art43">43</span> e <span xlink:href="urn:lex:br:federal:lei:1964-12-31;4595!art44">44 da Lei nº 4.595, de 31 de dezembro de 1964</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc2">
+            <!--Link: urn:lex:br:federal:decreto.lei:1969-02-03;448-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:decreto.lei:1969-02-03;448">Decreto-Lei nº 448, de 3 de fevereiro de 1969</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc3">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc3--><!--Link: urn:lex:br:federal:lei:1976-12-07;6385!art26_par4-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art11_cpt_inc3">inciso III do caput do art. 11</span> e o <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385!art26_par4">§ 4º do art. 26 da Lei nº 6.385, de 7 de dezembro de 1976</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc4">
+            <!--Link: urn:lex:br:federal:lei:1995-06-29;9069!art67-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:1995-06-29;9069!art67">art. 67 da Lei nº 9.069, de 29 de junho de 1995</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc5">
+            <!--Link: urn:lex:br:federal:lei:1997-03-14;9447!art9-->
+            
+            <Rotulo>V –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:1997-03-14;9447!art9">art. 9º da Lei nº 9.447, de 14 de março de 1997</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc6">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art3-->
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art3">art. 3º da Medida Provisória nº 2.224, de 4 de setembro de 2001</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc7">
+            <!--Link: urn:lex:br:federal:lei:2006-11-28;11371!art12-->
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:2006-11-28;11371!art12">art. 12 da Lei nº 11.371, de 28 de novembro de 2006</span>; e</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc8">
+            <!--Link: urn:lex:br:federal:lei:2008-10-08;11795!art7_cpt_inc4--><!--Link: urn:lex:br:federal:lei:2008-10-08;11795!art43--><!--Link: urn:lex:br:federal:lei:2008-10-08;11795!art44-->
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:2008-10-08;11795!art7_cpt_inc4">inciso IV do caput do art. 7º</span> e <span xlink:href="urn:lex:br:federal:lei:2008-10-08;11795!art43">os arts. 43</span> e <span xlink:href="urn:lex:br:federal:lei:2008-10-08;11795!art44">44 da Lei nº 11.795, de 8 de outubro de 2008</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc9">
+            <!--Link: urn:lex:br:federal:lei:1962-09-03;4131!art23_par5--><!--Link: urn:lex:br:federal:lei:1962-09-03;4131!art58-->
+            
+            <Rotulo>IX –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:1962-09-03;4131!art23_par5">§ 5º do art. 23</span> e o <span xlink:href="urn:lex:br:federal:lei:1962-09-03;4131!art58">art. 58 da Lei nº 4.131, de 3 de setembro de 1962</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc10">
+            <!--Link: urn:lex:br:federal:lei:1964-08-21;4380!art43-->
+            
+            <Rotulo>X –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:1964-08-21;4380!art43">art. 43 da Lei nº 4.380, de 21 de agosto de 1964</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc11">
+            <!--Link: urn:lex:br:federal:lei:1965-07-14;4728!art4_par6-->
+            
+            <Rotulo>XI –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:1965-07-14;4728!art4_par6">§ 6º do art. 4º da Lei nº 4.728, de 14 de julho de 1965</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc12">
+            <!--Link: urn:lex:br:federal:lei:1999-11-23;9873!art3_cpt_inc2-->
+            
+            <Rotulo>XII –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei:1999-11-23;9873!art3_cpt_inc2">inciso II do art. 3º da Lei nº 9.873, de 23 de novembro de 1999</span>;</p>
+            
+          </Inciso><Inciso id="art72_cpt_inc13">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art5-->
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-09-04;2224!art5">art. 5º da Medida Provisória nº 2.224, de 4 de setembro de 2001</span>.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

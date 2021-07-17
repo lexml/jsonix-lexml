@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;329@data.evento;leitura;2017-09-14t11.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 329 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta o parágrafo único ao <span xlink:href="urn:lex:br:federal:lei:1964-03-17;4320!art47">art. 47 da Lei nº 4.320, de 17 de março de 1964</span>, que estatui Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal, para determinar a priorização das despesas com saúde e educação na execução orçamentária da União, Estados, Distrito Federal e Municípios.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-03-17;4320!art47-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1964-03-17;4320!art47">art. 47 da Lei nº 4.320, de 17 de março de 1964</span>, passa a vigorar acrescido do parágrafo único, com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1964-03-17;4320" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1964-03-17;4320 -> MatchByBase(urn:lex:br:federal:lei:1964-03-17;4320,1964,Some((3,17)),Map(art47 -> ExactMatch(URN(1964,Some((3,17)),art47,urn:lex:br:federal:lei:1964-03-17;4320!art47)), art47_cpt -> PrefixMatch(URN(1964,Some((3,17)),art47,urn:lex:br:federal:lei:1964-03-17;4320!art47),art47_cpt), art47_par1 -> PrefixMatch(URN(1964,Some((3,17)),art47,urn:lex:br:federal:lei:1964-03-17;4320!art47),art47_par1)))))-->
+              <Artigo xlink:href="art47" id="art1_cpt_alt1_art47" abreAspas="s">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput xlink:href="art47_cpt" id="art1_cpt_alt1_art47_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art47_par1u" id="art1_cpt_alt1_art47_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A elaboração e a alteração do quadro de cotas trimestrais de despesa levarão em consideração os limites constitucionais mínimos de aplicação de recursos nas ações e serviços públicos de educação e saúde, de forma a garantir prioridade no pagamento dessas despesas sobre as demais.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor no exercício financeiro seguinte ao de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

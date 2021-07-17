@@ -1,0 +1,94 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;174@data.evento;leitura;2017-06-06t14.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 174 DE 2017</Epigrafe>
+      <Ementa id="ementa">Regulamenta o exercício da profissão de terapeuta naturista.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>É assegurado o exercício da atividade de Terapeuta Naturista:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aos portadores de diploma de graduação em qualquer das modalidades de terapia naturista, expedido por instituições de ensino oficiais ou reconhecidas pelo Ministério da Educação;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aos portadores de diploma de graduação em qualquer das modalidades de terapia naturista, expedido por estabelecimento estrangeiro de ensino superior, depois de revalidado por instituições de ensino oficiais ou reconhecidas pelo Ministério da Educação, de acordo com a legislação em vigor;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>aos portadores de diploma em curso de pós-graduação em qualquer das modalidades de terapia naturista, expedido por instituições de ensino oficiais ou reconhecidas pelo Ministério da Educação;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>aos portadores de diploma em curso de pós-graduação em qualquer das modalidades de terapia naturista, expedido por estabelecimento estrangeiro de ensino superior, depois de revalidado por instituições de ensino oficiais ou reconhecidas pelo Ministério da Educação, de acordo com a legislação em vigor;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>aos portadores de diploma de curso de educação profissional técnica de nível médio em qualquer das modalidades de terapia naturista, expedido por instituições de ensino oficiais ou reconhecidas pelo Ministério da Educação;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>aos profissionais que, comprovadamente, exerçam atividades em qualquer das modalidades de terapia naturista há pelo menos três anos ininterruptos, quando da promulgação desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para os efeitos desta Lei, consideram-se modalidades de terapia naturista aquelas que compreendem atividades de atuação terapêutica compreendidas nos seguintes grupos, sem prejuízo de outras que possam ser agregadas: Grupo 1 – modalidades de medicina oriental ou terapias orientais, compreendendo: acupuntura, auriculopuntura e auriculoterapia, Tui-Na, Do-In, fitoterapia oriental, mochabustão, ventosaterapia, reflexologia, Qi Gong; quiropraxia, quiropatia, shiatsuterapia e Chi Kung; Grupo 2 – modalidades de terapia tradicional ayurvédica ou ayurveda, compreendendo: fitoterapia dietoterápica ayurvédica, procedimento manuais ayurvédicos, aromaterapia ayurvédica, hidroterapia ayurvédica, cromoterapia ayurvédica, gemoterapia ayurvédica, diagnóstico através de técnicas ayurvédicas, meditação ayurvédica, Yoga, astrologia ayurvédica, Pancha Karma; Tai-Chi-Chuan; Grupo 3 – modalidades de terapias naturais não orientais ou ayurvédicas, compreendendo: aromaterapia, arteterapia, terapia floral, geoterapia, hidroterapia e terapias termais, dietoterapia, cromoterapia, homeopatia, nosodioterapia, terapia reichiana, fitoterapia, reiki, bioenergética, iridologia, macrobiótica, técnica Alexander, alimentoterapia, animaterapia, apometria, argiloterapia, arteterapia, aurasomaterapia,, apiteria, aromaterapia, bambuterapia, bioenergética, biodança, body talk, cinesoterapia, chacraterapia, coaching e mentoring (terapia de aconselhamento), terapia crânio-sacral, cristaloterapia, cromoterapia, cura quântica, dietoterapia, estética facial e corporal, eutonia, geobiologia, geoterapia, hemoterapia, hidroterapia, homeopatia, hipnose, iridologia, kiriliangrafia, laserterapia, leitura da aura, magnetoterapia, massoterapia, meditação, mio-facial, morfologia do sangue vivo, musicoterapia, terapia ortomolecular, osteopatia, podologia, pulsologia, radiestesia, radiônica, reflexologia, reiki, relaxamento, ressonância biofônica, rolfismo, shantala, regressão, terapia transpessoal, termal, terapia xamânica, trofoterapia; e Grupo 4 – modalidades de terapias psicanalíticas e psicopedagógicas, compreendendo: psicanálise clínica, psicanálise didata, psicanálise infantil, psicanálise teológica, psicanálise cognitiva, psicossomática, psicanálise institucional, psicanálise hospitalar, psicopedagogia clínica, psicopedagogia institucional, psicopedagogia hospitalar, psicomotricidade, filosofia clínica, antroposofia, constelação familiar, hipnose clínica, hipnoterapia regressiva, access consciousness (barras de acesso à consciência), neurolinguística e programação neurolinguística, neuropatia, parapsicologia, pranoterapia, psicanálise, psicoterapia, psicossomática.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os ministérios competentes regulamentarão conjuntamente o rol das modalidades de terapia naturista, bem como da natureza das atividades exercidas e o currículo dos cursos de graduação, pós-graduação e técnicos referidos no art. 1º.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,229 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;488@data.evento;leitura;2017-12-06t14.12"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 488 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta dispositivos à <span xlink:href="urn:lex:br:federal:lei.complementar:1998-02-26;95">Lei Complementar nº 95, de 26 de fevereiro de 1998</span>, com o intuito de estabelecer normas e diretrizes para encaminhamento de proposições legislativas que instituam políticas públicas, propiciando melhor responsabilidade gerencial na Administração Pública.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:1998-02-26;95-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei.complementar:1998-02-26;95">Lei Complementar nº 95, de 26 de fevereiro de 1998</span>, passa a vigorar acrescida do seguinte capítulo III-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:1998-02-26;95" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:1998-02-26;95 -> MatchByBase(urn:lex:br:federal:lei.complementar:1998-02-26;95,1998,Some((2,26)),Map(art17-3 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3), art17-2_cpt_inc2 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc2), art17-1_par1 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1_par1), art17-1_par1_inc5 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1_par1_inc5), art17-3_cpt_inc2_ali5 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt_inc2_ali5), art17-3_cpt_inc2_ali3 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt_inc2_ali3), art17-3_cpt_inc2 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt_inc2), art17-2_cpt -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt), art17-1_par1_inc2 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1_par1_inc2), art17-2_cpt_inc3 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc3), art17-3_cpt -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt), art17-2_cpt_inc9 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc9), art17-3_cpt_inc2_ali2 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt_inc2_ali2), art17-1 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1), art17-2_cpt_inc4 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc4), art17-1_par1_inc3 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1_par1_inc3), art17-3_cpt_inc2_ali1 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt_inc2_ali1), art17-2_cpt_inc8 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc8), art17-2_cpt_inc7 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc7), art17-2_cpt_inc5 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc5), art17-1_cpt -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1_cpt), art17-3_cpt_inc1 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt_inc1), art17-2_cpt_inc1 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc1), art17-2_par1 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_par1), art17-2 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2), cap3-20689 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),cap3-20689), art17-1_par1_inc1 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1_par1_inc1), art17-2_cpt_inc10 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc10), art17-3_cpt_inc2_ali4 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-3_cpt_inc2_ali4), art17-1_par1_inc4 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-1_par1_inc4), art17-2_cpt_inc6 -> PrefixMatch(URN(1998,Some((2,26)),,urn:lex:br:federal:lei.complementar:1998-02-26;95),art17-2_cpt_inc6)))))-->
+              <Capitulo xlink:href="cap3-20689" id="art1_cpt_alt1_cap3-20689" abreAspas="s" fechaAspas="s">
+            
+            
+            <Rotulo>CAPÍTULO III-ADOS</Rotulo>
+            <NomeAgrupador>projetos de lei de que instituam políticas públicas</NomeAgrupador>
+            <Artigo xlink:href="art17-1" id="art1_cpt_alt1_art17-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-A.</Rotulo>
+            
+            <Caput xlink:href="art17-1_cpt" id="art1_cpt_alt1_art17-1_cpt">
+            
+            
+            
+            <p>Os projetos de lei que instituam políticas públicas serão acompanhados de avaliação prévia de impacto legislativo, com o intuito de garantir a economicidade, a efetividade, a eficácia e a eficiência das ações públicas.</p>
+            
+          </Caput><Paragrafo xlink:href="art17-1_par1" id="art1_cpt_alt1_art17-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para fins deste artigo, entende-se por:</p>
+            <Inciso xlink:href="art17-1_par1_inc1" id="art1_cpt_alt1_art17-1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>política pública, a mobilização político-administrativa para articular e alocar recursos e esforços para tentar solucionar dado problema coletivo;</p>
+            
+          </Inciso><Inciso xlink:href="art17-1_par1_inc2" id="art1_cpt_alt1_art17-1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>economicidade, a minimização dos custos dos recursos utilizados na consecução de uma atividade, sem comprometimento dos padrões de qualidade;</p>
+            
+          </Inciso><Inciso xlink:href="art17-1_par1_inc3" id="art1_cpt_alt1_art17-1_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>efetividade, o alcance dos resultados pretendidos, a médio e longo prazo;</p>
+            
+          </Inciso><Inciso xlink:href="art17-1_par1_inc4" id="art1_cpt_alt1_art17-1_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>eficácia, o alcance das metas programadas e cumprimento dos objetivos imediatos; e</p>
+            
+          </Inciso><Inciso xlink:href="art17-1_par1_inc5" id="art1_cpt_alt1_art17-1_par1_inc5" fechaAspas="s">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>eficiência, a menor relação entre os custos impostos pela lei e os benefícios oriundos dela</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art17-2" id="art1_cpt_alt1_art17-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-B.</Rotulo>
+            
+            <Caput xlink:href="art17-2_cpt" id="art1_cpt_alt1_art17-2_cpt">
+            
+            
+            
+            <p>Na concepção das políticas públicas, de forma a incrementar a capacidade de governança e gestão da Administração Pública, devem ser definidos:</p>
+            <Inciso xlink:href="art17-2_cpt_inc1" id="art1_cpt_alt1_art17-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os responsáveis pela coordenação e articulação das ações concernentes à política;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc2" id="art1_cpt_alt1_art17-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a atuação dos diversos órgãos, instituições e esferas de governo envolvidos, garantindo a coerência e a sinergia da ação estatal nas dimensões econômica, social e ambiental e incentivando a participação social no processo decisório das políticas públicas;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc3" id="art1_cpt_alt1_art17-2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as competências das principais partes envolvidas na política pública, incluindo os respectivos objetivos, papéis, responsabilidades, recursos e obrigações;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc4" id="art1_cpt_alt1_art17-2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o grau de focalização ou universalização da política pública, considerando as necessidades do público-alvo, bem como os recursos disponíveis;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc5" id="art1_cpt_alt1_art17-2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a abordagem para tratar a solução de conflitos, bem como estabelecer formas de revisão, fixando a periodicidade da avaliação de desempenho da política com o intuito de se promover ajustes que se façam necessários;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc6" id="art1_cpt_alt1_art17-2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>plano de gestão de riscos com a identificação dos principais problemas que podem surgir juntamente com as respectivas medidas mitigadoras para tratar esses riscos;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc7" id="art1_cpt_alt1_art17-2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os marcos de verificação, indicadores-chave e metas para os principais objetivos que permitam a medição do progresso e facilitem a identificação de interdependências e obstáculos;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc8" id="art1_cpt_alt1_art17-2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a formalização dos processos decisórios correlatos, incluindo o registro da motivação e do conjunto de evidências que embasam a escolha política;</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc9" id="art1_cpt_alt1_art17-2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>mecanismos e procedimentos internos de integridade e auditoria na aplicação efetiva de códigos de ética e de conduta, bem como de formalização de instrumentos de transparência; e</p>
+            
+          </Inciso><Inciso xlink:href="art17-2_cpt_inc10" id="art1_cpt_alt1_art17-2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>plano de gestão documental, com o intuito de preservar a memória unificada de todas as fases da política pública desde a sua concepção.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art17-2_par1u" id="art1_cpt_alt1_art17-2_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O órgão responsável pela condução da política deverá publicar, para conhecimento de todas as partes interessadas, a estrutura de governança vigente na política pública</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art17-3" id="art1_cpt_alt1_art17-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17-C.</Rotulo>
+            
+            <Caput xlink:href="art17-3_cpt" id="art1_cpt_alt1_art17-3_cpt">
+            
+            
+            
+            <p>A avaliação prévia do impacto legislativo, consoante o que dispõe o art. 17-A, conterá:</p>
+            <Inciso xlink:href="art17-3_cpt_inc1" id="art1_cpt_alt1_art17-3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>parecer conclusivo sobre a constitucionalidade, a juridicidade e a regularidade formal do ato normativo proposto; e</p>
+            
+          </Inciso><Inciso xlink:href="art17-3_cpt_inc2" id="art1_cpt_alt1_art17-3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>notas explicativas que demonstrem, no que for pertinente, a economicidade, a efetividade, a eficácia e a eficiência das medidas constantes do projeto, contendo:</p>
+            <Alinea xlink:href="art17-3_cpt_inc2_ali1" id="art1_cpt_alt1_art17-3_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>síntese qualitativa e quantitativa do problema ou da situação que reclama providências;</p>
+            
+          </Alinea><Alinea xlink:href="art17-3_cpt_inc2_ali2" id="art1_cpt_alt1_art17-3_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>objetivos da proposição e sua vinculação com o problema definido;</p>
+            
+          </Alinea><Alinea xlink:href="art17-3_cpt_inc2_ali3" id="art1_cpt_alt1_art17-3_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>alternativas existentes para a solução do problema identificado, com respectiva previsão dos impactos econômicos e sociais, justificando a escolha da solução ou providência contida no projeto proposto, com comparação das análises de custo-benefício global de cada alternativa;</p>
+            
+          </Alinea><Alinea xlink:href="art17-3_cpt_inc2_ali4" id="art1_cpt_alt1_art17-3_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>custos administrativos da solução ou providência contida no projeto proposto, caso a alternativa estabelecida na proposição entre em vigor; e</p>
+            
+          </Alinea><Alinea xlink:href="art17-3_cpt_inc2_ali5" id="art1_cpt_alt1_art17-3_cpt_inc2_ali5" fechaAspas="s">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>indicação da existência de prévia dotação orçamentária ou a fonte de recursos, quando a proposta demandar despesas, e como a ação está enquadrada no Plano Plurianual vigente</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor no prazo de noventa dias, a partir da data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

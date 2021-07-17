@@ -1,0 +1,142 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;8"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 8 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre medidas de prevenção e repressão ao contrabando, ao descaminho, ao furto, ao roubo e à receptação; altera as <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Leis nºs 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), e 6.437, de 20 de agosto de 1977; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre medidas de prevenção e repressão ao contrabando, ao descaminho, ao furto, ao roubo e à receptação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), passa a vigorar acrescida do seguinte art. 278-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art278-1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art278-1), art278-1_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art278-1_cpt), art278-1_par1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art278-1_par1), art278-1_par2 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art278-1_par2)))))-->
+              <Artigo xlink:href="art278-1" id="art2_cpt_alt1_art278-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 278-A.</Rotulo>
+            
+            <Caput xlink:href="art278-1_cpt" id="art2_cpt_alt1_art278-1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180--><!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art334--><!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art334-1-->
+            
+            
+            <p>O condutor que se utilize de veículo para a prática do crime de receptação, descaminho, contrabando, previstos nos <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180">arts. 180</span>, <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art334">334</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art334-1">334-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal), condenado por um desses crimes em decisão judicial transitada em julgado, terá cassado seu documento de habilitação ou será proibido de obter a habilitação para dirigir veículo automotor pelo prazo de cinco anos.</p>
+            
+          </Caput><Paragrafo xlink:href="art278-1_par1" id="art2_cpt_alt1_art278-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O condutor condenado poderá requerer sua reabilitação, submetendo-se a todos os exames necessários à habilitação, na forma deste Código.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art278-1_par2" id="art2_cpt_alt1_art278-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso do condutor preso em flagrante na prática dos crimes de que trata o caput deste artigo, poderá o juiz, em qualquer fase da investigação ou da ação penal, se houver necessidade para a garantia da ordem pública, como medida cautelar, de ofício, ou a requerimento do Ministério Público ou ainda mediante representação da autoridade policial, decretar, em decisão motivada, a suspensão da permissão ou da habilitação para dirigir veículo automotor, ou a proibição de sua obtenção.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Na parte interna dos locais em que se vendem cigarros e bebidas alcoólicas deverá ser afixada advertência escrita, de forma legível e ostensiva, com os seguintes dizeres: “É crime vender cigarros e bebidas de origem ilícita. Denuncie!”.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1977-08-20;6437!art10_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1977-08-20;6437!art10_cpt">caput do art. 10 da Lei nº 6.437, de 20 de agosto de 1977</span>, passa a vigorar acrescido do seguinte inciso XLIII:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1977-08-20;6437" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1977-08-20;6437 -> MatchByBase(urn:lex:br:federal:lei:1977-08-20;6437,1977,Some((8,20)),Map(inc43 -> NoMatch(URN(1977,Some((8,20)),art10_cpt,urn:lex:br:federal:lei:1977-08-20;6437!art10_cpt),inc43)))))-->
+              <p>“Art. 10. ..............................</p><Omissis id="art4_cpt_alt1_omi1"/><Inciso xlink:href="inc43" id="art4_cpt_alt1_inc43">
+            
+            
+            <Rotulo>XLIII –</Rotulo>
+            <p>deixar de afixar advertência escrita, de forma legível e ostensiva, de que é crime vender cigarros e bebidas contrabandeadas e/ou falsificadas. Pena – advertência, interdição, cancelamento da autorização de funcionamento e/ou multa.</p>
+            
+          </Inciso><Omissis id="art4_cpt_alt1_omi2" fechaAspas="s" notaAlteracao="NR"/>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A pessoa jurídica que transportar, distribuir, armazenar ou comercializar produtos fruto de contrabando, descaminho, ou falsificados, poderá, após processo administrativo em que lhe sejam garantidos o contraditório e a ampla defesa, ter baixada sua inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ).</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Fica vedada a concessão de novo registro no CNPJ, pelo prazo de um a cinco anos, à pessoa jurídica que tenha sócios ou administradores em comum com aquela pessoa jurídica cujo CNPJ tiver sido baixado na forma do caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>No caso de produtos decorrentes de roubo ou furto apreendidos cuja propriedade não puder ser determinada ou não for reclamada no prazo de até um ano, será aplicada a pena de perdimento de bens, devendo ser incorporados ao patrimônio público, em conformidade com a legislação em vigor.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação, exceto os arts. 3º e 4º, que entram em vigor após decorridos cento e vinte dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

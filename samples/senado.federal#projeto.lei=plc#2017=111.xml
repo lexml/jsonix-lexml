@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;111"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 111 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o uso imediato de bens imóveis e infungíveis apreendidos para destinação ao Fundo de Prevenção, Recuperação e de Combate às Drogas de Abuso (Funcab).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1986-12-19;7560!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1986-12-19;7560!art4">art. 4º da Lei nº 7.560, de 19 de dezembro de 1986</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1986-12-19;7560" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1986-12-19;7560 -> MatchByBase(urn:lex:br:federal:lei:1986-12-19;7560,1986,Some((12,19)),Map(art4 -> ExactMatch(URN(1986,Some((12,19)),art4,urn:lex:br:federal:lei:1986-12-19;7560!art4)), art4_cpt -> PrefixMatch(URN(1986,Some((12,19)),art4,urn:lex:br:federal:lei:1986-12-19;7560!art4),art4_cpt), art4_par1 -> PrefixMatch(URN(1986,Some((12,19)),art4,urn:lex:br:federal:lei:1986-12-19;7560!art4),art4_par1)))))-->
+              <Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>Todo e qualquer bem imóvel ou infungível de valor econômico apreendido em decorrência do combate ao tráfico de drogas de abuso ou utilizado de qualquer forma em atividades ilícitas de produção ou comercialização de drogas abusivas, ou ainda que haja sido adquirido com recursos provenientes do referido tráfico e perdido em favor da União, constituirá recurso do Funcab, ressalvados os direitos do lesado ou de terceiros de boa-fé e após decisão judicial ou administrativa tomada em caráter definitivo.</p>
+            
+          </Caput><Paragrafo xlink:href="art4_par1u" id="art1_cpt_alt1_art4_par1u" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:2006-08-23;11343!art62--><!--Link: urn:lex:br:federal:lei:2006-08-23;11343!art63--><!--Link: urn:lex:br:federal:lei:2006-08-23;11343!art64-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Tratando-se de bens fungíveis e coisas facilmente deterioráveis, aplica-se o disposto nos <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343!art62">arts. 62</span>, <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343!art63">63</span> e <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343!art64">64 da Lei nº 11.343, de 23 de agosto de 2006</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;36@data.evento;leitura;2017-09-13t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 36 DE 2017</Epigrafe>
+      <Ementa id="ementa">Fixa o prazo de cinco sessões para o despacho de requerimentos de informações apresentados pelos Senadores.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc2">art. 215, inciso II, do Regimento Interno do Senado Federal</span> passa a vigorar acrescido da alínea ‘g’, assim redigida:</p>
+            <Alteracao xml:base="urn:lex:br:senado.federal:resolucao:1970-11-27;93" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:senado.federal:resolucao:1970-11-27;93 -> MatchByBase(urn:lex:br:senado.federal:resolucao:1970-11-27;93,1970,Some((11,27)),Map(art215 -> SuperPrefixMatch(URN(1970,Some((11,27)),art215_cpt_inc2,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc2),art215), art215_cpt -> SuperPrefixMatch(URN(1970,Some((11,27)),art215_cpt_inc2,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc2),art215_cpt), art215_cpt_inc2 -> ExactMatch(URN(1970,Some((11,27)),art215_cpt_inc2,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc2)), art215_cpt_inc2_ali7 -> PrefixMatch(URN(1970,Some((11,27)),art215_cpt_inc2,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc2),art215_cpt_inc2_ali7)))))-->
+              <Artigo xlink:href="art215" id="art1_cpt_alt1_art215" abreAspas="s">
+            
+            
+            <Rotulo>Art. 215.</Rotulo>
+            
+            <Caput xlink:href="art215_cpt" id="art1_cpt_alt1_art215_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art215_cpt_omi1"/><Inciso xlink:href="art215_cpt_inc2" id="art1_cpt_alt1_art215_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>dependentes de despacho do Presidente:</p>
+            <Omissis id="art1_cpt_alt1_art215_cpt_inc2_omi1"/><Alinea xlink:href="art215_cpt_inc2_ali7" id="art1_cpt_alt1_art215_cpt_inc2_ali7" fechaAspas="s">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>de informação a Ministro de Estado ou a qualquer titular de órgão diretamente subordinado à Presidência da República (Const., art. 50, § 2º), no prazo de cinco sessões.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc1_ali1-->
+            
+            
+            <p>Revoga-se a <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93!art215_cpt_inc1_ali1">alínea a do inciso I do art. 215 do Regimento Interno do Senado Federal</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,55 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;84@data.evento;leitura;2017-03-29t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 84 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2015-07-06;13146">Lei nº 13.146, de 6 de julho de 2015</span>, que “institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)”, para estabelecer regra transitória de reconhecimento da condição de pessoa com deficiência.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2015-07-06;13146-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2015-07-06;13146">Lei nº 13.146, de 6 de julho de 2015</span>, passa a vigorar acrescida do seguinte art. 121-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2015-07-06;13146" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2015-07-06;13146 -> MatchByBase(urn:lex:br:federal:lei:2015-07-06;13146,2015,Some((7,6)),Map(art121-1 -> PrefixMatch(URN(2015,Some((7,6)),,urn:lex:br:federal:lei:2015-07-06;13146),art121-1), art121-1_cpt -> PrefixMatch(URN(2015,Some((7,6)),,urn:lex:br:federal:lei:2015-07-06;13146),art121-1_cpt)))))-->
+              <Artigo xlink:href="art121-1" id="art1_cpt_alt1_art121-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 121-A.</Rotulo>
+            
+            <Caput xlink:href="art121-1_cpt" id="art1_cpt_alt1_art121-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Até que sejam criados os mecanismos de avaliação previstos no art. 2º, § 2º, desta Lei, serão suficientes para a identificação da pessoa com deficiência laudos emitidos por profissionais habilitados para o reconhecimento de condições físicas, mentais, sensoriais ou funcionais significativamente diferentes dos padrões socialmente construídos, que, em razão de barreiras físicas, atitudinais, normativas ou operacionais, sujeitem essa pessoa a restrições no acesso a bens, serviços e espaços, limitando a sua participação plena e efetiva na sociedade e o exercício de seus direitos em igualdade de condições com as demais pessoas.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

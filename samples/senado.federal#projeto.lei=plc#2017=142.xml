@@ -1,0 +1,160 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;142"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 142 DE 2017</Epigrafe>
+      <Ementa id="ementa">Cria, no âmbito do Tribunal Superior Eleitoral, o Centro Cultural da Justiça Eleitoral (CCJE).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica criado, no âmbito do Tribunal Superior Eleitoral (TSE), o Centro Cultural da Justiça Eleitoral (CCJE).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O CCJE será regido por ato normativo específico aprovado pelo Plenário do TSE.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Sem prejuízo do disposto neste artigo, o TSE poderá estabelecer convênios para a gestão do CCJE.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Constituem objetivos do CCJE entre outros correlatos que poderão ser estabelecidos administrativamente:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>identificar e preservar os bens materiais e imateriais do patrimônio histórico e cultural da Justiça Eleitoral;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>elaborar e executar projetos e atividades voltados à aquisição, restauração, documentação, conservação e difusão de bens culturais de interesse da Justiça Eleitoral;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>desenvolver, sem fins lucrativos, programas, exposições e atividades educativas e culturais de interesse da Justiça Eleitoral e de promoção da cidadania, com fundamento no respeito à diversidade cultural e na participação comunitária;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>promover e incentivar estudos e pesquisas sobre a memória e a história da Justiça Eleitoral;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estimular publicações e peças publicitárias sobre temas vinculados a seus objetivos institucionais.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para a consecução dos seus objetivos, o CCJE, por meio do TSE, poderá:</p>
+            <Inciso id="art3_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estabelecer vínculos de cooperação e intercâmbio com instituições de ensino, órgãos e entidades públicas ou privadas, nacionais, estrangeiras ou supranacionais;</p>
+            
+          </Inciso><Inciso id="art3_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>formalizar parcerias com organizações da sociedade civil para a execução de atividades ou de projetos previamente estabelecidos em planos de trabalho inseridos em termos de colaboração ou de fomento e em acordos de cooperação;</p>
+            
+          </Inciso><Inciso id="art3_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apresentar, nos termos da legislação federal, estadual ou municipal, projetos para obtenção de recursos de fundos de incentivo à cultura.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O TSE garantirá a disponibilidade de recursos humanos e materiais suficientes para o cumprimento dos objetivos do CCJE.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O CCJE terá, como estrutura mínima, dois cargos em comissão de Assessor II, nível CJ-2, e duas funções comissionadas de Assistente II, nível FC-2.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para atendimento ao previsto neste artigo, o TSE promoverá adequação interna na distribuição dos cargos e funções já existentes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>As despesas decorrentes da aplicação desta Lei correrão à conta da dotação orçamentária consignada ao TSE.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,145 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;7@data.evento;leitura;2017-03-09t11.43"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 7 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:resolucao:2001;40">Resolução nº 40, de 2001</span>, para dispor sobre a redução temporária do limite da Dívida Consolidada dos Estados e do Distrito Federal.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:2001;40!art3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:resolucao:2001;40!art3">art. 3º da Resolução nº 40, de 2001</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:2001;40" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:2001;40 -> MatchByBase(urn:lex:br:federal:resolucao:2001;40,2001,None,Map(art3_cpt -> PrefixMatch(URN(2001,None,art3,urn:lex:br:federal:resolucao:2001;40!art3),art3_cpt), art3_par3 -> PrefixMatch(URN(2001,None,art3,urn:lex:br:federal:resolucao:2001;40!art3),art3_par3), art3_par1 -> PrefixMatch(URN(2001,None,art3,urn:lex:br:federal:resolucao:2001;40!art3),art3_par1), art3_par2 -> PrefixMatch(URN(2001,None,art3,urn:lex:br:federal:resolucao:2001;40!art3),art3_par2), art3 -> ExactMatch(URN(2001,None,art3,urn:lex:br:federal:resolucao:2001;40!art3))))))-->
+              <Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art3_omi1"/><Paragrafo xlink:href="art3_par1" id="art1_cpt_alt1_art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos anos de 2017 a 2026, o montante da Dívida Consolidada Líquida dos Estados e do Distrito Federal será de 1,5 (um inteiro e cinco décimos) vezes a receita corrente líquida, definida na forma do art. 2º, devendo aquele Ente que apresentar valor superior proceder, já a partir do ano de 2017, até o final do ano 2021, reduções de, no mínimo, 1/5 (um quinto) do valor excedente a cada exercício financeiro.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art3_par2" id="art1_cpt_alt1_art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A inobservância da trajetória de ajuste definida no parágrafo anterior implica automático impedimento para a realização de novas operações de crédito, enquanto perdurar o seu descumprimento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art3_par3" id="art1_cpt_alt1_art3_par3" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art31-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Após os prazos a que se referem o caput e o §1º, a inobservância dos limites estabelecidos neste artigo sujeitará os entes da Federação às disposições do <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art31">art. 31 da Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:2001;40!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:resolucao:2001;40!art4">art. 4º da Resolução nº 40, de 2001</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:2001;40" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:2001;40 -> MatchByBase(urn:lex:br:federal:resolucao:2001;40,2001,None,Map(art4 -> ExactMatch(URN(2001,None,art4,urn:lex:br:federal:resolucao:2001;40!art4)), art4_cpt_inc4_ali2 -> PrefixMatch(URN(2001,None,art4,urn:lex:br:federal:resolucao:2001;40!art4),art4_cpt_inc4_ali2), art4_cpt -> PrefixMatch(URN(2001,None,art4,urn:lex:br:federal:resolucao:2001;40!art4),art4_cpt), art4_cpt_inc4 -> PrefixMatch(URN(2001,None,art4,urn:lex:br:federal:resolucao:2001;40!art4),art4_cpt_inc4), art4_cpt_inc1 -> PrefixMatch(URN(2001,None,art4,urn:lex:br:federal:resolucao:2001;40!art4),art4_cpt_inc1)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>No período compreendido entre a data da publicação desta Resolução e o final do décimo quinto exercício financeiro a que se refere o caput do art. 3º, serão observadas as seguintes condições:</p>
+            <Inciso xlink:href="art4_cpt_inc1" id="art2_cpt_alt1_art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>O excedente em relação aos limites previstos no caput do art. 3º apurado ao final do exercício do ano da publicação desta Resolução deverá ser reduzido, no mínimo, à proporção de 1/15 (um quinze avo) a cada exercício financeiro;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art4_cpt_omi1"/><Inciso xlink:href="art4_cpt_inc4" id="art2_cpt_alt1_art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Durante o período de ajuste de 15 (quinze) exercícios financeiros a que se refere o caput, aplicar-se-ão os limites previstos no caput do art. 3º para o Estado, o Distrito Federal ou o Município que:</p>
+            <Omissis id="art2_cpt_alt1_art4_cpt_inc4_omi1"/><Alinea xlink:href="art4_cpt_inc4_ali2" id="art2_cpt_alt1_art4_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>atinja o limite previsto no caput do art. 3º antes do final do período de ajuste de 15 (quinze) exercícios financeiros.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:2001;40-->
+            
+            
+            <p>É incluído o artigo 4º-A à <span xlink:href="urn:lex:br:federal:resolucao:2001;40">Resolução nº 40, de 2001</span>, com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:2001;40" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:2001;40 -> MatchByBase(urn:lex:br:federal:resolucao:2001;40,2001,None,Map(art4-1 -> PrefixMatch(URN(2001,None,,urn:lex:br:federal:resolucao:2001;40),art4-1), art4-1_cpt -> PrefixMatch(URN(2001,None,,urn:lex:br:federal:resolucao:2001;40),art4-1_cpt)))))-->
+              <Artigo xlink:href="art4-1" id="art3_cpt_alt1_art4-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º-A.</Rotulo>
+            
+            <Caput xlink:href="art4-1_cpt" id="art3_cpt_alt1_art4-1_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000;101!art54-->
+            
+            
+            <p>Para fins de acompanhamento da trajetória de ajuste dos limites de que trata o § 1º do art. 3º, a relação entre o montante da dívida consolidada líquida e a receita corrente líquida será apurada a cada quadrimestre civil e consignada no Relatório de Gestão Fiscal a que se refere o <span xlink:href="urn:lex:br:federal:lei.complementar:2000;101!art54">art. 54 da Lei Complementar nº 101, de 2000</span>.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

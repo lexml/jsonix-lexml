@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;493@data.evento;leitura;2017-12-07t11.26"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 493 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei.complementar:2003-07-31;116">Lei Complementar nº 116, de 31 de julho de 2003</span>, para estabelecer o local do embarque do tomador dos serviços de intermediação eletrônica de transporte privado individual previamente contratado por intermédio de provedor de aplicações da internet para fins de incidência do Imposto Sobre Serviços de Qualquer Natureza.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2003-07-31;116!art3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2003-07-31;116!art3">art. 3º, da Lei Complementar nº 116, de 31 de julho de 2003</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2003-07-31;116" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2003-07-31;116 -> MatchByBase(urn:lex:br:federal:lei.complementar:2003-07-31;116,2003,Some((7,31)),Map(art3 -> ExactMatch(URN(2003,Some((7,31)),art3,urn:lex:br:federal:lei.complementar:2003-07-31;116!art3)), art3_cpt -> PrefixMatch(URN(2003,Some((7,31)),art3,urn:lex:br:federal:lei.complementar:2003-07-31;116!art3),art3_cpt), art3_cpt_inc26 -> PrefixMatch(URN(2003,Some((7,31)),art3,urn:lex:br:federal:lei.complementar:2003-07-31;116!art3),art3_cpt_inc26)))))-->
+              <Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt">
+            
+            
+            
+            <p>O serviço considera-se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXVI, quando o imposto será devido no local:</p>
+            <Omissis id="art1_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc26" id="art1_cpt_alt1_art3_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>do embarque do tomador dos serviços descritos no subitem 1.10 da lista anexa.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2003-07-31;116-->
+            
+            
+            <p>A lista de serviços anexa à <span xlink:href="urn:lex:br:federal:lei.complementar:2003-07-31;116">Lei Complementar nº 116, de 31 de julho de 2003</span>, passa a vigorar com as alterações constantes do Anexo desta Lei Complementar.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

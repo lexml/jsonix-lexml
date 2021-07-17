@@ -1,0 +1,274 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;114@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 114 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210!art61">art. 61 da Lei nº 7.210, de 11 de julho de 1984</span> – Lei de Execução Penal, bem como acrescenta novos dispositivos para dispor sobre as Ouvidorias.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O art. 61 da Lei nº 7.210, 11 de julho de 1984, passa a vigorar com a seguinte redação:</p>
+            <Alteracao id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map())-->
+              <Artigo xlink:href="art61" id="art1_cpt_alt1_art61" abreAspas="s">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput xlink:href="art61_cpt" id="art1_cpt_alt1_art61_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art61_cpt_omi1"/><Inciso xlink:href="art61_cpt_inc9" id="art1_cpt_alt1_art61_cpt_inc9" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>as Ouvidorias</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1984-07-11;7210-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210">Lei nº 7.210, de 11 de julho de 1984</span>, passa a vigorar acrescida dos seguintes artigos: DAS OUVIDORIAS</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1984-07-11;7210" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1984-07-11;7210 -> MatchByBase(urn:lex:br:federal:lei:1984-07-11;7210,1984,Some((7,11)),Map(art81-7_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-7_cpt), art81-8_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-8_cpt), art81-6_cpt_inc11 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc11), art81-6 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6), art81-7_par2 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-7_par2), art81-4_par4 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-4_par4), art81-6_cpt_inc3 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc3), art81-6_cpt_inc5 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc5), art81-3_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-3_par1), art81-6_cpt_inc7 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc7), art81-6_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt), art81-3 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-3), art81-6_cpt_inc2 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc2), art81-4_par3 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-4_par3), art81-7 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-7), art81-6_cpt_inc10 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc10), art81-8_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-8_par1), art81-6_cpt_inc6 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc6), art81-6_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_par1), art81-7_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-7_par1), art81-6_cpt_inc9 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc9), art81-4 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-4), art81-6_cpt_inc8 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc8), art81-6_cpt_inc4 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc4), art81-4_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-4_cpt), art81-4_par2 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-4_par2), art81-6_cpt_inc1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-6_cpt_inc1), art81-8 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-8), art81-3_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-3_cpt), art81-5 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-5), art81-4_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-4_par1), art81-5_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-5_cpt), art81-4_par5 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art81-4_par5)))))-->
+              <Artigo xlink:href="art81-3" id="art2_cpt_alt1_art81-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 81-C.</Rotulo>
+            
+            <Caput xlink:href="art81-3_cpt" id="art2_cpt_alt1_art81-3_cpt">
+            
+            
+            
+            <p>A Ouvidoria é órgão Administração da Execução Penal com atribuição específica para articular as demandas da sociedade civil e traduzi-las em propostas, políticas e ações institucionais concretas no âmbito do sistema penal.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art81-3_omi1"/><Paragrafo xlink:href="art81-3_par1u" id="art2_cpt_alt1_art81-3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Ouvidoria do Sistema Penitenciário Federal deverá contar, para seu pleno funcionamento, com servidores do Departamento Penitenciário Nacional.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-3_omi2"/>
+          </Artigo><Artigo xlink:href="art81-4" id="art2_cpt_alt1_art81-4">
+            
+            
+            <Rotulo>Art. 81-D.</Rotulo>
+            
+            <Caput xlink:href="art81-4_cpt" id="art2_cpt_alt1_art81-4_cpt">
+            
+            
+            
+            <p>O Ouvidor será nomeado pelo Governador do Estado dentre cidadãos indicados em lista tríplice.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art81-4_omi1"/><Paragrafo xlink:href="art81-4_par1" id="art2_cpt_alt1_art81-4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A lista tríplice será elaborada por organizações da sociedade civil comprometidas com a defesa dos direitos da pessoa humana para exercício de mandato fixo e pré-estabelecido, permitida uma recondução.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-4_omi2"/><Paragrafo xlink:href="art81-4_par2" id="art2_cpt_alt1_art81-4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não poderá integrar a lista tríplice servidor, ativo ou inativo, pertencente aos quadros de órgão e instituições incumbidos da execução das políticas de segurança pública e penitenciária.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-4_omi3"/><Paragrafo xlink:href="art81-4_par3" id="art2_cpt_alt1_art81-4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As normas regulamentadoras da forma de elaboração da lista tríplice deverão ser fixadas após ampla consulta pública, ouvidos os Conselhos da Comunidade e demais Conselhos de Direitos relacionados à execução penal.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-4_omi4"/><Paragrafo xlink:href="art81-4_par4" id="art2_cpt_alt1_art81-4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Ouvidor do Sistema Penitenciário Federal será nomeado pelo Diretor Geral do Departamento Penitenciário Nacional dentre cidadãos indicados em lista tríplice para mandato fixo e pré-estabelecido, permitida uma recondução.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-4_omi5"/><Paragrafo xlink:href="art81-4_par5" id="art2_cpt_alt1_art81-4_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A lista tríplice para Ouvidor do Sistema Penitenciário Federal será elaborada pelo Conselho Nacional de Política Criminal e Penitenciária, assegurada ampla participação social e observado o disposto no § 2º.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-4_omi6"/>
+          </Artigo><Artigo xlink:href="art81-5" id="art2_cpt_alt1_art81-5">
+            
+            
+            <Rotulo>Art. 81-E.</Rotulo>
+            
+            <Caput xlink:href="art81-5_cpt" id="art2_cpt_alt1_art81-5_cpt">
+            
+            
+            
+            <p>O Ouvidor somente poderá ser removido de sua função se comprovada prática de conduta incompatível, garantidos contraditório e ampla defesa.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art81-5_omi1"/>
+          </Artigo><Artigo xlink:href="art81-6" id="art2_cpt_alt1_art81-6">
+            
+            
+            <Rotulo>Art. 81-F.</Rotulo>
+            
+            <Caput xlink:href="art81-6_cpt" id="art2_cpt_alt1_art81-6_cpt">
+            
+            
+            
+            <p>Compete ao Ouvidor, entre outras atribuições:</p>
+            <Omissis id="art2_cpt_alt1_art81-6_cpt_omi1"/><Inciso xlink:href="art81-6_cpt_inc1" id="art2_cpt_alt1_art81-6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a defesa dos direitos e garantias fundamentais da pessoa presa ou condenada no âmbito da execução penal;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi2"/><Inciso xlink:href="art81-6_cpt_inc2" id="art2_cpt_alt1_art81-6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>receber, apurar e avaliar denúncias, reclamações e representações sobre ato considerado ilegal, arbitrário, negligente ou contrário ao interesse público imputado a servidores ou a órgãos de administração da execução penal, bem como qualquer sugestão ou manifestação sobre o funcionamento dos órgãos de administração da execução penal, devendo acompanhar sua tramitação e informar seu resultado ao interessado;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi3"/><Inciso xlink:href="art81-6_cpt_inc3" id="art2_cpt_alt1_art81-6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>preservar o sigilo de identidade do denunciante, desde que solicitado.</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi4"/><Inciso xlink:href="art81-6_cpt_inc4" id="art2_cpt_alt1_art81-6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>propor aos órgãos competentes a instauração de procedimentos destinados à apuração de responsabilidade administrativa, civil ou criminal, quando for o caso;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi5"/><Inciso xlink:href="art81-6_cpt_inc5" id="art2_cpt_alt1_art81-6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>recomendar aos órgãos da administração da execução penal a adoção de medidas que visem à plena garantia dos direitos das pessoas presas ou condenadas;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi6"/><Inciso xlink:href="art81-6_cpt_inc6" id="art2_cpt_alt1_art81-6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>estimular e apoiar a participação da sociedade civil na identificação dos problemas, fiscalização e planejamento da administração da execução penal;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi7"/><Inciso xlink:href="art81-6_cpt_inc7" id="art2_cpt_alt1_art81-6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>realizar seminários, pesquisas, cursos e outras atividades de intercâmbio com a sociedade civil sobre temas que digam respeito ao sistema prisional;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi8"/><Inciso xlink:href="art81-6_cpt_inc8" id="art2_cpt_alt1_art81-6_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>visitar pessoalmente ou, na impossibilidade, organizar visitas da equipe da Ouvidoria, ao menos uma vez ano, aos estabelecimentos prisionais pertencentes à sua área de atuação, produzindo relatórios para subsídio da gestão pública;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi9"/><Inciso xlink:href="art81-6_cpt_inc9" id="art2_cpt_alt1_art81-6_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>celebrar termos de cooperação com entidades públicas ou privadas que exerçam atividades congêneres às da Ouvidoria;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi10"/><Inciso xlink:href="art81-6_cpt_inc10" id="art2_cpt_alt1_art81-6_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>participar de reuniões colegiadas das diretorias dos órgãos de administração da execução penal, tendo direito a voz;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art81-6_cpt_omi11"/><Inciso xlink:href="art81-6_cpt_inc11" id="art2_cpt_alt1_art81-6_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>estimular realização de pesquisas científicas no âmbito da execução penal.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art81-6_omi1"/><Paragrafo xlink:href="art81-6_par1u" id="art2_cpt_alt1_art81-6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No exercício de suas atribuições, deve ser garantido ao ouvidor acesso a locais, dados e documentos necessários ao desenvolvimento de seus trabalhos, independentemente de autorização ou aviso prévio.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-6_omi2"/>
+          </Artigo><Artigo xlink:href="art81-7" id="art2_cpt_alt1_art81-7">
+            
+            
+            <Rotulo>Art. 81-G.</Rotulo>
+            
+            <Caput xlink:href="art81-7_cpt" id="art2_cpt_alt1_art81-7_cpt">
+            
+            
+            
+            <p>À Ouvidoria deve ser assegurada autonomia funcional e administrativa.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art81-7_omi1"/><Paragrafo xlink:href="art81-7_par1" id="art2_cpt_alt1_art81-7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A Ouvidoria poderá expedir recomendações para disciplinar a organização, as formas de acesso e atendimento ao público, os fluxos e as rotinas diárias, bem como o tratamento das demandas encaminhadas por pessoas presas ou condenadas, familiares, servidores da administração da execução penal e demais interessados.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-7_omi2"/><Paragrafo xlink:href="art81-7_par2" id="art2_cpt_alt1_art81-7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Ouvidoria deve contar com quadro funcional e recursos próprios para o cumprimento de suas finalidades.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art81-7_omi3"/>
+          </Artigo><Artigo xlink:href="art81-8" id="art2_cpt_alt1_art81-8">
+            
+            
+            <Rotulo>Art. 81-H.</Rotulo>
+            
+            <Caput xlink:href="art81-8_cpt" id="art2_cpt_alt1_art81-8_cpt">
+            
+            
+            
+            <p>A Ouvidoria deverá contar com Conselho Consultivo, composto por representantes de organizações da sociedade civil.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art81-8_omi1"/><Paragrafo xlink:href="art81-8_par1u" id="art2_cpt_alt1_art81-8_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Conselho Consultivo terá como finalidade acompanhar os trabalhos do órgão e formular críticas e sugestões para o aprimoramento de seus trabalho.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,157 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;153"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 153 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta dispositivos à <span xlink:href="urn:lex:br:federal:lei:1978-12-16;6615">Lei nº 6.615, de 16 de dezembro de 1978</span>, para dispor sobre a identidade profissional de Radialista.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre a identidade profissional de radialista.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1978-12-16;6615-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1978-12-16;6615">Lei nº 6.615, de 16 de dezembro de 1978</span>, passa a vigorar acrescida dos seguintes arts. 7º-A, 7º-B e 7º-C:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1978-12-16;6615" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1978-12-16;6615 -> MatchByBase(urn:lex:br:federal:lei:1978-12-16;6615,1978,Some((12,16)),Map(art7_cpt_inc8 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc8), art7_cpt_inc10 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc10), art7_cpt_inc2 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc2), art7_cpt_inc7 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc7), art7 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7), art7_cpt_inc3 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc3), art7_par2 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_par2), art7_cpt_inc6 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc6), art7_cpt_inc5 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc5), art7_cpt_inc1 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc1), art7_par1 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_par1), art7_cpt_inc11 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc11), art7_cpt_inc4 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc4), art7_cpt -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt), art7_cpt_inc9 -> PrefixMatch(URN(1978,Some((12,16)),,urn:lex:br:federal:lei:1978-12-16;6615),art7_cpt_inc9)))))-->
+              <Artigo xlink:href="art7" id="art2_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art2_cpt_alt1_art7_cpt">
+            
+            
+            
+            <p>–A É válida em todo o território nacional, como prova de identidade, para qualquer efeito, a carteira de radialista emitida pelo sindicato da categoria.</p>
+            
+          </Caput><Paragrafo xlink:href="art7_par1" id="art2_cpt_alt1_art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Onde não houver sindicato, a carteira poderá ser emitida por federação devidamente credenciada e registrada no Ministério do Trabalho.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par2" id="art2_cpt_alt1_art7_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A carteira de que trata o caput deste artigo será válida desde que respeitado o modelo próprio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art7" id="art2_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art2_cpt_alt1_art7_cpt">
+            
+            
+            
+            <p>–B O modelo da carteira de identidade do radialista será aprovado por federação, trará a inscrição “Válida em todo o território nacional” e deverá conter, pelo menos, as seguintes informações:</p>
+            <Inciso xlink:href="art7_cpt_inc1" id="art2_cpt_alt1_art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nome completo e nome da mãe;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc2" id="art2_cpt_alt1_art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nacionalidade e naturalidade;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc3" id="art2_cpt_alt1_art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>data de nascimento;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc4" id="art2_cpt_alt1_art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estado civil;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc5" id="art2_cpt_alt1_art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>registro geral e órgão expedidor da cédula de identidade;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc6" id="art2_cpt_alt1_art7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>número e série da Carteira de Trabalho e Previdência Social;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc7" id="art2_cpt_alt1_art7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>número do registro profissional perante o órgão regional do Ministério do Trabalho;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc8" id="art2_cpt_alt1_art7_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>cargo ou função profissional;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc9" id="art2_cpt_alt1_art7_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>ano de validade da carteira e data de expedição, marca do polegar direito, fotografia, assinaturas dos responsáveis pela entidade expedidora e do portador;</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc10" id="art2_cpt_alt1_art7_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>número de inscrição no Cadastro de Pessoas Físicas; e</p>
+            
+          </Inciso><Inciso xlink:href="art7_cpt_inc11" id="art2_cpt_alt1_art7_cpt_inc11" fechaAspas="s">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>grupo sanguíneo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><p>“Art. 7º–C O radialista não sindicalizado também fará jus à carteira de radialista, desde que seja habilitado e registrado perante o órgão regional do Ministério do Trabalho nos termos da legislação que regulamenta a atividade profissional.</p>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

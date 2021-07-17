@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;158@data.evento;leitura;2017-05-24t14.03"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 158 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei nº 9.503, de 23 de setembro de 1997</span>, que institui o Código de Trânsito Brasileiro, para tornar expressa a possibilidade de aplicação da receita arrecadada com multas de trânsito nas despesas que especifica.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art320-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art320">art. 320 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a vigorar acrescido do seguinte parágrafo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art320 -> ExactMatch(URN(1997,Some((9,23)),art320,urn:lex:br:federal:lei:1997-09-23;9503!art320)), art320_cpt -> PrefixMatch(URN(1997,Some((9,23)),art320,urn:lex:br:federal:lei:1997-09-23;9503!art320),art320_cpt), art320_par3 -> PrefixMatch(URN(1997,Some((9,23)),art320,urn:lex:br:federal:lei:1997-09-23;9503!art320),art320_par3)))))-->
+              <Artigo xlink:href="art320" id="art1_cpt_alt1_art320" abreAspas="s">
+            
+            
+            <Rotulo>Art. 320.</Rotulo>
+            
+            <Caput xlink:href="art320_cpt" id="art1_cpt_alt1_art320_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art320_omi1"/><Paragrafo xlink:href="art320_par3" id="art1_cpt_alt1_art320_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>São consideradas despesas com engenharia de campo, na forma regulamentada pelo Contran, a execução de serviços de pavimentação, recapeamento, tapa-buracos e recomposição de pista e acostamentos, bem como a implantação e adequação de calçadas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

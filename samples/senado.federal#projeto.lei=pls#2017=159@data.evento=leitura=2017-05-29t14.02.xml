@@ -1,0 +1,157 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;159@data.evento;leitura;2017-05-29t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 159 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1981-08-31;6938">Lei nº 6.938, de 31 de agosto de 1981</span>, que dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação e dá outras providências, para estabelecer direitos e salvaguardas à natureza entre os princípios e objetivos da Política Nacional do Meio Ambiente.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1981-08-31;6938!art2--><!--Link: urn:lex:br:federal:lei:1981-08-31;6938!art3--><!--Link: urn:lex:br:federal:lei:1981-08-31;6938!art4--><!--Link: urn:lex:br:federal:lei:1981-08-31;6938!art14-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:1981-08-31;6938!art2">arts. 2º</span>, <span xlink:href="urn:lex:br:federal:lei:1981-08-31;6938!art3">3º</span>, <span xlink:href="urn:lex:br:federal:lei:1981-08-31;6938!art4">4º</span> e <span xlink:href="urn:lex:br:federal:lei:1981-08-31;6938!art14">14 da Lei nº 6.938, de 31 de agosto de 1981</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1981-08-31;6938" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1981-08-31;6938 -> MatchByBase(urn:lex:br:federal:lei:1981-08-31;6938,1981,Some((8,31)),Map(art4_cpt_inc6 -> PrefixMatch(URN(1981,Some((8,31)),art4,urn:lex:br:federal:lei:1981-08-31;6938!art4),art4_cpt_inc6), art2_cpt_inc1 -> PrefixMatch(URN(1981,Some((8,31)),art2,urn:lex:br:federal:lei:1981-08-31;6938!art2),art2_cpt_inc1), art2_cpt_inc11 -> PrefixMatch(URN(1981,Some((8,31)),art2,urn:lex:br:federal:lei:1981-08-31;6938!art2),art2_cpt_inc11), art3_cpt -> PrefixMatch(URN(1981,Some((8,31)),art3,urn:lex:br:federal:lei:1981-08-31;6938!art3),art3_cpt), art14_par1 -> PrefixMatch(URN(1981,Some((8,31)),art14,urn:lex:br:federal:lei:1981-08-31;6938!art14),art14_par1), art4 -> ExactMatch(URN(1981,Some((8,31)),art4,urn:lex:br:federal:lei:1981-08-31;6938!art4)), art14_cpt -> PrefixMatch(URN(1981,Some((8,31)),art14,urn:lex:br:federal:lei:1981-08-31;6938!art14),art14_cpt), art2 -> ExactMatch(URN(1981,Some((8,31)),art2,urn:lex:br:federal:lei:1981-08-31;6938!art2)), art3_cpt_inc3 -> PrefixMatch(URN(1981,Some((8,31)),art3,urn:lex:br:federal:lei:1981-08-31;6938!art3),art3_cpt_inc3), art4_cpt -> PrefixMatch(URN(1981,Some((8,31)),art4,urn:lex:br:federal:lei:1981-08-31;6938!art4),art4_cpt), art2_cpt_inc10 -> PrefixMatch(URN(1981,Some((8,31)),art2,urn:lex:br:federal:lei:1981-08-31;6938!art2),art2_cpt_inc10), art2_cpt -> PrefixMatch(URN(1981,Some((8,31)),art2,urn:lex:br:federal:lei:1981-08-31;6938!art2),art2_cpt), art3_cpt_inc3_ali3 -> PrefixMatch(URN(1981,Some((8,31)),art3,urn:lex:br:federal:lei:1981-08-31;6938!art3),art3_cpt_inc3_ali3), art3 -> ExactMatch(URN(1981,Some((8,31)),art3,urn:lex:br:federal:lei:1981-08-31;6938!art3)), art4_cpt_inc8 -> PrefixMatch(URN(1981,Some((8,31)),art4,urn:lex:br:federal:lei:1981-08-31;6938!art4),art4_cpt_inc8), art3_cpt_inc6 -> PrefixMatch(URN(1981,Some((8,31)),art3,urn:lex:br:federal:lei:1981-08-31;6938!art3),art3_cpt_inc6), art4_cpt_inc7 -> PrefixMatch(URN(1981,Some((8,31)),art4,urn:lex:br:federal:lei:1981-08-31;6938!art4),art4_cpt_inc7), art3_cpt_inc5 -> PrefixMatch(URN(1981,Some((8,31)),art3,urn:lex:br:federal:lei:1981-08-31;6938!art3),art3_cpt_inc5), art14 -> ExactMatch(URN(1981,Some((8,31)),art14,urn:lex:br:federal:lei:1981-08-31;6938!art14))))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando a assegurar, no País, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana e da natureza, atendidos os seguintes princípios:</p>
+            <Inciso xlink:href="art2_cpt_inc1" id="art1_cpt_alt1_art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ação governamental na manutenção do equilíbrio ecológico, considerando a necessidade de assegurar a proteção do meio ambiente tendo em vista seu valor intrínseco, independentemente de importância econômica ou de potencial de uso humano;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art2_cpt_omi1"/><Inciso xlink:href="art2_cpt_inc10" id="art1_cpt_alt1_art2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>............................................................................................;</p>
+            
+          </Inciso><Inciso xlink:href="art2_cpt_inc11" id="art1_cpt_alt1_art2_cpt_inc11" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>respeito integral ao direito da natureza à existência e à manutenção e regeneração dos seus ciclos vitais, estrutura, funções e processos evolutivos, bem como à sua restauração em caso de dano causado direta ou indiretamente por ação antrópica.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc3" id="art1_cpt_alt1_art3_cpt_inc3" textoOmitido="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art3_cpt_inc3_omi1"/><Alinea xlink:href="art3_cpt_inc3_ali3" id="art1_cpt_alt1_art3_cpt_inc3_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>afetem desfavoravelmente os ecossistemas;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art3_cpt_omi2"/><Inciso xlink:href="art3_cpt_inc5" id="art1_cpt_alt1_art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>............................................................................................;</p>
+            
+          </Inciso><Inciso xlink:href="art3_cpt_inc6" id="art1_cpt_alt1_art3_cpt_inc6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>serviços ambientais: os benefícios proporcionados, direta ou indiretamente, pelos ecossistemas, que permitem a manutenção da vida no planeta.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art4_cpt_omi1"/><Inciso xlink:href="art4_cpt_inc6" id="art1_cpt_alt1_art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>à preservação e restauração da natureza, com vistas à manutenção dos serviços ambientais, concorrendo para a manutenção do equilíbrio ecológico propício à vida;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc7" id="art1_cpt_alt1_art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>.........................................................................................;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc8" id="art1_cpt_alt1_art4_cpt_inc8" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>à aplicação de medidas de precaução, prevenção e restrição para as atividades que possam conduzir à extinção de espécies ou à destruição de ecossistemas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art14" id="art1_cpt_alt1_art14" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput xlink:href="art14_cpt" id="art1_cpt_alt1_art14_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14_omi1"/><Paragrafo xlink:href="art14_par1" id="art1_cpt_alt1_art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Sem obstar a aplicação das penalidades previstas neste artigo, é o poluidor obrigado, independentemente de existência de culpa, a indenizar ou reparar integralmente os danos causados ao meio ambiente e a terceiros e a restaurar os ecossistemas danificados por sua atividade. O Ministério Público da União e dos Estados terá legitimidade para propor ação de responsabilidade civil e criminal por danos causados ao meio ambiente.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

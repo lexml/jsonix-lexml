@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;5"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 5 DE 2017</Epigrafe>
+      <Ementa id="ementa">Inclui § 4º ao <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art40">art. 40 da Lei nº 8.078, de 11 de setembro de 1990</span> - Código de Defesa do Consumidor, para proibir a cobrança de taxa de visita técnica ou de qualquer despesa do consumidor com a finalidade de elaboração de orçamento.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art40-->
+            
+            
+            <p>Esta Lei inclui § 4º ao <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art40">art. 40 da Lei nº 8.078, de 11 de setembro de 1990</span> - Código de Defesa do Consumidor, para proibir a cobrança de taxa de visita técnica ou de qualquer despesa do consumidor com a finalidade de elaboração de orçamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art40-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art40">art. 40 da Lei nº 8.078, de 11 de setembro de 1990</span>, passa a vigorar acrescido do seguinte § 4º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-11;8078" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-11;8078 -> MatchByBase(urn:lex:br:federal:lei:1990-09-11;8078,1990,Some((9,11)),Map(art40 -> ExactMatch(URN(1990,Some((9,11)),art40,urn:lex:br:federal:lei:1990-09-11;8078!art40)), art40_cpt -> PrefixMatch(URN(1990,Some((9,11)),art40,urn:lex:br:federal:lei:1990-09-11;8078!art40),art40_cpt), art40_par4 -> PrefixMatch(URN(1990,Some((9,11)),art40,urn:lex:br:federal:lei:1990-09-11;8078!art40),art40_par4)))))-->
+              <Artigo xlink:href="art40" id="art2_cpt_alt1_art40" abreAspas="s">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput xlink:href="art40_cpt" id="art2_cpt_alt1_art40_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art40_omi1"/><Paragrafo xlink:href="art40_par4" id="art2_cpt_alt1_art40_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As despesas, de qualquer natureza, decorrentes de visitas e deslocamentos de técnicos ou demais prepostos do fornecedor e destinadas à elaboração do orçamento prévio de que trata este artigo serão suportadas exclusivamente pelo fornecedor.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos noventa dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

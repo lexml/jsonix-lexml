@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;255@data.evento;leitura;2018-05-23t14.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 255 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera o art. 267 do Código Brasileiro de Trânsito, para tornar obrigatória a conversão de multa em advertência, nos casos de infrações leves ou médias de motoristas não reincidentes.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art267-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art267">art. 267 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art267 -> ExactMatch(URN(1997,Some((9,23)),art267,urn:lex:br:federal:lei:1997-09-23;9503!art267)), art267_cpt -> PrefixMatch(URN(1997,Some((9,23)),art267,urn:lex:br:federal:lei:1997-09-23;9503!art267),art267_cpt), art267_par1 -> PrefixMatch(URN(1997,Some((9,23)),art267,urn:lex:br:federal:lei:1997-09-23;9503!art267),art267_par1)))))-->
+              <Artigo xlink:href="art267" id="art1_cpt_alt1_art267" abreAspas="s">
+            
+            
+            <Rotulo>Art. 267.</Rotulo>
+            
+            <Caput xlink:href="art267_cpt" id="art1_cpt_alt1_art267_cpt">
+            
+            
+            
+            <p>A multa aplicada por infração de natureza leve ou média será convertida automaticamente em advertência por escrito, sempre que o infrator não houver cometido nenhuma outra infração nos últimos doze meses.</p>
+            
+          </Caput><Paragrafo xlink:href="art267_par1u" id="art1_cpt_alt1_art267_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os ciclistas ou pedestres que já tiverem sido beneficiados com a conversão de que trata o caput poderão ter a multa convertida em participação obrigatória em curso de segurança viária, a critério da autoridade de trânsito.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após noventa dias de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

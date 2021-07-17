@@ -1,0 +1,115 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;134"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 134 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1989-09-27;7827">Lei nº 7.827, de 27 de setembro de 1989</span>, que “regulamenta o art. 159, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!cpt_inc1">inciso I</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!ali3">alínea c, da Constituição Federal</span>, institui o Fundo Constitucional de Financiamento do Norte - FNO, o Fundo Constitucional de Financiamento do Nordeste - FNE e o Fundo Constitucional de Financiamento do Centro-Oeste - FCO, e dá outras providências”.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei permite que os recursos do Fundo Constitucional de Financiamento do Norte (FNO), do Fundo Constitucional de Financiamento do Nordeste (FNE) e do Fundo Constitucional de Financiamento do Centro-Oeste (FCO) financiem as atividades produtivas desenvolvidas por pessoas jurídicas ou físicas ligadas à economia criativa, que tenham sua origem na criatividade, habilidade e talento individuais e apresentem potencial para a criação de riqueza e empregos por meio da geração e exploração de propriedade intelectual, nas áreas de propaganda, arquitetura, mercados de arte e antiguidades, turismo, artesanato, design, moda, filme e vídeo, software/jogos eletrônicos de lazer e entretenimento, música, artes performativas, editorial, serviços de computação e software, mídias digitais, rádio e televisão, e outras do mesmo gênero.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1989-09-27;7827-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1989-09-27;7827">Lei nº 7.827, de 27 de setembro de 1989</span>, passa vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1989-09-27;7827" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1989-09-27;7827 -> MatchByBase(urn:lex:br:federal:lei:1989-09-27;7827,1989,Some((9,27)),Map(art4_par4_inc1 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art4_par4_inc1), art4_par5 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art4_par5), art3_cpt -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art3_cpt), art4 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art4), art3_cpt_inc3 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art3_cpt_inc3), art4_cpt -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art4_cpt), art3 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art3), art4_par4_inc3 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art4_par4_inc3), art4_par4_inc2 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art4_par4_inc2), art4_par4 -> PrefixMatch(URN(1989,Some((9,27)),,urn:lex:br:federal:lei:1989-09-27;7827),art4_par4)))))-->
+              <Artigo xlink:href="art3" id="art2_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art2_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc3" id="art2_cpt_alt1_art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>tratamento preferencial às atividades produtivas de pequenos produtores rurais e miniprodutores rurais e de pequenas empresas e microempresas, às de uso intensivo de matérias-primas e de mão de obra locais, às atividades produtivas ligadas à economia criativa, tais como cultura, consumo, mídias e tecnologia, às que produzam alimentos básicos para consumo da população, bem como aos projetos de irrigação, quando pertencentes aos citados produtores, suas associações e cooperativas;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par4" id="art2_cpt_alt1_art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os financiamentos com recursos dos Fundos Constitucionais de Financiamento do Norte, Nordeste e Centro-Oeste serão destinados a beneficiários que explorem atividades produtivas ligadas à economia criativa, se:</p>
+            <Inciso xlink:href="art4_par4_inc1" id="art2_cpt_alt1_art4_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estiverem organizados como microempreendedores individuais, associações, cooperativas, sociedades empresariais, fundações de direito privado e empresas individuais de responsabilidade limitada;</p>
+            
+          </Inciso><Inciso xlink:href="art4_par4_inc2" id="art2_cpt_alt1_art4_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>comprovarem perante a instituição financeira capacidade técnica e financeira para aplicarem os recursos e viabilizarem o pagamento dos encargos com o financiamento; e</p>
+            
+          </Inciso><Inciso xlink:href="art4_par4_inc3" id="art2_cpt_alt1_art4_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apresentarem, com a solicitação do financiamento, projeto executivo com cronograma físico-financeiro para a sua execução.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art4_par5" id="art2_cpt_alt1_art4_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Podem ainda ser enquadrados como beneficiários dos recursos dos Fundos Constitucionais a que se refere esta Lei as pessoas físicas que exercem algum tipo de atividade relacionada à economia criativa ou profissão intelectual, de natureza científica, literária ou artística, ainda que com o concurso de auxiliares ou colaboradores, desde que comprovem perante as instituições financeiras gestoras dos Fundos Constitucionais de Financiamento condições técnicas e financeiras para se candidatarem aos financiamentos, nos termos dos incisos II e III do § 4º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação e produzirá efeitos financeiros a partir de 1º de janeiro do ano subsequente.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;22@data.evento;leitura;2017-02-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 22 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:2014-07-31;13019!art42">art. 42 da Lei nº 13.019, de 31 de julho de 2014</span>, para estipular prazo de vigência e criar o Fundo de Reserva nas parcerias entre a administração pública e as organizações da sociedade civil.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2014-07-31;13019!art42-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2014-07-31;13019!art42">art. 42 da Lei nº 13.019, de 31 de julho de 2014</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2014-07-31;13019" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2014-07-31;13019 -> MatchByBase(urn:lex:br:federal:lei:2014-07-31;13019,2014,Some((7,31)),Map(art42 -> ExactMatch(URN(2014,Some((7,31)),art42,urn:lex:br:federal:lei:2014-07-31;13019!art42)), art42_cpt -> PrefixMatch(URN(2014,Some((7,31)),art42,urn:lex:br:federal:lei:2014-07-31;13019!art42),art42_cpt), art42_cpt_inc6 -> PrefixMatch(URN(2014,Some((7,31)),art42,urn:lex:br:federal:lei:2014-07-31;13019!art42),art42_cpt_inc6), art42_cpt_inc21 -> PrefixMatch(URN(2014,Some((7,31)),art42,urn:lex:br:federal:lei:2014-07-31;13019!art42),art42_cpt_inc21)))))-->
+              <Artigo xlink:href="art42" id="art1_cpt_alt1_art42" abreAspas="s">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput xlink:href="art42_cpt" id="art1_cpt_alt1_art42_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art42_cpt_omi1"/><Inciso xlink:href="art42_cpt_inc6" id="art1_cpt_alt1_art42_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a vigência, que poderá ser de até 5 (cinco) anos, e as hipóteses de prorrogação em caso de vigência inferior a esse prazo;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art42_cpt_omi2"/><Inciso xlink:href="art42_cpt_inc21" id="art1_cpt_alt1_art42_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>a obrigatoriedade de constituição de um Fundo de Reserva, que será destinado a atender situações emergenciais, imprevistas ou imprevisíveis, relacionadas ao objeto do Termo de Colaboração ou de Fomento, devendo observar o contido no art. 46 desta Lei e as demais disposições relativas à prestação de contas e à contabilização das receitas e despesas a ele destinadas.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art42_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

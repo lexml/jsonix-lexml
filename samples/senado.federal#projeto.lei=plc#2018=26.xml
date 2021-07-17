@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;26"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 26 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766!art4">art. 4º da Lei nº 6.766, de 19 de dezembro de 1979</span>, que dispõe sobre parcelamento do solo urbano, para assegurar o direito de permanência das edificações na reserva de faixa não edificável de 15 (quinze) metros de cada lado das rodovias federais, ferrovias e dutos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei assegura o direito de permanência das edificações, para fins comerciais ou não, na reserva de faixa não edificável de 15 (quinze) metros de cada lado das faixas de domínio das rodovias federais, ferrovias e dutos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1979-12-19;6766!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766!art4">art. 4º da Lei nº 6.766, de 19 de dezembro de 1979</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1979-12-19;6766" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1979-12-19;6766 -> MatchByBase(urn:lex:br:federal:lei:1979-12-19;6766,1979,Some((12,19)),Map(art4_par5 -> PrefixMatch(URN(1979,Some((12,19)),art4,urn:lex:br:federal:lei:1979-12-19;6766!art4),art4_par5), art4 -> ExactMatch(URN(1979,Some((12,19)),art4,urn:lex:br:federal:lei:1979-12-19;6766!art4)), art4_cpt -> PrefixMatch(URN(1979,Some((12,19)),art4,urn:lex:br:federal:lei:1979-12-19;6766!art4),art4_cpt), art4_par6 -> PrefixMatch(URN(1979,Some((12,19)),art4,urn:lex:br:federal:lei:1979-12-19;6766!art4),art4_par6), art4_cpt_inc3 -> PrefixMatch(URN(1979,Some((12,19)),art4,urn:lex:br:federal:lei:1979-12-19;6766!art4),art4_cpt_inc3), art4_par7 -> PrefixMatch(URN(1979,Some((12,19)),art4,urn:lex:br:federal:lei:1979-12-19;6766!art4),art4_par7)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art4_cpt_omi1"/><Inciso xlink:href="art4_cpt_inc3" id="art2_cpt_alt1_art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ao longo das águas correntes e dormentes e das faixas de domínio público das rodovias, ferrovias e dutos, será obrigatória a reserva de uma faixa não edificável de 15 (quinze) metros de cada lado, salvo exigências mais rígidas previstas em legislação específica.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par5" id="art2_cpt_alt1_art4_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Nos trechos rodoviários ou ferroviários que atravessem perímetros urbanos ou áreas urbanizadas passíveis de serem incluídas em perímetro urbano, será dispensada a exigência de reserva da faixa não edificável prevista no inciso III do caput deste artigo;</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par6" id="art2_cpt_alt1_art4_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Será aplicado às edificações já construídas ou em construção o disposto no § 5º deste artigo, e o poder público deverá desistir das respectivas ações e execuções judiciais em curso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par7" id="art2_cpt_alt1_art4_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Quando houver comprometimento à segurança do trânsito e dos residentes dos imóveis, caberá ao poder público, por ato devidamente fundamentado, desapropriar as áreas mediante prévia e justa indenização.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

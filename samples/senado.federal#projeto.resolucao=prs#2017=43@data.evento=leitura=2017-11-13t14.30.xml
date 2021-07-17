@@ -1,0 +1,112 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;43@data.evento;leitura;2017-11-13t14.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 43 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui, no âmbito do Senado Federal, a Frente Parlamentar em Defesa das Águas Brasileiras.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituída, no âmbito do Senado Federal, a Frente Parlamentar em Defesa das Águas Brasileiras, órgão político de caráter suprapartidário, com os seguintes objetivos:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>reunir os Senadores que têm preocupação especial sobre o tema da defesa das águas;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>promover debates, com a participação dos mais diversos segmentos da sociedade civil, sobre o tema da defesa das águas;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>subsidiar, com pareceres, informações técnicas e dados estatísticos, as iniciativas legislativas de interesse da sociedade no que concerne ao tema da água, em especial aquelas voltadas ao uso e consumo conscientes dos recursos hídricos;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estimular a difusão da cultura da conservação e do uso racional das águas;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>incentivar o aumento dos investimentos em políticas específicas para o gerenciamento dos recursos hídricos e para a proteção do meio ambiente, em especial das áreas importantes para a produção e conservação de água;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>promover o intercâmbio com órgãos legislativos de outros países, visando à realização de estudos e pesquisas para o desenvolvimento de políticas envolvendo temas ligados à água;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>apoiar e participar dos fóruns internacionais que objetivem discutir problemas e soluções relacionados à água em todo o mundo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art1_par1u">
+            <!--Link: urn:lex:br:senado.federal:resolucao:1970-11-27;93-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Frente Parlamentar em Defesa das Águas do Mundo reger-se-á por regulamento próprio, aprovado por seus membros, observado o que dispõe o <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93">Regimento Interno do Senado Federal</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A Frente Parlamentar em Defesa das Águas será integrada, inicialmente, pelos Senadores que assinarem a ata da sua instalação, podendo a ela aderir, posteriormente, outros membros do Senado Federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Senado Federal prestará colaboração às atividades da Frente Parlamentar em Defesa das Águas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

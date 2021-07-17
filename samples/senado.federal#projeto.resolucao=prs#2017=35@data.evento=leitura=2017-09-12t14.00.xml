@@ -1,0 +1,337 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;35@data.evento;leitura;2017-09-12t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 35 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:resolucao:1970-11-27;93">Resolução nº 93, de 27 de novembro de 1970</span>, do Senado Federal – <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93">Regimento Interno do Senado Federal</span>, para incluir o procedimento de análise da compatibilidade e adequação orçamentária e financeira das proposições que importem em criação ou aumento de despesa obrigatória ou em renúncia de receita.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:1970-11-27;93-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:resolucao:1970-11-27;93">Resolução do Senado Federal nº 93, de 27 de novembro de 1970</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:1970-11-27;93" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:1970-11-27;93 -> MatchByBase(urn:lex:br:federal:resolucao:1970-11-27;93,1970,Some((11,27)),Map(art140 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art140), art358_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art358_cpt), art99_cpt_inc8 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_cpt_inc8), art412_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art412_cpt), art356_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art356_cpt), art167 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art167), art118 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art118), art99_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_cpt), art99_par5 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_par5), art125_par1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art125_par1), art361 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art361), art359_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art359_cpt), art361_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art361_cpt), art99_par7 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_par7), art358 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art358), art167_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art167_cpt), art163_par9 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art163_par9), art357_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art357_cpt), art357 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art357), art412_par1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art412_par1), art99_par6 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_par6), art356_par1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art356_par1), art163_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art163_cpt), art163_par8 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art163_par8), art118_par4 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art118_par4), art99 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99), art356 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art356), art125 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art125), art167_par1_inc1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art167_par1_inc1), art356_par2 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art356_par2), art358_par3 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art358_par3), art215 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art215), art412_par2 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art412_par2), art215_cpt_inc2 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art215_cpt_inc2), art125_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art125_cpt), art140_par3 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art140_par3), art163 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art163), art99_par3 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_par3), art99_cpt_inc7 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_cpt_inc7), art163_par7 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art163_par7), art215_cpt_inc2_ali7 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art215_cpt_inc2_ali7), art118_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art118_cpt), art215_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art215_cpt), art99_par4 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art99_par4), art412 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art412), art167_par1 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art167_par1), art359 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art359), art167_par1_inc2 -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art167_par1_inc2), art140_cpt -> PrefixMatch(URN(1970,Some((11,27)),,urn:lex:br:federal:resolucao:1970-11-27;93),art140_cpt)))))-->
+              <Artigo xlink:href="art99" id="art1_cpt_alt1_art99" abreAspas="s">
+            
+            
+            <Rotulo>Art. 99.</Rotulo>
+            
+            <Caput xlink:href="art99_cpt" id="art1_cpt_alt1_art99_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art99_cpt_omi1"/><Inciso xlink:href="art99_cpt_inc7" id="art1_cpt_alt1_art99_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>matérias que, direta ou indiretamente, prevejam a criação ou aumento de despesa obrigatória ou a renúncia de receita, quanto à compatibilidade e adequação orçamentária e financeira dessas matérias;</p>
+            
+          </Inciso><Inciso xlink:href="art99_cpt_inc8" id="art1_cpt_alt1_art99_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>outros assuntos correlatos.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art99_omi1"/><Paragrafo xlink:href="art99_par3" id="art1_cpt_alt1_art99_par3">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O exame da compatibilidade e adequação orçamentária e financeira abrange a análise da repercussão sobre a despesa obrigatória ou a receita da União em decorrência da aprovação da matéria e o atendimento pela proposição das normas orçamentárias e financeiras vigentes, em especial as previstas na <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, na <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>, na lei do plano plurianual, na lei de diretrizes orçamentárias e na lei orçamentária.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par4" id="art1_cpt_alt1_art99_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Havendo mais de uma comissão responsável pela análise da proposição que se enquadre no inciso VII do caput deste artigo, a Comissão de Assuntos Econômicos manifestar-se-á sempre por último e após o oferecimento de emendas e subemendas e a apresentação de substitutivo, se houver.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par5" id="art1_cpt_alt1_art99_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O autor da proposição poderá atualizar as informações necessárias à avaliação da compatibilidade e adequação orçamentária e financeira, podendo o Relator, diretamente ou por meio da Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal, realizar a atualização, recorrendo, se necessário, inclusive mediante diligência, aos órgãos competentes da administração pública federal.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par6" id="art1_cpt_alt1_art99_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O parecer da Comissão analisará necessariamente, em tópico específico, a compatibilidade e adequação orçamentária e financeira da proposição e respectivas emendas e subemendas ou, se houver, do seu substitutivo para os exercícios fiscais de eficácia da matéria nela tratada, podendo o Relator, a fim de subsidiar o seu relatório, requerer, ao órgão do Senado Federal a que se refere o § 5º, a elaboração de nota técnica conclusiva quanto à compatibilidade e adequação orçamentária e financeira da matéria.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art99_par7" id="art1_cpt_alt1_art99_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A Comissão de Assuntos Econômicos manterá atualizada, na página do Senado Federal na internet, a relação das proposições que, aprovadas, geram aumento na despesa obrigatória ou redução na receita, explicitando os respectivos valores por exercício de eficácia e indicando, caso cabíveis, as correspondentes fontes de compensação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art118" id="art1_cpt_alt1_art118" abreAspas="s">
+            
+            
+            <Rotulo>Art. 118.</Rotulo>
+            
+            <Caput xlink:href="art118_cpt" id="art1_cpt_alt1_art118_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art118_omi1"/><Paragrafo xlink:href="art118_par4" id="art1_cpt_alt1_art118_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Será suspenso o prazo da comissão durante o período necessário ao cumprimento das disposições previstas no art. 90, II, III, V e XIII, bem como até que as informações referidas no § 5º do art. 99 estejam atualizadas e possibilitem a conclusão da avaliação da compatibilidade e adequação orçamentária e financeira.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art118_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art125" id="art1_cpt_alt1_art125" abreAspas="s">
+            
+            
+            <Rotulo>Art. 125.</Rotulo>
+            
+            <Caput xlink:href="art125_cpt" id="art1_cpt_alt1_art125_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art125_par1u" id="art1_cpt_alt1_art125_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É indispensável a manifestação do relator sobre a compatibilidade e adequação orçamentária e financeira da proposição e respectivas emendas e subemendas ou, se houver, do seu substitutivo, quando, direta ou indiretamente, houver a previsão de criação ou aumento de despesa obrigatória ou de renúncia de receita.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art140" id="art1_cpt_alt1_art140" abreAspas="s">
+            
+            
+            <Rotulo>Art. 140.</Rotulo>
+            
+            <Caput xlink:href="art140_cpt" id="art1_cpt_alt1_art140_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art140_omi1"/><Paragrafo xlink:href="art140_par3" id="art1_cpt_alt1_art140_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O relator, quando se tratar de matéria que proponha, direta ou indiretamente, a criação ou o aumento de despesa obrigatória ou renúncia de receita, deverá se pronunciar sobre a compatibilidade e adequação orçamentária e financeira da proposta.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art163" id="art1_cpt_alt1_art163" abreAspas="s">
+            
+            
+            <Rotulo>Art. 163.</Rotulo>
+            
+            <Caput xlink:href="art163_cpt" id="art1_cpt_alt1_art163_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art163_omi1"/><Paragrafo xlink:href="art163_par7" id="art1_cpt_alt1_art163_par7">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A requerimento escrito de um quinto dos membros do Senado, será suspensa por até vinte dias, independentemente de votação, a tramitação de proposição que se encontra no Plenário, ressalvada a referida no art. 59, V, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, da qual possa resultar criação ou aumento de despesa obrigatória ou renúncia de receita, para análise de sua compatibilidade e adequação orçamentária e financeira, inclusive sobre emendas, subemendas ou substitutivo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art163_par8" id="art1_cpt_alt1_art163_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O disposto no § 7º não se aplica caso a CAE já tenha deliberado sobre a matéria a respeito de sua compatibilidade e adequação orçamentária e financeira e, após essa deliberação, não houver nenhuma apresentação de emenda ou outro tipo de alteração posterior que implique aumento de despesa obrigatória ou renúncia de receita.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art163_par9" id="art1_cpt_alt1_art163_par9" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>O período a que se refere o disposto no § 7º deste artigo contar-se-á a partir do dia útil subsequente ao do despacho de recebimento do requerimento pelo Presidente, nos termos do art. 215, II, alínea g, deste Regimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art167" id="art1_cpt_alt1_art167" abreAspas="s">
+            
+            
+            <Rotulo>Art. 167.</Rotulo>
+            
+            <Caput xlink:href="art167_cpt" id="art1_cpt_alt1_art167_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art167_par1u" id="art1_cpt_alt1_art167_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Nenhuma matéria poderá ser incluída na Ordem do Dia sem que:</p>
+            <Inciso xlink:href="art167_par1u_inc1" id="art1_cpt_alt1_art167_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tenha sido efetivamente publicada no Diário do Senado Federal e em avulso eletrônico com, no mínimo, dez dias de antecedência;</p>
+            
+          </Inciso><Inciso xlink:href="art167_par1u_inc2" id="art1_cpt_alt1_art167_par1u_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a Comissão de Assuntos Econômicos tenha deliberado sobre a compatibilidade e adequação orçamentária e financeira, quando a proposta implicar, direta ou indiretamente, criação ou aumento de despesa obrigatória ou renúncia de receita, salvo no caso de parecer a ser proferido em Plenário.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art215" id="art1_cpt_alt1_art215" abreAspas="s">
+            
+            
+            <Rotulo>Art. 215.</Rotulo>
+            
+            <Caput xlink:href="art215_cpt" id="art1_cpt_alt1_art215_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art215_cpt_omi1"/><Inciso xlink:href="art215_cpt_inc2" id="art1_cpt_alt1_art215_cpt_inc2" textoOmitido="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art215_cpt_inc2_omi1"/><Alinea xlink:href="art215_cpt_inc2_ali7" id="art1_cpt_alt1_art215_cpt_inc2_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>de suspensão, por vinte dias, da tramitação de proposição para análise da sua compatibilidade e adequação orçamentária e financeira.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art215_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art356" id="art1_cpt_alt1_art356" abreAspas="s">
+            
+            
+            <Rotulo>Art. 356.</Rotulo>
+            
+            <Caput xlink:href="art356_cpt" id="art1_cpt_alt1_art356_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art356_par1" id="art1_cpt_alt1_art356_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art356_par2" id="art1_cpt_alt1_art356_par2" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Publicado o parecer da Comissão de <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, Justiça e Cidadania, a proposta e respectivas emendas serão enviadas à Comissão de Assuntos Econômicos para análise exclusiva, no prazo de vinte dias, da compatibilidade e adequação orçamentária e financeira da matéria, caso, direta ou indiretamente, crie ou aumente despesa obrigatória ou renúncia de receita.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art357" id="art1_cpt_alt1_art357" abreAspas="s">
+            
+            
+            <Rotulo>Art. 357.</Rotulo>
+            
+            <Caput xlink:href="art357_cpt" id="art1_cpt_alt1_art357_cpt" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Cinco dias após a publicação do parecer da Comissão de <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, Justiça e Cidadania e, se for o caso, da Comissão de Assuntos Econômicos sobre a compatibilidade e adequação orçamentária e financeira da matéria no Diário do Senado Federal e em avulso eletrônico, a matéria poderá ser incluída em Ordem do Dia.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art358" id="art1_cpt_alt1_art358" abreAspas="s">
+            
+            
+            <Rotulo>Art. 358.</Rotulo>
+            
+            <Caput xlink:href="art358_cpt" id="art1_cpt_alt1_art358_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Decorridos os prazos de que trata o art. 356 sem que qualquer comissão lá referida, ou ambas, tenham proferido parecer, a proposta de emenda à <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> será incluída em Ordem do Dia, para discussão, em primeiro turno, durante cinco sessões deliberativas ordinárias consecutivas.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art358_omi1"/><Paragrafo xlink:href="art358_par3" id="art1_cpt_alt1_art358_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Caso o relator em Plenário tenha sido designado para oferecer parecer em substituição ao da Comissão de Assuntos Econômicos, o seu parecer somente irá tratar da compatibilidade e adequação orçamentária e financeira da matéria.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art359" id="art1_cpt_alt1_art359" abreAspas="s">
+            
+            
+            <Rotulo>Art. 359.</Rotulo>
+            
+            <Caput xlink:href="art359_cpt" id="art1_cpt_alt1_art359_cpt" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Para exame e parecer das emendas, são assegurados o mesmo prazo estabelecido no caput do art. 356 e a metade do prazo estabelecido no § 2º do art. 356, respectivamente, à Comissão de <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, Justiça e Cidadania e à Comissão de Assuntos Econômicos.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art361" id="art1_cpt_alt1_art361" abreAspas="s">
+            
+            
+            <Rotulo>Art. 361.</Rotulo>
+            
+            <Caput xlink:href="art361_cpt" id="art1_cpt_alt1_art361_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Esgotado o prazo da Comissão de <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, Justiça e Cidadania ou da Comissão de Assuntos Econômicos, proceder-se-á na forma do disposto no caput do art. 358 e em seu § 1º.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art361_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art412" id="art1_cpt_alt1_art412" abreAspas="s">
+            
+            
+            <Rotulo>Art. 412.</Rotulo>
+            
+            <Caput xlink:href="art412_cpt" id="art1_cpt_alt1_art412_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art412_omi1"/><Paragrafo xlink:href="art412_par1" id="art1_cpt_alt1_art412_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A exceção a que se refere o inciso III do caput não se aplica para afastar a análise, nos termos deste Regimento, da adequação orçamentária e financeira de qualquer proposição que preveja, direta ou indiretamente, a criação ou aumento de despesa obrigatória ou a renúncia de receita.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art412_par2" id="art1_cpt_alt1_art412_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nenhuma proposição legislativa poderá ser aprovada quando considerada incompatível orçamentária e financeiramente pela Comissão de Assuntos Econômicos ou pelo Plenário, no âmbito das respectivas competências, considerando-se nula a deliberação que contrariar este preceito.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

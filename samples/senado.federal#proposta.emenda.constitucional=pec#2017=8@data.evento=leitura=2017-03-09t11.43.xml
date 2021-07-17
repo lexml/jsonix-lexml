@@ -1,0 +1,175 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;8@data.evento;leitura;2017-03-09t11.43"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 8 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, para garantir a participação de pessoas de ambos os sexos nas listas tríplices e sêxtuplas destinadas à escolha dos membros dos tribunais judiciários, dos tribunais de contas e dos Procuradores-Gerais do Ministério Público.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span> passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art120_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art120_cpt), art128_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art128_cpt), art120 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art120), art73_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art73_cpt), art73_par2 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art73_par2), art73 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art73), art104_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art104_cpt), art94 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art94), art128 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art128), art104 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art104), art128_par3 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art128_par3), art119_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art119_cpt), art73_par2_inc1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art73_par2_inc1), art104_par1_inc1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art104_par1_inc1), art94_cpt -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art94_cpt), art94_par1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art94_par1), art119 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art119), art119_cpt_inc2 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art119_cpt_inc2), art128_par1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art128_par1), art104_par1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art104_par1), art120_par1 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art120_par1), art120_par1_inc2 -> PrefixMatch(URN(1988,Some((10,5)),,urn:lex:br:federal:constituicao:1988-10-05;1988),art120_par1_inc2)))))-->
+              <Artigo xlink:href="art73" id="art1_cpt_alt1_art73" abreAspas="s">
+            
+            
+            <Rotulo>Art. 73.</Rotulo>
+            
+            <Caput xlink:href="art73_cpt" id="art1_cpt_alt1_art73_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art73_omi1"/><Paragrafo xlink:href="art73_par2" id="art1_cpt_alt1_art73_par2" textoOmitido="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art73_par2_omi1"/><Inciso xlink:href="art73_par2_inc1" id="art1_cpt_alt1_art73_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um terço pelo Presidente da República, com aprovação do Senado Federal, sendo dois alternadamente dentre auditores e membros do Ministério Público junto ao Tribunal, indicados em lista tríplice composta por pessoas de ambos os sexos, pelo Tribunal, observados os critérios de antiguidade e merecimento.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art73_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art94" id="art1_cpt_alt1_art94" abreAspas="s">
+            
+            
+            <Rotulo>Art. 94.</Rotulo>
+            
+            <Caput xlink:href="art94_cpt" id="art1_cpt_alt1_art94_cpt">
+            
+            
+            
+            <p>Um quinto dos lugares dos Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal e Territórios será composto de membros, do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados pelos órgãos de representação das respectivas classes por meio de lista sêxtupla composta por pelo menos um terço e no máximo dois terços de pessoas de cada sexo.</p>
+            
+          </Caput><Paragrafo xlink:href="art94_par1u" id="art1_cpt_alt1_art94_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Recebidas as indicações, o tribunal formará lista tríplice composta por pessoas de ambos os sexos e a enviará ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art104" id="art1_cpt_alt1_art104" abreAspas="s">
+            
+            
+            <Rotulo>Art. 104.</Rotulo>
+            
+            <Caput xlink:href="art104_cpt" id="art1_cpt_alt1_art104_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art104_omi1"/><Paragrafo xlink:href="art104_par1u" id="art1_cpt_alt1_art104_par1u" textoOmitido="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art104_par1u_omi1"/><Inciso xlink:href="art104_par1u_inc1" id="art1_cpt_alt1_art104_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um terço, em partes iguais dentre juízes dos Tribunais Regionais Federais e um terço dentre desembargadores dos Tribunais de Justiça, indicados em lista tríplice composta por pessoas de ambos os sexos, elaborada pelo próprio Tribunal;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art104_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art119" id="art1_cpt_alt1_art119" abreAspas="s">
+            
+            
+            <Rotulo>Art. 119.</Rotulo>
+            
+            <Caput xlink:href="art119_cpt" id="art1_cpt_alt1_art119_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art119_cpt_omi1"/><Inciso xlink:href="art119_cpt_inc2" id="art1_cpt_alt1_art119_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>por nomeação do Presidente da República, dois juízes dentre seis advogados de notável saber jurídico e idoneidade moral, indicados pelo Supremo Tribunal Federal, sendo pelo menos um terço e no máximo dois terços de pessoas de cada sexo.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art119_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art120" id="art1_cpt_alt1_art120" abreAspas="s">
+            
+            
+            <Rotulo>Art. 120.</Rotulo>
+            
+            <Caput xlink:href="art120_cpt" id="art1_cpt_alt1_art120_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art120_par1" id="art1_cpt_alt1_art120_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art120_par1_omi1"/><Inciso xlink:href="art120_par1_inc2" id="art1_cpt_alt1_art120_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>por nomeação do Presidente da República, dois juízes dentre seis advogados de notável saber jurídico e idoneidade moral, indicados pelo Tribunal de Justiça, sendo pelo menos um terço e no máximo dois terços de pessoas de cada sexo.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art120_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art128" id="art1_cpt_alt1_art128" abreAspas="s">
+            
+            
+            <Rotulo>Art. 128.</Rotulo>
+            
+            <Caput xlink:href="art128_cpt" id="art1_cpt_alt1_art128_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art128_omi1"/><Paragrafo xlink:href="art128_par1" id="art1_cpt_alt1_art128_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Ministério Público da União tem por chefe o Procurador-Geral da República, escolhido pelo Presidente da República dentre três integrantes da carreira, maiores de trinta e cinco anos, eleitos por seus pares mediante lista tríplice composta por pessoas de ambos os sexos, e nomeado após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de dois anos, permitida a recondução.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art128_omi2"/><Paragrafo xlink:href="art128_par3" id="art1_cpt_alt1_art128_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice composta por pessoas de ambos os sexos, dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art128_omi3" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação, aplicando-se às listas tríplices e sêxtuplas que sejam elaboradas a partir do início de sua vigência.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,2878 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;29@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 29 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre normas de seguro privado; revoga dispositivos da <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil); e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Titulo id="tit1">
+            
+            
+            <Rotulo>TÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Capitulo id="tit1_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DO OBJETO E ÂMBITO DE APLICAÇÃO</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art3--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art170--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art219-->
+            
+            
+            <p>A atividade seguradora será exercida de modo que se viabilizem os objetivos da República, os fins da ordem econômica e a plena capacidade do mercado interno, nos termos dos <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art3">arts. 3º</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art170">170</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art219">219 da Constituição Federal</span>.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Poder Executivo da União terá competência para expedir atos normativos que não contrariem esta Lei, atuando em proteção dos interesses dos segurados e seus beneficiários.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Consideram-se integrantes da atividade seguradora, além dos contratos de seguro, também os contratos necessários à sua plena viabilidade, como o resseguro e a retrocessão.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São consideradas instrumentais à atividade seguradora as corretagens de seguros e resseguros, submetidas, no que couber, às determinações desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>As reservas e provisões advindas dos pagamentos de prêmios são consideradas patrimônio sob gestão dos que exercem a atividade econômica seguradora.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para garantia de suas operações, as seguradoras deverão constituir patrimônio de afetação, na forma da lei.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O patrimônio de afetação será destinado ao adimplemento das obrigações das seguradoras decorrentes dos contratos de seguro celebrados, permanecendo os bens e direitos a ele vinculados separados dos bens e direitos da sociedade liquidada, até o advento do respectivo termo ou até o cumprimento de sua finalidade, ocasião em que o liquidante ou administrador judicial arrecadará em favor da massa liquidanda ou inscreverá na classe própria o crédito que contra ela remanescer.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Todos os atos praticados no exercício da atividade seguradora serão interpretados em conformidade com o disposto nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Pelo contrato de seguro, a seguradora se obriga, mediante o pagamento do prêmio equivalente, a garantir interesse legítimo do segurado ou do beneficiário contra riscos predeterminados.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As partes, os beneficiários e os intervenientes devem conduzir-se segundo os princípios de probidade e boa-fé, desde os atos pré-contratuais até a fase pós-contratual.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Só podem pactuar contratos de seguros sociedades que se encontrem devidamente autorizadas na forma da lei e que tenham elaborado e aprovado as condições contratuais e as respectivas notas técnicas e atuariais perante o órgão supervisor e fiscalizador de seguros.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>A seguradora que ceder sua posição contratual a qualquer título, no todo ou em parte, sem concordância prévia dos segurados e seus beneficiários conhecidos, será solidariamente responsável com a seguradora cessionária.</p>
+            
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A cessão do contrato por iniciativa da seguradora, mesmo quando autorizada, mantém a cedente solidária com a cessionária quando esta for ou tornar-se insolvente no prazo de até vinte e quatro meses.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O contrato de seguro, em suas distintas modalidades, será regido por esta Lei.</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Aplica-se exclusivamente a lei brasileira:</p>
+            <Inciso id="art9_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aos contratos de seguro celebrados por seguradora autorizada a operar no Brasil;</p>
+            
+          </Inciso><Inciso id="art9_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>quando o segurado ou o proponente tiver residência ou domicílio no País;</p>
+            
+          </Inciso><Inciso id="art9_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>quando no Brasil situarem-se os bens sobre os quais recaírem os interesses garantidos; ou</p>
+            
+          </Inciso><Inciso id="art9_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>sempre que os interesses garantidos recaírem sobre bens considerados relevantes para o desenvolvimento da infraestrutura brasileira.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os seguros e planos de saúde regem-se por lei própria, aplicando-se-lhes esta Lei em caráter subsidiário.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DO INTERESSE</NomeAgrupador>
+            <Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>A eficácia do contrato de seguro depende da existência de interesse legítimo.</p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A superveniência de interesse legítimo torna eficaz o contrato desde então.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se for parcial o interesse legítimo, a ineficácia não atingirá a parte útil.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se for impossível a existência do interesse, o contrato será nulo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Extinto o interesse, resolve-se o contrato com a redução proporcional do prêmio, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas com a contratação.</p>
+            
+          </Caput><Paragrafo id="art11_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Se ocorrer redução relevante do interesse, o valor do prêmio será proporcionalmente reduzido, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas com a contratação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Quando o contrato de seguro for nulo ou ineficaz, o segurado ou o tomador terá direito à devolução do prêmio, deduzidas as despesas realizadas, salvo se provado que o vício decorreu de sua má-fé.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>No seguro sobre a vida e a integridade física de terceiro, o proponente é obrigado a declarar, sob pena de nulidade do contrato, o seu interesse sobre a vida e a incolumidade do segurado.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Presume-se o interesse previsto no caput deste artigo quando o segurado for cônjuge, companheiro, ascendente ou descendente do terceiro sobre cuja vida ou integridade física o seguro é contratado.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DO RISCO</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>O contrato cobre os riscos relativos à espécie de seguro contratada.</p>
+            
+          </Caput><Paragrafo id="art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os riscos excluídos e os interesses não indenizáveis devem ser descritos de forma clara e inequívoca.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se houver divergência entre os riscos delimitados no contrato e os previstos no modelo de contrato ou nas notas técnicas e atuariais apresentados ao órgão fiscalizador competente, prevalecerá o texto mais favorável ao segurado.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando a seguradora se obrigar a garantir diferentes interesses e riscos, deverá a contratação preencher os requisitos exigidos para a garantia de cada um dos interesses e riscos abrangidos pelo contrato, de modo que a extinção ou nulidade de uma garantia não prejudicará as demais.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A garantia nos seguros de transporte de bens e de responsabilidade civil pelos danos relacionados com essa atividade começa no momento em que as mercadorias são de fato recebidas pelo transportador e cessa com a entrega ao destinatário.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>O contrato pode ser celebrado para toda classe de risco, salvo vedação legal.</p>
+            
+          </Caput><Paragrafo id="art15_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>São nulas as garantias, sem prejuízo de outras vedadas em lei:</p>
+            <Inciso id="art15_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>de interesses patrimoniais relativos aos valores das multas e outras penalidades aplicadas em virtude de atos cometidos pessoalmente pelo segurado que caracterizem ilícito criminal; e</p>
+            
+          </Inciso><Inciso id="art15_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>contra risco proveniente de ato doloso do segurado, do beneficiário ou de representante de um ou de outro, salvo o dolo do representante do segurado ou do beneficiário em prejuízo desses.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O contrato é nulo quando qualquer das partes souber, desde o momento de sua conclusão, que o risco é impossível ou já se realizou.</p>
+            
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A parte que tiver conhecimento da impossibilidade ou da prévia realização do risco e, não obstante, contratar pagará à outra o dobro do valor do prêmio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Desaparecido o risco, resolve-se o contrato com a redução do prêmio pelo valor equivalente ao risco a decorrer, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas com a contratação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>O segurado deve comunicar à seguradora relevante agravamento do risco, tão logo tome conhecimento, inclusive o derivado de motivo alheio à sua vontade.</p>
+            
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Será relevante o agravamento que conduza ao aumento significativo e continuado da probabilidade de realização do risco ou da severidade de seus efeitos.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Depois de ciente, a seguradora poderá, até o prazo máximo de vinte dias, cobrar a diferença de prêmio ou, não sendo possível tecnicamente garantir o novo risco, resolver o contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A resolução deve ser feita por carta registrada com aviso de recebimento ou meio idôneo equivalente, e deverá a seguradora restituir a eventual diferença de prêmio, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas com a contratação.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>No agravamento voluntário por parte do segurado ou beneficiário, a resolução por parte da seguradora produzirá efeitos desde o momento em que os riscos foram agravados.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A seguradora não responderá pelas consequências do ato praticado com a intenção de aumentar a probabilidade ou de tornar mais severos os efeitos do sinistro.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Nos seguros sobre a vida ou integridade física a seguradora poderá cobrar a diferença de prêmio, em caso de agravamento voluntário do risco.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>Perde a garantia o segurado que dolosamente não comunicar o fato causador de relevante agravamento do risco.</p>
+            
+          </Caput><Paragrafo id="art19_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O segurado que culposamente não comunicar o fato causador de relevante agravamento do risco do qual tenha tomado ciência será obrigado a pagar a diferença de prêmio que for apurada ou, se a garantia for tecnicamente impossível ou o fato corresponder a tipo de risco que não é subscrito pela seguradora, não fará jus à indenização.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Se houver relevante redução do risco, o valor do prêmio será proporcionalmente reduzido, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas com a contratação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>do PRÊMIO</NomeAgrupador>
+            <Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>O prêmio deve ser pago no tempo e forma convencionados, no domicílio do devedor.</p>
+            
+          </Caput><Paragrafo id="art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Salvo convenção, uso ou costume em contrário, o prêmio deverá ser pago à vista.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedado o recebimento de mais de 25% (vinte e cinco por cento) do prêmio antes de formado o contrato.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>A mora relativa à prestação única ou à primeira parcela de prêmio resolve de pleno direito o contrato, salvo lei, costume ou convenção em contrário.</p>
+            
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A mora relativa às demais parcelas suspenderá a garantia contratual, sem prejuízo do crédito da seguradora ao prêmio, após notificação ao segurado que concede prazo para a purgação não inferior a quinze dias contados da recepção.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A notificação deve ser feita por carta registrada remetida para o último endereço do segurado informado à seguradora, ou outro meio idôneo, e deve conter as advertências de que o não pagamento no novo prazo suspenderá a garantia e, não sendo purgada a mora, a seguradora não efetuará quaisquer pagamentos relativos a sinistros ocorridos a partir do vencimento original da parcela não paga.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Caso o segurado recuse a recepção ou por qualquer razão não seja encontrado no último endereço informado à seguradora, o prazo previsto no § 1º deste artigo terá início na data da frustração da comunicação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>A resolução, salvo quando se tratar de mora da prestação única ou da primeira parcela do prêmio, está condicionada a prévia notificação e não poderá ocorrer em prazo inferior a trinta dias após a suspensão da garantia.</p>
+            
+          </Caput><Paragrafo id="art23_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A resolução libera integralmente a seguradora por sinistros e despesas de salvamento ocorridos a partir de então.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos seguros coletivos sobre a vida e a integridade física, a resolução somente ocorrerá após noventa dias, contado o prazo da última notificação feita ao estipulante.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Nos seguros individuais sobre a vida e a integridade física estruturados com reserva matemática, o não pagamento de parcela do prêmio, que não a primeira, implicará redução proporcional da garantia ou devolução da reserva, o que for mais vantajoso para o segurado ou seus beneficiários.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O prazo terá início na data da frustração da comunicação sempre que o segurado ou o estipulante recuse a recepção ou por qualquer razão não seja encontrado no último endereço informado à seguradora ou no que constar dos cadastros normalmente utilizados pelas instituições financeiras.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A notificação da suspensão da garantia, quando advertir para a resolução do contrato caso não purgada a mora, dispensará nova comunicação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Nos seguros sobre a vida e a integridade física, o prêmio pode ser convencionado por prazo limitado ou por toda a vida do segurado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Caberá execução para a cobrança do prêmio, se infrutífera a notificação realizada pela seguradora.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>do SEGURO EM FAVOR DE TERCEIRO</NomeAgrupador>
+            <Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>O seguro será estipulado em favor de terceiro quando a contratação recair sobre interesse de titular distinto do estipulante, determinado ou determinável.</p>
+            
+          </Caput><Paragrafo id="art26_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O beneficiário será identificado por lei, por ato de vontade anterior à ocorrência do sinistro ou, a qualquer tempo, pela titularidade do interesse garantido.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Sendo determinado o beneficiário a título oneroso, a seguradora e o estipulante deverão, tão logo quanto possível, entregar-lhe cópia dos instrumentos probatórios do contrato de seguro.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>O interesse alheio, sempre que conhecido pelo proponente do seguro, deve ser declarado à seguradora.</p>
+            
+          </Caput><Paragrafo id="art27_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Presume-se que o seguro é por conta própria, salvo quando, em razão das circunstâncias ou dos termos do contrato, a seguradora tiver conhecimento de que o seguro é em favor de terceiro.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na contratação do seguro em favor de terceiro, ainda que decorrente de cumprimento de dever previsto em outro contrato, não poderá ser suprimida a escolha da seguradora e do corretor de seguro por parte do estipulante.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>O seguro em favor de terceiro pode coexistir com seguro por conta própria ainda que no âmbito do mesmo contrato.</p>
+            
+          </Caput><Paragrafo id="art28_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Salvo disposição em contrário, se houver concorrência de interesses, prevalecerá a garantia por conta própria até o valor em que concorrer, valendo, naquilo que ultrapassar, como seguro em favor de terceiro, sempre respeitado o limite da garantia.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>O estipulante deverá cumprir as obrigações e os deveres do contrato, salvo os que por sua natureza devam ser cumpridos pelo segurado ou beneficiário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>O estipulante poderá substituir processualmente o segurado e o beneficiário para exigir, em favor exclusivo destes, o cumprimento das obrigações derivadas do contrato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>Cabe ao estipulante, além de outras atribuições que decorram de lei ou de convenção, assistir ao segurado e ao beneficiário durante a execução do contrato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>Considera-se estipulante de seguro coletivo aquele que contrata em proveito de um grupo de pessoas, pactuando com a seguradora os termos do contrato para sua adesão.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>Admite-se como estipulante de seguro coletivo apenas aquele que tiver vínculo anterior e não securitário com o grupo de pessoas em proveito do qual contratar o seguro, sem o que o seguro será considerado individual.</p>
+            
+          </Caput><Paragrafo id="art33_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As quantias eventualmente pagas ao estipulante de seguro coletivo pelos serviços prestados ao grupo segurado deverão ser informadas com destaque aos segurados e beneficiários nas propostas de adesão, questionários e demais documentos do contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O estipulante de seguro coletivo sobre a vida e a integridade física do segurado é o único responsável para com a seguradora pelo cumprimento de todas as obrigações contratuais, incluída a de pagar o prêmio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>O estipulante de seguro coletivo representa os segurados e beneficiários durante a formação e a execução do contrato e responde perante eles e a seguradora por seus atos e omissões.</p>
+            
+          </Caput><Paragrafo id="art34_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para que possam valer as exceções e as defesas da seguradora em razão das declarações prestadas para a formação do contrato, o documento de adesão ao seguro deverá ter seu conteúdo formado pessoalmente pelos segurados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>Além das defesas e exceções próprias ao segurado e ao beneficiário, a seguradora poderá opor-lhes todas as fundadas no contrato anteriores ao sinistro e, salvo no caso dos seguros em que o risco coberto seja a vida ou a integridade física, também as posteriores ao sinistro.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DO COSSEGURO E SEGURO CUMULATIVO</NomeAgrupador>
+            <Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>Ocorre cosseguro quando duas ou mais seguradoras, por acordo expresso entre elas e o segurado ou o estipulante, garantem um determinado interesse contra o mesmo risco e ao mesmo tempo, cada uma delas assumindo uma cota de garantia.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>O cosseguro poderá ser documentado em uma ou em várias apólices com o mesmo conteúdo.</p>
+            
+          </Caput><Paragrafo id="art37_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se o contrato não identificar a cosseguradora líder, os interessados podem considerar líder qualquer delas, devendo dirigir-se sempre à escolhida.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A cosseguradora líder substitui as demais na regulação do sinistro e, de forma ativa e passiva, nas arbitragens e processos judiciais.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando a ação for proposta apenas contra a líder, essa deverá, no prazo da resposta, comunicar a existência do cosseguro e promover a notificação judicial ou extrajudicial das cosseguradoras.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A sentença proferida contra a líder fará coisa julgada em relação às demais, que serão executadas nos mesmos autos.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Não há solidariedade entre as cosseguradoras, arcando cada uma exclusivamente com a sua cota de garantia, salvo previsão contratual diversa.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O descumprimento de obrigações entre as cosseguradoras não prejudicará o segurado, beneficiário ou terceiro, resolvendo-se em perdas e danos entre elas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            
+            
+            
+            <p>Os documentos probatórios do contrato deverão destacar a existência do cosseguro, suas participantes e as cotas assumidas individualmente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>Ocorre seguro cumulativo quando a distribuição entre várias seguradoras for feita pelo segurado ou estipulante por força de contratações independentes, sem limitação a uma cota de garantia.</p>
+            
+          </Caput><Paragrafo id="art39_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos seguros cumulativos de dano, o segurado deverá comunicar a cada uma das seguradoras sobre a existência dos contratos com as demais.</p>
+            
+          </Paragrafo><Paragrafo id="art39_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Será reduzida proporcionalmente a importância segurada de cada contrato celebrado quando a soma das importâncias seguradas nos seguros cumulativos de dano superar o valor do interesse, desde que haja coincidência de garantia entre os seguros cumulados.</p>
+            
+          </Paragrafo><Paragrafo id="art39_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A redução proporcional prevista no § 2º não levará em conta os contratos celebrados com as seguradoras que se encontrarem insolventes.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>dos INTERVENIENTES NO CONTRATO</NomeAgrupador>
+            <Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>Os intervenientes são obrigados a agir com lealdade e boa-fé e prestar informações completas e verídicas sobre todas as questões envolvendo a formação e execução do contrato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>Os representantes e prepostos da seguradora, ainda que temporários ou a título precário, vinculam-na para todos os fins, quanto a seus atos e omissões.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            
+            
+            
+            <p>O corretor de seguro é responsável pela efetiva entrega ao destinatário dos documentos e outros dados que lhe forem confiados, no prazo máximo de cinco dias úteis.</p>
+            
+          </Caput><Paragrafo id="art42_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Sempre que for conhecido o iminente perecimento de direito, a entrega deve ser feita em prazo hábil.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>Pelo exercício de sua atividade o corretor de seguro fará jus à comissão de corretagem.</p>
+            
+          </Caput><Paragrafo id="art43_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O corretor de seguro não pode participar dos resultados obtidos pela seguradora.</p>
+            
+          </Paragrafo><Paragrafo id="art43_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A renovação ou prorrogação do seguro, quando não automática ou envolvendo alteração de conteúdo de cobertura ou financeiro mais favorável para os segurados e beneficiários, pode ser intermediada por outro corretor de seguro, da livre escolha do segurado ou estipulante.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap8">
+            
+            
+            <Rotulo>CAPÍTULO VIII</Rotulo>
+            <NomeAgrupador>da FORMAÇÃO E DURAÇÃO DO CONTRATO</NomeAgrupador>
+            <Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            
+            
+            
+            <p>A proposta de seguro pode ser efetuada pelo segurado, pelo estipulante ou pela seguradora.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            
+            
+            
+            <p>A proposta feita pela seguradora não poderá ser condicional e deverá conter, em suporte duradouro, assim entendido qualquer meio idôneo, durável e legível, capaz de ser admitido como meio de prova, mantido à disposição dos interessados, todos os requisitos necessários para a contratação, o conteúdo integral do contrato e o prazo máximo para sua aceitação.</p>
+            
+          </Caput><Paragrafo id="art45_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A seguradora não poderá invocar omissões em sua proposta depois da formação do contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art45_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A aceitação da proposta feita pela seguradora somente se dará pela manifestação expressa de vontade ou ato inequívoco do destinatário.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            
+            
+            
+            <p>A proposta feita pelo segurado não exige forma escrita.</p>
+            
+          </Caput><Paragrafo id="art46_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O simples pedido de cotação à seguradora não equivale à proposta, mas as informações prestadas pelas partes e terceiros intervenientes integram o contrato que vier a ser celebrado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            
+            
+            
+            <p>O proponente é obrigado a fornecer as informações necessárias para a aceitação do contrato e fixação da taxa para cálculo do valor do prêmio, de acordo com o questionamento que lhe submeta a seguradora.</p>
+            
+          </Caput><Paragrafo id="art47_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O descumprimento doloso do dever de informar importará perda da garantia.</p>
+            
+          </Paragrafo><Paragrafo id="art47_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A garantia, quando culposo o descumprimento, será reduzida proporcionalmente à diferença entre o prêmio pago e o que seria devido caso prestadas as informações, salvo se, diante dos fatos não revelados, a garantia for tecnicamente impossível ou tais fatos corresponderem a tipo de risco que não seja subscrito pela seguradora, hipótese em que será resolvido o contrato.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            
+            
+            
+            <p>As partes e os terceiros intervenientes no contrato devem informar tudo que souberem de relevante, bem como aquilo que deveriam saber, a respeito do interesse e do risco a serem garantidos, de acordo com as regras ordinárias de conhecimento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            
+            
+            
+            <p>A seguradora deverá alertar o proponente sobre quais são as informações relevantes a serem prestadas para a aceitação e formação do contrato e esclarecer nos seus impressos e questionários as consequências do descumprimento desse dever.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            
+            
+            
+            <p>Quando o seguro, por sua natureza ou por expressa disposição, for daqueles que exigem informações contínuas ou averbações de globalidade de riscos e interesses, a omissão do segurado, desde que comprovada, implicará a resolução do contrato, sem prejuízo da dívida do prêmio.</p>
+            
+          </Caput><Paragrafo id="art50_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A sanção de resolução do contrato será aplicável ainda que a omissão seja detectada após a ocorrência do sinistro.</p>
+            
+          </Paragrafo><Paragrafo id="art50_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O segurado poderá afastar a aplicação dessa sanção consignando a diferença de prêmio e provando a sua boa-fé.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art51">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">
+            
+            
+            
+            <p>O proponente deverá ser cientificado com antecedência sobre o conteúdo do contrato, obrigatoriamente redigido em Língua Portuguesa e inscrito em suporte duradouro, por qualquer meio idôneo, durável e legível, capaz de ser admitido como meio de prova.</p>
+            
+          </Caput><Paragrafo id="art51_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As regras sobre perda de direitos, exclusão de interesses e riscos, imposição de obrigações e restrições de direitos serão redigidas de forma clara, compreensível e colocadas em destaque, sob pena de nulidade.</p>
+            
+          </Paragrafo><Paragrafo id="art51_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Serão nulas as cláusulas redigidas em idioma estrangeiro ou que se limitem a referir-se a regras de uso internacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art52">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">
+            
+            
+            
+            <p>Recebida a proposta, a seguradora terá o prazo máximo de quinze dias para cientificar sua recusa ao proponente, ao final do qual será considerada aceita.</p>
+            
+          </Caput><Paragrafo id="art52_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Considera-se igualmente aceita a proposta pela prática de atos inequívocos, tais como o recebimento total ou parcial do prêmio ou sua cobrança pela seguradora.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O contrato celebrado mediante aceitação tácita reger-se-á, naquilo que não contrariar a proposta, pelas condições contratuais previstas nos modelos depositados pela seguradora no órgão fiscalizador de seguros para o ramo e modalidade de garantia constantes da proposta, prevalecendo, quando mencionado na proposta o número do processo administrativo, o clausulado a ele correspondente vigente na época da contratação do seguro, ou o mais favorável ao segurado, caso haja diversos clausulados depositados e não exista menção específica a um deles na proposta.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A seguradora poderá, no prazo de quinze dias do recebimento da proposta, solicitar esclarecimentos ou produção de exames periciais, e o prazo para a recusa terá novo início a partir do atendimento da solicitação ou da conclusão do exame pericial.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Durante o prazo fixado no caput deste artigo, a seguradora poderá garantir provisoriamente o interesse, sem obrigar-se à aceitação definitiva do negócio.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os critérios comerciais e técnicos de subscrição ou aceitação de riscos devem promover a solidariedade e o desenvolvimento econômico e social, sendo vedadas políticas técnicas e comerciais conducentes à discriminação social ou prejudiciais à livre iniciativa empresarial.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Solicitadas as informações pelo proponente, a seguradora terá igual prazo para informar os motivos da recusa, desde que não importem prejuízos para terceiros.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Se a seguradora não informar os motivos da recusa na forma do § 6º deste artigo, a proposta será considerada aceita.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art53">
+            
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">
+            
+            
+            
+            <p>O contrato presume-se celebrado para viger pelo prazo de um ano, salvo quando outro prazo decorrer da sua natureza, do interesse, do risco ou da vontade das partes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art54">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">
+            
+            
+            
+            <p>Nos seguros com previsão de renovação automática, a seguradora deverá, em até trinta dias antes de seu término, cientificar o contratante de sua decisão de não renovar ou das eventuais modificações que pretenda fazer para a renovação.</p>
+            
+          </Caput><Paragrafo id="art54_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se a seguradora for omissa, o contrato será automaticamente renovado.</p>
+            
+          </Paragrafo><Paragrafo id="art54_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O segurado poderá recusar o novo contrato a qualquer tempo antes do início de sua vigência ou, caso não tenha promovido averbações de riscos, simplesmente não efetuando o pagamento da única ou da primeira parcela do prêmio.</p>
+            
+          </Paragrafo><Paragrafo id="art54_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O seguro destinado a garantir interesses que recaírem sobre empreendimentos, como os de engenharia, cuja garantia não possa ser interrompida, será prorrogado até sua conclusão, ressalvado o direito da seguradora à diferença de prêmio relativo ao aumento do tempo do contrato.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap9">
+            
+            
+            <Rotulo>CAPÍTULO IX</Rotulo>
+            <NomeAgrupador>da PROVA DO CONTRATO</NomeAgrupador>
+            <Artigo id="art55">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">
+            
+            
+            
+            <p>O contrato de seguro prova-se por todos os meios admitidos em direito, vedada a prova exclusivamente testemunhal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art56">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">
+            
+            
+            
+            <p>A sociedade seguradora é obrigada a entregar ao contratante, no prazo de vinte dias contados da aceitação, documento probatório do contrato, de que constarão os seguintes elementos:</p>
+            <Inciso id="art56_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a denominação, a qualificação completa e o número de registro da seguradora única no órgão fiscalizador competente;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o número de registro no órgão fiscalizador competente do procedimento administrativo em que se encontram o modelo do contrato e as notas técnicas e atuariais correspondentes;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o nome do segurado e, sendo distinto, o do beneficiário se nomeado;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o nome do estipulante;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o dia e o horário precisos do início e fim de vigência ou, se for o caso, o modo preciso para sua determinação;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o valor do seguro e a demonstração da regra de atualização monetária, ou da regra por meio da qual se possa precisar aquele valor;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os interesses e os riscos garantidos;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>os locais de risco compreendidos pela garantia;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>os riscos excluídos e os interesses vinculados ao mesmo bem não compreendidos pela garantia, ou em relação aos quais a garantia seja de valor inferior ou submetida a condições ou a termos específicos;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>o nome, a qualificação e o domicílio de todos os intermediários do negócio, com a identificação, em existindo, daquele que receberá e transmitirá as comunicações entre os contratantes;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>em caso de cosseguro, a denominação, a qualificação completa, o número de registro no órgão fiscalizador competente e a cota de garantia de cada cosseguradora, bem como a identificação da seguradora líder, de forma especialmente precisa e destacada; e</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>o valor, o parcelamento e a estrutura do prêmio.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art56_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A quantia segurada será expressa em moeda nacional, observadas as exceções legais.</p>
+            
+          </Paragrafo><Paragrafo id="art56_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A apólice conterá glossário dos termos técnicos nela empregados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art57">
+            
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">
+            
+            
+            
+            <p>Os contratos de seguro sobre a vida são títulos executivos extrajudiciais.</p>
+            
+          </Caput><Paragrafo id="art57_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O título executivo extrajudicial será constituído por qualquer documento hábil para a prova da existência do contrato, do qual constem os elementos essenciais para a verificação da certeza e liquidez da dívida, acompanhado dos documentos necessários para a prova de sua exigibilidade.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap10">
+            
+            
+            <Rotulo>CAPÍTULO X</Rotulo>
+            <NomeAgrupador>da INTERPRETAÇÃO DO CONTRATO</NomeAgrupador>
+            <Artigo id="art58">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">
+            
+            
+            
+            <p>Se da interpretação de quaisquer documentos elaborados pela seguradora, tais como peças publicitárias, impressos, instrumentos contratuais ou pré-contratuais, resultarem dúvidas, contradições, obscuridades ou equivocidades, elas serão resolvidas no sentido mais favorável ao segurado, ao beneficiário ou ao terceiro prejudicado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art59">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">
+            
+            
+            
+            <p>O contrato de seguro não pode ser interpretado ou executado em prejuízo da coletividade de segurados, ainda que em benefício de um ou mais segurados ou beneficiários, nem promover o enriquecimento injustificado de qualquer das partes ou de terceiros.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art60">
+            
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">
+            
+            
+            
+            <p>As condições particulares do seguro prevalecem sobre as especiais e estas sobre as gerais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art61">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">
+            
+            
+            
+            <p>As cláusulas referentes à exclusão de riscos e prejuízos ou que impliquem restrição ou perda de direitos e garantias são de interpretação restritiva quanto à sua incidência e abrangência, cabendo à seguradora a prova do seu suporte fático.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art62">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">
+            
+            
+            
+            <p>O contrato de seguro deve ser executado e interpretado segundo a boa-fé.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art63">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">
+            
+            
+            
+            <p>A resolução de litígios por meios alternativos não será pactuada por adesão a cláusulas e condições predispostas, exigindo instrumento assinado pelas partes, e será feita no Brasil, submetida ao procedimento e às regras do direito brasileiro.</p>
+            
+          </Caput><Paragrafo id="art63_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O responsável pela resolução de litígios é obrigado a divulgar, em repositório de fácil acesso a qualquer interessado, os resumos dos conflitos e das decisões respectivas, sem identificações particulares.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap11">
+            
+            
+            <Rotulo>CAPÍTULO XI</Rotulo>
+            <NomeAgrupador>do RESSEGURO</NomeAgrupador>
+            <Artigo id="art64">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">
+            
+            
+            
+            <p>Pelo contrato de resseguro, a resseguradora, mediante o pagamento do prêmio equivalente, garante o interesse da seguradora contra os riscos próprios de sua atividade, decorrentes da celebração e execução de contratos de seguro.</p>
+            
+          </Caput><Paragrafo id="art64_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O contrato de resseguro é funcional para o exercício da atividade da seguradora e será formado segundo o mesmo regime de aceitação tácita aplicável ao contrato de seguro, no prazo de dez dias, contado da recepção da proposta pela resseguradora.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art65">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">
+            
+            
+            
+            <p>A resseguradora, salvo disposição em contrário, e sem prejuízo do § 2º do art. 66, não responde, com fundamento no negócio de resseguro, perante o segurado, o beneficiário do seguro ou o prejudicado.</p>
+            
+          </Caput><Paragrafo id="art65_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É válido o pagamento feito diretamente pelo ressegurador ao segurado quando a seguradora se encontrar insolvente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art66">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput id="art66_cpt">
+            
+            
+            
+            <p>Demandada para revisão ou cumprimento do contrato de seguro que motivou a contratação de resseguro facultativo, a seguradora, no prazo da contestação, deverá promover a notificação judicial ou extrajudicial da resseguradora, comunicando-lhe o ajuizamento da causa, salvo disposição contratual em contrário.</p>
+            
+          </Caput><Paragrafo id="art66_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A resseguradora poderá intervir na causa como assistente simples.</p>
+            
+          </Paragrafo><Paragrafo id="art66_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A seguradora não poderá opor ao segurado, ao beneficiário ou ao terceiro o descumprimento de obrigações por parte de sua resseguradora.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art67">
+            
+            
+            <Rotulo>Art. 67.</Rotulo>
+            
+            <Caput id="art67_cpt">
+            
+            
+            
+            <p>As prestações de resseguro adiantadas à seguradora para o fim de provê-la financeiramente para cumprir o contrato de seguro deverão ser imediatamente utilizadas para adiantamento ou pagamento da indenização ou capital ao segurado, ao beneficiário ou ao prejudicado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art68">
+            
+            
+            <Rotulo>Art. 68.</Rotulo>
+            
+            <Caput id="art68_cpt">
+            
+            
+            
+            <p>O resseguro abrangerá a totalidade do interesse ressegurado, incluído o interesse da seguradora relacionado à recuperação dos efeitos da mora no cumprimento dos contratos de seguro, bem como as despesas de salvamento e as efetuadas em virtude da regulação e liquidação dos sinistros.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art69">
+            
+            
+            <Rotulo>Art. 69.</Rotulo>
+            
+            <Caput id="art69_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2007-01-15;126!art14_par1-->
+            
+            
+            <p>Salvo o disposto no <span xlink:href="urn:lex:br:federal:lei.complementar:2007-01-15;126!art14_par1">parágrafo único do art. 14 da Lei Complementar nº 126, de 15 de janeiro de 2007</span>, os créditos do segurado, do beneficiário e do prejudicado têm preferência absoluta perante quaisquer outros créditos em relação aos montantes devidos pela resseguradora à seguradora, caso esta se encontre sob direção fiscal, intervenção ou liquidação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap12">
+            
+            
+            <Rotulo>CAPÍTULO XII</Rotulo>
+            <NomeAgrupador>do SINISTRO</NomeAgrupador>
+            <Artigo id="art70">
+            
+            
+            <Rotulo>Art. 70.</Rotulo>
+            
+            <Caput id="art70_cpt">
+            
+            
+            
+            <p>Ao conhecer o sinistro ou iminência de seu acontecimento, o segurado é obrigado a:</p>
+            <Inciso id="art70_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tomar as providências necessárias e úteis para evitar ou minorar seus efeitos;</p>
+            
+          </Inciso><Inciso id="art70_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>avisar prontamente a seguradora por qualquer meio idôneo; e</p>
+            
+          </Inciso><Inciso id="art70_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>prestar todas as informações de que disponha sobre o sinistro, suas causas e consequências, sempre que for questionado a respeito pela seguradora.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art70_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O descumprimento doloso dos deveres previstos neste artigo implica a perda da garantia.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O descumprimento culposo dos deveres previstos neste artigo implica a perda do direito à indenização do valor dos danos decorrentes da omissão.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não se aplica o disposto nos §§ 1º e 2º deste artigo no caso das obrigações previstas nos incisos II e III do caput quando o interessado provar que a seguradora tomou ciência oportunamente do sinistro e das informações por outros meios.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Incumbe também ao beneficiário, no que couber, o cumprimento das disposições deste artigo, sujeitando-se às mesmas sanções.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As providências previstas no inciso I do caput deste artigo não serão exigíveis se colocarem em perigo interesses relevantes do segurado, beneficiário ou terceiros, ou sacrifício acima do razoável.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art71">
+            
+            
+            <Rotulo>Art. 71.</Rotulo>
+            
+            <Caput id="art71_cpt">
+            
+            
+            
+            <p>A provocação dolosa de sinistro determina a resolução do contrato, sem direito ao capital segurado ou indenização e sem prejuízo da dívida de prêmio e da obrigação de ressarcir as despesas feitas pela seguradora.</p>
+            
+          </Caput><Paragrafo id="art71_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Aplica-se a mesma sanção quando o segurado ou beneficiário tiver prévia ciência da prática delituosa e não tentar evitá-la, ou quando comunicar dolosamente sinistro não ocorrido.</p>
+            
+          </Paragrafo><Paragrafo id="art71_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos seguros sobre a vida e a integridade física, o capital segurado, ou a reserva matemática devida, será pago ao segurado ou seus herdeiros, quando o sinistro for dolosamente provocado pelo beneficiário.</p>
+            
+          </Paragrafo><Paragrafo id="art71_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A fraude cometida por ocasião da reclamação de sinistro leva à perda pelo infrator do direito à garantia, liberando a seguradora do dever de prestar o capital segurado ou a indenização.</p>
+            
+          </Paragrafo><Paragrafo id="art71_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O dolo e a fraude podem ser provados por todos os meios em direito admitidos, inclusive por indícios.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art72">
+            
+            
+            <Rotulo>Art. 72.</Rotulo>
+            
+            <Caput id="art72_cpt">
+            
+            
+            
+            <p>Nos seguros de dano, as despesas com as medidas de salvamento para evitar o sinistro iminente ou atenuar seus efeitos, mesmo que realizadas por terceiros, correm por conta da seguradora, até o limite pactuado pelas partes, sem reduzir a garantia do seguro.</p>
+            
+          </Caput><Paragrafo id="art72_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A obrigação prevista no caput deste artigo existirá ainda que os prejuízos não superem o valor da franquia contratada.</p>
+            
+          </Paragrafo><Paragrafo id="art72_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A obrigação da seguradora existirá ainda que as medidas tenham sido ineficazes.</p>
+            
+          </Paragrafo><Paragrafo id="art72_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não constituem despesas de salvamento as realizadas com prevenção ordinária, incluída qualquer espécie de manutenção.</p>
+            
+          </Paragrafo><Paragrafo id="art72_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A seguradora não estará obrigada ao pagamento de despesas com medidas notoriamente inadequadas, nem de quantias que excedam o limite máximo pelo qual seria responsável, observada a garantia contratada para o tipo de sinistro iminente ou verificado.</p>
+            
+          </Paragrafo><Paragrafo id="art72_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A seguradora suportará a totalidade das despesas efetuadas com a adoção de medidas de salvamento que expressamente recomendar para o caso específico, ainda que excedam o limite previsto no § 4º.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art73">
+            
+            
+            <Rotulo>Art. 73.</Rotulo>
+            
+            <Caput id="art73_cpt">
+            
+            
+            
+            <p>A seguradora responde, nos termos da lei e do contrato, pelos efeitos do sinistro ocorrido ou cuja ocorrência tiver início na vigência do contrato, ainda que se manifestem ou perdurem após o término desta.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art74">
+            
+            
+            <Rotulo>Art. 74.</Rotulo>
+            
+            <Caput id="art74_cpt">
+            
+            
+            
+            <p>A seguradora não responde pelos efeitos manifestados durante a vigência do contrato, quando decorrentes da ocorrência de sinistro anterior, salvo disposição em contrário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art75">
+            
+            
+            <Rotulo>Art. 75.</Rotulo>
+            
+            <Caput id="art75_cpt">
+            
+            
+            
+            <p>Salvo disposição em contrário, a ocorrência de sinistros com efeitos parciais não importa redução do valor da garantia.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art76">
+            
+            
+            <Rotulo>Art. 76.</Rotulo>
+            
+            <Caput id="art76_cpt">
+            
+            
+            
+            <p>Apresentados pelo interessado os elementos que demonstrem a existência de lesão ao interesse garantido, cabe à seguradora provar a não existência da lesão ou não ser ela, no todo ou em parte, consequência dos riscos predeterminados no contrato.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap13">
+            
+            
+            <Rotulo>CAPÍTULO XIII</Rotulo>
+            <NomeAgrupador>da REGULAÇAO E LIQUIDAÇÃO DE SINISTROS</NomeAgrupador>
+            <Artigo id="art77">
+            
+            
+            <Rotulo>Art. 77.</Rotulo>
+            
+            <Caput id="art77_cpt">
+            
+            
+            
+            <p>A reclamação de pagamento por sinistro feita pelo segurado, beneficiário ou terceiro prejudicado determinará a prestação dos serviços de regulação e liquidação que têm por objetivo identificar as causas e os efeitos do fato avisado pelo interessado e quantificar em dinheiro os valores devidos pela seguradora, salvo quando convencionada reposição em espécie.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art78">
+            
+            
+            <Rotulo>Art. 78.</Rotulo>
+            
+            <Caput id="art78_cpt">
+            
+            
+            
+            <p>Cabem exclusivamente à seguradora a regulação e a liquidação do sinistro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art79">
+            
+            
+            <Rotulo>Art. 79.</Rotulo>
+            
+            <Caput id="art79_cpt">
+            
+            
+            
+            <p>A regulação e a liquidação do sinistro devem ser realizadas, sempre que possível, com simultaneidade.</p>
+            
+          </Caput><Paragrafo id="art79_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Apurada a existência de sinistro e de quantias parciais devidas ao segurado ou beneficiário, a seguradora deve adequar suas provisões e efetuar, em no máximo trinta dias, adiantamentos por conta do pagamento final ao segurado ou beneficiário.</p>
+            
+          </Paragrafo><Paragrafo id="art79_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A seguradora informará a autoridade fiscalizadora, até o décimo dia útil seguinte, a respeito das provisões e reservas que constituir para a garantia do sinistro.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art80">
+            
+            
+            <Rotulo>Art. 80.</Rotulo>
+            
+            <Caput id="art80_cpt">
+            
+            
+            
+            <p>O regulador e o liquidante do sinistro devem prontamente informar à seguradora as quantias apuradas a fim de que possam ser efetuados os pagamentos devidos ao segurado ou beneficiário.</p>
+            
+          </Caput><Paragrafo id="art80_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O descumprimento dessa obrigação acarretará a responsabilidade solidária do regulador e do liquidante pelos danos decorrentes da demora.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art81">
+            
+            
+            <Rotulo>Art. 81.</Rotulo>
+            
+            <Caput id="art81_cpt">
+            
+            
+            
+            <p>O regulador e o liquidante de sinistro atuam por conta da seguradora.</p>
+            
+          </Caput><Paragrafo id="art81_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É vedada a fixação da remuneração do regulador, do liquidante, dos peritos, dos inspetores e dos demais auxiliares com base na economia proporcionada à seguradora.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art82">
+            
+            
+            <Rotulo>Art. 82.</Rotulo>
+            
+            <Caput id="art82_cpt">
+            
+            
+            
+            <p>Cumpre ao regulador e ao liquidante de sinistro:</p>
+            <Inciso id="art82_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exercer suas atividades com probidade e celeridade;</p>
+            
+          </Inciso><Inciso id="art82_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>informar aos interessados todo o conteúdo de suas apurações, quando solicitado;</p>
+            
+          </Inciso><Inciso id="art82_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>empregar peritos especializados, sempre que necessário.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art83">
+            
+            
+            <Rotulo>Art. 83.</Rotulo>
+            
+            <Caput id="art83_cpt">
+            
+            
+            
+            <p>Em caso de dúvida sobre critérios e fórmulas destinados à apuração do valor da dívida da seguradora, serão adotados aqueles que forem mais favoráveis ao segurado ou ao beneficiário, vedado o enriquecimento sem causa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art84">
+            
+            
+            <Rotulo>Art. 84.</Rotulo>
+            
+            <Caput id="art84_cpt">
+            
+            
+            
+            <p>O relatório de regulação e liquidação do sinistro é documento comum às partes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art85">
+            
+            
+            <Rotulo>Art. 85.</Rotulo>
+            
+            <Caput id="art85_cpt">
+            
+            
+            
+            <p>É vedado ao segurado e ao beneficiário promover modificações no local do sinistro, destruir ou alterar elementos a esse relacionados.</p>
+            
+          </Caput><Paragrafo id="art85_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O descumprimento culposo implica obrigação de suportar as despesas acrescidas para a apuração e liquidação do sinistro.</p>
+            
+          </Paragrafo><Paragrafo id="art85_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O descumprimento doloso exonera a seguradora.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art86">
+            
+            
+            <Rotulo>Art. 86.</Rotulo>
+            
+            <Caput id="art86_cpt">
+            
+            
+            
+            <p>Negada a garantia, no todo ou em parte, a seguradora deverá entregar ao segurado, ou ao beneficiário, os documentos produzidos ou obtidos durante a regulação e liquidação do sinistro que fundamentem a decisão.</p>
+            
+          </Caput><Paragrafo id="art86_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A seguradora não está obrigada a entregar os documentos e demais elementos probatórios que forem considerados confidenciais ou sigilosos por lei ou que possam causar dano a terceiros, salvo em razão de decisão judicial ou arbitral proferida em processo no qual esteja garantido o sigilo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art87">
+            
+            
+            <Rotulo>Art. 87.</Rotulo>
+            
+            <Caput id="art87_cpt">
+            
+            
+            
+            <p>Correm por conta da seguradora todas as despesas com a regulação e liquidação do sinistro, salvo as realizadas para a apresentação dos documentos predeterminados para aviso da ocorrência, prova da identificação e legitimidade do segurado ou beneficiários, e de outros documentos ordinariamente em poder destes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art88">
+            
+            
+            <Rotulo>Art. 88.</Rotulo>
+            
+            <Caput id="art88_cpt">
+            
+            
+            
+            <p>A execução dos procedimentos de regulação e liquidação de sinistro não importa reconhecimento de qualquer obrigação de pagamento do valor do seguro por parte da seguradora.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art89">
+            
+            
+            <Rotulo>Art. 89.</Rotulo>
+            
+            <Caput id="art89_cpt">
+            
+            
+            
+            <p>A seguradora terá o prazo máximo de trinta dias para recusar a cobertura, sob pena de decair do direito, contado o prazo da data de apresentação da reclamação ou do aviso de sinistro pelo interessado, acompanhada de todos os elementos de que dispuser a respeito do fato reclamado, incluídos os documentos previstos no contrato necessários para a decisão.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art90">
+            
+            
+            <Rotulo>Art. 90.</Rotulo>
+            
+            <Caput id="art90_cpt">
+            
+            
+            
+            <p>A seguradora terá o prazo máximo de noventa dias, contado da apresentação da reclamação pelo interessado, para executar os procedimentos de regulação e liquidação de sinistro.</p>
+            
+          </Caput><Paragrafo id="art90_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Será de no máximo trinta dias o prazo para a regulação e liquidação dos sinistros relacionados a seguros de veículos automotores, seguros sobre a vida e a integridade física, e em todos os demais seguros cuja quantia segurada não exceda o correspondente a quinhentas vezes o salário mínimo vigente.</p>
+            
+          </Paragrafo><Paragrafo id="art90_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Quando a regulação e a liquidação dependerem de fato superveniente, o prazo somente terá início após a ciência pela seguradora de sua ocorrência.</p>
+            
+          </Paragrafo><Paragrafo id="art90_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Caso a seguradora, antes de vencido o prazo fixado no caput, apresente solicitação de elementos ou informações necessários para decidir sobre a cobertura ou sobre o valor do capital ou da indenização a ser paga, o prazo será suspenso até que o interessado apresente as informações, documentos e demais elementos expressamente solicitados pela seguradora.</p>
+            
+          </Paragrafo><Paragrafo id="art90_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A recusa da cobertura ou do pagamento da indenização ou capital reclamado deve ser expressa e motivada, não podendo a seguradora inovar o fundamento posteriormente, salvo quando depois da recusa vier a tomar conhecimento de fatos que anteriormente desconhecia.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art91">
+            
+            
+            <Rotulo>Art. 91.</Rotulo>
+            
+            <Caput id="art91_cpt">
+            
+            
+            
+            <p>Os pagamentos devidos pela seguradora devem ser efetuados em dinheiro, salvo previsão de reposição em espécie.</p>
+            
+          </Caput><Paragrafo id="art91_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O prazo para a reposição deverá ser expressamente pactuado em contrato.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art92">
+            
+            
+            <Rotulo>Art. 92.</Rotulo>
+            
+            <Caput id="art92_cpt">
+            
+            
+            
+            <p>A mora da seguradora fará incidir multa de 3% (três por cento) sobre o montante devido, corrigido monetariamente, sem prejuízo dos juros legais e da responsabilidade por perdas e danos.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit2">
+            
+            
+            <Rotulo>TÍTULO II</Rotulo>
+            <NomeAgrupador>dos SEGUROS DE DANO</NomeAgrupador>
+            <Capitulo id="tit2_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art93">
+            
+            
+            <Rotulo>Art. 93.</Rotulo>
+            
+            <Caput id="art93_cpt">
+            
+            
+            
+            <p>Os valores da garantia e da indenização não poderão superar o valor do interesse, ressalvadas as exceções previstas nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art94">
+            
+            
+            <Rotulo>Art. 94.</Rotulo>
+            
+            <Caput id="art94_cpt">
+            
+            
+            
+            <p>Ainda que o valor do interesse seja superior ao da garantia, a indenização não poderá excedê-lo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art95">
+            
+            
+            <Rotulo>Art. 95.</Rotulo>
+            
+            <Caput id="art95_cpt">
+            
+            
+            
+            <p>Na hipótese de sinistro parcial, o valor da indenização devida não será objeto de rateio em razão de seguro contratado por valor inferior ao do interesse, salvo disposição em contrário.</p>
+            
+          </Caput><Paragrafo id="art95_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando expressamente pactuado o rateio, a seguradora exemplificará na apólice a fórmula para cálculo da indenização.</p>
+            
+          </Paragrafo><Paragrafo id="art95_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A aplicação do rateio em razão de infrasseguro superveniente será limitada aos casos em que for expressamente afastado na apólice o regime de ajustamento final de prêmio, e o aumento do valor do interesse lesado decorrer de ato voluntário do segurado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art96">
+            
+            
+            <Rotulo>Art. 96.</Rotulo>
+            
+            <Caput id="art96_cpt">
+            
+            
+            
+            <p>É lícito contratar o seguro a valor de novo.</p>
+            
+          </Caput><Paragrafo id="art96_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É lícito convencionar a reposição ou reconstrução paulatina com pagamentos correspondentes, salvo quando esse regime impedir a reposição ou reconstrução.</p>
+            
+          </Paragrafo><Paragrafo id="art96_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos seguros de que trata este artigo, não são admitidas cláusulas de rateio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art97">
+            
+            
+            <Rotulo>Art. 97.</Rotulo>
+            
+            <Caput id="art97_cpt">
+            
+            
+            
+            <p>Não se presume na garantia do seguro a obrigação de indenizar o vício não aparente e não declarado no momento da contratação do seguro, nem os seus efeitos exclusivos.</p>
+            
+          </Caput><Paragrafo id="art97_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Salvo disposição em contrário, se houver cobertura para o vício, a garantia compreende tanto os danos ao bem no qual manifestado o vício como aqueles dele decorrentes.</p>
+            
+          </Paragrafo><Paragrafo id="art97_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A simples inspeção prévia pela seguradora de riscos relacionados com atividades empresariais não autoriza a presunção de conhecimento do vício.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art98">
+            
+            
+            <Rotulo>Art. 98.</Rotulo>
+            
+            <Caput id="art98_cpt">
+            
+            
+            
+            <p>A seguradora sub-roga-se ao segurado pelas indenizações pagas nos seguros de dano.</p>
+            
+          </Caput><Paragrafo id="art98_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É ineficaz qualquer ato do segurado que diminua ou extinga a sub-rogação.</p>
+            
+          </Paragrafo><Paragrafo id="art98_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O segurado é obrigado a colaborar no exercício dos direitos derivados da sub-rogação, respondendo pelos prejuízos que causar à seguradora.</p>
+            
+          </Paragrafo><Paragrafo id="art98_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A sub-rogação da seguradora não poderá implicar prejuízo ao direito remanescente do segurado ou beneficiário contra terceiros.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art99">
+            
+            
+            <Rotulo>Art. 99.</Rotulo>
+            
+            <Caput id="art99_cpt">
+            
+            
+            
+            <p>A seguradora não terá ação própria ou derivada de sub-rogação quando o sinistro decorrer de culpa não grave de:</p>
+            <Inciso id="art99_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cônjuge ou parentes até o segundo grau, consanguíneos ou por afinidade, do segurado ou beneficiário;</p>
+            
+          </Inciso><Inciso id="art99_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>empregados ou pessoas sob a responsabilidade do segurado.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art99_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando o culpado pelo sinistro for garantido por seguro de responsabilidade civil, é admitido o exercício do direito excluído pelo caput deste artigo contra a seguradora que o garantir.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art100">
+            
+            
+            <Rotulo>Art. 100.</Rotulo>
+            
+            <Caput id="art100_cpt">
+            
+            
+            
+            <p>A seguradora e o segurado ratearão os bens atingidos pelo sinistro, na proporção do prejuízo suportado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art101">
+            
+            
+            <Rotulo>Art. 101.</Rotulo>
+            
+            <Caput id="art101_cpt">
+            
+            
+            
+            <p>Os seguros contra os riscos de morte e de perda de integridade física de pessoa que visem a garantir direito patrimonial de terceiro ou que tenham finalidade indenizatória submetem-se às regras do seguro de dano.</p>
+            
+          </Caput><Paragrafo id="art101_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando no momento do sinistro o valor da garantia superar o valor do direito patrimonial garantido, o excedente sujeitar-se-á às regras do seguro de vida, e será credor da diferença aquele sobre cuja vida ou integridade física foi contratado o seguro e, no caso de morte, o beneficiário, observando-se as disposições do Título III.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>do SEGURO DE RESPONSABILIDADE CIVIL</NomeAgrupador>
+            <Artigo id="art102">
+            
+            
+            <Rotulo>Art. 102.</Rotulo>
+            
+            <Caput id="art102_cpt">
+            
+            
+            
+            <p>O seguro de responsabilidade civil garante o interesse do segurado contra os efeitos da imputação de responsabilidade e do seu reconhecimento e o dos terceiros prejudicados à indenização.</p>
+            
+          </Caput><Paragrafo id="art102_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Conforme o tipo de seguro contratado, o risco pode caracterizar-se pela ocorrência do fato gerador, da manifestação danosa ou da imputação de responsabilidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art103">
+            
+            
+            <Rotulo>Art. 103.</Rotulo>
+            
+            <Caput id="art103_cpt">
+            
+            
+            
+            <p>Os prejudicados poderão exercer seu direito de ação contra a seguradora, desde que em litisconsórcio passivo com o segurado.</p>
+            
+          </Caput><Paragrafo id="art103_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O litisconsórcio será dispensado quando o segurado não tiver domicílio no Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art103_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Serão garantidos os gastos com a defesa do segurado contra a imputação de responsabilidade, mediante a fixação de valor específico e diverso daquele destinado à indenização dos prejudicados.</p>
+            
+          </Paragrafo><Paragrafo id="art103_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O responsável garantido pelo seguro que não colaborar com a seguradora ou praticar atos em detrimento dela responderá pelos prejuízos a que der causa, cabendo-lhe:</p>
+            <Inciso id="art103_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>informar prontamente a seguradora das comunicações recebidas que possam gerar uma reclamação futura;</p>
+            
+          </Inciso><Inciso id="art103_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fornecer os documentos e outros elementos a que tiver acesso e que lhe forem solicitados pela seguradora;</p>
+            
+          </Inciso><Inciso id="art103_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>comparecer aos atos processuais para os quais for intimado; e</p>
+            
+          </Inciso><Inciso id="art103_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>abster-se de agir em detrimento dos direitos e pretensões da seguradora.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art103_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Salvo disposição em contrário, a seguradora poderá celebrar transação com os prejudicados, o que não implicará o reconhecimento de responsabilidade do segurado, nem prejudicará aqueles a quem é imputada a responsabilidade.</p>
+            
+          </Paragrafo><Paragrafo id="art103_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A garantia está sujeita aos mesmos acessórios incidentes sobre a dívida do responsável.</p>
+            
+          </Paragrafo><Paragrafo id="art103_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Se houver pluralidade de prejudicados em um mesmo evento, a seguradora ficará liberada com a prestação da totalidade das indenizações decorrentes da garantia do seguro a um ou mais prejudicados, sempre que ignorar a existência dos demais.</p>
+            
+          </Paragrafo><Paragrafo id="art103_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O segurado deve empreender todos os esforços para informar os terceiros prejudicados sobre a existência e o conteúdo do seguro contratado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art104">
+            
+            
+            <Rotulo>Art. 104.</Rotulo>
+            
+            <Caput id="art104_cpt">
+            
+            
+            
+            <p>A seguradora, salvo disposição legal em contrário, pode opor aos prejudicados todas as defesas fundadas no contrato que tiver para com o segurado ou o terceiro que fizer uso legítimo do bem, desde que anteriores ao início do sinistro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art105">
+            
+            
+            <Rotulo>Art. 105.</Rotulo>
+            
+            <Caput id="art105_cpt">
+            
+            
+            
+            <p>A seguradora poderá opor aos terceiros prejudicados todas as defesas que possuir contra eles, fundadas ou não no contrato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art106">
+            
+            
+            <Rotulo>Art. 106.</Rotulo>
+            
+            <Caput id="art106_cpt">
+            
+            
+            
+            <p>O segurado, quando a pretensão do prejudicado for exercida exclusivamente contra si, é obrigado a comunicar a seguradora, tão logo seja citado para responder à demanda e fornecer os elementos necessários sobre o processo.</p>
+            
+          </Caput><Paragrafo id="art106_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O segurado poderá chamar a seguradora a integrar o processo, na condição de litisconsorte, sem responsabilidade solidária.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>da TRANSFERÊNCIA DO INTERESSE</NomeAgrupador>
+            <Artigo id="art107">
+            
+            
+            <Rotulo>Art. 107.</Rotulo>
+            
+            <Caput id="art107_cpt">
+            
+            
+            
+            <p>A transferência do interesse garantido implica a cessão do seguro correspondente, obrigando-se o cessionário no lugar do cedente.</p>
+            
+          </Caput><Paragrafo id="art107_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A cessão não ocorrerá quando o adquirente exercer atividade capaz de aumentar o risco ou não preencher os requisitos exigidos pela técnica de seguro, hipóteses em que o contrato será resolvido com a devolução proporcional do prêmio, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas.</p>
+            
+          </Paragrafo><Paragrafo id="art107_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caso a cessão implique alteração da taxa de prêmio, será feito o ajuste e creditada a parte favorecida.</p>
+            
+          </Paragrafo><Paragrafo id="art107_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As bonificações, taxações especiais e outras vantagens personalíssimas do cedente não se comunicam ao novo titular do interesse.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art108">
+            
+            
+            <Rotulo>Art. 108.</Rotulo>
+            
+            <Caput id="art108_cpt">
+            
+            
+            
+            <p>A cessão do interesse segurado deixará de ser eficaz quando não for comunicada à seguradora nos trinta dias posteriores à transferência.</p>
+            
+          </Caput><Paragrafo id="art108_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A cessão do direito à indenização somente deverá ser comunicada para o fim de evitar que a seguradora efetue o pagamento válido ao credor putativo.</p>
+            
+          </Paragrafo><Paragrafo id="art108_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se não ocorrer sinistro, a seguradora poderá, no prazo de quinze dias, contados da comunicação, recusar o contrato com o cessionário, com redução proporcional do prêmio e devolução da diferença ao contratante original, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas.</p>
+            
+          </Paragrafo><Paragrafo id="art108_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A recusa deverá ser notificada ao cedente e ao cessionário e produzirá efeitos após quinze dias contados do recebimento da notificação.</p>
+            
+          </Paragrafo><Paragrafo id="art108_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se não houver cessão do contrato, nem substituição do interesse decorrente de sub-rogação real, o segurado fará jus à devolução proporcional do prêmio, ressalvado, na mesma proporção, o direito da seguradora às despesas realizadas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art109">
+            
+            
+            <Rotulo>Art. 109.</Rotulo>
+            
+            <Caput id="art109_cpt">
+            
+            
+            
+            <p>A cessão dos seguros obrigatórios ocorre de pleno direito com a transferência do interesse.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit3">
+            
+            
+            <Rotulo>TÍTULO III</Rotulo>
+            <NomeAgrupador>dos SEGUROS SOBRE A VIDA E A INTEGRIDADE FÍSICA</NomeAgrupador>
+            <Artigo id="art110">
+            
+            
+            <Rotulo>Art. 110.</Rotulo>
+            
+            <Caput id="art110_cpt">
+            
+            
+            
+            <p>Nos seguros sobre a vida e a integridade física, o capital segurado é livremente estipulado pelo proponente, que pode contratar mais de um seguro sobre o mesmo interesse, com a mesma ou diversas seguradoras.</p>
+            
+          </Caput><Paragrafo id="art110_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O capital segurado, conforme convencionado, será pago sob a forma de renda ou de pagamento único.</p>
+            
+          </Paragrafo><Paragrafo id="art110_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É lícita a estruturação de seguro sobre a vida e a integridade física com prêmio e capital variáveis.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art111">
+            
+            
+            <Rotulo>Art. 111.</Rotulo>
+            
+            <Caput id="art111_cpt">
+            
+            
+            
+            <p>É livre a indicação do beneficiário nos seguros sobre a vida e a integridade física.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art112">
+            
+            
+            <Rotulo>Art. 112.</Rotulo>
+            
+            <Caput id="art112_cpt">
+            
+            
+            
+            <p>Salvo renúncia do segurado, é lícita a substituição do beneficiário do seguro sobre a vida e a integridade física, por ato entre vivos ou declaração de última vontade.</p>
+            
+          </Caput><Paragrafo id="art112_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A seguradora não cientificada da substituição será exonerada pagando ao antigo beneficiário.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art113">
+            
+            
+            <Rotulo>Art. 113.</Rotulo>
+            
+            <Caput id="art113_cpt">
+            
+            
+            
+            <p>Na falta de indicação do beneficiário, não prevalecendo ou sendo nula a indicação efetuada, o capital segurado será pago ou, se for o caso, será devolvida a reserva matemática, por metade, ao cônjuge, se houver, e o restante aos demais herdeiros do segurado.</p>
+            
+          </Caput><Paragrafo id="art113_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Considera-se inexistente a indicação quando o beneficiário falecer antes da ocorrência do sinistro ou ocorrer comoriência.</p>
+            
+          </Paragrafo><Paragrafo id="art113_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se o segurado for separado, ainda que de fato, caberá ao companheiro a metade que caberia ao cônjuge.</p>
+            
+          </Paragrafo><Paragrafo id="art113_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se não houver beneficiários indicados ou legais, o valor do seguro será pago àqueles que provarem que a morte do segurado lhes privou de meios de subsistência.</p>
+            
+          </Paragrafo><Paragrafo id="art113_par4">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art555--><!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art556--><!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art557-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Não prevalecerá a indicação de beneficiário nas hipóteses de revogação da doação, observados os <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art555">arts. 555</span>, <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art556">556</span> e <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art557">557 da Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art114">
+            
+            
+            <Rotulo>Art. 114.</Rotulo>
+            
+            <Caput id="art114_cpt">
+            
+            
+            
+            <p>O capital segurado recebido em razão de morte não é considerado herança para qualquer efeito.</p>
+            
+          </Caput><Paragrafo id="art114_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para os fins deste artigo, equipara-se ao seguro de vida a garantia de risco de morte contratada nos planos de previdência privada.</p>
+            
+          </Paragrafo><Paragrafo id="art114_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Com o objetivo de preservar a legítima, a equiparação prevista no § 1º deste artigo não se aplica aos planos de previdência privada cujo capital seja constituído sob o regime de acumulação de contribuições.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art115">
+            
+            
+            <Rotulo>Art. 115.</Rotulo>
+            
+            <Caput id="art115_cpt">
+            
+            
+            
+            <p>É nulo, no seguro sobre a vida e a integridade física próprias, qualquer negócio jurídico que direta ou indiretamente implique renúncia ou redução do crédito ao capital segurado ou à reserva matemática, ressalvadas as atribuições feitas em favor do segurado ou beneficiários a título de empréstimo técnico ou resgate.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art116">
+            
+            
+            <Rotulo>Art. 116.</Rotulo>
+            
+            <Caput id="art116_cpt">
+            
+            
+            
+            <p>Nos seguros sobre a vida própria para o caso de morte e sobre a integridade física própria para o caso de invalidez por doença, é lícito estipular-se prazo de carência, durante o qual a seguradora não responde pela ocorrência do sinistro.</p>
+            
+          </Caput><Paragrafo id="art116_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O prazo de carência não pode ser convencionado quando se tratar de renovação ou substituição de contrato existente, ainda que seja outra a seguradora.</p>
+            
+          </Paragrafo><Paragrafo id="art116_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O prazo de carência não pode ser pactuado de forma a tornar inócua a garantia e em nenhum caso pode exceder à metade da vigência do contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art116_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Ocorrendo o sinistro no prazo de carência, legal ou contratual, a seguradora é obrigada a entregar ao segurado ou ao beneficiário o valor do prêmio pago, ou a reserva matemática, se houver.</p>
+            
+          </Paragrafo><Paragrafo id="art116_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Convencionada a carência, a seguradora não poderá negar o pagamento do capital sob a alegação de pré-existência de estado patológico.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art117">
+            
+            
+            <Rotulo>Art. 117.</Rotulo>
+            
+            <Caput id="art117_cpt">
+            
+            
+            
+            <p>É lícito, nos seguros sobre a vida e a integridade física, excluir da garantia os sinistros cuja causa exclusiva ou principal corresponda a estados patológicos pré-existentes ao início da relação contratual.</p>
+            
+          </Caput><Paragrafo id="art117_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A exclusão só poderá ser alegada quando não convencionado prazo de carência e desde que o segurado, questionado claramente, omita voluntariamente a informação da preexistência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art118">
+            
+            
+            <Rotulo>Art. 118.</Rotulo>
+            
+            <Caput id="art118_cpt">
+            
+            
+            
+            <p>O beneficiário não terá direito ao recebimento do capital quando o suicídio do segurado, voluntário ou não, ocorrer antes de findo um ano de vigência do primeiro contrato.</p>
+            
+          </Caput><Paragrafo id="art118_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando o segurado aumentar o capital, o beneficiário não terá direito à quantia acrescida se ocorrer o suicídio no prazo previsto no caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art118_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedada a fixação de novo prazo de carência na hipótese de renovação ou de substituição do contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art118_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O suicídio cometido em virtude de grave ameaça à existência do segurado ou de legítima defesa de terceiro não está compreendido no prazo de carência.</p>
+            
+          </Paragrafo><Paragrafo id="art118_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Não será devido o pagamento do capital segurado quando o seguro for contratado dolosamente como ato preparatório de suicídio planificado, ainda que já decorrido o período de carência.</p>
+            
+          </Paragrafo><Paragrafo id="art118_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>É nula cláusula de exclusão de cobertura em caso de suicídio de qualquer espécie.</p>
+            
+          </Paragrafo><Paragrafo id="art118_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Ocorrendo o suicídio no prazo de carência, é assegurado o direito à devolução da reserva matemática, quando o seguro pressupuser sua constituição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art119">
+            
+            
+            <Rotulo>Art. 119.</Rotulo>
+            
+            <Caput id="art119_cpt">
+            
+            
+            
+            <p>A seguradora não se exime do pagamento do capital, ainda que previsto contratualmente, quando a morte ou incapacidade decorrer do trabalho, da prestação de serviços militares, de atos humanitários, da utilização de meio de transporte arriscado ou da prática desportiva.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art120">
+            
+            
+            <Rotulo>Art. 120.</Rotulo>
+            
+            <Caput id="art120_cpt">
+            
+            
+            
+            <p>Os capitais pagos em razão de morte ou perda da integridade física não implicam sub-rogação e são impenhoráveis, salvo quando e à medida que o seguro caracterizar-se como de dano.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art121">
+            
+            
+            <Rotulo>Art. 121.</Rotulo>
+            
+            <Caput id="art121_cpt">
+            
+            
+            
+            <p>Nos seguros coletivos sobre a vida e a integridade física, a mudança dos termos do contrato em vigor que possa gerar efeitos contrários aos interesses dos segurados e beneficiários dependerá da anuência expressa de segurados que representem pelo menos três quartos do grupo.</p>
+            
+          </Caput><Paragrafo id="art121_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando não prevista no contrato anterior, a modificação do conteúdo dos seguros coletivos sobre a vida e a integridade física, em caso de renovação, dependerá da anuência expressa de segurados que representem pelo menos três quartos do grupo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art122">
+            
+            
+            <Rotulo>Art. 122.</Rotulo>
+            
+            <Caput id="art122_cpt">
+            
+            
+            
+            <p>Salvo se a seguradora encerrar operações no ramo ou modalidade, a recusa de renovação de seguros individuais sobre a vida e a integridade física que tenham sido renovados sucessiva e automaticamente por mais de dez anos deverá ser precedida de comunicação ao segurado e acompanhada de oferta de outro seguro que contenha garantia similar e preços atuarialmente repactuados, em função da realidade e equilíbrio da carteira, com antecedência mínima de noventa dias, vedadas carências e direito de recusa de prestação em virtude de fatos preexistentes.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo><Titulo id="tit4">
+            
+            
+            <Rotulo>TÍTULO IV</Rotulo>
+            <NomeAgrupador>dos SEGUROS OBRIGATÓRIOS</NomeAgrupador>
+            <Artigo id="art123">
+            
+            
+            <Rotulo>Art. 123.</Rotulo>
+            
+            <Caput id="art123_cpt">
+            
+            
+            
+            <p>As garantias dos seguros obrigatórios terão conteúdo e valores mínimos que permitam o cumprimento de sua função social.</p>
+            
+          </Caput><Paragrafo id="art123_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É nulo, nos seguros obrigatórios, o negócio jurídico que direta ou indiretamente implique renúncia total ou parcial da indenização ou do capital segurado para os casos de morte ou invalidez.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Titulo><Titulo id="tit5">
+            
+            
+            <Rotulo>TÍTULO V</Rotulo>
+            <NomeAgrupador>da PRESCRIÇÃO</NomeAgrupador>
+            <Artigo id="art124">
+            
+            
+            <Rotulo>Art. 124.</Rotulo>
+            
+            <Caput id="art124_cpt">
+            
+            
+            
+            <p>Prescrevem:</p>
+            <Inciso id="art124_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>em um ano, contado o prazo da ciência do respectivo fato gerador:</p>
+            <Alinea id="art124_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a pretensão da seguradora para a cobrança do prêmio ou qualquer outra pretensão contra o segurado e o estipulante do seguro;</p>
+            
+          </Alinea><Alinea id="art124_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a pretensão do corretor de seguro para a cobrança de suas comissões;</p>
+            
+          </Alinea><Alinea id="art124_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>as pretensões das cosseguradoras, entre si;</p>
+            
+          </Alinea><Alinea id="art124_cpt_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>as pretensões existentes entre seguradoras, resseguradoras e retrocessionárias;</p>
+            
+          </Alinea><Alinea id="art124_cpt_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>a pretensão do segurado para exigir indenização, capital, reserva matemática, prestações vencidas de rendas temporárias ou vitalícias e restituição de prêmio em seu favor, após a recepção da recusa expressa e motivada da seguradora;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art124_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em três anos a pretensão dos beneficiários ou terceiros prejudicados para exigir da seguradora indenização, capital, reserva matemática, prestações vencidas de rendas temporárias ou vitalícias, a contar da ciência do fato gerador da pretensão.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art124_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No seguro de responsabilidade civil, o prazo terá início quando o segurado for citado ou notificado isoladamente para responder ao pedido condenatório formulado pelo terceiro prejudicado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art125">
+            
+            
+            <Rotulo>Art. 125.</Rotulo>
+            
+            <Caput id="art125_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>Além das causas previstas na <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), a prescrição da pretensão relativa ao recebimento de indenização ou capital será suspensa uma única vez quando a seguradora receber pedido de reconsideração da recusa de pagamento.</p>
+            
+          </Caput><Paragrafo id="art125_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Cessa a suspensão no dia em que o interessado for comunicado pela seguradora de sua decisão final.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Titulo><Titulo id="tit6">
+            
+            
+            <Rotulo>TÍTULO VI</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art126">
+            
+            
+            <Rotulo>Art. 126.</Rotulo>
+            
+            <Caput id="art126_cpt">
+            
+            
+            
+            <p>É absoluta a competência da justiça brasileira para a composição de litígios relativos aos contratos de seguro celebrados no País.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art127">
+            
+            
+            <Rotulo>Art. 127.</Rotulo>
+            
+            <Caput id="art127_cpt">
+            
+            
+            
+            <p>O foro competente para as ações de seguro é o do domicílio do segurado ou do beneficiário, salvo se eles ajuizarem a ação optando por qualquer domicílio da seguradora ou de agente dela.</p>
+            
+          </Caput><Paragrafo id="art127_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A seguradora, a resseguradora e a retrocessionária, para as ações e arbitragens promovidas entre essas, em que sejam discutidos negócios sujeitos a esta Lei, respondem no foro de seu domicílio no Brasil.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art128">
+            
+            
+            <Rotulo>Art. 128.</Rotulo>
+            
+            <Caput id="art128_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorrido um ano da data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art129">
+            
+            
+            <Rotulo>Art. 129.</Rotulo>
+            
+            <Caput id="art129_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art206_par1_inc2--><!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art757--><!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art802-->
+            
+            
+            <p>Ficam revogados o <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art206_par1_inc2">inciso II do § 1º do art. 206</span> e <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art757">os arts. 757</span> a <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art802">802 da Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil).</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

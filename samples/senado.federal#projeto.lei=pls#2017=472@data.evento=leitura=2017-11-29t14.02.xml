@@ -1,0 +1,532 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;472@data.evento;leitura;2017-11-29t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 472 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, e a <span xlink:href="urn:lex:br:federal:lei:1974-01-03;6019">Lei nº 6.019, de 3 de janeiro de 1974</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O Congresso Nacional decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art545-4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4), art545-3_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-3_par2), art58_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58_cpt), art394-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art394-1_cpt), art611-2_cpt_inc32 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2_cpt_inc32), art545-4_cpt_inc1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4_cpt_inc1), art58_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58_par2), art545-4_cpt_inc3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4_cpt_inc3), art545-2_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-2_cpt), art8_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art8_par2), art545-3_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-3_par1), art620_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art620_cpt), art442-2_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art442-2_cpt), art58-1_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_par4), art452-7_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art452-7_cpt), art8 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art8), art545-1_par3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_par3), art611-2_cpt_inc33 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2_cpt_inc33), art545-4_cpt_inc4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4_cpt_inc4), art545-3_par3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-3_par3), art392 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art392), art443_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art443_cpt), art58 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58), art545-1_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_par4), art620 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art620), art457_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art457_par2), art457_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art457_cpt), art394-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art394-1), art545-4_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4_par1), art58-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1_cpt), art614 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art614), art457 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art457), art443 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art443), art611-2_cpt_inc34 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2_cpt_inc34), art392_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art392_cpt), art545-4_cpt_inc5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4_cpt_inc5), art8_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art8_cpt), art545-2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-2), art911-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art911-1_cpt), art545-1_par6 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_par6), art545-1_par5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_par5), art394-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art394-1_par1), art545-3_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-3_cpt), art452-7 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art452-7), art911-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art911-1_par1), art545-3_par5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-3_par5), art545-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1), art58_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58_par4), art545-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_cpt), art611-2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2), art545-1_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_par2), art611-2_cpt_inc31 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2_cpt_inc31), art545-3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-3), art614_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art614_cpt), art545-4_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4_cpt), art545-4_cpt_inc2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-4_cpt_inc2), art545-1_par7 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_par7), art461_par5 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art461_par5), art611-2_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art611-2_cpt), art442-2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art442-2), art58-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art58-1), art614_par3 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art614_par3), art545-3_par4 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-3_par4), art461_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art461_cpt), art911-1_par2 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art911-1_par2), art911-1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art911-1), art545-1_par1 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art545-1_par1), art461 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art461)))))-->
+              <Artigo xlink:href="art8" id="art1_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art1_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art8_omi1"/><Paragrafo xlink:href="art8_par2" id="art1_cpt_alt1_art8_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Súmulas e outros enunciados de jurisprudência editados pelo Tribunal Superior do Trabalho e pelos Tribunais Regionais do Trabalho não poderão restringir direitos previstos em Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art58" id="art1_cpt_alt1_art58" abreAspas="s">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput xlink:href="art58_cpt" id="art1_cpt_alt1_art58_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art58_omi1"/><Paragrafo xlink:href="art58_par2" id="art1_cpt_alt1_art58_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O tempo despendido pelo empregado desde a sua residência até a efetiva ocupação do posto de trabalho e para o seu retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não será computado na jornada de trabalho, por não ser tempo à disposição do empregador, salvo quando, tratando-se de local de difícil acesso ou não servido por transporte público, o empregador fornecer a condução.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art58_omi2"/><Paragrafo xlink:href="art58_par4" id="art1_cpt_alt1_art58_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Poderão ser fixados, para as microempresas e empresas de pequeno porte, por meio de acordo ou convenção coletiva, em caso de transporte fornecido pelo empregador, em local de difícil acesso ou não servido por transporte público, o tempo médio despendido pelo empregado, bem como a forma e a natureza da remuneração.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art58-1" id="art1_cpt_alt1_art58-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 58-A.</Rotulo>
+            
+            <Caput xlink:href="art58-1_cpt" id="art1_cpt_alt1_art58-1_cpt">
+            
+            
+            
+            <p>Considera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a vinte e cinco horas semanais, sem a possibilidade de horas suplementares semanais, ou, ainda, aquele cuja duração não exceda a vinte horas semanais, com a possibilidade de acréscimo de até seis horas suplementares semanais.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art58-1_omi1"/><Paragrafo xlink:href="art58-1_par4" id="art1_cpt_alt1_art58-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na hipótese de o contrato de trabalho em regime de tempo parcial ser estabelecido em número inferior a vinte horas semanais, as horas suplementares a este quantitativo serão consideradas horas extras para fins do pagamento estipulado no § 3o, estando também limitadas a seis horas suplementares semanais.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art58-1_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art392" id="art1_cpt_alt1_art392" abreAspas="s">
+            
+            
+            <Rotulo>Art. 392.</Rotulo>
+            
+            <Caput xlink:href="art392_cpt" id="art1_cpt_alt1_art392_cpt">
+            
+            
+            
+            <p>A empregada gestante tem direito à licença-maternidade de 180 (cento e oitenta) dias, sem prejuízo do emprego e do salário.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art392_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art394-1" id="art1_cpt_alt1_art394-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 394-A.</Rotulo>
+            
+            <Caput xlink:href="art394-1_cpt" id="art1_cpt_alt1_art394-1_cpt">
+            
+            
+            
+            <p>A empregada gestante ou lactante será afastada, enquanto durar a gestação ou lactação, de quaisquer atividades, operações ou locais insalubres e exercerá suas atividades em local salubre, excluído, nesse caso, o pagamento de adicional de insalubridade.</p>
+            
+          </Caput><Paragrafo xlink:href="art394-1_par1u" id="art1_cpt_alt1_art394-1_par1u" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8213-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando não for possível que a gestante ou a lactante afastada nos termos do caput deste artigo exerça suas atividades em local salubre na empresa, a hipótese será considerada como gravidez de risco e ensejará a percepção de salário-maternidade, nos termos da <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213">Lei no 8.213, de 24 de julho de 1991</span>, durante todo o período de afastamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art442-2" id="art1_cpt_alt1_art442-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 442-B.</Rotulo>
+            
+            <Caput xlink:href="art442-2_cpt" id="art1_cpt_alt1_art442-2_cpt">
+            
+            
+            
+            <p>A contratação do autônomo, cumpridas por este todas as formalidades legais, para a prestação de serviços eventuais e sem subordinação hierárquica, afasta a qualidade de empregado prevista no art. 3º desta Consolidação.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art442-2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art443" id="art1_cpt_alt1_art443" abreAspas="s">
+            
+            
+            <Rotulo>Art. 443.</Rotulo>
+            
+            <Caput xlink:href="art443_cpt" id="art1_cpt_alt1_art443_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>O contrato individual de trabalho poderá ser acordado tácita ou expressamente, verbalmente ou por escrito, por prazo determinado ou indeterminado</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art452-7" id="art1_cpt_alt1_art452-7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 452-G.</Rotulo>
+            
+            <Caput xlink:href="art452-7_cpt" id="art1_cpt_alt1_art452-7_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O empregado registrado por meio de contrato de trabalho por prazo indeterminado demitido não poderá prestar serviços para o mesmo empregador por meio de contrato de trabalho de outra natureza pelo prazo de dezoito meses, contado da data da demissão do empregado.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art457" id="art1_cpt_alt1_art457" abreAspas="s">
+            
+            
+            <Rotulo>Art. 457.</Rotulo>
+            
+            <Caput xlink:href="art457_cpt" id="art1_cpt_alt1_art457_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art457_omi1"/><Paragrafo xlink:href="art457_par2" id="art1_cpt_alt1_art457_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As importâncias, ainda que habituais, pagas a título de ajuda de custo, limitadas a cinquenta por cento da remuneração mensal, o auxílio-alimentação, vedado o seu pagamento em dinheiro, e as diárias para viagem que não excedam de cinquenta por cento do salário percebido pelo empregado, não integram a remuneração do empregado, não se incorporam ao contrato de trabalho e não constituem base de incidência de encargo trabalhista e previdenciário.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art457_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art461" id="art1_cpt_alt1_art461" abreAspas="s">
+            
+            
+            <Rotulo>Art. 461.</Rotulo>
+            
+            <Caput xlink:href="art461_cpt" id="art1_cpt_alt1_art461_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art461_omi1"/><Paragrafo xlink:href="art461_par5" id="art1_cpt_alt1_art461_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A equiparação salarial só será possível entre empregados contemporâneos no cargo ou na função, ainda que o paradigma contemporâneo tenha obtido a vantagem em ação judicial própria.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art545-1" id="art1_cpt_alt1_art545-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 545-A.</Rotulo>
+            
+            <Caput xlink:href="art545-1_cpt" id="art1_cpt_alt1_art545-1_cpt">
+            
+            
+            
+            <p>A contribuição de negociação coletiva é o valor devido em favor das entidades sindicais, com periodicidade anual, fundada na participação na negociação coletiva ou no efeito geral do seu resultado, ainda que por meio de sentença proferida em processo de dissídio coletivo, na forma do art. 616.</p>
+            
+          </Caput><Paragrafo xlink:href="art545-1_par1" id="art1_cpt_alt1_art545-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A proposta do valor da contribuição será submetida anualmente à apreciação e deliberação de assembleia dos destinatários da negociação coletiva, filiados ou não à entidade sindical.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-1_par2" id="art1_cpt_alt1_art545-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Observadas as exigências desta Lei, a cobrança da contribuição de negociação coletiva aprovada em assembleia geral não comportará oposição.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-1_par3" id="art1_cpt_alt1_art545-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O desconto ou pagamento será realizado mediante a celebração do contrato coletivo ou da comprovação da frustração da negociação coletiva, de acordo com os respectivos valores ou percentuais das contribuições determinadas pelas respectivas assembleias dos sindicatos envolvidos nas negociações.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-1_par4" id="art1_cpt_alt1_art545-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O contrato coletivo ou os documentos dos quais trata o caput deverão especificar as entidades sindicais para as quais serão feitos os repasses correspondentes à sua participação na contribuição de negociação coletiva.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-1_par5" id="art1_cpt_alt1_art545-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Quando mais de uma entidade sindical participar da negociação coletiva, os valores correspondentes à contribuição serão distribuídos de maneira proporcional ao índice de sindicalização de cada uma delas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-1_par6" id="art1_cpt_alt1_art545-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Nos contratos coletivos de âmbito municipal, intermunicipal, estadual, interestadual e nacional, os valores correspondentes à contribuição de negociação coletiva serão distribuídos de maneira proporcional à representatividade das entidades dentro da estrutura organizativa a que pertencem.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-1_par7" id="art1_cpt_alt1_art545-1_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os documentos de que trata o artigo anterior serão depositados no Ministério do Trabalho.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art545-2" id="art1_cpt_alt1_art545-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 545-B.</Rotulo>
+            
+            <Caput xlink:href="art545-2_cpt" id="art1_cpt_alt1_art545-2_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>O recolhimento e os procedimentos de repasse da contribuição de negociação coletiva serão definidos por ato do Ministro do Trabalho, ouvido o Conselho Nacional do Trabalho.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art545-3" id="art1_cpt_alt1_art545-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 545-C.</Rotulo>
+            
+            <Caput xlink:href="art545-3_cpt" id="art1_cpt_alt1_art545-3_cpt">
+            
+            
+            
+            <p>A contribuição de negociação coletiva não poderá ultrapassar 1% (um por cento) do valor da remuneração recebida no ano anterior ao do desconto e será paga, no mínimo, em 3 (três) parcelas mensais, a partir do mês de abril, independentemente do número de contratos coletivos celebrados nos diversos âmbitos de negociação da entidade sindical.</p>
+            
+          </Caput><Paragrafo xlink:href="art545-3_par1" id="art1_cpt_alt1_art545-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A base de cálculo da contribuição corresponderá ao &quot;Total dos Rendimentos&quot; indicado no &quot;Comprovante de Rendimentos Pagos e de Retenção de Imposto de Renda na Fonte&quot;, deduzidas as quantias correspondentes ao Imposto de Renda Retido na Fonte e às contribuições previdenciárias oficial e privada.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-3_par2" id="art1_cpt_alt1_art545-3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Quando o contrato de trabalho for extinto antes do desconto, a contribuição será paga de maneira proporcional ao número de meses trabalhados, no ato do pagamento das verbas rescisórias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-3_par3" id="art1_cpt_alt1_art545-3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O empregador deverá informar ao sindicato, até o final do mês de abril, o número de trabalhadores e o valor total dos salários, bruto e líquido, que foram considerados para o pagamento da contribuição.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-3_par4" id="art1_cpt_alt1_art545-3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A cobrança de contribuição de negociação coletiva é prerrogativa exclusiva do sindicato, cumprindo aos empregadores descontá-la da remuneração dos trabalhadores.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art545-3_par5" id="art1_cpt_alt1_art545-3_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O repasse da contribuição deverá ser efetuado até o 10º (décimo) dia subsequente ao desconto, sob pena de multa no valor de 10% (dez por cento) sobre o montante retido, acrescidos de juros de mora sobre o principal da dívida, sem prejuízo de cominações penais, em especial as relativas à apropriação indébita.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art545-4" id="art1_cpt_alt1_art545-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 545-D.</Rotulo>
+            
+            <Caput xlink:href="art545-4_cpt" id="art1_cpt_alt1_art545-4_cpt">
+            
+            
+            
+            <p>O rateio da contribuição aos demais integrantes da estrutura organizativa da entidade que participou da negociação coletiva obedecerá ao procedimento proposto pelo Conselho Nacional do Trabalho e aprovado pelo Ministro do Trabalho, com os seguintes percentuais:</p>
+            <Inciso xlink:href="art545-4_cpt_inc1" id="art1_cpt_alt1_art545-4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>10% (dez por cento) para as centrais sindicais;</p>
+            
+          </Inciso><Inciso xlink:href="art545-4_cpt_inc2" id="art1_cpt_alt1_art545-4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>5% (cinco por cento) para as confederações;</p>
+            
+          </Inciso><Inciso xlink:href="art545-4_cpt_inc3" id="art1_cpt_alt1_art545-4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>10% (dez por cento) para as federações;</p>
+            
+          </Inciso><Inciso xlink:href="art545-4_cpt_inc4" id="art1_cpt_alt1_art545-4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>70% (setenta por cento) para os sindicatos;</p>
+            
+          </Inciso><Inciso xlink:href="art545-4_cpt_inc5" id="art1_cpt_alt1_art545-4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>5% (cinco por cento) para o Fundo Solidário de Promoção Sindical - FSPS, nos termos do regulamento.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art545-4_par1u" id="art1_cpt_alt1_art545-4_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando a entidade sindical que participou da negociação não estiver filiada ou vinculada a qualquer dessas entidades, os percentuais a elas correspondentes serão repassados ao FSPS.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art611-2" id="art1_cpt_alt1_art611-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 611-B.</Rotulo>
+            
+            <Caput xlink:href="art611-2_cpt" id="art1_cpt_alt1_art611-2_cpt">
+            
+            
+            
+            <p>Constituem objeto ilícito de convenção coletiva ou de acordo coletivo de trabalho, a supressão ou a redução dos seguintes direitos:</p>
+            <Omissis id="art1_cpt_alt1_art611-2_cpt_omi1"/><Inciso xlink:href="art611-2_cpt_inc31" id="art1_cpt_alt1_art611-2_cpt_inc31">
+            
+            
+            <Rotulo>XXXI –</Rotulo>
+            <p>enquadramento do grau de insalubridade;</p>
+            
+          </Inciso><Inciso xlink:href="art611-2_cpt_inc32" id="art1_cpt_alt1_art611-2_cpt_inc32">
+            
+            
+            <Rotulo>XXXII –</Rotulo>
+            <p>prorrogação de jornada em ambientes insalubres, sem licença prévia das autoridades competentes do Ministério do Trabalho;</p>
+            
+          </Inciso><Inciso xlink:href="art611-2_cpt_inc33" id="art1_cpt_alt1_art611-2_cpt_inc33">
+            
+            
+            <Rotulo>XXXIII –</Rotulo>
+            <p>participação nos lucros ou resultados da empresa.</p>
+            
+          </Inciso><Inciso xlink:href="art611-2_cpt_inc34" id="art1_cpt_alt1_art611-2_cpt_inc34">
+            <!--Link: urn:lex:br:federal:lei:2015-11-19;13189-->
+            
+            <Rotulo>XXXIV –</Rotulo>
+            <p>adesão ao Programa Seguro-Emprego, de que trata a <span xlink:href="urn:lex:br:federal:lei:2015-11-19;13189">Lei nº 13.189, de 19 de novembro de 2015</span>;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art611-2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art614" id="art1_cpt_alt1_art614" abreAspas="s">
+            
+            
+            <Rotulo>Art. 614.</Rotulo>
+            
+            <Caput xlink:href="art614_cpt" id="art1_cpt_alt1_art614_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art614_omi1"/><Paragrafo xlink:href="art614_par3" id="art1_cpt_alt1_art614_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não será permitido estipular duração de convenção coletiva ou acordo coletivo de trabalho superior a dois anos</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art620" id="art1_cpt_alt1_art620" abreAspas="s">
+            
+            
+            <Rotulo>Art. 620.</Rotulo>
+            
+            <Caput xlink:href="art620_cpt" id="art1_cpt_alt1_art620_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>As condições estabelecidas em convenção coletiva de trabalho, se mais favoráveis, prevalecerão sobre as estipuladas em acordo coletivo de trabalho.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art911-1" id="art1_cpt_alt1_art911-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 911-A.</Rotulo>
+            
+            <Caput xlink:href="art911-1_cpt" id="art1_cpt_alt1_art911-1_cpt">
+            
+            
+            
+            <p>O empregador efetuará o recolhimento das contribuições previdenciárias próprias e do trabalhador e o depósito do FGTS com base nos valores pagos no período mensal e fornecerá ao empregado comprovante do cumprimento dessas obrigações.</p>
+            
+          </Caput><Paragrafo xlink:href="art911-1_par1" id="art1_cpt_alt1_art911-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No caso de segurados enquadrados como empregados que, no somatório de remunerações auferidas de um ou mais empregadores no período de um mês, independentemente do tipo de contrato de trabalho, receberem remuneração inferior ao salário mínimo mensal, caberá ao empregador recolher ao Regime Geral de Previdência Social a diferença entre a remuneração recebida e o valor do salário mínimo mensal, em que incidirá a mesma alíquota aplicada à contribuição do trabalhador retida pelo empregador, assegurado o rateio proporcional, no caso de haver mais da prestação de serviços a mais de um empregador no período.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art911-1_par2" id="art1_cpt_alt1_art911-1_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de não ser feito o recolhimento complementar previsto no § 1º, o mês em que a remuneração total recebida pelo segurado de um ou mais empregadores for menor que o salário mínimo mensal será considerado nesse valor, para fins de cálculo do benefício, assegurado o cômputo para aquisição e manutenção de qualidade de segurado do Regime Geral de Previdência Social e para cumprimento dos períodos de carência para concessão dos benefícios previdenciários.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1974;6019-->
+            
+            
+            <p>Os art. 4º-A e 5º-A da <span xlink:href="urn:lex:br:federal:lei:1974;6019">Lei nº 6.019, de 1974</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1974;6019" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1974;6019 -> MatchByBase(urn:lex:br:federal:lei:1974;6019,1974,None,Map(art12-1_par2 -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art12-1_par2), art5-1_cpt -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art5-1_cpt), art12-1 -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art12-1), art5-1 -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art5-1), art12-1_par1 -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art12-1_par1), art4-1 -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art4-1), art12-1_par3 -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art12-1_par3), art12-1_cpt -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art12-1_cpt), art4-1_cpt -> PrefixMatch(URN(1974,None,,urn:lex:br:federal:lei:1974;6019),art4-1_cpt)))))-->
+              <Artigo xlink:href="art4-1" id="art2_cpt_alt1_art4-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º-A.</Rotulo>
+            
+            <Caput xlink:href="art4-1_cpt" id="art2_cpt_alt1_art4-1_cpt">
+            
+            
+            
+            <p>considera-se prestação de serviços a terceiros a transferência feita pelo contratante à contratada, para que esta a realize na forma prevista nesta Lei, da execução de atividades especializadas que não integrem o seu objeto social, ou que não componham a sua essência econômica ou negocial, ou que não sejam inerentes à sua atuação e não possam ser dissociadas, em linha lógica de desdobramento causal, das atividades integrantes do seu objeto social, ou que não sejam permanentemente necessárias para o funcionamento da contratante ou tomadora de serviços e das quais não possa prescindir para atingir as finalidades básicas a que se propõe.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art4-1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art5-1" id="art2_cpt_alt1_art5-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º-A.</Rotulo>
+            
+            <Caput xlink:href="art5-1_cpt" id="art2_cpt_alt1_art5-1_cpt">
+            
+            
+            
+            <p>Contratante é a pessoa física ou jurídica que celebra contrato com empresa de prestação de serviços relacionados atividades especializadas que não integrem o seu objeto social, ou que não componham a sua essência econômica ou negocial, ou que não sejam inerentes à sua atuação e não possam ser dissociadas, em linha lógica de desdobramento causal, das atividades integrantes do seu objeto social, ou que não sejam permanentemente necessárias para o funcionamento da contratante ou tomadora de serviços e das quais não possa prescindir para atingir as finalidades básicas a que se propõe.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art5-1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art12-1" id="art2_cpt_alt1_art12-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12-A.</Rotulo>
+            
+            <Caput xlink:href="art12-1_cpt" id="art2_cpt_alt1_art12-1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art511_par3--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>É assegurada ao trabalhador da empresa prestadora de serviços, se mais benéfica, a percepção dos direitos que integram convenção ou acordo coletivo de trabalho vigentes celebrados pelo sindicato da categoria profissional preponderante da empresa tomadora de serviços ou da respectiva categoria profissional diferenciada ou profissão liberal, nos termos do <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art511_par3">§ 3º do art. 511 da Consolidação das Leis do Trabalho</span> - CLT, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei n°5.452, de 1º de maio de 1943</span>.</p>
+            
+          </Caput><Paragrafo xlink:href="art12-1_par1" id="art2_cpt_alt1_art12-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em nenhuma hipótese os trabalhadores da empresa contratada que estiverem prestando serviços à empresa contratante poderão receber piso salarial inferior àquele previsto em convenção ou acordo coletivo de trabalho para a categoria profissional preponderante na empresa contratante.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par2" id="art2_cpt_alt1_art12-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caso a convenção ou acordo coletivo de trabalho mencionado no caput preveja remuneração para os trabalhadores da empresa tomadora de serviços superior à remuneração dos trabalhadores da empresa prestadora de serviços, deverá esta complementá-la, por meio de abono, que integrará a sua remuneração para todos os efeitos legais, durante a execução do contrato.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12-1_par3" id="art2_cpt_alt1_art12-1_par3" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art8--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A representação sindical dos trabalhadores da empresa prestadora de serviços observará o disposto nos <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art8">artigos 8° da Constituição Federal</span> e 511 da <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> - CLT, garantindo-se os respectivos direitos de negociação coletiva e greve.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data a sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art611-1_cpt_inc4--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art611-1_cpt_inc13--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art611-1_cpt_inc15--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>Ficam revogados os art. 452-A, 477-A, 507-A e os incisos os <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art611-1_cpt_inc4">incisos IV</span>, <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art611-1_cpt_inc13">XIII</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art611-1_cpt_inc15">XV do art. 611-A da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

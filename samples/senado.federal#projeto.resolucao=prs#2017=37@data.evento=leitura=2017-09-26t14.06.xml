@@ -1,0 +1,238 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;37@data.evento;leitura;2017-09-26t14.06"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 37 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:resolucao:1970;93">Resolução nº 93, de 1970</span>, para incluir no <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93">Regimento Interno do Senado Federal</span> o procedimento de suspensão da tramitação de proposição para avaliação de compatibilidade com o Novo Regime Fiscal nos termos dos artigos 109 a 114 do <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988">Ato das Disposições Constitucionais Transitórias</span> (ADCT) e dos artigos 14 e 16 da Lei de Responsabilidade Fiscal (LRF).</Ementa>
+      <Preambulo id="preambulo"><p>O Senado Federal resolve:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:1970;93!art215-->
+            
+            
+            <p>Incluam-se no <span xlink:href="urn:lex:br:federal:resolucao:1970;93!art215">artigo 215, da Resolução nº 93, de 1970</span>, a seguinte alínea “g”, do inciso II, e os parágrafos 1º e 2º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:1970;93" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:1970;93 -> MatchByBase(urn:lex:br:federal:resolucao:1970;93,1970,None,Map(art215_par1 -> PrefixMatch(URN(1970,None,art215,urn:lex:br:federal:resolucao:1970;93!art215),art215_par1), art215_par2 -> PrefixMatch(URN(1970,None,art215,urn:lex:br:federal:resolucao:1970;93!art215),art215_par2), art215 -> ExactMatch(URN(1970,None,art215,urn:lex:br:federal:resolucao:1970;93!art215)), art215_cpt_inc2 -> PrefixMatch(URN(1970,None,art215,urn:lex:br:federal:resolucao:1970;93!art215),art215_cpt_inc2), art215_cpt_inc2_ali7 -> PrefixMatch(URN(1970,None,art215,urn:lex:br:federal:resolucao:1970;93!art215),art215_cpt_inc2_ali7), art215_cpt -> PrefixMatch(URN(1970,None,art215,urn:lex:br:federal:resolucao:1970;93!art215),art215_cpt)))))-->
+              <Artigo xlink:href="art215" id="art1_cpt_alt1_art215" abreAspas="s">
+            
+            
+            <Rotulo>Art. 215.</Rotulo>
+            
+            <Caput xlink:href="art215_cpt" id="art1_cpt_alt1_art215_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art215_cpt_omi1"/><Inciso xlink:href="art215_cpt_inc2" id="art1_cpt_alt1_art215_cpt_inc2" textoOmitido="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art215_cpt_inc2_omi1"/><Alinea xlink:href="art215_cpt_inc2_ali7" id="art1_cpt_alt1_art215_cpt_inc2_ali7">
+            <!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art114-->
+            
+            <Rotulo>g)</Rotulo>
+            <p>de suspensão, por vinte dias, da tramitação de proposição legislativa, para análise da sua compatibilidade com o Novo Regime Fiscal (<span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art114">art. 114 do Ato das Disposições Constitucionais Transitórias</span>).</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art215_par1" id="art1_cpt_alt1_art215_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Recebido o requerimento a que se refere a alínea ‘g’ do inciso II, o Presidente ordenará que seja numerado e publicado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art215_par2" id="art1_cpt_alt1_art215_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso da proposição legislativa encontrar-se em Comissão, caberá ao Presidente deste colegiado dar cumprimento ao que se refere a alínea ‘g’ do inciso II deste dispositivo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:1970;93-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:resolucao:1970;93">Resolução nº 93, de 1970</span>, passa a vigorar acrescida dos seguintes artigos 222-A e 222-B, que passam a compor a acrescida Subseção V da Seção III do Capítulo I do Título VIII:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:1970;93" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:1970;93 -> MatchByBase(urn:lex:br:federal:resolucao:1970;93,1970,None,Map(art222-1_par2 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par2), art222-1_par1_inc2 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par1_inc2), art222-2_cpt_inc2 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_cpt_inc2), art222-1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1), art222-2_cpt_inc2_ali2 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_cpt_inc2_ali2), art222-1_par2_inc1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par2_inc1), art222-1_par3_inc2 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par3_inc2), art222-1_par3 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par3), art222-2 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2), art222-1_par1_inc1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par1_inc1), art222-2_cpt_inc2_ali1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_cpt_inc2_ali1), sub5 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),sub5), art222-1_par2_inc2 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par2_inc2), art222-1_cpt -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_cpt), art222-2_cpt_inc2_ali4 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_cpt_inc2_ali4), art222-1_par4 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par4), art222-1_par2_inc3 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par2_inc3), art222-2_cpt_inc1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_cpt_inc1), art222-1_par1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par1), art222-2_cpt_inc2_ali3 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_cpt_inc2_ali3), art222-2_par1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_par1), art222-2_cpt -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-2_cpt), art222-1_par2_inc4 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par2_inc4), art222-1_par3_inc1 -> PrefixMatch(URN(1970,None,,urn:lex:br:federal:resolucao:1970;93),art222-1_par3_inc1)))))-->
+              <Subsecao xlink:href="sub5" id="art2_cpt_alt1_sub5" abreAspas="s">
+            
+            
+            <Rotulo>SUBSEÇÃO V</Rotulo>
+            <NomeAgrupador>Dos Requerimentos de Suspensão para Análise de Compatibilidade com o Novo Regime Fiscal</NomeAgrupador>
+            <Artigo xlink:href="art222-1" id="art2_cpt_alt1_art222-1">
+            
+            
+            <Rotulo>Art. 222-A.</Rotulo>
+            
+            <Caput xlink:href="art222-1_cpt" id="art2_cpt_alt1_art222-1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art59_cpt_inc5--><!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art114-->
+            
+            
+            <p>A requerimento escrito de um quinto dos membros do Senado, será suspensa por até vinte dias, independentemente de votação, a tramitação de proposição da qual possa resultar criação ou aumento de despesa obrigatória ou renúncia de receita, para análise de sua compatibilidade com o Novo Regime Fiscal, exceto quando tratar-se da proposição prevista no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art59_cpt_inc5">art. 59, inc. V, da Constituição Federal</span> (<span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art114">art. 114 do Ato das Disposições Constitucionais Transitórias</span>).</p>
+            
+          </Caput><Paragrafo xlink:href="art222-1_par1" id="art2_cpt_alt1_art222-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O prazo a que se refere o caput:</p>
+            <Inciso xlink:href="art222-1_par1_inc1" id="art2_cpt_alt1_art222-1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>contar-se-á a partir do dia útil subsequente ao do despacho de recebimento do requerimento pelo Presidente, nos termos do art. 215, inciso II, alínea “g”, deste Regimento;</p>
+            
+          </Inciso><Inciso xlink:href="art222-1_par1_inc2" id="art2_cpt_alt1_art222-1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>será prorrogado pelo tempo necessário à obtenção das informações nos termos do § 2º, inc. IV.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art222-1_par2" id="art2_cpt_alt1_art222-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A análise de compatibilidade de que trata o caput, em todas as ocasiões em que o requerimento for formulado e produzir efeitos, deve:</p>
+            <Inciso xlink:href="art222-1_par2_inc1" id="art2_cpt_alt1_art222-1_par2_inc1">
+            <!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>abranger o exame do impacto da aprovação da proposição sobre o conjunto das despesas públicas para efeitos da observância do disposto nos arts. 106 a 113 do <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988">Ato das Disposições Constitucionais Transitórias</span>, bem como os eventuais impactos isolados da proposição, se existirem, para os mesmos efeitos;</p>
+            
+          </Inciso><Inciso xlink:href="art222-1_par2_inc2" id="art2_cpt_alt1_art222-1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>versar sobre o conteúdo original da proposição, o conteúdo do substitutivo prevalecente no momento da análise, e os reflexos da aprovação de cada emenda apresentada;</p>
+            
+          </Inciso><Inciso xlink:href="art222-1_par2_inc3" id="art2_cpt_alt1_art222-1_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>referir-se ao primeiro exercício fiscal de eficácia integral da matéria tratada na proposição e aos dois subsequentes (arts. 14, caput, e 16, I, da Lei de Responsabilidade Fiscal), bem como a eventuais exercícios anteriores para os quais a mesma proponha implantação parcial ou apenas em parte do exercício; e</p>
+            
+          </Inciso><Inciso xlink:href="art222-1_par2_inc4" id="art2_cpt_alt1_art222-1_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ser amparada em informações idôneas fornecidas pelo autor ou atualizadas mediante diligência formulada aos órgãos competentes da administração pública federal, cujo curso suspenderá todos os prazos previstos para a providência prevista neste artigo.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art222-1_par3" id="art2_cpt_alt1_art222-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Caberá ao relator da matéria:</p>
+            <Inciso xlink:href="art222-1_par3_inc1" id="art2_cpt_alt1_art222-1_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>proceder, diretamente ou por intermédio do órgão de assessoramento técnico-institucional em matéria orçamentária e financeira do Senado Federal, ao exame de que trata este artigo;</p>
+            
+          </Inciso><Inciso xlink:href="art222-1_par3_inc2" id="art2_cpt_alt1_art222-1_par3_inc2">
+            <!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art114-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>manifestar-se, em documento específico juntado ao respectivo parecer, sobre a compatibilidade da proposição com o Novo Regime Fiscal, nos termos do <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art114">art. 114 do Ato das Disposições Constitucionais Transitórias</span> e deste artigo do Regimento.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art222-1_par4" id="art2_cpt_alt1_art222-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>É facultado a qualquer Senador, nos mesmos prazos concedidos ao relator, formular manifestação específica sobre a matéria, a qual será também juntada ao processado.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art222-1_omi1"/>
+          </Artigo><Artigo xlink:href="art222-2" id="art2_cpt_alt1_art222-2">
+            
+            
+            <Rotulo>Art. 222-B.</Rotulo>
+            
+            <Caput xlink:href="art222-2_cpt" id="art2_cpt_alt1_art222-2_cpt">
+            
+            
+            
+            <p>O requerimento de que trata o art. 222-A poderá ser formulado:</p>
+            <Inciso xlink:href="art222-2_cpt_inc1" id="art2_cpt_alt1_art222-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>por uma única vez, em qualquer momento da tramitação da matéria;</p>
+            
+          </Inciso><Inciso xlink:href="art222-2_cpt_inc2" id="art2_cpt_alt1_art222-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>independentemente de já ter sido concedido nos termos do inciso I, por mais uma vez:</p>
+            <Alinea xlink:href="art222-2_cpt_inc2_ali1" id="art2_cpt_alt1_art222-2_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>quando a matéria estiver na Ordem do Dia do Plenário, nos termos do art. 163;</p>
+            
+          </Alinea><Alinea xlink:href="art222-2_cpt_inc2_ali2" id="art2_cpt_alt1_art222-2_cpt_inc2_ali2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>b)</Rotulo>
+            <p>no caso de Proposta de Emenda à <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, quando a matéria estiver na Ordem do Dia do Plenário, nos termos dos arts. 357 e 358, bem como na eventualidade de apresentação de emendas de Plenário, quando retornar à sua apreciação nos termos do art. 361, § 1º;</p>
+            
+          </Alinea><Alinea xlink:href="art222-2_cpt_inc2_ali3" id="art2_cpt_alt1_art222-2_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>quanto a matéria for submetida a parecer oral em plenário, nos termos do art. 140; e</p>
+            
+          </Alinea><Alinea xlink:href="art222-2_cpt_inc2_ali4" id="art2_cpt_alt1_art222-2_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>quando a matéria estiver, nos termos do art. 130, na pauta de Comissão que sobre ela delibere em caráter terminativo na forma do art. 91.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art222-2_par1u" id="art2_cpt_alt1_art222-2_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O requerimento será aceito mais uma vez nas situações previstas no inciso II do caput, sempre que houver modificação no voto proferido pelo relator ou apresentação de novo substitutivo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Subsecao>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

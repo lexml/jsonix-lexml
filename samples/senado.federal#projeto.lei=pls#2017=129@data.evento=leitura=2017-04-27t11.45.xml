@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;129@data.evento;leitura;2017-04-27t11.45"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 129 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>, para dispor sobre os efeitos do silêncio da administração no processo administrativo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1999-01-29;9784" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1999-01-29;9784 -> MatchByBase(urn:lex:br:federal:lei:1999-01-29;9784,1999,Some((1,29)),Map(art49_cpt -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art49_cpt), art49_par2 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art49_par2), art49 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art49), art42_cpt -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art42_cpt), art42 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art42), art49_par3 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art49_par3), art42_par1 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art42_par1), art49_par1 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art49_par1)))))-->
+              <Artigo xlink:href="art42" id="art1_cpt_alt1_art42" abreAspas="s">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput xlink:href="art42_cpt" id="art1_cpt_alt1_art42_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art42_par1" id="art1_cpt_alt1_art42_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se um parecer obrigatório e vinculante deixar de ser emitido no prazo fixado, proceder-se-á conforme o disposto no § 1º do art. 49, responsabilizando-se quem der causa ao atraso.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art42_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art49" id="art1_cpt_alt1_art49" abreAspas="s">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput xlink:href="art49_cpt" id="art1_cpt_alt1_art49_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art49_par1" id="art1_cpt_alt1_art49_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos processos iniciados mediante requerimento do interessado, o silêncio após o decurso do prazo previsto no caput transferirá a competência para a autoridade imediatamente superior, que decidirá o processo, sempre que a lei não previr efeitos diversos, sem prejuízo da responsabilidade por ter dado causa ao atraso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art49_par2" id="art1_cpt_alt1_art49_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso do § 1º, a autoridade que deveria ter decidido o processo poderá, a qualquer tempo, antes da decisão da autoridade superior, suprir a omissão.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art49_par3" id="art1_cpt_alt1_art49_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando a decisão depender da manifestação de vontade de dois ou mais órgãos, entidades ou autoridades, o processo seguirá para a próxima fase, sem prejuízo do disposto no § 1º, mas o ato final só será considerado praticado após todas as declarações de vontade exigidas em lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor sessenta dias após a sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

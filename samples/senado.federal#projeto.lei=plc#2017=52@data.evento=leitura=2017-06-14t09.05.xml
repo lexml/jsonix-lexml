@@ -1,0 +1,58 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;52@data.evento;leitura;2017-06-14t09.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 52 DE 2017</Epigrafe>
+      <Ementa id="ementa">Declara Monumento Natural do Rio Samburá, para compor o mosaico de unidades de conservação da Serra da Canastra, a área que especifica, nos termos do <span xlink:href="urn:lex:br:federal:lei:2000-07-18;9985!art26">art. 26 da Lei nº 9.985, de 18 de julho de 2000</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Declara Monumento Natural do Rio Samburá a área localizada no Estado de Minas Gerais, com os limites constantes no Anexo I, abrangendo a sub-bacia hidrográfica do Rio Samburá (trecho inicial do rio, a montante do primeiro afluente constante na carta topográfica ao milionésimo), a qual corresponde à nascente geográfica do Rio São Francisco, conforme estudos realizados pela Companhia de Desenvolvimento dos Vales do Rio São Francisco e do Parnaíba (Codevasf).</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O limite é descrito em forma de pares de coordenadas (X; Y) que definem os 441 vértices do polígono.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os polígonos descritos no Anexo I perfazem uma área de 9.356,87 ha (nove mil, trezentos e cinquenta e seis hectares e oitenta e sete centésimos).</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No memorial descritivo de que trata o Anexo I, o sistema de coordenadas é UTM, projeção transversa de Mercator, zona 23 sul, meridiano central 45º, datum Córrego Alegre, distâncias em metros.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

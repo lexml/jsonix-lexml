@@ -1,0 +1,316 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;181"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 181 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1993-12-07;8742">Lei nº 8.742, de 7 de dezembro de 1993</span>, para dispor sobre as instâncias de negociação e pactuação no âmbito do Sistema Único de Assistência Social (Suas).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-12-07;8742!art6_par2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1993-12-07;8742!art6_par2">§ 2º do art. 6º da Lei nº 8.742, de 7 de dezembro de 1993</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1993-12-07;8742" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1993-12-07;8742 -> MatchByBase(urn:lex:br:federal:lei:1993-12-07;8742,1993,Some((12,7)),Map(art6 -> SuperPrefixMatch(URN(1993,Some((12,7)),art6_par2,urn:lex:br:federal:lei:1993-12-07;8742!art6_par2),art6), art6_cpt -> SuperPrefixMatch(URN(1993,Some((12,7)),art6_par2,urn:lex:br:federal:lei:1993-12-07;8742!art6_par2),art6_cpt), art6_par2 -> ExactMatch(URN(1993,Some((12,7)),art6_par2,urn:lex:br:federal:lei:1993-12-07;8742!art6_par2))))))-->
+              <Artigo xlink:href="art6" id="art1_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art1_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par2" id="art1_cpt_alt1_art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Suas é integrado pelos entes federativos, pelos respectivos conselhos de assistência social, pelas instâncias de negociação e de pactuação e pelas entidades e organizações de assistência social abrangidas por esta Lei.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art6_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-12-07;8742-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1993-12-07;8742">Lei nº 8.742, de 7 de dezembro de 1993</span>, passa a vigorar acrescida dos seguintes arts. 18-A, 18-B, 18-C, 18-D, 18-E, 18-F, 18-G e 18-H:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1993-12-07;8742" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1993-12-07;8742 -> MatchByBase(urn:lex:br:federal:lei:1993-12-07;8742,1993,Some((12,7)),Map(art18-4 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4), art18-1_cpt_inc1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-1_cpt_inc1), art18-4_par1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_par1), art18-2_par2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-2_par2), art18-3_par2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-3_par2), art18-8 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-8), art18-4_par2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_par2), art18-2_cpt_inc1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-2_cpt_inc1), art18-2_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-2_cpt), art18-1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-1), art18-4_cpt_inc3 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt_inc3), art18-3_par1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-3_par1), art18-4_cpt_inc1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt_inc1), art18-8_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-8_cpt), art18-2_cpt_inc2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-2_cpt_inc2), art18-3_cpt_inc2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-3_cpt_inc2), art18-1_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-1_cpt), art18-1_par1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-1_par1), art18-2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-2), art18-3_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-3_cpt), art18-2_par1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-2_par1), art18-7 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-7), art18-4_cpt_inc4 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt_inc4), art18-4_par4 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_par4), art18-6_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-6_cpt), art18-5_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-5_cpt), art18-4_cpt_inc2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt_inc2), art18-7_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-7_cpt), art18-4_cpt_inc5 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt_inc5), art18-6 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-6), art18-2_cpt_inc3 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-2_cpt_inc3), art18-3_cpt_inc1 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-3_cpt_inc1), art18-3 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-3), art18-5 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-5), art18-4_cpt -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt), art18-1_cpt_inc2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-1_cpt_inc2), art18-4_cpt_inc6 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt_inc6), art18-4_par3 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_par3), art18-1_par2 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-1_par2), art18-4_cpt_inc7 -> PrefixMatch(URN(1993,Some((12,7)),,urn:lex:br:federal:lei:1993-12-07;8742),art18-4_cpt_inc7)))))-->
+              <Artigo xlink:href="art18-1" id="art2_cpt_alt1_art18-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-A.</Rotulo>
+            
+            <Caput xlink:href="art18-1_cpt" id="art2_cpt_alt1_art18-1_cpt">
+            
+            
+            
+            <p>As instâncias de negociação e pactuação de aspectos operacionais do Suas são:</p>
+            <Inciso xlink:href="art18-1_cpt_inc1" id="art2_cpt_alt1_art18-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>em âmbito nacional, a Comissão Intergestores Tripartite (CIT);</p>
+            
+          </Inciso><Inciso xlink:href="art18-1_cpt_inc2" id="art2_cpt_alt1_art18-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em âmbito estadual, a Comissão Intergestores Bipartite (CIB).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art18-1_par1" id="art2_cpt_alt1_art18-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As Comissões Intergestores devem ser dotadas de secretaria executiva, com a atribuição de exercer as funções administrativas e técnicas pertinentes ao seu funcionamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18-1_par2" id="art2_cpt_alt1_art18-1_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As secretarias executivas das Comissões Intergestores são vinculadas ao órgão da Administração Pública responsável pela coordenação da Política de Assistência Social do respectivo ente federativo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art18-2" id="art2_cpt_alt1_art18-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-B.</Rotulo>
+            
+            <Caput xlink:href="art18-2_cpt" id="art2_cpt_alt1_art18-2_cpt">
+            
+            
+            
+            <p>A Comissão Intergestores Tripartite (CIT) é composta paritariamente por:</p>
+            <Inciso xlink:href="art18-2_cpt_inc1" id="art2_cpt_alt1_art18-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>representantes da União, indicados pelo órgão da Administração Pública federal responsável pela coordenação da Política Nacional de Assistência Social;</p>
+            
+          </Inciso><Inciso xlink:href="art18-2_cpt_inc2" id="art2_cpt_alt1_art18-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>representantes dos Estados e do Distrito Federal, indicados pelo Fórum Nacional de Secretários de Estado da Assistência Social (Fonseas); e</p>
+            
+          </Inciso><Inciso xlink:href="art18-2_cpt_inc3" id="art2_cpt_alt1_art18-2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>representantes dos Municípios, indicados pelo Colegiado Nacional de Gestores Municipais de Assistência Social (Congemas).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art18-2_par1" id="art2_cpt_alt1_art18-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os membros dos Estados e Distrito Federal deverão representar as cinco regiões do País, e os membros dos Municípios deverão representar as cinco regiões do País e os diferentes portes populacionais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18-2_par2" id="art2_cpt_alt1_art18-2_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os membros da CIT serão nomeados por ato normativo do Ministro de Estado responsável pelo órgão da Administração Pública federal encarregado da coordenação da Política Nacional de Assistência Social.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art18-3" id="art2_cpt_alt1_art18-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-C.</Rotulo>
+            
+            <Caput xlink:href="art18-3_cpt" id="art2_cpt_alt1_art18-3_cpt">
+            
+            
+            
+            <p>A Comissão Intergestores Bipartite (CIB) é composta paritariamente por:</p>
+            <Inciso xlink:href="art18-3_cpt_inc1" id="art2_cpt_alt1_art18-3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>representantes dos Estados, indicados pelo órgão da Administração Pública estadual responsável pela coordenação da Política de Assistência Social;</p>
+            
+          </Inciso><Inciso xlink:href="art18-3_cpt_inc2" id="art2_cpt_alt1_art18-3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>representantes dos Municípios, indicados pelo Colegiado Estadual de Gestores Municipais de Assistência Social (Coegemas).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art18-3_par1" id="art2_cpt_alt1_art18-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os membros dos Municípios deverão representar diferentes regiões do Estado e diferentes portes populacionais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18-3_par2" id="art2_cpt_alt1_art18-3_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os membros da CIB serão nomeados por ato do Secretário de Estado responsável pelo órgão da Administração Pública estadual encarregado da coordenação da Política Nacional de Assistência Social.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art18-4" id="art2_cpt_alt1_art18-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-D.</Rotulo>
+            
+            <Caput xlink:href="art18-4_cpt" id="art2_cpt_alt1_art18-4_cpt">
+            
+            
+            
+            <p>São atribuições das instâncias de negociação e pactuação do Suas:</p>
+            <Inciso xlink:href="art18-4_cpt_inc1" id="art2_cpt_alt1_art18-4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>discutir estratégias para a universalização e operacionalização do Suas;</p>
+            
+          </Inciso><Inciso xlink:href="art18-4_cpt_inc2" id="art2_cpt_alt1_art18-4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>decidir sobre os aspectos operacionais relativos à implantação e funcionamento dos serviços, programas, projetos, benefícios e transferência de renda que compõem o Suas;</p>
+            
+          </Inciso><Inciso xlink:href="art18-4_cpt_inc3" id="art2_cpt_alt1_art18-4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>pactuar critérios de partilha de recursos destinados ao cofinanciamento dos serviços, programas, projetos, benefícios e transferência de renda que compõem o Suas;</p>
+            
+          </Inciso><Inciso xlink:href="art18-4_cpt_inc4" id="art2_cpt_alt1_art18-4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>definir, no âmbito de sua competência territorial, diretrizes nacionais, regionais, interestaduais e intermunicipais sobre a integração de territórios e demais aspectos vinculados à integração das ações, serviços, programas, projetos, benefícios e transferência de renda entre os entes federativos;</p>
+            
+          </Inciso><Inciso xlink:href="art18-4_cpt_inc5" id="art2_cpt_alt1_art18-4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>pactuar prioridades e metas de aprimoramento da gestão do Suas e da qualidade da oferta dos serviços, programas, projetos, benefícios e transferência de renda;</p>
+            
+          </Inciso><Inciso xlink:href="art18-4_cpt_inc6" id="art2_cpt_alt1_art18-4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>pactuar o seu regimento interno e as estratégias para sua publicização;</p>
+            
+          </Inciso><Inciso xlink:href="art18-4_cpt_inc7" id="art2_cpt_alt1_art18-4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>divulgar no diário oficial dos respectivos entes federados todas as suas decisões.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art18-4_par1" id="art2_cpt_alt1_art18-4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A CIT e a CIB decidem por consenso e suas decisões serão objeto de resolução.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18-4_par2" id="art2_cpt_alt1_art18-4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As pactuações que versarem sobre matéria de competência dos Conselhos de Assistência Social deverão ser submetidas à apreciação e deliberação do respectivo Conselho.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18-4_par3" id="art2_cpt_alt1_art18-4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As CIBs deverão observar em suas pactuações as deliberações do Conselho Estadual de Assistência Social e as resoluções da CIT e do CNAS.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art18-4_par4" id="art2_cpt_alt1_art18-4_par4" fechaAspas="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Todas as pactuações da CIT e das CIBs deverão ser disponibilizadas em meio eletrônico e encaminhadas aos respectivos Conselhos de Assistência Social.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art18-5" id="art2_cpt_alt1_art18-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-E.</Rotulo>
+            
+            <Caput xlink:href="art18-5_cpt" id="art2_cpt_alt1_art18-5_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O Fonseas é uma entidade representativa dos órgãos da Administração Pública estadual e do Distrito Federal responsáveis pela coordenação da Política de Assistência Social.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art18-6" id="art2_cpt_alt1_art18-6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-F.</Rotulo>
+            
+            <Caput xlink:href="art18-6_cpt" id="art2_cpt_alt1_art18-6_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O Congemas é uma entidade representativa de âmbito nacional dos órgãos da Administração Pública municipal responsáveis pela coordenação da Política de Assistência Social.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art18-7" id="art2_cpt_alt1_art18-7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-G.</Rotulo>
+            
+            <Caput xlink:href="art18-7_cpt" id="art2_cpt_alt1_art18-7_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Os Coegemas são entidades representativas de âmbito estadual dos órgãos da Administração Pública municipal responsáveis pela coordenação da Política de Assistência Social, vinculados ao Congemas.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art18-8" id="art2_cpt_alt1_art18-8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-H.</Rotulo>
+            
+            <Caput xlink:href="art18-8_cpt" id="art2_cpt_alt1_art18-8_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:2014-07-31;13019-->
+            
+            
+            <p>O Fonseas, o Congemas e os Coegemas poderão celebrar, com a União, os Estados e os Municípios, termo de colaboração ou de fomento a que se refere a <span xlink:href="urn:lex:br:federal:lei:2014-07-31;13019">Lei nº 13.019, de 31 de julho de 2014</span>, ou instrumentos de parceria congêneres.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

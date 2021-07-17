@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;34@data.evento;leitura;2017-10-03t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 34 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta dispositivos ao <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159">art. 159 da Constituição Federal</span>, para prever a destinação ao Fundo de Participação dos Estados e ao Fundo de Participação dos Municípios o equivalente a dez por cento dos rendimentos mensais das aplicações financeiras de fundos públicos federais.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art159-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art159">art. 159 da Constituição Federal</span> passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art159_par6 -> PrefixMatch(URN(1988,Some((10,5)),art159,urn:lex:br:federal:constituicao:1988-10-05;1988!art159),art159_par6), art159_par5 -> PrefixMatch(URN(1988,Some((10,5)),art159,urn:lex:br:federal:constituicao:1988-10-05;1988!art159),art159_par5), art159 -> ExactMatch(URN(1988,Some((10,5)),art159,urn:lex:br:federal:constituicao:1988-10-05;1988!art159)), art159_cpt_inc4 -> PrefixMatch(URN(1988,Some((10,5)),art159,urn:lex:br:federal:constituicao:1988-10-05;1988!art159),art159_cpt_inc4), art159_cpt -> PrefixMatch(URN(1988,Some((10,5)),art159,urn:lex:br:federal:constituicao:1988-10-05;1988!art159),art159_cpt)))))-->
+              <Artigo xlink:href="art159" id="art1_cpt_alt1_art159" abreAspas="s">
+            
+            
+            <Rotulo>Art. 159.</Rotulo>
+            
+            <Caput xlink:href="art159_cpt" id="art1_cpt_alt1_art159_cpt">
+            
+            
+            
+            <p>A União entregará:</p>
+            <Omissis id="art1_cpt_alt1_art159_cpt_omi1"/><Inciso xlink:href="art159_cpt_inc4" id="art1_cpt_alt1_art159_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>dos rendimentos mensais das aplicações financeiras dos fundos públicos federais, dez por cento aos Fundos de Participação de que tratam as alíneas a e b do inciso I, desvinculados das finalidades originais.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art159_omi1"/><Paragrafo xlink:href="art159_par5" id="art1_cpt_alt1_art159_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Excetuam-se do disposto no inciso IV os fundos garantidores, fundos soberanos e fundos de transferências constitucionais.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art159_omi2"/><Paragrafo xlink:href="art159_par6" id="art1_cpt_alt1_art159_par6" fechaAspas="s">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Do montante de recursos de que trata o inciso IV, trinta por cento serão destinados ao Fundo de Participação dos Estados e do Distrito Federal, e setenta por cento ao Fundo de Participação dos Municípios.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional passa a vigorar na data da sua promulgação, com efeitos financeiros a partir do primeiro dia útil do exercício subsequente.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

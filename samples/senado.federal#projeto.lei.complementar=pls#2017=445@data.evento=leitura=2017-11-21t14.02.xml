@@ -1,0 +1,346 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;445@data.evento;leitura;2017-11-21t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 445 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o padrão nacional de obrigação acessória do Imposto Sobre Serviços de Qualquer Natureza, de competência dos Munícipios e do Distrito Federal, incidente sobre Serviços de que tratam os subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da Lista de Serviços anexa à <span xlink:href="urn:lex:br:federal:lei.complementar:2003-07-31;116">Lei Complementar nº 116, de 31 de julho de 2003</span>, alterada pela <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-29;157">Lei Complementar nº. 157, de 29 dezembro de 2016</span>, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2003-07-31;116--><!--Link: urn:lex:br:federal:lei.complementar:2016-12-29;157-->
+            
+            
+            <p>Esta Lei Complementar dispõe sobre o padrão nacional de obrigação acessória do Imposto Sobre Serviços de Qualquer Natureza – ISSQN, de competência dos Municípios e do Distrito Federal, incidente sobre os serviços previstos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da Lista de Serviços anexa à <span xlink:href="urn:lex:br:federal:lei.complementar:2003-07-31;116">Lei Complementar nº 116, de 31 de julho de 2003</span>, alterada pela <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-29;157">Lei Complementar nº 157, de 29 de dezembro de 2016</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O ISSQN devido em razão dos serviços de que trata o artigo 1º será apurado pelo contribuinte e declarado por meio de sistema eletrônico de padrão unificado em todo o território nacional.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O sistema eletrônico de padrão unificado de que trata o caput será desenvolvido pelo contribuinte, individualmente ou em conjunto com outros contribuintes sujeitos às disposições desta Lei Complementar, e seguirá leiautes e padrões definidos pelo Comitê Gestor das Obrigações Acessórias do ISSQN – CGOA, nos termos dos artigos 9 a 11 desta Lei Complementar.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os contribuintes deverão franquear aos Municípios e ao Distrito Federal o acesso mensal e gratuito ao sistema eletrônico de padrão unificado utilizado para cumprimento da obrigação acessória padronizada.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os contribuintes acessarão o sistema eletrônico de padrão unificado exclusivamente em relação às suas próprias informações, quando o sistema eletrônico de padrão unificado for desenvolvido em conjunto com outros contribuintes.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os Municípios e o Distrito Federal acessarão o sistema eletrônico de padrão unificado dos contribuintes, exclusivamente, em relação às informações de suas respectivas competências.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O contribuinte do ISSQN declarará as informações objeto da obrigação acessória de que trata esta Lei Complementar de forma padronizada, exclusivamente por meio do sistema eletrônico de que trata o artigo 2º, até o vigésimo quinto dia do mês seguinte ao de ocorrência dos fatos geradores.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A falta de apresentação da declaração de que trata o caput, em relação às informações relativas a determinado Município ou ao Distrito Federal, sujeitará o contribuinte às disposições das respectivas legislações.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Cabe ao Município e ao Distrito Federal fornecer as seguintes informações diretamente no sistema eletrônico do contribuinte, conforme definições do CGOA:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>alíquotas, conforme o período de vigência, aplicadas para os serviços descritos no art. 1º desta Lei Complementar;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>arquivos da legislação vigente no Município que verse sobre os serviços descritos no art. 1º desta Lei Complementar;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dados do domicílio bancário para recebimento do ISSQN.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os Municípios e Distrito Federal terão até o último dia do mês subsequente da disponibilização do sistema de cadastro, para fornecer as informações de que trata o caput sem prejuízo do recebimento do imposto devido retroativo a janeiro de 2018.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de atualização, pelos Municípios e Distrito Federal, das informações de que trata o caput, essas somente produzirão efeitos no período de competência mensal seguinte ao de sua inserção no sistema, observado o disposto no artigo 150, III, “b” e “c”, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, no que se refere à base de cálculo e à alíquota, e ao previsto no parágrafo 1º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É de responsabilidade dos Municípios e do Distrito Federal a higidez dos dados que prestarem no sistema previsto no caput, sendo vedada a imposição de penalidades ao contribuinte em caso de omissão, de inconsistência ou de inexatidão de tais dados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Ressalvadas as hipóteses previstas nesta Lei Complementar, fica vedado aos Municípios e ao Distrito Federal a instituição de qualquer outra obrigação acessória aos contribuintes não estabelecidos em seu território, com relação aos serviços listados no artigo 1º, inclusive a exigência de inscrição nos cadastros municipais e distritais ou licenças e alvarás de abertura de estabelecimentos nos respectivos Municípios e Distrito Federal.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            <!--Link: urn:lex:br:federal:lei.complementar:2003-07-31;116!art6_par4-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O registro de que trata o <span xlink:href="urn:lex:br:federal:lei.complementar:2003-07-31;116!art6_par4">§ 4º do artigo 6º da Lei Complementar nº 116, de 31 de julho de 2003</span>, será feito no domicilio dos detentores da posse dos equipamentos, não cabendo a imputação de responsabilidade ao prestador de serviços.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A emissão de notas fiscais de serviços de que trata o artigo 1º pelo contribuinte pode ser exigida, nos termos da legislação de cada Município e do Distrito Federal, exceto para os serviços previstos nos subitens 15.01 e 15.09, que ficam dispensados da emissão de notas fiscais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O ISSQN de que trata esta Lei Complementar será pago até o décimo quinto dia do mês subsequente ao de ocorrência dos fatos geradores, exclusivamente por meio de transferência bancária no âmbito do Sistema Brasileiro de Pagamentos, ao domicílio bancário informado pelos Municípios e pelo Distrito Federal, nos termos do inciso III do artigo 4º.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando o décimo quinto dia do mês subsequente ao de ocorrência dos fatos geradores não possuir expediente bancário, o vencimento do ISSQN será antecipado ao primeiro dia anterior com expediente bancário.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O comprovante da transferência bancária emitido segundo as regras do Sistema Brasileiro de Pagamentos é documento hábil a comprovar o pagamento do ISSQN.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Fica vedada a atribuição de responsabilidade pelo crédito tributário a terceira pessoa relativa aos serviços previsto no art. 1º desta Lei Complementar, permanecendo a responsabilidade exclusiva do contribuinte.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Fica instituído o Comitê Gestor das Obrigações Acessórias do ISSQN – CGOA.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Compete ao CGOA regular a aplicação do padrão nacional da obrigação acessória dos serviços relacionados no artigo 1º.</p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O leiaute, o acesso e a forma de fornecimento das informações serão definidos pelo CGOA e somente poderão ser alterados após decorrido o prazo de três anos, contados da sua definição inicial ou da última alteração.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A alteração do leiaute ou da forma de fornecimento das informações serão comunicadas pelo CGOA com o prazo de pelo menos 1 (um) ano antes de sua entrada em vigor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O CGOA será composto por:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Um representante de Município capital ou Distrito Federal por Região Sul, Sudeste, Centro Oeste, Nordeste e Norte do Brasil;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Um representante de Município não capital por Região Sul, Sudeste, Centro Oeste, Nordeste e Norte do Brasil.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para cada representante titular será indicado um suplente, observado o critério regional adotado nos incisos I e II do caput.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os representantes dos Municípios previstos no inciso I do caput serão indicados pela Frente Nacional de Prefeitos (FNP), e os representantes previstos no inciso II do caput, pela Confederação Nacional de Municípios (CNM).</p>
+            
+          </Paragrafo><Paragrafo id="art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O CGOA elaborará seu regimento interno mediante Resolução.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Fica instituído o Grupo Técnico do Comitê Gestor das Obrigações Acessórias do ISSQN (GTCGOA) que auxiliará o CGOA e terá a participação de representantes dos contribuintes dos serviços de que trata o art. 1º desta Lei.</p>
+            
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O GTCGOA será composto por 4 membros:</p>
+            <Inciso id="art12_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Dois membros indicados pelas entidades municipalistas que compõem o Comitê Gestor das Obrigações Acessórias do ISSQN;</p>
+            
+          </Inciso><Inciso id="art12_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Dois membros indicados pela Confederação Nacional das Instituições Financeiras (CNF), representando os contribuintes.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O GT terá suas atribuições definidas pelo CGOA mediante Resolução.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Está lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em relação às competências de janeiro, fevereiro e março de 2018, fica assegurada ao contribuinte a possibilidade de recolher ISSQN e de declarar as informações objeto da obrigação acessória de que trata o art. 2º desta Lei, até o décimo quinto dia do mês de maio de 2018, sem a imposição de qualquer penalidade.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O ISSQN de que trata o § 1º será atualizado pela taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), a partir do primeiro dia do mês subsequente ao mês de seu vencimento normal até o mês anterior ao do pagamento e de um por cento no mês de pagamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação”.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,40 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.decreto.legislativo;pds:2017;88@data.evento;leitura;2017-04-17t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE DECRETO LEGISLATIVO (SF) Nº 88 DE 2017</Epigrafe>
+      <Ementa id="ementa">Aprova o ato que renova a autorização outorgada à ASSOCIAÇÃO EDUCACIONAL, CULTURAL E ARTÍSTICA NOVO TEMPO para executar serviço de radiodifusão comunitária no Município de Igaci, Estado de Alagoas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica aprovado o ato a que se refere a Portaria do Ministério das Comunicações nº 743, de 9 de junho de 2015, que renova, por dez anos, a partir de 10 de dezembro de 2011, a autorização outorgada à Associação Educacional, Cultural e Artística Novo Tempo para executar, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Igaci, Estado de Alagoas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Este Decreto Legislativo entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

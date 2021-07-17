@@ -1,0 +1,238 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;87"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 87 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a Rota Nacional do Turismo Enológico, Cultural, Artesanal, Paisagístico, Ecológico e Gastronômico.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituída a Rota Nacional do Turismo Enológico, Cultural, Artesanal, Paisagístico, Ecológico e Gastronômico, que abrange as cidades integrantes da Região da Uva e do Vinho, localizadas no Estado do Rio Grande do Sul.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A Região mencionada no art. 1º desta Lei é composta pelos Municípios produtores de uva e vinho, integrada pelas seguintes cidades: Antônio Prado, Bento Gonçalves, Carlos Barbosa, Caxias do Sul, Farroupilha, Flores da Cunha, Garibaldi, Gramado, Guaporé, Monte Belo do Sul, Nova Pádua, Nova Roma do Sul, Santa Tereza e Veranópolis.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A Rota Nacional do Turismo Enológico, Cultural, Artesanal, Paisagístico, Ecológico e Gastronômico objetiva:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o desenvolvimento do potencial turístico regional;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o fortalecimento e a ampliação do turismo, da vitivinicultura, do artesanato e da gastronomia;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o desenvolvimento da produção industrial da uva e seus derivados;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o fomento e o desenvolvimento do artesanato regional;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o fomento e o desenvolvimento da gastronomia regional e o seu estímulo;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a implantação de mecanismos locais de educação ambiental e cultural;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a organização produtiva de comunidades locais relacionada ao turismo, à vitivinicultura e à cultura gastronômica local e regional;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a geração de novas fontes de emprego;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a fixação do agricultor e do trabalhador artesanal à terra;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>a difusão da enologia e a formação de técnicos (sommelier, enólogo) com educação relacionada a uva e vinho, conhecimento e curso sobre plantio, escolha do solo, vindima, produção, envelhecimento, engarrafamento, distribuição e venda.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Consideram-se de interesse comum os programas:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>de implantação do sistema gerenciador de zoneamento ecológico-econômico e saneamento ambiental da Região da Uva e do Vinho;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de estímulo às atividades festivas durante a colheita da uva;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>sobre concursos nacionais e internacionais de vinhos e gastronomia;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>de incentivo à promoção de festivais enogastronômicos, cursos de degustação e jantares harmonizados;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>sobre convenções, seminários e encontros culturais e apresentações artísticas diversificadas realizadas pelos diversos empreendimentos da Região da Uva e do Vinho;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>de fomento a eventos esportivos interligados com o turismo, com o artesanato, com a ecologia e com a gastronomia;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>de conservação dos lugares históricos, da cultura e da tradição regional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>de fomento e desenvolvimento do turismo ecológico e paisagístico, com visitas a museus e a locais culturais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>ecológicos artesanais, com implantação de maior mobilidade urbana e visitação;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>de capacitação de recursos humanos locais dirigidos ao turismo enológico e paisagístico;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>de implantação de infraestrutura enológica, gastronômica e ecoturística;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>de empreendimentos produtivos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>de organização da produção, incluindo o sistema associativo e formas de padronização, beneficiamento, processamento e comercialização da vitivinicultura, da gastronomia e do artesanato;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>de geração de ações de conservação e manejo integrado ao turismo enológico, cultural, artesanal, paisagístico, ecológico e gastronômico regional das cidades que integram a Rota Nacional do Turismo Enológico, Cultural, Artesanal, Paisagístico, Ecológico e Gastronômico;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>de fomento à pesquisa e ao desenvolvimento da vitivinicultura relacionado à ecologia, ao paisagismo, ao artesanato e à gastronomia;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>de promoção da Rota Nacional do Turismo Enológico, Cultural, Artesanal, Paisagístico, Ecológico e Gastronômico;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>sobre os setores integrados do Turismo Enológico, Cultural, Artesanal, Paisagístico, Ecológico e Gastronômico.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

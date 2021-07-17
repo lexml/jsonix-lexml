@@ -1,0 +1,220 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;83@data.evento;leitura;2017-03-29t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 83 DE 2017</Epigrafe>
+      <Ementa id="ementa">Estabelece regras gerais para a Administração Pública no processo administrativo de caráter sancionador pecuniário e/ou de obrigação de fazer/não fazer, condicionando sua eficácia a confirmação por colegiado e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Em sede de processo administrativo de caráter sancionador, o administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros que lhe sejam assegurados:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>somente ser sancionado pela Administração após respeitado o devido processo legal, com garantia de ampla defesa e contraditório;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>somente ser sancionado pela Administração mediante decisão proferida por autoridade competente e através de decisão devidamente motivada;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ter ampla ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter vista dos autos, obter cópias de documentos neles contidos e conhecer as decisões proferidas;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>ser cientificado pessoalmente, ou por seu advogado, das diligências requeridas ou das decisões proferidas por meio de carta de aviso de recebimento ou, quando desconhecido, por meio de Edital.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p> Considera-se processo administrativo sancionador, para os fins desta lei, todo aquele que culmine com a aplicação de multas e/ou obrigações de fazer ou não fazer que tenham caráter punitivo.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p> Não se considera fundamentada qualquer decisão, em processo sancionador, que:</p>
+            <Inciso id="art1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>invocar motivos que se prestariam a justificar qualquer outra decisão;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo administrador;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art1_par3">
+            <!--Link: urn:lex:br:federal:lei:1992-06-02;8429-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p> A inobservância do inciso III do artigo primeiro, constitui ato de improbidade administrativa que atenta contra os princípios da administração pública, nos termos da <span xlink:href="urn:lex:br:federal:lei:1992-06-02;8429">Lei nº 8.429, de 2 de junho de 1992</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A sanção indicada por agente público em processo administrativo sancionador terá sua eficácia condicionada à confirmação pelo colegiado, na forma do art. 3º.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p> A obrigação de remessa necessária ao colegiado não prejudica o direito de recurso do particular.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p> A autuação realizada por agente público de forma isolada não pode, de forma alguma, surtir qualquer efeito jurídico, como restrições, inserções ou qualquer tipo de anotação em quaisquer espécies de cadastros, bem como positivar certidões negativas antes do julgamento do colegiado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Toda sanção imposta em processo administrativo sancionador que importe em penalidade pecuniária e/ou de obrigação fazer/não fazer somente terá validade após decisão proferida, por maioria, por colegiado com ao menos três (3) agentes públicos.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p> A decisão colegiada, que deverá ser proferida em audiência pública, observará todos os parâmetros elencados no art. 1º desta lei.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p> Os colegiados devem uniformizar sua jurisprudência e mantê-la pública, estável, íntegra e coerente.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p> Os colegiados deverão manter, para livre e fácil consulta, em seus sites, banco de dados público e atualizado do inteiro teor de suas decisões.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p> A maioria dos membros de cada colegiado será formada por servidores efetivos da carreira do respectivo órgão e todos deverão ter reputação ilibada, formação universitária e elevado conceito no campo de especialidade.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p> Os membros serão nomeados, por ato oficial, pelo Chefe do Executivo de cada ente, ou por autoridade por ele delegada, e terão mandato de dois anos, permitida apenas uma recondução.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p> Em caso de vacância no curso do mandato, este será completado por sucessor investido na forma prevista no nos parágrafos quarto e quinto.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A necessidade de remessa necessária ao colegiado somente se faz nos casos em que a multa importe em sanção equivalente ou superior a R$10.000, 00 (dez mil reais).</p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O valor de que trata o caput deste artigo poderá ser atualizada por ato do Poder Executivo, após autorização do Congresso Nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A presente lei entra em vigor 180 dias após a data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

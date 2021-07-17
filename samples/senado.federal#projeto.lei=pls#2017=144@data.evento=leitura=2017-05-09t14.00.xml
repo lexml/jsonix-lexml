@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;144@data.evento;leitura;2017-05-09t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 144 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2010-08-26;12318">Lei nº 12.318, de 26 de agosto de 2010</span>, para prever a utilização da mediação nos litígios envolvendo alienação parental.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2010-08-26;12318-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2010-08-26;12318">Lei nº 12.318, de 26 de agosto de 2010</span>, passa a vigorar acrescida do seguinte art. 9º-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2010-08-26;12318" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2010-08-26;12318 -> MatchByBase(urn:lex:br:federal:lei:2010-08-26;12318,2010,Some((8,26)),Map(art9-1_par1 -> PrefixMatch(URN(2010,Some((8,26)),,urn:lex:br:federal:lei:2010-08-26;12318),art9-1_par1), art9-1_par2 -> PrefixMatch(URN(2010,Some((8,26)),,urn:lex:br:federal:lei:2010-08-26;12318),art9-1_par2), art9-1_cpt -> PrefixMatch(URN(2010,Some((8,26)),,urn:lex:br:federal:lei:2010-08-26;12318),art9-1_cpt), art9-1 -> PrefixMatch(URN(2010,Some((8,26)),,urn:lex:br:federal:lei:2010-08-26;12318),art9-1), art9-1_par3 -> PrefixMatch(URN(2010,Some((8,26)),,urn:lex:br:federal:lei:2010-08-26;12318),art9-1_par3)))))-->
+              <Artigo xlink:href="art9-1" id="art1_cpt_alt1_art9-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º-A.</Rotulo>
+            
+            <Caput xlink:href="art9-1_cpt" id="art1_cpt_alt1_art9-1_cpt">
+            
+            
+            
+            <p>As partes, por iniciativa própria ou sugestão do juiz, do Ministério Público ou do Conselho Tutelar, poderão utilizar-se da mediação para a solução do litígio, antes ou no curso do processo judicial.</p>
+            
+          </Caput><Paragrafo xlink:href="art9-1_par1" id="art1_cpt_alt1_art9-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O acordo que estabelecer a mediação indicará o prazo de eventual suspensão do processo e o correspondente regime provisório para regular as questões controvertidas, o qual não vinculará eventual decisão judicial superveniente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art9-1_par2" id="art1_cpt_alt1_art9-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O mediador será livremente escolhido pelas partes, mas o juízo competente, o Ministério Público e o Conselho Tutelar formarão cadastros de mediadores habilitados a examinar questões relacionadas à alienação parental.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art9-1_par3" id="art1_cpt_alt1_art9-1_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O termo que ajustar o procedimento de mediação ou o que dele resultar deverá ser submetido ao exame do Ministério Público e à homologação judicial.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

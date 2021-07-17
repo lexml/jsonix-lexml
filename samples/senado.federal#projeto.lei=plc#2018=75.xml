@@ -1,0 +1,3610 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;75"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 75 DE 2018</Epigrafe>
+      <Ementa id="ementa">Institui normas para regulação do transporte rodoviário de cargas; altera as <span xlink:href="urn:lex:br:federal:lei:2003-12-29;10833">Leis nºs 10.833, de 29 de dezembro de 2003</span>, <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), 13.103, de 2 de março de 2015, 11.442, de 5 de janeiro de 2007, e o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal); revoga os <span xlink:href="urn:lex:br:federal:decreto.lei:1967-02-28;284">Decretos-Lei nºs 284, de 28 de fevereiro de 1967</span>, <span xlink:href="urn:lex:br:federal:decreto.lei:1975-12-26;1438">1.438, de 26 dezembro de 1975</span>, <span xlink:href="urn:lex:br:federal:decreto.lei:1977-11-17;1582">1.582, de 17 de novembro de 1977</span>, as <span xlink:href="urn:lex:br:federal:lei:1984-12-19;7290">Leis nºs 7.290, de 19 de dezembro de 1984</span>, <span xlink:href="urn:lex:br:federal:lei:2001-03-23;10209">10.209, de 23 de março de 2001</span>, <span xlink:href="urn:lex:br:federal:lei:2012-06-15;12667">12.667, de 15 de junho de 2012</span>, e dispositivos da <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442">Lei nº 11.442, de 5 de janeiro de 2007</span>; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre o Transporte Rodoviário de Cargas (TRC) em vias públicas, os mecanismos e a responsabilidade nas operações de transporte.</p>
+            
+          </Caput>
+          </Artigo><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DO TRANSPORTE RODOVIÁRIO DE CARGAS</NomeAgrupador>
+            <Secao id="cap1_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Disposições Gerais sobre o Transporte Rodoviário de Cargas</NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O TRC é atividade de natureza comercial, aberto à exploração por pessoa física ou jurídica, nas seguintes modalidades:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>por conta de terceiros e mediante remuneração;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de carga própria ou própria diferenciada, em veículo próprio, sem remuneração.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Entende-se como carga própria ou própria diferenciada aquela que se destina exclusivamente a consumo próprio do transportador, ou de sua controladora ou controlada, bem como a distribuição dos produtos por eles produzidos ou comercializados.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Em qualquer modalidade, o exercício da atividade depende de prévia inscrição do interessado no Registro Nacional de Transportadores Rodoviários de Cargas (RNTRC), da Agência Nacional de Transportes Terrestres (ANTT), em categoria específica que terá validade de 3 (três) anos.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As empresas de transporte rodoviário de passageiros, para realizar o transporte de cargas comerciais em seus veículos, deverão atender aos requisitos de documentação e seguros de carga previstos nesta Lei, nos termos de regulamentação da ANTT.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap1_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Das Categorias</NomeAgrupador>
+            <Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São categorias econômicas do TRC:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Transportador Autônomo de Cargas (TAC): pessoa física que exerce habitualmente atividade principal de transporte rodoviário de cargas, por sua conta e risco, como proprietária, coproprietária ou arrendatária, em qualquer caso, de, no mínimo, 1 (um) e, no máximo, 3 (três) veículos automotores de carga, registrados no órgão de trânsito na categoria de aluguel;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Empresa de Transporte Rodoviário de Cargas (ETC): pessoa jurídica que tem no transporte rodoviário de cargas sua atividade principal e é proprietária de, no mínimo, 11 (onze) veículos automotores de carga ou de frota de veículos automotores cuja capacidade somada de transporte é de, no mínimo, 180 (cento e oitenta) toneladas de capacidade dinâmica, registrados em seu nome no órgão de trânsito na categoria de aluguel;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Cooperativa de Transporte Rodoviário de Cargas (CTC): sociedade cooperativa na forma da lei, constituída por pessoas físicas ou jurídicas, que exerce atividade de transporte rodoviário de cargas;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Empresa de Transporte Rodoviário de Cargas de Pequeno Porte (ETPP): pessoa jurídica que tem no transporte rodoviário de cargas sua atividade principal e é proprietária de, no mínimo, 1 (um) veículo automotor de carga, registrado em seu nome no órgão de trânsito na categoria de aluguel;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Transportador Rodoviário de Carga Própria (TCP): pessoa física ou jurídica que exerce, em veículo próprio, registrado na categoria particular, a atividade de transporte de carga própria ou própria diferenciada;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>Operador Logístico (OL): pessoa jurídica que atua no transporte rodoviário de cargas como forma de atividade econômica, prestando serviços logísticos, tais como transporte, armazenagem e gerenciamento de estoques, inclusive por meio de multimodalidade, diretamente ou por intermédio de terceiros, e é proprietária de, no mínimo, 11 (onze) veículos automotores de carga ou de frota de veículos automotores cuja capacidade somada de transporte é de, no mínimo, 180 (cento e oitenta) toneladas de capacidade dinâmica, registrados em seu nome no órgão de trânsito na categoria de aluguel.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na ETPP, fica proibida a participação como sócio de pessoa física ou jurídica que participe de capital em outra empresa inscrita no RNTRC, de pessoa jurídica com sede no exterior, mesmo que tenha filial, sucursal, agência ou representação no País, bem como de pessoa jurídica constituída sob a forma de sociedade por ações.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As categorias previstas no caput deste artigo que aderirem à CTC perderão o seu RNTRC e passarão a utilizar exclusivamente o RNTRC da cooperativa.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A ETC que associar-se à CTC fica proibida de mudar de categoria pelo prazo de, no mínimo, 12 (doze) meses e, após esse prazo, fica permitida nova mudança, desde que não haja débitos no Cadastro Nacional da Pessoa Jurídica (CNPJ) ou no Cadastro de Pessoas Físicas (CPF) dos sócios vinculados à ETC nos últimos 24 (vinte e quatro) meses, conforme regulamentação da ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para os fins desta Lei, equipara-se, no que couber, a ETPP ao TAC.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São categorias complementares do TRC:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Motorista de Transporte Rodoviário de Cargas (MTRC): motorista profissional empregado ou preposto do TAC, autorizado pela ANTT a dirigir veículo de carga;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Responsável Técnico (RT): profissional com formação ou experiência técnica em transportes, que responde pela observância de programa interno de segurança, adequação e manutenção de veículos, equipamentos e instalações, bem como pela qualificação e treinamento profissional dos motoristas e de prestadores de serviço na área de transporte rodoviário de cargas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Gerenciadora de Risco de Transporte Rodoviário (GRTR): pessoa jurídica que assume o gerenciamento e monitoramento dos riscos durante o transporte rodoviário de cargas, desde a coleta e armazenamento até a entrega, com objetivo de mitigar desvios, acidentes, furtos e roubos da carga e do veículo;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>Empresa de Atendimento a Emergências (EAE): pessoa jurídica que assume o gerenciamento, monitoramento, atendimento emergencial e pós-emergencial no caso de acidentes com produtos perigosos e contaminantes durante o transporte rodoviário de cargas, desde a coleta até a entrega, com objetivo de mitigar as consequências danosas ao meio ambiente e às pessoas, respondendo perante o transportador e órgãos públicos pelos atendimentos às emergências por ela assumidos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>Instituição de Meios de Pagamento Eletrônico de Frete (Ipef): pessoa jurídica que, por sua conta e risco, provê meio de pagamento eletrônico de frete, sem poder atuar com exclusividade para qualquer grupo econômico nem possuir vinculação societária, direta ou indireta, com distribuidoras, empresas ou postos de combustível, operadoras de rodovia e emitentes de documento de transporte;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>Empresa de Vale-Pedágio (EVP): pessoa jurídica responsável por disponibilizar, divulgar e comercializar, em âmbito nacional, o vale-pedágio obrigatório por lei e disponibilizar e instalar os programas de computador, aplicativos e equipamentos necessários à operação de sistema automatizado;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>Operadora Eletrônica de Frete (OEF): pessoa jurídica responsável por intermediar serviços de transporte entre contratantes, transportadores autônomos, empresas e cooperativas de transporte, por meio de plataforma tecnológica.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Caberá à ANTT a definição de estrutura curricular mínima dos cursos de formação, ou a forma de comprovação de experiência técnica, para o exercício da função de RT, bem como a regulamentação para cada categoria relacionada neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A ANTT deverá disponibilizar, sem custos, o acesso aos sistemas de informações do RNTRC aos poderes de polícia de trânsito.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap1_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Da Inscrição, da Suspensão e do Cancelamento do RNTRC</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A ANTT estabelecerá os requisitos específicos para a inscrição no RNTRC, bem como sua validade, renovação, cancelamento e impedimento, de acordo com a categoria a que se referem os arts. 3º e 4° desta Lei, inclusive quanto à demonstração de capacidade financeira.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A ANTT manterá cadastro único para o MTRC, integrante do RNTRC, conforme regulamento, para o qual poderá utilizar, sem custos, os dados do Registro Nacional de Condutores Habilitados (RENACH) e do Cadastro Geral de Empregados e Desempregados (Caged).</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os produtores rurais e as cooperativas agropecuárias que exercem a atividade de transporte de carga própria como TCP terão o cadastro simplificado na ANTT.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O capital social mínimo, subscrito e integralizado, exigido para as GRTR, EAE, Ipef, EVP e OEF é de 400.000 (quatrocentos mil) Direitos Especiais de Saque (DES) na data da habilitação pela ANTT, permitida às já habilitadas a complementação em prazo fixado na ANTT.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O capital social mínimo, subscrito e integralizado, exigido para a ETC e o OL é de 300.000 (trezentos mil) DES na data da habilitação pela ANTT, permitida aos já habilitados a complementação em prazo fixado pela ANTT.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O capital social mínimo, subscrito e integralizado, exigido para o TCP é de 100.000 (cem mil) DES e o patrimônio líquido mínimo para a CTC é de 200.000 (duzentos mil) DES na data da habilitação, permitida aos já habilitados a complementação da integralização em prazo fixado pela ANTT.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É dispensada a exigência de capital social mínimo para o TCP com apenas 1 (um) veículo com capacidade máxima de carga de até 15 (quinze) toneladas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O capital social mínimo, subscrito e integralizado, exigido para a ETPP é de 100.000 (cento mil) DES na data da habilitação, permitida às já habilitadas a complementação da integralização em prazo fixado pela ANTT.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap1_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Da Documentação e dos Seguros Obrigatórios da Viagem</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Fica criado o Documento Eletrônico de Transporte (DT-e), de registro obrigatório nas operações de transporte rodoviário de cargas.</p>
+            
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Compete à ANTT estabelecer os modelos, forma de registro e conteúdo do DT-e, nos termos de regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A ANTT e as Fazendas Públicas da União, dos Estados e do Distrito Federal poderão firmar convênio para compartilhamento, sem ônus financeiro, das informações contidas no DT-e, no Manifesto Eletrônico de Documentos Fiscais (MDF-e), no Conhecimento de Transporte Eletrônico (CT-e), na Nota Fiscal Eletrônica (NF-e), na Nota Fiscal de Serviços Eletrônica (NFS-e) e na Nota Fiscal de Consumidor Eletrônica (NFC-e).</p>
+            
+          </Paragrafo><Paragrafo id="art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A responsabilidade pelo registro do DT-e é da ETC, do OL, da CTC ou do TCP.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Nos casos de extração de madeira, mudança, transporte municipal, em regiões metropolitanas ou intermunicipais, ou quando o transporte tiver origem ou destino em estabelecimento rural, o TAC, a ETPP ou o contratante poderão registrar o DT-e, nos termos de regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Aplica-se o disposto neste artigo à Empresa Brasileira de Correios e Telégrafos, quando esta realizar transporte de mercadorias ou encomendas, ainda que em conjunto com correspondência, ficando sujeita à fiscalização das mercadorias transportadas na forma da lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Além dos seguros cuja contratação é determinada por acordos, tratados, convenções internacionais ou por leis especiais, as pessoas físicas ou jurídicas que prestem serviço de transporte rodoviário de cargas são obrigadas a contratar os seguros de:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Responsabilidade Civil do Transportador Rodoviário de Carga (RCTR-C): para cobertura de danos ou prejuízos causados à carga transportada, em decorrência de acidentes rodoviários, quando se tratar de ETC, OL e CTC;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Responsabilidade Civil/Desaparecimento de Carga (RC-DC): para cobertura de assalto, roubo ou furto da carga, quando se tratar de ETC, OL e CTC;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Responsabilidade Civil por Veículos/Danos Materiais e Danos Corporais (RCV-DM/DC): para cobertura de danos causados a terceiros pelo veículo automotor utilizado no transporte rodoviário de carga.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A responsabilidade pela contratação dos seguros de que tratam os incisos I e II do caput deste artigo é do transportador ou cooperativa, conforme o caso, cabendo exclusivamente a estes a escolha da seguradora, vedada a estipulação de apólice pelo contratante do serviço de transporte.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            <!--Link: urn:lex:br:federal:lei:2011-11-30;12529-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A imposição pelo contratante do serviço de transporte de contratação de seguros de seguradora específica constitui infração à ordem econômica, punível nos termos da <span xlink:href="urn:lex:br:federal:lei:2011-11-30;12529">Lei nº 12.529, de 30 de novembro de 2011</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Em caso de imposição, pelo contratante do serviço de transporte, de contratação de seguros adicionais contra riscos já cobertos pelas apólices do transportador, os custos serão suportados diretamente pelo contratante do serviço e, neste caso, fica expressamente proibida qualquer outra obrigação por parte do transportador, inclusive de Plano de Gerenciamento de Risco (PGR).</p>
+            
+          </Paragrafo><Paragrafo id="art12_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O seguro de que trata o inciso II do caput deste artigo poderá deixar de ser feito, quando previsto em contrato entre o contratante do serviço e o transportador, e ficará, neste caso, o contratante do serviço responsável por eventuais perdas, sem qualquer ônus ao transportador.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O seguro de que trata o inciso III do caput deste artigo poderá ser feito em apólice globalizada, envolvendo toda a frota, sem a necessidade de nomear individualmente os veículos, no valor mínimo de 50.000 (cinquenta mil) DES por cobertura.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Todos os seguros de que trata o caput deste artigo deverão ter limite compatível com as atividades ou valores de carga a que se destinam.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Excepcionalmente, admite-se a contratação do seguro RC-DC pelo contratante do serviço, quando o transporte for de produto de origem agrícola, em caso de contratação direta do TAC ou ETPP, e, neste caso, o contratante do serviço fica responsável por eventuais perdas, sem qualquer ônus ao transportador, sem prejuízo do disposto no § 4º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>É nula a pactuação de qualquer instrumento ou cláusula que estabeleça a dispensa de direito de regresso ou que tenha por objeto isentar o transportador de ação de regresso por parte da seguradora ou do próprio contratante do serviço, em relação aos seguros previstos nos incisos I e II do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>O transportador que contratar os seguros instituídos nos incisos I e II do caput deste artigo tem o direito de cobrar do contratante do serviço taxas acessórias adicionais ao frete, para custear esses seguros.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Nos casos fortuitos, como desvios de carga, roubos e assaltos, é assegurado ao transportador o direito de receber do contratante do serviço o frete e as taxas constantes do documento fiscal de transporte.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>No caso de subcontratação, o seguro de que trata o inciso III do caput deste artigo deverá ser firmado pelo contratante do serviço, podendo ser por viagem a ser realizada, em nome da ETPP ou TAC subcontratados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>As associações e cooperativas de transporte rodoviário de cargas, devidamente instituídas por regulação especial e constituídas nos termos da lei, assegurada a participação, a interveniência ou a intermediação de corretor de seguros, habilitado e registrado na Superintendência de Seguros Privados (Susep), ficam autorizadas a operar o auxílio mútuo, por meio de autogestão e rateio dos prejuízos, nos casos de roubo, furto, colisão e incêndio de veículos dos transportadores, proporcionando aos seus associados e cooperados a prevenção e a reparação dos danos sofridos ou provocados, por eventos ocorridos.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A competência privativa de regulação da operação de auxílio mútuo de que trata o caput deste artigo será do Conselho Nacional de Seguros Privados (CNSP), e sua supervisão, fiscalização e viabilidade caberão à Susep.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A autorização para composição, funcionamento e extinção das associações e cooperativas mencionadas no caput deste artigo será concedida, respectivamente, pelo sistema representativo da Federação Nacional das Associações de Caminhoneiros e Transportadores (Fenacat) e da Organização das Cooperativas Brasileiras (OCB), as quais deverão comunicar este ato à Susep e encaminhar cópia da documentação pertinente na forma digital.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As associações e cooperativas de transporte rodoviário de cargas que praticarem o auxílio mútuo de que trata o caput deste artigo só poderão atuar, comprovadamente, para seus associados e cooperados, e caberá à Susep estabelecer normas de conduta, aplicação de sanções administrativas e regras de fiscalização desta prática, conjuntamente com entidades representativas das instituições autorizadas mencionadas § 2º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap1_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Do Gerenciamento de Riscos no Transporte Rodoviário de Cargas</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Nos casos de seguros de contratação obrigatória RCTR-C e RC-DC, transportador e seguradora poderão estabelecer, em comum acordo, o PGR, o qual será parte integrante da apólice de seguro.</p>
+            
+          </Caput><Paragrafo id="art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Estabelecido o PGR como parte integrante da apólice de seguros contratada, não poderá ser exigido do transportador um novo PGR.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Poderão ser solicitadas ao transportador medidas adicionais não incluídas no PGR, como serviços de escolta, rastreamento, contratação de GRTR entre outras, desde que o solicitante assuma todos os custos e despesas decorrentes dessas medidas, com pagamento diretamente ao prestador do serviço ou ao transportador, conforme o caso.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os valores referentes aos serviços adicionais de que trata o § 2º deste artigo geram direito ao recebimento de taxa específica, incidente sobre o valor da carga, de acordo com sua natureza, e serão destacados em campo específico do documento fiscal de transporte, não se confundindo com a cobrança relativa aos custos da cobertura securitária.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>Se a seguradora exigir PGR para a operação, o plano deverá ser informado com antecedência ao transportador, que poderá sugerir alterações se julgá-lo insatisfatório ou inaplicável, e deverá, em caso de concordância, dar seu aceite formal, obrigando-se a cumpri-lo.</p>
+            
+          </Caput><Paragrafo id="art15_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O PGR deve estar em conformidade com a legislação em vigor, principalmente no que se refere às obrigações de repouso e descanso dos motoristas de que trata a lei, bem como atentar-se à segurança viária, considerando sempre locais de parada para refeição, descanso e repouso.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Considera-se inválido o PGR se não houver um aceite formal por parte do transportador.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Cumprido o PGR pelo transportador, a seguradora não poderá deixar de pagar os valores segurados em caso de ocorrência de sinistro relativo a desvios de carga, perdas, roubo ou furto, bem como outros riscos cobertos pela apólice.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A ANTT poderá regulamentar o PGR, com objetivo de garantir transparência e padronização de procedimentos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap1_sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Das Relações Contratuais do Serviço de Transporte</NomeAgrupador>
+            <Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Se não estiver previsto em contrato, o tempo de serviço de transporte, independentemente da quantidade ou volume, terá duração mínima de:</p>
+            <Inciso id="art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>24 (vinte e quatro) meses, quando se tratar de serviço com equipamentos que o transportador ou seus subcontratados já possuam, e padrão de mercado;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>48 (quarenta e oito) meses, quando se tratar de serviço que demande a aquisição de equipamento específico ou novo, para atender ao referido contrato.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No transporte de insumos e produtos agrícolas, serão admitidos contratos com prazo menor do que os previstos no caput deste artigo, desde que previamente estipulado, e de acordo com a sazonalidade da demanda.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Em caso de subcontratação, o contrato a ser celebrado entre o transportador contratante e o subcontratado definirá a forma de prestação de serviço do subcontratado como agregado ou independente.</p>
+            
+          </Caput><Paragrafo id="art17_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Denomina-se agregado o TAC que coloca, com exclusividade, mesmo que periodicamente, veículo de sua propriedade ou de sua posse, a ser dirigido por ele próprio ou por seu preposto, a serviço do contratante, mediante remuneração certa.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Denomina-se independente o TAC que presta serviços de transporte de carga em caráter eventual e sem exclusividade, mediante frete ajustado a cada viagem.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>A relação decorrente do contrato de transporte de cargas de que trata o art. 17 desta Lei, com exclusividade ou não, ainda que de caráter habitual, é sempre de natureza empresarial e comercial, não constitui relação de trabalho e, portanto, não enseja, em nenhuma hipótese, a caracterização de vínculo de emprego.</p>
+            
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Compete somente à justiça comum o julgamento de ações oriundas dos contratos de transporte de cargas.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O foro para dirimir controvérsias decorrentes da contratação do transporte de cargas será o do domicílio do contratado ou o do local da prestação de serviço.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na impossibilidade da presença do titular contratado, poderá este conceder a representação a um preposto, acompanhado de representante jurídico.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>As condições do contrato de transporte de carga de que tratam os arts. 16 a 28 desta Lei poderão ser ajustadas mediante acordos individuais ou coletivos celebrados entre contratante e contratado, cuja validade exige homologação nos sindicatos das categorias envolvidas, ou entre os sindicatos das categorias envolvidas.</p>
+            
+          </Caput><Paragrafo id="art19_par1">
+            <!--Link: urn:lex:br:federal:lei:1996-09-23;9307-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Fica criado o Centro de Conciliação do Transporte (Cecont), que será regido pelos mesmos requisitos das Câmaras de Conciliação, Mediação e Arbitragem, nos termos da <span xlink:href="urn:lex:br:federal:lei:1996-09-23;9307">Lei nº 9.307, de 23 de setembro de 1996</span>, e funcionará sob a coordenação das entidades sindicais de empresas de transporte rodoviário de cargas e das entidades sindicais dos transportadores rodoviários autônomos de cargas, as quais indicarão seus membros colaboradores.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os contratos de transporte rodoviário de carga de que trata esta Lei poderão, a critério das partes, ser submetidos ao Cecont para resolução de conflitos, sem prejuízo de eventual ingresso judicial.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Cecont tem como pressuposto a autocomposição e deve atender aos princípios da celeridade, economicidade e simplicidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Salvo estipulação expressa, o pagamento do serviço de transporte será contra entrega da carga.</p>
+            
+          </Caput><Paragrafo id="art20_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A inadimplência no pagamento do frete contratado implica multa de, no mínimo, 10% (dez por cento) sobre o valor do frete, além de juros de mora de 1% (um por cento) ao mês, e correção monetária correspondente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>O pagamento do serviço de transporte ao TAC deverá ser efetuado por meio de crédito em conta mantida em instituição integrante do sistema financeiro nacional, inclusive poupança, ou por outro meio de pagamento regulamentado pela ANTT, a critério do prestador de serviço.</p>
+            
+          </Caput><Paragrafo id="art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A conta de depósito ou o meio de pagamento deverá ser de titularidade do próprio TAC, identificada no documento eletrônico de transporte ou contrato de transporte.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O contratante e o subcontratante dos serviços de transporte rodoviário de cargas, assim como o consignatário e o proprietário da carga, são subsidiariamente responsáveis pela obrigação prevista no caput deste artigo, resguardado o direito de regresso.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As tarifas bancárias decorrentes de pagamento eletrônico de frete ao TAC correrão por conta do responsável pelo pagamento, até o limite de 1 (uma) transferência e 2 (dois) saques por operação de transporte.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O registro das movimentações da conta de depósito ou do meio de pagamento de que trata este artigo servirá como comprovante de rendimento do TAC.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O descumprimento do disposto no caput sujeitará o infrator a multa administrativa, conforme regulamentação da ANTT, e à obrigação de indenizar o contratado em quantia equivalente a 2 (duas) vezes o valor do frete para a viagem em que se deu a irregularidade de pagamento.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A CTC deverá efetuar o pagamento aos seus cooperados na forma do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Para cumprimento do disposto no caput deste artigo, a Ipef deverá disponibilizar simultaneamente o pagamento eletrônico e o depósito em conta-corrente ou poupança.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Salvo em caso de retenção de impostos e de contribuições prevista em lei ou convencionada por acordo entre o contratante e o sindicato do contratado, ou entre os sindicatos das categorias, ficam proibidos descontos de qualquer natureza por parte do contratante sobre o valor dos serviços realizados sem a prévia e expressa autorização do transportador.</p>
+            
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os descontos referentes a avarias e faltas acordados entre as partes somente poderão ser realizados por meio de emissão de documento fiscal idôneo pelo contratante do serviço ou remetente.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Sem prejuízo do disposto no caput e no § 1º deste artigo, descontos em razão de danos e avarias nas mercadorias transportadas ficam ainda condicionados à entrega dos produtos salvados ao transportador ou à seguradora.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Todos os custos de serviços acessórios ao transporte, como carregamento, descarregamento, acondicionamento, amarração, desamarração, enlonamento, desenlonamento, gerenciamento de risco, escolta, entre outros, que o contratante, recebedor ou expedidor impuser ao transportador são de responsabilidade do contratante.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap1_sec7">
+            
+            
+            <Rotulo>SEÇÃO VII</Rotulo>
+            <NomeAgrupador>Do Prazo de Entrega, da Devolução e do Retorno da Carga Transportada</NomeAgrupador>
+            <Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>A responsabilidade do transportador cobre o período compreendido entre o momento do recebimento da carga e o de sua entrega ao recebedor ou destinatário.</p>
+            
+          </Caput><Paragrafo id="art24_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A responsabilidade do transportador cessa no momento do recebimento da carga pelo recebedor ou destinatário, sem protestos ou ressalvas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>O transportador informará ao contratante ou ao destinatário, quando não pactuado no contrato ou no documento fiscal de transporte, o prazo previsto para a entrega da mercadoria, conforme regulamentação da ANTT.</p>
+            
+          </Caput><Paragrafo id="art25_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O atraso ocorre quando as mercadorias não forem entregues dentro do prazo estabelecido, observado o disposto no caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se as mercadorias não forem entregues dentro de 30 (trinta) dias corridos, contados da data estipulada, o contratante ou qualquer pessoa com direito de reclamá-las poderá declará-las perdidas, salvo em caso de ocorrência de trânsito, de problemas de trafegabilidade, de quebra do veículo, de fiscalização de trânsito, que deverão ser comunicados pelo transportador ao contratante.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando a carga, por qualquer motivo, ficar armazenada nas dependências do transportador, esse fato deverá ser informado ao contratante.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Sem prejuízo do direito do transportador de cobrança da armazenagem, a carga de que trata o § 3º deste artigo ficará à disposição do interessado pelo prazo de 15 (quinze) dias após a comunicação, se outra condição não for pactuada, findo o qual, se não for retirada, será considerada abandonada, e ficará o transportador autorizado a dar-lhe o destino que entender apropriado.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Sem prejuízo do valor do frete, se não for a carga retirada ou descarregada, o contratante ficará obrigado a indenizar o transportador pela armazenagem no valor previsto em contrato ou no documento de transporte, pelo tempo total em que a carga ficar à disposição.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Se a carga for perecível e houver recusa de recebimento pelo destinatário, por problemas alheios ao transportador, o contratante ficará responsável pelo destino correto e pelo descarte da carga e ficará sujeito ao pagamento do frete da viagem e do deslocamento de ida e volta até o local por ele designado, acrescido dos impostos e taxas correspondentes.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O transportador arcará com os prejuízos causados por atraso na entrega, exceto por motivo de força maior ou caso fortuito, além das ressalvas contidas no § 2º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>A responsabilidade por prejuízos resultantes de atraso na entrega é limitada ao valor do frete, salvo disposição contratual em contrário.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Salvo outra condição pactuada em contrato, no caso de devolução, parcial ou total de carga, embalagem ou paletes, o contratante pagará ao transportador, no mínimo, o valor equivalente ao frete de ida, considerada a capacidade total de transporte do veículo, inclusive reboques, acrescido das devidas taxas, impostos e pedágios, na forma da lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap1_sec8">
+            
+            
+            <Rotulo>SEÇÃO VIII</Rotulo>
+            <NomeAgrupador>Do Tempo e da Operação de Carga e Descarga</NomeAgrupador>
+            <Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>O prazo máximo para carga ou descarga do veículo será de 5 (cinco) horas, contados da chegada ao endereço de carregamento ou descarga, após o qual será devida ao transportador a importância equivalente a R$ 1,61 (um real e sessenta e um centavos) por tonelada/hora ou fração.</p>
+            
+          </Caput><Paragrafo id="art26_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A importância de que trata o caput deste artigo será atualizada, anualmente, de acordo com a variação do Índice Nacional de Preços ao Consumidor (INPC) ou outro índice que venha a sucedê-lo.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de bem perecível, mercadoria com validade a expirar ou produto perigoso, poderá ser ajustado prazo máximo de descarregamento reduzido, conforme a natureza da mercadoria, mediante ajuste entre as partes.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O contratante ou o destinatário da carga são obrigados a registrar o horário de chegada do veículo nas dependências dos respectivos estabelecimentos, nos termos de regulamento, sujeitando-se, em caso de descumprimento, a multa administrativa.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se não houver o registro por parte do contratante ou destinatário da carga, será considerado como horário de chegada o registrado pelo transportador, conforme regulamentação da ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O previsto neste artigo poderá ser ajustado mediante acordo, o qual deverá ser homologado entre o contratante e o sindicato do contratado e, na hipótese de subcontratação, eventual ajuste também deverá ser realizado mediante acordo, o qual deverá ser homologado entre o contratado e o sindicato do subcontratado.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Nos casos de transportes especiais, com pesos e dimensões excedentes, os prazos e valores referentes à estadia serão negociados entre contratante e transportador.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Para o cálculo do valor de que trata o caput deste artigo, será considerada a capacidade total de transporte do veículo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>Na realização dos serviços de carga e descarga, deverão ser obrigatoriamente observados os seguintes quesitos:</p>
+            <Inciso id="art27_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>na carga-lotação, assim entendida a carga na qual há exclusividade do veículo para um tomador de serviço, salvo o estabelecido no inciso III do caput deste artigo, os serviços de carregamento, descarregamento, acondicionamento, amarração, desamarração, enlonamento, desenlonamento, colocação e retirada de travessas, e outros necessários ao carregamento ou descarregamento, são obrigações do expedidor e do recebedor;</p>
+            
+          </Inciso><Inciso id="art27_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>é vedada a realização dos serviços relacionados ao carregamento, descarregamento e acondicionamento da carga pelos motoristas, exceto no caso de transporte de mudanças, de veículos automotores, de cargas especiais ou excedentes e de produtos líquidos e gasosos a granel ou efetuados sob pressurização, com obrigatoriedade, nesses casos, da comprovação de treinamento para as tarefas;</p>
+            
+          </Inciso><Inciso id="art27_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>para maior segurança e mitigação de riscos de acidentes, as operações de carregamento, descarregamento e transbordo de produtos líquidos, gasosos, combustíveis, ou efetuados sob pressurização, serão prioritariamente realizadas pelos motoristas profissionais, os quais deverão ter comprovado treinamento para as tarefas, bem como atender às normas de segurança e saúde do trabalho;</p>
+            
+          </Inciso><Inciso id="art27_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>na carga fracionada, assim entendida a carga na qual há mais de um tomador de serviço e múltiplas entregas e coletas, o motorista poderá realizar o carregamento e o descarregamento dos produtos, desde que os serviços estejam previstos no contrato;</p>
+            
+          </Inciso><Inciso id="art27_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>não poderá ser impedido o acompanhamento da operação de carga e descarga pelo motorista, caso ele assim deseje.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap1_sec9">
+            
+            
+            <Rotulo>SEÇÃO IX</Rotulo>
+            <NomeAgrupador>Das Perdas e das Avarias da Carga</NomeAgrupador>
+            <Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>Com a assinatura do contrato ou a geração do documento eletrônico de transporte, o transportador responde pelos prejuízos por ele causados resultantes de perda, danos ou avarias às cargas sob sua custódia.</p>
+            
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em caso de subcontratação do serviço de transporte, o subcontratante e o subcontratado respondem solidariamente pelas obrigações previstas no caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>São excludentes de responsabilidade do transportador:</p>
+            <Inciso id="art28_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ato ou fato imputável ao expedidor ou ao destinatário da carga;</p>
+            
+          </Inciso><Inciso id="art28_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>inadequação da embalagem ou do acondicionamento no veículo de transporte, quando imputável ao expedidor da carga;</p>
+            
+          </Inciso><Inciso id="art28_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>avaria apenas da embalagem, quando ela não fizer parte do produto final e este estiver intacto;</p>
+            
+          </Inciso><Inciso id="art28_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>vício próprio ou oculto da carga;</p>
+            
+          </Inciso><Inciso id="art28_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>manuseio, embarque, estiva ou descarga executada diretamente pelo expedidor, destinatário ou consignatário da carga ou, ainda, pelos seus agentes ou prepostos;</p>
+            
+          </Inciso><Inciso id="art28_par2_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>força maior ou caso fortuito.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art28_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O valor a ser restituído ao contratante será determinado pelo valor especificado no documento eletrônico de transporte, sem haver responsabilidade do transportador por qualquer valor acima do discriminado.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Nos casos de perdas e avarias, não poderá o contratante exigir entrega da mercadoria física quando esta for reembolsada integralmente pelo transportador ou seguradora;</p>
+            
+          </Paragrafo><Paragrafo id="art28_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A seguradora tem o prazo máximo de 30 (trinta) dias para ressarcimento do valor da mercadoria e demais obrigações previstas nesta Lei, contado da apresentação da documentação necessária, após o qual é devida a multa de 10% (dez por cento) sobre o valor total da indenização, juros de 1% (um por cento) ao mês e correção monetária correspondente, em favor do beneficiário da apólice.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>No caso de dano ou avaria, será assegurado às partes interessadas o direito de vistoria, de acordo com a legislação aplicável, sem prejuízo da observância das cláusulas do contrato de seguro.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os operadores de terminais, armazéns e quaisquer outros que realizem operações de transbordo são responsáveis, perante o transportador que emitiu o documento de transporte, pelas perdas e danos causados às mercadorias no momento da realização das referidas operações, inclusive de depósito.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap1_sec10">
+            
+            
+            <Rotulo>SEÇÃO X</Rotulo>
+            <NomeAgrupador>Dos Pedágios</NomeAgrupador>
+            <Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>O vale-pedágio é obrigatório na contratação de serviços de transporte rodoviário de cargas, nas rodovias brasileiras, devendo ser utilizado meio eletrônico definido em regulamento da ANTT, vedado o pagamento em espécie.</p>
+            
+          </Caput><Paragrafo id="art29_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O pagamento de pedágio, por veículos de carga, é de responsabilidade do contratante do serviço.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de subcontratação, a transportadora subcontratante é responsável subsidiária pelo pagamento do pedágio.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O valor do vale-pedágio não integra o valor do frete e não será considerado receita operacional ou rendimento tributável, nem constituirá base de incidência de contribuições sociais ou previdenciárias, nem será integrado à base de cálculo de impostos e taxas federais, estaduais ou municipais.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O valor do vale-pedágio obrigatório e os dados do modelo próprio, necessários à sua identificação, deverão ser destacados em campo específico do contrato ou do documento de transporte, conforme regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O descumprimento do disposto neste artigo sujeita o responsável pelo fornecimento do vale-pedágio ao pagamento de multa e indenização ao transportador, em quantia equivalente a 2 (duas) vezes o valor do frete da viagem em que se deu a irregularidade de pagamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>O contratante antecipará o vale-pedágio obrigatório ao transportador, independentemente do valor do frete, no valor necessário à circulação entre a origem e o destino do transporte.</p>
+            
+          </Caput><Paragrafo id="art30_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O pagamento de pedágio quando a carga for lotação, assim entendida a carga para a qual há exclusividade do veículo para um único contratante, efetuado por empresa de transporte, mesmo que por subcontratação, é de responsabilidade do contratante do serviço de transporte.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Quando o veículo estiver em viagem exclusiva para um contratante, devendo retornar à origem sem carga, o vale-pedágio obrigatório deverá ser no valor necessário à circulação entre a origem, o destino e o retorno à origem de partida.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No caso de transporte fracionado, efetuado por ETC, OL ou CTC, o rateio do pedágio poderá ser feito por despacho e deverá ser destacado seu valor no contrato ou no documento de transporte, para quitação pelo embarcador, juntamente com o valor do frete a ser faturado, para quitação da obrigação prevista em lei, dispensada a obrigatoriedade do vale-pedágio.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>No caso de transportes especiais, cujo peso ou dimensões exijam pagamento de valor específico de pedágios, o valor do pedágio poderá ser feito por despacho e deverá ser destacado seu valor no contrato ou no documento de transporte, juntamente com o valor do frete a ser faturado, para quitação da obrigação prevista em lei, dispensada a obrigatoriedade do vale-pedágio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>Compete à ANTT a adoção das medidas indispensáveis à implantação do vale-pedágio obrigatório, a regulamentação, a coordenação, a delegação, a fiscalização, o processamento e a aplicação das penalidades adicionais por infrações ao disposto nesta Seção.</p>
+            
+          </Caput><Paragrafo id="art31_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A fiscalização, o processamento e a aplicação das penalidades de que trata o caput deste artigo poderão ser descentralizados, mediante convênio a ser celebrado com órgãos ou entidades da Administração Pública federal, dos Estados, do Distrito Federal ou dos Municípios.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A ANTT fornecerá aos órgãos e entidades de que trata o § 1º deste artigo todos os elementos necessários e atualizados para realização da fiscalização.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As operadoras de rodovias sob pedágio deverão adequar sua infraestrutura, para torná-la compatível com as operações das empresas fornecedoras de vale-pedágio obrigatório, na forma do regulamento da ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O valor do vale-pedágio obrigatório e as informações necessárias à sua identificação deverão ser destacados em campo específico do contrato ou do documento de transporte, conforme regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>Em todo o território nacional, os veículos de transporte de cargas que circularem vazios ficarão isentos da cobrança de pedágio sobre os eixos que mantiverem suspensos.</p>
+            
+          </Caput><Paragrafo id="art32_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O disposto no caput deste artigo abrange as vias terrestres federais, estaduais, distritais e municipais, inclusive as concedidas.</p>
+            
+          </Paragrafo><Paragrafo id="art32_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p> Os órgãos e as entidades competentes da União, dos Estados, do Distrito Federal e dos Municípios disporão sobre as medidas técnicas e operacionais para viabilizar a isenção de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art32_par3">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art280_par4-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Até a implementação das medidas a que se refere o § 2º deste artigo, consideram-se vazios os veículos de transporte de carga que transpuserem as praças de pedágio com um ou mais eixos mantidos suspensos, assegurada a fiscalização da condição pela autoridade com circunscrição sobre a via ou pelo seu agente designado na forma prevista no <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art280_par4">§ 4º do art. 280 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro).</p>
+            
+          </Paragrafo><Paragrafo id="art32_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para as vias rodoviárias federais concedidas, poderá ser adotada a regulamentação da ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art32_par5">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art209-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Ficam sujeitos à penalidade prevista no <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art209">art. 209 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), os veículos de transporte de cargas que circularem com eixos indevidamente suspensos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>Por ocasião do pagamento do pedágio, a operadora do pedágio e as empresas que operam pedágio eletrônico deverão obrigatoriamente emitir os seguintes documentos fiscais:</p>
+            <Inciso id="art33_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cupom fiscal eletrônico, no caso de pagamento à vista nos pontos de cobrança, mesmo que por vale-pedágio;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nota fiscal eletrônica, para o pagamento, mesmo que antecipado, no caso de pedágios eletrônicos.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art33_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor do pedágio destacado no documento fiscal correspondente servirá de comprovante para abatimento do imposto de renda.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O prazo de implementação para operadores de pedágio será de 6 (seis) meses para a obrigação prevista no inciso I do caput deste artigo, e de 3 (três) meses para a prevista no inciso II do caput deste artigo, contado da data de publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As operadoras do pedágio constantes do caput deste artigo são responsáveis pela devolução do valor cobrado de forma indevida ou irregular, corrigido monetariamente com base no Índice Nacional de Preços ao Consumidor Amplo (IPCA), ou pelo índice que vier a substituí-lo, com multa de 10% (dez por cento), juros de mora à taxa de 2% (dois por cento) por mês ou fração, além de indenização referente aos custos de honorários de auditoria e/ou advocatícios.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Sem prejuízo da documentação fiscal estabelecida neste artigo, os sujeitos referidos no caput deste artigo deverão fornecer arquivo eletrônico à ANTT e aos usuários de pedágio, em modelo a ser definido pela Agência em regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-12-29;10833!art3_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2003-12-29;10833!art3_cpt">caput do art. 3° da Lei n° 10.833, de 29 de dezembro de 2003</span>, passa a vigorar acrescido do seguinte inciso XII:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2003-12-29;10833" id="art34_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2003-12-29;10833 -> MatchByBase(urn:lex:br:federal:lei:2003-12-29;10833,2003,Some((12,29)),Map(art3 -> SuperPrefixMatch(URN(2003,Some((12,29)),art3_cpt,urn:lex:br:federal:lei:2003-12-29;10833!art3_cpt),art3), art3_cpt -> ExactMatch(URN(2003,Some((12,29)),art3_cpt,urn:lex:br:federal:lei:2003-12-29;10833!art3_cpt)), art3_cpt_inc12 -> PrefixMatch(URN(2003,Some((12,29)),art3_cpt,urn:lex:br:federal:lei:2003-12-29;10833!art3_cpt),art3_cpt_inc12)))))-->
+              <Artigo xlink:href="art3" id="art34_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art34_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art34_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc12" id="art34_cpt_alt1_art3_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>valores referentes aos pedágios efetivamente pagos e devidamente documentados.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art34_cpt_alt1_art3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-12-30;10637!art3_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2002-12-30;10637!art3_cpt">caput do art. 3° da Lei n° 10.637, de 30 de dezembro de 2002</span>, passa a vigorar acrescido do seguinte inciso XII:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-12-30;10637" id="art35_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-12-30;10637 -> MatchByBase(urn:lex:br:federal:lei:2002-12-30;10637,2002,Some((12,30)),Map(art3 -> SuperPrefixMatch(URN(2002,Some((12,30)),art3_cpt,urn:lex:br:federal:lei:2002-12-30;10637!art3_cpt),art3), art3_cpt -> ExactMatch(URN(2002,Some((12,30)),art3_cpt,urn:lex:br:federal:lei:2002-12-30;10637!art3_cpt)), art3_cpt_inc12 -> PrefixMatch(URN(2002,Some((12,30)),art3_cpt,urn:lex:br:federal:lei:2002-12-30;10637!art3_cpt),art3_cpt_inc12)))))-->
+              <Artigo xlink:href="art3" id="art35_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art35_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art35_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc12" id="art35_cpt_alt1_art3_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>valores referentes aos pedágios rodoviários pagos e devidamente documentados.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art35_cpt_alt1_art3_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap1_sec11">
+            
+            
+            <Rotulo>SEÇÃO XI</Rotulo>
+            <NomeAgrupador>Das Penalidades nos Casos de Desvio e Receptação de Mercadorias Desviadas e Roubadas</NomeAgrupador>
+            <Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>Nos casos de desvio ou receptação de carga, o transportador, de qualquer categoria, se comprovada a participação no ilícito, terá o RNTRC suspenso por 10 (dez) anos.</p>
+            
+          </Caput><Paragrafo id="art36_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se comprovada participação do MTRC nos atos descritos no caput deste artigo, seu cadastro único e o direito de exercer atividade remunerada em veículo serão suspensos por 10 (dez) anos, sem prejuízo das sanções penais e civis cabíveis.</p>
+            
+          </Paragrafo><Paragrafo id="art36_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A participação do motorista de que trata o § 1º deste artigo não implica necessariamente a participação da empresa, no caso de empregado, nem da cooperativa, no caso de cooperado, ou em qualquer caso de subcontratação, e, nesses casos, deve ficar comprovada a participação da empresa ou da cooperativa para a aplicação da penalidade prevista no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>Será suspensa por 10 (dez) anos a inscrição no CNPJ do estabelecimento ou do transportador que, comprovadamente, adquirir, distribuir, transportar, estocar, importar, revender ou expor à venda quaisquer bens de consumo ou produtos que tenham sido objeto de descaminho, contrabando, falsificação, roubo, furto ou receptação, sem prejuízo da eventual caracterização de crime.</p>
+            
+          </Caput><Paragrafo id="art37_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os administradores e proprietários do estabelecimento ou transportador descrito no caput deste artigo, com comprovada participação, direta ou indireta, nas infrações descritas no referido dispositivo, serão impedidos do exercício de atividade comercial ou de transporte pelo período de 5 (cinco) anos, sem prejuízo das sanções penais e civis cabíveis.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Fica o transportador isento da penalidade de que trata o caput deste artigo, quando receber, de boa-fé, mercadoria para transporte com documento inidôneo, informação inexata ou falsa descrição, e nos casos em que o motorista não puder fazer a conferência da carga.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art157--><!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art157">arts. 157</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180">180 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal), passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art38_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art180_cpt -> PrefixMatch(URN(1940,Some((12,7)),art180,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180),art180_cpt), art157_par4 -> PrefixMatch(URN(1940,Some((12,7)),art157,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art157),art157_par4), art157_cpt -> PrefixMatch(URN(1940,Some((12,7)),art157,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art157),art157_cpt), art180_par1 -> PrefixMatch(URN(1940,Some((12,7)),art180,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180),art180_par1), art180 -> ExactMatch(URN(1940,Some((12,7)),art180,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180)), art180_par7 -> PrefixMatch(URN(1940,Some((12,7)),art180,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art180),art180_par7), art157_par2 -> PrefixMatch(URN(1940,Some((12,7)),art157,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art157),art157_par2), art157_par2_inc3 -> PrefixMatch(URN(1940,Some((12,7)),art157,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art157),art157_par2_inc3), art157 -> ExactMatch(URN(1940,Some((12,7)),art157,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art157))))))-->
+              <Artigo xlink:href="art157" id="art38_cpt_alt1_art157" abreAspas="s">
+            
+            
+            <Rotulo>Art. 157.</Rotulo>
+            
+            <Caput xlink:href="art157_cpt" id="art38_cpt_alt1_art157_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art38_cpt_alt1_art157_omi1"/><Paragrafo xlink:href="art157_par2" id="art38_cpt_alt1_art157_par2" textoOmitido="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            
+            <Omissis id="art38_cpt_alt1_art157_par2_omi1"/><Inciso xlink:href="art157_par2_inc3" id="art38_cpt_alt1_art157_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>se a vítima está em serviço de transporte rodoviário de valores ou de cargas e o agente conhece tal circunstância;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art38_cpt_alt1_art157_omi2"/><Paragrafo xlink:href="art157_par4" id="art38_cpt_alt1_art157_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na mesma pena incorre o funcionário de empresa embarcadora ou transportadora de cargas que detém informações privilegiadas e facilita a prática delituosa.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art180" id="art38_cpt_alt1_art180" abreAspas="s">
+            
+            
+            <Rotulo>Art. 180.</Rotulo>
+            
+            <Caput xlink:href="art180_cpt" id="art38_cpt_alt1_art180_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art38_cpt_alt1_art180_omi1"/><Paragrafo xlink:href="art180_par1" id="art38_cpt_alt1_art180_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Adquirir, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, vender, expor à venda, ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, produto fruto de roubo de carga rodoviária, ou coisa que deve saber ser produto de crime:</p>
+            
+          </Paragrafo><Omissis id="art38_cpt_alt1_art180_omi2"/><Paragrafo xlink:href="art180_par7" id="art38_cpt_alt1_art180_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Tratando-se de bens produto de crimes contra o serviço de transporte rodoviário de valores ou de cargas, aplica-se a pena prevista no § 1º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap1_sec12">
+            
+            
+            <Rotulo>SEÇÃO XII</Rotulo>
+            <NomeAgrupador>Da Renovação de Frota</NomeAgrupador>
+            <Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>Para melhoria da segurança viária e sustentabilidade do meio ambiente, fica estabelecido o Plano Nacional de Renovação de Veículos de Transporte Rodoviário de Cargas (PNRV-TRC).</p>
+            
+          </Caput><Paragrafo id="art39_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A idade máxima dos veículos utilizados no transporte rodoviário de cargas será estabelecida pela ANTT, considerados:</p>
+            <Inciso id="art39_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os tipos de produtos transportados;</p>
+            
+          </Inciso><Inciso id="art39_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os tipos de serviço;</p>
+            
+          </Inciso><Inciso id="art39_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as rotas e os itinerários;</p>
+            
+          </Inciso><Inciso id="art39_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a distância percorrida;</p>
+            
+          </Inciso><Inciso id="art39_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a categoria do transportador; e</p>
+            
+          </Inciso><Inciso id="art39_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>outros aspectos relevantes.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art39_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O governo federal, mediante convênios e ações conjuntas de órgãos, bancos fomentadores de crédito, Ministério da Fazenda, Secretaria da Receita Federal do Brasil, Secretarias de Fazenda dos Estados e do Distrito Federal, além de outros que julgar necessários, estabelecerá critérios para:</p>
+            <Inciso id="art39_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>concessão de incentivos por meio de créditos de carbono, para a adoção de veículos modernos e de baixas emissões, bem como os movidos a combustíveis mais sustentáveis e menos poluentes;</p>
+            
+          </Inciso><Inciso id="art39_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>plano de benefícios para reciclagem de veículos de carga, inclusive benefícios fiscais;</p>
+            
+          </Inciso><Inciso id="art39_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>possibilidade de estipulação dos tipos e modelos de veículos de carga que farão parte do PNRV-TRC, devendo, para estes, os fabricantes e montadoras oferecerem condições especiais que deverão ser previamente conhecidas para que sejam validadas no âmbito do PNRV-TRC;</p>
+            
+          </Inciso><Inciso id="art39_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estipulação de planos de crédito especiais para aquisição dos veículos mencionados no inciso III deste parágrafo; e</p>
+            
+          </Inciso><Inciso id="art39_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>outros aspectos julgados necessários.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art39_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O transportador que aderir ao PNRV-TRC, por ocasião da troca de veículo usado por novo, mesmo que com operações independentes de compra e venda, terá direito à redução em 50% (cinquenta por cento) na base de cálculo da receita com ganho de capital, referente à diferença entre o valor contábil e o valor efetivo da receita com a venda de seus veículos, para fins de apuração dos impostos e contribuições federais.</p>
+            
+          </Paragrafo><Paragrafo id="art39_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Ao TAC, à ETPP e à CTC que aderirem ao plano de renovação de frota serão reduzidas a 0 (zero) as alíquotas da contribuição para o Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep), da Contribuição para Financiamento da Seguridade Social (Cofins) e do Imposto Sobre Produtos Industrializados (IPI) para aquisição de veículos automotor de carga, implementos rodoviários, reboque e semirreboque de carga, observado o seguinte:</p>
+            <Inciso id="art39_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o TAC, a ETPP e a CTC, para participar do programa de renovação da frota, deverão entregar seus veículos automotores de carga, implementos rodoviários, reboque e semirreboque de carga para reciclagem, conforme regulamento;</p>
+            
+          </Inciso><Inciso id="art39_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o benefício será concedido ao TAC, à ETPP e à CTC a cada 5 (cinco) anos para cada veículo automotor de carga, implemento rodoviário, reboque e semirreboque adquirido, vedada a venda, a alienação, o empréstimo, o arrendamento ou qualquer tipo de transmissão de posse do bem adquirido;</p>
+            
+          </Inciso><Inciso id="art39_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o TAC e a ETPP poderão atuar diretamente perante o agente financeiro, os fabricantes e as concessionárias ou, caso assim desejem, por meio das entidades sindicais que os representem, as quais poderão atuar como despachantes do programa, responsáveis pela captação dos documentos do processo, prestação de informações sobre o programa, detalhamento dos requisitos para inscrição, estabelecimento de contatos necessários e orientação para o encaminhamento da documentação até a aquisição do bem.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap1_sec13">
+            
+            
+            <Rotulo>SEÇÃO XIII</Rotulo>
+            <NomeAgrupador>Dos Serviços de Rastreamento e Comunicação</NomeAgrupador>
+            <Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>Para fins de segurança, controle de jornada e mitigação dos riscos de acidentes, as montadoras e fabricantes de veículos automotores de carga, de computadores de bordo, de equipamentos de Registro Eletrônico de Jornadas de Trabalho em Veículos (REJ-V) e de rastreadores ficam obrigados a disponibilizar as informações constantes do rastreamento, telemetria e computadores de bordo dos veículos, na forma e prazo estabelecidos em regulamento.</p>
+            
+          </Caput><Paragrafo id="art40_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Compete ao Ministério do Trabalho, em conjunto com a ANTT, no prazo de até 12 (doze) meses, contado da publicação desta Lei, a adoção das medidas indispensáveis à implantação do REJ-V, a regulamentação, a fiscalização e a aplicação das penalidades adicionais por infrações às obrigações do registro de jornada de trabalho dos motoristas.</p>
+            
+          </Paragrafo><Paragrafo id="art40_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As informações de que trata o caput deste artigo serão disponibilizadas gratuitamente aos órgãos policiais e de fiscalização competentes.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap1_sec14">
+            
+            
+            <Rotulo>SEÇÃO XIV</Rotulo>
+            <NomeAgrupador>Das Inspeções Veiculares</NomeAgrupador>
+            <Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>É obrigatória a inspeção de segurança veicular de todos os veículos e equipamentos rodoviários de carga, automotores ou não, anualmente para aqueles com 10 (dez) anos ou mais de fabricação, e a cada 2 (dois) anos para aqueles com menos de 10 (dez) anos de fabricação, dispensados da inspeção aqueles com até 3 (três) anos de fabricação, nos termos de regulamentação da ANTT.</p>
+            
+          </Caput><Paragrafo id="art41_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Independentemente da inspeção de que trata o caput deste artigo, é obrigação do expedidor de carga, no momento do carregamento, examinar os veículos e equipamentos rodoviários, certificando-se das condições regulamentares de segurança e higiene que o transporte do produto exigir.</p>
+            
+          </Paragrafo><Paragrafo id="art41_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A ANTT poderá celebrar termo de cooperação técnica com entidade sem fins lucrativos com vistas a promover a habilitação, a fiscalização, a coordenação e o gerenciamento de pessoas jurídicas tecnicamente competentes para realizar a inspeção de que trata o caput deste artigo e poderá estabelecer regras de quantitativo de habilitações em função da demanda que garantam a isonomia, a imparcialidade, o equilíbrio econômico-financeiro e a qualidade dos serviços de inspeção oferecidos pelas pessoas jurídicas habilitadas.</p>
+            
+          </Paragrafo><Paragrafo id="art41_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A inspeção de que trata o caput deste artigo será realizada conforme procedimentos técnicos estabelecidos pela ANTT, com obrigatoriedade do registro informatizado de todos os itens e de todas as etapas da inspeção, incluídos filmagem e dados obtidos por equipamentos de inspeção.</p>
+            
+          </Paragrafo><Paragrafo id="art41_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As inspeções para Certificado de Inspeção Veicular (CIV), ou Certificado de Inspeção para o Transporte de Produtos Perigosos (CIPP), servirão de comprovante para cumprimento das exigências estabelecidas no caput deste artigo, sem prejuízo à regulamentação adicional da ANTT.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            
+            
+            
+            <p>É obrigatória a inspeção de segurança veicular anualmente, independentemente do ano de fabricação, conforme estabelecido no art. 41 desta Lei, de todos os veículos e equipamentos utilizados em transportes cuja carga ou descarga sejam feitos sob pressurização e dos destinados ao transporte de produtos perigosos, nos termos de regulamentação da ANTT, sem prejuízo das normas de trânsito.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DO TRANSPORTE RODOVIÁRIO INTERNACIONAL DE CARGAS</NomeAgrupador>
+            <Secao id="cap2_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Disposições Gerais sobre o Transporte Rodoviário Internacional de Cargas (Tric)</NomeAgrupador>
+            <Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>Entende-se por Transporte Rodoviário Internacional de Cargas (Tric) toda operação de transporte por via terrestre com origem em um país e destino final em outro país, e que deve ser coberta por Conhecimento de Transporte Internacional–Carta de Porte Internacional (CRT), ou de outro que vier a substituí-lo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            
+            
+            
+            <p>O Tric é aberto à exploração por pessoa jurídica, em regime de livre concorrência, pelas seguintes categorias e nas seguintes modalidades:</p>
+            <Inciso id="art44_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ETC, por conta de terceiros e mediante remuneração;</p>
+            
+          </Inciso><Inciso id="art44_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>CTC, por conta de terceiros e mediante remuneração;</p>
+            
+          </Inciso><Inciso id="art44_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>TCP, em veículo próprio, sem remuneração.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art44_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para habilitar-se ao Tric, a ETC deverá ser proprietária de frota com capacidade de transporte total mínima de 400 (quatrocentas) toneladas e comprovar capital social mínimo, subscrito e integralizado, exigido na data de sua habilitação, renovação ou recadastramento pela ANTT, de 440.000 (quatrocentos e quarenta mil) DES.</p>
+            
+          </Paragrafo><Paragrafo id="art44_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para habilitar-se ao Tric, a CTC deverá comprovar propriedade ou posse dos veículos, próprios ou de seus cooperados, com capacidade de transporte total mínima de 400 (quatrocentas) toneladas e comprovar patrimônio líquido mínimo, exigido na data de sua habilitação, renovação ou recadastramento pela ANTT, de 440.000 (quatrocentos e quarenta mil) DES.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Das Normas Vigentes do Tric</NomeAgrupador>
+            <Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            
+            
+            
+            <p> O Tric é regido pelo Acordo sobre Transporte Internacional Terrestre (Atit), e adicionalmente regulado, no território brasileiro, por esta Lei e pelos regulamentos aduaneiros e de transporte vigentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            
+            
+            
+            <p>Os limites de peso e dimensionamento aplicáveis ao Tric são exclusivamente os definidos no Atit, nos acordos firmados pelo Subgrupo de Transporte do Mercosul (SGT-5) e aqueles definidos nos acordos bilaterais ou multilaterais dos quais o Brasil é signatário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            
+            
+            
+            <p>É autorizado, dentro do território nacional, o transporte rodoviário de cargas destinadas à exportação ou provenientes de importação, por veículo brasileiro cadastrado no RNTRC, mesmo não habilitado ao transporte internacional, desde que o documento comprobatório do transporte seja emitido por ETC ou CTC habilitada ao transporte internacional, obrigando-se a emissora do documento a cumprir requisitos obrigatórios previstos em regulamento da ANTT.</p>
+            
+          </Caput><Paragrafo id="art47_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O documento comprobatório do transporte de que trata o caput deste artigo é o CRT, ou outro que vier a substituí-lo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            
+            
+            
+            <p>Ao transportador habilitado ao Tric é obrigatória, única e exclusivamente, a contratação dos seguros aplicáveis a esse tipo de transporte, nos termos do art. 13 do Atit, ou de outro que vier a substituí-lo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            
+            
+            
+            <p>Sem prejuízo das demais obrigações previstas nesta Lei, durante o trânsito em território nacional, para o transporte rodoviário internacional, é obrigatório o porte dos seguintes documentos:</p>
+            <Inciso id="art49_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>certificado de seguro de responsabilidade civil por lesões ou danos ocasionados a terceiros de que trata o art. 13 do Atit;</p>
+            
+          </Inciso><Inciso id="art49_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cópia do CRT;</p>
+            
+          </Inciso><Inciso id="art49_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cópia da nota fiscal que acompanha os produtos transportados;</p>
+            
+          </Inciso><Inciso id="art49_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>outros documentos exigidos pela ANTT.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art49_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A ANTT terá acesso eletrônico gratuito às informações referentes ao seguro internacional, em formato e periodicidade a serem regulamentados pela Agência, ao Conhecimento Rodoviário Eletrônico Internacional (CE Rodoviário) e às informações do Sistema Integrado de Comércio Exterior (Siscomex) referente a transporte rodoviário internacional, autorizada, para tanto, a celebrar convênios com outros órgãos públicos ou privados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            
+            
+            
+            <p>Os veículos de carga habilitados ao Tric deverão respeitar os seguintes limites de idade:</p>
+            <Inciso id="art50_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>20 (vinte) anos para os veículos automotores; e</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>25 (vinte e cinco) anos para implementos, reboques, semirreboques e caixas de carga.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art50_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A adequação da frota aos limites previstos no caput deste artigo deverá ocorrer em até 10 (dez) anos contados da data de publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art50_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A partir de 10 (dez) anos da publicação desta Lei, o limite de idade para os veículos automotores de que trata o inciso I do caput deste artigo será reduzido na proporção de 1 (um) ano para cada ano, até que seja atingida a idade-limite de 15 (quinze) anos.</p>
+            
+          </Paragrafo><Paragrafo id="art50_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No trecho de trânsito internacional efetuado dentro do território nacional, todos os veículos deverão respeitar o estabelecido neste artigo, independentemente do país de origem do veículo ou transportador.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art51">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">
+            
+            
+            
+            <p>Fica instituída a Comissão de Acompanhamento do Transporte Internacional de Cargas (Catic), que será presidida pela ANTT, incumbida do acompanhamento das reuniões bilaterais e multilaterais no âmbito do SGT-5 e da Associação Latino-Americana de Integração (Aladi), que será constituída pelos seguintes membros:</p>
+            <Inciso id="art51_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>1 (um) membro representante da ANTT;</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>1 (um) membro representante da Polícia Rodoviária Federal;</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>1 (um) membro representante dos despachantes aduaneiros;</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>1 (um) membro representante da Receita Federal do Brasil;</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>1 (um) membro de organização representativa das empresas de transporte internacional de cargas, indicado pela confederação nacional da categoria;</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>1 (um) membro de organização representativa dos transportadores autônomos, atuante no Tric, indicado pela confederação nacional da categoria; e</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>1 (um) membro de organização nacional representativa das cooperativas de transporte de cargas, atuante no Tric, indicado pela confederação nacional da categoria.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art51_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O funcionamento da comissão de que trata este artigo deverá ser regulamentado pela ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art51_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A participação nas atividades da comissão de que trata este artigo será considerada função relevante, não remunerada.</p>
+            
+          </Paragrafo><Paragrafo id="art51_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As despesas decorrentes do desempenho da função de membros da comissão de que trata este artigo correrão à conta das dotações das entidades e instituições por eles representadas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Das Aduanas e da Operação de Empresas no Tric</NomeAgrupador>
+            <Artigo id="art52">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">
+            
+            
+            
+            <p>Nas licitações que envolvam permissão ou concessão para exploração das atividades desenvolvidas dentro de estações aduaneiras, situadas em fronteiras secas, observar-se-á, obrigatoriamente, como critério objetivo do contrato administrativo, o trinômio eficiência-estrutura-tarifa.</p>
+            
+          </Caput><Paragrafo id="art52_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Independentemente da nacionalidade, as empresas estrangeiras que exploram os serviços objeto deste artigo deverão, obrigatoriamente, adequar-se às normas e às condições básicas de transporte ajustadas, priorizar a celeridade de processos e a fluidez do tráfego e observar as necessidades de infraestrutura para estacionamento gratuito dos veículos e as boas condições sanitárias e de segurança para os motoristas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art53">
+            
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">
+            
+            
+            
+            <p>Para operar no território nacional, as empresas de transporte internacional com sede fora do Brasil deverão ser cadastradas na ANTT, nos termos de regulamento.</p>
+            
+          </Caput><Paragrafo id="art53_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As empresas que operam no Tric somente poderão agregar veículos na proporção de 3 (três) veículos agregados para cada veículo de frota própria e responderão por esses veículos como se fossem próprios, quando em viagens internacionais dentro do território brasileiro.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de subcontratação, a responsabilidade civil de danos à carga será da empresa emissora do CRT ou do Manifesto Internacional de Carga Rodoviária/Declaração de Trânsito Aduaneiro (MIC/DTA), conforme aplicável em cada caso, não dispensado o proprietário do veículo ou transportadora subcontratada dos deveres solidários e da responsabilidade direta, quando for o caso.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A ANTT poderá regulamentar outras obrigações para a manutenção do cadastro do transportador internacional de cargas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DO TRANSPORTE DE PRODUTOS PERIGOSOS</NomeAgrupador>
+            <Secao id="cap3_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Disposições Gerais sobre o Transporte de Produtos Perigosos</NomeAgrupador>
+            <Artigo id="art54">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">
+            
+            
+            
+            <p>Sem prejuízo do disposto nas normas específicas de cada produto, o transporte rodoviário de produtos perigosos rege-se pelas disposições deste Capítulo, pelas normas internacionais ratificadas pelo Brasil e pelo disposto em regulamento da ANTT.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art55">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">
+            
+            
+            
+            <p>Define-se como Produto Perigoso (PP) aquele que representa risco para a saúde humana, para a segurança pública ou para o meio ambiente.</p>
+            
+          </Caput><Paragrafo id="art55_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para os efeitos desta Lei, é produto perigoso o relacionado em regulamento da ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No transporte de produto explosivo e de substância radioativa, serão observadas, também, as normas específicas do Comando do Exército e da Comissão Nacional de Energia Nuclear, respectivamente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art56">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">
+            
+            
+            
+            <p>O transporte rodoviário de produtos perigosos realizado pelas Forças Armadas obedecerá à legislação específica.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art57">
+            
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">
+            
+            
+            
+            <p>Sem prejuízo das exigências previstas no art. 4° desta Lei, para a inscrição no RNTRC, fica o interessado em transportar produtos perigosos por via rodoviária, independentemente de sua categoria, obrigado à comprovação e à entrega de documentação específica contida nas seguintes exigências:</p>
+            <Inciso id="art57_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>manter RT com experiência em produtos perigosos, por número de veículos, conforme proporcionalidade definida em regulamento;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>possuir apólice de seguro com valor compatível com seus transportes, para danos causados ao meio ambiente em decorrência de acidentes, nos termos da legislação vigente, que, entre outras coberturas, deverá garantir a limpeza, a remoção, a destinação e a destruição dos resíduos em caso de sinistros;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dispor de equipe técnica ou ter contrato com empresa especializada em atendimento a emergências com produtos perigosos; e</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>comprovar o TCP que transporte produto perigoso capital social mínimo, subscrito e integralizado, de:</p>
+            <Alinea id="art57_cpt_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>200.000 (duzentos mil) DES, quando possuir até 5 (cinco) veículos; e</p>
+            
+          </Alinea><Alinea id="art57_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>400.000 (quatrocentos mil) DES, quando possuir acima de 5 (cinco) veículos.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap3_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos Veículos e dos Equipamentos Usados em Transporte de Produtos Perigosos</NomeAgrupador>
+            <Artigo id="art58">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">
+            
+            
+            
+            <p>Os transportes rodoviários de produtos perigosos somente poderão ser realizados por veículos cuja idade máxima seja:</p>
+            <Inciso id="art58_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>15 (quinze) anos para veículos automotores; e</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>20 (vinte) anos para implementos, reboques, semirreboques e caixas de carga.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art58_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A adequação da frota aos limites previstos no caput deste artigo deverá ocorrer em até 5 (cinco) anos contados da data de publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art58_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A partir de 5 (cinco) anos da publicação desta Lei, os limites de idade de que trata o caput deste artigo serão reduzidos na proporção de 1 (um) ano a cada ano, até que seja atingida a idade máxima de 10 (dez) anos para veículos automotores e de 15 (quinze) anos para implementos, reboques, semirreboques e caixas de carga.</p>
+            
+          </Paragrafo><Paragrafo id="art58_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Excepcionalmente, o transporte de PP poderá ser realizado com implementos, reboques, semirreboques e caixas de carga acima da idade máxima estipulada neste artigo, até o limite de 15 (quinze) anos a mais, desde que possua autorização especial do órgão competente ou sua acreditada, devendo para isto ter sido aprovado em inspeção especial, a ser regulamentada pelo Inmetro.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art59">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">
+            
+            
+            
+            <p>Os veículos automotores utilizados no transporte rodoviário de produtos perigosos deverão possuir equipamentos de rastreamento com intervalo máximo de posição a cada 10 (dez) minutos.</p>
+            
+          </Caput><Paragrafo id="art59_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não poderá haver interrupção de posicionamento em intervalo maior que 30 (trinta) minutos, salvo em caso de defeito no equipamento ou quando o veículo estiver em área comprovadamente não monitorada.</p>
+            
+          </Paragrafo><Paragrafo id="art59_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As informações referentes às posições deverão ser mantidas por prazo mínimo de 90 (noventa) dias.</p>
+            
+          </Paragrafo><Paragrafo id="art59_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As informações referentes às posições deverão ser enviadas à ANTT conforme regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art60">
+            
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">
+            
+            
+            
+            <p>Os veículos automotores utilizados no transporte rodoviário de produtos perigosos deverão possuir equipamento de telemetria, cujos requisitos técnicos serão definidos em regulamento, podendo ser integrado com o rastreador.</p>
+            
+          </Caput><Paragrafo id="art60_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os veículos que possuam computador de bordo de série, que satisfaçam aos quesitos técnicos definidos em regulamento, ficam dispensados da instalação do equipamento referido no caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A adequação de que trata o caput deste artigo deverá ser feita em 5 (cinco) anos contados da publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As informações de registro obrigatório, modelo e prazo, bem como os intervalos e de envio obrigatório, serão regulamentadas pela ANTT.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap3_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Das Responsabilidades do Fabricante, do Refabricador, do Recondicionador e do Importador de Veículos e Equipamentos para Transporte de Produtos Perigosos</NomeAgrupador>
+            <Artigo id="art61">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">
+            
+            
+            
+            <p>Os fabricantes, os refabricadores e os recondicionadores de equipamento destinado ao transporte de produtos perigosos respondem, penal e civilmente, por sua qualidade e adequação ao fim a que se destinam.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art62">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">
+            
+            
+            
+            <p>Cumpre ao fabricante, ao refabricador ou ao recondicionador atender aos requisitos estabelecidos pela autoridade competente, na construção, na montagem ou na modificação dos equipamentos e implementos, e, em caso de fiscalização em transportador dos quais for fornecedor, entregar à autoridade competente as informações solicitadas.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap3_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Das Situações de Risco e das Infrações na Operação de Transporte de Produtos Perigosos</NomeAgrupador>
+            <Artigo id="art63">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">
+            
+            
+            
+            <p>Observada qualquer infração a esta Lei que configure situação de grave e iminente risco à integridade física de pessoas, à segurança pública ou ao meio ambiente, a autoridade com circunscrição sobre a via deve reter o veículo, liberando-o depois de sanada a irregularidade, e pode, se necessário, determinar:</p>
+            <Inciso id="art63_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a remoção do veículo para local seguro, podendo autorizar o seu deslocamento para local onde possa ser corrigida a irregularidade;</p>
+            
+          </Inciso><Inciso id="art63_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o descarregamento, a transferência dos produtos para local seguro ou o transbordo para outro veículo adequado; e</p>
+            
+          </Inciso><Inciso id="art63_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a eliminação da periculosidade da carga ou a sua destruição, sob a orientação do fabricante ou do importador dos produtos e, quando possível, com a presença do representante da seguradora.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art63_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Caso a situação não se configure como de grave e iminente risco, a autoridade competente deve autuar o infrator e liberar o veículo para continuidade do transporte.</p>
+            
+          </Paragrafo><Paragrafo id="art63_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As providências de que trata este artigo serão adotadas em função do grau e da natureza do risco, mediante avaliação técnica e, sempre que possível, com o acompanhamento do fabricante ou do importador dos produtos, do expedidor, do transportador, do contratante do transporte, do representante da Defesa Civil ou do Corpo de Bombeiros e de órgão do meio ambiente.</p>
+            
+          </Paragrafo><Paragrafo id="art63_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O veículo permanecerá sob a guarda da autoridade com circunscrição sobre a via, enquanto estiver retido, sem prejuízo da responsabilidade do transportador pelos fatos que deram origem à retenção.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap3_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Do Transporte Rodoviário Internacional de Produtos Perigosos</NomeAgrupador>
+            <Artigo id="art64">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">
+            
+            
+            
+            <p>O transporte rodoviário internacional de produtos perigosos no território nacional reger-se-á com base nesta Lei, observadas, no que couber, as disposições constantes de acordos, convênios ou tratados ratificados pelo Brasil.</p>
+            
+          </Caput><Paragrafo id="art64_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Sem prejuízo do estipulado nesta Lei, a ANTT poderá regulamentar outras obrigações referentes ao transporte internacional de produtos perigosos no território nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art65">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">
+            
+            
+            
+            <p>As empresas de transporte internacional, com sede fora do Brasil, quando transportarem PP no território nacional deverão observar as disposições desta Lei e das demais regulamentações brasileiras.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap3_sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Disposições Finais do Transporte de Produtos Perigosos</NomeAgrupador>
+            <Artigo id="art66">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput id="art66_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-06-05;10233-->
+            
+            
+            <p>Compete à ANTT, nos termos da <span xlink:href="urn:lex:br:federal:lei:2001-06-05;10233">Lei nº 10.233, de 5 de junho de 2001</span>, estabelecer padrões e normas técnicas complementares relativos às operações de transporte terrestre de produtos perigosos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art67">
+            
+            
+            <Rotulo>Art. 67.</Rotulo>
+            
+            <Caput id="art67_cpt">
+            
+            
+            
+            <p>A ANTT poderá expedir, mediante resoluções, atos complementares e modificações de caráter técnico que se façam necessários para a permanente atualização deste Capítulo, bem como de outras obrigações acessórias para obtenção das autorizações às empresas de transporte e demais agentes e entidades que operam ou estão envolvidos no transporte de produtos perigosos.</p>
+            
+          </Caput><Paragrafo id="art67_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A fiscalização da observância das normas referentes às operações de transporte terrestre de produtos perigosos incumbe à ANTT, sem prejuízo da competência da Polícia Rodoviária Federal e dos demais órgãos e entidades de trânsito com circunscrição sobre a via por onde transite o veículo transportador.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art68">
+            
+            
+            <Rotulo>Art. 68.</Rotulo>
+            
+            <Caput id="art68_cpt">
+            
+            
+            
+            <p>Sem prejuízo do cumprimento da legislação de cada unidade federada, se a empresa de transportes obtiver permissão da Fundação Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) para transporte de produto perigoso no território brasileiro, fica dispensada da obrigatoriedade da permissão para cada Estado, Distrito Federal e Município.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art69">
+            
+            
+            <Rotulo>Art. 69.</Rotulo>
+            
+            <Caput id="art69_cpt">
+            
+            
+            
+            <p>Na aplicação do disposto nesta Lei no que se refere a produtos perigosos, ficam ressalvadas as disposições previstas em acordos ou convênios internacionais firmados pela República Federativa do Brasil.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>das infrações e DAS penalidades</NomeAgrupador>
+            <Artigo id="art70">
+            
+            
+            <Rotulo>Art. 70.</Rotulo>
+            
+            <Caput id="art70_cpt">
+            
+            
+            
+            <p>As infrações ao disposto nesta Lei serão punidas com as seguintes penalidades e medidas administrativas:</p>
+            <Inciso id="art70_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>penalidades: advertência; multa; suspensão do RNTRC; cancelamento do RNTRC; suspensão do cadastro único do MTRC; cancelamento do cadastro único do MTRC;</p>
+            
+          </Inciso><Inciso id="art70_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>medidas administrativas: retenção do veículo; recolhimento do documento do RNTRC;</p>
+            <Alinea id="art70_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>recolhimento do documento do cadastro único do MTRC;</p>
+            
+          </Alinea><Alinea id="art70_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>remoção do veículo;</p>
+            
+          </Alinea><Alinea id="art70_cpt_inc2_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>descarregamento, transferência e transbordo de carga;</p>
+            
+          </Alinea><Alinea id="art70_cpt_inc2_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>eliminação da periculosidade da carga ou sua destruição.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art70_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O cometimento de 2 (duas) ou mais infrações ensejará a aplicação das respectivas penalidades, cumulativamente.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A aplicação das penalidades estabelecidas nesta Lei não exclui a aplicação de outras previstas em legislação específica ou em regulamento da ANTT, nem exonera o infrator das cominações civis e penais cabíveis.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No caso de reincidência na mesma infração, no período de 12 (doze) meses, aplicar-se-á a penalidade multiplicada pela quantidade de reincidências, conforme regulamentação da ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O auto de infração será arquivado e seu registro julgado insubsistente se considerado inconsistente, irregular ou se, no prazo máximo de 30 (trinta) dias, não for expedida a notificação da autuação, nos termos de regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O auto de infração será arquivado e seu registro julgado inconsistente em caso de autuações por evasão de fiscalização ou excesso de peso, sem a devida comprovação fotográfica.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Na hipótese de notificação por meio eletrônico, na forma regulamentada pela ANTT, o infrator será considerado notificado 30 (trinta) dias após a inclusão da informação no sistema eletrônico.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art71">
+            
+            
+            <Rotulo>Art. 71.</Rotulo>
+            
+            <Caput id="art71_cpt">
+            
+            
+            
+            <p>As infrações punidas com multa classificam-se, de acordo com sua gravidade, em 4 (quatro) categorias:</p>
+            <Inciso id="art71_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>gravíssima, punida com multa de valor correspondente a 500 (quinhentos) DES;</p>
+            
+          </Inciso><Inciso id="art71_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>grave, punida com multa de valor correspondente a 250 (duzentos e cinquenta) DES;</p>
+            
+          </Inciso><Inciso id="art71_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>média, punida com multa de valor correspondente a 100 (cem) DES;</p>
+            
+          </Inciso><Inciso id="art71_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>leve, punida com multa de valor correspondente a 50 (cinquenta) DES.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art71_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Nas infrações de gravidade média e leve, se não houver reincidência no período de 12 (doze) meses, a multa poderá ser substituída por advertência, nos termos de regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art72">
+            
+            
+            <Rotulo>Art. 72.</Rotulo>
+            
+            <Caput id="art72_cpt">
+            
+            
+            
+            <p>A ANTT disporá em regulamento sobre as infrações ao disposto nesta Lei e em seus regulamentos, especificando as possíveis infrações e seus autores, as medidas administrativas aplicáveis e a gravidade da conduta, nos termos do art. 71 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art73">
+            
+            
+            <Rotulo>Art. 73.</Rotulo>
+            
+            <Caput id="art73_cpt">
+            
+            
+            
+            <p>Os agentes da fiscalização da ANTT terão livre acesso aos documentos e dependências do contratante do serviço de transporte, do expedidor, do recebedor, do destinatário, da GRTR, da ETC, do OL, do TAC, da ETPP, da CTC, do TCP, da EAE e da OEF, no que se fizer necessário para a fiscalização do cumprimento desta Lei e de seus regulamentos.</p>
+            
+          </Caput><Paragrafo id="art73_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As empresas e os veículos de transporte rodoviário de passageiros que transportarem cargas, nos termos do § 3º do art. 2º desta Lei, também estão sujeitos ao disposto no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DA RESPONSABILIDADE SUBSIDÍARIA NO TRANSPORTE DE CARGAS</NomeAgrupador>
+            <Artigo id="art74">
+            
+            
+            <Rotulo>Art. 74.</Rotulo>
+            
+            <Caput id="art74_cpt">
+            
+            
+            
+            <p>Além dos nomeados nos arts. 3º e 4º desta Lei, também são responsáveis subsidiários pelo cumprimento desta Lei, no que competir a cada um e no que determinar este artigo, as seguintes categorias:</p>
+            <Inciso id="art74_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>contratante: pessoa física ou jurídica contratualmente responsável pelo pagamento direto do frete ao transportador para prestação do serviço de transporte rodoviário de cargas e serviços correlatos;</p>
+            
+          </Inciso><Inciso id="art74_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>expedidor: pessoa física ou jurídica que entrega a carga, de propriedade sua ou de outrem, ao transportador para efetuar o serviço de transporte, considerado como expedidor, no caso de subcontratação ou redespacho, o transportador que entrega a carga para que outro transportador efetue o serviço de transporte;</p>
+            
+          </Inciso><Inciso id="art74_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>consignatário: pessoa física ou jurídica que tem a guarda temporária de mercadoria de propriedade de outrem para armazenagem temporária ou comércio;</p>
+            
+          </Inciso><Inciso id="art74_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>subcontratante: ETC, OL ou CTC que contrata outro transportador para realização do transporte de cargas para o qual fora contratado;</p>
+            
+          </Inciso><Inciso id="art74_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>subcontratado: transportador que foi contratado por outro para realização do transporte de cargas para o qual o primeiro fora contratado;</p>
+            
+          </Inciso><Inciso id="art74_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>recebedor: aquele que recebe a carga do transportador, podendo ser o destinatário ou não.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art74_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os sujeitos nomeados nos incisos II e IV do caput deste artigo, e também a OEF, são corresponsáveis pela verificação da documentação prevista no art. 11 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art74_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os sujeitos nomeados nos incisos I, II, III, IV e VI do caput deste artigo, e também a OEF, são responsáveis solidários pelo pagamento da estadia de que trata esta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art74_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A OEF é adicionalmente corresponsável pelo pagamento dos serviços de transporte e demais taxas e adicionais do contrato de serviço, em relação às operações por ela organizadas ou das quais fez corretagem.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS</NomeAgrupador>
+            <Artigo id="art75">
+            
+            
+            <Rotulo>Art. 75.</Rotulo>
+            
+            <Caput id="art75_cpt">
+            
+            
+            
+            <p>Os valores referentes a taxas, impostos e contribuições que estiverem destacados no documento fiscal de transportes por substituição tributária não serão considerados receita operacional ou rendimento tributável, não constituirão base de incidência de contribuições sociais ou previdenciárias e não serão integrados à base de impostos e taxas federais, estaduais ou municipais.</p>
+            
+          </Caput><Paragrafo id="art75_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O valor do pedágio, quando destacado no documento fiscal, não será considerado receita operacional ou rendimento tributável, não constituirá base de incidência de contribuições sociais ou previdenciárias e não será integrado à base de impostos e taxas federais, estaduais ou municipais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art76">
+            
+            
+            <Rotulo>Art. 76.</Rotulo>
+            
+            <Caput id="art76_cpt">
+            
+            
+            
+            <p>Para fins de redução de acidentes por meio do aprendizado, ficam as Comissões Nacional, Estaduais e Distrital do Plano Nacional de Prevenção, Preparação e Resposta Rápida a Emergências Ambientais com Produtos Químicos Perigosos obrigadas a investigar acidentes ocorridos em via pública, quando houver contaminação ambiental ou resultar em fatalidade ou letalidade.</p>
+            
+          </Caput><Paragrafo id="art76_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Caberão à comissão com jurisdição sobre o local do acidente a investigação dos fatos e o envio do relatório final à ANTT.</p>
+            
+          </Paragrafo><Paragrafo id="art76_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A ANTT definirá em regulamento as obrigações, o modelo de relatório e o prazo para sua apresentação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art77">
+            
+            
+            <Rotulo>Art. 77.</Rotulo>
+            
+            <Caput id="art77_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art77_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art106_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art106_cpt), art230_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art230_cpt), art10_cpt_inc26 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art10_cpt_inc26), art13_par3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art13_par3), art13 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art13), art12_cpt_inc16 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art12_cpt_inc16), art261_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art261_cpt), art10_cpt_inc30 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art10_cpt_inc30), art261_par12_inc2 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art261_par12_inc2), art218_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art218_cpt), art12_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art12_cpt), art230_par3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art230_par3), art101_par1-3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par1-3), art101_par5 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par5), art218 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art218), art101_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_cpt), art104_par8 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art104_par8), art104_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art104_cpt), art101_par6 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par6), art106_par1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art106_par1), art12 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art12), art257_par4 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art257_par4), art104 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art104), art101_par2 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par2), art106 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art106), art261_par12_inc3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art261_par12_inc3), art13_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art13_cpt), art261 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art261), art10_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art10_cpt), art101_par1-1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par1-1), art261_par12 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art261_par12), art10_cpt_inc29 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art10_cpt_inc29), art261_par12_inc4 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art261_par12_inc4), art101_par3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par3), art101_par1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par1), art10_cpt_inc27 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art10_cpt_inc27), art257_cpt -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art257_cpt), art10_cpt_inc28 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art10_cpt_inc28), art261_par12_inc1 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art261_par12_inc1), art218_cpt_inc3 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art218_cpt_inc3), art101_par1-2 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par1-2), art230 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art230), art101_par4 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101_par4), art10 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art10), art101 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art101), art257 -> PrefixMatch(URN(1997,Some((9,23)),,urn:lex:br:federal:lei:1997-09-23;9503),art257)))))-->
+              <Artigo xlink:href="art10" id="art77_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art77_cpt_alt1_art10_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art77_cpt_alt1_art10_cpt_omi1"/><Inciso xlink:href="art10_cpt_inc26" id="art77_cpt_alt1_art10_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>1 (um) representante do Ministério do Trabalho;</p>
+            
+          </Inciso><Inciso xlink:href="art10_cpt_inc27" id="art77_cpt_alt1_art10_cpt_inc27">
+            
+            
+            <Rotulo>XXVII –</Rotulo>
+            <p>1 (um) representante da Câmara dos Deputados designado pela Comissão de Viação e Transportes;</p>
+            
+          </Inciso><Inciso xlink:href="art10_cpt_inc28" id="art77_cpt_alt1_art10_cpt_inc28">
+            
+            
+            <Rotulo>XXVIII –</Rotulo>
+            <p>1 (um) representante indicado pela entidade máxima representativa dos órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal;</p>
+            
+          </Inciso><Inciso xlink:href="art10_cpt_inc29" id="art77_cpt_alt1_art10_cpt_inc29">
+            
+            
+            <Rotulo>XXIX –</Rotulo>
+            <p>1 (um) representante indicado pela entidade máxima representativa dos órgãos e entidades executivos de trânsito dos Municípios;</p>
+            
+          </Inciso><Inciso xlink:href="art10_cpt_inc30" id="art77_cpt_alt1_art10_cpt_inc30">
+            
+            
+            <Rotulo>XXX –</Rotulo>
+            <p>1 (um) representante da Polícia Rodoviária Federal.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art77_cpt_alt1_art10_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art12" id="art77_cpt_alt1_art12" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput xlink:href="art12_cpt" id="art77_cpt_alt1_art12_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art77_cpt_alt1_art12_cpt_omi1"/><Inciso xlink:href="art12_cpt_inc16" id="art77_cpt_alt1_art12_cpt_inc16" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>representar o Brasil em congressos ou reuniões internacionais, por meio do Presidente ou conselheiro designado pelo colegiado.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art13" id="art77_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art77_cpt_alt1_art13_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art77_cpt_alt1_art13_omi1"/><Paragrafo xlink:href="art13_par3" id="art77_cpt_alt1_art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As Câmaras Temáticas serão coordenadas por conselheiros do Contran e respectivos suplentes, eleitos por este colegiado, para mandato fixo, nos termos de regulamento.</p>
+            
+          </Paragrafo><Omissis id="art77_cpt_alt1_art13_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art101" id="art77_cpt_alt1_art101" abreAspas="s">
+            
+            
+            <Rotulo>Art. 101.</Rotulo>
+            
+            <Caput xlink:href="art101_cpt" id="art77_cpt_alt1_art101_cpt">
+            
+            
+            
+            <p>Ao veículo ou à combinação de veículos que não se enquadre nos limites de peso e dimensões estabelecidos pelo Contran será concedida, pela autoridade com circunscrição sobre a via, Autorização Especial de Trânsito (AET), por viagem ou com validade determinada, atendidas as medidas de segurança consideradas necessárias, na forma regulamentada pelo Contran.</p>
+            
+          </Caput><Paragrafo xlink:href="art101_par1" id="art77_cpt_alt1_art101_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando se tratar de autorização por viagem, será ela concedida mediante requerimento, que especificará as características do veículo ou a combinação de veículos de carga, o percurso, a data e o horário do deslocamento inicial, na forma regulamentada pelo Contran.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par1-1" id="art77_cpt_alt1_art101_par1-1">
+            
+            
+            <Rotulo>§ 1º-A.</Rotulo>
+            <p>O Contran regulamentará o regime especial de AET para combinação de grupo de veículos utilizados no transporte de carga que não se enquadrem nos limites de peso e dimensões estabelecidos, com isenção da obrigatoriedade de AET por viagem e por veículo, quando se tratar de cargas com as mesmas dimensões, pesos, características e percurso, além de veículos de mesmas características, atendidas as medidas de segurança consideradas necessárias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par1-2" id="art77_cpt_alt1_art101_par1-2">
+            
+            
+            <Rotulo>§ 1º-B.</Rotulo>
+            <p>Para combinações de veículos de cargas com limites de peso bruto total combinado (PBTC) acima de 57 (cinquenta e sete) toneladas, desde que se enquadrem nos limites de peso por eixo, nas capacidades técnicas determinadas pelos fabricantes, e nas dimensões estabelecidas pelo Contran, a AET será concedida pelo órgão ou entidade com circunscrição sobre a via pelo prazo máximo de 1 (um) ano, atendidas as medidas de segurança consideradas necessárias, condicionada à apresentação pelo interessado de estudos técnicos de desempenho mecânico e estrutural elaborados por empresas credenciadas no respectivo órgão ou entidade, conforme critérios estabelecidos pelo Contran.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par1-3" id="art77_cpt_alt1_art101_par1-3">
+            
+            
+            <Rotulo>§ 1º-C.</Rotulo>
+            <p>Para combinações de veículos utilizados no transporte de cargas divisíveis, com limites de PBTC acima de 57 (cinquenta e sete) toneladas, desde que se enquadrem nos limites de peso por eixo e dimensões estabelecidos pelo Contran, com comprimento máximo de 26 m (vinte e seis metros), poderá ser concedida AET para tráfego diuturno em rodovias de pista simples com duplo sentido de direção, atendidas as medidas de segurança consideradas necessárias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par2" id="art77_cpt_alt1_art101_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A concessão de AET não exime o beneficiário da responsabilidade por eventuais danos que o veículo ou a combinação de veículos possa causar à via ou a terceiros.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par3" id="art77_cpt_alt1_art101_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Aos guindastes autopropelidos ou sobre caminhões, com peso bruto total (PBT) ou PBTC até 108 (cento e oito) toneladas, será concedida, pela autoridade com circunscrição sobre a via, AET com prazo de 1 (um) ano, atendidas as medidas de segurança consideradas necessárias, na forma regulamentada pelo Contran.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par4" id="art77_cpt_alt1_art101_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para a concessão de AET, somente poderá ser cobrada a taxa de expedição, vedada a cobrança de qualquer valor adicional, a qualquer título.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par5" id="art77_cpt_alt1_art101_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Fica dispensada a obrigatoriedade de apresentação do estudo de viabilidade para a obtenção de AET, quando for utilizado o reboque ou semirreboque constituído por módulos hidráulicos, com eixos direcionais e com 8 (oito) pneus cada, com distância entre eixos igual ou maior a 1,50 m (um metro e cinquenta centímetros), com peso de até 12 (doze) toneladas por eixo, para o transporte de cargas indivisíveis, atendidas as medidas de segurança consideradas necessárias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art101_par6" id="art77_cpt_alt1_art101_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Para combinações de veículos de carga com PBTC de até 57 (cinquenta e sete) toneladas, que se enquadrem nos limites de peso por eixo e dimensões estabelecidos pelo Contran, não será obrigatório o uso de veículo com tração dupla 6x4 (seis por quatro).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art104" id="art77_cpt_alt1_art104" abreAspas="s">
+            
+            
+            <Rotulo>Art. 104.</Rotulo>
+            
+            <Caput xlink:href="art104_cpt" id="art77_cpt_alt1_art104_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art77_cpt_alt1_art104_omi1"/><Paragrafo xlink:href="art104_par8" id="art77_cpt_alt1_art104_par8" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>A classificação dos veículos envolvidos em acidente de trânsito, no que concerne à monta dos danos, será realizada por instituição técnica licenciada ou por entidade pública ou paraestatal, nos termos de regulamentação do Contran.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art106" id="art77_cpt_alt1_art106" abreAspas="s">
+            
+            
+            <Rotulo>Art. 106.</Rotulo>
+            
+            <Caput xlink:href="art106_cpt" id="art77_cpt_alt1_art106_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art106_par1u" id="art77_cpt_alt1_art106_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ficam dispensados do certificado de segurança de que trata o caput deste artigo os veículos usados e já emplacados, utilizados no transporte de carga, passageiros e lazer, quando suas capacidades de carga ou de passageiros forem reduzidas, desde que mantidas suas características originais, ressalvada a obrigação de certificação emitida pelo órgão ou entidade de metrologia legal para os itens de segurança.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art218" id="art77_cpt_alt1_art218" abreAspas="s">
+            
+            
+            <Rotulo>Art. 218.</Rotulo>
+            
+            <Caput xlink:href="art218_cpt" id="art77_cpt_alt1_art218_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art77_cpt_alt1_art218_cpt_omi1"/><Inciso xlink:href="art218_cpt_inc3" id="art77_cpt_alt1_art218_cpt_inc3" textoOmitido="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            
+            
+          </Inciso>
+          </Caput><Omissis id="art77_cpt_alt1_art218_omi1"/>
+          </Artigo><p>Penalidade – multa (três vezes) e, quando o limite de velocidade for superior a 60 km/h (sessenta quilômetros por hora), suspensão imediata do direito de dirigir e apreensão do documento de habilitação.</p><Artigo xlink:href="art230" id="art77_cpt_alt1_art230" abreAspas="s">
+            
+            
+            <Rotulo>Art. 230.</Rotulo>
+            
+            <Caput xlink:href="art230_cpt" id="art77_cpt_alt1_art230_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art77_cpt_alt1_art230_omi1"/><Paragrafo xlink:href="art230_par3" id="art77_cpt_alt1_art230_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Fica suspensa a aplicação de penalidades e de medidas administrativas decorrentes do cometimento da infração prevista no inciso XXIII do caput deste artigo, nos locais em que não existam pontos de parada adequado, até que esses pontos sejam disponibilizados aos motoristas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art257" id="art77_cpt_alt1_art257" abreAspas="s">
+            
+            
+            <Rotulo>Art. 257.</Rotulo>
+            
+            <Caput xlink:href="art257_cpt" id="art77_cpt_alt1_art257_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art77_cpt_alt1_art257_omi1"/><Paragrafo xlink:href="art257_par4" id="art77_cpt_alt1_art257_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O embarcador é responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou no peso bruto total, quando simultaneamente for o único remetente da carga e o peso declarado na nota fiscal, fatura ou manifesto for inferior àquele aferido, exceto quando a carga for a granel, caso em que será considerado o peso bruto total.</p>
+            
+          </Paragrafo><Omissis id="art77_cpt_alt1_art257_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art261" id="art77_cpt_alt1_art261" abreAspas="s">
+            
+            
+            <Rotulo>Art. 261.</Rotulo>
+            
+            <Caput xlink:href="art261_cpt" id="art77_cpt_alt1_art261_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art77_cpt_alt1_art261_omi1"/><Paragrafo xlink:href="art261_par12" id="art77_cpt_alt1_art261_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Para o condutor que exerce atividade remunerada em veículo, no exercício da profissão, o limite de 20 (vinte) pontos, previsto no inciso I do caput deste artigo, será estendido para:</p>
+            <Inciso xlink:href="art261_par12_inc1" id="art77_cpt_alt1_art261_par12_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>25 (vinte e cinco) pontos, desde que na referida pontuação não constem mais de duas infrações gravíssimas;</p>
+            
+          </Inciso><Inciso xlink:href="art261_par12_inc2" id="art77_cpt_alt1_art261_par12_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>30 (trinta) pontos, desde que na referida pontuação não conste mais de uma infração gravíssima;</p>
+            
+          </Inciso><Inciso xlink:href="art261_par12_inc3" id="art77_cpt_alt1_art261_par12_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>35 (trinta e cinco) pontos, desde que na referida pontuação não conste infração gravíssima; e</p>
+            
+          </Inciso><Inciso xlink:href="art261_par12_inc4" id="art77_cpt_alt1_art261_par12_inc4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>40 (quarenta) pontos, desde que na referida pontuação não conste qualquer infração grave ou gravíssima.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art78">
+            
+            
+            <Rotulo>Art. 78.</Rotulo>
+            
+            <Caput id="art78_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art429--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>Para os fins do disposto no <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art429">art. 429 da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, excetuam-se da base de cálculo para apuração dos cargos legalmente reservados e do número de aprendizes a serem contratados os motoristas empregados da ETC, OL, ETPP, CTC e TCP.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art79">
+            
+            
+            <Rotulo>Art. 79.</Rotulo>
+            
+            <Caput id="art79_cpt">
+            
+            
+            
+            <p>O prazo para cumprimento das obrigações de cadastro e renovação do RNTRC de que trata esta Lei será de 1 (um) ano, contado da data de sua publicação, de forma escalonada por categoria, nos termos de cronograma a ser definido em regulamento da ANTT.</p>
+            
+          </Caput><Paragrafo id="art79_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A ANTT terá o prazo de 1 (um) ano para definir as obrigações referidas no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art80">
+            
+            
+            <Rotulo>Art. 80.</Rotulo>
+            
+            <Caput id="art80_cpt">
+            
+            
+            
+            <p>As multas emitidas pela ANTT até a data de publicação desta Lei, referentes à evasão de fiscalização ficam convertidas em advertência.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art81">
+            
+            
+            <Rotulo>Art. 81.</Rotulo>
+            
+            <Caput id="art81_cpt">
+            <!--Link: urn:lex:br:federal:lei:2015-03-02;13103!art9--><!--Link: urn:lex:br:federal:lei:2015-03-02;13103!art10--><!--Link: urn:lex:br:federal:lei:2015-03-02;13103!art11-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:2015-03-02;13103!art9">arts. 9º</span>, <span xlink:href="urn:lex:br:federal:lei:2015-03-02;13103!art10">10</span> e <span xlink:href="urn:lex:br:federal:lei:2015-03-02;13103!art11">11 da Lei nº 13.103, de 2 de março de 2015</span>, passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2015-03-02;13103" id="art81_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2015-03-02;13103 -> MatchByBase(urn:lex:br:federal:lei:2015-03-02;13103,2015,Some((3,2)),Map(art9_par5 -> PrefixMatch(URN(2015,Some((3,2)),art9,urn:lex:br:federal:lei:2015-03-02;13103!art9),art9_par5), art10_par1 -> PrefixMatch(URN(2015,Some((3,2)),art10,urn:lex:br:federal:lei:2015-03-02;13103!art10),art10_par1), art10_par2 -> PrefixMatch(URN(2015,Some((3,2)),art10,urn:lex:br:federal:lei:2015-03-02;13103!art10),art10_par2), art10_cpt -> PrefixMatch(URN(2015,Some((3,2)),art10,urn:lex:br:federal:lei:2015-03-02;13103!art10),art10_cpt), art11 -> ExactMatch(URN(2015,Some((3,2)),art11,urn:lex:br:federal:lei:2015-03-02;13103!art11)), art11_par3 -> PrefixMatch(URN(2015,Some((3,2)),art11,urn:lex:br:federal:lei:2015-03-02;13103!art11),art11_par3), art9_cpt -> PrefixMatch(URN(2015,Some((3,2)),art9,urn:lex:br:federal:lei:2015-03-02;13103!art9),art9_cpt), art10_par3 -> PrefixMatch(URN(2015,Some((3,2)),art10,urn:lex:br:federal:lei:2015-03-02;13103!art10),art10_par3), art11_cpt -> PrefixMatch(URN(2015,Some((3,2)),art11,urn:lex:br:federal:lei:2015-03-02;13103!art11),art11_cpt), art9 -> ExactMatch(URN(2015,Some((3,2)),art9,urn:lex:br:federal:lei:2015-03-02;13103!art9)), art10 -> ExactMatch(URN(2015,Some((3,2)),art10,urn:lex:br:federal:lei:2015-03-02;13103!art10))))))-->
+              <Artigo xlink:href="art9" id="art81_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art81_cpt_alt1_art9_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art81_cpt_alt1_art9_omi1"/><Paragrafo xlink:href="art9_par5" id="art81_cpt_alt1_art9_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os locais de espera para embarque e desembarque mantidos por empresas ou terminais deverão apresentar adequadas condições de segurança, sanitárias e de conforto, nos termos de regulamentação e sujeitos à fiscalização da ANTT.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art10" id="art81_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art81_cpt_alt1_art10_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art10_par1" id="art81_cpt_alt1_art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O poder público apoiará ou incentivará, em caráter permanente, a implantação pela iniciativa privada de locais de espera, bolsões de estacionamento, pontos de parada e de descanso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art10_par2" id="art81_cpt_alt1_art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos locais onde não houver manifesto interesse da iniciativa privada na implantação de locais de espera, bolsões de estacionamento, pontos de parada e de descanso, o poder público com jurisdição sobre a via deverá priorizar a construção de estrutura pública de apoio aos motoristas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art10_par3" id="art81_cpt_alt1_art10_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Além das condições previstas nesta Lei e em regulamentos, os locais de espera, bolsões de estacionamento, pontos de parada e de descanso deverão possuir estrutura que permita aos motoristas o acesso a meios de comunicação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art11" id="art81_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art81_cpt_alt1_art11_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art81_cpt_alt1_art11_omi1"/><Paragrafo xlink:href="art11_par3" id="art81_cpt_alt1_art11_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O poder público competente deverá vistoriar e cadastrar os estabelecimentos existentes nas vias que poderão ser reconhecidos como ponto de parada e de descanso.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art82">
+            
+            
+            <Rotulo>Art. 82.</Rotulo>
+            
+            <Caput id="art82_cpt">
+            
+            
+            
+            <p>Fica instituída a Comissão Permanente do Transporte Rodoviário de Cargas (CP-TRC), com o objetivo consultivo de suporte ao governo federal, para melhoria e sustentabilidade do setor de transporte rodoviário de cargas, por meio de estudos técnicos e da colaboração dos participantes do setor.</p>
+            
+          </Caput><Paragrafo id="art82_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A CP-TRC estará sob coordenação do Ministério dos Transportes, Portos e Aviação Civil e poderá realizar ações, atividades e projetos formulados e executados de forma participativa e integrada pelo referido Ministério, pelos representantes do setor de transporte rodoviário de cargas e por usuários desse serviço.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O prazo de instalação da CP-TRC será de 6 (seis) meses, contado da data de publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Caberá à CP-TRC:</p>
+            <Inciso id="art82_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>elaborar e manter constante atualização de planilhas de custo orientativas por área de transporte;</p>
+            
+          </Inciso><Inciso id="art82_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>sugerir melhoria para aperfeiçoamento técnico e operacional do setor de TRC;</p>
+            
+          </Inciso><Inciso id="art82_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>colaborar nos estudos de concessões, permissões e outorgas na área de infraestrutura do setor de TRC, inclusive de implantação e precificação de pedágios;</p>
+            
+          </Inciso><Inciso id="art82_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fiscalizar a administração, a precificação e a manutenção do bem público no setor de TRC privatizado, sob permissão, concessão ou outorga;</p>
+            
+          </Inciso><Inciso id="art82_par3_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estudar e propor programa de concessão de benefícios, como seguros contra perdas e garantia de trabalho, para o setor de transporte rodoviário de cargas, em caso de ocorrências regionais excepcionais, de origem climática ou não, de forma a atender aos transportadores que comprovadamente atuem nos fretes originados ou destinados à região atingida.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art82_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A CP-TRC terá a seguinte composição:</p>
+            <Inciso id="art82_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>1 (um) representante e 1 (um) suplente de cada Ministério a seguir indicado:</p>
+            <Alinea id="art82_par4_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>dos Transportes, Portos e Aviação Civil, que a coordenará;</p>
+            
+          </Alinea><Alinea id="art82_par4_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>das Cidades;</p>
+            
+          </Alinea><Alinea id="art82_par4_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>do Trabalho; e</p>
+            
+          </Alinea><Alinea id="art82_par4_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>da Justiça;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art82_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>1 (um) representante e 1 (um) suplente de cada instituição a seguir indicada:</p>
+            <Alinea id="art82_par4_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>ANTT;</p>
+            
+          </Alinea><Alinea id="art82_par4_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>Confederação Nacional do Transporte (CNT);</p>
+            
+          </Alinea><Alinea id="art82_par4_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>Confederação Nacional dos Transportadores Autônomos (CNTA);</p>
+            
+          </Alinea><Alinea id="art82_par4_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>Organização das Cooperativas Brasileiras (OCB);</p>
+            
+          </Alinea><Alinea id="art82_par4_inc2_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>Confederação Nacional dos Trabalhadores em Transportes Terrestres (CNTTT); e</p>
+            
+          </Alinea><Alinea id="art82_par4_inc2_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>Confederação Nacional dos Trabalhadores em Transportes e Logística (CNTTL);</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art82_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>até 4 (quatro) representantes de entidades representativas dos usuários de transporte rodoviário de cargas.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art82_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os representantes de que tratam os incisos I e II do § 4° deste artigo e seus suplentes serão indicados pelos titulares dos Ministérios e das instituições representadas.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Caberá ao Ministério dos Transportes, Portos e Aviação Civil a indicação das entidades representativas de que trata o inciso III do § 4° deste artigo e, a cada entidade, nomear seus representantes e suplentes.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A participação nas atividades da CP-TRC será considerada função relevante, não remunerada.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O Ministério dos Transportes, Portos e Aviação Civil poderá, excepcionalmente, convidar outros representantes de órgãos públicos e entidades privadas, com finalidade orientativa.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>As despesas decorrentes do desempenho da função de membros na CP-TRC correrão por conta das dotações dos Ministérios, instituições e segmentos representados.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Caberá ao Ministério dos Transportes, Portos e Aviação Civil a regulamentação do funcionamento da CP-TRC.</p>
+            
+          </Paragrafo><Paragrafo id="art82_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>Outras confederações do setor de transporte rodoviário de cargas que venham a receber registro sindical no Ministério do Trabalho após a vigência desta Lei passarão a integrar a relação do inciso II do § 4º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art83">
+            
+            
+            <Rotulo>Art. 83.</Rotulo>
+            
+            <Caput id="art83_cpt">
+            
+            
+            
+            <p>Os veículos automotores de carga e implementos rodoviários inscritos no RNTRC deverão adequar-se ao sistema de identificação veicular estabelecido por meio do acordo internacional do Mercosul do qual o Brasil seja signatário, na forma e prazo previstos nesse acordo, obedecidas as especificações complementares do Conselho Nacional de Trânsito (Contran), utilizado o Sistema Integrado de Informações de Segurança do Mercosul (Sisme/Infoseg) como sistema de consultas e de intercâmbio de informações sobre aspectos relativos à circulação de veículos nos Estados-Partes.</p>
+            
+          </Caput><Paragrafo id="art83_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A ANTT deverá divulgar, em até 60 (sessenta) dias, cronograma a fim de viabilizar o cumprimento do disposto no caput deste artigo em até 1 (um) ano, a partir da publicação desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art84">
+            
+            
+            <Rotulo>Art. 84.</Rotulo>
+            
+            <Caput id="art84_cpt">
+            
+            
+            
+            <p>É obrigatória a identificação eletrônica do veículo automotor de carga e implemento rodoviário inscrito no RNTRC, na forma a ser estabelecida pela ANTT, mediante instalação de Dispositivo de Identificação Eletrônica (DIE), cabendo ao transportador:</p>
+            <Inciso id="art84_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>adquirir o DIE, que é único e exclusivo por veículo automotor de carga e por implemento rodoviário;</p>
+            
+          </Inciso><Inciso id="art84_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>providenciar a instalação do DIE, mediante agendamento, em pontos habilitados pela ANTT;</p>
+            
+          </Inciso><Inciso id="art84_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>garantir a manutenção do DIE, a fim de assegurar sua inviolabilidade e adequado funcionamento;</p>
+            
+          </Inciso><Inciso id="art84_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>substituir, imediatamente, o DIE em caso de inutilização ou mau funcionamento, seja qual for o motivo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art84_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em caso de problemas técnicos no dispositivo por defeitos de fabricação ou baixa resistência, a substituição de que trata o inciso IV do caput deste artigo será feita pelo fornecedor do dispositivo sem ônus para o transportador.</p>
+            
+          </Paragrafo><Paragrafo id="art84_par2">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art115_par9-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O DIE poderá estar integrado às placas veiculares no padrão do Mercosul, dispensado, nesse caso, o uso do lacre de segurança, conforme previsto no <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art115_par9">§ 9º do art. 115 da Lei nº 9.503, de 23 setembro de 1997</span> (Código de Trânsito Brasileiro).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art85">
+            
+            
+            <Rotulo>Art. 85.</Rotulo>
+            
+            <Caput id="art85_cpt">
+            
+            
+            
+            <p>Será cassada a eficácia a inscrição no CNPJ do posto revendedor de combustíveis automotivos que utilizar qualquer dispositivo mecânico ou eletrônico, acionado por controle remoto ou não, que acarrete o fornecimento ao consumidor de volume de combustível diverso do indicado na bomba medidora, observadas as variações volumétricas permitidas pelo órgão metrológico competente.</p>
+            
+          </Caput><Paragrafo id="art85_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Será cassada também a eficácia da inscrição do posto revendedor que utilizar qualquer dispositivo que acarrete, na totalização do valor cobrado do consumidor, preço diverso do indicado na bomba medidora.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art86">
+            
+            
+            <Rotulo>Art. 86.</Rotulo>
+            
+            <Caput id="art86_cpt">
+            
+            
+            
+            <p>A cassação da eficácia da inscrição, prevista no art. 85 desta Lei, implicará ao estabelecimento e empresa penalizados o impedimento de requerer nova inscrição no CNPJ no mesmo ramo de atividade pelo prazo de 5 (cinco) anos, contado da data da cassação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art87">
+            
+            
+            <Rotulo>Art. 87.</Rotulo>
+            
+            <Caput id="art87_cpt">
+            
+            
+            
+            <p>A cassação da eficácia da inscrição, prevista no art. 85 desta Lei, implicará aos sócios do estabelecimento e empresa penalizados, pessoas físicas ou jurídicas, o impedimento de exercerem o mesmo ramo de atividade, mesmo que em estabelecimento distinto daquele, pelo prazo de 5 (cinco) anos, contado da data da cassação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art88">
+            
+            
+            <Rotulo>Art. 88.</Rotulo>
+            
+            <Caput id="art88_cpt">
+            <!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art2--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art4--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art5-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art2">arts. 2º</span>, <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art4">4º</span> e <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art5">5º da Lei nº 11.442, de 5 de janeiro de 2007</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2007-01-05;11442" id="art88_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2007-01-05;11442 -> MatchByBase(urn:lex:br:federal:lei:2007-01-05;11442,2007,Some((1,5)),Map(art5_par1 -> PrefixMatch(URN(2007,Some((1,5)),art5,urn:lex:br:federal:lei:2007-01-05;11442!art5),art5_par1), art2_cpt_inc1 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_cpt_inc1), art4_par5 -> PrefixMatch(URN(2007,Some((1,5)),art4,urn:lex:br:federal:lei:2007-01-05;11442!art4),art4_par5), art4_par3 -> PrefixMatch(URN(2007,Some((1,5)),art4,urn:lex:br:federal:lei:2007-01-05;11442!art4),art4_par3), art2_par1_inc2 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par1_inc2), art4 -> ExactMatch(URN(2007,Some((1,5)),art4,urn:lex:br:federal:lei:2007-01-05;11442!art4)), art2_par3 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par3), art2_par2_inc3 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par2_inc3), art2_par1 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par1), art2 -> ExactMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2)), art2_par2 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par2), art2_par2_inc4 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par2_inc4), art4_cpt -> PrefixMatch(URN(2007,Some((1,5)),art4,urn:lex:br:federal:lei:2007-01-05;11442!art4),art4_cpt), art2_cpt -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_cpt), art2_par2_inc1 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par2_inc1), art4_par1 -> PrefixMatch(URN(2007,Some((1,5)),art4,urn:lex:br:federal:lei:2007-01-05;11442!art4),art4_par1), art2_par1_inc1 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par1_inc1), art5_cpt -> PrefixMatch(URN(2007,Some((1,5)),art5,urn:lex:br:federal:lei:2007-01-05;11442!art5),art5_cpt), art2_par2_inc2 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par2_inc2), art2_par5 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par5), art4_par4 -> PrefixMatch(URN(2007,Some((1,5)),art4,urn:lex:br:federal:lei:2007-01-05;11442!art4),art4_par4), art2_cpt_inc2 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_cpt_inc2), art5 -> ExactMatch(URN(2007,Some((1,5)),art5,urn:lex:br:federal:lei:2007-01-05;11442!art5)), art4_par2 -> PrefixMatch(URN(2007,Some((1,5)),art4,urn:lex:br:federal:lei:2007-01-05;11442!art4),art4_par2), art2_par4 -> PrefixMatch(URN(2007,Some((1,5)),art2,urn:lex:br:federal:lei:2007-01-05;11442!art2),art2_par4)))))-->
+              <Artigo xlink:href="art2" id="art88_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art88_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>A atividade econômica de que trata o art. 1º desta Lei é de natureza comercial, exercida por pessoa física ou jurídica em regime de livre concorrência, e depende de prévia inscrição do interessado em sua exploração no Registro Nacional de Transportadores Rodoviários de Cargas (RNTR-C) da Agência Nacional de Transportes Terrestres (ANTT).</p>
+            <Inciso xlink:href="art2_cpt_inc1" id="art88_cpt_alt1_art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art2_cpt_inc2" id="art88_cpt_alt1_art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>(revogado).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art2_par1" id="art88_cpt_alt1_art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Transportador Autônomo de Cargas (TAC) é a pessoa física que exerce habitualmente atividade principal de transporte rodoviário de cargas, por sua conta e risco, como proprietária, coproprietária ou arrendatária, em qualquer caso, de, no mínimo, 1 (um) e, no máximo, 3 (três) veículos automotores de carga, registrados no órgão de trânsito na categoria de aluguel.</p>
+            <Inciso xlink:href="art2_par1_inc1" id="art88_cpt_alt1_art2_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art2_par1_inc2" id="art88_cpt_alt1_art2_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>(revogado).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art2_par2" id="art88_cpt_alt1_art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Empresa de Transporte Rodoviário de Cargas (ETC) é a pessoa jurídica que tem no transporte rodoviário de cargas sua atividade principal e é proprietária de, no mínimo, 11 (onze) veículos automotores de carga ou de frota de veículos automotores cuja capacidade somada de transporte seja de, no mínimo, 180 (cento e oitenta) toneladas de capacidade dinâmica, registrados em seu nome no órgão de trânsito na categoria de aluguel.</p>
+            <Inciso xlink:href="art2_par2_inc1" id="art88_cpt_alt1_art2_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art2_par2_inc2" id="art88_cpt_alt1_art2_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art2_par2_inc3" id="art88_cpt_alt1_art2_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Inciso xlink:href="art2_par2_inc4" id="art88_cpt_alt1_art2_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>(revogado).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art2_par3" id="art88_cpt_alt1_art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par4" id="art88_cpt_alt1_art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art2_par5" id="art88_cpt_alt1_art2_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art4" id="art88_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art88_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>Em caso de subcontratação, o contrato a ser celebrado entre o transportador contratante e o subcontratado definirá a forma de prestação de serviço do subcontratado como agregado ou independente.</p>
+            
+          </Caput><Paragrafo xlink:href="art4_par1" id="art88_cpt_alt1_art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Denomina-se agregado o TAC que coloca, com exclusividade, mesmo que periodicamente, veículo de sua propriedade ou de sua posse, a ser dirigido por ele próprio ou por seu preposto, a serviço do contratante, mediante remuneração certa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par2" id="art88_cpt_alt1_art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Denomina-se independente o TAC que presta serviços de transporte de carga em caráter eventual e sem exclusividade, mediante frete ajustado a cada viagem.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par3" id="art88_cpt_alt1_art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par4" id="art88_cpt_alt1_art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art4_par5" id="art88_cpt_alt1_art4_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art5" id="art88_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art88_cpt_alt1_art5_cpt">
+            
+            
+            
+            <p>A relação decorrente do contrato de transporte de cargas de que trata o art. 4º desta Lei, com exclusividade ou não, ainda que de caráter habitual, é sempre de natureza empresarial e comercial, não constitui relação de trabalho e, portanto, não enseja, em nenhuma hipótese, a caracterização de vínculo de emprego.</p>
+            
+          </Caput><Paragrafo xlink:href="art5_par1u" id="art88_cpt_alt1_art5_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Compete somente à justiça comum o julgamento de ações oriundas dos contratos de transporte de cargas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art89">
+            
+            
+            <Rotulo>Art. 89.</Rotulo>
+            
+            <Caput id="art89_cpt">
+            
+            
+            
+            <p>Ficam asseguradas aos que, na data de publicação desta Lei, já exercem a atividade de transporte rodoviário de cargas a inscrição no RNTRC e a continuação de suas atividades, observadas as disposições desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art90">
+            
+            
+            <Rotulo>Art. 90.</Rotulo>
+            
+            <Caput id="art90_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art91">
+            
+            
+            <Rotulo>Art. 91.</Rotulo>
+            
+            <Caput id="art91_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1975-12-26;1438--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art19--><!--Link: urn:lex:br:federal:lei:1984-12-19;7290--><!--Link: urn:lex:br:federal:lei:2012-06-15;12667--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art6--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art21--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art1_par1--><!--Link: urn:lex:br:federal:lei:2001-03-23;10209--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art3--><!--Link: urn:lex:br:federal:lei:2007-01-05;11442!art22--><!--Link: urn:lex:br:federal:decreto.lei:1977-11-17;1582--><!--Link: urn:lex:br:federal:decreto.lei:1967-02-28;284-->
+            
+            
+            <p>Ficam revogados os <span xlink:href="urn:lex:br:federal:decreto.lei:1967-02-28;284">Decretos-Lei nºs 284, de 28 de fevereiro de 1967</span>, <span xlink:href="urn:lex:br:federal:decreto.lei:1975-12-26;1438">1.438, de 26 de dezembro de 1975</span>, e <span xlink:href="urn:lex:br:federal:decreto.lei:1977-11-17;1582">1.582, de 17 de novembro de 1977</span>, as <span xlink:href="urn:lex:br:federal:lei:1984-12-19;7290">Leis nºs 7.290, de 19 de dezembro de 1984</span>, <span xlink:href="urn:lex:br:federal:lei:2001-03-23;10209">10.209, de 23 de março de 2001</span>, e <span xlink:href="urn:lex:br:federal:lei:2012-06-15;12667">12.667, de 15 de junho de 2012</span>, e o <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art1_par1">§ 1º do art. 1º</span>, o <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art3">art. 3º</span> e <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art6">os arts. 6º</span> a <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art19">19</span>, <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art21">21</span> e <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11442!art22">22 da Lei n° 11.442, de 5 de janeiro de 2007</span>.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

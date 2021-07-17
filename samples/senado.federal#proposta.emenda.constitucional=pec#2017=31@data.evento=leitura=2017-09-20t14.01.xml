@@ -1,0 +1,94 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;31@data.evento;leitura;2017-09-20t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 31 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dá nova redação aos arts. 103 e 109, para dispor sobre a legitimidade do Defensor Público-Geral Federal para a ação direta de inconstitucionalidade, a ação declaratória de constitucionalidade e o incidente de deslocamento de competência para a Justiça Federal.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art103-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art103">art. 103 da Constituição Federal</span> passa a vigorar acrescido do seguinte inciso X:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art103 -> ExactMatch(URN(1988,Some((10,5)),art103,urn:lex:br:federal:constituicao:1988-10-05;1988!art103)), art103_cpt -> PrefixMatch(URN(1988,Some((10,5)),art103,urn:lex:br:federal:constituicao:1988-10-05;1988!art103),art103_cpt), art103_cpt_inc10 -> PrefixMatch(URN(1988,Some((10,5)),art103,urn:lex:br:federal:constituicao:1988-10-05;1988!art103),art103_cpt_inc10)))))-->
+              <Artigo xlink:href="art103" id="art1_cpt_alt1_art103" abreAspas="s">
+            
+            
+            <Rotulo>Art. 103.</Rotulo>
+            
+            <Caput xlink:href="art103_cpt" id="art1_cpt_alt1_art103_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art103_cpt_omi1"/><Inciso xlink:href="art103_cpt_inc10" id="art1_cpt_alt1_art103_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>o Defensor Público-Geral Federal.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art103_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art109_par5-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art109_par5">§ 5º do art. 109 da Constituição Federal</span> passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art109 -> SuperPrefixMatch(URN(1988,Some((10,5)),art109_par5,urn:lex:br:federal:constituicao:1988-10-05;1988!art109_par5),art109), art109_cpt -> SuperPrefixMatch(URN(1988,Some((10,5)),art109_par5,urn:lex:br:federal:constituicao:1988-10-05;1988!art109_par5),art109_cpt), art109_par5 -> ExactMatch(URN(1988,Some((10,5)),art109_par5,urn:lex:br:federal:constituicao:1988-10-05;1988!art109_par5))))))-->
+              <Artigo xlink:href="art109" id="art2_cpt_alt1_art109" abreAspas="s">
+            
+            
+            <Rotulo>Art. 109.</Rotulo>
+            
+            <Caput xlink:href="art109_cpt" id="art2_cpt_alt1_art109_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art109_omi1"/><Paragrafo xlink:href="art109_par5" id="art2_cpt_alt1_art109_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p> Nas hipóteses de grave violação de direitos humanos, o Procurador- Geral da República e o Defensor Público-Geral Federal, com a finalidade de assegurar o cumprimento de obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte, poderão suscitar, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, incidente de deslocamento da competência para a Justiça Federal</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

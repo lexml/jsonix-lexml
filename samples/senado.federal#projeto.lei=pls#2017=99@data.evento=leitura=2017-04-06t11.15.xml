@@ -1,0 +1,136 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;99@data.evento;leitura;2017-04-06t11.15"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 99 DE 2017</Epigrafe>
+      <Ementa id="ementa">Disciplina a veiculação de publicidade comercial nos serviços de radiodifusão sonora e de sons e imagens explorados por entidades estatais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei disciplina a veiculação de publicidade comercial nos serviços de radiodifusão sonora e de sons e imagens explorados por entidades estatais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os serviços de radiodifusão sonora e de sons e imagens explorados por entidades estatais das esferas federal, estadual e municipal poderão veicular, em sua programação, por tempo não superior a cinquenta por cento do total e mediante remuneração, peças publicitárias comerciais de entidades de direito público e de direito privado, inclusive anúncios de produtos e de serviços.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A remuneração obtida com a veiculação de publicidade comercial deverá custear, no mínimo, 50% (cinquenta por cento) da programação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:2008-04-07;11652!art11-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2008-04-07;11652!art11">art. 11, da Lei nº 11.652, de 7 de abril de 2008</span>, passa a viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2008-04-07;11652" id="art4_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2008-04-07;11652 -> MatchByBase(urn:lex:br:federal:lei:2008-04-07;11652,2008,Some((4,7)),Map(art11 -> ExactMatch(URN(2008,Some((4,7)),art11,urn:lex:br:federal:lei:2008-04-07;11652!art11)), art11_cpt -> PrefixMatch(URN(2008,Some((4,7)),art11,urn:lex:br:federal:lei:2008-04-07;11652!art11),art11_cpt), art11_cpt_inc7 -> PrefixMatch(URN(2008,Some((4,7)),art11,urn:lex:br:federal:lei:2008-04-07;11652!art11),art11_cpt_inc7)))))-->
+              <Artigo xlink:href="art11" id="art4_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art4_cpt_alt1_art11_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art4_cpt_alt1_art11_cpt_omi1"/><Inciso xlink:href="art11_cpt_inc7" id="art4_cpt_alt1_art11_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>de publicidade institucional de entidades de direito público e de direito privado, bem como de publicidade comercial.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art4_cpt_alt1_art11_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-05-15;9637!art19-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-05-15;9637!art19">art. 19, da Lei nº 9.637, de 15 de maio de 1998</span>, passa a viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-05-15;9637" id="art5_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-05-15;9637 -> MatchByBase(urn:lex:br:federal:lei:1998-05-15;9637,1998,Some((5,15)),Map(art19 -> ExactMatch(URN(1998,Some((5,15)),art19,urn:lex:br:federal:lei:1998-05-15;9637!art19)), art19_cpt -> PrefixMatch(URN(1998,Some((5,15)),art19,urn:lex:br:federal:lei:1998-05-15;9637!art19),art19_cpt)))))-->
+              <Artigo xlink:href="art19" id="art5_cpt_alt1_art19" abreAspas="s">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput xlink:href="art19_cpt" id="art5_cpt_alt1_art19_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>As entidades que absorverem atividades de rádio e televisão educativa poderão receber recursos e veicular publicidade institucional de entidades de direito público ou privado, bem como publicidade comercial.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:lei:2011-09-12;12485!art32_par5-->
+            
+            
+            <p>Fica revogado o <span xlink:href="urn:lex:br:federal:lei:2011-09-12;12485!art32_par5">§ 5º, do art. 32, da Lei nº 12.485, de 12 de setembro de 2011</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor a partir da sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

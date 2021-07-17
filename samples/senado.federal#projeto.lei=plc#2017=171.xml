@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;171"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 171 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394!art12">art. 12 da Lei nº 9.394, de 20 de dezembro de 1996</span>, para incluir a promoção de medidas de conscientização, de prevenção e de combate a todos os tipos de violência e a promoção da cultura de paz entre as incumbências dos estabelecimentos de ensino.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394!art12_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394!art12_cpt">caput do art. 12 da Lei nº 9.394, de 20 de dezembro de 1996</span>, passa a vigorar acrescido dos seguintes incisos IX e X:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-12-20;9394" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-12-20;9394 -> MatchByBase(urn:lex:br:federal:lei:1996-12-20;9394,1996,Some((12,20)),Map(art12 -> SuperPrefixMatch(URN(1996,Some((12,20)),art12_cpt,urn:lex:br:federal:lei:1996-12-20;9394!art12_cpt),art12), art12_cpt -> ExactMatch(URN(1996,Some((12,20)),art12_cpt,urn:lex:br:federal:lei:1996-12-20;9394!art12_cpt)), art12_cpt_inc9 -> PrefixMatch(URN(1996,Some((12,20)),art12_cpt,urn:lex:br:federal:lei:1996-12-20;9394!art12_cpt),art12_cpt_inc9), art12_cpt_inc10 -> PrefixMatch(URN(1996,Some((12,20)),art12_cpt,urn:lex:br:federal:lei:1996-12-20;9394!art12_cpt),art12_cpt_inc10)))))-->
+              <Artigo xlink:href="art12" id="art1_cpt_alt1_art12" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput xlink:href="art12_cpt" id="art1_cpt_alt1_art12_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art12_cpt_omi1"/><Inciso xlink:href="art12_cpt_inc9" id="art1_cpt_alt1_art12_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>promover medidas de conscientização, de prevenção e de combate a todos os tipos de violência, especialmente a intimidação sistemática (bullying), no âmbito das escolas;</p>
+            
+          </Inciso><Inciso xlink:href="art12_cpt_inc10" id="art1_cpt_alt1_art12_cpt_inc10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>estabelecer ações destinadas a promover a cultura de paz nas escolas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

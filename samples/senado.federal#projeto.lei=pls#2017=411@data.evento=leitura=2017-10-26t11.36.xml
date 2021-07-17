@@ -1,0 +1,100 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;411@data.evento;leitura;2017-10-26t11.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 411 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2003-12-01;10792">Lei nº 10.792, de 1º de dezembro de 2003</span>, que altera a <span xlink:href="urn:lex:br:federal:lei:1984-06-11;7210">Lei nº 7.210, de 11 de junho de 1984</span> - Lei de Execução Penal, o <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689">Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> - Código de Processo Penal e dá outras providências, e o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> – Código Penal, para determinar às prestadoras de serviços de telecomunicações a adoção de medidas para restringir o acesso a suas redes em estabelecimentos penitenciários e em outros locais em que o acesso for restrito por lei, e dar outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-12-01;10792--><!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:2003-12-01;10792">Lei nº 10.792, de 1º de dezembro de 2003</span> e o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span>, para determinar a responsabilidade das prestadoras de serviços de telecomunicações pela instalação de bloqueadores de sinais nos estabelecimentos penitenciários e tipificar o crime de uso indevido de aparelho telefônico, rádio ou similar.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2003-12-01;10792!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2003-12-01;10792!art4">art. 4º da Lei nº 10.792, de 1º de dezembro de 2003</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2003-12-01;10792" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2003-12-01;10792 -> MatchByBase(urn:lex:br:federal:lei:2003-12-01;10792,2003,Some((12,1)),Map(art4 -> ExactMatch(URN(2003,Some((12,1)),art4,urn:lex:br:federal:lei:2003-12-01;10792!art4)), art4_cpt -> PrefixMatch(URN(2003,Some((12,1)),art4,urn:lex:br:federal:lei:2003-12-01;10792!art4),art4_cpt), art4_par1 -> PrefixMatch(URN(2003,Some((12,1)),art4,urn:lex:br:federal:lei:2003-12-01;10792!art4),art4_par1)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>As prestadoras de serviços de telecomunicações adotarão as medidas necessárias para restringir o acesso a suas redes em estabelecimentos penitenciários, especialmente nos destinados ao regime disciplinar diferenciado, e em outros locais em que o acesso for restrito por lei.</p>
+            
+          </Caput><Paragrafo xlink:href="art4_par1u" id="art2_cpt_alt1_art4_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A restrição de acesso poderá ser efetuada por meio de bloqueadores de sinais de radiocomunicações ou de outras soluções tecnológicas equivalentes.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> passa a vigorar acrescido do seguinte art. 354-A: Uso indevido de aparelho telefônico, rádio ou similar</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art354-1 -> PrefixMatch(URN(1940,Some((12,7)),,urn:lex:br:federal:decreto.lei:1940-12-07;2848),art354-1), art354-1_cpt -> PrefixMatch(URN(1940,Some((12,7)),,urn:lex:br:federal:decreto.lei:1940-12-07;2848),art354-1_cpt)))))-->
+              <Artigo xlink:href="art354-1" id="art3_cpt_alt1_art354-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 354-A.</Rotulo>
+            
+            <Caput xlink:href="art354-1_cpt" id="art3_cpt_alt1_art354-1_cpt">
+            
+            
+            
+            <p>Receber, possuir ou fazer uso o preso de aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo fora das hipóteses admitidas em lei:</p>
+            
+          </Caput>
+          </Artigo><p> Pena: detenção, de 3 (três) meses a 1 (um) ano</p>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos noventa dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

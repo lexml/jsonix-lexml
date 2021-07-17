@@ -1,0 +1,307 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;429@data.evento;leitura;2017-11-01t11.22"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 429 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096">Lei nº 9.096, de 19 de setembro de 1995</span>, que dispõe sobre partidos políticos, regulamenta os <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art14_par3_inc5">arts. 14, § 3º, inciso V</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art17">17, da Constituição Federal</span>, a fim de aplicar aos partidos políticos as normas sobre programa de integridade.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-09-19;9096-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096">Lei nº 9.096, de 19 de setembro de 1995</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-09-19;9096" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-09-19;9096 -> MatchByBase(urn:lex:br:federal:lei:1995-09-19;9096,1995,Some((9,19)),Map(art15-2_cpt_inc12 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc12), art37-3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-3), art15-2_cpt_inc13 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc13), art22_cpt_inc6 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art22_cpt_inc6), art15-3_par2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-3_par2), art15-2_cpt_inc2_ali1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc2_ali1), art15-2_cpt_inc6 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc6), art37-3_cpt_inc1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-3_cpt_inc1), art37-4 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-4), art15-2_cpt_inc1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc1), art37-4_par1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-4_par1), art15-3_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-3_cpt), art15-2_cpt_inc11 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc11), art37-3_cpt_inc2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-3_cpt_inc2), art15-2_cpt_inc7 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc7), art15-3_cpt_inc1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-3_cpt_inc1), art15-2_par1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_par1), art37-2_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-2_cpt), art15-3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-3), art15-2_par1_inc1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_par1_inc1), art15-2_cpt_inc9 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc9), art22_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art22_cpt), art15-2_par1_inc2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_par1_inc2), art15-2_par2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_par2), art15-2_cpt_inc4 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc4), art15-2_cpt_inc10 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc10), art15-2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2), art15-2_cpt_inc15 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc15), art15-3_cpt_inc3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-3_cpt_inc3), art15-2_par1_inc3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_par1_inc3), art15-2_cpt_inc3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc3), art15-2_cpt_inc8 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc8), art22 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art22), art15-2_cpt_inc2_ali2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc2_ali2), art37-3_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-3_cpt), art15-3_par1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-3_par1), art15-2_cpt_inc14 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc14), art15-3_cpt_inc2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-3_cpt_inc2), art37-3_par1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-3_par1), art15-2_cpt_inc2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc2), art37-4_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-4_cpt), art15-2_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt), art15-2_cpt_inc5 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art15-2_cpt_inc5), art37-2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-2)))))-->
+              <Artigo xlink:href="art15-2" id="art1_cpt_alt1_art15-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 15-B.</Rotulo>
+            
+            <Caput xlink:href="art15-2_cpt" id="art1_cpt_alt1_art15-2_cpt">
+            
+            
+            
+            <p>O Estatuto do partido deve prever a existência de programa de integridade, nos termos do art. 37-B desta Lei, e que será avaliado, quanto a sua existência e efetividade, de acordo com os seguintes parâmetros:</p>
+            <Inciso xlink:href="art15-2_cpt_inc1" id="art1_cpt_alt1_art15-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>comprometimento da alta direção de todos os órgãos do partido, incluídos os dirigentes partidários, conforme definido no estatuto;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc2" id="art1_cpt_alt1_art15-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>padrões de conduta, código de ética, políticas e procedimentos de integridade, aplicáveis:</p>
+            <Alinea xlink:href="art15-2_cpt_inc2_ali1" id="art1_cpt_alt1_art15-2_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a todos os filiados, colaboradores e administradores, independentemente de cargo ou função exercidos;</p>
+            
+          </Alinea><Alinea xlink:href="art15-2_cpt_inc2_ali2" id="art1_cpt_alt1_art15-2_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a terceiros, tais como, fornecedores, prestadores de serviço e agentes intermediários;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc3" id="art1_cpt_alt1_art15-2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>treinamentos periódicos sobre o programa de integridade para filiados, empregados e dirigentes, com periodicidade não inferior a dois anos;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc4" id="art1_cpt_alt1_art15-2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>registros contábeis que reflitam de forma completa e precisa as transações do partido;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc5" id="art1_cpt_alt1_art15-2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>estrutura de controle interno que assegure segurança da realização dos objetivos relacionados a operações, divulgação e conformidade com a legislação em vigor e com as melhores práticas;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc6" id="art1_cpt_alt1_art15-2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>estrutura de auditoria interna, com avaliação independente e objetiva, capaz de analisar e melhorar a eficácia dos processos de controle e governança, garantindo a confiabilidade dos relatórios e demonstrações financeiras do partido;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc7" id="art1_cpt_alt1_art15-2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>independência, estrutura e autoridade da instância interna responsável pela aplicação do programa de integridade, monitoramento e fiscalização de seu cumprimento;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc8" id="art1_cpt_alt1_art15-2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>canais de denúncia de irregularidades, de preferência externos, amplamente divulgados a colaboradores, filiados e terceiros, e mecanismos destinados à proteção de denunciantes de boa-fé, inclusive mediante o sigilo da identidade;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc9" id="art1_cpt_alt1_art15-2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>procedimento padrão de investigações internas que assegure a pronta interrupção de irregularidades ou infrações detectadas e a tempestiva remediação dos danos gerados;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc10" id="art1_cpt_alt1_art15-2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>medidas disciplinares na hipótese de comprovada violação do programa de integridade, assegurada a ampla defesa, podendo o partido proceder à expulsão dos infratores, nos termos do inciso VI do art. 22 desta Lei;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc11" id="art1_cpt_alt1_art15-2_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>diligências apropriadas para contratação e, conforme o caso, supervisão de terceiros, tais como, fornecedores, prestadores de serviço e agentes intermediários;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc12" id="art1_cpt_alt1_art15-2_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>verificação, durante os processos de fusão e incorporação das agremiações partidárias, do cometimento de irregularidades ou ilícitos ou da existência de vulnerabilidades nos partidos políticos envolvidos;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc13" id="art1_cpt_alt1_art15-2_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>revisão periódica e monitoramento contínuo do programa de integridade;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc14" id="art1_cpt_alt1_art15-2_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>políticas específicas e detalhadas de integridade, no caso de gastos do partido considerados de maior vulnerabilidade quanto à ocorrência de irregularidades;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_cpt_inc15" id="art1_cpt_alt1_art15-2_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>realização de diligências apropriadas e transparência quanto às doações recebidas e consideradas de alto valor, com parâmetros a serem estabelecidos em resolução do TSE;</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art15-2_par1" id="art1_cpt_alt1_art15-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na avaliação de diligências apropriadas das doações consideradas de alto valor, serão consideradas, dentre outras, as seguintes especificidades:</p>
+            <Inciso xlink:href="art15-2_par1_inc1" id="art1_cpt_alt1_art15-2_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a origem dos recursos;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_par1_inc2" id="art1_cpt_alt1_art15-2_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o setor do mercado em que atua o doador, inclusive por meio das pessoas jurídicas da qual é proprietário, sócio, controlador, quotista, administrador ou beneficiário final;</p>
+            
+          </Inciso><Inciso xlink:href="art15-2_par1_inc3" id="art1_cpt_alt1_art15-2_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o grau de interação do doador com o setor público, inclusive por meio das pessoas jurídicas da qual é proprietário, sócio, controlador, quotista, administrador ou beneficiário final, e a importância de autorizações, licenças, permissões e concessões ou outros atos administrativos ou governamentais em suas operações;</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art15-2_par2" id="art1_cpt_alt1_art15-2_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Estatuto deverá prever, ainda, que a instância interna descrita no inciso VII se reporte diretamente ao Presidente do partido, ou ao Comitê de Ética, na hipótese de denúncia de eventual envolvimento do Presidente em irregularidades, ou quando este se furtar à obrigação de adotar medidas necessárias em relação à situação a ele relatada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art15-3" id="art1_cpt_alt1_art15-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 15-C.</Rotulo>
+            
+            <Caput xlink:href="art15-3_cpt" id="art1_cpt_alt1_art15-3_cpt">
+            
+            
+            
+            <p>Deverá ser elaborado e divulgado, nos termos dos incisos II e III do art. 15-B, Código de Conduta e Integridade, que disponha sobre:</p>
+            <Inciso xlink:href="art15-3_cpt_inc1" id="art1_cpt_alt1_art15-3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>princípios, valores e missão do partido político;</p>
+            
+          </Inciso><Inciso xlink:href="art15-3_cpt_inc2" id="art1_cpt_alt1_art15-3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>orientações para a prevenção de irregularidades e de conflitos de interesses; e</p>
+            
+          </Inciso><Inciso xlink:href="art15-3_cpt_inc3" id="art1_cpt_alt1_art15-3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>condutas vedadas aos integrantes ou colaboradores do partido.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art15-3_par1" id="art1_cpt_alt1_art15-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No ato da filiação partidária, todo novo filiado receberá uma via do Código de Conduta e Integridade, devendo firmar um termo de conhecimento de seu conteúdo e teor, o qual ficará arquivado no partido enquanto perdurar a sua filiação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art15-3_par2" id="art1_cpt_alt1_art15-3_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Partido oferecerá, bianualmente, treinamentos específicos sobre legislação eleitoral, controles internos, governança, padrões de conduta, código de ética, políticas e procedimentos de integridade, e demais temas relacionados às atividades do partido.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art22" id="art1_cpt_alt1_art22" abreAspas="s">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput xlink:href="art22_cpt" id="art1_cpt_alt1_art22_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art22_cpt_inc6" id="art1_cpt_alt1_art22_cpt_inc6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>violação do programa de integridade.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art37-2" id="art1_cpt_alt1_art37-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37-B.</Rotulo>
+            
+            <Caput xlink:href="art37-2_cpt" id="art1_cpt_alt1_art37-2_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Para fins do disposto nesta Lei, programa de integridade consiste, no âmbito de um partido político, no conjunto de mecanismos e procedimentos internos de integridade, controle, auditoria e incentivo à denúncia de irregularidades, e na aplicação efetiva de códigos de ética e de conduta, políticas e diretrizes, inclusive estendidas a terceiros, com o objetivo de detectar e sanar desvios, fraudes, irregularidades e atos ilícitos praticados ou atribuídos ao partido político.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art37-3" id="art1_cpt_alt1_art37-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37-C.</Rotulo>
+            
+            <Caput xlink:href="art37-3_cpt" id="art1_cpt_alt1_art37-3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997;9504!art96-->
+            
+            
+            <p>Constatada a falta de efetividade ou inexistência do programa de integridade pela Justiça Eleitoral, a partir de representação formulada nos termos do <span xlink:href="urn:lex:br:federal:lei:1997;9504!art96">art. 96, da Lei 9.504/97</span>, ficará o partido sujeito às seguintes sanções:</p>
+            <Inciso xlink:href="art37-3_cpt_inc1" id="art1_cpt_alt1_art37-3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>no caso de a falta de efetividade, suspensão do recebimento do Fundo Partidário, pelo período de três a doze meses;</p>
+            
+          </Inciso><Inciso xlink:href="art37-3_cpt_inc2" id="art1_cpt_alt1_art37-3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>no caso de inexistência de programa de integridade, suspensão do recebimento do fundo partidário pelo período de doze meses;</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art37-3_par1u" id="art1_cpt_alt1_art37-3_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>São legitimados para propor a representação prevista no caput, o Ministério Público e os Partidos Políticos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art37-4" id="art1_cpt_alt1_art37-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37-D.</Rotulo>
+            
+            <Caput xlink:href="art37-4_cpt" id="art1_cpt_alt1_art37-4_cpt">
+            
+            
+            
+            <p>O diretório nacional ficará isento das sanções a que se refere o art. 37-C no caso de comprovação da efetividade do seu programa de integridade, inclusive no que toca a aplicação de medidas de suspensão dos repasses aos diretórios estaduais e municipais, quando forem eles os responsáveis pela irregularidade ou pela ilicitude, e isso ficar constatado em procedimento interno de apuração.</p>
+            
+          </Caput><Paragrafo xlink:href="art37-4_par1u" id="art1_cpt_alt1_art37-4_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na avaliação dos órgãos de direção estadual ou municipal, não serão exigidos os incisos III, V, VI, VII, XII, XIII e XIV do art. 15-B.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor um ano após a sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

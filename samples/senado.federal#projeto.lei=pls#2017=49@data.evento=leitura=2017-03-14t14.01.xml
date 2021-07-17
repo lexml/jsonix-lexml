@@ -1,0 +1,55 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;49@data.evento;leitura;2017-03-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 49 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2006-02-23;11282">Lei nº 11.282, de 23 de fevereiro de 2006</span>, que anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos – ECT punidos em razão da participação em movimento grevista.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-02-23;11282!art1_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2006-02-23;11282!art1_cpt">caput do art. 1º da Lei nº 11.282, de 23 de fevereiro de 2006</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-02-23;11282" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-02-23;11282 -> MatchByBase(urn:lex:br:federal:lei:2006-02-23;11282,2006,Some((2,23)),Map(art1 -> SuperPrefixMatch(URN(2006,Some((2,23)),art1_cpt,urn:lex:br:federal:lei:2006-02-23;11282!art1_cpt),art1), art1_cpt -> ExactMatch(URN(2006,Some((2,23)),art1_cpt,urn:lex:br:federal:lei:2006-02-23;11282!art1_cpt))))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt">
+            
+            
+            
+            <p>É concedida anistia aos trabalhadores da Empresa Brasileira de Correios e Telégrafos – ECT que, no período compreendido entre 5 de outubro de 1988 e 31 de dezembro de 2016, sofreram punições, dispensas e alterações unilaterais contratuais em razão da participação em movimento reivindicatório.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,226 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;81@data.evento;leitura;2017-03-29t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 81 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a relação entre o Tesouro Nacional e o Banco Central do Brasil, nos termos do disposto nos arts. 163, 164, 165, § 9º, e 192 da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!par9--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!cpt_inc2-->
+            
+            
+            <p>Esta Lei Complementar dispõe sobre as relações financeiras entre o Tesouro Nacional e o Banco Central do Brasil, nos termos dos arts. 163, 164, e 165, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!par9">§ 9º</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!cpt_inc2">inciso II, da Constituição Federal</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>As disponibilidades de caixa da União depositadas no Banco Central do Brasil serão remuneradas pela taxa média aritmética ponderada da rentabilidade intrínseca dos títulos da dívida pública mobiliária federal interna de emissão do Tesouro Nacional em poder do Banco Central do Brasil.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>É vedado ao Banco Central do Brasil conceder, direta ou indiretamente, empréstimo ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Banco Central do Brasil poderá comprar e vender títulos de emissão do Tesouro Nacional no mercado secundário, com o objetivo exclusivo de regular a oferta de moeda e a taxa de juros.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art29_cpt_inc3-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A vedação contida no caput compreende toda e qualquer operação de crédito, conforme definição contida no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art29_cpt_inc3">art. 29, inciso III, da Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se o montante dos títulos que compõem a carteira do Banco Central do Brasil for insuficiente para os fins da política monetária, o Presidente do Banco Central do Brasil solicitará, mediante justificação formal, autorização ao Congresso Nacional para obter, junto ao Ministério da Fazenda, o montante de títulos da dívida pública mobiliária federal necessário para restabelecer o nível adequado da carteira do Banco Central do Brasil.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os títulos cedidos nos termos do § 3º terão características adequadas para a execução da política monetária, a juízo da Diretoria do Banco Central do Brasil, e não implicarão contrapartida pecuniária para o Tesouro Nacional, que os cederá a título de aumento da capital.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A justificação a que se refere o § 3º conterá os fundamentos técnicos que demonstrem a necessidade da operação, bem como a memória de cálculo relativa ao montante de títulos solicitado.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O Congresso Nacional deliberará apenas pela aprovação ou rejeição da solicitação, sem emendá-la, no prazo máximo de noventa dias após o recebimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O resultado apurado no balanço anual do Banco Central do Brasil, após computadas eventuais constituições ou reversões de reservas, será considerado:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>se positivo, obrigação do Banco Central do Brasil para com a União, devendo ser objeto de pagamento até o décimo dia útil subsequente ao da aprovação do balanço;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>se negativo, obrigação da União para com o Banco Central do Brasil, devendo ser objeto de pagamento até o décimo dia útil do exercício subsequente ao da aprovação do balanço.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A receita da União proveniente do resultado positivo do Banco Central será destinada exclusivamente ao pagamento de encargos da dívida pública federal, preferencialmente aquela existente junto a pessoas físicas e jurídicas de direito privado que não sejam controladas, direta ou indiretamente, pela União.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A constituição e a reversão de reservas de lucros do Banco Central do Brasil obedecerão exclusivamente a critérios técnicos e contábeis, observarão as respectivas finalidades específicas e serão devidamente registradas nas suas demonstrações contábeis.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O pagamento de que trata o inciso II do caput poderá ser realizado por meio de títulos da dívida pública mobiliária federal adequados à condução da política monetária.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O valor da reavaliação de ativos relativa a reservas mantidas em moeda estrangeira será lançado em subconta específica e segregada no patrimônio líquido do Banco Central do Brasil e não integrará o resultado do exercício.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O disposto no art. 5º aplica-se igualmente ao resultado das operações com moeda estrangeira efetivamente realizadas, inclusive os resultados das operações com derivativos cambiais.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As subcontas previstas no art. 5º e no caput deste artigo não se confundem.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caso a subconta de que trata o caput assuma valor negativo no encerramento do exercício, seu valor constituirá obrigação da União para com o Banco Central do Brasil, devendo ser objeto de pagamento até o décimo dia útil do exercício subsequente ao da aprovação do balanço.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O pagamento a ser realizado nos termos do § 2º poderá ser efetuado em títulos, nos termos do § 3º do art. 4º, e compensado, total ou parcialmente, com o resultado positivo do Banco, se houver.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Caso um resultado negativo da subconta de que trata o caput coloque em risco as operações do Banco Central do Brasil antes do encerramento do exercício, o Presidente do Banco poderá enviar ao Congresso Nacional solicitação formal, nos termos do disposto nos §§ 3º, 5º e 6º do art. 3º desta Lei Complementar, para obter autorização para aporte extraordinário de recursos.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Eventuais saldos positivos das subcontas de que tratam o art. 5º e o caput deste artigo permanecerão indefinidamente no patrimônio líquido do Banco Central do Brasil e não serão distribuídos ao Tesouro Nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Ficam revogados:</p>
+            <Inciso id="art7_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:2008-11-05;11803-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>os arts. 3º a 6º da <span xlink:href="urn:lex:br:federal:lei:2008-11-05;11803">Lei nº 11.803, de 5 de novembro de 2008</span>;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art7_cpt--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art7_par1-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>o <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art7_cpt">caput</span> e o <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art7_par1">§ 1º do art. 7º da Lei Complementar nº 101, de 4 de maio de 2000</span>; e</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            <!--Link: urn:lex:br:federal:medida.provisoria:2001-08-24;2179-36-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>os arts. 1º a 3º da <span xlink:href="urn:lex:br:federal:medida.provisoria:2001-08-24;2179-36">Medida Provisória nº 2.179-36, de 24 de agosto de 2001</span>.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,181 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;13@data.evento;leitura;2017-02-07t14.03"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 13 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Lei nº 9.504, de 30 de setembro de 1997</span>, para ampliar o tempo de propaganda eleitoral nas eleições proporcionais e vedar a utilização de imagens externas, montagens e trucagens.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-30;9504-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Lei nº 9.504, de 30 de setembro de 1997</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-30;9504" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-30;9504 -> MatchByBase(urn:lex:br:federal:lei:1997-09-30;9504,1997,Some((9,30)),Map(art47_par1_inc2_ali1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc2_ali1), art47_par1_inc4_ali1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc4_ali1), art51 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art51), art47_par1_inc5_ali2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc5_ali2), art47_par1_inc5_ali1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc5_ali1), art47_par10 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par10), art47_par1_inc2_ali2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc2_ali2), art47_par1_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc4), art47_par1_inc5 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc5), art47_par1_inc5_ali3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc5_ali3), art47_par1_inc4_ali2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc4_ali2), art47_par1_inc4_ali4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc4_ali4), art47_par1_inc8 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc8), art47_par1_inc6 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc6), art51_cpt_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art51_cpt_inc4), art47_par1_inc5_ali4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc5_ali4), art47_par1_inc4_ali3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc4_ali3), art47_par1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1), art47 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47), art47_par1_inc7 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc7), art47_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_cpt), art47_par1_inc2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art47_par1_inc2), art51_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art51_cpt)))))-->
+              <Artigo xlink:href="art47" id="art1_cpt_alt1_art47" abreAspas="s">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput xlink:href="art47_cpt" id="art1_cpt_alt1_art47_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art47_par1" id="art1_cpt_alt1_art47_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art47_par1_omi1"/><Inciso xlink:href="art47_par1_inc2" id="art1_cpt_alt1_art47_par1_inc2" textoOmitido="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            
+            <Alinea xlink:href="art47_par1_inc2_ali1" id="art1_cpt_alt1_art47_par1_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>das sete horas e doze minutos e trinta segundos às sete horas e trinta e cinco minutos e das doze horas e doze minutos e trinta segundos às doze horas e trinta e cinco minutos, no rádio;</p>
+            
+          </Alinea><Alinea xlink:href="art47_par1_inc2_ali2" id="art1_cpt_alt1_art47_par1_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>das treze horas e doze minutos e trinta segundos às treze horas e trinta e cinco minutos e das vinte horas e quarenta e dois minutos e trinta segundos às vinte e uma horas e cinco minutos, na televisão;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art47_par1_omi2"/><Inciso xlink:href="art47_par1_inc4" id="art1_cpt_alt1_art47_par1_inc4" textoOmitido="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            
+            <Alinea xlink:href="art47_par1_inc4_ali1" id="art1_cpt_alt1_art47_par1_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>das sete horas e cinco minutos às sete horas e vinte e cinco minutos e das doze horas e cinco minutos às doze horas e vinte e cinco minutos, no rádio, nos anos em que a renovação do Senado Federal se der por um terço;</p>
+            
+          </Alinea><Alinea xlink:href="art47_par1_inc4_ali2" id="art1_cpt_alt1_art47_par1_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>das treze horas e cinco minutos às treze horas e vinte e cinco minutos e das vinte horas e trinta e cinco minutos às vinte horas e cinquenta e cinco minutos, na televisão, nos anos em que a renovação do Senado Federal se der por um terço;</p>
+            
+          </Alinea><Alinea xlink:href="art47_par1_inc4_ali3" id="art1_cpt_alt1_art47_par1_inc4_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>das sete horas e sete minutos às sete horas e vinte e sete minutos e das doze horas e sete minutos às doze horas e vinte e sete minutos, no rádio, nos anos em que a renovação do Senado Federal se der por dois terços;</p>
+            
+          </Alinea><Alinea xlink:href="art47_par1_inc4_ali4" id="art1_cpt_alt1_art47_par1_inc4_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>das treze horas e sete minutos às treze horas e vinte e sete minutos e das vinte horas e trinta e sete minutos às vinte horas e cinquenta e sete minutos, na televisão, nos anos em que a renovação do Senado Federal se der por dois terços;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art47_par1_inc5" id="art1_cpt_alt1_art47_par1_inc5" textoOmitido="s">
+            
+            
+            <Rotulo>V –</Rotulo>
+            
+            <Alinea xlink:href="art47_par1_inc5_ali1" id="art1_cpt_alt1_art47_par1_inc5_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>das sete horas e vinte e cinco minutos às sete horas e trinta e cinco minutos e das doze horas e vinte e cinco minutos às doze horas e trinta e cinco minutos, no rádio, nos anos em que a renovação do Senado Federal se der por um terço;</p>
+            
+          </Alinea><Alinea xlink:href="art47_par1_inc5_ali2" id="art1_cpt_alt1_art47_par1_inc5_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>das treze horas e vinte e cinco minutos às treze horas e quarenta e cinco minutos e das vinte horas e cinquenta e cinco minutos às vinte e uma horas e cinco minutos, na televisão, nos anos em que a renovação do Senado Federal se der por um terço;</p>
+            
+          </Alinea><Alinea xlink:href="art47_par1_inc5_ali3" id="art1_cpt_alt1_art47_par1_inc5_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>das sete horas e vinte e sete minutos às sete horas e trinta e sete minutos e das doze horas e vinte e sete minutos às doze horas e trinta e sete minutos, no rádio, nos anos em que a renovação do Senado Federal se der por dois terços;</p>
+            
+          </Alinea><Alinea xlink:href="art47_par1_inc5_ali4" id="art1_cpt_alt1_art47_par1_inc5_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>das treze horas e vinte e sete minutos às treze horas e trinta e sete minutos e das vinte horas e cinquenta e sete minutos às vinte e uma horas e sete minutos, na televisão, nos anos em que a renovação do Senado Federal se der por dois terços;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art47_par1_inc6" id="art1_cpt_alt1_art47_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>nas eleições para Prefeito, às segundas, quartas e sextas-feiras:</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art47_par1_omi3"/><Inciso xlink:href="art47_par1_inc7" id="art1_cpt_alt1_art47_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>nas eleições para vereador, às terças e quintas-feiras e aos sábados, nos mesmos horários previstos no inciso VI;</p>
+            
+          </Inciso><Inciso xlink:href="art47_par1_inc8" id="art1_cpt_alt1_art47_par1_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>ainda nas eleições para Prefeito, e também nas de Vereador, mediante inserções de trinta e sessenta segundos, no rádio e na televisão, totalizando setenta minutos diários, de segunda-feira a domingo, distribuídas ao longo da programação veiculada entre as cinco e as vinte e quatro horas, na proporção de 60% (sessenta por cento) para Prefeito e 40% (quarenta por cento) para Vereador.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art47_omi1"/><Paragrafo xlink:href="art47_par10" id="art1_cpt_alt1_art47_par10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>É vedada a utilização de gravações externas, montagens ou trucagens, computação gráfica, desenhos animados e efeitos especiais, e a veiculação de mensagens que possam degradar ou ridicularizar candidato, partido ou coligação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art51" id="art1_cpt_alt1_art51" abreAspas="s">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput xlink:href="art51_cpt" id="art1_cpt_alt1_art51_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art51_cpt_omi1"/><Inciso xlink:href="art51_cpt_inc4" id="art1_cpt_alt1_art51_cpt_inc4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>na veiculação das inserções, aplica-se o disposto no § 10 do art. 47.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

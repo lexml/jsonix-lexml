@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;305@data.evento;leitura;2018-06-19t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 305 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2013-08-01;12846">Lei no 12.846, de 1º de agosto de 2013</span>, que dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira, e dá outras providências, para estabelecer a participação coordenada dos órgãos e entidades públicos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2013-08-01;12846!art16-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2013-08-01;12846!art16">art. 16 da Lei no 12.846, de 1º de agosto de 2013</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2013-08-01;12846" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2013-08-01;12846 -> MatchByBase(urn:lex:br:federal:lei:2013-08-01;12846,2013,Some((8,1)),Map(art16_par11 -> PrefixMatch(URN(2013,Some((8,1)),art16,urn:lex:br:federal:lei:2013-08-01;12846!art16),art16_par11), art16_par10 -> PrefixMatch(URN(2013,Some((8,1)),art16,urn:lex:br:federal:lei:2013-08-01;12846!art16),art16_par10), art16_cpt -> PrefixMatch(URN(2013,Some((8,1)),art16,urn:lex:br:federal:lei:2013-08-01;12846!art16),art16_cpt), art16_par1-1 -> PrefixMatch(URN(2013,Some((8,1)),art16,urn:lex:br:federal:lei:2013-08-01;12846!art16),art16_par1-1), art16 -> ExactMatch(URN(2013,Some((8,1)),art16,urn:lex:br:federal:lei:2013-08-01;12846!art16)), art16_par1-2 -> PrefixMatch(URN(2013,Some((8,1)),art16,urn:lex:br:federal:lei:2013-08-01;12846!art16),art16_par1-2), art16_par12 -> PrefixMatch(URN(2013,Some((8,1)),art16,urn:lex:br:federal:lei:2013-08-01;12846!art16),art16_par12)))))-->
+              <Artigo xlink:href="art16" id="art1_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art1_cpt_alt1_art16_cpt">
+            
+            
+            
+            <p>O Ministério Público, o Tribunal de Contas e a autoridade máxima do órgão de controle interno do Poder Executivo de cada ente da Federação poderão celebrar, de forma coordenada, acordo de leniência com as pessoas jurídicas responsáveis pela prática dos atos previstos nesta Lei que colaborem efetivamente com as investigações e com o processo administrativo, sendo que dessa colaboração resulte:</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art16_omi1"/><Paragrafo xlink:href="art16_par1-1" id="art1_cpt_alt1_art16_par1-1">
+            
+            
+            <Rotulo>§ 1º-A.</Rotulo>
+            <p>Após o recebimento de proposta de acordo de leniência, as autoridades máximas dos órgãos de que trata o caput serão imediatamente comunicadas e designarão, no prazo de dez dias úteis, os membros da comissão de que trata o § 1º-B.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art16_par1-2" id="art1_cpt_alt1_art16_par1-2">
+            
+            
+            <Rotulo>§ 1º-B.</Rotulo>
+            <p>A negociação do acordo será conduzida por comissão composta por, no mínimo, dois membros ou servidores públicos efetivos e estáveis dos órgãos de que trata o caput, assegurada a representação paritária.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art16_omi2"/><Paragrafo xlink:href="art16_par10" id="art1_cpt_alt1_art16_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>O Ministério da Transparência e Controladoria-Geral da União é o órgão de controle interno do Poder Executivo federal competente para celebrar acordo de leniência, de forma coordenada com os demais órgãos de que trata o caput.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art16_par11" id="art1_cpt_alt1_art16_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>Fixado o valor do dano no acordo de leniência, este não poderá ser objeto de rediscussão administrativa ou judicial.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art16_par12" id="art1_cpt_alt1_art16_par12" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1990-12-27;8137-->
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>O acordo previsto no caput não se aplica às infrações previstas na <span xlink:href="urn:lex:br:federal:lei:1990-12-27;8137">Lei nº 8.137, de 27 de dezembro de 1990</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

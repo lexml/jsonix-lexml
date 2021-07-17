@@ -1,0 +1,58 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;20"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 20 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a obrigatoriedade de utilização, de conservação, de comercialização e de fornecimento de canudos hermeticamente lacrados nos locais que especifica.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A utilização, a conservação, a comercialização e o fornecimento por bares, lanchonetes, restaurantes e vendedores ambulantes de pequenos cilindros ocos usados para sorver líquidos de qualquer tipo, canudos individuais, somente serão permitidos quando estiverem embalados hermeticamente.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A obrigatoriedade estabelecida no caput deste artigo estende-se aos salões de dança, aos locais de shows e de eventos musicais, às boates, às danceterias e aos estabelecimentos similares que armazenarem, distribuírem ou comercializarem qualquer tipo de bebida.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art56-->
+            
+            
+            <p>O descumprimento desta Lei sujeita os infratores às penalidades estabelecidas no <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art56">art. 56 da Lei nº 8.078, de 11 de setembro de 1990</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

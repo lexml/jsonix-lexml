@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;18@data.evento;leitura;2017-02-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 18 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o Código de Processo Penal para prever medida cautelar diversa da prisão para o caso de investigado ou acusado por crime de estupro consistente na proibição do exercício de atividade profissional que aumente o risco de nova infração.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art319-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art319">art. 319 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> – Código de Processo Penal, passa a viger acrescido do seguinte parágrafo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art319 -> ExactMatch(URN(1941,Some((10,3)),art319,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art319)), art319_cpt -> PrefixMatch(URN(1941,Some((10,3)),art319,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art319),art319_cpt), art319_par5 -> PrefixMatch(URN(1941,Some((10,3)),art319,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art319),art319_par5)))))-->
+              <Artigo xlink:href="art319" id="art1_cpt_alt1_art319" abreAspas="s">
+            
+            
+            <Rotulo>Art. 319.</Rotulo>
+            
+            <Caput xlink:href="art319_cpt" id="art1_cpt_alt1_art319_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art319_omi1"/><Paragrafo xlink:href="art319_par5" id="art1_cpt_alt1_art319_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>No caso de investigado ou acusado por crime de estupro ou estupro de vulnerável, o juiz, analisando as circunstâncias do fato, poderá proibir o exercício de atividade profissional que, por suas características e por colocar terceiros em situação de vulnerabilidade, aumente o risco de nova infração.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

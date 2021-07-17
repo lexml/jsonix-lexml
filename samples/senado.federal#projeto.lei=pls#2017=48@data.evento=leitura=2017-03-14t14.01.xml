@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;48@data.evento;leitura;2017-03-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 48 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art387_cpt_inc4">art. 387, inciso IV, do Decreto-Lei nº 3.689 de 3 de outubro de 1941</span>, a fim de estabelecer que o Juiz, ao proferir a sentença penal condenatória, fixará o valor mínimo para a reparação dos danos materiais e morais causados pela infração, independentemente de pedido específico.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art387_cpt_inc4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art387_cpt_inc4">inciso IV do art. 387 do Decreto-Lei nº 3.689 de 3 de outubro de 1941</span> passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art387 -> SuperPrefixMatch(URN(1941,Some((10,3)),art387_cpt_inc4,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art387_cpt_inc4),art387), art387_cpt -> SuperPrefixMatch(URN(1941,Some((10,3)),art387_cpt_inc4,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art387_cpt_inc4),art387_cpt), art387_cpt_inc4 -> ExactMatch(URN(1941,Some((10,3)),art387_cpt_inc4,urn:lex:br:federal:decreto.lei:1941-10-03;3689!art387_cpt_inc4))))))-->
+              <Artigo xlink:href="art387" id="art1_cpt_alt1_art387" abreAspas="s">
+            
+            
+            <Rotulo>Art. 387.</Rotulo>
+            
+            <Caput xlink:href="art387_cpt" id="art1_cpt_alt1_art387_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art387_cpt_omi1"/><Inciso xlink:href="art387_cpt_inc4" id="art1_cpt_alt1_art387_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fixará, independentemente de pedido específico, valor mínimo para reparação dos danos materiais e morais causados pela infração, em favor da vítima ou de seus sucessores;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art387_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

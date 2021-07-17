@@ -1,0 +1,973 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;110"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 110 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Leis nºs 9.504, de 30 de setembro de 1997</span> (Lei das Eleições), 9.096, de 19 de setembro de 1995, e 4.737, de 15 de julho de 1965 (Código Eleitoral), e revoga dispositivos da <span xlink:href="urn:lex:br:federal:lei:2015-09-29;13165">Lei nº 13.165, de 29 de setembro de 2015</span> (Minirreforma Eleitoral de 2015), com o fim de promover reforma no ordenamento político-eleitoral.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DAS ALTERAÇÕES DA LEGISLAÇÃO ELEITORAL</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-30;9504-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Lei nº 9.504, de 30 de setembro de 1997</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-30;9504" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-30;9504 -> MatchByBase(urn:lex:br:federal:lei:1997-09-30;9504,1997,Some((9,30)),Map(art49_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art49_cpt), art11_par8 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art11_par8), art36-1_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art36-1_cpt), par5 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par5), art58_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art58_cpt), art26_par3_ali1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_par3_ali1), art22-1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art22-1), art16-4_cpt_inc3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4_cpt_inc3), art23_par8 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par8), art23_par4-1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4-1), art51 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art51), art23_par6 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par6), art23_par4_inc4_ali8 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali8), inc4_ali1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),inc4_ali1), par2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par2), art23_par4_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4), art36-1_cpt_inc7 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art36-1_cpt_inc7), par1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par1), art11_par8_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art11_par8_inc4), art23_par1-1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par1-1), art4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art4), art26_par3_ali2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_par3_ali2), art93-1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art93-1), art23_par9 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par9), art23_par4_inc4_ali1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali1), art49 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art49), art26_par1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_par1), art28 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art28), art39_par5_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art39_par5_inc4), art23_par4_inc4_ali4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali4), art23_par4-2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4-2), art39_par11 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art39_par11), art23_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_cpt), art18 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art18), art18_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art18_cpt), art58_par3_inc4_ali1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art58_par3_inc4_ali1), art26_cpt_inc15 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_cpt_inc15), inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),inc4), art58 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art58), art23_par4_inc4_ali6 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali6), art26_par3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_par3), art4_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art4_cpt), art23 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23), art22-1_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art22-1_cpt), art16-4_par2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4_par2), art16-4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4), art16-4_cpt_inc2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4_cpt_inc2), par6 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par6), art11_par8_inc3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art11_par8_inc3), art23_par4_inc4_ali3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali3), art58_par3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art58_par3), art93-1_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art93-1_cpt), par2_inc1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par2_inc1), par3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par3), art51_par1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art51_par1), art23_par1-2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par1-2), art22-1_par3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art22-1_par3), art11_par14 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art11_par14), art23_par4_inc5 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc5), art22-1_par4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art22-1_par4), art39_par5 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art39_par5), art11 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art11), art51_par2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art51_par2), art28_par6_inc3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art28_par6_inc3), art28_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art28_cpt), art23_par4_inc4_ali5 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali5), art16-4_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4_cpt), art26_par2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_par2), art23_par7 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par7), art9_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art9_cpt), art26_par3_ali4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_par3_ali4), art16-4_cpt_inc1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4_cpt_inc1), art26 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26), art23_par3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par3), art51_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art51_cpt), par2_inc2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par2_inc2), par4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),par4), art26_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_cpt), art23_par1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par1), art23_par4_inc4_ali7 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali7), art28_par6 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art28_par6), art26_cpt_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_cpt_inc4), art11_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art11_cpt), art26_par3_ali3 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_par3_ali3), art58_par3_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art58_par3_inc4), art16-4_par1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4_par1), art23_par4_inc4_ali2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4_inc4_ali2), art9 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art9), art36-1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art36-1), art39_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art39_cpt), art16-4_cpt_inc4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-4_cpt_inc4), art23_par4 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art23_par4), art39 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art39), inc4_ali2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),inc4_ali2)))))-->
+              <Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Poderá participar das eleições o partido que, até seis meses antes do pleito, tenha registrado seu estatuto no Tribunal Superior Eleitoral, conforme o disposto em lei, e tenha, até a data da convenção, órgão de direção constituído na circunscrição, de acordo com o respectivo estatuto.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art9" id="art1_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art1_cpt_alt1_art9_cpt">
+            
+            
+            
+            <p>Para concorrer às eleições, o candidato deverá possuir domicílio eleitoral na respectiva circunscrição pelo prazo de seis meses e estar com a filiação deferida pelo partido no mesmo prazo.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art9_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art11" id="art1_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art1_cpt_alt1_art11_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art11_omi1"/><Paragrafo xlink:href="art11_par8" id="art1_cpt_alt1_art11_par8" textoOmitido="s">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art11_par8_omi1"/><Inciso xlink:href="art11_par8_inc3" id="art1_cpt_alt1_art11_par8_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o parcelamento das multas eleitorais é direito dos cidadãos e das pessoas jurídicas e pode ser feito em até sessenta meses, salvo quando o valor da parcela ultrapassar 5% (cinco por cento) da renda mensal, no caso de cidadão, ou 2% (dois por cento) do faturamento, no caso de pessoa jurídica, hipótese em que poderá estender-se por prazo superior, de modo que as parcelas não ultrapassem os referidos limites;</p>
+            
+          </Inciso><Inciso xlink:href="art11_par8_inc4" id="art1_cpt_alt1_art11_par8_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o parcelamento de multas eleitorais e de outras multas e débitos de natureza não eleitoral imputados pelo poder público é garantido também aos partidos políticos em até sessenta meses, salvo se o valor da parcela ultrapassar o limite de 2% (dois por cento) do repasse mensal do Fundo Partidário, hipótese em que poderá estender-se por prazo superior, de modo que as parcelas não ultrapassem o referido limite.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art11_omi2"/><Paragrafo xlink:href="art11_par14" id="art1_cpt_alt1_art11_par14" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 14.</Rotulo>
+            <p> É vedado o registro de candidatura avulsa, ainda que o requerente tenha filiação partidária</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art16-4" id="art1_cpt_alt1_art16-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16-D.</Rotulo>
+            
+            <Caput xlink:href="art16-4_cpt" id="art1_cpt_alt1_art16-4_cpt">
+            
+            
+            
+            <p>Os recursos do Fundo Especial de Financiamento de Campanha (FEFC), para o primeiro turno das eleições, serão distribuídos entre os partidos políticos, obedecidos os seguintes critérios:</p>
+            <Inciso xlink:href="art16-4_cpt_inc1" id="art1_cpt_alt1_art16-4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>2% (dois por cento), divididos igualitariamente entre todos os partidos com estatutos registrados no Tribunal Superior Eleitoral;</p>
+            
+          </Inciso><Inciso xlink:href="art16-4_cpt_inc2" id="art1_cpt_alt1_art16-4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>35% (trinta e cinco por cento), divididos entre os partidos que tenham pelo menos um representante na Câmara dos Deputados, na proporção do percentual de votos por eles obtidos na última eleição geral para a Câmara dos Deputados;</p>
+            
+          </Inciso><Inciso xlink:href="art16-4_cpt_inc3" id="art1_cpt_alt1_art16-4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>48% (quarenta e oito por cento), divididos entre os partidos, na proporção do número de representantes na Câmara dos Deputados, consideradas as legendas dos titulares;</p>
+            
+          </Inciso><Inciso xlink:href="art16-4_cpt_inc4" id="art1_cpt_alt1_art16-4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>15% (quinze por cento), divididos entre os partidos, na proporção do número de representantes no Senado Federal, consideradas as legendas dos titulares.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art16-4_par1" id="art1_cpt_alt1_art16-4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para efeito do disposto neste artigo, a representação de cada partido na Câmara dos Deputados ou no Senado Federal será a resultante da eleição.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art16-4_par2" id="art1_cpt_alt1_art16-4_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para que o candidato tenha acesso aos recursos do Fundo a que se refere este artigo, deverá fazer requerimento por escrito ao órgão partidário respectivo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art18" id="art1_cpt_alt1_art18" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput xlink:href="art18_cpt" id="art1_cpt_alt1_art18_cpt">
+            
+            
+            
+            <p>Os limites de gastos de campanha serão definidos em lei e divulgados pelo Tribunal Superior Eleitoral.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art18_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art22-1" id="art1_cpt_alt1_art22-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 22-A.</Rotulo>
+            
+            <Caput xlink:href="art22-1_cpt" id="art1_cpt_alt1_art22-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art22-1_omi1"/><Paragrafo xlink:href="art22-1_par3" id="art1_cpt_alt1_art22-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Desde o dia 15 de maio do ano eleitoral, é facultada aos pré-candidatos a arrecadação prévia de recursos na modalidade prevista no inciso IV do § 4º do art. 23 desta Lei, mas a liberação de recursos por parte das entidades arrecadadoras fica condicionada ao registro da candidatura, e a realização de despesas de campanha deverá observar o calendário eleitoral.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art22-1_par4" id="art1_cpt_alt1_art22-1_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na hipótese prevista no § 3º deste artigo, se não for efetivado o registro da candidatura, as entidades arrecadadoras deverão devolver os valores arrecadados aos doadores.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art23" id="art1_cpt_alt1_art23" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput xlink:href="art23_cpt" id="art1_cpt_alt1_art23_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art23_par1" id="art1_cpt_alt1_art23_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As doações e contribuições de que trata este artigo não poderão ultrapassar 10% (dez por cento) do rendimento bruto auferido pelo doador no ano anterior à eleição, limitado a dez salários mínimos para cada cargo ou chapa majoritária em disputa, somadas todas as doações.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par1-1" id="art1_cpt_alt1_art23_par1-1">
+            
+            
+            <Rotulo>§ 1º-A.</Rotulo>
+            <p>(Revogado).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par1-2" id="art1_cpt_alt1_art23_par1-2">
+            
+            
+            <Rotulo>§ 1º-B.</Rotulo>
+            <p>Caso o doador esteja isento de declarar imposto de renda, a verificação do limite de doação terá como base de cálculo o teto de rendimentos estipulado para a isenção.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art23_omi1"/><Paragrafo xlink:href="art23_par3" id="art1_cpt_alt1_art23_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A doação de quantia acima dos limites fixados neste artigo sujeita o infrator ao pagamento de multa no valor de até 100% (cem por cento) da quantia em excesso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par4" id="art1_cpt_alt1_art23_par4" textoOmitido="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art23_par4_omi1"/><Inciso xlink:href="art23_par4_inc4" id="art1_cpt_alt1_art23_par4_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>instituições que promovam técnicas e serviços de financiamento coletivo por meio de sítios na internet, aplicativos eletrônicos e outros recursos similares, que deverão atender aos seguintes requisitos:</p>
+            <Alinea xlink:href="art23_par4_inc4_ali1" id="art1_cpt_alt1_art23_par4_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>cadastro prévio na Justiça Eleitoral, que estabelecerá regulamentação para prestação de contas, fiscalização instantânea das doações, contas intermediárias, se houver, e repasses aos candidatos;</p>
+            
+          </Alinea><Alinea xlink:href="art23_par4_inc4_ali2" id="art1_cpt_alt1_art23_par4_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>identificação obrigatória, com o nome completo e o número de inscrição no Cadastro de Pessoas Físicas (CPF) de cada um dos doadores e das quantias doadas;</p>
+            
+          </Alinea><Alinea xlink:href="art23_par4_inc4_ali3" id="art1_cpt_alt1_art23_par4_inc4_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>disponibilização em sítio eletrônico de lista com identificação dos doadores e das respectivas quantias doadas, a ser atualizada instantaneamente a cada nova doação;</p>
+            
+          </Alinea><Alinea xlink:href="art23_par4_inc4_ali4" id="art1_cpt_alt1_art23_par4_inc4_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>emissão obrigatória de recibo para o doador, relativo a cada doação realizada, sob a responsabilidade da entidade arrecadadora, com envio imediato para a Justiça Eleitoral e para o candidato de todas as informações relativas à doação;</p>
+            
+          </Alinea><Alinea xlink:href="art23_par4_inc4_ali5" id="art1_cpt_alt1_art23_par4_inc4_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>ampla ciência a candidatos e eleitores acerca das taxas administrativas a serem cobradas pela realização do serviço;</p>
+            
+          </Alinea><Alinea xlink:href="art23_par4_inc4_ali6" id="art1_cpt_alt1_art23_par4_inc4_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>não incidência em quaisquer das hipóteses listadas no art. 24 desta Lei;</p>
+            
+          </Alinea><Alinea xlink:href="art23_par4_inc4_ali7" id="art1_cpt_alt1_art23_par4_inc4_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>observância do calendário eleitoral, especialmente no que diz respeito ao início do período de arrecadação financeira, nos termos dispostos no § 2º do art. 22-A desta Lei;</p>
+            
+          </Alinea><Alinea xlink:href="art23_par4_inc4_ali8" id="art1_cpt_alt1_art23_par4_inc4_ali8">
+            
+            
+            <Rotulo>h)</Rotulo>
+            <p>observância dos dispositivos desta Lei relacionados à propaganda na internet;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art23_par4_inc5" id="art1_cpt_alt1_art23_par4_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>comercialização de bens e/ou serviços, ou promoção de eventos de arrecadação realizados diretamente pelo candidato ou pelo partido político.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art23_par4-1" id="art1_cpt_alt1_art23_par4-1">
+            
+            
+            <Rotulo>§ 4º-A.</Rotulo>
+            <p>Na prestação de contas das doações mencionadas no § 4º deste artigo, é dispensada a apresentação de recibo eleitoral, e sua comprovação deverá ser realizada por meio de documento bancário que identifique o CPF dos doadores.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par4-2" id="art1_cpt_alt1_art23_par4-2">
+            
+            
+            <Rotulo>§ 4º-B.</Rotulo>
+            <p>As doações realizadas por meio das modalidades previstas nos incisos III e IV do § 4º deste artigo devem ser informadas à Justiça Eleitoral pelos candidatos e partidos no prazo previsto no inciso I do § 4º do art. 28 desta Lei, contado a partir do momento em que os recursos arrecadados forem depositados nas contas bancárias dos candidatos, partidos ou coligações.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art23_omi2"/><Paragrafo xlink:href="art23_par6" id="art1_cpt_alt1_art23_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Na hipótese de doações realizadas por meio das modalidades previstas nos incisos III e IV do § 4º deste artigo, fraudes ou erros cometidos pelo doador sem conhecimento dos candidatos, partidos ou coligações não ensejarão a responsabilidade destes nem a rejeição de suas contas eleitorais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par7" id="art1_cpt_alt1_art23_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O limite previsto no § 1º deste artigo não se aplica a doações estimáveis em dinheiro relativas à utilização de bens móveis ou imóveis de propriedade do doador ou à prestação de serviços próprios, desde que o valor estimado não ultrapasse R$ 40.000,00 (quarenta mil reais) por doador.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par8" id="art1_cpt_alt1_art23_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Ficam autorizadas a participar das transações relativas às modalidades de doações previstas nos incisos III e IV do § 4º deste artigo todas as instituições que atendam, nos termos da lei e da regulamentação expedida pelo Banco Central, aos critérios para operar arranjos de pagamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par9" id="art1_cpt_alt1_art23_par9" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>As instituições financeiras e de pagamento não poderão recusar a utilização de cartões de débito e de crédito como meio de doações eleitorais de pessoas físicas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art26" id="art1_cpt_alt1_art26" abreAspas="s">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput xlink:href="art26_cpt" id="art1_cpt_alt1_art26_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art26_cpt_omi1"/><Inciso xlink:href="art26_cpt_inc4" id="art1_cpt_alt1_art26_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>despesas com transporte ou deslocamento de candidato e de pessoal a serviço das candidaturas, observadas as exceções previstas no § 3º deste artigo.</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art26_cpt_omi2"/><Inciso xlink:href="art26_cpt_inc15" id="art1_cpt_alt1_art26_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>custos com a criação e inclusão de sítios na internet e com o impulsionamento de conteúdos contratados diretamente com provedor da aplicação de internet com sede e foro no País;</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art26_par1" id="art1_cpt_alt1_art26_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art26_par2" id="art1_cpt_alt1_art26_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para os fins desta Lei, inclui-se entre as formas de impulsionamento de conteúdo a priorização paga de conteúdos resultantes de aplicações de busca na internet.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art26_par3" id="art1_cpt_alt1_art26_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não são consideradas gastos eleitorais nem se sujeitam a prestação de contas as seguintes despesas de natureza pessoal do candidato:</p>
+            <Alinea xlink:href="art26_par3_ali1" id="art1_cpt_alt1_art26_par3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>combustível e manutenção de veículo automotor usado pelo candidato na campanha;</p>
+            
+          </Alinea><Alinea xlink:href="art26_par3_ali2" id="art1_cpt_alt1_art26_par3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>remuneração, alimentação e hospedagem do condutor do veículo a que se refere a alínea a deste parágrafo;</p>
+            
+          </Alinea><Alinea xlink:href="art26_par3_ali3" id="art1_cpt_alt1_art26_par3_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>alimentação e hospedagem própria;</p>
+            
+          </Alinea><Alinea xlink:href="art26_par3_ali4" id="art1_cpt_alt1_art26_par3_ali4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>uso de linhas telefônicas registradas em seu nome como pessoa física, até o limite de três linhas.</p>
+            
+          </Alinea>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art28" id="art1_cpt_alt1_art28" abreAspas="s">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput xlink:href="art28_cpt" id="art1_cpt_alt1_art28_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art28_omi1"/><Paragrafo xlink:href="art28_par6" id="art1_cpt_alt1_art28_par6" textoOmitido="s">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art28_par6_omi1"/><Inciso xlink:href="art28_par6_inc3" id="art1_cpt_alt1_art28_par6_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p> a cessão de automóvel de propriedade do candidato, do cônjuge e de seus parentes até o terceiro grau para seu uso pessoal durante a campanha.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art28_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art36-1" id="art1_cpt_alt1_art36-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 36-A.</Rotulo>
+            
+            <Caput xlink:href="art36-1_cpt" id="art1_cpt_alt1_art36-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art36-1_cpt_omi1"/><Inciso xlink:href="art36-1_cpt_inc7" id="art1_cpt_alt1_art36-1_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>campanha de arrecadação prévia de recursos na modalidade prevista no inciso IV do § 4º do art. 23 desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art36-1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><p>“Art. 37. ...............................</p><Omissis id="art1_cpt_alt1_omi1"/><Paragrafo xlink:href="par2" id="art1_cpt_alt1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não é permitida a veiculação de material de propaganda eleitoral em bens públicos ou particulares, exceto de:</p>
+            <Inciso xlink:href="par2_inc1" id="art1_cpt_alt1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>bandeiras ao longo de vias públicas, desde que móveis e que não dificultem o bom andamento do trânsito de pessoas e veículos;</p>
+            
+          </Inciso><Inciso xlink:href="par2_inc2" id="art1_cpt_alt1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>adesivo plástico em automóveis, caminhões, bicicletas, motocicletas e janelas residenciais, desde que não exceda a 0,5 m² (meio metro quadrado).</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_omi2" fechaAspas="s" notaAlteracao="NR"/><Artigo xlink:href="art39" id="art1_cpt_alt1_art39" abreAspas="s">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput xlink:href="art39_cpt" id="art1_cpt_alt1_art39_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art39_omi1"/><Paragrafo xlink:href="art39_par5" id="art1_cpt_alt1_art39_par5" textoOmitido="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art39_par5_omi1"/><Inciso xlink:href="art39_par5_inc4" id="art1_cpt_alt1_art39_par5_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a publicação de novos conteúdos ou o impulsionamento de conteúdos nas aplicações de internet de que trata o art. 57-B desta Lei, podendo ser mantidos em funcionamento as aplicações e os conteúdos publicados anteriormente.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art39_omi2"/><Paragrafo xlink:href="art39_par11" id="art1_cpt_alt1_art39_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p> É permitida a circulação de carros de som e minitrios como meio de propaganda eleitoral, desde que observado o limite de oitenta decibéis de nível de pressão sonora, medido a sete metros de distância do veículo, e respeitadas as vedações previstas no § 3º deste artigo, apenas em carreatas, caminhadas e passeatas ou durante reuniões e comícios.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art39_omi3" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><p>“Art. 46. Independentemente da veiculação de propaganda eleitoral gratuita no horário definido nesta Lei, é facultada a transmissão por emissora de rádio ou televisão de debates sobre as eleições majoritária ou proporcional, assegurada a participação de candidatos dos partidos com representação no Congresso Nacional, de, no mínimo, cinco parlamentares, e facultada a dos demais, observado o seguinte:</p><Omissis id="art1_cpt_alt1_omi3" fechaAspas="s" notaAlteracao="NR"/><Artigo xlink:href="art49" id="art1_cpt_alt1_art49" abreAspas="s">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput xlink:href="art49_cpt" id="art1_cpt_alt1_art49_cpt">
+            
+            
+            
+            <p>Se houver segundo turno, as emissoras de rádio e televisão reservarão, a partir da sexta-feira seguinte à realização do primeiro turno e até a antevéspera da eleição, horário destinado à divulgação da propaganda eleitoral gratuita, dividida em dois blocos diários de dez minutos para cada eleição, e os blocos terão início às sete e às doze horas, no rádio, e às treze e às vinte horas e trinta minutos, na televisão.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art49_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art51" id="art1_cpt_alt1_art51" abreAspas="s">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput xlink:href="art51_cpt" id="art1_cpt_alt1_art51_cpt">
+            
+            
+            
+            <p>Durante o período previsto no art. 47 desta Lei, as emissoras de rádio e televisão e os canais por assinatura mencionados no art. 57 desta Lei reservarão setenta minutos diários para a propaganda eleitoral gratuita, a serem usados em inserções de trinta e de sessenta segundos, a critério do respectivo partido ou coligação, assinadas obrigatoriamente pelo partido ou coligação, e distribuídas, ao longo da programação veiculada entre as cinco e as vinte quatro horas, nos termos do § 2º do art. 47 desta Lei, obedecido o seguinte:</p>
+            
+          </Caput><Paragrafo xlink:href="art51_par1" id="art1_cpt_alt1_art51_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art51_par2" id="art1_cpt_alt1_art51_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Durante o período previsto no art. 49 desta Lei, onde houver segundo turno, as emissoras de rádio e televisão e os canais de televisão por assinatura mencionados no art. 57 desta Lei reservarão, por cada cargo em disputa, vinte e cinco minutos para serem usados em inserções de trinta e de sessenta segundos, observadas as disposições deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><p>Propaganda na Internet</p><p>‘Art. 57-A. ............................’</p><p>‘Art. 57-B. .............................</p><Omissis id="art1_cpt_alt1_omi4"/><Inciso xlink:href="inc4" id="art1_cpt_alt1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>por meio de blogs, redes sociais, sítios de mensagens instantâneas e aplicações de internet assemelhadas cujo conteúdo seja gerado ou editado por:</p>
+            <Alinea xlink:href="inc4_ali1" id="art1_cpt_alt1_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>candidatos, partidos ou coligações; ou</p>
+            
+          </Alinea><Alinea xlink:href="inc4_ali2" id="art1_cpt_alt1_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>qualquer pessoa natural, desde que não contrate impulsionamento de conteúdos.</p>
+            
+          </Alinea>
+          </Inciso><Paragrafo xlink:href="par1" id="art1_cpt_alt1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os endereços eletrônicos das aplicações de que trata este artigo, salvo aqueles de iniciativa de pessoa natural, deverão ser comunicados à Justiça Eleitoral, podendo ser mantidos durante todo o pleito eleitoral os mesmos endereços eletrônicos em uso antes do início da propaganda eleitoral.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par2" id="art1_cpt_alt1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não é admitida a veiculação de conteúdos de cunho eleitoral mediante cadastro de usuário de aplicação de internet com a intenção de falsear identidade.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par3" id="art1_cpt_alt1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É vedada a utilização de impulsionamento de conteúdos e ferramentas digitais não disponibilizadas pelo provedor da aplicação de internet, ainda que gratuitas, para alterar o teor ou a repercussão de propaganda eleitoral, tanto próprios quanto de terceiros.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par4" id="art1_cpt_alt1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O provedor de aplicação de internet que possibilite o impulsionamento pago de conteúdos deverá contar com canal de comunicação com seus usuários e somente poderá ser responsabilizado por danos decorrentes do conteúdo impulsionado se, após ordem judicial específica, não tomar as providências para, no âmbito e nos limites técnicos do seu serviço e dentro do prazo assinalado, tornar indisponível o conteúdo apontado como infringente pela Justiça Eleitoral.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par5" id="art1_cpt_alt1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A violação do disposto neste artigo sujeita o usuário responsável pelo conteúdo e, quando comprovado seu prévio conhecimento, o beneficiário, à multa no valor de R$ 5.000,00 (cinco mil reais) a R$ 30.000,00 (trinta mil reais) ou em valor equivalente ao dobro da quantia despendida, se esse cálculo superar o limite máximo da multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par6" id="art1_cpt_alt1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A denúncia de discurso de ódio, disseminação de informações falsas ou ofensa em desfavor de partido ou candidato, feita pelo usuário de aplicativo ou rede social na internet, por meio do canal disponibilizado para esse fim no próprio provedor, implicará suspensão, em no máximo vinte e quatro horas, da publicação denunciada até que o provedor certifique-se da identificação pessoal do usuário que a publicou, sem fornecimento de qualquer dado do denunciado ao denunciante, salvo por ordem judicial.’(NR)</p>
+            
+          </Paragrafo><p>‘Art. 57-C. É vedada a veiculação de qualquer tipo de propaganda eleitoral paga na internet, excetuado o impulsionamento de conteúdos, desde que identificado de forma inequívoca como tal e contratado exclusivamente por partidos, coligações e candidatos e seus representantes.</p><Omissis id="art1_cpt_alt1_omi5"/><Paragrafo xlink:href="par2" id="art1_cpt_alt1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A violação do disposto neste artigo sujeita o responsável pela divulgação da propaganda ou pelo impulsionamento de conteúdos e, quando comprovado seu prévio conhecimento, o beneficiário, à multa no valor de R$ 5.000,00 (cinco mil reais) a R$ 30.000,00 (trinta mil reais) ou em valor equivalente ao dobro da quantia despendida, se esse cálculo superar o limite máximo da multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="par3" id="art1_cpt_alt1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O impulsionamento de que trata o caput deste artigo deverá ser contratado diretamente com provedor da aplicação de internet com sede e foro no País, ou de sua filial, sucursal, escritório, estabelecimento ou representante legalmente estabelecido no País e apenas com o fim de promover ou beneficiar candidatos ou suas agremiações.’(NR)</p>
+            
+          </Paragrafo><p>‘Art. 57-I. A requerimento de candidato, partido ou coligação, observado o rito previsto no art. 96 desta Lei, a Justiça Eleitoral poderá determinar, no âmbito e nos limites técnicos de cada aplicação de internet, a suspensão do acesso a todo conteúdo veiculado que deixar de cumprir as disposições desta Lei, devendo o número de horas de suspensão ser definida proporcionalmente à gravidade da infração cometida em cada caso, observado o limite máximo de vinte e quatro horas.</p><p>..............................................’(NR)</p><p>‘Art. 57-J. O Tribunal Superior Eleitoral regulamentará o disposto nos arts. 57-A a 57-I desta Lei de acordo com o cenário e as ferramentas tecnológicas existentes em cada momento eleitoral e promoverá, para os veículos, partidos e demais entidades interessadas, a formulação e a ampla divulgação de regras de boas práticas relativas a campanhas eleitorais na internet.’</p><Artigo xlink:href="art58" id="art1_cpt_alt1_art58" abreAspas="s">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput xlink:href="art58_cpt" id="art1_cpt_alt1_art58_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art58_omi1"/><Paragrafo xlink:href="art58_par3" id="art1_cpt_alt1_art58_par3" textoOmitido="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art58_par3_omi1"/><Inciso xlink:href="art58_par3_inc4" id="art1_cpt_alt1_art58_par3_inc4" textoOmitido="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            
+            <Alinea xlink:href="art58_par3_inc4_ali1" id="art1_cpt_alt1_art58_par3_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>deferido o pedido, o usuário ofensor deverá divulgar a resposta do ofendido em até quarenta e oito horas após sua entrega em mídia física, e deverá empregar nessa divulgação o mesmo impulsionamento de conteúdo eventualmente contratado nos termos referidos no art. 57-C desta Lei e o mesmo veículo, espaço, local, horário, página eletrônica, tamanho, caracteres e outros elementos de realce usados na ofensa;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art58_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art93-1" id="art1_cpt_alt1_art93-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 93-A.</Rotulo>
+            
+            <Caput xlink:href="art93-1_cpt" id="art1_cpt_alt1_art93-1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>O Tribunal Superior Eleitoral, no período compreendido entre 1º de abril e 30 de julho dos anos eleitorais, promoverá, em até cinco minutos diários, contínuos ou não, requisitados às emissoras de rádio e televisão, propaganda institucional, em rádio e televisão, destinada a incentivar a participação feminina, dos jovens e da comunidade negra na política, bem como a esclarecer os cidadãos sobre as regras e o funcionamento do sistema eleitoral brasileiro.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-09-19;9096-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096">Lei nº 9.096, de 19 de setembro de 1995</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-09-19;9096" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-09-19;9096 -> MatchByBase(urn:lex:br:federal:lei:1995-09-19;9096,1995,Some((9,19)),Map(art1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art1), art1_par1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art1_par1), art1_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art1_cpt), art31_cpt_inc2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art31_cpt_inc2), art31_cpt_inc3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art31_cpt_inc3), art31 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art31), art31_cpt_inc5 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art31_cpt_inc5), art31_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art31_cpt)))))-->
+              <Artigo xlink:href="art1" id="art2_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art2_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art1_par1u" id="art2_cpt_alt1_art1_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O partido político não se equipara às entidades paraestatais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art31" id="art2_cpt_alt1_art31" abreAspas="s">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput xlink:href="art31_cpt" id="art2_cpt_alt1_art31_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art31_cpt_omi1"/><Inciso xlink:href="art31_cpt_inc2" id="art2_cpt_alt1_art31_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>entes públicos e pessoas jurídicas de qualquer natureza, ressalvadas as dotações referidas no art. 38 desta Lei e as proveniente do Fundo Especial de Financiamento de Campanha;</p>
+            
+          </Inciso><Inciso xlink:href="art31_cpt_inc3" id="art2_cpt_alt1_art31_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>(revogado);</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art31_cpt_omi2"/><Inciso xlink:href="art31_cpt_inc5" id="art2_cpt_alt1_art31_cpt_inc5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>pessoas físicas que exerçam função ou cargo público de livre nomeação e exoneração, ou cargo ou emprego público temporário, ressalvados os filiados a partido político.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1965-07-15;4737-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1965-07-15;4737">Lei nº 4.737, de 15 de julho de 1965</span> (Código Eleitoral), passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1965-07-15;4737" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1965-07-15;4737 -> MatchByBase(urn:lex:br:federal:lei:1965-07-15;4737,1965,Some((7,15)),Map(art354-1 -> PrefixMatch(URN(1965,Some((7,15)),,urn:lex:br:federal:lei:1965-07-15;4737),art354-1), art109_cpt -> PrefixMatch(URN(1965,Some((7,15)),,urn:lex:br:federal:lei:1965-07-15;4737),art109_cpt), art109_par2 -> PrefixMatch(URN(1965,Some((7,15)),,urn:lex:br:federal:lei:1965-07-15;4737),art109_par2), art109 -> PrefixMatch(URN(1965,Some((7,15)),,urn:lex:br:federal:lei:1965-07-15;4737),art109), art354-1_cpt -> PrefixMatch(URN(1965,Some((7,15)),,urn:lex:br:federal:lei:1965-07-15;4737),art354-1_cpt), art354-1_cpt_pena -> PrefixMatch(URN(1965,Some((7,15)),,urn:lex:br:federal:lei:1965-07-15;4737),art354-1_cpt_pena)))))-->
+              <Artigo xlink:href="art109" id="art3_cpt_alt1_art109" abreAspas="s">
+            
+            
+            <Rotulo>Art. 109.</Rotulo>
+            
+            <Caput xlink:href="art109_cpt" id="art3_cpt_alt1_art109_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art3_cpt_alt1_art109_omi1"/><Paragrafo xlink:href="art109_par2" id="art3_cpt_alt1_art109_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Poderão concorrer à distribuição dos lugares todos os partidos e coligações que participaram do pleito.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art354-1" id="art3_cpt_alt1_art354-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 354-A.</Rotulo>
+            
+            <Caput xlink:href="art354-1_cpt" id="art3_cpt_alt1_art354-1_cpt">
+            
+            
+            
+            <p>Apropriar-se o candidato, o administrador financeiro da campanha, ou quem de fato exerça essa função, de bens, recursos ou valores destinados ao financiamento eleitoral, em proveito próprio ou alheio:</p>
+            <Pena xlink:href="art354-1_cpt_pena" id="art3_cpt_alt1_art354-1_cpt_pena" fechaAspas="s">
+            
+            
+            <Rotulo>Pena –</Rotulo>
+            <p>reclusão, de dois a seis anos, e multa.</p>
+            
+          </Pena>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-30;9504!art16-4_cpt_inc3--><!--Link: urn:lex:br:federal:lei:1997-09-30;9504!art16-4_cpt_inc4-->
+            
+            
+            <p>Em 2018, para fins do disposto nos <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504!art16-4_cpt_inc3">incisos III</span> e <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504!art16-4_cpt_inc4">IV do caput do art. 16-D da Lei nº 9.504, de 30 de setembro de 1997</span>, a distribuição dos recursos entre os partidos terá por base o número de representantes titulares na Câmara dos Deputados e no Senado Federal, apurado em 28 de agosto de 2017 e, nas eleições subsequentes, apurado no último dia da sessão legislativa imediatamente anterior ao ano eleitoral.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Nas eleições para Presidente da República em 2018, o limite de gastos de campanha de cada candidato será de R$ 70.000.000,00 (setenta milhões de reais).</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na campanha para o segundo turno, se houver, o limite de gastos de cada candidato será de 50% (cinquenta por cento) do valor estabelecido no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O limite de gastos nas campanhas dos candidatos às eleições de Governador e Senador em 2018 será definido de acordo com o número de eleitores de cada unidade da Federação apurado no dia 31 de maio de 2018, nos termos previstos neste artigo.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nas eleições para Governador, serão os seguintes os limites de gastos de campanha de cada candidato:</p>
+            <Inciso id="art6_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nas unidades da Federação com até um milhão de eleitores: R$ 2.800.000,00 (dois milhões e oitocentos mil reais);</p>
+            
+          </Inciso><Inciso id="art6_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nas unidades da Federação com mais de um milhão de eleitores e de até dois milhões de eleitores: R$ 4.900.000,00 (quatro milhões e novecentos mil reais);</p>
+            
+          </Inciso><Inciso id="art6_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>nas unidades da Federação com mais de dois milhões de eleitores e de até quatro milhões de eleitores: R$ 5.600.000,00 (cinco milhões e seiscentos mil reais);</p>
+            
+          </Inciso><Inciso id="art6_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>nas unidades da Federação com mais de quatro milhões de eleitores e de até dez milhões de eleitores: R$ 9.100.000,00 (nove milhões e cem mil reais);</p>
+            
+          </Inciso><Inciso id="art6_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>nas unidades da Federação com mais de dez milhões de eleitores e de até vinte milhões de eleitores: R$ 14.000.000,00 (catorze milhões de reais);</p>
+            
+          </Inciso><Inciso id="art6_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>nas unidades da Federação com mais de vinte milhões de eleitores: R$ 21.000.000,00 (vinte e um milhões de reais).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nas eleições para Senador, serão os seguintes os limites de gastos de campanha de cada candidato:</p>
+            <Inciso id="art6_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nas unidades da Federação com até dois milhões de eleitores: R$ 2.500.000,00 (dois milhões e quinhentos mil reais);</p>
+            
+          </Inciso><Inciso id="art6_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nas unidades da Federação com mais de dois milhões de eleitores e de até quatro milhões de eleitores: R$ 3.000.000,00 (três milhões de reais);</p>
+            
+          </Inciso><Inciso id="art6_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>nas unidades da Federação com mais de quatro milhões de eleitores e de até dez milhões de eleitores: R$ 3.500.000,00 (três milhões e quinhentos mil reais);</p>
+            
+          </Inciso><Inciso id="art6_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>nas unidades da Federação com mais de dez milhões de eleitores e de até vinte milhões de eleitores: R$ 4.200.000,00 (quatro milhões e duzentos mil reais);</p>
+            
+          </Inciso><Inciso id="art6_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>nas unidades da Federação com mais de vinte milhões de eleitores: R$ 5.600.000,00 (cinco milhões e seiscentos mil reais).</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Nas campanhas para o segundo turno de governador, onde houver, o limite de gastos de cada candidato será de 50% (cinquenta por cento) dos limites fixados no § 1º deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Em 2018, o limite de gastos será de:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>R$ 2.500.000,00 (dois milhões e quinhentos mil reais) para as campanhas dos candidatos às eleições de Deputado Federal;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>R$ 1.000.000,00 (um milhão de reais) para as campanhas dos candidatos às eleições de Deputado Estadual e Deputado Distrital.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Nas eleições de 2018, se as doações de pessoas físicas a candidatos, somadas aos recursos públicos, excederem o limite de gastos permitido para a respectiva campanha, o valor excedente poderá ser transferido para o partido do candidato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Nas eleições de 2018, o candidato ao cargo de Deputado Federal, Deputado Estadual ou Deputado Distrital poderá usar recursos próprios em sua campanha, até o montante de 7% (sete por cento) do limite de gastos estabelecido nesta Lei para o respectivo cargo.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O candidato a cargo majoritário poderá utilizar recursos próprios em sua campanha até o limite de R$ 200.000,00 (duzentos mil reais).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Os partidos políticos e as pessoas físicas ou jurídicas devedoras de multas eleitorais poderão, no prazo de até noventa dias contado da publicação desta Lei, quitá-las com desconto de 90% (noventa por cento) sobre o valor devido, desde que efetuado o pagamento à vista.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Os partidos deverão adequar seus estatutos aos termos desta Lei até o final do exercício de 2017.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            <!--Link: urn:lex:br:federal:lei:2015-09-29;13165!art8--><!--Link: urn:lex:br:federal:lei:2015-09-29;13165!art6--><!--Link: urn:lex:br:federal:lei:2015-09-29;13165!art5--><!--Link: urn:lex:br:federal:lei:1997-09-30;9504!art23_par1-1--><!--Link: urn:lex:br:federal:lei:2015-09-29;13165!art10--><!--Link: urn:lex:br:federal:lei:2015-09-29;13165!art7--><!--Link: urn:lex:br:federal:lei:2015-09-29;13165!art11-->
+            
+            
+            <p>Ficam revogados o <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504!art23_par1-1">§ 1º-A do art. 23 da Lei nº 9.504, de 30 de setembro de 1997</span>, e os <span xlink:href="urn:lex:br:federal:lei:2015-09-29;13165!art5">arts. 5º</span>, <span xlink:href="urn:lex:br:federal:lei:2015-09-29;13165!art6">6º</span>, <span xlink:href="urn:lex:br:federal:lei:2015-09-29;13165!art7">7º</span>, <span xlink:href="urn:lex:br:federal:lei:2015-09-29;13165!art8">8º</span>, <span xlink:href="urn:lex:br:federal:lei:2015-09-29;13165!art10">10</span> e <span xlink:href="urn:lex:br:federal:lei:2015-09-29;13165!art11">11 da Lei nº 13.165, de 29 de setembro de 2015</span>.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

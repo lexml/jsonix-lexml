@@ -1,0 +1,409 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;73"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 73 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a emissão de duplicata sob a forma escritural; altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-10;9492">Lei nº 9.492, de 10 de setembro de 1997</span>; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre a emissão de duplicata sob a forma escritural.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1968-07-18;5474-->
+            
+            
+            <p>A duplicata de que trata a <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474">Lei n° 5.474, de 18 de julho de 1968</span>, pode ser emitida sob a forma escritural, para circulação como efeito comercial, observadas as disposições desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A emissão de duplicata sob a forma escritural far­se-á mediante lançamento em sistema eletrônico de escrituração gerido por quaisquer das entidades que exerçam a atividade de escrituração de duplicatas escriturais.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As entidades de que trata o caput deste artigo deverão ser autorizadas por órgão ou entidade da administração federal direta ou indireta a exercer a atividade de escrituração de duplicatas.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso da escrituração de que trata o caput deste artigo, feita por Central Nacional de Registro de Títulos e Documentos, após autorizada a exercer a atividade prevista no caput deste artigo, nos termos do § 1° deste artigo, a referida escrituração caberá ao oficial de registro do domicílio do emissor da duplicata.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se o oficial de registro não estiver integrado ao sistema central, a competência de que trata o § 2° deste artigo será transferida para a Capital da respectiva entidade federativa.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O valor total dos emolumentos cobrados pela central nacional de que trata o § 2º deste artigo para a prática dos atos descritos nesta Lei será fixado pelos Estados e pelo Distrito Federal, observado o valor máximo de R$ 1,00 (um real) por duplicata.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Deverá ocorrer no sistema eletrônico de que trata o art. 3° desta Lei, relativamente à duplicata emitida sob a forma escritural, a escrituração, no mínimo, dos seguintes aspectos:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>apresentação, aceite, devolução e formalização da prova do pagamento;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>controle e transferência da titularidade;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>prática de atos cambiais sob a forma escritural, tais como endosso e aval;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>inclusão de indicações, informações ou de declarações referentes à operação com base na qual a duplicata foi emitida ou ao próprio título; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>inclusão de informações a respeito de ônus e gravames constituídos sobre as duplicatas.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O gestor do sistema eletrônico de escrituração deverá realizar as comunicações dos atos de que trata o caput deste artigo ao devedor e aos demais interessados.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O órgão ou entidade da administração federal de que trata o § 1º do art. 3° desta Lei poderá definir a forma e os procedimentos que deverão ser observados para a realização das comunicações previstas no § 1° deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O sistema eletrônico de escrituração de que trata o caput deste artigo disporá de mecanismos que permitam ao sacador e ao sacado comprovarem, por quaisquer meios de prova admitidos em direito, a entrega e o recebimento das mercadorias ou a prestação do serviço, devendo a apresentação das provas ser efetuada em meio eletrônico.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os endossantes e avalistas indicados pelo apresentante ou credor como garantidores do cumprimento da obrigação constarão como tal dos extratos de que trata o art. 6° desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Constituirá prova de pagamento, total ou parcial, da duplicata emitida sob a forma escritural a liquidação do pagamento em favor do legítimo credor, utilizando-se qualquer meio de pagamento existente no âmbito do Sistema de Pagamentos Brasileiro.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A prova de pagamento de que trata o caput deste artigo deverá ser informada no sistema eletrônico de escrituração previsto no art. 3° desta Lei, com referência expressa à duplicata amortizada ou liquidada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:lei:2013-05-15;12810-->
+            
+            
+            <p>Os gestores dos sistemas eletrônicos de escrituração de que trata o art. 3° desta Lei ou os depositários centrais, na hipótese de a duplicata emitida sob a forma escritural ter sido depositada de acordo com a <span xlink:href="urn:lex:br:federal:lei:2013-05-15;12810">Lei n° 12.810, de 15 de maio de 2013</span>, expedirão, a pedido de qualquer solicitante, extrato do registro eletrônico da duplicata.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Deverão constar do extrato expedido, no mínimo:</p>
+            <Inciso id="art6_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a data da emissão e as informações referentes ao sistema eletrônico de escrituração no âmbito do qual a duplicata foi emitida;</p>
+            
+          </Inciso><Inciso id="art6_par1_inc2">
+            <!--Link: urn:lex:br:federal:lei:1968-07-18;5474!art2-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>os elementos necessários à identificação da duplicata, nos termos do <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474!art2">art. 2° da Lei n° 5.474, de 18 de julho de 1968</span>;</p>
+            
+          </Inciso><Inciso id="art6_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a cláusula de inegociabilidade; e</p>
+            
+          </Inciso><Inciso id="art6_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as informações acerca dos ônus e gravames.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O extrato de que trata o caput deste artigo pode ser emitido em forma eletrônica, observados requisitos de segurança que garantam a autenticidade do documento.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O sistema eletrônico de escrituração de que trata o art. 3° desta Lei deverá manter em seus arquivos cópia eletrônica dos extratos emitidos.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Será gratuita a qualquer solicitante a informação, prestada por meio da rede mundial de computadores, de inadimplementos registrados em relação a determinado devedor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            <!--Link: urn:lex:br:federal:lei:1968-07-18;5474!art15-->
+            
+            
+            <p>A duplicata emitida sob a forma escritural e o extrato de que trata o art. 6° desta Lei são títulos executivos extrajudiciais, devendo-se observar, para sua cobrança judicial, o disposto no <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474!art15">art. 15 da Lei n° 5.474, de 18 de julho de 1968</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-10;9492-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-09-10;9492">Lei n° 9.492, de 10 de setembro de 1997</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-10;9492" id="art8_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-10;9492 -> MatchByBase(urn:lex:br:federal:lei:1997-09-10;9492,1997,Some((9,10)),Map(art41-1_cpt_inc5 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_cpt_inc5), art41-1_cpt_inc1 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_cpt_inc1), art41-1_par1 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_par1), art41-1 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1), art8_par2 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art8_par2), art8 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art8), art41-1_cpt_inc2 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_cpt_inc2), art41-1_par2 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_par2), art8_par1 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art8_par1), art8_cpt -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art8_cpt), art41-1_cpt -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_cpt), art41-1_cpt_inc4 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_cpt_inc4), art41-1_cpt_inc3 -> PrefixMatch(URN(1997,Some((9,10)),,urn:lex:br:federal:lei:1997-09-10;9492),art41-1_cpt_inc3)))))-->
+              <Artigo xlink:href="art8" id="art8_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art8_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art8_par1" id="art8_cpt_alt1_art8_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art8_par2" id="art8_cpt_alt1_art8_par2" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:2013-05-15;12810-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os títulos e documentos de dívida mantidos sob a forma escritural nos sistemas eletrônicos de escrituração ou nos depósitos centralizados de que trata a <span xlink:href="urn:lex:br:federal:lei:2013-05-15;12810">Lei n° 12.810, de 15 de maio de 2013</span>, poderão ser recepcionados para protesto por extrato, desde que atestado por seu emitente, sob as penas da lei, que as informações conferem com o que consta na origem.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art41-1" id="art8_cpt_alt1_art41-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 41-A.</Rotulo>
+            
+            <Caput xlink:href="art41-1_cpt" id="art8_cpt_alt1_art41-1_cpt">
+            
+            
+            
+            <p>Os tabeliães de protesto manterão, em âmbito nacional, uma central nacional de serviços eletrônicos compartilhados que prestará, ao menos, os seguintes serviços:</p>
+            <Inciso xlink:href="art41-1_cpt_inc1" id="art8_cpt_alt1_art41-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>escrituração e emissão de duplicata sob a forma escritural, observado o disposto na legislação específica, inclusive quanto ao requisito de autorização prévia para o exercício da atividade de escrituração pelo órgão supervisor e aos demais requisitos previstos na regulamentação por ele editada;</p>
+            
+          </Inciso><Inciso xlink:href="art41-1_cpt_inc2" id="art8_cpt_alt1_art41-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>recepção e distribuição de títulos e documentos de dívida para protesto, desde que escriturais;</p>
+            
+          </Inciso><Inciso xlink:href="art41-1_cpt_inc3" id="art8_cpt_alt1_art41-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>consulta gratuita quanto a devedores inadimplentes e aos protestos realizados, aos dados desses protestos e dos tabelionatos aos quais foram distribuídos, ainda que os respectivos títulos e documentos de dívida não sejam escriturais;</p>
+            
+          </Inciso><Omissis id="art8_cpt_alt1_art41-1_cpt_omi1"/><Inciso xlink:href="art41-1_cpt_inc4" id="art8_cpt_alt1_art41-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>confirmação da autenticidade dos instrumentos de protesto em meio eletrônico; e</p>
+            
+          </Inciso><Inciso xlink:href="art41-1_cpt_inc5" id="art8_cpt_alt1_art41-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>anuência eletrônica para o cancelamento de protestos.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art41-1_par1" id="art8_cpt_alt1_art41-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A partir da implementação da central de que trata o caput deste artigo, os tabelionatos de protesto disponibilizarão ao poder público, por meio eletrônico e sem ônus, o acesso às informações constantes dos seus bancos de dados.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art41-1_par2" id="art8_cpt_alt1_art41-1_par2" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:1994-11-18;8935!art31_cpt_inc1-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É obrigatória a adesão imediata de todos os tabeliães de protesto do País ou responsáveis pelo expediente à central nacional de serviços eletrônicos compartilhados de que trata o caput deste artigo, sob pena de responsabilização disciplinar nos termos do <span xlink:href="urn:lex:br:federal:lei:1994-11-18;8935!art31_cpt_inc1">inciso I do caput do art. 31 da Lei n° 8.935, de 18 de novembro de 1994</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:1968-07-18;5474!art19-->
+            
+            
+            <p>Os lançamentos no sistema eletrônico de que trata o art. 3° desta Lei substituem o Livro de Registro de Duplicatas, previsto no <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474!art19">art. 19 da Lei n° 5.474, de 18 de julho de 1968</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>São nulas de pleno direito as cláusulas contratuais que vedam, limitam ou oneram, de forma direta ou indireta, a emissão ou a circulação de duplicatas emitidas sob a forma cartular ou escritural.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O órgão ou entidade da administração federal de que trata o § 1º do art. 3° desta Lei poderá regulamentar o disposto nesta Lei, inclusive quanto à forma e periodicidade do compartilhamento de registros, à fiscalização da atividade de escrituração de duplicatas escriturais, aos requisitos de funcionamento do sistema eletrônico de escrituração e às condições de emissão, de negociação, de liquidação e de escrituração da duplicata emitida sob a forma escritural.</p>
+            
+          </Caput><Paragrafo id="art11_par1u">
+            <!--Link: urn:lex:br:federal:lei:2017-11-13;13506-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Em caso de descumprimento desta Lei ou da regulamentação de que trata o caput deste artigo, serão aplicáveis as disposições da <span xlink:href="urn:lex:br:federal:lei:2017-11-13;13506">Lei n° 13.506, de 13 de novembro de 2017</span>, pelo órgão ou entidade da administração federal de que trata o § 1º do art. 3° desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            <!--Link: urn:lex:br:federal:lei:1968-07-18;5474-->
+            
+            
+            <p>Às duplicatas escriturais são aplicáveis, de forma subsidiária, as disposições da <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474">Lei n° 5.474, de 18 de julho de 1968</span>.</p>
+            
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A apresentação da duplicata escritural será efetuada por meio eletrônico, observados os prazos determinados pelo órgão ou entidade da administração federal de que trata o § 1º do art. 3° desta Lei ou, na ausência dessa determinação, o prazo de 2 (dois) dias úteis contados de sua emissão.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            <!--Link: urn:lex:br:federal:lei:1968-07-18;5474!art7--><!--Link: urn:lex:br:federal:lei:1968-07-18;5474!art8-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O devedor poderá, por meio eletrônico, recusar, no prazo, nas condições e pelos motivos previstos nos <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474!art7">arts. 7°</span> e <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474!art8">8° da Lei n° 5.474, de 18 de julho de 1968</span>, a duplicata escritural apresentada ou, no mesmo prazo acrescido de sua metade, aceitá-la.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par3">
+            <!--Link: urn:lex:br:federal:lei:1968-07-18;5474!art2_par1_inc6--><!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art75_par1--><!--Link: urn:lex:br:federal:lei:2002-01-10;10406!art327-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para fins de protesto, a praça de pagamento das duplicatas escriturais de que trata o <span xlink:href="urn:lex:br:federal:lei:1968-07-18;5474!art2_par1_inc6">inciso VI do § 1º do art. 2º da Lei n° 5.474, de 18 de julho de 1968</span>, deverá coincidir com o domicílio do devedor, segundo a regra geral do <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art75_par1">§ 1º do art. 75</span> e do <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406!art327">art. 327 da Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), salvo convenção expressa entre as partes que demonstre a concordância inequívoca do devedor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

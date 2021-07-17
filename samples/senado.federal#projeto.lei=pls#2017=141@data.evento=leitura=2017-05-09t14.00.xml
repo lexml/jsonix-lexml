@@ -1,0 +1,238 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;141@data.evento;leitura;2017-05-09t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 141 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe acerca do contrato de abertura de limite de crédito, das correspondentes garantias contratuais e dos contratos de operações financeiras derivadas celebrados no âmbito do Sistema Financeiro Nacional.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O contrato de abertura de limite de crédito por parte das instituições financeiras poderá ser celebrado por instrumento público ou particular e, em razão dele, a instituição financeira fará desembolsos de crédito ao tomador em contratos de operações financeiras derivadas, que observarão o valor máximo, o prazo de vigência e as condições indicados no contrato de abertura de limite de crédito.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O instrumento do contrato de abertura de limite de crédito referido no caput deste artigo deverá conter os seguintes requisitos essenciais:</p>
+            <Inciso id="art1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o valor total do limite de crédito aberto;</p>
+            
+          </Inciso><Inciso id="art1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o prazo de vigência;</p>
+            
+          </Inciso><Inciso id="art1_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a forma de celebração das operações financeiras derivadas;</p>
+            
+          </Inciso><Inciso id="art1_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a taxa mínima e máxima de juros que incidirão nas operações financeiras derivadas, a existência – se for o caso – e a periodicidade da capitalização de juros e demais encargos passíveis de cobrança quando da realização dos contratos de operações financeiras derivadas;</p>
+            
+          </Inciso><Inciso id="art1_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a descrição das garantias reais e pessoais;</p>
+            
+          </Inciso><Inciso id="art1_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a previsão, se pactuada entre as partes, de que todos os contratos de operações financeiras derivadas do contrato de abertura de limite de crédito contenham cláusula de vencimento antecipado cruzado entre eles, de modo que, se qualquer um dos contratos derivados for inadimplido pelo devedor, ao credor será facultado considerar vencidos todos os outros, tornando-se exigível a totalidade da dívida.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A indicação dos requisitos mencionados no § 1º deste artigo satisfaz as exigências contidas nos seguintes dispositivos:</p>
+            <Inciso id="art1_par2_inc1">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc1--><!--Link: urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc2--><!--Link: urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc3-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>incisos I, II e III do art. 18; e <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc1">incisos I</span>, <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc2">II</span> e <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc3">III do art. 24 da Lei nº 9.514, de 20 de novembro de 1997</span>;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc2">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>incisos I, II e III do art. 1.362; e incisos I, II e III do art. 1.424, da <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span>; e</p>
+            
+          </Inciso><Inciso id="art1_par2_inc3">
+            <!--Link: urn:lex:br:federal:lei:1965-07-14;4728!art66-2_cpt-->
+            
+            <Rotulo>III –</Rotulo>
+            <p><span xlink:href="urn:lex:br:federal:lei:1965-07-14;4728!art66-2_cpt">caput do art. 66-B da Lei nº 4.728, de 14 de julho de 1965</span>.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2004-08-02;10931-->
+            
+            
+            <p>Os contratos de operações financeiras derivadas, no âmbito desta Lei, serão celebrados mediante a formalização de instrumentos representativos da operação de crédito correspondente, podendo ser utilizada Cédula de Crédito Bancário, na forma da <span xlink:href="urn:lex:br:federal:lei:2004-08-02;10931">Lei nº 10.931, de 2 de agosto de 2004</span>, ou qualquer outro instrumento previsto na legislação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As garantias indicadas no instrumento do contrato de abertura do limite de crédito, no âmbito desta Lei, poderão servir para assegurar todos os contratos de operações financeiras derivadas, independentemente de qualquer registro ou de averbação adicional.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O registro das garantias indicadas no contrato de abertura de limite de crédito dispensa o registro, a averbação ou a transcrição dos contratos de operações financeiras derivadas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O registro, no órgão competente, das garantias indicadas no instrumento de abertura de limite de crédito deverá ser efetuado na forma prevista na legislação especial que trata de cada modalidade da garantia real ou pessoal, observado o disposto no § 2º do art. 1º deste artigo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A extinção das garantias mencionadas no instrumento do contrato de abertura de limite de crédito ocorrerá mediante termo de quitação que deverá ser emitido pela instituição financeira credora por instrumento público ou particular, desde que todos os contratos de operações financeiras derivadas, se tiverem sido celebrados, tenham sido quitados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514!art27_par5--><!--Link: urn:lex:br:federal:lei:1997-11-20;9514!art27_par6-->
+            
+            
+            <p>Se, após a excussão das garantias indicadas no instrumento do contrato de abertura de limite de crédito, o produto resultante não bastar para quitação do saldo devedor decorrente dos contratos de operações financeiras derivadas, acrescido das despesas de cobrança, judicial e extrajudicial, o tomador e, se houver pacto em sentido expresso, os prestadores de garantia pessoal continuarão obrigados pelo saldo devedor remanescente, afastada a aplicação do disposto nos <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514!art27_par5">parágrafos 5º</span> e <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514!art27_par6">6º do art. 27 da Lei nº 9.514, de 20 de novembro de 1997</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            <!--Link: urn:lex:br:federal:lei:1965-07-14;4728!art66-2_par3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1965-07-14;4728!art66-2_par3">§ 3º do art. 66-B da Lei nº 4.728, de 14 de julho de 1965</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1965-07-14;4728" id="art7_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1965-07-14;4728 -> MatchByBase(urn:lex:br:federal:lei:1965-07-14;4728,1965,Some((7,14)),Map(art66-2 -> SuperPrefixMatch(URN(1965,Some((7,14)),art66-2_par3,urn:lex:br:federal:lei:1965-07-14;4728!art66-2_par3),art66-2), art66-2_cpt -> SuperPrefixMatch(URN(1965,Some((7,14)),art66-2_par3,urn:lex:br:federal:lei:1965-07-14;4728!art66-2_par3),art66-2_cpt), art66-2_par3 -> ExactMatch(URN(1965,Some((7,14)),art66-2_par3,urn:lex:br:federal:lei:1965-07-14;4728!art66-2_par3))))))-->
+              <Artigo xlink:href="art66-2" id="art7_cpt_alt1_art66-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 66-B.</Rotulo>
+            
+            <Caput xlink:href="art66-2_cpt" id="art7_cpt_alt1_art66-2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art66-2_par3" id="art7_cpt_alt1_art66-2_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É admitida a alienação fiduciária de coisa móvel fungível e infungível e a cessão fiduciária de direitos sobre coisas móveis, bem como de títulos de crédito, inclusive para garantia de dívida futura, hipóteses em que, salvo disposição em contrário, a posse direta e indireta do bem objeto da propriedade fiduciária ou do título representativo do direito ou do crédito é atribuída ao credor.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc1">inciso I do art. 24 da Lei nº 9.514, de 20 de novembro de 1997</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-11-20;9514" id="art8_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-11-20;9514 -> MatchByBase(urn:lex:br:federal:lei:1997-11-20;9514,1997,Some((11,20)),Map(art24 -> SuperPrefixMatch(URN(1997,Some((11,20)),art24_cpt_inc1,urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc1),art24), art24_cpt -> SuperPrefixMatch(URN(1997,Some((11,20)),art24_cpt_inc1,urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc1),art24_cpt), art24_cpt_inc1 -> ExactMatch(URN(1997,Some((11,20)),art24_cpt_inc1,urn:lex:br:federal:lei:1997-11-20;9514!art24_cpt_inc1))))))-->
+              <Artigo xlink:href="art24" id="art8_cpt_alt1_art24" abreAspas="s">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput xlink:href="art24_cpt" id="art8_cpt_alt1_art24_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art24_cpt_inc1" id="art8_cpt_alt1_art24_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o valor do principal da dívida ou a sua estimativa;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art8_cpt_alt1_art24_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

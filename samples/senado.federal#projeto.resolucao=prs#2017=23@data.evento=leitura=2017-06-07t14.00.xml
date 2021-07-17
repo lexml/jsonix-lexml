@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;23@data.evento;leitura;2017-06-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 23 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:resolucao:1993;20!art23">art. 23 da Resolução nº 20, de 1993</span>, que institui o Código de Ética e Decoro Parlamentar, para vedar a reeleição de Presidente e Vice-Presidente para o período imediatamente subsequente.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:resolucao:1993;20!art23-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:resolucao:1993;20!art23">art. 23 da Resolução nº 20, de 1993</span>, passa a vigorar acrescido do seguinte parágrafo 5º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:resolucao:1993;20" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:resolucao:1993;20 -> MatchByBase(urn:lex:br:federal:resolucao:1993;20,1993,None,Map(art23 -> ExactMatch(URN(1993,None,art23,urn:lex:br:federal:resolucao:1993;20!art23)), art23_cpt -> PrefixMatch(URN(1993,None,art23,urn:lex:br:federal:resolucao:1993;20!art23),art23_cpt), art23_par5 -> PrefixMatch(URN(1993,None,art23,urn:lex:br:federal:resolucao:1993;20!art23),art23_par5)))))-->
+              <Artigo xlink:href="art23" id="art1_cpt_alt1_art23" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput xlink:href="art23_cpt" id="art1_cpt_alt1_art23_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art23_omi1"/><Paragrafo xlink:href="art23_par5" id="art1_cpt_alt1_art23_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O Conselho de Ética e Decoro Parlamentar terá um Presidente e um Vice-Presidente, eleitos por seus pares dentre os membros titulares, vedada a reeleição para o mesmo cargo na eleição subsequente.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

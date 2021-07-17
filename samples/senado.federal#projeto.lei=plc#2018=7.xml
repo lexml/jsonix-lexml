@@ -1,0 +1,370 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;7"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 7 DE 2018</Epigrafe>
+      <Ementa id="ementa">Cria a Universidade Federal de Jataí, por desmembramento da Universidade Federal de Goiás.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1960-12-14;3834-3-->
+            
+            
+            <p>Fica criada a Universidade Federal de Jataí (UFJ), por desmembramento da Universidade Federal de Goiás (UFG), criada pela <span xlink:href="urn:lex:br:federal:lei:1960-12-14;3834-3">Lei nº 3.834-C, de 14 de dezembro de 1960</span>.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A UFJ, com natureza jurídica de autarquia, vinculada ao Ministério da Educação, terá sede e foro no Município de Jataí, Estado de Goiás.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A UFJ terá por objetivo ministrar ensino superior, desenvolver pesquisa nas diversas áreas do conhecimento e promover a extensão universitária, caracterizando sua inserção regional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A estrutura organizacional e a forma de funcionamento da UFJ, observado o princípio constitucional da indissociabilidade entre ensino, pesquisa e extensão, serão definidas nos termos desta Lei, do seu estatuto e das demais normas pertinentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O campus de Jataí, constituído das unidades de Riachuelo e Jatobá - Cidade Universitária José Cruciano de Araújo, passa a integrar a UFJ.</p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O disposto no caput deste artigo inclui a transferência automática dos:</p>
+            <Inciso id="art4_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cursos de todos os níveis, independentemente de qualquer formalidade;</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>alunos regularmente matriculados nos cursos transferidos, que passam a integrar o corpo discente da UFJ, independentemente de qualquer outra exigência; e</p>
+            
+          </Inciso><Inciso id="art4_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cargos ocupados e vagos do quadro de pessoal da UFG disponibilizados para funcionamento do campus na data de entrada em vigor desta Lei.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O patrimônio da UFJ será constituído por:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>bens e direitos que adquirir;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>bens e direitos doados pela União, por Estados, por Municípios e por entidades públicas e particulares; e</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>bens patrimoniais da UFG disponibilizados para o funcionamento do campus de Jataí, unidades de Riachuelo e Jatobá – Cidade Universitária José Cruciano, em Jataí, na data de entrada em vigor desta Lei, formalizada a transferência nos termos da legislação e dos procedimentos de regência.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Só será admitida a doação à UFJ de bens livres e desembaraçados de quaisquer ônus.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os bens e direitos da UFJ serão utilizados ou aplicados exclusivamente para a consecução de seus objetivos e não poderão ser alienados, exceto nos casos e nas condições permitidos em lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Fica o Poder Executivo federal autorizado a transferir para a UFJ bens móveis e imóveis integrantes do patrimônio da União necessários ao seu funcionamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Os recursos financeiros da UFJ serão provenientes de:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dotações consignadas no orçamento geral da União;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>auxílios e subvenções concedidos por entidades públicas e particulares;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>receitas eventuais, a título de remuneração por serviços prestados, compatíveis com a finalidade da UFJ, nos termos do seu estatuto e do seu regimento geral;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>convênios, acordos e contratos celebrados com entidades e organismos nacionais e internacionais; e</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>outras receitas eventuais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>A administração superior da UFJ será exercida pelo Reitor e pelo Conselho Universitário, no âmbito de suas competências, a serem definidas no seu estatuto e no seu regimento geral.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A presidência do Conselho Universitário será exercida pelo Reitor da UFJ.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Vice-Reitor substituirá o Reitor em suas ausências ou impedimentos legais.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O estatuto da UFJ disporá sobre a composição e as competências do Conselho Universitário.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:2005-01-12;11091-->
+            
+            
+            <p>Ficam criados, para composição do quadro de pessoal da UFJ, sessenta e sete cargos do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, previsto na <span xlink:href="urn:lex:br:federal:lei:2005-01-12;11091">Lei nº 11.091, de 12 de janeiro de 2005</span>, dos quais trinta e um são cargos de nível de classificação “E” e trinta e seis são cargos de nível de classificação “D”, na forma descrita no Anexo desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Ficam criados, no âmbito do Poder Executivo federal, os seguintes Cargos de Direção (CD), Funções Gratificadas (FG) e Funções Comissionadas de Coordenação de Curso (FCC):</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>sete CD-2;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>oito CD-3;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>vinte e cinco CD-4;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>cinquenta e três FG-1;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>cento e seis FG-2;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>sessenta e três FG-3; e</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>dois FCC.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            <!--Link: urn:lex:br:federal:lei:2012-06-25;12677-->
+            
+            
+            <p>Ficam criados, mediante transformação de dois cargos CD-3 e dois cargos CD-4 criados pela <span xlink:href="urn:lex:br:federal:lei:2012-06-25;12677">Lei nº 12.677, de 25 junho de 2012</span>:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um cargo de Reitor - CD-1 da UFJ; e</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>um cargo de Vice-Reitor - CD-2 da UFJ.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Reitor e o Vice-Reitor serão nomeados pro tempore, em ato do Ministro de Estado da Educação, até que a UFJ seja organizada na forma de seu estatuto.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caberá ao Reitor pro tempore estabelecer as condições para a escolha do Reitor da Universidade, de acordo com a legislação vigente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O provimento dos cargos e funções previstos nesta Lei fica condicionado à expressa autorização em anexo próprio da lei orçamentária anual.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>A UFJ encaminhará ao Ministério da Educação proposta de estatuto no prazo de cento e oitenta dias, contado da data de nomeação do Reitor e Vice-Reitor pro tempore.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor:</p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>no dia 1º de janeiro de 2018 ou na data de sua publicação, se posterior, quanto ao arts. 9º e 10; e</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>na data de sua publicação, quanto aos demais dispositivos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

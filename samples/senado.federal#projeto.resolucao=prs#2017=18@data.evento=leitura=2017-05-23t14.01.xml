@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;18@data.evento;leitura;2017-05-23t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 18 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta o § 4º ao <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93!art383">art. 383 do Regimento Interno do Senado Federal</span> para dispensar a arguição do indicado em caso de recondução a cargo referido no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc3">inciso III do art. 52 da Constituição Federal</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:senado.federal:resolucao:1970-11-27;93!art383-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:senado.federal:resolucao:1970-11-27;93!art383">art. 383 do Regimento Interno do Senado Federal</span> passa a vigorar acrescido do § 4º, com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:senado.federal:resolucao:1970-11-27;93" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:senado.federal:resolucao:1970-11-27;93 -> MatchByBase(urn:lex:br:senado.federal:resolucao:1970-11-27;93,1970,Some((11,27)),Map(art383 -> ExactMatch(URN(1970,Some((11,27)),art383,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art383)), art383_cpt -> PrefixMatch(URN(1970,Some((11,27)),art383,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art383),art383_cpt), art383_par4 -> PrefixMatch(URN(1970,Some((11,27)),art383,urn:lex:br:senado.federal:resolucao:1970-11-27;93!art383),art383_par4)))))-->
+              <Artigo xlink:href="art383" id="art1_cpt_alt1_art383" abreAspas="s">
+            
+            
+            <Rotulo>Art. 383.</Rotulo>
+            
+            <Caput xlink:href="art383_cpt" id="art1_cpt_alt1_art383_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art383_omi1"/><Paragrafo xlink:href="art383_par4" id="art1_cpt_alt1_art383_par4" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc3-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Quando se tratar de recondução a cargo mencionado no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art52_cpt_inc3">inciso III do art. 52 da Constituição Federal</span>, não serão exigidas a arguição pública e interpelação do indicado previstas nas alíneas “c” a “f” do inciso II deste artigo, salvo se houver recurso de um décimo da composição do Senado Federal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

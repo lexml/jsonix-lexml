@@ -1,0 +1,2305 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;19"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 19 DE 2018</Epigrafe>
+      <Ementa id="ementa">Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art144_par7">§ 7° do art. 144 da Constituição Federal</span>; cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); altera a <span xlink:href="urn:lex:br:federal:lei.complementar:1994-01-07;79">Lei Complementar nº 79, de 7 de janeiro de 1994</span>, e as <span xlink:href="urn:lex:br:federal:lei:2001-02-14;10201">Leis nºs 10.201, de 14 de fevereiro de 2001</span>, e <span xlink:href="urn:lex:br:federal:lei:2007-10-24;11530">11.530, de 24 de outubro de 2007</span>; revoga dispositivos da <span xlink:href="urn:lex:br:federal:lei:2012-07-04;12681">Lei nº 12.681, de 4 de julho de 2012</span>; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES PRELIMINARES</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei institui o Sistema Único de Segurança Pública (Susp) e cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS), com a finalidade de preservação da ordem pública e da incolumidade das pessoas e do patrimônio, por meio de atuação conjunta, coordenada, sistêmica e integrada dos órgãos de segurança pública e defesa social da União, dos Estados, do Distrito Federal e dos Municípios, em articulação com a sociedade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A segurança pública é dever do Estado e responsabilidade de todos, compreendendo a União, os Estados, o Distrito Federal e os Munícipios, no âmbito das competências e atribuições legais de cada um.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DA POLÍTICA NACIONAL DE SEGURANÇA PÚBLICA E DEFESA SOCIAL</NomeAgrupador>
+            <Secao id="cap2_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Definição</NomeAgrupador>
+            <Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Compete à União estabelecer a Política Nacional de Segurança Pública e Defesa Social (PNSPDS) e aos Estados, Municípios e Distrito Federal estabelecer suas respectivas políticas, observadas as diretrizes da política nacional, especialmente na análise e enfrentamento dos riscos à harmonia da convivência social, com destaque às situações de emergência, aos crimes interestaduais e transnacionais.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos Princípios</NomeAgrupador>
+            <Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São princípios da PNSPDS:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>respeito ao ordenamento jurídico, aos direitos e garantias individuais e coletivos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>proteção, valorização e reconhecimento dos profissionais de segurança pública;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>proteção dos direitos humanos, respeito aos direitos fundamentais e promoção da cidadania e da dignidade da pessoa humana;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>eficiência na prevenção e controle das infrações penais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>eficiência na repressão e apuração das infrações penais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>eficiência na prevenção e redução de riscos nas situações de emergência e desastres que afetam a vida, o patrimônio e o meio ambiente;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>participação e controle social;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>resolução pacífica de conflitos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>uso comedido e proporcional da força;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>proteção da vida, do patrimônio e do meio ambiente;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>publicidade das informações não sigilosas;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>promoção da produção de conhecimento sobre a segurança pública;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>otimização dos recursos materiais, humanos e financeiros das instituições;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>simplicidade, informalidade, economia procedimental e celeridade no serviço prestado à sociedade;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>relação harmônica e colaborativa entre os Poderes;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>transparência, responsabilização e prestação de contas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Das Diretrizes</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>São diretrizes da PNSPDS:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>atendimento imediato ao cidadão;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>planejamento estratégico e sistêmico;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fortalecimento das ações de prevenção e resolução pacífica de conflitos, priorizando políticas de redução da letalidade violenta, com ênfase para os grupos vulneráveis;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>atuação integrada entre a União, os Estados, o Distrito Federal e os Municípios em ações de segurança pública e políticas transversais para a preservação da vida, do meio ambiente e da dignidade da pessoa humana;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>ações de coordenação, cooperação e colaboração dos órgãos e instituições de segurança pública nas fases de planejamento, execução, monitoramento e avaliação das ações, respeitando-se as atribuições legais e promovendo a racionalização de meios com base nas melhores práticas;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>formação e capacitação continuada e qualificada dos profissionais de segurança pública, em consonância com a matriz curricular nacional;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>fortalecimento das instituições de segurança pública por meio de investimento e desenvolvimento de projetos estruturantes e de inovação tecnológica;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>sistematização e compartilhamento das informações de segurança pública, prisionais e sobre drogas, em âmbito nacional;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>atuação com base em pesquisas, estudos e diagnósticos em áreas de interesse da segurança pública;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>atendimento prioritário, qualificado e humanizado às pessoas em situação de vulnerabilidade;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>padronização de estruturas, de capacitação, de tecnologia e de equipamentos de interesse da segurança pública;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>ênfase nas ações de policiamento de proximidade com foco orientado à resolução de problemas;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>modernização do sistema e da legislação de acordo com a evolução social;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>participação social nas questões de segurança pública;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>integração entre os Poderes Legislativo, Executivo e Judiciário no aprimoramento e aplicação da legislação penal;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>colaboração do Poder Judiciário e do Ministério Público na construção das estratégias e metas para alcançar os objetivos desta Política;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>fomento de políticas públicas voltadas à reinserção social dos egressos do sistema prisional;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>acesso às informações dos egressos do sistema socioeducativo para incentivar políticas públicas;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>incentivo ao desenvolvimento de programas e projetos com foco na promoção da cultura de paz, na segurança comunitária, na integração das políticas de segurança com as políticas sociais existentes em outros órgãos e entidades não pertencentes ao sistema de segurança pública;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>distribuição do efetivo de acordo com critérios técnicos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>deontologia policial e de bombeiro militar comuns, respeitados os regimes jurídicos e as peculiaridades de cada instituição;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>unidade de registro de ocorrência policial;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>uso de sistema integrado de informações e dados eletrônicos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc24">
+            
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>incentivo à aplicação de reajustes de valores iguais e critérios de progressão funcional por ocasião da revisão dos planos de cargos e salários;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc25">
+            
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>incentivo à ocupação de cargos de chefia levando em consideração a graduação do servidor, a capacitação, a meritocracia e a experiência na atividade policial específica, dentro do quadro de servidores da carreira;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>realização de termo de parceria e protocolos com agências de vigilância privada, respeitada a lei de licitações.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Dos Objetivos</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>São objetivos da PNSPDS:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>fomentar a integração em ações estratégicas e operacionais, atividades de inteligência de segurança pública e gerenciamento de crises e incidentes;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>apoiar as ações de manutenção da ordem pública e da incolumidade das pessoas, do patrimônio, do meio ambiente, de bens e direitos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>incentivar medidas para a modernização de equipamentos, da investigação, da perícia e da padronização de tecnologia dos órgãos e das instituições de segurança pública;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estimular e apoiar a realização de ações de prevenção à violência e à criminalidade, prioritariamente relacionadas à letalidade da população jovem negra, das mulheres e de outros grupos vulneráveis;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>promover a participação social nos conselhos de segurança pública;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>estimular a produção e publicação de estudos e diagnósticos para a formulação e avaliação de políticas públicas;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>promover a interoperabilidade dos sistemas de segurança pública;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>incentivar e ampliar as ações de prevenção, controle e fiscalização para a repressão aos crimes transfronteiriços;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>estimular o intercâmbio de informações de inteligência de segurança pública com instituições estrangeiras congêneres;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>integrar e compartilhar as informações de segurança pública, prisionais e sobre drogas;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>estimular a padronização da formação, da capacitação e da qualificação dos profissionais de segurança pública, respeitadas as especificidades e as diversidades regionais, em consonância com esta Política, nos âmbitos federal, estadual, distrital e municipal;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>fomentar o aperfeiçoamento da aplicação e do cumprimento de medidas restritivas de direito e de penas alternativas para o sistema penitenciário;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>fomentar o aperfeiçoamento dos regimes de cumprimento de pena restritiva de liberdade em relação à gravidade dos crimes cometidos;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>fomentar o aperfeiçoamento da aplicação e do cumprimento das medidas socioeducativas, bem como racionalizar e humanizar os ambientes de internação do sistema socioeducativo;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>racionalizar e humanizar o sistema penitenciário e outros ambientes de encarceramento;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>fomentar estudos, pesquisas e publicações sobre a política de enfrentamento às drogas e de redução de danos relacionados aos seus usuários e grupos sociais com os quais convivem;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>fomentar ações permanentes para o combate ao crime organizado e à corrupção;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>estabelecer mecanismos de monitoramento e de avaliação das ações implementadas;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>promover uma relação colaborativa entre os órgãos de segurança pública e os integrantes do sistema judiciário para a construção das estratégias e o desenvolvimento das ações necessárias ao alcance das metas estabelecidas;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>estimular a concessão de medidas protetivas em favor de pessoas em situação de vulnerabilidade;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>estimular a criação de mecanismos de proteção aos agentes públicos que compõem o sistema nacional de segurança pública e a seus familiares;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>estimular e incentivar a elaboração, a execução e o monitoramento de ações nas áreas de valorização profissional, de saúde, de qualidade de vida e de segurança dos servidores que compõem o sistema nacional de segurança pública;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>priorizar políticas de redução da letalidade violenta;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc24">
+            
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>fortalecer os mecanismos de investigação de crimes hediondos e de homicídios;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc25">
+            
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>fortalecer as ações de fiscalização de armas de fogo e munições, com vistas à redução da violência armada;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>fortalecer as ações de prevenção e repressão aos crimes cibernéticos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap2_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Da Estratégia</NomeAgrupador>
+            <Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A PNSPDS será implementada por estratégias que garantam integração, coordenação e cooperação federativa, interoperabilidade, liderança situacional, modernização da gestão das instituições de segurança pública, valorização e proteção dos profissionais, complementaridade, dotação de recursos humanos, diagnóstico dos problemas a serem enfrentados, excelência técnica, avaliação continuada dos resultados e garantia da regularidade orçamentária para execução de planos e programas de segurança pública.</p>
+            
+          </Caput><Paragrafo id="art7_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os objetivos estabelecidos direcionarão a formulação do plano nacional de segurança pública, documento que estabelecerá as estratégias, as metas, os indicadores e as ações para alcance dos objetivos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Dos Meios e Instrumentos para Implementação</NomeAgrupador>
+            <Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>São meios e instrumentos para implementação da PNSPDS:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os Planos Decenais de Segurança Pública e Defesa Social;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o Sistema Nacional de Informações e de Gestão de Segurança Pública e Defesa Social, que inclui:</p>
+            <Alinea id="art8_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o Sistema Nacional de Acompanhamento e Avaliação das Políticas de Segurança Pública e Defesa Social (Sinaped);</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp);</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>o Sistema Integrado de Educação e Valorização Profissional (Sievap);</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>a Rede Nacional de Altos Estudos em Segurança Pública (Renaesp);</p>
+            
+          </Alinea><Alinea id="art8_cpt_inc2_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>o Programa Nacional de Qualidade de Vida para Profissionais de Segurança Pública (Provida);</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os fundos de financiamento da segurança pública e defesa social, asseguradas as transferências obrigatórias de recursos fundo a fundo;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o Plano Nacional de Enfrentamento de Homicídios de Jovens;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os mecanismos formados por órgãos de prevenção e controle de atos ilícitos contra a Administração Pública e referentes à ocultação ou dissimulação de bens, direitos e valores.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DO SISTEMA ÚNICO DE SEGURANÇA PÚBLICA</NomeAgrupador>
+            <Secao id="cap3_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Composição do Sistema</NomeAgrupador>
+            <Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art144-->
+            
+            
+            <p>Fica instituído o Sistema Único de Segurança Pública (Susp), que tem como órgão central o Ministério Extraordinário da Segurança Pública e é integrado pelos órgãos mencionados no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art144">art. 144 da Constituição Federal</span>, pelos agentes penitenciários, pelas guardas municipais e pelos demais integrantes estratégicos e operacionais, que atuarão nos limites de suas competências, de forma cooperativa, sistêmica e harmônica.</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>São integrantes estratégicos do Susp:</p>
+            <Inciso id="art9_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a União, os Estados, o Distrito Federal e os Municípios, por intermédio dos respectivos Poderes Executivos;</p>
+            
+          </Inciso><Inciso id="art9_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os Conselhos de Segurança e Defesa Social dos três entes federados.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>São integrantes operacionais do Susp:</p>
+            <Inciso id="art9_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>polícia federal;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>polícia rodoviária federal;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>polícia ferroviária federal;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>polícias civis;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>polícias militares;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>corpos de bombeiros militares;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>guardas municipais;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>órgãos do sistema penitenciário;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>órgãos do sistema socioeducativo;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>institutos oficiais de criminalística, medicina legal e identificação;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>secretaria nacional de segurança pública;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>secretarias estaduais de segurança pública ou congêneres;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>secretaria nacional de proteção e defesa civil;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>secretaria nacional de política sobre drogas;</p>
+            
+          </Inciso><Inciso id="art9_par2_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>agentes de trânsito e guarda portuária.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Considera-se de natureza policial a atividade exercida pelos agentes penitenciários.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os sistemas estaduais, distrital e municipais serão responsáveis pela implementação dos respectivos programas, ações e projetos de segurança pública, com liberdade de organização e funcionamento, respeitado o disposto nesta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap3_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Do Funcionamento</NomeAgrupador>
+            <Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>A integração e a coordenação dos órgãos integrantes do Susp dar-se-ão nos limites das respectivas competências, por meio de:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>operações com planejamento e execução integrados;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estratégias comuns para atuação na prevenção e controle qualificado de infrações penais;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>aceitação mútua de registro de ocorrência policial;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>compartilhamento de informações, inclusive com o Sistema Brasileiro de Inteligência (Sisbin);</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>intercâmbio de conhecimentos técnicos e científicos;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>integração das informações e dados de segurança pública por meio do Sinesp.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Susp será coordenado pelo Ministério Extraordinário da Segurança Pública.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As operações combinadas, planejadas e desencadeadas em equipe poderão ser ostensivas, investigativas, de inteligência ou mistas, e contar com a participação de órgãos integrantes do Susp e, nos limites de suas competências, com o Sisbin, além de outros órgãos dos sistemas federal, estadual, distrital ou municipal, não necessariamente vinculados diretamente aos órgãos de segurança pública e defesa social, especialmente quando se tratar de enfrentamento a organizações criminosas.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O planejamento e a coordenação das operações de que trata o § 2º deste artigo serão exercidos conjuntamente pelos participantes.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O compartilhamento de informações será feito preferencialmente por meio eletrônico, com acesso recíproco aos bancos de dados, nos termos estabelecidos pelo Ministério Extraordinário da Segurança Pública.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p> O intercâmbio de conhecimentos técnicos e científicos para qualificação dos profissionais de segurança pública e defesa social dar-se-á, entre outras formas, pela reciprocidade na abertura de vagas nos cursos de especialização, aperfeiçoamento e estudos estratégicos, respeitadas as peculiaridades e o regime jurídico de cada instituição, e observada, sempre que possível, a matriz curricular nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O Ministério Extraordinário da Segurança Pública fixará, anualmente, metas de excelência no âmbito das respectivas competências, visando à prevenção e repressão das infrações penais e administrativas e dos desastres, e utilizará indicadores públicos que demonstrem de forma objetiva os resultados pretendidos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>A aferição anual de metas deverá observar os seguintes parâmetros:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as atividades de polícia judiciária e de apuração das infrações penais serão aferidas, entre outros fatores, pelos índices de elucidação dos delitos, a partir dos registros de ocorrências policiais, especialmente os crimes dolosos com resultado morte e de roubo, pela identificação, prisão dos autores e cumprimento de mandados de prisão de condenados a crimes com penas de reclusão, e pela recuperação do produto de crime em determinada circunscrição;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as atividades periciais serão aferidas mediante critérios técnicos emitidos pelo órgão responsável pela coordenação das perícias oficiais, considerando os laudos periciais e o resultado na produção qualificada das provas relevantes à instrução criminal;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as atividades de polícia ostensiva e de preservação da ordem pública serão aferidas, entre outros fatores, pela maior ou menor incidência de infrações penais e administrativas em determinada área, seguindo os parâmetros do Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp);</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as atividades dos corpos de bombeiros militares serão aferidas, entre outros fatores, pelas ações de prevenção, preparação para emergências e desastres, índices de tempo de resposta aos desastres e de recuperação de locais atingidos, considerando-se áreas determinadas;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p> avaliação da eficiência do sistema prisional, com base nos seguintes fatores, entre outros: o número de vagas ofertadas no sistema;</p>
+            <Alinea id="art12_cpt_inc5_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a relação existente entre o número de presos e a quantidade de vagas ofertadas;</p>
+            
+          </Alinea><Alinea id="art12_cpt_inc5_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>o índice de reiteração criminal dos egressos;</p>
+            
+          </Alinea><Alinea id="art12_cpt_inc5_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>a quantidade de presos condenados atendidos dentro das normas da avaliação de resultados indicados nos incisos deste artigo, com observância de critérios objetivos e transparentes.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A aferição anual a que se refere o inciso I do caput deste artigo deverá distinguir as autorias definidas em razão de prisão em flagrante das autorias resultantes de diligências investigatórias.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A aferição considerará aspectos relativos à estrutura de trabalho físico e de equipamentos, bem como de efetivo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>O Ministério Extraordinário da Segurança Pública, responsável pela gestão do Susp, deverá orientar e acompanhar as atividades dos órgãos a este integrados, além de promover as seguintes ações:</p>
+            <Inciso id="art13_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>apoiar os programas de aparelhamento e modernização dos órgãos de segurança pública e defesa social do País;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>implementar, manter e expandir, observadas as restrições quanto a sigilo previstas em lei, o Sistema Nacional de Informações e de Gestão de Segurança Pública e Defesa Social;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>efetivar o intercâmbio de experiências técnicas e operacionais entre os órgãos policiais federais, estaduais, do Distrito Federal e as guardas municipais;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>valorizar a autonomia técnica, científica e funcional dos institutos oficiais de criminalística, medicina legal e identificação, garantindo-lhes condições plenas para o exercício de suas funções;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>promover a qualificação profissional dos integrantes da segurança pública e defesa social, especialmente nas dimensões operacional, ética e técnico­científica;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>realizar estudos e pesquisas nacionais e consolidar dados e informações estatísticas sobre criminalidade e vitimização;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>coordenar as atividades de inteligência da segurança pública e defesa social integrada ao Sisbin;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>desenvolver a doutrina de inteligência policial.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Fica ainda sob a responsabilidade do Ministério Extraordinário da Segurança Pública:</p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>disponibilizar sistema padronizado, informatizado e seguro que permita o intercâmbio de informações entre os integrantes do Susp;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>auditar periodicamente a infraestrutura tecnológica e a segurança dos processos, redes e sistemas;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estabelecer cronograma para adequação dos integrantes do Susp às normas e procedimentos de funcionamento do Sistema.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>A União poderá apoiar os Estados, o Distrito Federal e os Municípios, quando não dispuserem de condições técnicas e operacionais necessárias à implementação do Susp.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Os órgãos integrantes do Susp poderão atuar nas vias urbanas, rodovias, ferrovias e hidrovias federais, estaduais, municipais ou do Distrito Federal, portos e aeroportos e terminais rodoviários federais e estaduais, no âmbito das respectivas competências, em efetiva integração com órgão cujo local da atuação esteja sob sua circunscrição, ressalvado o sigilo das investigações policiais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Regulamento disciplinará os critérios de aplicação de recursos do Fundo Nacional de Segurança Pública (FNSP) e do Fundo Penitenciário Nacional (Funpen), devendo respeitar a atribuição constitucional dos órgãos que integram o Susp, os aspectos geográficos, populacionais e socioeconômicos dos entes federados, bem como o estabelecimento de metas e resultados a serem alcançados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p> As aquisições de bens e serviços para os órgãos integrantes do Susp terão por objetivo a eficácia de suas atividades e obedecerão a critérios técnicos de qualidade, modernidade, eficiência e resistência, observadas as normas de licitação e contratos.</p>
+            
+          </Caput><Paragrafo id="art18_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Salvo disposição em contrário, aplica-se, no que couber, à aviação de segurança pública o mesmo regime jurídico da aviação militar.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DOS CONSELHOS DE SEGURANÇA PÚBLICA E DEFESA SOCIAL</NomeAgrupador>
+            <Secao id="cap4_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Composição</NomeAgrupador>
+            <Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>A estrutura formal do Susp dar-se-á pela formação de Conselhos permanentes a serem criados na forma do art. 21 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Serão criados Conselhos de Segurança Pública e Defesa Social, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, mediante propostas dos Chefes dos Poderes Executivos, encaminhadas aos respectivos Poderes Legislativos.</p>
+            
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Conselho Nacional de Segurança Pública e Defesa Social, com atribuições, funcionamento e composição estabelecidos em regulamento, contará com a participação de representantes da União, dos Estados, do Distrito Federal e dos Municípios.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os Conselhos congregarão representantes com poder de decisão dentro de suas estruturas governamentais e terão natureza de colegiado, com competência corretiva, consultiva, sugestiva e de acompanhamento social das atividades de segurança pública e defesa social, respeitadas as instâncias decisórias e as normas de organização da Administração Pública.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os Conselhos exercerão o acompanhamento das instituições arroladas no § 2º do art. 9º desta Lei e poderão recomendar providências legais às autoridades competentes.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O acompanhamento de que trata o § 3º deste artigo, considerará, entre outros, os seguintes aspectos:</p>
+            <Inciso id="art20_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as condições de trabalho e a valorização e respeito pela integridade física e moral dos seus integrantes;</p>
+            
+          </Inciso><Inciso id="art20_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o atingimento das metas previstas nesta Lei;</p>
+            
+          </Inciso><Inciso id="art20_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o resultado célere na apuração das denúncias em tramitação nas respectivas corregedorias; e</p>
+            
+          </Inciso><Inciso id="art20_par4_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o grau de confiabilidade e aceitabilidade do órgão pela população por ele atendida.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art20_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Caberá aos Conselhos propor diretrizes para as políticas públicas de segurança pública e defesa social, com vistas à prevenção e à repressão da violência e da criminalidade.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A organização, o funcionamento e as demais competências dos Conselhos serão regulamentados por ato do Poder Executivo, nos limites estabelecidos por esta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os Conselhos Estaduais e Municipais de Segurança Pública e Defesa Social, que contarão também com representantes da sociedade civil organizada e de representantes dos trabalhadores, poderão ser descentralizados ou congregados por região para melhor atuação e intercâmbio comunitário.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap4_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos Conselheiros</NomeAgrupador>
+            <Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Os Conselhos serão compostos por:</p>
+            <Inciso id="art21_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>representantes de cada órgão ou entidade integrante do Susp;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>representante do Poder Judiciário;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>representante do Ministério Público;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>representante da Ordem dos Advogados do Brasil;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>representante da Defensoria Pública;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>representantes de entidades e organizações da sociedade cuja finalidade esteja relacionada com políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>representantes de entidades de profissionais de segurança pública.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art21_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os representantes das entidades e organizações referidas nos incisos VI e VII do caput deste artigo serão eleitos por meio de processo aberto a todas as entidades e organizações cuja finalidade seja relacionada com as políticas de segurança pública, conforme convocação pública e critérios objetivos previamente definidos pelos Conselhos.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Cada conselheiro terá um suplente, que substituirá o titular em sua ausência.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os mandatos eletivos dos membros referidos nos incisos VI e VII do caput deste artigo e a designação dos demais membros terão a duração de 2 (dois) anos, permitida apenas uma recondução ou reeleição.</p>
+            
+          </Paragrafo><Paragrafo id="art21_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na ausência de representantes dos órgãos ou entidades mencionados no caput deste artigo, aplica-se o disposto no § 7º do art. 20 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DA FORMULAÇÃO DOS PLANOS DE SEGURANÇA PÚBLICA E DEFESA SOCIAL</NomeAgrupador>
+            <Secao id="cap5_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Dos Planos</NomeAgrupador>
+            <Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>A União instituirá Plano Nacional de Segurança Pública e Defesa Social, destinado a articular as ações do poder público, com a finalidade de:</p>
+            <Inciso id="art22_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>promover a melhora da qualidade da gestão das políticas sobre segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>contribuir para a organização dos Conselhos de Segurança Pública e Defesa Social;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>assegurar a produção de conhecimento no tema destinado ao melhor diagnóstico, a definição de metas e a avaliação dos resultados das políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>priorizar ações preventivas e fiscalizatórias de segurança interna nas divisas, fronteiras, portos e aeroportos.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As políticas públicas de segurança não se restringem aos integrantes do Susp, mas devem considerar um contexto social amplo, com abrangência de outras áreas do serviço público, como educação, saúde, lazer e cultura, respeitadas as atribuições e finalidades de cada área do serviço público.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O plano de que trata o caput deste artigo terá duração de 10 (dez) anos a contar de sua elaboração.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As ações de prevenção à criminalidade devem ser consideradas prioritárias no momento da elaboração do plano de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A União, por intermédio do Ministério Extraordinário da Segurança Pública, deverá elaborar os objetivos, as ações estratégicas, as metas, as prioridades, os indicadores e as formas de financiamento e gestão das políticas de Segurança Pública e Defesa Social.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os Estados, o Distrito Federal e os Municípios deverão, com base no Plano Nacional de Segurança Pública e Defesa Social, elaborar e implantar seus planos correspondentes em até 2 (dois) anos a partir da publicação do documento nacional, sob pena de não poderem receber recursos da União para a execução de programas ou ações de segurança pública e defesa social.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O poder público deverá dar ampla divulgação ao conteúdo das políticas e dos planos de segurança pública e defesa social.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>A União, em articulação com os Estados, o Distrito Federal e os Municípios, realizará avaliações anuais sobre a implementação do Plano Nacional de Segurança Pública e Defesa Social, com o objetivo de verificar o cumprimento das metas estabelecidas e elaborar recomendações aos gestores e operadores das políticas públicas.</p>
+            
+          </Caput><Paragrafo id="art23_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A primeira avaliação do Plano Nacional de Segurança Pública e Defesa Social realizar-se-á no segundo ano de vigência desta Lei, cabendo ao Poder Legislativo Federal acompanhá-la.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap5_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Das Diretrizes Gerais</NomeAgrupador>
+            <Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Os agentes públicos deverão observar as seguintes diretrizes na elaboração e na execução dos planos:</p>
+            <Inciso id="art24_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>adotar estratégias de articulação entre órgãos públicos, entidades privadas, corporações policiais e organismos internacionais, a fim de implantar parcerias para a execução de políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>realizar a integração de programas, ações, atividades e projetos dos órgãos e entidades públicas e privadas nas áreas de saúde, planejamento familiar, educação, trabalho, assistência social, previdência social, cultura, desporto e lazer, visando à prevenção da criminalidade e a prevenção de desastres;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>viabilizar ampla participação social na formulação, implementação e avaliação das políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>desenvolver programas, ações, atividades e projetos articulados com os estabelecimentos de ensino, com a sociedade e com a família para a prevenção da criminalidade e a prevenção de desastres;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>incentivar a inclusão da disciplina de prevenção à violência, bem como da prevenção de desastres, nos conteúdos curriculares dos diversos níveis de ensino;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>ampliar as alternativas de inserção econômica e social dos egressos do sistema prisional, promovendo programas que priorizem a melhoria de sua escolarização e a qualificação profissional;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>garantir a efetividade dos programas, ações e projetos das políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>promover o monitoramento e a avaliação das políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>fomentar a criação de grupos de estudos, a serem formados por agentes públicos dos órgãos integrantes do Susp, professores e pesquisadores, para produção de conhecimento e reflexão sobre o fenômeno da criminalidade, com o apoio e a coordenação dos órgãos públicos de cada unidade da Federação;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>fomentar a harmonização e o trabalho conjunto dos integrantes do Susp;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>garantir o planejamento e a execução de políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>fomentar estudos de planejamento urbano para que medidas preventivas de criminalidade façam parte do plano diretor das cidades, de forma a estimular, entre outras ações, o reforço na iluminação pública e a verificação de pessoas e de famílias em situação de risco social e criminal.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap5_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Das Metas para Acompanhamento e Avaliação das Políticas de Segurança Pública e Defesa Social</NomeAgrupador>
+            <Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Os integrantes do Susp fixarão, anualmente, metas de excelência no âmbito das respectivas competências, visando à prevenção e à repressão de infrações penais e administrativas e à prevenção de desastres, que tenham como finalidade:</p>
+            <Inciso id="art25_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejar, pactuar, implementar, coordenar e supervisionar as atividades de educação gerencial, técnica e operacional, em cooperação com as unidades da Federação;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>apoiar e promover educação qualificada, continuada e integrada;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>identificar e propor novas metodologias e técnicas de educação voltadas ao aprimoramento das suas atividades;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>identificar e propor mecanismos de valorização profissional;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>apoiar e promover o sistema de saúde para os profissionais de segurança pública e defesa social; e</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>apoiar e promover o sistema habitacional para os profissionais de segurança pública e defesa social.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap5_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Da Cooperação, Integração e Funcionamento Harmônico dos Membros do Susp</NomeAgrupador>
+            <Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>Fica instituído, no âmbito do Susp, o Sistema Nacional de Acompanhamento e Avaliação das Políticas de Segurança Pública e Defesa Social (Sinaped), com os seguintes objetivos:</p>
+            <Inciso id="art26_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>contribuir para organização e integração dos membros do Susp, projetos das políticas de segurança pública e defesa social e respectivos diagnósticos, planos de ação, resultados e avaliações;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>assegurar o conhecimento sobre os programas, ações e atividades e promover a melhora da qualidade da gestão dos programas, ações, atividades e projetos de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>garantir que as políticas de segurança pública e defesa social abranjam, no mínimo, o adequado diagnóstico, a gestão e os resultados das políticas e dos programas de prevenção e de controle da violência, com o objetivo de verificar:</p>
+            <Alinea id="art26_cpt_inc3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a compatibilidade da forma de processamento do planejamento orçamentário e de sua execução com as necessidades do respectivo sistema de segurança pública e defesa social;</p>
+            
+          </Alinea><Alinea id="art26_cpt_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a eficácia da utilização dos recursos públicos;</p>
+            
+          </Alinea><Alinea id="art26_cpt_inc3_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>a manutenção do fluxo financeiro, consideradas as necessidades operacionais dos programas, as normas de referência e as condições previstas nos instrumentos jurídicos celebrados entre os entes federados, os órgãos gestores e os integrantes do Susp;</p>
+            
+          </Alinea><Alinea id="art26_cpt_inc3_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>a implementação dos demais compromissos assumidos por ocasião da celebração dos instrumentos jurídicos relativos à efetivação das políticas de segurança pública e defesa social; e</p>
+            
+          </Alinea><Alinea id="art26_cpt_inc3_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>a articulação interinstitucional e intersetorial das políticas.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>Ao final da avaliação, será elaborado relatório com o histórico e a caracterização do trabalho, as recomendações e os prazos para que elas sejam cumpridas, além de outros elementos a serem definidos em regulamento.</p>
+            
+          </Caput><Paragrafo id="art27_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os resultados da avaliação das políticas serão utilizados para:</p>
+            <Inciso id="art27_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejar as metas e eleger as prioridades para execução e financiamento;</p>
+            
+          </Inciso><Inciso id="art27_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>reestruturar ou ampliar os programas de prevenção e controle;</p>
+            
+          </Inciso><Inciso id="art27_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>adequar os objetivos e a natureza dos programas, ações e projetos;</p>
+            
+          </Inciso><Inciso id="art27_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>celebrar instrumentos de cooperação com vistas à correção de problemas constatados na avaliação;</p>
+            
+          </Inciso><Inciso id="art27_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>aumentar o financiamento para fortalecer o sistema de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art27_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>melhorar e ampliar a capacitação dos operadores do Susp.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art27_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O relatório da avaliação deverá ser encaminhado aos respectivos Conselhos de Segurança Pública e Defesa Social.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>As autoridades, os gestores, as entidades e os órgãos envolvidos com a segurança pública e defesa social têm o dever de colaborar com o processo de avaliação, facilitando o acesso às suas instalações, à documentação e a todos os elementos necessários ao seu efetivo cumprimento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p> O processo de avaliação das políticas de segurança pública e defesa social deverá contar com a participação de representantes dos Poderes Legislativo, Executivo e Judiciário, do Ministério Público, da Defensoria Pública e dos Conselhos de Segurança Pública e Defesa Social, observados os parâmetros estabelecidos nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>Cabe ao Poder Legislativo acompanhar as avaliações do respectivo ente federado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>O Sinaped assegurará, na metodologia a ser empregada:</p>
+            <Inciso id="art31_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a realização da autoavaliação dos gestores e das corporações;</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a avaliação institucional externa, contemplando a análise global e integrada das instalações físicas, relações institucionais, compromisso social, atividades e finalidades das corporações;</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a análise global e integrada dos diagnósticos, estruturas, compromissos, finalidades e resultados das políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o caráter público de todos os procedimentos, dados e resultados dos processos de avaliação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>A avaliação será coordenada por uma comissão permanente e realizada por comissões temporárias, essas compostas, no mínimo, por 3 (três) membros, na forma do regulamento de criação dos conselhos.</p>
+            
+          </Caput><Paragrafo id="art32_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É vedado à comissão permanente designar avaliadores que sejam titulares ou servidores dos órgãos gestores avaliados, caso:</p>
+            <Inciso id="art32_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tenham relação de parentesco até terceiro grau com titulares ou servidores dos órgãos gestores avaliados;</p>
+            
+          </Inciso><Inciso id="art32_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estejam respondendo a processo criminal ou administrativo.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DO CONTROLE E DA TRANSPARÊNCIA</NomeAgrupador>
+            <Secao id="cap6_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Do Controle Interno</NomeAgrupador>
+            <Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>Aos órgãos de correição, dotados de autonomia no exercício de suas competências, caberá o gerenciamento e a realização dos processos e procedimentos de apuração de responsabilidade funcional, por meio de sindicância e processo administrativo disciplinar, e a proposição de subsídios para o aperfeiçoamento das atividades dos órgãos de segurança pública e defesa social.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap6_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Do Acompanhamento Público da Atividade Policial</NomeAgrupador>
+            <Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>A União, os Estados, o Distrito Federal e os Municípios deverão instituir órgãos de ouvidoria dotados de autonomia e independência no exercício de suas atribuições.</p>
+            
+          </Caput><Paragrafo id="art34_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>À ouvidoria competirá o recebimento e tratamento de representações, elogios e sugestões de qualquer pessoa sobre as ações e atividades dos profissionais e membros integrantes do Susp, devendo encaminhá-los ao órgão com atribuição para as providências legais e resposta ao requerente.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap6_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Da Transparência e da Integração de Dados e Informações</NomeAgrupador>
+            <Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>Fica instituído o Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp), com a finalidade de armazenar, tratar e integrar dados e informações para auxiliar na formulação, implementação, execução, acompanhamento e avaliação das políticas relacionadas com:</p>
+            <Inciso id="art35_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art35_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>sistema prisional e execução penal;</p>
+            
+          </Inciso><Inciso id="art35_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>rastreabilidade de armas e munições;</p>
+            
+          </Inciso><Inciso id="art35_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>banco de dados de perfil genético e digitais;</p>
+            
+          </Inciso><Inciso id="art35_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>enfrentamento do tráfico de drogas ilícitas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>O Sinesp tem por objetivos:</p>
+            <Inciso id="art36_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>proceder à coleta, análise, atualização, sistematização, integração e interpretação de dados e informações relativos às políticas de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>disponibilizar estudos, estatísticas, indicadores e outras informações para auxiliar na formulação, implementação, execução, monitoramento e avaliação de políticas públicas;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>promover a integração das redes e sistemas de dados e informações de segurança pública e defesa social, criminais, do sistema prisional e sobre drogas;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>garantir a interoperabilidade dos sistemas de dados e informações, conforme os padrões definidos pelo conselho gestor.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art36_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Sinesp adotará os padrões de integridade, disponibilidade, confidencialidade, confiabilidade e tempestividade dos sistemas informatizados do governo federal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>Integram o Sinesp todos os entes federados, por intermédio de órgãos criados ou designados para este fim.</p>
+            
+          </Caput><Paragrafo id="art37_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os dados e informações de que trata esta Lei deverão ser padronizados e categorizados e serão fornecidos e atualizados pelos integrantes do Sinesp.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O integrante que deixar de fornecer ou atualizar seus dados e informações no Sinesp poderá não receber recursos nem celebrar parcerias com a União para financiamento de programas, projetos ou ações de segurança pública e defesa social e do sistema prisional, na forma do regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p> O Ministério Extraordinário da Segurança Pública fica autorizado a celebrar convênios com órgãos do Poder Executivo que não integrem o Susp, com o Poder Judiciário e com o Ministério Público, para compatibilização de sistemas de informação e integração de dados, ressalvadas as vedações constitucionais de sigilo e desde que o objeto fundamental dos acordos seja a prevenção e a repressão da violência.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A omissão no fornecimento das informações legais implica responsabilidade administrativa do agente público.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>DA CAPACITAÇÃO E DA VALORIZAÇÃO DO PROFISSIONAL EM SEGURANÇA PÚBLICA E DEFESA SOCIAL</NomeAgrupador>
+            <Secao id="cap7_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Do Sistema Integrado de Educação</NomeAgrupador>
+            <Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            
+            
+            
+            <p>Fica instituído o Sistema Integrado de Educação e Valorização Profissional (Sievap), com a finalidade de:</p>
+            <Inciso id="art38_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejar, pactuar, implementar, coordenar e supervisionar as atividades de educação gerencial, técnica e operacional, em cooperação com as unidades da Federação;</p>
+            
+          </Inciso><Inciso id="art38_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>identificar e propor novas metodologias e técnicas de educação voltadas ao aprimoramento das suas atividades;</p>
+            
+          </Inciso><Inciso id="art38_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apoiar e promover educação qualificada, continuada e integrada;</p>
+            
+          </Inciso><Inciso id="art38_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>identificar e propor mecanismos de valorização profissional.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art38_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Sievap é constituído, entre outros, pelos seguintes programas:</p>
+            <Inciso id="art38_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>matriz curricular nacional;</p>
+            
+          </Inciso><Inciso id="art38_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>Rede Nacional de Altos Estudos em Segurança Pública (Renaesp);</p>
+            
+          </Inciso><Inciso id="art38_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Rede Nacional de Educação a Distância em Segurança Pública (Rede EAD-Senasp);</p>
+            
+          </Inciso><Inciso id="art38_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>programa nacional de qualidade de vida para segurança pública e defesa social.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art38_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os órgãos integrantes do Susp terão acesso às ações de educação do Sievap, conforme política definida pelo Ministério Extraordinário da Segurança Pública.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>A matriz curricular nacional constitui-se em referencial teórico, metodológico e avaliativo para as ações de educação aos profissionais de segurança pública e defesa social e deverá ser observada nas atividades formativas de ingresso, aperfeiçoamento, atualização, capacitação e especialização na área de segurança pública e defesa social, nas modalidades presencial e a distância, respeitados o regime jurídico e as peculiaridades de cada instituição.</p>
+            
+          </Caput><Paragrafo id="art39_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A matriz curricular é pautada nos direitos humanos, nos princípios da andragogia e nas teorias que enfocam o processo de construção do conhecimento.</p>
+            
+          </Paragrafo><Paragrafo id="art39_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os programas de educação deverão estar em consonância com os princípios da matriz curricular nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>A Rede Nacional de Altos Estudos em Segurança Pública (Renaesp), integrada por instituições de ensino superior, observadas as normas de licitação e contratos, tem como objetivo:</p>
+            <Inciso id="art40_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>promover cursos de graduação, extensão e pós-graduação em segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fomentar a integração entre as ações dos profissionais, em conformidade com as políticas nacionais de segurança pública e defesa social;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>promover a compreensão do fenômeno da violência;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>difundir a cidadania, os direitos humanos e a educação para a paz;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>articular o conhecimento prático dos profissionais de segurança pública e defesa social com os conhecimentos acadêmicos;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>difundir e reforçar a construção de cultura de segurança pública e defesa social fundada nos paradigmas da contemporaneidade, da inteligência, da informação e do exercício de atribuições estratégicas, técnicas e científicas; e</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>incentivar a produção técnico-científica que contribua para as atividades desenvolvidas pelo Susp.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>A Rede Nacional de Educação a Distância em Segurança Pública (Rede EAD-Senasp) é escola virtual destinada aos profissionais de segurança pública e defesa social, que tem como objetivo viabilizar o acesso aos processos de aprendizagem, independentemente das limitações geográficas e sociais existentes, com o propósito de democratizar a educação em segurança pública e defesa social.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap7_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Da Valorização</NomeAgrupador>
+            <Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            
+            
+            
+            <p>O Programa Nacional de Qualidade de Vida para Profissionais de Segurança Pública (Provida) tem por objetivo elaborar, implementar, apoiar, monitorar e avaliar, entre outros, os projetos de programas de atenção psicossocial e de saúde no trabalho dos profissionais de segurança pública e defesa social, bem como a integração sistêmica das unidades de saúde dos órgãos que compõem o Susp.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap8">
+            
+            
+            <Rotulo>CAPÍTULO VIII</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS</NomeAgrupador>
+            <Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>Os documentos de identificação funcional dos profissionais da área de segurança pública e defesa social serão padronizados mediante ato do Ministro de Estado Extraordinário da Segurança Pública e terão fé pública e validade em todo o território nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art144-->
+            
+            
+            <p>É considerado de natureza policial e de bombeiro militar o tempo de serviço prestado pelos profissionais referidos no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art144">art. 144 da Constituição Federal</span>, pelos integrantes dos quadros efetivos da perícia oficial de natureza criminal e pelos agentes penitenciários, em todas as suas atividades, inclusive em exercício no Ministério Extraordinário da Segurança Pública e em cargos em comissão ou funções de confiança em órgãos integrantes do Susp, vinculados à atividade-fim descrita no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art144">art. 144 da Constituição Federal</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            
+            
+            
+            <p>Deverão ser realizadas conferências a cada 5 (cinco) anos para debater as diretrizes dos planos nacional, estaduais e municipais da segurança pública.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:1994-01-07;79!art3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:1994-01-07;79!art3">art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:1994-01-07;79" id="art46_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:1994-01-07;79 -> MatchByBase(urn:lex:br:federal:lei.complementar:1994-01-07;79,1994,Some((1,7)),Map(art3 -> ExactMatch(URN(1994,Some((1,7)),art3,urn:lex:br:federal:lei.complementar:1994-01-07;79!art3)), art3_cpt -> PrefixMatch(URN(1994,Some((1,7)),art3,urn:lex:br:federal:lei.complementar:1994-01-07;79!art3),art3_cpt), art3_par1 -> PrefixMatch(URN(1994,Some((1,7)),art3,urn:lex:br:federal:lei.complementar:1994-01-07;79!art3),art3_par1), art3_par4 -> PrefixMatch(URN(1994,Some((1,7)),art3,urn:lex:br:federal:lei.complementar:1994-01-07;79!art3),art3_par4)))))-->
+              <Artigo xlink:href="art3" id="art46_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art46_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art3_par1" id="art46_cpt_alt1_art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>São consideradas obrigatórias as transferências dos recursos do Funpen, que poderão, ressalvado o disposto no art. 3º-A desta Lei, ser repassados mediante convênio, acordos e ajustes que se enquadrem nas atividades previstas neste artigo, ou fundo a fundo, nos termos do regulamento.</p>
+            
+          </Paragrafo><Omissis id="art46_cpt_alt1_art3_omi1"/><Paragrafo xlink:href="art3_par4" id="art46_cpt_alt1_art3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os entes federados integrantes do Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp) que deixarem de fornecer ou atualizar seus dados no Sistema não poderão receber recursos do Funpen.</p>
+            
+          </Paragrafo><Omissis id="art46_cpt_alt1_art3_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-02-14;10201!art4_par3_inc2--><!--Link: urn:lex:br:federal:lei:2001-02-14;10201!art4_par5-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2001-02-14;10201!art4_par3_inc2">inciso II do § 3º</span> e o <span xlink:href="urn:lex:br:federal:lei:2001-02-14;10201!art4_par5">§ 5º do art. 4º da Lei n° 10.201, de 14 de fevereiro de 2001</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2001-02-14;10201" id="art47_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2001-02-14;10201 -> MatchByBase(urn:lex:br:federal:lei:2001-02-14;10201,2001,Some((2,14)),Map(art4_par5 -> ExactMatch(URN(2001,Some((2,14)),art4_par5,urn:lex:br:federal:lei:2001-02-14;10201!art4_par5)), art4_par3 -> SuperPrefixMatch(URN(2001,Some((2,14)),art4_par3_inc2,urn:lex:br:federal:lei:2001-02-14;10201!art4_par3_inc2),art4_par3), art4 -> SuperPrefixMatch(URN(2001,Some((2,14)),art4_par5,urn:lex:br:federal:lei:2001-02-14;10201!art4_par5),art4), art4_cpt -> SuperPrefixMatch(URN(2001,Some((2,14)),art4_par5,urn:lex:br:federal:lei:2001-02-14;10201!art4_par5),art4_cpt), art4_par3_inc2 -> ExactMatch(URN(2001,Some((2,14)),art4_par3_inc2,urn:lex:br:federal:lei:2001-02-14;10201!art4_par3_inc2))))))-->
+              <Artigo xlink:href="art4" id="art47_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art47_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art47_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par3" id="art47_cpt_alt1_art4_par3" textoOmitido="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            
+            <Omissis id="art47_cpt_alt1_art4_par3_omi1"/><Inciso xlink:href="art4_par3_inc2" id="art47_cpt_alt1_art4_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os integrantes do Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp) que cumprirem os prazos estabelecidos pelo órgão competente para o fornecimento de dados e informações ao Sistema;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art47_cpt_alt1_art4_omi2"/><Paragrafo xlink:href="art4_par5" id="art47_cpt_alt1_art4_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>São consideradas obrigatórias as transferências dos recursos do FNSP, que poderão ser aplicados diretamente pela União ou repassados mediante convênios, acordos, ajustes, fundo a fundo ou por qualquer outra modalidade estabelecida em lei, que se enquadre nos objetivos fixados neste artigo, nos termos do regulamento.</p>
+            
+          </Paragrafo><Omissis id="art47_cpt_alt1_art4_omi3" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            <!--Link: urn:lex:br:federal:lei:2007-10-24;11530!art9_par2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2007-10-24;11530!art9_par2">§ 2º do art. 9º da Lei n° 11.530, de 24 de outubro de 2007</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2007-10-24;11530" id="art48_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2007-10-24;11530 -> MatchByBase(urn:lex:br:federal:lei:2007-10-24;11530,2007,Some((10,24)),Map(art9 -> SuperPrefixMatch(URN(2007,Some((10,24)),art9_par2,urn:lex:br:federal:lei:2007-10-24;11530!art9_par2),art9), art9_cpt -> SuperPrefixMatch(URN(2007,Some((10,24)),art9_par2,urn:lex:br:federal:lei:2007-10-24;11530!art9_par2),art9_cpt), art9_par2 -> ExactMatch(URN(2007,Some((10,24)),art9_par2,urn:lex:br:federal:lei:2007-10-24;11530!art9_par2))))))-->
+              <Artigo xlink:href="art9" id="art48_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art48_cpt_alt1_art9_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art48_cpt_alt1_art9_omi1"/><Paragrafo xlink:href="art9_par2" id="art48_cpt_alt1_art9_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os entes federados integrantes do Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp) que deixarem de fornecer ou atualizar seus dados e informações no Sistema não poderão receber recursos do Pronasci.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            <!--Link: urn:lex:br:federal:lei:2012-07-04;12681-->
+            
+            
+            <p>Ficam revogados os arts. 1º a 8º da <span xlink:href="urn:lex:br:federal:lei:2012-07-04;12681">Lei nº 12.681, de 4 de julho de 2012</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos 30 (trinta) dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;176@data.evento;leitura;2017-06-06t19.13"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 176 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei.complementar:1990-05-18;64">Lei Complementar nº 64, de 18 de maio de 1990</span>, para vedar a candidatura ao cargo de Presidente da República por quem seja réu em ação penal ou de improbidade administrativa.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:1990-05-18;64-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei.complementar:1990-05-18;64">Lei Complementar nº 64, de 18 de maio de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:1990-05-18;64" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:1990-05-18;64 -> MatchByBase(urn:lex:br:federal:lei.complementar:1990-05-18;64,1990,Some((5,18)),Map(art1 -> PrefixMatch(URN(1990,Some((5,18)),,urn:lex:br:federal:lei.complementar:1990-05-18;64),art1), art1_cpt -> PrefixMatch(URN(1990,Some((5,18)),,urn:lex:br:federal:lei.complementar:1990-05-18;64),art1_cpt), art1_cpt_inc2 -> PrefixMatch(URN(1990,Some((5,18)),,urn:lex:br:federal:lei.complementar:1990-05-18;64),art1_cpt_inc2), art1_cpt_inc2_ali13 -> PrefixMatch(URN(1990,Some((5,18)),,urn:lex:br:federal:lei.complementar:1990-05-18;64),art1_cpt_inc2_ali13)))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art1_cpt_omi1"/><Inciso xlink:href="art1_cpt_inc2" id="art1_cpt_alt1_art1_cpt_inc2" textoOmitido="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art1_cpt_inc2_omi1"/><Alinea xlink:href="art1_cpt_inc2_ali13" id="art1_cpt_alt1_art1_cpt_inc2_ali13">
+            
+            
+            <Rotulo>m)</Rotulo>
+            <p>os que, no momento do registro de candidatura, sejam réus em ação penal por qualquer dos crimes previstos na alínea e do inciso I do art. 1º, ou em ação de improbidade administrativa;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação, não se aplicando à eleição realizada há menos de um ano de sua vigência (<span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span>, art. 16).</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

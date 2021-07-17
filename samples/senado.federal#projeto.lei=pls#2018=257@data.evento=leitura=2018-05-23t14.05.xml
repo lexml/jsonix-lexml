@@ -1,0 +1,2359 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;257@data.evento;leitura;2018-05-23t14.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 257 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobra a exploração indireta, pela União, do transporte ferroviário em infraestruturas de propriedade privada; autoriza a autorregulação ferroviária; disciplina o trânsito e o transporte ferroviário; altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1941-06-21;3365">Decreto-Lei nº 3.365, de 21 de junho de 1941</span>, as <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">Leis nos 9.503, de 23 de setembro de 1997</span>, <span xlink:href="urn:lex:br:federal:lei:2001-06-05;10233">10.233, de 5 de junho de 2001</span>, <span xlink:href="urn:lex:br:federal:lei:2011-01-06;12379">12.379, de 6 de janeiro de 2011</span>; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES PRELIMINARES</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a exploração indireta pela União do transporte ferroviário em infraestruturas de propriedade privada entre portos brasileiros e fronteiras nacionais, que transponham os limites de Estado ou Território, ou que se conectem às ferrovias federais;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as atividades desempenhadas pelas administrações ferroviárias privadas;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a autorregulação ferroviária; e</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a segurança do trânsito e do transporte ferroviário.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei aplica-se às ferrovias construídas ou adquiridas pela iniciativa privada em regime de direito privado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As normas gerais desta Lei aplicam-se às ferrovias estaduais, distritais e municipais, de quaisquer tipos ou categorias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-02-13;8987--><!--Link: urn:lex:br:federal:lei:2004-12-30;11079--><!--Link: urn:lex:br:federal:lei:2001-06-05;10233-->
+            
+            
+            <p>As outorgas de ferrovias privadas em regime de direito privado regem-se por esta Lei, aplicando-se-lhes, subsidiariamente, no que couber, o disposto nas <span xlink:href="urn:lex:br:federal:lei:1995-02-13;8987">Leis nos 8.987, de 13 de fevereiro de 1995</span>; <span xlink:href="urn:lex:br:federal:lei:2004-12-30;11079">11.079, de 30 de dezembro de 2004</span>; <span xlink:href="urn:lex:br:federal:lei:2001-06-05;10233">10.233, de 5 de junho de 2001</span> e nas leis que lhes são correlatas.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DEFINIÇÕES E COMPETÊNCIAS</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Para os fins desta Lei, consideram-se:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>administração ferroviária: empresa privada, órgão ou entidade do poder público competente para construir, operar e explorar ferrovias e seus sistemas acessórios de transporte, processamento, armazenamento, hospedagem e conveniência de passageiros, e, ainda, instalações e sistemas de interligação de ferrovias entre si e com outros modos de transportes;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>serviços de transporte ferroviário: conjunto de atividades que possibilitam o transporte de cargas ou de passageiros por veículos que transitam, exclusivamente, conectados a trilho;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>integração vertical: forma de organização ferroviária em que a administração ferroviária é responsável pela operação dos trens e pelo gerenciamento, manutenção, coordenação e segurança do trânsito e da infraestrutura ferroviária;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>segregação geográfica: forma de competição intramodal em que é vedada à administração ferroviária a exclusividade dos serviços de transporte ferroviário em uma mesma região geográfica; e</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>reparcelamento: espécie de parcelamento do solo pelo qual imóveis antigos são substituídos por novos, mais adequados ao planejamento urbanístico vigente.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Compete à União:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aprovar os regulamentos e as normas das entidades ferroviárias privadas, nos termos desta Lei;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fiscalizar e regular as atividades das administrações ferroviárias quanto a aspectos técnicos, ambientais, econômicos e de segurança;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fiscalizar e regular a segurança do trânsito e do transporte ferroviário em todo o território nacional;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fiscalizar, regular e supervisionar as entidades privadas de autorregulação ferroviária;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>homologar as decisões das entidades privadas de autorregulação ferroviária;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>julgar, em recurso as decisões das entidades de autorregulação ferroviária; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>arbitrar os conflitos não resolvidos pelas entidades privadas de autorregulação ferroviária e pelas administrações ferroviárias.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Conselho Nacional de Integração de Políticas de Transporte (CONIT) estabelecerá as normas regulamentares referidas nesta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>PRINCÍPIOS E DIRETRIZES</NomeAgrupador>
+            <Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O planejamento, a coordenação, a construção, a operação, a exploração, a autorização, a regulação e a fiscalização das ferrovias privadas em território nacional, em regime de direito privado, devem seguir os princípios constitucionais da atividade econômica e, em especial, os seguintes:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>respeito à livre iniciativa e aos direitos dos usuários;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>preservação do meio ambiente equilibrado;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>redução dos custos logísticos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>aumento da oferta de mobilidade;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>integração da infraestrutura ferroviária;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>integração vertical e segregação geográfica das administrações ferroviárias; e</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>celeridade processual e autorregulação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O transporte ferroviário privado em regime de direito privado deve seguir as seguintes diretrizes:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>promoção de desenvolvimento econômico e social por meio da ampliação da logística e da mobilidade ferroviária;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>expansão da rede, modernização e atualização dos sistemas, e otimização da infraestrutura ferroviária;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>incentivo à modicidade dos preços praticados, à qualidade da atividade prestada e à efetividade dos direitos dos usuários;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estímulo à modernização e ao aprimoramento da gestão da infraestrutura ferroviária, à valorização e à qualificação da mão de obra ferroviária e à eficiência das atividades prestadas;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>promoção da segurança do trânsito ferroviário em áreas urbanas e rurais;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>estímulo à concorrência, incentivando a participação do setor privado;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>estímulo à ampliação do mercado ferroviário na matriz de transporte de cargas e passageiros;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>reconhecimento do efeito benéfico da concorrência intermodal e intramodal como inibidor de abusos da condição de monopolista natural;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>reconhecimento dos ganhos de eficiência, de produtividade, de coordenação e de qualidade decorrentes da autorregulação fiscalizada, regulada e supervisionada pelo poder público; e</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>incentivo ao ordenamento urbanístico orientado pelo trânsito e transporte ferroviário de passageiros.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>FERROVIAS PRIVADAS EM REGIME DE DIREITO PRIVADO</NomeAgrupador>
+            <Secao id="cap4_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Obtenção</NomeAgrupador>
+            <Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Serão exploradas mediante autorização precedida de chamada ou anúncio públicos e, quando for o caso, de processo seletivo público, as ferrovias construídas ou adquiridas pela iniciativa privada, em regime de direito privado, nos termos desta Lei.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A necessidade de inclusão de ramal de conexão ou de acesso na faixa de domínio de administração ferroviária precedente não inviabiliza a outorga por autorização.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O interessado em obter a autorização de ferrovias em regime privado poderá requerê-la ao órgão ou à entidade competente a qualquer tempo, na forma do regulamento.</p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O requerimento será instruído de:</p>
+            <Inciso id="art10_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>minuta do contrato de autorização;</p>
+            
+          </Inciso><Inciso id="art10_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>relatório circunstanciado dos projetos logísticos e urbanísticos, contendo, no mínimo, características do transporte e seu financiamento e especificações técnicas da operação compatíveis com o restante da rede;</p>
+            
+          </Inciso><Inciso id="art10_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>prova de título de propriedade, inscrição de ocupação, certidão de aforamento, cessão de direito real, contrato de promessa de compra e venda, contrato de promessa de reparcelamento, ou outro instrumento jurídico que assegure o direito de uso e fruição do respectivo terreno necessário ao empreendimento ferroviário, além de outros documentos previstos no instrumento de abertura, em, pelo menos, um vinte avos do trajeto da ferrovia privada requerida, nos termos dos projetos logísticos e urbanísticos;</p>
+            
+          </Inciso><Inciso id="art10_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>relatório executivo dos estudos de viabilidade técnica, econômica e ambiental.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Conhecido o requerimento de autorização de que trata o caput, o órgão ou a entidade competente deverá:</p>
+            <Inciso id="art10_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>publicar o extrato do requerimento e a minuta do contrato, inclusive na internet; e</p>
+            
+          </Inciso><Inciso id="art10_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>promover a abertura de processo de anúncio público, com prazo de trinta dias, para identificar a existência de outros interessados na obtenção de autorização de ferrovia na mesma região e com características semelhantes.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O poder concedente poderá determinar ao órgão ou à entidade competente, a qualquer momento, e em consonância com as diretrizes do planejamento e das políticas do setor ferroviário, a abertura de processo de chamada pública para identificar a existência de interessados na obtenção de autorização de ferrovias privadas, na forma do regulamento e observado o prazo previsto no inciso II do § 2º do art. 10.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O instrumento de abertura de chamada ou anúncio públicos indicará obrigatoriamente os seguintes parâmetros:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a região geográfica na qual será implantada a ferrovia;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o perfil das cargas ou dos passageiros a serem transportados; e</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a estimativa do volume de cargas ou de passageiros a ser movimentado nas instalações ferroviárias.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Encerrado o processo de chamada ou anúncio públicos, o órgão ou a entidade competente deverá analisar a viabilidade técnica e ambiental das propostas e sua adequação às diretrizes do planejamento e das políticas do setor ferroviário.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Observado o disposto no regulamento, poderão ser expedidas diretamente as autorizações de ferrovias privadas quando:</p>
+            <Inciso id="art13_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o processo de chamada ou anúncio públicos for concluído com a participação de um único interessado; ou</p>
+            
+          </Inciso><Inciso id="art13_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>havendo mais de uma proposta, não haja impedimento locacional à implantação de todas elas de maneira concomitante.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Havendo mais de uma proposta e impedimento locacional que inviabilize sua implantação de maneira concomitante, o órgão ou a entidade competente deverá promover processo seletivo público, observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade e da eficiência.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O processo seletivo público de que trata o § 2º atenderá ao disposto no regulamento e considerará como critério de julgamento, de forma isolada ou combinada, a maior capacidade de movimentação, a maior recuperação urbanística e a menor desapropriação.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Em qualquer caso, somente poderão ser autorizadas as ferrovias compatíveis com os requisitos técnicos e ambientais estabelecidos pelo órgão ou pela entidade competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Todos os interessados na chamada ou anúncio públicos ou no processo seletivo público deverão instruir seus requerimentos na forma do art. 10.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>A autorização aprovada será formalizada por meio de contrato de adesão, que conterá as seguintes cláusulas essenciais:</p>
+            <Inciso id="art15_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>objeto, ramais e imóveis vinculados;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>condições de fiscalização e de extinção;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>modo, forma e condições de exploração da ferrovia;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>condições gerais para interconexão e compartilhamento da infraestrutura;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>investimentos de responsabilidade do contratado;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>direitos e deveres dos usuários, com as obrigações correlatas do contratado e as sanções respectivas;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>responsabilidades das partes;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>direitos, garantias e obrigações do contratante e do contratado, inclusive os relacionados a necessidades futuras de suplementação, alteração e expansão da atividade, além da consequente modernização, aperfeiçoamento e ampliação das instalações;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>forma de fiscalização das instalações, dos equipamentos, e dos métodos e práticas de execução das atividades, bem como a indicação dos órgãos ou das entidades competentes para exercê-las;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>garantias para adequada execução do contrato;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>responsabilização pela inexecução ou pela execução deficiente das atividades;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>hipóteses de extinção do contrato;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>obrigatoriedade da prestação de informações de interesse do poder concedente, dos órgãos e das entidades reguladores e das demais autoridades que atuam no setor ferroviário, inclusive as de interesse específico da Defesa Nacional, para efeitos de mobilização;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>condições de cumprimento das medidas de fiscalização aduaneira de mercadorias, veículos e pessoas;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>acesso à ferrovia pelo poder concedente, pelos órgãos e pelas entidades competentes que atuam no setor ferroviário;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>penalidades e forma de aplicação; e</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>foro e modo para solução extrajudicial das divergências contratuais.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art15_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A autorizatária promoverá os investimentos necessários para a criação, a expansão e a modernização das instalações ferroviárias por sua conta e risco, na forma desta Lei e de seu regulamento e do respectivo contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O órgão ou a entidade competente adotará as medidas para assegurar o cumprimento dos cronogramas de investimento previstos nas autorizações e poderá exigir garantias ou aplicar sanções, inclusive a cassação da autorização.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap4_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Operação</NomeAgrupador>
+            <Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>A autorizatária operará em regime de liberdade tarifária.</p>
+            
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No regime de liberdade tarifária, a autorizatária determinará suas próprias tarifas, devendo comunicá-las ao regulador competente, em prazo por este definido.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>A autorizatária facultará a outras administrações ferroviárias a operação compartilhada em tráfego mútuo ou direito de passagem mediante acordos voluntários fixados em contrato.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>A desativação ou erradicação de ramais ferroviários privados será comunicada com antecedência de 180 dias ao regulador competente.</p>
+            
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os ramais poderão ser alienados a novo investidor pelo seu titular.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A desativação ou a erradicação de ramais ferroviários privados antieconômicos não será motivo para sanção da autorizatária.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap4_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Extinção</NomeAgrupador>
+            <Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>A autorização de ferrovias privadas não terá sua vigência sujeita a termo final, extinguindo-se somente por:</p>
+            <Inciso id="art19_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cassação;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>caducidade;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>decaimento;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>renúncia;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>anulação; ou</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>falência.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art19_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A extinção da autorização mediante ato administrativo dependerá de procedimento prévio, garantidos o contraditório e a ampla defesa do interessado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Quando houver perda das condições indispensáveis à continuidade da autorização, em razão de negligência, imperícia ou abandono, o órgão ou a entidade competente poderá extingui-la mediante ato de cassação, nos termos da regulamentação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Em caso de prática de infrações graves, de transferência irregular da autorização ou de descumprimento reiterado de compromissos assumidos, o órgão ou a entidade competente poderá extinguir a autorização decretando-lhe a caducidade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>O decaimento será decretado pelo órgão ou pela entidade competente, por ato administrativo se, em face de razões de excepcional relevância pública, legislação superveniente vier a vedar o tipo de atividade objeto da autorização ou a suprimir a exploração no regime privado.</p>
+            
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A edição das normas de que trata o caput não justificará o decaimento senão quando a preservação das autorizações já expedidas for efetivamente incompatível com o interesse público.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Decretado o decaimento, a prestadora terá o direito de manter suas próprias atividades regulares por prazo mínimo de vinte anos, salvo desapropriação.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O decaimento de que trata o caput será sucedido da devida indenização dos ativos não amortizados no prazo do § 2º.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Renúncia é o ato formal unilateral, irrevogável e irretratável, pelo qual a autorizatária manifesta seu desinteresse pela autorização.</p>
+            
+          </Caput><Paragrafo id="art23_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A renúncia não será causa para punição da autorizatária, nem a desonerará de suas obrigações com terceiros.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>A anulação da autorização será decretada, judicial ou administrativamente, em caso de irregularidade insanável do ato que a expediu.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>A extinção da autorização mediante ato administrativo dependerá de procedimento prévio, garantidos o contraditório e a ampla defesa do interessado.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap4_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Requisitos Prévios</NomeAgrupador>
+            <Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>A aprovação de autorização de ferrovia privada em regime de direito privado será sempre precedida de:</p>
+            <Inciso id="art26_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>consulta ao chefe do Poder Executivo alcançado pela linha férrea;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>consultas às entidades representativas dos usuários, embarcadores e cidadãos diretamente afetados;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>emissão, pelo órgão licenciador, do termo de referência para os estudos ambientais com vistas ao licenciamento; e</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>elaboração de estudos de viabilidade técnica, econômica e ambiental.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art26_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A consulta prevista no inciso I do caput será feita da União para os Estados ou dos Estados para os Municípios.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Além de outras determinações contidas na legislação e regulamentação específica, o relatório conclusivo dos estudos de viabilidade técnica, econômica e ambiental determinará a faixa de domínio mínima necessária ao empreendimento ferroviário.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A posterior alteração de traçado ou inclusão de ramais externos à faixa de domínio determinada na forma do § 2º darão causa a novo processo independente na forma do caput.</p>
+            
+          </Paragrafo><Paragrafo id="art26_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A aprovação da primeira ferrovia privada em regime de direito privado em uma região não fere o princípio da segregação geográfica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>O capital social do requerente da autorização será formado, no mínimo, em quatro por cento por firmas ferroviárias que já administrem ferrovias com o mesmo perfil de movimentação de cargas ou passageiros em, ao menos, dois por cento da extensão da ferrovia requerida.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap4_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Operações Ordinárias</NomeAgrupador>
+            <Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>Nas ferrovias privadas em regime de direito privado, a operação de transporte ferroviário de passageiros ou de cargas se fará independentemente de nova outorga de concessão, permissão, ou autorização pelo poder público.</p>
+            
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O licenciamento dos trens para execução dos serviços de que trata o caput será realizado exclusivamente pelas administrações ferroviárias interessadas mediante contratos, respeitados a capacidade dos slots ferroviários e os contratos precedentes.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As administrações ferroviárias privadas informarão ao órgão ou à entidade competente a ocupação dos slots ferroviários com trens próprios e de terceiros, na periodicidade determinada na regulamentação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>A abertura ao tráfego de qualquer trecho ferroviário privado dependerá de expressa autorização do órgão ou da entidade federal competente, observados critérios objetivos de segurança, nos termos da regulamentação nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>O compartilhamento de infraestrutura entre as administrações ferroviárias intervenientes observará as disposições desta Lei e serão fixadas em contratos.</p>
+            
+          </Caput><Paragrafo id="art30_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Eventuais conflitos serão conciliados pelas entidades privadas estabelecidas no contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Frustrada a conciliação de que trata o § 1º, eventuais conflitos remanescentes serão arbitrados pelo órgão ou pela entidade competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>As administrações ferroviárias poderão contratar com terceiros serviços e obras necessários à execução do transporte sem que isso as exima das responsabilidades decorrentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>No regime privado, é vedado o transporte não remunerado, salvo expressa disposição legal em contrário.</p>
+            
+          </Caput><Paragrafo id="art32_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Além de previsão legal, o transporte não remunerado de passageiros fica condicionado ao efetivo pagamento da tarifa vigente à administração ferroviária, por meio de recursos orçamentários do ente que criar a obrigação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>A administração ferroviária é obrigada a receber e protocolar reclamações referentes aos serviços prestados, e a pronunciar-se a respeito no prazo de trinta dias a contar da data do recebimento da reclamação.</p>
+            
+          </Caput><Paragrafo id="art33_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A administração ferroviária deverá organizar e manter, na internet, serviços para atender às reclamações.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>As operações acessórias à realização do transporte, tais como carregamento, descarregamento, transbordo, armazenagem, pesagem e manobras, hospedagem e conveniências aos passageiros, aluguéis de instalações serão remuneradas através de taxas ou preços adicionais, que a administração ferroviária poderá cobrar mediante negociação prévia com o usuário.</p>
+            
+          </Caput><Paragrafo id="art34_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para efeito do disposto neste artigo, as administrações ferroviárias deverão divulgar as tabelas vigentes para esses serviços, podendo aplicar descontos, sem prévia anuência do poder concedente.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap4_sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Operações Extraordinárias</NomeAgrupador>
+            <Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>Em caso de expressivo desastre natural, em iminente perigo ou em tempo de guerra, a União poderá assumir temporariamente o serviço ferroviário, por motivo de interesse público, mediante lei autorizativa específica.</p>
+            
+          </Caput><Paragrafo id="art35_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Cessada a calamidade, o poder público indenizará os prejuízos havidos pela autorizatária em relação aos lucros cessantes, se houver.</p>
+            
+          </Paragrafo><Paragrafo id="art35_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A lei de que trata o caput poderá fixar condições de prestação não remunerada em tempo de guerra.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap4_sec7">
+            
+            
+            <Rotulo>SEÇÃO VII</Rotulo>
+            <NomeAgrupador>Operações de Transportes</NomeAgrupador>
+            <Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>A tarifa de transporte de carga é o valor cobrado para o deslocamento de uma unidade de carga da estação de origem para a estação de destino.</p>
+            
+          </Caput><Paragrafo id="art36_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No caso do transporte de cargas de características excepcionais, tarifas e taxas especiais poderão ser negociadas entre a administração ferroviária e o embarcador.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>A administração ferroviária deverá atender o embarcador sem discriminação de nível de serviço injustificada e prestar-lhe o serviço adequado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            <!--Link: urn:lex:br:federal:decreto:1912-12-07;2681-->
+            
+            
+            <p>A administração ferroviária é responsável por todo o transporte, pelas operações acessórias a seu cargo e pela qualidade dos serviços prestados aos usuários e embarcadores, conforme disposto no Código Civil e no <span xlink:href="urn:lex:br:federal:decreto:1912-12-07;2681">Decreto nº 2.681, de 7 de dezembro de 1912</span>, bem como pelos compromissos que assumir no tráfego mútuo, no multimodal e nos ajustes com os usuários.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>No tráfego mútuo, a indenização devida por falta ou avaria será paga pela administração ferroviária de destino, independentemente da apuração das responsabilidades.</p>
+            
+          </Caput><Paragrafo id="art39_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As coparticipantes do tráfego mútuo fixarão entre si os critérios de apuração das respectivas responsabilidades e consequente liquidação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>É vedada a negociação ou a comercialização de produtos e serviços no interior dos trens de passageiros, nas suas estações e demais instalações, exceto se devidamente licenciados pela administração ferroviária.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>O bilhete de passagem do menor de dois anos de idade que não ocupe assento será isento do pagamento de preço ou tarifa.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap4_sec8">
+            
+            
+            <Rotulo>SEÇÃO VIII</Rotulo>
+            <NomeAgrupador>Operações Logísticas</NomeAgrupador>
+            <Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            
+            
+            
+            <p>A atuação das administrações ferroviárias em atividades intermodais ou multimodais de transporte em instalações vinculadas e fisicamente conectadas às linhas férreas não dependerá de nova concessão, permissão, ou autorização do poder público.</p>
+            
+          </Caput><Paragrafo id="art42_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A operação de que trata o caput se fará por meio de sociedades de propósito específico subordinadas às administrações ferroviárias.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap4_sec9">
+            
+            
+            <Rotulo>SEÇÃO IX</Rotulo>
+            <NomeAgrupador>Operações Urbanísticas</NomeAgrupador>
+            <Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>A instalação de infraestruturas ferroviárias em zonas urbanas ou de expansão urbana observará o disposto no plano diretor municipal e, no plano de desenvolvimento urbano integrado, em regiões metropolitanas e aglomerações urbanas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            
+            
+            
+            <p>O projeto de implantação de infraestruturas ferroviárias abrangerá projeto urbanístico do entorno, destinado a minimizar possíveis impactos negativos e a propiciar aproveitamento eficiente do solo urbano, de modo a maximizar os efeitos positivos para a mobilidade urbana.</p>
+            
+          </Caput><Paragrafo id="art44_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A execução do projeto urbanístico poderá ser delegada à administração ferroviária, que constituirá entidade de propósito específico constituída sob a forma de sociedade ou de fundo de investimento imobiliário.</p>
+            
+          </Paragrafo><Paragrafo id="art44_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A entidade de propósito específico será aberta à adesão dos titulares de direitos reais sobre os imóveis públicos ou privados necessários à execução da operação, mediante sua entrega a título de integralização de capital.</p>
+            
+          </Paragrafo><Paragrafo id="art44_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A entidade poderá desapropriar ou adquirir contratualmente os direitos reais não incorporados ao seu patrimônio na forma do § 2º e alienar ou explorar comercialmente os imóveis que produzir, assim como arrecadar contribuição de melhoria decorrente das obras que executar.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            
+            
+            
+            <p>Em zonas rurais, a administração ferroviária é legitimada para arrecadar contribuição de melhoria eventualmente instituída pelo poder concedente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-06-21;3365-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-06-21;3365">Decreto-Lei nº 3.365, de 21 de junho de 1941</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-06-21;3365" id="art46_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-06-21;3365 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-06-21;3365,1941,Some((6,21)),Map(art3_cpt -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art3_cpt), art4 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art4), art4-1 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art4-1), art5_par4 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art5_par4), art3_cpt_inc3 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art3_cpt_inc3), art4_cpt -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art4_cpt), art4_par1 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art4_par1), art3_cpt_inc2 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art3_cpt_inc2), art3 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art3), art5_cpt -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art5_cpt), art4-1_cpt -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art4-1_cpt), art3_cpt_inc1 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art3_cpt_inc1), art5_par5 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art5_par5), art5 -> PrefixMatch(URN(1941,Some((6,21)),,urn:lex:br:federal:decreto.lei:1941-06-21;3365),art5)))))-->
+              <Artigo xlink:href="art3" id="art46_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art46_cpt_alt1_art3_cpt">
+            
+            
+            
+            <p>Poderão promover a desapropriação, mediante autorização expressa constante de lei ou contrato:</p>
+            <Inciso xlink:href="art3_cpt_inc1" id="art46_cpt_alt1_art3_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:2004-12-30;11079-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>os concessionários, inclusive aqueles contratados nos termos da <span xlink:href="urn:lex:br:federal:lei:2004-12-30;11079">Lei nº 11.079, de 30 de dezembro de 2004</span>, permissionários, autorizatários e arrendatários;</p>
+            
+          </Inciso><Inciso xlink:href="art3_cpt_inc2" id="art46_cpt_alt1_art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as entidades públicas; e</p>
+            
+          </Inciso><Inciso xlink:href="art3_cpt_inc3" id="art46_cpt_alt1_art3_cpt_inc3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as entidades que exerçam funções delegadas do Poder Público.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art4" id="art46_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art46_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art4_par1u" id="art46_cpt_alt1_art4_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando a desapropriação destinar-se à execução de planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo, a receita decorrente da revenda ou da exploração imobiliária dos imóveis produzidos poderá compor a remuneração do agente executor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art4-1" id="art46_cpt_alt1_art4-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º-A.</Rotulo>
+            
+            <Caput xlink:href="art4-1_cpt" id="art46_cpt_alt1_art4-1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Quando o imóvel a ser desapropriado estiver ocupado por núcleo urbano informal consolidado, os titulares de direitos possessórios deverão receber compensação pelos investimentos realizados.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art5" id="art46_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art46_cpt_alt1_art5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art46_cpt_alt1_art5_omi1"/><Paragrafo xlink:href="art5_par4" id="art46_cpt_alt1_art5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os bens desapropriados para fins de utilidade pública e os direitos decorrentes da respectiva imissão na posse poderão ser alienados a terceiros, locados, cedidos, arrendados, outorgados em regimes de concessão de direito real de uso, de concessão comum ou de parceria público-privada e ainda transferidos como integralização de fundos de investimento ou sociedades de propósito específico.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art5_par5" id="art46_cpt_alt1_art5_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Aplica-se o disposto no § 4º nos casos de desapropriação para fins de execução de planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo, desde que seja assegurada a destinação prevista no referido plano de urbanização ou de parcelamento de solo.</p>
+            
+          </Paragrafo><Omissis id="art46_cpt_alt1_art5_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>AUTORREGULAÇÃO</NomeAgrupador>
+            <Secao id="cap5_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Entidade Privada de Autorregulação Ferroviária</NomeAgrupador>
+            <Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            
+            
+            
+            <p>Os titulares das administrações ferroviárias, juntamente com os usuários, os embarcadores e a indústria, poderão instituir entidade autorregulatória, sob a forma de pessoa jurídica de direito privado, sem fins lucrativos, nos termos de seu estatuto, desta Lei e seu regulamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            
+            
+            
+            <p>Fica autorizada a delegação à entidade autorregulatória ferroviária das seguintes funções:</p>
+            <Inciso id="art48_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>instituir normas técnicas voluntárias sobre os padrões técnicos mínimos de qualidade, universalidade, padronização, utilidade, atualidade, durabilidade e segurança dos ativos e serviços ferroviários, nos termos de seu estatuto;</p>
+            
+          </Inciso><Inciso id="art48_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>conciliar conflitos entre seus membros;</p>
+            
+          </Inciso><Inciso id="art48_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>coordenar, planejar e administrar em cooperação o controle operacional da malha ferroviária integrada de seus membros;</p>
+            
+          </Inciso><Inciso id="art48_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>propor a revogação e a alteração de normas regulatórias incompatíveis com sua autorregulação.</p>
+            
+          </Inciso><Inciso id="art48_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>autorregular e coordenar a atuação dos seus membros assegurando neutralidade com relação aos interesses dos usuários e embarcadores, orientando e disciplinando o tráfego mútuo e o direito de passagem de trens de passageiros e cargas e conciliando as questões não resolvidas pelas partes;</p>
+            
+          </Inciso><Inciso id="art48_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>articular-se com órgãos e instituições dos Estados, do Distrito Federal e dos Municípios para conciliação do uso da via permanente de seus membros com a via pública e demais modalidades de transporte; e</p>
+            
+          </Inciso><Inciso id="art48_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>autorregular os procedimentos e as condições para cessão a terceiros de capacidade de tráfego disponível na infraestrutura ferroviária explorada por seus membros.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art48_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A delegação de que trata o caput é condicionada à incorporação ao estatuto da entidade aurorregulatória das normas desta Lei e da observância da seguinte proporção em sua Assembleia Geral:</p>
+            <Inciso id="art48_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>60% (sessenta por cento) de representantes oriundos dos concessionários ferroviários e autorizatárias ferroviárias proporcionalmente a sua participação na extensão da malha ferroviária nacional em operação.</p>
+            
+          </Inciso><Inciso id="art48_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>15% (quinze por cento) de representantes oriundos dos usuários proporcionalmente ao montante dos passageiros transportados.</p>
+            
+          </Inciso><Inciso id="art48_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>20% (vinte por cento) de representantes oriundos dos embarcadores proporcionalmente ao volume de cargas transportados.</p>
+            
+          </Inciso><Inciso id="art48_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>5% (cinco por cento) de representantes oriundos da indústria de insumos ferroviários proporcionalmente ao valor financeiro comercializado.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art48_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A representatividade da entidade autorregulatória será recalculada a cada dois anos.</p>
+            
+          </Paragrafo><Paragrafo id="art48_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O órgão ou a entidade federal de regulação antitruste, de transporte ou de segurança competente, a Associação Brasileira de Normas Técnicas e o Instituto Nacional de Metrologia, Qualidade e Tecnologia, terão um assento, cada, como membros convidados, sem direito a voto, nos termos da regulamentação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art48_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Enquanto não constituída a entidade autorregulatória pelo mercado ferroviário, a Agência Nacional de Transportes Terrestres assumirá todas as suas funções e prerrogativas previstas nesta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            
+            
+            
+            <p>A entidade autorregulatória ferroviária será, nos termos de seu estatuto e desta Lei, dirigida, em regime de colegiado, por:</p>
+            <Inciso id="art49_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um Diretor-Geral; e</p>
+            
+          </Inciso><Inciso id="art49_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>quatro Diretores.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art49_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os representantes das administrações ferroviárias indicarão três Diretores, incluindo o Diretor-Geral.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os representantes dos usuários, embarcadores e indústria ferroviária indicarão dois Diretores.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Todos os Diretores terão mandatos de cinco anos, não coincidentes, permitida uma única recondução.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os demais representantes do mercado ferroviário membros da entidade comporão a Comissão de Conciliação, a Comissão de Autorregulação, o Conselho Administrativo, e o Conselho Fiscal.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As Comissões da entidade de autorregulação poderão ser divididas em subcomissões temáticas de logística, de urbanismo e de mobilidade, nos termos do estatuto.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A exoneração imotivada de dirigente da entidade de autorregulação somente poderá ser efetuada nos seis meses iniciais do mandato, findos os quais é assegurado seu pleno e integral exercício.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Constitui motivo para a exoneração de dirigente da entidade de autorregulação, em qualquer época, a condenação em ação penal em segunda instância.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>A assunção de posição de dirigente da entidade de autorregulação ferroviária constitui vedação a ocupação de cargo de Diretor ou Conselheiro das agências reguladoras federais pelo dobro do tempo que durar o exercício do mandato na Direção da autorregulação ou pela quarentena de oito anos, o que for maior.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>É vedada a indicação de estrangeiros, de filiados a partidos políticos e de parentes até segundo grau de membros do Congresso Nacional, dos Tribunais Superiores e do Presidente e do Vice-Presidente da República para posições de dirigente da autorregulação ferroviária.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A entidade de autorregulação ferroviária será sediada no Distrito Federal, com atuação em todo o território nacional.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>É vedada à entidade de autorregulação ferroviária a edição de norma ou especificação técnica que dificulte ou impeça o tráfego mútuo ou o direito de passagem por administração ferroviária não membro.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap5_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Supervisão da Autorregulação Ferroviária</NomeAgrupador>
+            <Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            
+            
+            
+            <p>Compete à Agência Nacional de Transportes Terrestres:</p>
+            <Inciso id="art50_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>supervisionar e fiscalizar a entidade de autorregulação ferroviária;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aprovar as normas de autorregulação nos termos desta Lei.</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>homologar os conflitos conciliados pela entidade de autorregulação;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>arbitrar os conflitos não conciliados pela autorregulação;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>publicar os editais dos processos de chamada, anúncio, ou seleção públicos de ferrovias privadas;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>julgar as seleções públicas de ferrovias privadas e celebrar os contratos de autorização para prestação de serviços de transporte ferroviário privado;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>administrar os contratos de autorização de ferrovias privadas nos termos desta Lei;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>deliberar sobre as propostas de revogação e de alteração das normas regulatórias federais incompatíveis com a autorregulação da entidade privada.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art50_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A ANTT analisará a constitucionalidade e a legalidade das normas voluntárias aprovadas por unanimidade pela entidade privada de autorregulação e apreciará as normas voluntárias da entidade de autorregulação aprovadas por maioria qualificada de três quintos.</p>
+            
+          </Paragrafo><Paragrafo id="art50_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Resolução da ANTT que aprovar norma voluntária da entidade de autorregulação nos termos do § 1º terá poder cogente para todas as administrações ferroviárias.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>TRÂNSITO E TRANSPORTE FERROVIÁRIO</NomeAgrupador>
+            <Secao id="cap6_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Segurança e Proteção do Trânsito</NomeAgrupador>
+            <Artigo id="art51">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">
+            
+            
+            
+            <p>As administrações ferroviárias ficam sujeitas à regulação e à fiscalização do órgão ou da entidade federal competente, na forma desta Lei, e deverão:</p>
+            <Inciso id="art51_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cumprir e fazer cumprir, nos prazos determinados, as medidas de segurança e regularidade do tráfego que forem exigidas; e</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>prestar as informações que lhes forem solicitadas pelo regulador competente.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art51_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A defesa civil e a prevenção e o combate a incêndios serão regulados por autoridades estaduais nos termos da regulamentação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art52">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">
+            
+            
+            
+            <p>A administração ferroviária é responsável pela implantação de dispositivos de proteção e segurança ao longo de suas faixas de domínio.</p>
+            
+          </Caput><Paragrafo id="art52_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A responsabilidade da administração ferroviária abrange a via permanente, o material rodante, os equipamentos e as instalações necessários à segurança da operação em situações regulares e de emergência, decorrentes da prestação do serviço de transporte ferroviário.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art53">
+            
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">
+            
+            
+            
+            <p>As linhas férreas têm prioridade de trânsito nas interseções em nível com outras modalidades de transporte, inclusive quanto aos não motorizados, nos termos da regulamentação nacional.</p>
+            
+          </Caput><Paragrafo id="art53_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A administração ferroviária é responsável pela segurança da circulação no trânsito ferroviário.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A disciplina do cruzamento ferroviário será fixada pela administração ferroviária, observada a regulamentação nacional.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A administração ferroviária não poderá impedir a travessia de suas linhas por outras vias anteriormente estabelecidas.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O responsável pela execução da via mais recente assumirá todos os encargos financeiros decorrentes da construção das obras e instalações necessárias ao cruzamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art54">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">
+            
+            
+            
+            <p>A administração ferroviária não poderá impedir a travessia em desnível de suas linhas por outras vias posteriormente estabelecidas, devendo o modo de cruzamento ser fixado pela administração ferroviária, tendo em vista a segurança do tráfego e observada a regulamentação nacional.</p>
+            
+          </Caput><Paragrafo id="art54_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não havendo acordo entre as partes, a travessia será arbitrada pelo órgão ou pela entidade federal competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art55">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">
+            
+            
+            
+            <p>A administração ferroviária não poderá impedir a travessia de suas linhas por tubulações, redes de transmissão elétrica, telefônica e similares, anterior ou posteriormente estabelecidas, observadas as instruções nacionais específicas de proteção ao tráfego e às instalações ferroviárias.</p>
+            
+          </Caput><Paragrafo id="art55_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os encargos de construção, conservação e vigilância caberão à parte que executar o serviço mais recente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art56">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">
+            
+            
+            
+            <p>O transporte de produtos perigosos deverá observar, além desta Lei, o disposto em legislação específica.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art57">
+            
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">
+            
+            
+            
+            <p>Em caso de conflito ou acidente, havendo vítima, o responsável pela segurança é obrigado a, de imediato, providenciar o socorro às vítimas e dar conhecimento do fato à autoridade policial competente, na forma da lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art58">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">
+            
+            
+            
+            <p>A administração ferroviária manterá cadastro de acidentes que ocorram nas respectivas linhas, oficinas e demais dependências, com indicação das causas prováveis e das providências adotadas, inclusive as de caráter preventivo.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap6_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Segurança e Vigilância do Transporte</NomeAgrupador>
+            <Artigo id="art59">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">
+            
+            
+            
+            <p>A administração ferroviária adotará as medidas de natureza técnica, administrativa, de segurança e educativas destinadas a:</p>
+            <Inciso id="art59_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>preservar o patrimônio da empresa;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>garantir a regularidade e a normalidade do tráfego;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>garantir a integridade dos passageiros e dos bens que lhe forem confiados;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>prevenir crimes e contravenções;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>garantir a manutenção da ordem em suas dependências;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>garantir o cumprimento dos direitos e deveres do usuário; e</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>salvaguardar o serviço ferroviário contra atos de interferência ilícita.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art60">
+            
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">
+            
+            
+            
+            <p>Compete à administração ferroviária exercer a vigilância em suas dependências, em ação harmônica com as autoridades policiais competentes.</p>
+            
+          </Caput><Paragrafo id="art60_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em caso de crime praticado no interior do empreendimento ferroviário de que trata esta Lei, a segurança da administração ferroviária, independentemente da presença de autoridade ou agente policial, deverá:</p>
+            <Inciso id="art60_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>remover os feridos para pronto-socorro ou hospital;</p>
+            
+          </Inciso><Inciso id="art60_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>prender em flagrante os autores dos crimes ou contravenções penais e apreender os instrumentos e os objetos que tiverem relação com o fato, entregando-os à autoridade policial competente; e</p>
+            
+          </Inciso><Inciso id="art60_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>isolar o local para verificações e perícias.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art60_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As providências de que trata o 1º deverão ser tomadas, se possível e conveniente, sem a paralisação do tráfego.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Em qualquer dos casos previstos no § 1º, após a adoção das providências previstas, a segurança da administração ferroviária lavrará, encaminhando-o à autoridade policial competente, boletim de ocorrência em que serão consignados o fato, as pessoas nele envolvidas, as testemunhas e os demais elementos úteis para o esclarecimento da verdade.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A administração ferroviária é obrigada a fornecer às vítimas de acidentes nele ocorridos, como aos seus beneficiários ou a outros interessados, cópia autenticada de boletim de ocorrência no prazo máximo de dez dias, contados da data do recebimento do pedido.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art61">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">
+            
+            
+            
+            <p>A segurança da administração ferroviária sempre poderá solicitar a abertura das bagagens pelos passageiros.</p>
+            
+          </Caput><Paragrafo id="art61_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Caso o passageiro não atenda à solicitação a que se refere o caput, a administração ferroviária fica autorizada a não embarcá-lo ou, se já estiver embarcado e no decorrer do percurso, desembarcá-lo na próxima estação.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>FINANCIAMENTO</NomeAgrupador>
+            <Artigo id="art62">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">
+            
+            
+            
+            <p>A efetiva utilização de áreas, edifícios, instalações, equipamentos, facilidades e serviços de uma ferrovia nos termos desta Lei está sujeita ao pagamento referente aos preços e as tarifas que incidirem sobre a parte utilizada.</p>
+            
+          </Caput><Paragrafo id="art62_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os preços e as tarifas de que trata esta Lei serão pagos às administrações ferroviárias.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art63">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">
+            
+            
+            
+            <p>As tarifas ferroviárias são:</p>
+            <Inciso id="art63_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tarifa de embarque: devida pelo passageiro do transporte ferroviário pela utilização das instalações e serviços de despacho e embarque da estação de passageiros;</p>
+            
+          </Inciso><Inciso id="art63_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>tarifa de transporte: devida pelo embarcador ou pelo passageiro pelo transporte do local de origem até o destino;</p>
+            
+          </Inciso><Inciso id="art63_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>tarifa de permanência excessiva: devida pelo proprietário ou pelo explorador da composição pela permanência do trem além do tempo contratado para ocupação do slot ferroviário;</p>
+            
+          </Inciso><Inciso id="art63_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>tarifa de armazenagem e capatazia: devida pelo embarcador, ou pelo transportador no caso de compartilhamento da infraestrutura, pela utilização dos serviços relativos à guarda, manuseio, movimentação e controle da carga nos armazéns e instalações da ferrovia;</p>
+            
+          </Inciso><Inciso id="art63_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>tarifa de compartilhamento: devida pelo operador do trem visitante pela operação ferroviária de tráfego mútuo ou direito de passagem;</p>
+            
+          </Inciso><Inciso id="art63_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>tarifa de ocupação sobre a faixa de domínio privado: devida pela pessoa física ou jurídica que for licenciada pela administração ferroviária a edificar sobre a faixa de domínio ferroviário.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art63_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As tarifas de embarque são isentas no transporte metroviário e para os passageiros menores de dois anos no transporte de longo curso.</p>
+            
+          </Paragrafo><Paragrafo id="art63_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As tarifas de permanência excessiva, armazenagem e capatazia, e compartilhamento serão fixadas entre as partes em contrato.</p>
+            
+          </Paragrafo><Paragrafo id="art63_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A licença para edificar sobre a faixa de domínio ferroviário obedecerá a regulamentação nacional quanto à segurança e a municipal quanto ao urbanismo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap8">
+            
+            
+            <Rotulo>CAPÍTULO VIII</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES TRANSITÓRIAS E FINAIS</NomeAgrupador>
+            <Artigo id="art64">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-06-05;10233!art13--><!--Link: urn:lex:br:federal:lei:2001-06-05;10233!art14-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:2001-06-05;10233!art13">arts. 13</span> e <span xlink:href="urn:lex:br:federal:lei:2001-06-05;10233!art14">14 da Lei nº 10.233, de 5 de junho de 2001</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2001-06-05;10233" id="art64_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2001-06-05;10233 -> MatchByBase(urn:lex:br:federal:lei:2001-06-05;10233,2001,Some((6,5)),Map(art13 -> ExactMatch(URN(2001,Some((6,5)),art13,urn:lex:br:federal:lei:2001-06-05;10233!art13)), art14_cpt -> PrefixMatch(URN(2001,Some((6,5)),art14,urn:lex:br:federal:lei:2001-06-05;10233!art14),art14_cpt), art13_cpt_inc5_ali6 -> PrefixMatch(URN(2001,Some((6,5)),art13,urn:lex:br:federal:lei:2001-06-05;10233!art13),art13_cpt_inc5_ali6), art13_cpt -> PrefixMatch(URN(2001,Some((6,5)),art13,urn:lex:br:federal:lei:2001-06-05;10233!art13),art13_cpt), art14_par5 -> PrefixMatch(URN(2001,Some((6,5)),art14,urn:lex:br:federal:lei:2001-06-05;10233!art14),art14_par5), art13_cpt_inc5 -> PrefixMatch(URN(2001,Some((6,5)),art13,urn:lex:br:federal:lei:2001-06-05;10233!art13),art13_cpt_inc5), art14 -> ExactMatch(URN(2001,Some((6,5)),art14,urn:lex:br:federal:lei:2001-06-05;10233!art14))))))-->
+              <Artigo xlink:href="art13" id="art64_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art64_cpt_alt1_art13_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art64_cpt_alt1_art13_cpt_omi1"/><Inciso xlink:href="art13_cpt_inc5" id="art64_cpt_alt1_art13_cpt_inc5" textoOmitido="s">
+            
+            
+            <Rotulo>V –</Rotulo>
+            
+            <Omissis id="art64_cpt_alt1_art13_cpt_inc5_omi1"/><Alinea xlink:href="art13_cpt_inc5_ali6" id="art64_cpt_alt1_art13_cpt_inc5_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>exploração de ferrovia de propriedade privada em regime de direito privado.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art64_cpt_alt1_art13_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art14" id="art64_cpt_alt1_art14" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput xlink:href="art14_cpt" id="art64_cpt_alt1_art14_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art64_cpt_alt1_art14_omi1"/><Paragrafo xlink:href="art14_par5" id="art64_cpt_alt1_art14_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A outorga do transporte ferroviário privado em regime de direito privado reger-se-á por legislação específica.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art65">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art320-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art320">art. 320 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art65_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art320 -> ExactMatch(URN(1997,Some((9,23)),art320,urn:lex:br:federal:lei:1997-09-23;9503!art320)), art320_cpt -> PrefixMatch(URN(1997,Some((9,23)),art320,urn:lex:br:federal:lei:1997-09-23;9503!art320),art320_cpt), art320_par3 -> PrefixMatch(URN(1997,Some((9,23)),art320,urn:lex:br:federal:lei:1997-09-23;9503!art320),art320_par3)))))-->
+              <Artigo xlink:href="art320" id="art65_cpt_alt1_art320" abreAspas="s">
+            
+            
+            <Rotulo>Art. 320.</Rotulo>
+            
+            <Caput xlink:href="art320_cpt" id="art65_cpt_alt1_art320_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art65_cpt_alt1_art320_omi1"/><Paragrafo xlink:href="art320_par3" id="art65_cpt_alt1_art320_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Onde houver linhas férreas instaladas, o percentual de sete e meio por cento do valor das multas de trânsito arrecadadas mensalmente, será destinado, exclusivamente, à segurança das passagens ferroviárias em nível e à construção e revitalização de passagens ferroviárias em desnível com vias públicas, ciclovias e passagens de pedestres.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art66">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput id="art66_cpt">
+            <!--Link: urn:lex:br:federal:lei:2011-01-06;12379!art23--><!--Link: urn:lex:br:federal:lei:2011-01-06;12379!art24-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:2011-01-06;12379!art23">arts. 23</span> e <span xlink:href="urn:lex:br:federal:lei:2011-01-06;12379!art24">24, da Lei nº 12.379, de 6 de janeiro de 2011</span>, passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2011-01-06;12379" id="art66_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2011-01-06;12379 -> MatchByBase(urn:lex:br:federal:lei:2011-01-06;12379,2011,Some((1,6)),Map(art24 -> ExactMatch(URN(2011,Some((1,6)),art24,urn:lex:br:federal:lei:2011-01-06;12379!art24)), art24_par2 -> PrefixMatch(URN(2011,Some((1,6)),art24,urn:lex:br:federal:lei:2011-01-06;12379!art24),art24_par2), art23_par2 -> PrefixMatch(URN(2011,Some((1,6)),art23,urn:lex:br:federal:lei:2011-01-06;12379!art23),art23_par2), art23_cpt -> PrefixMatch(URN(2011,Some((1,6)),art23,urn:lex:br:federal:lei:2011-01-06;12379!art23),art23_cpt), art23 -> ExactMatch(URN(2011,Some((1,6)),art23,urn:lex:br:federal:lei:2011-01-06;12379!art23)), art24_cpt -> PrefixMatch(URN(2011,Some((1,6)),art24,urn:lex:br:federal:lei:2011-01-06;12379!art24),art24_cpt), art23_par1 -> PrefixMatch(URN(2011,Some((1,6)),art23,urn:lex:br:federal:lei:2011-01-06;12379!art23),art23_par1), art24_par1 -> PrefixMatch(URN(2011,Some((1,6)),art24,urn:lex:br:federal:lei:2011-01-06;12379!art24),art24_par1)))))-->
+              <Artigo xlink:href="art23" id="art66_cpt_alt1_art23" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput xlink:href="art23_cpt" id="art66_cpt_alt1_art23_cpt">
+            
+            
+            
+            <p>A relação descritiva das ferrovias que integram o Subsistema Ferroviário Federal será atualizada, anualmente, por Ato do Poder Executivo.</p>
+            
+          </Caput><Paragrafo xlink:href="art23_par1" id="art66_cpt_alt1_art23_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Órgão ou entidade competente atualizará na internet a relação de que trata o caput em formato tabular e geográfico.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23_par2" id="art66_cpt_alt1_art23_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As informações geoespaciais de que trata o § 1º conterão, no mínimo, as indicações de bitola, designação e numeração, titularidade, operador, e capacidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art24" id="art66_cpt_alt1_art24" abreAspas="s">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput xlink:href="art24_cpt" id="art66_cpt_alt1_art24_cpt">
+            
+            
+            
+            <p>Fica a União autorizada a desativar ou erradicar trechos ferroviários de tráfego inexpressivo, não passíveis de arrendamento, concessão ou alienação.</p>
+            
+          </Caput><Paragrafo xlink:href="art24_par1" id="art66_cpt_alt1_art24_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Decorridos cinco anos da decretação da desativação, a faixa de domínio do trecho desativado poderá ser erradicada e convertida em parque público linear, ciclovias ou calçadões ou aberto à via pública.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art24_par2" id="art66_cpt_alt1_art24_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Decretada a erradicação, a União alienará os bens imóveis resultantes.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art67">
+            
+            
+            <Rotulo>Art. 67.</Rotulo>
+            
+            <Caput id="art67_cpt">
+            <!--Link: urn:lex:br:federal:lei:2011-01-06;12379-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2011-01-06;12379">Lei nº 12.379, de 6 de janeiro de 2011</span>, passa a vigorar acrescida do seguinte artigo:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2011-01-06;12379" id="art67_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2011-01-06;12379 -> MatchByBase(urn:lex:br:federal:lei:2011-01-06;12379,2011,Some((1,6)),Map(art23-1_cpt_inc2 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc2), art23-1_cpt_inc5_ali2 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc5_ali2), art23-1_cpt_inc4_ali2 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc4_ali2), art23-1_cpt_inc5_ali1 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc5_ali1), art23-1_cpt -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt), art23-1_cpt_inc5 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc5), art23-1_cpt_inc4_ali1 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc4_ali1), art23-1_cpt_inc5_ali4 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc5_ali4), art23-1 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1), art23-1_cpt_inc4 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc4), art23-1_cpt_inc1 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc1), art23-1_cpt_inc3 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc3), art23-1_cpt_inc5_ali3 -> PrefixMatch(URN(2011,Some((1,6)),,urn:lex:br:federal:lei:2011-01-06;12379),art23-1_cpt_inc5_ali3)))))-->
+              <Artigo xlink:href="art23-1" id="art67_cpt_alt1_art23-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23-A.</Rotulo>
+            
+            <Caput xlink:href="art23-1_cpt" id="art67_cpt_alt1_art23-1_cpt">
+            
+            
+            
+            <p>As ferrovias nacionais classificam-se quanto a:</p>
+            <Inciso xlink:href="art23-1_cpt_inc1" id="art67_cpt_alt1_art23-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>bitola;</p>
+            
+          </Inciso><Inciso xlink:href="art23-1_cpt_inc2" id="art67_cpt_alt1_art23-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>orientação geográfica;</p>
+            
+          </Inciso><Inciso xlink:href="art23-1_cpt_inc3" id="art67_cpt_alt1_art23-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>designação e numeração;</p>
+            
+          </Inciso><Inciso xlink:href="art23-1_cpt_inc4" id="art67_cpt_alt1_art23-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>titularidade:</p>
+            <Alinea xlink:href="art23-1_cpt_inc4_ali1" id="art67_cpt_alt1_art23-1_cpt_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>pública;</p>
+            
+          </Alinea><Alinea xlink:href="art23-1_cpt_inc4_ali2" id="art67_cpt_alt1_art23-1_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>privada;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art23-1_cpt_inc5" id="art67_cpt_alt1_art23-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>competência:</p>
+            <Alinea xlink:href="art23-1_cpt_inc5_ali1" id="art67_cpt_alt1_art23-1_cpt_inc5_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>federal;</p>
+            
+          </Alinea><Alinea xlink:href="art23-1_cpt_inc5_ali2" id="art67_cpt_alt1_art23-1_cpt_inc5_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>estadual;</p>
+            
+          </Alinea><Alinea xlink:href="art23-1_cpt_inc5_ali3" id="art67_cpt_alt1_art23-1_cpt_inc5_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>distrital;</p>
+            
+          </Alinea><Alinea xlink:href="art23-1_cpt_inc5_ali4" id="art67_cpt_alt1_art23-1_cpt_inc5_ali4" fechaAspas="s">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>municipal.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art68">
+            
+            
+            <Rotulo>Art. 68.</Rotulo>
+            
+            <Caput id="art68_cpt">
+            
+            
+            
+            <p>O CONIT ao regulamentar esta Lei detalhará:</p>
+            <Inciso id="art68_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os direitos e deveres da administração ferroviária, dos embarcadores e dos passageiros;</p>
+            
+          </Inciso><Inciso id="art68_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as atribuições e os procedimentos de segurança; e</p>
+            
+          </Inciso><Inciso id="art68_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as multas e as demais sanções administrativas para os infratores de suas disposições, com previsão de recursos para cada caso.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art69">
+            
+            
+            <Rotulo>Art. 69.</Rotulo>
+            
+            <Caput id="art69_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor noventa dias após a sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

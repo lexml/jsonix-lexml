@@ -1,0 +1,241 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;25@data.evento;leitura;2017-06-28t14.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 25 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera os <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art7">arts. 7º</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art23">23</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art24">24</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art37">37</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art40">40</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art201">201</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art203">203</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art208">208</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art227">227</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art244">244 da Constituição Federal</span> para incorporar-lhes a nomenclatura “pessoa com deficiência”, utilizada pela Convenção Internacional sobre o Direito das Pessoas com Deficiência.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art24--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art203--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art23--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art40--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art208--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art7--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art244--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art201--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art37--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art227-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art7">arts. 7º</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art23">23</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art24">24</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art37">37</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art40">40</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art201">201</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art203">203</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art208">208</span>, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art227">227</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art244">244 da Constituição Federal</span> passam a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art37_cpt -> PrefixMatch(URN(1988,Some((10,5)),art37,urn:lex:br:federal:constituicao:1988-10-05;1988!art37),art37_cpt), art37 -> ExactMatch(URN(1988,Some((10,5)),art37,urn:lex:br:federal:constituicao:1988-10-05;1988!art37)), art203_cpt_inc5 -> PrefixMatch(URN(1988,Some((10,5)),art203,urn:lex:br:federal:constituicao:1988-10-05;1988!art203),art203_cpt_inc5), art24 -> ExactMatch(URN(1988,Some((10,5)),art24,urn:lex:br:federal:constituicao:1988-10-05;1988!art24)), art7_cpt_inc31 -> PrefixMatch(URN(1988,Some((10,5)),art7,urn:lex:br:federal:constituicao:1988-10-05;1988!art7),art7_cpt_inc31), art37_cpt_inc8 -> PrefixMatch(URN(1988,Some((10,5)),art37,urn:lex:br:federal:constituicao:1988-10-05;1988!art37),art37_cpt_inc8), art227_cpt -> PrefixMatch(URN(1988,Some((10,5)),art227,urn:lex:br:federal:constituicao:1988-10-05;1988!art227),art227_cpt), art203_cpt -> PrefixMatch(URN(1988,Some((10,5)),art203,urn:lex:br:federal:constituicao:1988-10-05;1988!art203),art203_cpt), art244_cpt -> PrefixMatch(URN(1988,Some((10,5)),art244,urn:lex:br:federal:constituicao:1988-10-05;1988!art244),art244_cpt), art7 -> ExactMatch(URN(1988,Some((10,5)),art7,urn:lex:br:federal:constituicao:1988-10-05;1988!art7)), art208_cpt_inc3 -> PrefixMatch(URN(1988,Some((10,5)),art208,urn:lex:br:federal:constituicao:1988-10-05;1988!art208),art208_cpt_inc3), art208_cpt -> PrefixMatch(URN(1988,Some((10,5)),art208,urn:lex:br:federal:constituicao:1988-10-05;1988!art208),art208_cpt), art23_cpt_inc2 -> PrefixMatch(URN(1988,Some((10,5)),art23,urn:lex:br:federal:constituicao:1988-10-05;1988!art23),art23_cpt_inc2), art23_cpt -> PrefixMatch(URN(1988,Some((10,5)),art23,urn:lex:br:federal:constituicao:1988-10-05;1988!art23),art23_cpt), art208 -> ExactMatch(URN(1988,Some((10,5)),art208,urn:lex:br:federal:constituicao:1988-10-05;1988!art208)), art40_par4_inc1 -> PrefixMatch(URN(1988,Some((10,5)),art40,urn:lex:br:federal:constituicao:1988-10-05;1988!art40),art40_par4_inc1), art201_par1 -> PrefixMatch(URN(1988,Some((10,5)),art201,urn:lex:br:federal:constituicao:1988-10-05;1988!art201),art201_par1), art203_cpt_inc4 -> PrefixMatch(URN(1988,Some((10,5)),art203,urn:lex:br:federal:constituicao:1988-10-05;1988!art203),art203_cpt_inc4), art227 -> ExactMatch(URN(1988,Some((10,5)),art227,urn:lex:br:federal:constituicao:1988-10-05;1988!art227)), art244 -> ExactMatch(URN(1988,Some((10,5)),art244,urn:lex:br:federal:constituicao:1988-10-05;1988!art244)), art23 -> ExactMatch(URN(1988,Some((10,5)),art23,urn:lex:br:federal:constituicao:1988-10-05;1988!art23)), art24_cpt -> PrefixMatch(URN(1988,Some((10,5)),art24,urn:lex:br:federal:constituicao:1988-10-05;1988!art24),art24_cpt), art40_cpt -> PrefixMatch(URN(1988,Some((10,5)),art40,urn:lex:br:federal:constituicao:1988-10-05;1988!art40),art40_cpt), art227_par1_inc2 -> PrefixMatch(URN(1988,Some((10,5)),art227,urn:lex:br:federal:constituicao:1988-10-05;1988!art227),art227_par1_inc2), art227_par1 -> PrefixMatch(URN(1988,Some((10,5)),art227,urn:lex:br:federal:constituicao:1988-10-05;1988!art227),art227_par1), art40_par4 -> PrefixMatch(URN(1988,Some((10,5)),art40,urn:lex:br:federal:constituicao:1988-10-05;1988!art40),art40_par4), art201 -> ExactMatch(URN(1988,Some((10,5)),art201,urn:lex:br:federal:constituicao:1988-10-05;1988!art201)), art203 -> ExactMatch(URN(1988,Some((10,5)),art203,urn:lex:br:federal:constituicao:1988-10-05;1988!art203)), art227_par2 -> PrefixMatch(URN(1988,Some((10,5)),art227,urn:lex:br:federal:constituicao:1988-10-05;1988!art227),art227_par2), art40 -> ExactMatch(URN(1988,Some((10,5)),art40,urn:lex:br:federal:constituicao:1988-10-05;1988!art40)), art7_cpt -> PrefixMatch(URN(1988,Some((10,5)),art7,urn:lex:br:federal:constituicao:1988-10-05;1988!art7),art7_cpt), art201_cpt -> PrefixMatch(URN(1988,Some((10,5)),art201,urn:lex:br:federal:constituicao:1988-10-05;1988!art201),art201_cpt), art24_cpt_inc14 -> PrefixMatch(URN(1988,Some((10,5)),art24,urn:lex:br:federal:constituicao:1988-10-05;1988!art24),art24_cpt_inc14)))))-->
+              <Artigo xlink:href="art7" id="art1_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art1_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art7_cpt_omi1"/><Inciso xlink:href="art7_cpt_inc31" id="art1_cpt_alt1_art7_cpt_inc31">
+            
+            
+            <Rotulo>XXXI –</Rotulo>
+            <p>proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador com deficiência;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art7_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art23" id="art1_cpt_alt1_art23" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput xlink:href="art23_cpt" id="art1_cpt_alt1_art23_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art23_cpt_omi1"/><Inciso xlink:href="art23_cpt_inc2" id="art1_cpt_alt1_art23_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cuidar da saúde e assistência pública, da proteção e garantia das pessoas com deficiência;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art23_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art24" id="art1_cpt_alt1_art24" abreAspas="s">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput xlink:href="art24_cpt" id="art1_cpt_alt1_art24_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art24_cpt_omi1"/><Inciso xlink:href="art24_cpt_inc14" id="art1_cpt_alt1_art24_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>proteção e integração social das pessoas com deficiência;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art24_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art37" id="art1_cpt_alt1_art37" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput xlink:href="art37_cpt" id="art1_cpt_alt1_art37_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art37_cpt_omi1"/><Inciso xlink:href="art37_cpt_inc8" id="art1_cpt_alt1_art37_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a lei reservará percentual dos cargos e empregos públicos para as pessoas com deficiência e definirá os critérios de sua admissão;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art37_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art40" id="art1_cpt_alt1_art40" abreAspas="s">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput xlink:href="art40_cpt" id="art1_cpt_alt1_art40_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art40_omi1"/><Paragrafo xlink:href="art40_par4" id="art1_cpt_alt1_art40_par4" textoOmitido="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            
+            <Inciso xlink:href="art40_par4_inc1" id="art1_cpt_alt1_art40_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>com deficiência;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art40_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art201" id="art1_cpt_alt1_art201" abreAspas="s">
+            
+            
+            <Rotulo>Art. 201.</Rotulo>
+            
+            <Caput xlink:href="art201_cpt" id="art1_cpt_alt1_art201_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art201_omi1"/><Paragrafo xlink:href="art201_par1" id="art1_cpt_alt1_art201_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, ressalvados os casos de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física e quando se tratar de segurados com deficiência, nos termos definidos em lei complementar.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art201_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art203" id="art1_cpt_alt1_art203" abreAspas="s">
+            
+            
+            <Rotulo>Art. 203.</Rotulo>
+            
+            <Caput xlink:href="art203_cpt" id="art1_cpt_alt1_art203_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art203_cpt_omi1"/><Inciso xlink:href="art203_cpt_inc4" id="art1_cpt_alt1_art203_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a habilitação e reabilitação das pessoas com deficiência e a promoção de sua integração à vida comunitária;</p>
+            
+          </Inciso><Inciso xlink:href="art203_cpt_inc5" id="art1_cpt_alt1_art203_cpt_inc5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a garantia de um salário mínimo de benefício mensal à pessoa com deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art208" id="art1_cpt_alt1_art208" abreAspas="s">
+            
+            
+            <Rotulo>Art. 208.</Rotulo>
+            
+            <Caput xlink:href="art208_cpt" id="art1_cpt_alt1_art208_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art208_cpt_omi1"/><Inciso xlink:href="art208_cpt_inc3" id="art1_cpt_alt1_art208_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>atendimento educacional especializado às pessoas com deficiência, preferencialmente na rede regular de ensino;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art208_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art227" id="art1_cpt_alt1_art227" abreAspas="s">
+            
+            
+            <Rotulo>Art. 227.</Rotulo>
+            
+            <Caput xlink:href="art227_cpt" id="art1_cpt_alt1_art227_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art227_par1" id="art1_cpt_alt1_art227_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art227_par1_omi1"/><Inciso xlink:href="art227_par1_inc2" id="art1_cpt_alt1_art227_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>criação de programas de prevenção e atendimento especializado para as pessoas com deficiência física, sensorial ou mental, bem como de integração social do adolescente e do jovem com deficiência, mediante o treinamento para o trabalho e a convivência, e a facilitação do acesso aos bens e serviços coletivos, com a eliminação de obstáculos arquitetônicos e de todas as formas de discriminação.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art227_par2" id="art1_cpt_alt1_art227_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A lei disporá sobre normas de construção dos logradouros e dos edifícios de uso público e de fabricação de veículos de transporte coletivo, a fim de garantir acesso adequado às pessoas com deficiência.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art227_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art244" id="art1_cpt_alt1_art244" abreAspas="s">
+            
+            
+            <Rotulo>Art. 244.</Rotulo>
+            
+            <Caput xlink:href="art244_cpt" id="art1_cpt_alt1_art244_cpt" fechaAspas="s">
+            
+            
+            
+            <p>A lei disporá sobre a adaptação dos logradouros, dos edifícios de uso público e dos veículos de transporte coletivo atualmente existentes a fim de garantir acesso adequado às pessoas com deficiência, conforme o disposto no art. 227, § 2º.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Emenda Constitucional entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

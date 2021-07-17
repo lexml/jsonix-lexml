@@ -1,0 +1,118 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;133"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 133 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Saúde da Pessoa Diabética.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O Sistema Único de Saúde (SUS) adotará a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética, em qualquer de suas formas, incluído o tratamento dos problemas de saúde com ele relacionados.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Constituirá parte integrante da política estabelecida neste artigo a realização de campanhas de divulgação e conscientização sobre a importância e a necessidade de medir regularmente os níveis glicêmicos e de controlá-los.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São diretrizes da Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a universalidade, a integralidade, a equidade, a descentralização e a participação da sociedade na definição e no controle das ações e dos serviços de saúde;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a ênfase nas ações coletivas e preventivas, na promoção da saúde e da qualidade de vida, na multidisciplinaridade e no trabalho intersetorial em equipe;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o desenvolvimento de instrumentos de informação, análise, avaliação e controle por parte dos serviços de saúde, abertos à participação da sociedade;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o apoio ao desenvolvimento científico e tecnológico voltado para o enfrentamento e o controle do diabetes, dos problemas com ele relacionados e de seus determinantes, assim como à formação permanente dos trabalhadores da rede de serviços de saúde;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a formação e educação continuada de profissionais, pacientes, familiares e cuidadores, com vistas ao melhor controle da enfermidade e à prevenção de complicações;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o direito às medicações, incluídos os análogos de insulina, aos instrumentos e aos materiais de autoaplicação e autocontrole, com vistas a garantir a maior autonomia possível por parte da pessoa diabética;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o exame de glicemia no protocolo de atendimento médico de urgência e emergência, com a inclusão do teste do teor de açúcar no sangue no procedimento de triagem, junto com os outros exames previstos nas normas operacionais do Sistema Único de Saúde (SUS); e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a disponibilização pelas unidades de saúde, independentemente de atendimento médico, de exames de glicemia capilar ou outros que sejam de fácil realização e de leitura imediata.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Fica a regulamentação desta Lei a cargo do Poder Executivo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

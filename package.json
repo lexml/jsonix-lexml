@@ -1,0 +1,13 @@
+{
+  "name": "jsonix-lexml",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "jrafael@senado.leg.br",
+  "license": "ISC",
+  "dependencies": {
+    "jsonix": "3.0.0"
+  }
+}

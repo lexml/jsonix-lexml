@@ -1,0 +1,70 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;11"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 11 DE 2018</Epigrafe>
+      <Ementa id="ementa">Institui o Ano de Valorização e Defesa dos Direitos Humanos da Pessoa Idosa, em alusão à Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica instituído o ano de 2018 como o Ano de Valorização e Defesa dos Direitos Humanos da Pessoa Idosa, em alusão ao processo de ratificação, pelo Brasil, da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Durante o Ano de Valorização e Defesa dos Direitos Humanos da Pessoa Idosa, serão empreendidas ações como:</p>
+            <Inciso id="art1_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>realização de palestras e eventos sobre o tema;</p>
+            
+          </Inciso><Inciso id="art1_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>divulgação da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos por meio de material educativo e campanhas publicitárias;</p>
+            
+          </Inciso><Inciso id="art1_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>articulação conjunta com órgãos da administração pública, com o Poder Legislativo e o Poder Judiciário para incentivar ações de valorização da pessoa idosa, no âmbito de suas competências;</p>
+            
+          </Inciso><Inciso id="art1_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>outras medidas que se proponham a esclarecer e sensibilizar a população acerca dos direitos da pessoa idosa.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,202 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;30@data.evento;leitura;2017-02-20t14.09"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 30 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a proibição da extração, da importação, do transporte, do armazenamento e da industrialização do amianto e dos minérios e rochas que contenham silicatos hidratados, bem como a proibição da importação e da comercialização dos produtos que os utilizem como matéria-prima.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre a proibição da extração, da importação, do transporte, do armazenamento e da industrialização do amianto e dos minérios e rochas que contenham silicatos hidratados, bem como a proibição da importação e da comercialização dos produtos que os utilizem como matéria-prima.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Ficam proibidos, obedecidos os prazos dispostos no art. 3o, em todo o território nacional:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a extração, a importação, o transporte, o armazenamento e a industrialização de todas as variedades de amianto, obtido de quaisquer fontes e por quaisquer processos;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a extração, a importação, o transporte, o armazenamento e a industrialização dos minérios e das rochas que contenham silicatos hidratados de magnésio, de magnésio e cálcio, de ferro e magnésio, e de ferro, magnésio e cálcio que, a critério do órgão competente, acarretem riscos à saúde dos trabalhadores e dos consumidores;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a importação, o transporte, o armazenamento e a comercialização de produto que tenha como matéria-prima o amianto;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a importação, o transporte, o armazenamento e a comercialização de produto que tenha como matéria-prima os minérios ou as rochas a que se refere o inciso II.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para os efeitos desta Lei e da sua regulamentação, amianto e asbesto são sinônimos, inclusive no que se refere às palavras deles derivadas, e designam a forma fibrosa dos minerais pertencentes aos grupos das serpentinas e dos anfibólios, obtidos de quaisquer fontes ou processos.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Excetuam-se das proibições constantes do art. 2o, o amianto, os minérios ou as rochas, bem como os produtos que os utilizem como matéria-prima, destinados exclusivamente a pesquisas autorizadas pelo órgão competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O encerramento das atividades relacionadas no art. 2o obedecerá aos seguintes prazos:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>seis meses, para a extração ou a obtenção a partir de quaisquer fontes e por quaisquer processos, e para a importação da forma bruta;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>um ano, para o transporte da jazida até o local de armazenamento ou de industrialização, e para o armazenamento, a industrialização e a utilização da forma bruta;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dois anos, para o armazenamento e a comercialização, pela indústria, e para a importação dos produtos que os utilizem como matéria-prima;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>três anos, para o armazenamento e a comercialização, pelos estabelecimentos atacadistas, dos produtos que os utilizem como matéria-prima;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>quatro anos, para o armazenamento e a comercialização, pelos estabelecimentos varejistas, dos produtos que os utilizem como matéria-prima.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:2000-07-03;9976-->
+            
+            
+            <p>Decorrido o prazo estabelecido pelo inciso IV do art. 3o, as empresas que desempenham a atividade de que trata a <span xlink:href="urn:lex:br:federal:lei:2000-07-03;9976">Lei no 9.976, de 3 de julho de 2000</span>, só poderão utilizar diafragmas de amianto na produção de cloro durante três anos ou até o esgotamento do estoque remanescente desse insumo, adquirido dentro do prazo estabelecido nesse inciso, prevalecendo o que ocorrer primeiro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A regulamentação do disposto nesta Lei definirá:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o destino dos estoques remanescentes e dos resíduos do amianto ou dos minérios ou das rochas a que se refere o inciso II do art. 2o que, vencidos os prazos estabelecidos nos arts. 3o e 4o, não foram industrializados, comercializados ou utilizados;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as normas para a extração, o transporte, o armazenamento e a industrialização da forma bruta do amianto e dos minérios e das rochas a que se refere o inciso II do art. 2o, até a cessação dessas atividades;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as normas para o transporte e o armazenamento dos produtos que utilizam como matéria-prima o amianto ou os minérios ou as rochas a que se refere o inciso II do art. 2o, até a cessação dessas atividades.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:lei:1977-08-20;6437!art10_cpt_inc29-->
+            
+            
+            <p>Sem prejuízo das sanções cíveis, criminais e trabalhistas cabíveis, o descumprimento do disposto nesta Lei ou na sua regulamentação sujeita o infrator às penas estabelecidas pelo <span xlink:href="urn:lex:br:federal:lei:1977-08-20;6437!art10_cpt_inc29">inciso XXIX do art. 10 da Lei no 6.437, de 20 de agosto de 1977</span>.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As despesas relativas à remoção e à inutilização do produto apreendido correrão às custas do infrator.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-06-01;9055-->
+            
+            
+            <p>Fica revogada a <span xlink:href="urn:lex:br:federal:lei:1995-06-01;9055">Lei no 9.055, de 1o de junho de 1995</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

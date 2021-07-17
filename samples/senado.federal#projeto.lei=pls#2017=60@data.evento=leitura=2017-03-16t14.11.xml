@@ -1,0 +1,115 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;60@data.evento;leitura;2017-03-16t14.11"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 60 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096">Lei nº 9.096, de 19 de setembro de 1995</span>, para aplicar aos partidos políticos as normas legais sobre responsabilidade objetiva e compliance e estimular no plano interno código de conduta e programa de integridade e auditoria.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-09-19;9096-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096">Lei nº 9.096, de 19 de setembro de 1995</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-09-19;9096" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-09-19;9096 -> MatchByBase(urn:lex:br:federal:lei:1995-09-19;9096,1995,Some((9,19)),Map(art30-1_par4_inc2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par4_inc2), art30-1_par1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par1), art30-1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1), art30-1_par4 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par4), art30-1_par4_inc3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par4_inc3), art37-2_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-2_cpt), art30-1_par3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par3), art30-1_par4_inc4 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par4_inc4), art30-1_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_cpt), art30-1_par4_inc1 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par4_inc1), art30-1_par2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art30-1_par2), art37-2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art37-2)))))-->
+              <Artigo xlink:href="art30-1" id="art1_cpt_alt1_art30-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 30-A.</Rotulo>
+            
+            <Caput xlink:href="art30-1_cpt" id="art1_cpt_alt1_art30-1_cpt">
+            
+            
+            
+            <p>Os partidos políticos respondem objetivamente pela prática de atos contra a administração pública por seus dirigentes, nessa condição.</p>
+            
+          </Caput><Paragrafo xlink:href="art30-1_par1" id="art1_cpt_alt1_art30-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A responsabilização do partido político não exclui a responsabilidade individual de seus dirigentes ou administradores ou de qualquer pessoa natural, autora, coautora ou partícipe de ato ilícito.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art30-1_par2" id="art1_cpt_alt1_art30-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O partido político será responsabilizado independentemente da responsabilização individual das pessoas referidas no § 1º.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art30-1_par3" id="art1_cpt_alt1_art30-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os dirigentes ou administradores somente serão responsabilizados por atos ilícitos na medida de sua culpabilidade.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art30-1_par4" id="art1_cpt_alt1_art30-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Constituem atos contra a Administração Pública aqueles que atentem contra o patrimônio público ou os princípios da Administração Pública, assim definidos:</p>
+            <Inciso xlink:href="art30-1_par4_inc1" id="art1_cpt_alt1_art30-1_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a agente público, ou a terceira pessoa a ele relacionada;</p>
+            
+          </Inciso><Inciso xlink:href="art30-1_par4_inc2" id="art1_cpt_alt1_art30-1_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>financiar, custear, patrocinar ou de qualquer modo incentivar a prática de atos ilícitos previstos nesta Lei;</p>
+            
+          </Inciso><Inciso xlink:href="art30-1_par4_inc3" id="art1_cpt_alt1_art30-1_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>utilizar-se de interposta pessoa, física ou jurídica, para ocultar ou dissimular seus reais interesses ou a identidade dos atos praticados;</p>
+            
+          </Inciso><Inciso xlink:href="art30-1_par4_inc4" id="art1_cpt_alt1_art30-1_par4_inc4" fechaAspas="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>dificultar atividade de investigação ou fiscalização de órgãos, entidades ou agentes públicos, ou intervir em sua atuação.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art37-2" id="art1_cpt_alt1_art37-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 37-B.</Rotulo>
+            
+            <Caput xlink:href="art37-2_cpt" id="art1_cpt_alt1_art37-2_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Na aplicação das penas referidas neste Título, será levada em consideração a existência de mecanismos internos de integridade, auditoria e incentivo à denúncia de irregularidades e a aplicação efetiva de códigos de ética e de conduta no âmbito do partido político.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,52 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;167"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 167 DE 2017</Epigrafe>
+      <Ementa id="ementa">Inclui no Anexo da <span xlink:href="urn:lex:br:federal:lei:1973-09-10;5917">Lei nº 5.917, de 10 de setembro de 1973</span>, que dispõe sobre o Plano Nacional de Viação, o trecho rodoviário que menciona.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1973-09-10;5917-->
+            
+            
+            <p>O item 2.2.2 - Relação Descritiva das Rodovias do Sistema Rodoviário Federal, constante do Anexo do Plano Nacional de Viação, aprovado pela <span xlink:href="urn:lex:br:federal:lei:1973-09-10;5917">Lei nº 5.917, de 10 de setembro de 1973</span>, passa a vigorar acrescido do trecho rodoviário de ligação entre a BR-222, no Município de Vargem Grande, Estado do Maranhão, e a BR-316, no Município de Peritoró, Estado do Maranhão.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O traçado definitivo, a designação oficial e as demais características do trecho de que trata o art. 1º desta Lei serão determinados pelo órgão competente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

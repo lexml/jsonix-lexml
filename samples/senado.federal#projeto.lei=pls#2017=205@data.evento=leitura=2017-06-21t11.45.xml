@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;205@data.evento;leitura;2017-06-21t11.45"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 205 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2005-02-09;11101">Lei nº 11.101, de 9 de fevereiro de 2005</span>, para ampliar o prazo de parcelamento previsto no plano especial de recuperação judicial aplicável às microempresas e às empresas de pequeno porte.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2005-02-09;11101!art71-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2005-02-09;11101!art71">art. 71 da Lei nº 11.101, de 9 de fevereiro de 2005</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2005-02-09;11101" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2005-02-09;11101 -> MatchByBase(urn:lex:br:federal:lei:2005-02-09;11101,2005,Some((2,9)),Map(art71 -> ExactMatch(URN(2005,Some((2,9)),art71,urn:lex:br:federal:lei:2005-02-09;11101!art71)), art71_cpt -> PrefixMatch(URN(2005,Some((2,9)),art71,urn:lex:br:federal:lei:2005-02-09;11101!art71),art71_cpt), art71_cpt_inc2 -> PrefixMatch(URN(2005,Some((2,9)),art71,urn:lex:br:federal:lei:2005-02-09;11101!art71),art71_cpt_inc2)))))-->
+              <Artigo xlink:href="art71" id="art1_cpt_alt1_art71" abreAspas="s">
+            
+            
+            <Rotulo>Art. 71.</Rotulo>
+            
+            <Caput xlink:href="art71_cpt" id="art1_cpt_alt1_art71_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art71_cpt_omi1"/><Inciso xlink:href="art71_cpt_inc2" id="art1_cpt_alt1_art71_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>preverá parcelamento em até 48 (quarenta e oito) parcelas mensais, iguais e sucessivas, podendo conter o acréscimo de juros e a proposta de abatimento do valor das dívidas;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art71_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

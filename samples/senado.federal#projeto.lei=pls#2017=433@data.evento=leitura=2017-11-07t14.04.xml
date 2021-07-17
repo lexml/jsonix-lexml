@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;433@data.evento;leitura;2017-11-07t14.04"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 433 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098">Lei nº 10.098, de 19 de dezembro de 2000</span>, para estabelecer a obrigação de oferta aos clientes, por parte de hipermercados, supermercados, empórios e aeroportos, de carrinhos de transporte de compras ou de bagagem adaptados para o transporte de crianças com deficiência.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei estabelece a obrigação de oferta aos clientes, por parte de hipermercados, supermercados, empórios e aeroportos, de carrinhos de transporte de compras ou de bagagem adaptados para o transporte de crianças com deficiência.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2000-12-19;10098-->
+            
+            
+            <p>O capítulo IV da <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098">Lei nº 10.098, de 19 de dezembro de 2000</span>, passa a vigorar acrescido do seguinte art. 12-B:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2000-12-19;10098" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2000-12-19;10098 -> MatchByBase(urn:lex:br:federal:lei:2000-12-19;10098,2000,Some((12,19)),Map(art12-2 -> PrefixMatch(URN(2000,Some((12,19)),,urn:lex:br:federal:lei:2000-12-19;10098),art12-2), art12-2_cpt -> PrefixMatch(URN(2000,Some((12,19)),,urn:lex:br:federal:lei:2000-12-19;10098),art12-2_cpt)))))-->
+              <Artigo xlink:href="art12-2" id="art2_cpt_alt1_art12-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12-B.</Rotulo>
+            
+            <Caput xlink:href="art12-2_cpt" id="art2_cpt_alt1_art12-2_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Os hipermercados, supermercados, mercados, empórios e aeroportos ficam obrigados a disponibilizar carrinhos de compras ou de transporte de bagagens adaptados para o transporte de crianças com deficiência em quantidade proporcional à demanda de sua clientela.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

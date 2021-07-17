@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;213@data.evento;leitura;2017-06-29t10.27"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 213 DE 2017</Epigrafe>
+      <Ementa id="ementa">Veda operações com cartões de crédito ou débito ou, ainda, em moeda eletrônica que tenham por finalidade a participação em jogos de azar em sítios eletrônicos hospedados em servidores localizados fora do País, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>São vedadas, a partir do território nacional, operações com cartões de crédito ou débito ou, ainda, realizadas em moeda eletrônica, que tenham por finalidade a participação em jogos de azar em sítios eletrônicos hospedados em servidores localizados fora do País.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2013-10-09;12865!art9-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2013-10-09;12865!art9">art. 9° da Lei n° 12.865, de 9 de outubro de 2013</span>, passa a vigorar acrescido dos seguintes §§ 7º e 8°:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2013-10-09;12865" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2013-10-09;12865 -> MatchByBase(urn:lex:br:federal:lei:2013-10-09;12865,2013,Some((10,9)),Map(art9 -> ExactMatch(URN(2013,Some((10,9)),art9,urn:lex:br:federal:lei:2013-10-09;12865!art9)), art9_cpt -> PrefixMatch(URN(2013,Some((10,9)),art9,urn:lex:br:federal:lei:2013-10-09;12865!art9),art9_cpt), art9_par7 -> PrefixMatch(URN(2013,Some((10,9)),art9,urn:lex:br:federal:lei:2013-10-09;12865!art9),art9_par7), art9_par8 -> PrefixMatch(URN(2013,Some((10,9)),art9,urn:lex:br:federal:lei:2013-10-09;12865!art9),art9_par8)))))-->
+              <Artigo xlink:href="art9" id="art2_cpt_alt1_art9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput xlink:href="art9_cpt" id="art2_cpt_alt1_art9_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art9_par7" id="art2_cpt_alt1_art9_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O Banco Central do Brasil, respeitadas as diretrizes estabelecidas pelo Conselho Monetário Nacional, determinará regras para a implementação de mecanismos de controle destinados a evitar que as instituições financeiras emissoras de cartões de crédito ou débito, bem como qualquer outra instituição de pagamento, autorizem operações com cartões de crédito ou débito ou em moeda eletrônica que tenham por finalidade a participação em jogos de azar em sítios eletrônicos hospedados em servidores localizados fora do País.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art9_par8" id="art2_cpt_alt1_art9_par8" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O Banco Central do Brasil, respeitadas as diretrizes estabelecidas pelo Conselho Monetário Nacional, determinará regras para o imediato cancelamento de operações que incidam nas hipóteses do § 7° deste artigo, ficando vedado qualquer repasse de valores entre apostadores e fornecedores.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,349 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;1@data.evento;leitura;2018-02-05t18.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 1 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11445">Lei no 11.445, de 5 de janeiro de 2007</span>, que estabelece as diretrizes nacionais para o saneamento básico, para dispor sobre o Certificado de Recebíveis de Saneamento (CRS).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2007-01-05;11445-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2007-01-05;11445">Lei no 11.445, de 5 de janeiro de 2007</span>, passa a vigorar acrescida dos seguintes artigos 42-A a 42-J:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2007-01-05;11445" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2007-01-05;11445 -> MatchByBase(urn:lex:br:federal:lei:2007-01-05;11445,2007,Some((1,5)),Map(art42-2_cpt_inc3 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc3), art42-2_par2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_par2), art42-2_cpt_inc9 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc9), art42-9 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-9), art42-2_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt), art42-10_cpt_inc7 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt_inc7), art42-4_cpt_inc1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-4_cpt_inc1), art42-9_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-9_cpt), art42-10_cpt_inc3 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt_inc3), art42-2_par1_inc2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_par1_inc2), art42-2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2), art42-2_cpt_inc4 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc4), art42-5_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-5_cpt), art42-2_cpt_inc8 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc8), art42-10_cpt_inc1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt_inc1), art42-2_par1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_par1), art42-3 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-3), art42-10_cpt_inc6 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt_inc6), art42-2_cpt_inc7 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc7), art42-6_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-6_cpt), art42-8_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-8_cpt), art42-4_cpt_inc2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-4_cpt_inc2), art42-8 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-8), art42-1_par2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-1_par2), art42-2_par1_inc1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_par1_inc1), art42-1_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-1_cpt), art42-10_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt), art42-8_cpt_inc1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-8_cpt_inc1), art42-2_cpt_inc5 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc5), art42-3_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-3_cpt), art42-2_par4 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_par4), art42-10_cpt_inc2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt_inc2), art42-5 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-5), art42-4 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-4), art42-10_cpt_inc5 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt_inc5), art42-2_cpt_inc1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc1), art42-7_par1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-7_par1), art42-6 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-6), art42-1_par1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-1_par1), art42-4_cpt_inc3 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-4_cpt_inc3), art42-7 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-7), art42-7_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-7_cpt), art42-2_cpt_inc6 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc6), art42-10 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10), art42-2_par3 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_par3), art42-8_cpt_inc2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-8_cpt_inc2), art42-2_cpt_inc2 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-2_cpt_inc2), art42-1 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-1), art42-10_cpt_inc4 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-10_cpt_inc4), art42-4_cpt -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-4_cpt), art42-4_cpt_inc4 -> PrefixMatch(URN(2007,Some((1,5)),,urn:lex:br:federal:lei:2007-01-05;11445),art42-4_cpt_inc4)))))-->
+              <Artigo xlink:href="art42-1" id="art1_cpt_alt1_art42-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 42-A.</Rotulo>
+            
+            <Caput xlink:href="art42-1_cpt" id="art1_cpt_alt1_art42-1_cpt">
+            
+            
+            
+            <p>O Certificado de Recebíveis de Saneamento (CRS) é título de crédito nominativo, de livre negociação, representando promessa de pagamento em dinheiro e lastreado nos créditos decorrentes ou destinados à prestação de serviços de saneamento.</p>
+            
+          </Caput><Paragrafo xlink:href="art42-1_par1" id="art1_cpt_alt1_art42-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O CRS é de emissão exclusiva das companhias securitizadoras.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art42-1_par2" id="art1_cpt_alt1_art42-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O CRS constitui título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art42-2" id="art1_cpt_alt1_art42-2">
+            
+            
+            <Rotulo>Art. 42-B.</Rotulo>
+            
+            <Caput xlink:href="art42-2_cpt" id="art1_cpt_alt1_art42-2_cpt">
+            
+            
+            
+            <p>O CRS deverá conter os seguintes requisitos essenciais:</p>
+            <Inciso xlink:href="art42-2_cpt_inc1" id="art1_cpt_alt1_art42-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o nome da companhia emitente;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc2" id="art1_cpt_alt1_art42-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o número de ordem, local e data de emissão;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc3" id="art1_cpt_alt1_art42-2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a denominação &quot;Certificado de Recebíveis de Saneamento&quot;;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc4" id="art1_cpt_alt1_art42-2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o nome do titular;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc5" id="art1_cpt_alt1_art42-2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o valor nominal;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc6" id="art1_cpt_alt1_art42-2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a data de vencimento ou, se emitido para pagamento parcelado, a discriminação dos valores e das datas de vencimento das diversas parcelas;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc7" id="art1_cpt_alt1_art42-2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a taxa de juros, fixa ou flutuante, admitida a capitalização na periodicidade pactuada;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc8" id="art1_cpt_alt1_art42-2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a forma, a periodicidade e o local de pagamento;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_cpt_inc9" id="art1_cpt_alt1_art42-2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a identificação do Termo de Securitização de Direitos Creditórios que lhe tenha dado origem.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art42-2_par1" id="art1_cpt_alt1_art42-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O CRS poderá ser emitido sob a forma escritural, hipótese em que:</p>
+            <Inciso xlink:href="art42-2_par1_inc1" id="art1_cpt_alt1_art42-2_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tal título será registrado em sistema de registro e de liquidação financeira de ativos autorizados pelo Banco Central do Brasil;</p>
+            
+          </Inciso><Inciso xlink:href="art42-2_par1_inc2" id="art1_cpt_alt1_art42-2_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a transferência de sua titularidade operar-se-á pelos registros dos negócios efetuados na forma do inciso I do caput deste § 1º.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art42-2_par2" id="art1_cpt_alt1_art42-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A entidade registradora é responsável pela manutenção do registro da cadeia de negócios ocorridos com os títulos registrados no sistema.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art42-2_par3" id="art1_cpt_alt1_art42-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O CRS poderá ter, conforme dispuser o Termo de Securitização de Direitos Creditórios, garantia flutuante, que assegurará ao seu titular privilégio geral sobre o ativo da companhia securitizadora, mas não impedirá a negociação dos bens que compõem esse ativo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art42-2_par4" id="art1_cpt_alt1_art42-2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os créditos decorrentes ou destinados à prestação de serviços de saneamento devem atender a requisitos de elegibilidade, composição, suficiência, prazo e liquidez a serem estabelecidos pelo Conselho Monetário Nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art42-3" id="art1_cpt_alt1_art42-3">
+            
+            
+            <Rotulo>Art. 42-C.</Rotulo>
+            
+            <Caput xlink:href="art42-3_cpt" id="art1_cpt_alt1_art42-3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514-->
+            
+            
+            <p>As companhias securitizadoras podem instituir regime fiduciário sobre direitos creditórios de saneamento básico, o qual será regido, no que couber, pelas disposições expressas nos arts. 9o a 16 da <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514">Lei no 9.514, de 20 de novembro de 1997</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art42-4" id="art1_cpt_alt1_art42-4">
+            
+            
+            <Rotulo>Art. 42-D.</Rotulo>
+            
+            <Caput xlink:href="art42-4_cpt" id="art1_cpt_alt1_art42-4_cpt">
+            
+            
+            
+            <p>A securitização de direitos creditórios de saneamento é a operação pela qual tais direitos são expressamente vinculados à emissão de uma série de títulos de crédito, mediante Termo de Securitização de Direitos Creditórios, por uma companhia securitizadora, do qual constarão os seguintes elementos:</p>
+            <Inciso xlink:href="art42-4_cpt_inc1" id="art1_cpt_alt1_art42-4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a identificação do devedor;</p>
+            
+          </Inciso><Inciso xlink:href="art42-4_cpt_inc2" id="art1_cpt_alt1_art42-4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o valor nominal e o vencimento de cada direito creditório a ele vinculado;</p>
+            
+          </Inciso><Inciso xlink:href="art42-4_cpt_inc3" id="art1_cpt_alt1_art42-4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a identificação dos títulos emitidos;</p>
+            
+          </Inciso><Inciso xlink:href="art42-4_cpt_inc4" id="art1_cpt_alt1_art42-4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a indicação de outras garantias de resgate dos títulos da série emitida, quando constituídas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art42-5" id="art1_cpt_alt1_art42-5">
+            
+            
+            <Rotulo>Art. 42-E.</Rotulo>
+            
+            <Caput xlink:href="art42-5_cpt" id="art1_cpt_alt1_art42-5_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514-->
+            
+            
+            <p>É facultada a cessão fiduciária em garantia de direitos creditórios de saneamento básico, em favor dos adquirentes do CRS, nos termos do disposto nos HYPERLINK &quot;http://www.planalto.gov.br/ccivil_03/LEIS/L9514.htm&quot; \l &quot;art18&quot; \h arts. 18 a 20 da <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514">Lei nº 9.514, de 20 de novembro de 1997</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art42-6" id="art1_cpt_alt1_art42-6">
+            
+            
+            <Rotulo>Art. 42-F.</Rotulo>
+            
+            <Caput xlink:href="art42-6_cpt" id="art1_cpt_alt1_art42-6_cpt">
+            
+            
+            
+            <p>O CRS poderá conter cláusula expressa de variação do seu valor nominal, desde que seja a mesma dos direitos creditórios a eles vinculados.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art42-7" id="art1_cpt_alt1_art42-7">
+            
+            
+            <Rotulo>Art. 42-G.</Rotulo>
+            
+            <Caput xlink:href="art42-7_cpt" id="art1_cpt_alt1_art42-7_cpt">
+            
+            
+            
+            <p>O CRS poderá ser distribuído publicamente e negociados em Bolsas de Valores e de Mercadorias e Futuros e em mercados de balcão organizados autorizados a funcionar pela Comissão de Valores Mobiliários.</p>
+            
+          </Caput><Paragrafo xlink:href="art42-7_par1u" id="art1_cpt_alt1_art42-7_par1u">
+            <!--Link: urn:lex:br:federal:lei:1976-12-07;6385-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na hipótese do caput deste artigo, será observado o disposto na <span xlink:href="urn:lex:br:federal:lei:1976-12-07;6385">Lei nº 6.385, de 7 de dezembro de 1976</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art42-8" id="art1_cpt_alt1_art42-8">
+            
+            
+            <Rotulo>Art. 42-H.</Rotulo>
+            
+            <Caput xlink:href="art42-8_cpt" id="art1_cpt_alt1_art42-8_cpt">
+            
+            
+            
+            <p>Aplicam-se ao CRS, no que forem cabíveis, as normas de direito cambiário sobre nota promissória, com as seguintes modificações:</p>
+            <Inciso xlink:href="art42-8_cpt_inc1" id="art1_cpt_alt1_art42-8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os endossos devem ser completos;</p>
+            
+          </Inciso><Inciso xlink:href="art42-8_cpt_inc2" id="art1_cpt_alt1_art42-8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>é dispensado o protesto por falta de pagamento da cambial, a fim de assegurar o direito de regresso contra os endossantes e seus avalistas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art42-9" id="art1_cpt_alt1_art42-9">
+            
+            
+            <Rotulo>Art. 42-I.</Rotulo>
+            
+            <Caput xlink:href="art42-9_cpt" id="art1_cpt_alt1_art42-9_cpt">
+            
+            
+            
+            <p>Cabe ao Conselho Monetário Nacional regulamentar as disposições desta Lei referentes ao CRS, podendo inclusive estabelecer prazos mínimos e outras condições para emissão e resgate e diferenciar tais condições de acordo com o tipo de indexador adotado contratualmente.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art42-10" id="art1_cpt_alt1_art42-10">
+            
+            
+            <Rotulo>Art. 42-J.</Rotulo>
+            
+            <Caput xlink:href="art42-10_cpt" id="art1_cpt_alt1_art42-10_cpt">
+            
+            
+            
+            <p>O Conselho Monetário Nacional regulamentará o disposto quanto ao CRS, em especial os seguintes aspectos:</p>
+            <Inciso xlink:href="art42-10_cpt_inc1" id="art1_cpt_alt1_art42-10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as condições de emissão do CRS;</p>
+            
+          </Inciso><Inciso xlink:href="art42-10_cpt_inc2" id="art1_cpt_alt1_art42-10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a utilização de índices, taxas ou metodologias de remuneração do CRS;</p>
+            
+          </Inciso><Inciso xlink:href="art42-10_cpt_inc3" id="art1_cpt_alt1_art42-10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o prazo de vencimento do CRS;</p>
+            
+          </Inciso><Inciso xlink:href="art42-10_cpt_inc4" id="art1_cpt_alt1_art42-10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as condições de resgate e de vencimento antecipado do CRS;</p>
+            
+          </Inciso><Inciso xlink:href="art42-10_cpt_inc5" id="art1_cpt_alt1_art42-10_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os requisitos de elegibilidade, composição, suficiência, prazo e liquidez dos créditos que compõe o CRS, inclusive quanto às metodologias de apuração;</p>
+            
+          </Inciso><Inciso xlink:href="art42-10_cpt_inc6" id="art1_cpt_alt1_art42-10_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>as condições de substituição e reforço dos créditos que integram o CRS;</p>
+            
+          </Inciso><Inciso xlink:href="art42-10_cpt_inc7" id="art1_cpt_alt1_art42-10_cpt_inc7" fechaAspas="s">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os requisitos para atuação como agente fiduciário e as hipóteses, condições e forma de sua destituição ou substituição.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após a sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

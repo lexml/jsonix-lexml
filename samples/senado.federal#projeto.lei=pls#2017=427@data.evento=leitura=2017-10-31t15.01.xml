@@ -1,0 +1,556 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;427@data.evento;leitura;2017-10-31t15.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 427 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1998-05-15;9637">Lei 9.637, de 15 de maio de 1998</span>, que “dispõe sobre a qualificação das organizações sociais e dá outras providências”, para atualizar os critérios e requisitos para seu enquadramento e estabelecer novas regras para a celebração, controle e rescisão dos contratos de gestão.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-05-15;9637-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1998-05-15;9637">Lei 9.637, de 15 de maio de 1998</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-05-15;9637" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-05-15;9637 -> MatchByBase(urn:lex:br:federal:lei:1998-05-15;9637,1998,Some((5,15)),Map(art7_par3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_par3), art5_par1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par1), art2_cpt_inc1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art2_cpt_inc1), art5_par6 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par6), art2_cpt_inc1_ali4 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art2_cpt_inc1_ali4), art3_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art3_cpt), art2_cpt_inc1_ali10 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art2_cpt_inc1_ali10), art6_par3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art6_par3), art16_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16_cpt), art5-1_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5-1_cpt), art5_par9 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par9), art5-1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5-1), art7_cpt_inc2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_cpt_inc2), art6_par1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art6_par1), art5_par7 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par7), art7 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7), art6_par2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art6_par2), art2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art2), art3_cpt_inc1_ali2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art3_cpt_inc1_ali2), art5_par4 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par4), art5-1_par1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5-1_par1), art5_par10 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par10), art3_cpt_inc1_ali1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art3_cpt_inc1_ali1), art16 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16), art2_cpt_inc1_ali9 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art2_cpt_inc1_ali9), art3_cpt_inc9 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art3_cpt_inc9), art16_par3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16_par3), art7_par2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_par2), art10_par1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art10_par1), art2_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art2_cpt), art6 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art6), art5_par8 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par8), art3_cpt_inc1_ali3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art3_cpt_inc1_ali3), art5_par3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par3), art3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art3), art10_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art10_cpt), art7_cpt_inc1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_cpt_inc1), art5-1_par2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5-1_par2), art5_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_cpt), art5_par11 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par11), art7_par5 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_par5), art5_par2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par2), art5_par12 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par12), art7_par1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_par1), art6_par4 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art6_par4), art3_cpt_inc1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art3_cpt_inc1), art5_par5 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5_par5), art2_cpt_inc1_ali3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art2_cpt_inc1_ali3), art5 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art5), art6_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art6_cpt), art10 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art10), art7_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_cpt), art7_par4 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art7_par4)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art2_cpt_omi1"/><Inciso xlink:href="art2_cpt_inc1" id="art1_cpt_alt1_art2_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art2_cpt_inc1_omi1"/><Alinea xlink:href="art2_cpt_inc1_ali3" id="art1_cpt_alt1_art2_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>previsão expressa de a entidade ter, como órgãos de deliberação superior e de direção, um conselho de administração, ou órgão similar, e uma diretoria definidos nos termos do estatuto, asseguradas àquele composição e atribuições normativas e de controle básicas previstas nesta Lei;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art2_cpt_inc1_omi2"/><Alinea xlink:href="art2_cpt_inc1_ali4" id="art1_cpt_alt1_art2_cpt_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>previsão de participação, no órgão colegiado de deliberação superior, de membros da comunidade de notória capacidade profissional na área de atuação afim e idoneidade moral;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art2_cpt_inc1_omi3"/><Alinea xlink:href="art2_cpt_inc1_ali9" id="art1_cpt_alt1_art2_cpt_inc1_ali9">
+            
+            
+            <Rotulo>i)</Rotulo>
+            <p>previsão de incorporação integral do patrimônio, dos legados ou das doações que lhe foram destinados, dos excedentes financeiros decorrentes, bem como dos passivos decorrentes das atividades no âmbito dos contratos de gestão com o ente federado qualificador, em caso de extinção ou desqualificação, ao patrimônio de outra organização social qualificada no âmbito da União, da mesma área de atuação, ou ao patrimônio da União, dos Estados, do Distrito Federal ou dos Municípios, na proporção dos recursos e bens por estes alocados;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art2_cpt_inc1_omi4"/><Alinea xlink:href="art2_cpt_inc1_ali10" id="art1_cpt_alt1_art2_cpt_inc1_ali10">
+            
+            
+            <Rotulo>j)</Rotulo>
+            <p>avaliação externa por entidade certificadora ou de auditoria, para comprovação de boas práticas de gestão e transparência das organizações sociais;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1"/>
+          </Artigo><Artigo xlink:href="art3" id="art1_cpt_alt1_art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt">
+            
+            
+            
+            <p>O conselho de administração, ou órgão similar, deve ser estruturado nos termos que dispuser o estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes critérios básicos:</p>
+            <Omissis id="art1_cpt_alt1_art3_cpt_omi1"/><Inciso xlink:href="art3_cpt_inc1" id="art1_cpt_alt1_art3_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art3_cpt_inc1_omi1"/><Alinea xlink:href="art3_cpt_inc1_ali1" id="art1_cpt_alt1_art3_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>até 55 % (cinquenta e cinco por cento), no caso de associação civil, de membros eleitos dentre os membros ou os associados;</p>
+            
+          </Alinea><Alinea xlink:href="art3_cpt_inc1_ali2" id="art1_cpt_alt1_art3_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>no mínimo de 35% (trinta e cinco por cento) de membros eleitos pelos demais integrantes do Conselho, dentre pessoas de notória capacidade profissional na área afim e reconhecida idoneidade moral;</p>
+            
+          </Alinea><Alinea xlink:href="art3_cpt_inc1_ali3" id="art1_cpt_alt1_art3_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>no mínimo de 10% (dez por cento) de membros eleitos pelos empregados da entidade;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art3_cpt_omi2"/><Inciso xlink:href="art3_cpt_inc9" id="art1_cpt_alt1_art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>os dirigentes poderão receber remuneração aprovada pelo Conselho de Administração por maioria absoluta de seus membros, observado como teto os valores praticados no mercado, segundo o grau de qualificação exigido e a especialização profissional.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art3_omi1"/>
+          </Artigo><Artigo xlink:href="art5" id="art1_cpt_alt1_art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art1_cpt_alt1_art5_cpt">
+            
+            
+            
+            <p>Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento firmado, com natureza de convênio, entre o Poder Público e a entidade qualificada como organização social, com vistas à formação de parceria entre as partes para fomento e execução de atividades relativas às áreas relacionadas no art. 1º.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art5_omi1"/><Paragrafo xlink:href="art5_par1" id="art1_cpt_alt1_art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A celebração dos contratos de que trata o caput deste artigo será precedida de convocação pública, por meio de publicação no Diário Oficial, para seleção objetiva e impessoal pelo Poder Público de organizações sociais qualificadas para a realização da parceria.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art5_par2" id="art1_cpt_alt1_art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Da publicação da convocação pública deverá constar o bem público e o montante orçamentário mensal a ser administrado.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi2"/><Paragrafo xlink:href="art5_par3" id="art1_cpt_alt1_art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O contrato de gestão terá prazo de vigência de até 20 (vinte) anos, prorrogável por igual período.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi3"/><Paragrafo xlink:href="art5_par4" id="art1_cpt_alt1_art5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Em até 180 (cento e oitenta) dias antes do término de vigência do contrato de gestão, o Poder Executivo deverá proceder a convocação pública para seleção de nova organização social.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi4"/><Paragrafo xlink:href="art5_par5" id="art1_cpt_alt1_art5_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O disposto no §4º não se aplica na hipótese de o Poder Executivo optar por prorrogar o prazo de contrato de gestão em vigor ou eleger outro modelo de gestão.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi5"/><Paragrafo xlink:href="art5_par6" id="art1_cpt_alt1_art5_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os gastos com força de trabalho das organizações sociais não deverão ser incluídos nas despesas de pessoal para fim de cálculo dos limites previstos na Lei de Responsabilidade Fiscal.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi6"/><Paragrafo xlink:href="art5_par7" id="art1_cpt_alt1_art5_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A contratação de empregados e empresas prestadoras de serviço pela organização social será regida em conformidade com as leis trabalhistas e o direito civil.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi7"/><Paragrafo xlink:href="art5_par8" id="art1_cpt_alt1_art5_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Os gastos com recursos humanos previstos no contrato de gestão não poderão ultrapassar 80% (oitenta por cento) do valor da parcela mensal de custeio.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi8"/><Paragrafo xlink:href="art5_par9" id="art1_cpt_alt1_art5_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>A organização social poderá praticar reserva técnica de até 15% (quinze por cento) do valor da parcela mensal de custeio para formação de fundos destinados a provisões, bem como para pagamento de verbas devidas em virtude de rescisões trabalhistas, rescisões contratuais, pagamento de reclamações trabalhistas e demais valores devidos em virtude de processos administrativos ou judiciais que se prolonguem ao longo do tempo.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi9"/><Paragrafo xlink:href="art5_par10" id="art1_cpt_alt1_art5_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A organização social poderá destinar até 2% do valor anual do contrato para qualificação de funcionários, desenvolvimento institucional, promoção socioambiental e desenvolvimento de parceria na área de ensino, pesquisa e extensão.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi10"/><Paragrafo xlink:href="art5_par11" id="art1_cpt_alt1_art5_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>s repasses do Poder Público à organização social poderão ser para despesas de custeio e para despesas de investimento.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi11"/><Paragrafo xlink:href="art5_par12" id="art1_cpt_alt1_art5_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>As organizações sociais poderão apresentar, por meio de instrumento intitulado Manifestação de Interesse da organização social, propostas ao Poder Público para que este avalie a conveniência e oportunidade de celebrar contrato de gestão naquela área, respeitados os procedimentos que esta lei dispuser, inclusive a convocação pública prevista no § 1º deste artigo.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5_omi12"/>
+          </Artigo><Artigo xlink:href="art5-1" id="art1_cpt_alt1_art5-1">
+            
+            
+            <Rotulo>Art. 5º-A.</Rotulo>
+            
+            <Caput xlink:href="art5-1_cpt" id="art1_cpt_alt1_art5-1_cpt">
+            
+            
+            
+            <p>É facultado ao Poder Público celebrar mais de um contrato de gestão com uma mesma organização social.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art5-1_omi1"/><Paragrafo xlink:href="art5-1_par1" id="art1_cpt_alt1_art5-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Fica a organização social autorizada, por motivo de economicidade, a centralizar operações de gestão dos contratos.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5-1_omi2"/><Paragrafo xlink:href="art5-1_par2" id="art1_cpt_alt1_art5-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A manutenção das operações de gestão dos contratos poderá ser rateada entre as entidades administradas pela organização social, desde que observada a proporcionalidade do valor da parcela mensal de custeio de cada contrato.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art5-1_omi3"/>
+          </Artigo><Artigo xlink:href="art6" id="art1_cpt_alt1_art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art1_cpt_alt1_art6_cpt">
+            
+            
+            
+            <p>O contrato de gestão, elaborado de comum acordo entre o órgão ou entidade supervisora e a organização social, discriminará as atribuições, responsabilidades e obrigações do Poder Público e da organização social, devendo prever, necessariamente, critérios de sucessão em caso de transferência da unidade sob gestão para nova entidade.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par1" id="art1_cpt_alt1_art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O contrato de gestão deve ser submetido, após aprovação pelo Conselho de Administração da entidade, ao Ministro de Estado ou autoridade supervisora da área correspondente à atividade fomentada.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art6_omi2"/><Paragrafo xlink:href="art6_par2" id="art1_cpt_alt1_art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O contrato de gestão deverá prever a obrigação de a Administração Pública ressarcir a organização social pelas despesas, encargos financeiros e prejuízos decorrentes de atraso ou transferência parcial dos repasses.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art6_omi3"/><Paragrafo xlink:href="art6_par3" id="art1_cpt_alt1_art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O contrato de gestão poderá prever a sucessão das obrigações de uma organização social para outra ao término do contrato, desde que na convocação pública sejam disponibilizadas informações que garantam a apuração, pelas organizações sociais interessadas, do valor que será assumido na sucessão.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art6_omi4"/><Paragrafo xlink:href="art6_par4" id="art1_cpt_alt1_art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A assunção dos direitos e obrigações de uma organização social por outra será formalizada por meio de Termo de Responsabilidade, podendo, no caso de sucessão, o saldo remanescente da reserva técnica indicada no § 9º do art. 5º desta lei ser transferido à organização social sucessora, desde que vinculado à mesma finalidade.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art6_omi5"/>
+          </Artigo><Artigo xlink:href="art7" id="art1_cpt_alt1_art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art1_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art7_cpt_omi1"/><Inciso xlink:href="art7_cpt_inc1" id="art1_cpt_alt1_art7_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art7_cpt_omi2"/><Inciso xlink:href="art7_cpt_inc2" id="art1_cpt_alt1_art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a estipulação dos limites e critérios para despesa com remuneração e vantagens de qualquer natureza a serem percebidas pelos dirigentes e empregados das organizações sociais, no exercício de suas funções, tendo como referência a tabela de valores praticada pelas entidades privadas.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art7_omi1"/><Paragrafo xlink:href="art7_par1" id="art1_cpt_alt1_art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor publicado em edital no Diário Oficial da União e firmado no contrato de gestão deverá ter dotação orçamentária prevista na Lei Orçamentária Anual a fim de garantir o repasse à organização social contratada.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art7_omi2"/><Paragrafo xlink:href="art7_par2" id="art1_cpt_alt1_art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Identificado o aumento da demanda ou a necessidade de novos investimentos, poderá ser firmado Termo Aditivo que amplie o repasse de verbas para execução do contrato de gestão, bem como para modificação de seu objeto.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art7_omi3"/><Paragrafo xlink:href="art7_par3" id="art1_cpt_alt1_art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os valores transferidos mensalmente para execução do contrato de gestão, bem como as correspondentes metas quantitativas e qualitativas, deverão ser revistos anualmente, para sua manutenção, aumento ou redução, sempre no último trimestre do ano em curso.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art7_omi4"/><Paragrafo xlink:href="art7_par4" id="art1_cpt_alt1_art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os bens e valores repassados pelo Poder Público à organização social em virtude do contrato de gestão são impenhoráveis, inclusive os que constituírem a reserva técnica.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art7_omi5"/><Paragrafo xlink:href="art7_par5" id="art1_cpt_alt1_art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O Ministro de Estado ou autoridade supervisora da área correspondente à atividade fomentada deve definir as demais cláusulas dos contratos de gestão de que seja signatário.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art7_omi6"/>
+          </Artigo><Artigo xlink:href="art10" id="art1_cpt_alt1_art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art1_cpt_alt1_art10_cpt">
+            
+            
+            
+            <p>Sem prejuízo da medida a que se refere o artigo anterior, quando assim exigir a gravidade dos fatos ou o interesse público, havendo indícios fundados de malversação de bens ou recursos de origem pública, os responsáveis pela fiscalização representarão ao Ministério Público, à Advocacia-Geral da União ou à Procuradoria da entidade para que requeira ao juízo competente a decretação da tutela de urgência adequada à asseguração do direito patrimonial do Poder Público, como a indisponibilidade dos bens da entidade e o sequestro dos bens dos seus dirigentes, bem como de agente público ou terceiro, que possam ter enriquecido ilicitamente ou causado dano ao patrimônio público.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art10_omi1"/><Paragrafo xlink:href="art10_par1" id="art1_cpt_alt1_art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As medidas previstas no caput serão processadas de acordo com o disposto no art. 300 e seguintes do Código de Processo Civil.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art10_omi2"/>
+          </Artigo><Artigo xlink:href="art16" id="art1_cpt_alt1_art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art1_cpt_alt1_art16_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art16_omi1"/><Paragrafo xlink:href="art16_par3" id="art1_cpt_alt1_art16_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A organização social desqualificada por motivos de inidoneidade ficará impedida de celebrar novo contrato de gestão com qualquer outro órgão público, no âmbito de toda administração pública Federal, Estadual e Municipal, bem como seus dirigentes impedidos de compor outra organização social pelo prazo de dez anos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-05-15;9637-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1998-05-15;9637">Lei 9.637, de 15 de maio de 1998</span>, passa a vigorar com a “Seção VII – Da Rescisão” acrescida ao Capítulo I – DAS ORGANIZAÇÕES SOCIAIS, com o seguinte texto:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-05-15;9637" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-05-15;9637 -> MatchByBase(urn:lex:br:federal:lei:1998-05-15;9637,1998,Some((5,15)),Map(art16-1_par1_inc1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par1_inc1), art16-2_par2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2_par2), art16-1_par1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par1), art16-1_par2_inc1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par2_inc1), art16-2_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2_cpt), art16-2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2), art16-1_par6 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par6), art16-2_cpt_inc1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2_cpt_inc1), art16-1_par3_inc2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par3_inc2), art16-1_par10 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par10), art16-1_par9 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par9), art16-1_par5 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par5), art16-1_cpt -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_cpt), art16-1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1), art16-1_par1_inc3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par1_inc3), art16-1_par7 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par7), art16-1_par4 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par4), cap1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),cap1), art16-2_par1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2_par1), art16-1_par1_inc2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par1_inc2), art16-1_par2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par2), art16-1_par8 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par8), art16-2_par3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2_par3), art16-1_par3 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par3), art16-1_par2_inc2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par2_inc2), art16-2_par4 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2_par4), art16-1_par3_inc1 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par3_inc1), art16-2_cpt_inc2 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-2_cpt_inc2), cap1_sec7 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),cap1_sec7), art16-1_par11 -> PrefixMatch(URN(1998,Some((5,15)),,urn:lex:br:federal:lei:1998-05-15;9637),art16-1_par11)))))-->
+              <Capitulo xlink:href="cap1" id="art2_cpt_alt1_cap1" abreAspas="s">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>– DAS ORGANIZAÇÕES SOCIAIS</NomeAgrupador>
+            <Omissis id="art2_cpt_alt1_cap1_omi1"/><Secao xlink:href="cap1_sec7" id="art2_cpt_alt1_cap1_sec7">
+            
+            
+            <Rotulo>SEÇÃO VII</Rotulo>
+            <NomeAgrupador>Da Rescisão</NomeAgrupador>
+            <Omissis id="art2_cpt_alt1_cap1_sec7_omi1"/><Artigo xlink:href="art16-1" id="art2_cpt_alt1_art16-1">
+            
+            
+            <Rotulo>Art. 16-A.</Rotulo>
+            
+            <Caput xlink:href="art16-1_cpt" id="art2_cpt_alt1_art16-1_cpt">
+            
+            
+            
+            <p>É facultado ao Poder Público e à organização social rescindir o contrato de gestão antes do prazo, por acordo amigável entre as partes ou unilateralmente.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art16-1_omi1"/><Paragrafo xlink:href="art16-1_par1" id="art2_cpt_alt1_art16-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Poder Público poderá rescindir unilateralmente o contrato de gestão:</p>
+            <Omissis id="art2_cpt_alt1_art16-1_par1_omi1"/><Inciso xlink:href="art16-1_par1_inc1" id="art2_cpt_alt1_art16-1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quando a organização social houver descumprido substancialmente seu teor e não tiver sanado a falta em até 60 (sessenta) dias, contados da notificação do Poder Público;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art16-1_par1_omi2"/><Inciso xlink:href="art16-1_par1_inc2" id="art2_cpt_alt1_art16-1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em decorrência de decretação de falência ou insolvência civil da organização social ou sua dissolução;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art16-1_par1_omi3"/><Inciso xlink:href="art16-1_par1_inc3" id="art2_cpt_alt1_art16-1_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>em razão de interesse público justificadas e determinadas pelo Chefe do Poder Executivo;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi2"/><Paragrafo xlink:href="art16-1_par2" id="art2_cpt_alt1_art16-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A organização social poderá rescindir unilateralmente o contrato de gestão:</p>
+            <Omissis id="art2_cpt_alt1_art16-1_par2_omi1"/><Inciso xlink:href="art16-1_par2_inc1" id="art2_cpt_alt1_art16-1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quando houver atraso, total ou parcial, superior a 90 (noventa) dias, de valores devidos pelo Poder Público;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art16-1_par2_omi2"/><Inciso xlink:href="art16-1_par2_inc2" id="art2_cpt_alt1_art16-1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pela ocorrência de caso fortuito ou força maior devidamente justificado e aceito pelo Poder Executivo com notificação prévia de no mínimo 60 (sessenta) dias;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi3"/><Paragrafo xlink:href="art16-1_par3" id="art2_cpt_alt1_art16-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Considera-se descumprimento substancial do contrato de gestão pela organização social:</p>
+            <Omissis id="art2_cpt_alt1_art16-1_par3_omi1"/><Inciso xlink:href="art16-1_par3_inc1" id="art2_cpt_alt1_art16-1_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a aplicação das verbas transferidas pelo Poder Público ou a utilização de bens, móveis ou imóveis, para outros fins que não o cumprimento do objeto do contrato de gestão;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art16-1_par3_omi2"/><Inciso xlink:href="art16-1_par3_inc2" id="art2_cpt_alt1_art16-1_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o descumprimento de obrigações previstas no contrato de gestão que não tenha sido sanado após notificação do Poder Público.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi4"/><Paragrafo xlink:href="art16-1_par4" id="art2_cpt_alt1_art16-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Em caso de calamidade pública, grave perturbação da ordem e situação emergencial decretada pelo Poder Executivo, o prazo para adequação da organização social por quaisquer descumprimentos será suspenso enquanto vigorar a decretação.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi5"/><Paragrafo xlink:href="art16-1_par5" id="art2_cpt_alt1_art16-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O descumprimento do contrato de gestão pela organização social por atraso no repasse em prazo superior ao previsto no § 2º, I não configurará inadimplência e não poderá ensejar rescisão unilateral pelo Poder Executivo.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi6"/><Paragrafo xlink:href="art16-1_par6" id="art2_cpt_alt1_art16-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>No processo de rescisão, a quitação das obrigações trabalhistas terá prioridade no uso da reserva técnica.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi7"/><Paragrafo xlink:href="art16-1_par7" id="art2_cpt_alt1_art16-1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Fica o Poder Executivo, quando for o rescisor ou estiver inadimplente no contrato de gestão, obrigado a suplementar os valores necessários à quitação das obrigações trabalhistas, em caso de insuficiência da reserva técnica.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi8"/><Paragrafo xlink:href="art16-1_par8" id="art2_cpt_alt1_art16-1_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O não cumprimento da obrigação determinada no § 7º imputará ao Poder Executivo a responsabilidade exclusiva sobre os débitos trabalhistas remanescentes, sem prejuízo da indenização cabível pelos danos patrimoniais sofridos pelos dirigentes da organização social.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi9"/><Paragrafo xlink:href="art16-1_par9" id="art2_cpt_alt1_art16-1_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>A sucessão sub-roga à sucessora ou ao Poder Executivo todos os haveres e deveres, a partir da consolidação da rescisão do Contrato de Gestão.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi10"/><Paragrafo xlink:href="art16-1_par10" id="art2_cpt_alt1_art16-1_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A empresa cujo contrato de prestação de serviços seja rescindido pela organização social deverá renunciar expressamente ao recebimento de multa rescisória a que faça jus se pretender ser recontratada pelo Poder Público ou por organização social que se sub-rogue no contrato de gestão rescindido.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi11"/><Paragrafo xlink:href="art16-1_par11" id="art2_cpt_alt1_art16-1_par11">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943;5452-->
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>A recontratação pela nova administração de empregados demitidos pela organização social fica submetida aos termos do <span xlink:href="urn:lex:br:federal:decreto.lei:1943;5452">Decreto-Lei Nº 5452 de 1943</span> e da Portaria 384 de 1992 do Ministério do Trabalho e Emprego.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-1_omi12"/>
+          </Artigo><Artigo xlink:href="art16-2" id="art2_cpt_alt1_art16-2">
+            
+            
+            <Rotulo>Art. 16-B.</Rotulo>
+            
+            <Caput xlink:href="art16-2_cpt" id="art2_cpt_alt1_art16-2_cpt">
+            
+            
+            
+            <p>No processo de rescisão:</p>
+            <Omissis id="art2_cpt_alt1_art16-2_cpt_omi1"/><Inciso xlink:href="art16-2_cpt_inc1" id="art2_cpt_alt1_art16-2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>se for o Poder Executivo a parte rescisora, a organização social deverá ser comunicada sobre o interesse de revogação do contrato por ofício;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art16-2_cpt_omi2"/><Inciso xlink:href="art16-2_cpt_inc2" id="art2_cpt_alt1_art16-2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>se for a organização social a parte rescisora, o Poder Executivo deverá ser comunicado oficialmente após deliberação do Conselho de Administração;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art16-2_omi1"/><Paragrafo xlink:href="art16-2_par1" id="art2_cpt_alt1_art16-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Após o registro de ciência pela parte notificada, por ofício, o órgão supervisor do contrato de gestão deverá publicar no Diário Oficial a abertura do processo de transição.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-2_omi2"/><Paragrafo xlink:href="art16-2_par2" id="art2_cpt_alt1_art16-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Deverá constar do Diário Oficial o tempo para o processo de transição da administração, garantidos prazo mínimo de 120 (cento e vinte) dias e máximo de um ano;</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-2_omi3"/><Paragrafo xlink:href="art16-2_par3" id="art2_cpt_alt1_art16-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O prazo estipulado para o processo de transição conta-se a partir da publicação no Diário Oficial, sendo vedada a retroação.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art16-2_omi4"/><Paragrafo xlink:href="art16-2_par4" id="art2_cpt_alt1_art16-2_par4" fechaAspas="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A rescisão do contrato de gestão se efetivará após cumprido o prazo estipulado no processo de transição.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

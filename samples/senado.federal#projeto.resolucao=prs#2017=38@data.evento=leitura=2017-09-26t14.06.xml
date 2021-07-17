@@ -1,0 +1,214 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;38@data.evento;leitura;2017-09-26t14.06"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 38 DE 2017</Epigrafe>
+      <Ementa id="ementa">Cria a Instituição de Pesquisas Sociais Independente (IPSI) no âmbito do Senado Federal.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica criada, no âmbito do Senado Federal, a Instituição de Pesquisas Sociais Independente (IPSI), com a finalidade de:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>divulgar estimativas de parâmetros e variáveis relevantes para a construção de cenários sociais;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>analisar o desempenho de indicadores sociais, tais como o Índice de Desenvolvimento Humano Municipal (IDHM) e seus componentes, propondo soluções para o desenvolvimento igualitário da população dos estados, municípios e regiões metropolitanas do Brasil;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>analisar a aderência do desempenho de indicadores sociais às metas definidas nas políticas públicas sociais, em especial as relativas a educação, saúde e renda;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>projetar a evolução de variáveis sociais determinantes para a melhoria do desenvolvimento humano e equidade social da população brasileira.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As competências estabelecidas nos incisos do caput não excluem nem limitam aquelas atribuídas a órgãos jurisdicionais, normativos ou de controle.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A IPSI será dirigida por Conselho Diretor, composto de cinco membros:</p>
+            <Inciso id="art1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>um diretor-executivo indicado pelo Presidente do Senado Federal;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>um diretor indicado pela Comissão de Assuntos Sociais (CAS) do Senado Federal;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>um diretor indicado pela Comissão de Educação, Cultura e Esporte (CE) do Senado Federal;</p>
+            
+          </Inciso><Inciso id="art1_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>um diretor indicado pela Comissão de Direitos Humanos e Legislação Participativa (CDH) do Senado Federal; e</p>
+            
+          </Inciso><Inciso id="art1_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>um diretor indicado pela Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC) do Senado Federal.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os indicados ao Conselho Diretor, que deverão ser brasileiros de reputação ilibada e detentores de notório saber nos temas de competência da IPSI, serão submetidos a:</p>
+            <Inciso id="art1_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>arguição pública; e</p>
+            
+          </Inciso><Inciso id="art1_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aprovação pelo Senado Federal.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O mandato dos membros do Conselho Diretor será de quatro anos, não admitida a recondução, observado o disposto no § 6º.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Em caso de vacância, a escolha de novo diretor para completar o tempo remanescente do mandato seguirá os critérios previstos nos §§2º e 3º.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os membros do Conselho Diretor exercerão mandatos não coincidentes, nomeados a cada ano, alternadamente, observado, na primeira investidura, o mandato de cinco anos para o diretor-executivo, de quatro anos para o diretor referido no inciso II do §2º, de três anos para o diretor referido no inciso III do § 2º, de dois anos para o diretor referido no inciso IV do § 2º e de um ano para o diretor referido no inciso V do § 2º.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os membros do Conselho Diretor só poderão ser exonerados em caso de renúncia, condenação judicial transitada em julgado ou processo administrativo disciplinar, bem como por voto de censura aprovado pela maioria absoluta dos membros do Senado Federal.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>É vedado aos membros do Conselho Diretor o exercício regular de outra atividade profissional, inclusive gestão operacional de empresa ou filiação político-partidária.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>A IPSI contará com Conselho de Assessoramento Técnico, que se reunirá preferencialmente a cada mês, composto por até cinco brasileiros de reputação ilibada e detentores de notório saber nos temas de competência da Instituição, a serem nomeados pelo diretor-executivo do Conselho Diretor por tempo indeterminado.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A IPSI poderá encaminhar, por intermédio da Mesa do Senado Federal, pedidos escritos de informações a Ministros de Estado e a quaisquer titulares de órgãos diretamente subordinados à Presidência da República, importando em crime de responsabilidade a recusa, o não atendimento no prazo de trinta dias ou a prestação de informações falsas.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>A IPSI poderá firmar acordos e convênios de cooperação com instituições com atuação no Brasil, que fazem análises sociais e estabelecem indicadores sociais, em especial o Programa das Nações Unidas para o Desenvolvimento no Brasil (PNUD Brasil), o Instituto Brasileiro de Geografia e Estatística (IBGE), o Instituto de Pesquisa Econômica Aplicada (IPEA) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP).</p>
+            
+          </Paragrafo><Paragrafo id="art1_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Os relatórios elaborados pela IPSI para cumprimento das competências definidas nos incisos do caput serão tornados públicos após aprovação pela maioria do Conselho Diretor.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par13">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>Os relatórios referidos no § 12 informarão a eventual ocorrência de voto divergente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A estrutura necessária ao funcionamento da Instituição de Pesquisas Sociais Independente (IPSI) será provida pelo Senado Federal mediante o remanejamento de servidores e serviços já existentes, devendo 60% (sessenta por cento), no mínimo, dos profissionais que lhe forem designados possuir titulação acadêmica de mestre ou doutor em áreas temáticas compatíveis com o objeto de atuação da Instituição, nos termos da regulamentação.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ato da Comissão Diretora do Senado Federal disporá sobre a estrutura e o funcionamento da IPSI, bem como sobre as suas fontes orçamentárias, sendo vedado o contingenciamento de seus recursos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As instituições oficiais competentes deverão prestar todas as informações necessárias ao pleno e adequado desempenho das atribuições da Instituição de Pesquisas Sociais Independente (IPSI).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

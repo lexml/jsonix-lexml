@@ -1,0 +1,76 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.resolucao;prs:2017;22@data.evento;leitura;2017-06-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE RESOLUÇÃO DO SENADO Nº 22 DE 2017</Epigrafe>
+      <Ementa id="ementa">Disciplina o tratamento a ser dispensado às renegociações de dívidas previstas na <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156">Lei Complementar nº 156, de 28 de dezembro de 2016</span>, e na <span xlink:href="urn:lex:br:federal:lei.complementar:2017-05-19;159">Lei Complementar nº 159, de 19 de maio de 2017</span>, no que tange às contratações das operações de crédito e concessões de garantia pela União previstos nas <span xlink:href="urn:lex:br:federal:resolucao:2001;40">Resoluções do Senado Federal nº 40</span> e <span xlink:href="urn:lex:br:federal:resolucao:2001;43">43, de 2001</span>, e <span xlink:href="urn:lex:br:federal:resolucao:2007;48">48, de 2007</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O SENADO FEDERAL resolve:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156--><!--Link: urn:lex:br:federal:lei.complementar:2017-05-19;159--><!--Link: urn:lex:br:federal:resolucao:2007;48--><!--Link: urn:lex:br:federal:resolucao:2001;40--><!--Link: urn:lex:br:federal:resolucao:2001;43-->
+            
+            
+            <p>Esta Resolução disciplina o tratamento a ser dispensado às renegociações de dívidas previstas na <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156">Lei Complementar nº 156, de 28 de dezembro de 2016</span>, e na <span xlink:href="urn:lex:br:federal:lei.complementar:2017-05-19;159">Lei Complementar nº 159, de 19 de maio de 2017</span>, no que tange às contratações das operações de crédito e concessões de garantia pela União previstas nas <span xlink:href="urn:lex:br:federal:resolucao:2001;40">Resoluções do Senado Federal nºs 40</span> e <span xlink:href="urn:lex:br:federal:resolucao:2001;43">43, de 2001</span>, e <span xlink:href="urn:lex:br:federal:resolucao:2007;48">48, de 2007</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156!art12-1--><!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156!art2--><!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156!art13--><!--Link: urn:lex:br:federal:lei.complementar:2016-12-28;156!art1--><!--Link: urn:lex:br:federal:lei.complementar:2017-05-19;159!art11-->
+            
+            
+            <p>As operações de que tratam os <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156!art1">artigos 1º</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156!art2">2º</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156!art12-1">12-A</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2016-12-28;156!art13">13 da Lei Complementar nº 156, de 28 de dezembro de 2016</span>, e o <span xlink:href="urn:lex:br:federal:lei.complementar:2017-05-19;159!art11">artigo 11 da Lei Complementar nº 159, de 19 de maio de 2017</span>, não se sujeitam:</p>
+            <Inciso id="art2_cpt_inc1">
+            <!--Link: urn:lex:br:federal:resolucao:2001;40-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>à observância dos limites globais para o montante da dívida pública consolidada fixados na <span xlink:href="urn:lex:br:federal:resolucao:2001;40">Resolução do Senado Federal nº 40, de 2001</span>;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:resolucao:2001;43-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>ao processo de verificação de limites e condições para operações de crédito estabelecido na <span xlink:href="urn:lex:br:federal:resolucao:2001;43">Resolução do Senado Federal nº 43, de 2001</span>;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            <!--Link: urn:lex:br:federal:resolucao:2007;48-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>ao atendimento dos limites e condições para a concessão de garantia pela União estabelecidos na <span xlink:href="urn:lex:br:federal:resolucao:2007;48">Resolução do Senado Federal nº 48, de 2007</span>, ficando dispensada sua verificação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1u">
+            <!--Link: urn:lex:br:federal:lei.complementar:2016;156!art1--><!--Link: urn:lex:br:federal:lei.complementar:2016;156!art2-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para aplicação do disposto no caput às operações constantes dos <span xlink:href="urn:lex:br:federal:lei.complementar:2016;156!art1">artigos 1º</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2016;156!art2">2º da Lei Complementar nº 156, de 2016</span>, as renegociações deverão ser firmadas nos prazos estabelecidos, respectivamente, no § 7º do artigo 1º e no parágrafo único do artigo 2º da referida Lei Complementar.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Resolução entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,106 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;334@data.evento;leitura;2017-09-19t14.20"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 334 DE 2017</Epigrafe>
+      <Ementa id="ementa">Modifica a <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 maio de 2000</span>, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, para vedar que as receitas dos Estados, do Distrito Federal e dos Municípios decorrentes do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1">§ 1º do art. 20 da Constituição Federal</span> sejam consideradas para fins de cálculo dos limites da despesa total com pessoal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4">inciso IV do art. 2º da Lei Complementar nº 101, de 4 de maio de 2000</span>, passa a vigorar acrescido da seguinte alínea d:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2000-05-04;101" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2000-05-04;101 -> MatchByBase(urn:lex:br:federal:lei.complementar:2000-05-04;101,2000,Some((5,4)),Map(art2 -> SuperPrefixMatch(URN(2000,Some((5,4)),art2_cpt_inc4,urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4),art2), art2_cpt_inc4 -> ExactMatch(URN(2000,Some((5,4)),art2_cpt_inc4,urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4)), art2_cpt -> SuperPrefixMatch(URN(2000,Some((5,4)),art2_cpt_inc4,urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4),art2_cpt), art2_cpt_inc4_ali4 -> PrefixMatch(URN(2000,Some((5,4)),art2_cpt_inc4,urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4),art2_cpt_inc4_ali4), art2_cpt_inc4_ali3 -> PrefixMatch(URN(2000,Some((5,4)),art2_cpt_inc4,urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4),art2_cpt_inc4_ali3)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art2_cpt_omi1"/><Inciso xlink:href="art2_cpt_inc4" id="art1_cpt_alt1_art2_cpt_inc4" textoOmitido="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art2_cpt_inc4_omi1"/><Alinea xlink:href="art2_cpt_inc4_ali3" id="art1_cpt_alt1_art2_cpt_inc4_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>..................................................................;</p>
+            
+          </Alinea><Alinea xlink:href="art2_cpt_inc4_ali4" id="art1_cpt_alt1_art2_cpt_inc4_ali4">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1-->
+            
+            <Rotulo>d)</Rotulo>
+            <p>nos Estados, no Distrito Federal e nos Municípios, para os fins de que tratam os incisos II e III do caput dos arts. 19 e 20 desta Lei, as receitas de que trata o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1">§ 1º do art. 20 da Constituição Federal</span>.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>, passa a vigorar acrescida do seguinte art. 73-D:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2000-05-04;101" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2000-05-04;101 -> MatchByBase(urn:lex:br:federal:lei.complementar:2000-05-04;101,2000,Some((5,4)),Map(art73-4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art73-4), art73-4_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art73-4_cpt), art73-4_par1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art73-4_par1)))))-->
+              <Artigo xlink:href="art73-4" id="art2_cpt_alt1_art73-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 73-D.</Rotulo>
+            
+            <Caput xlink:href="art73-4_cpt" id="art2_cpt_alt1_art73-4_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1-->
+            
+            
+            <p>Para fins de aplicação do disposto na alínea d do inciso IV do art. 2º, ficam estabelecidos os percentuais e prazos de expurgo do cálculo da receita corrente líquida para as receitas decorrentes da aplicação do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art20_par1">§ 1º do art. 20 da Constituição Federal</span> em 5% (cinco por cento), 10% (dez por cento), 20% (vinte por cento), 30% (trinta por cento), 40% (quarenta por cento), 50% (cinquenta por cento), 60% (sessenta por cento), 70% (setenta por cento), 80% (oitenta por cento), 90% (noventa por cento) e 100% (cem por cento), respectivamente, a partir do primeiro, segundo, terceiro, quarto, quinto, sexto, sétimo, oitavo, nono, décimo e décimo-primeiro exercícios financeiros contados desde o exercício subsequente ao de publicação da lei complementar que introduziu nesta Lei Complementar a alínea d no inciso IV do art. 2º.</p>
+            
+          </Caput><Paragrafo xlink:href="art73-4_par1u" id="art2_cpt_alt1_art73-4_par1u" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei.complementar:2017-05-19;159-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Caso o ente da Federação ingresse no Regime de Recuperação Fiscal, instituído pela <span xlink:href="urn:lex:br:federal:lei.complementar:2017-05-19;159">Lei Complementar nº 159, de 19 de maio de 2017</span>, a transição de que trata este artigo será suspensa enquanto o ente estiver com o Regime de Recuperação Fiscal vigente, devendo ser retomada a partir do início do exercício financeiro subsequente pelo prazo restante em relação ao decorrido até o exercício anterior ao de sua suspensão.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,838 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;175"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 175 DE 2017</Epigrafe>
+      <Ementa id="ementa">Regulamenta a profissão de leiloeiro público oficial.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei disciplina o exercício da atividade de leiloeiro público oficial e dispõe sobre suas atribuições e requisitos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>É livre o exercício da atividade profissional de leiloeiro público, desde que atendidas as qualificações e as exigências estabelecidas nesta Lei, mediante aprovação em concurso público promovido pela junta comercial, que fixará o número de vagas em cada unidade da Federação e promoverá a matrícula do leiloeiro aprovado.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O leiloeiro exercerá sua profissão exclusivamente na unidade da Federação da circunscrição da junta comercial que o matriculou.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos leilões judiciais, nos de alienação fiduciária previstos na <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514">Lei nº 9.514, de 20 de novembro de 1997</span>, e nos da Administração Pública direta ou indireta, os bens serão leiloados por leiloeiro matriculado na unidade da Federação onde se encontram localizados, no caso de bens imóveis, ou armazenados, no caso de bens móveis.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não será permitida a matrícula em mais de uma unidade da Federação.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Aos leiloeiros matriculados até a data do início da vigência desta Lei serão assegurados os direitos adquiridos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São requisitos para o exercício da profissão de leiloeiro público oficial:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ser cidadão brasileiro e encontrar-se no pleno exercício dos seus direitos civis e políticos;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ser maior de vinte e cinco anos;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estar reabilitado, se falido ou condenado por crime falimentar, desde que a falência não tenha sido qualificada como dolosa ou fraudulenta;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>não estar condenado por crime cuja pena vede o exercício da atividade mercantil;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>não exercer o comércio, direta ou indiretamente, no seu nome ou em nome de terceiro;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>não ter sido destituído da profissão de leiloeiro;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>ser domiciliado, há mais de cinco anos, na unidade da Federação onde pretenda exercer a profissão, o que deve ser comprovado por meio de endereço eleitoral ou fiscal (CPF);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>não ser matriculado em outra unidade da Federação;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>ter idoneidade comprovada com apresentação de certidões negativas ou com efeito de negativa da Justiça Federal e das varas criminais da justiça local em que o candidato tiver o seu domicílio.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O leiloeiro, inclusive o já matriculado, é obrigado, após habilitação perante a junta comercial e mediante despacho desta, a prestar fiança exclusivamente em dinheiro.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor da fiança será estipulado pela junta comercial do respectivo Estado.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A garantia de que trata este artigo deverá ser depositada em banco oficial, em conta-poupança à disposição da junta comercial, mediante averbação que a conserve intransferível até que possa ser levantada legalmente.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O levantamento da importância depositada em conta-poupança será efetuado sempre mediante requisição da junta comercial na qual o leiloeiro estiver matriculado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A fiança responde pelas dívidas ou responsabilidades do leiloeiro, originadas por multas, infrações de disposições fiscais, impostos federais e estaduais relativos à profissão, saldos e produtos de leilões ou sinais que ele tenha recebido e pelas vendas efetuadas de bens de qualquer natureza, e subsistirá por até noventa dias após haver deixado o exercício da profissão, por exoneração voluntária, destituição, invalidez ou falecimento.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Somente depois de satisfeitas todas as dívidas e responsabilidades de que trata este artigo, por dedução do valor da fiança, será entregue a quem de direito o saldo porventura restante.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O leiloeiro só poderá entrar no exercício da profissão depois de comprovada a fiança e após a assinatura de compromisso perante a junta comercial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O leiloeiro exercerá pessoalmente suas funções, e não poderá delegá-las senão por moléstia, impedimento ocasional ou férias, casos em que indicará seu preposto.</p>
+            
+          </Caput><Paragrafo id="art6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O afastamento do leiloeiro do exercício da profissão será sempre justificado à junta comercial na qual está matriculado.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Quando o leiloeiro precisar ausentar-se do exercício do cargo, requererá licença à junta comercial e indicará o preposto que irá substituí-lo.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O preposto indicado deverá atender aos requisitos impostos no art. 3º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Quando o leiloeiro não tiver preposto habilitado, poderá ser substituído por outro leiloeiro de sua escolha.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O substituto do leiloeiro será considerado mandatário legal do preponente para efeito de substituí-lo e de praticar, sob a responsabilidade daquele, os atos que lhe forem inerentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>A dispensa do preposto dar-se-á mediante simples comunicação do leiloeiro à junta comercial, acompanhada da indicação do respectivo substituto, se for o caso, ou a pedido do preposto.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Compete ao leiloeiro público, pessoal e privativamente, a venda em hasta pública ou em pregão, inclusive por meio da rede mundial de computadores, de tudo o que, por autorização dos respectivos donos ou por autorização judicial, lhe for cometido, tais como bens móveis, imóveis, utensílios, bens pertencentes às massas falidas, liquidações, execuções judiciais e extrajudiciais, extinções de condomínio, alienações fiduciárias, penhores de qualquer natureza, inclusive de joias, e outros previstos em lei, com fé de oficiais públicos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Nos leilões de bens de particulares, será devida ao leiloeiro, pelo comitente, remuneração pelo seu trabalho, que será regulada por convenção escrita entre as partes, além da indenização da importância despendida no desempenho de suas funções e da comissão paga pelo arrematante.</p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se não houver estipulação prévia por convenção escrita, a remuneração paga pelo comitente será de 5% (cinco por cento) sobre bens móveis, mercadorias, joias e outros bens, e de 3% (três por cento) sobre bens imóveis de qualquer natureza.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O leiloeiro deverá observar o limite máximo das despesas autorizadas por escrito pelo comitente, relativas a publicações, carretos e outras que se tornarem indispensáveis, sendo-lhe vedado reclamar indenização de quantia maior porventura despendida sob esse título.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os leiloeiros não poderão vender a crédito ou a prazo os bens a eles confiados, sem autorização por escrito dos comitentes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Caberá aos órgãos da Administração Pública direta ou indireta a contratação de leiloeiro para a venda de bens móveis ou imóveis.</p>
+            
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A forma de contratação do leiloeiro, por meio de procedimento licitatório ou por outro critério, caberá aos entes interessados, e todos os leiloeiros que atenderem às exigências edilícias serão credenciados e estarão aptos a prestarem os serviços.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se houver mais de um leiloeiro credenciado, será realizado sorteio para definição da ordem de classificação em virtude da utilização dos serviços contratados.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É defesa qualquer licitação para contratação dos serviços de leiloeiro público que tenha como critério a redução da comissão estabelecida em lei.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Nas vendas referidas no caput deste artigo, será devida pelos órgãos da Administração Pública direta ou indireta apenas a indenização das despesas com anúncios, propaganda dos leilões, remoção e armazenagem dos bens, e não será devida remuneração ou taxa de comissão, a ser paga exclusivamente pelo arrematante.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>A indicação do leiloeiro será de livre escolha dos exequentes, dos autores nas extinções de condomínio, dos administradores judiciais, dos liquidatários ou comitentes, respectivamente nas vendas judiciais, nas execuções de bens de massas falidas, nas recuperações judiciais e de propriedades particulares.</p>
+            
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A rejeição ou o impedimento do leiloeiro nos leilões judiciais sempre serão justificados.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O leilão judicial eletrônico, em segunda data, deverá ocorrer de forma simultânea ao leilão presencial, na sede do leiloeiro ou no endereço por ele indicado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>A prestação de contas do leiloeiro obedecerá às disposições legais vigentes e será apresentada em até cinco dias úteis depois da realização dos respectivos leilões.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As despesas autorizadas por contrato ou por lei e comprovadamente realizadas pelo leiloeiro no desempenho da função poderão ser deduzidas do produto da arrematação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Nos leilões particulares, judiciais, extrajudiciais e de órgãos da Administração Pública direta ou indireta, o comprador pagará obrigatoriamente ao leiloeiro a comissão de, no mínimo, 5% (cinco por cento) sobre as arrematações de bens imóveis e de 10% (dez por cento) sobre as de bens móveis.</p>
+            
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Nos leilões judiciais, quando o leiloeiro já tiver dado início aos atos preparatórios ao leilão e sobrevier a extinção do feito pelo pagamento ou por transação entre as partes, ser-lhe-á devida uma remuneração de 2% (dois por cento) sobre o valor da avaliação do bem a título de ressarcimento pelos trabalhos e despesas realizados, que será acrescida nos cálculos do processo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>Se houver a interposição de recurso, o leilão judicial só será considerado finalizado, para efeito contábil, após o seu julgamento com trânsito em julgado.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Não será expedida a carta de arrematação, de adjudicação ou de alienação particular sem que seja comprovado o pagamento da comissão do leiloeiro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Será devida a remuneração pelo transporte e pela armazenagem de todos os bens que forem recolhidos ao depósito do leiloeiro, por ordem judicial ou por convenção entre comitente e leiloeiro.</p>
+            
+          </Caput><Paragrafo id="art17_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor da diária de armazenagem será regulado por convenção escrita entre comitente e leiloeiro, e o valor da despesa com remoção e transporte será determinado de acordo com os comprovantes de pagamento.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se não houver estipulação prévia por convenção escrita, a taxa da diária será estipulada em 0,1% (um décimo por cento) do valor da avaliação do bem.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O valor das despesas com remoção será determinado de acordo com o tipo de bem e a distância percorrida.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O leiloeiro poderá deduzir do produto da arrematação as despesas com o transporte e a armazenagem de bens, mediante prestação de contas.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Não serão entregues ou devolvidos os bens armazenados no depósito do leiloeiro sem a comprovação do pagamento das despesas com transporte, remoção e armazenagem dos bens.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>No caso em que a despesa com a remoção e armazenagem do bem recolhido para o depósito do leiloeiro superar o valor da avaliação, o bem será entregue ao leiloeiro em dação em pagamento para ressarcimento das despesas por ele realizadas, se, após notificação do leiloeiro ao proprietário do bem para efetuar o devido pagamento no prazo de até dez dias, este não o fizer.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>O contrato entre o leiloeiro e o comitente que autorizar a intervenção do leiloeiro ou efetuar a sua nomeação para realizar leilões é de mandato ou comissão e dá a ele o direito de cobrar judicialmente sua comissão e as quantias que tiver desembolsado com anúncios, transporte e armazenagem de bens.</p>
+            
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A ação para cobrança judicial da comissão e das despesas efetuadas pelo leiloeiro será instruída com os documentos comprobatórios dos pagamentos que houver efetuado.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos leilões judiciais, a cobrança da comissão e das despesas dar-se-á nos próprios autos da ação em que o leiloeiro tenha atuado.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O leiloeiro poderá reter em seu poder objeto ou valor de propriedade do devedor até que seja reembolsado.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As despesas e a comissão do leiloeiro têm natureza alimentar.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>As infrações disciplinares cometidas pelo leiloeiro, previstas em lei e em instrução normativa do Poder Executivo, serão punidas com advertência, multa, suspensão ou destituição e serão aplicadas pela junta comercial onde o leiloeiro for inscrito.</p>
+            
+          </Caput><Paragrafo id="art19_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Da decisão proferida pela junta comercial caberá recurso ao Ministro de Estado responsável pelos assuntos de comércio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Somente para fins beneficentes, quando não houver remuneração de qualquer espécie, será permitido o pregão por leiloeiro não habilitado nos termos desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>São nulos as fianças, os endossos e os avais dados pelo leiloeiro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>São livros obrigatórios do leiloeiro:</p>
+            <Inciso id="art22_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>diário de leilões;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>diário de entrada (de bens móveis removidos e armazenados no depósito do leiloeiro);</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>diário de saída;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>livro-talão, para extração das faturas destinadas aos arrematantes dos bens.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os leilões judiciais serão lançados no diário de leilões após a homologação e o trânsito em julgado de eventual recurso.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No leilão judicial, o documento referido no inciso IV do caput deste artigo será substituído pelo auto de arrematação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Todos os livros do leiloeiro poderão ser escriturados ou eletrônicos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>A junta comercial, sempre que julgar conveniente, determinará o exame nos livros dos leiloeiros para verificar a regularidade das escriturações, de forma a determinar as correções necessárias e a aplicar as penalidades cabíveis.</p>
+            
+          </Caput><Paragrafo id="art24_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Anualmente o leiloeiro deverá atualizar o seu cadastro, em data estipulada pela junta comercial, e apresentar as certidões negativas ou positivas com efeito de negativa, para fins de expedição de certidão de pleno exercício da profissão, que terá validade de um ano.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>É permitido ao leiloeiro constituir pessoa jurídica unipessoal, observadas as seguintes condições:</p>
+            <Inciso id="art25_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o objeto social deve ser exclusivamente o exercício da atividade da leiloaria;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o nome empresarial deve fazer referência à pessoa do leiloeiro;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a sede deve localizar-se na mesma unidade da Federação em que o leiloeiro estiver matriculado.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art25_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Poderá o leiloeiro participar de associações, desde que não tenham fins lucrativos.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Poderá o leiloeiro possuir ações de sociedade anônima, desde que ele não participe da sua administração.</p>
+            
+          </Paragrafo><Paragrafo id="art25_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É permitido ao leiloeiro compartilhar o espaço físico de armazenagem e de realização de leilões presenciais com outros leiloeiros.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>O leiloeiro não poderá, no exercício do ofício, utilizar-se de nome fantasia e fazer uso de marcas, logotipos e demais símbolos distintivos próprios de atividade empresarial.</p>
+            
+          </Caput><Paragrafo id="art26_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não viola a regra descrita no caput deste artigo o leiloeiro público que tiver o registro de marca de serviço e de logotipo no Instituto Nacional de Propriedade Industrial (INPI) requerido como pessoa física.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>O nome de domínio utilizado pelo leiloeiro para leilão eletrônico na rede mundial de computadores será registrado somente sob sua titularidade direta e deve conter expressão que faça referência à sua pessoa.</p>
+            
+          </Caput><Paragrafo id="art27_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É defeso o redirecionamento do leilão eletrônico para domínio diverso daquele do leiloeiro designado ou do responsável pelo leilão.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O não cumprimento do disposto neste artigo ensejará a nulidade dos leilões realizados e a aplicação da penalidade prevista no art. 29 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>As certidões, diligências e prestações de contas expedidas pelos leiloeiros, quando estes se revestirem das formalidades legais relativamente à venda de mercadorias ou de outros procedimentos necessários à execução de seu trabalho, têm fé pública.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>É proibido ao leiloeiro:</p>
+            <Inciso id="art29_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>sob pena de destituição:</p>
+            <Alinea id="art29_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>exercer o comércio, direta ou indiretamente, no seu nome ou em nome de terceiro;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>apropriar-se indevidamente dos valores da arrematação;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>descumprir o disposto no § 1º do art. 27 desta Lei;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art29_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>sob pena de multa, adquirir para si ou para pessoas de sua família em primeiro grau coisa cuja venda lhe tenha sido incumbida;</p>
+            
+          </Inciso><Inciso id="art29_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>sob pena de suspensão:</p>
+            <Alinea id="art29_cpt_inc3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>peticionar nos processos judiciais com objetivos publicitários e de oferta de seus serviços;</p>
+            
+          </Alinea><Alinea id="art29_cpt_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>não cumprir o disposto no parágrafo único do art. 24 desta Lei;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art29_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>sob pena de nulidade de todos os seus atos, delegar a terceiros não habilitados os pregões.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art29_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os valores das multas serão estabelecidos pela junta comercial de cada unidade da Federação.</p>
+            
+          </Paragrafo><Paragrafo id="art29_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A reincidência, nos casos sujeitos a pena de suspensão e nulidade, poderá ser convertida em destituição, a critério da junta comercial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>Nenhum leilão poderá ser realizado sem que haja publicação do edital do leilão no site do leiloeiro com, no mínimo, cinco dias de antecedência, que deverá conter as informações pormenorizadas, o endereço eletrônico no qual será realizado o leilão e o endereço físico, no caso de leilão presencial ou simultâneo.</p>
+            
+          </Caput><Paragrafo id="art30_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os editais deverão conter informações claras nas descrições dos respectivos bens e, quando se tratar de bem imóvel, deverá ser informado o número de matrícula do cartório de registro de imóveis, sob pena de nulidade e de responsabilidade do leiloeiro, exceto se o imóvel não possuir matrícula.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de publicação de anúncio ou edital do leilão em jornal, o custeio não será de responsabilidade do leiloeiro e será acrescido nas despesas ou custas do leilão.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>Os atuais leiloeiros darão cumprimento às disposições desta Lei no prazo de sessenta dias, sob pena de suspensão, e incorrerão na pena de destituição se não o fizerem em até trinta dias após o término do referido prazo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

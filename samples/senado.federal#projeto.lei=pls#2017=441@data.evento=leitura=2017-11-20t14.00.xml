@@ -1,0 +1,130 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;441@data.evento;leitura;2017-11-20t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 441 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1993-06-21;8666">Lei nº 8.666, de 21 de junho de 1993</span>, para dispor sobre a paralisação de obras públicas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1993-06-21;8666-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1993-06-21;8666">Lei nº 8.666, de 21 de junho de 1993</span>, passa a vigorar acrescida da seguinte Seção:</p>
+            
+          </Caput>
+          </Artigo><Secao id="sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Da Paralisação da Execução de Contratos de Obra Pública</NomeAgrupador>
+            <Artigo id="art80-1">
+            
+            
+            <Rotulo>Art. 80-A.</Rotulo>
+            
+            <Caput id="art80-1_cpt">
+            
+            
+            
+            <p>Constatada qualquer irregularidade no procedimento licitatório ou na execução contratual, não sendo possível o saneamento, a decisão, administrativa ou judicial, sobre a paralisação da obra somente será adotada na hipótese em que se revelar como medida de interesse público, observados, necessariamente, os seguintes aspectos:</p>
+            <Inciso id="art80-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do empreendimento;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>riscos sociais, ambientais e à segurança da população local decorrentes do atraso na fruição dos benefícios do empreendimento;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>motivação social e ambiental do empreendimento;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>custo da deterioração ou da perda das parcelas executadas;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>despesa necessária à preservação das instalações e dos serviços já executados;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>despesa inerente à desmobilização e ao posterior retorno às atividades;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>medidas efetivamente adotadas pelo titular do órgão ou da entidade para o saneamento dos indícios de irregularidades apontados;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>custo total e estágio de execução física e financeira dos contratos, dos convênios, das obras ou das parcelas envolvidas;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>empregos diretos e indiretos perdidos em razão da paralisação;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>custo para realização de nova licitação ou celebração de novo contrato;</p>
+            
+          </Inciso><Inciso id="art80-1_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>custo de oportunidade do capital durante o período de paralisação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art80-1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Caso a paralisação não se revele como medida de interesse público, o poder público deverá optar pela continuidade do contrato e pela solução da irregularidade por meio de cobrança de indenização por perdas e danos, sem prejuízo da aplicação de penalidades e da apuração de responsabilidades.” (NR)</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

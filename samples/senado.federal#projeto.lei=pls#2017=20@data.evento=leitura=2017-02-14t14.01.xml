@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;20@data.evento;leitura;2017-02-14t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 20 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1991-02-08;8176">Lei nº 8.176, de 8 de fevereiro de 1991</span>, para tornar crime contra a ordem econômica o não repasse imediato, ao consumidor, da diminuição de preço dos combustíveis realizada pela refinaria.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-02-08;8176!art1-->
+            
+            
+            <p>Inclua-se o seguinte inciso III ao <span xlink:href="urn:lex:br:federal:lei:1991-02-08;8176!art1">art. 1º da Lei nº 8.176, de 8 de fevereiro de 1991</span>:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1991-02-08;8176" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1991-02-08;8176 -> MatchByBase(urn:lex:br:federal:lei:1991-02-08;8176,1991,Some((2,8)),Map(art1 -> ExactMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1)), art1_cpt -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_cpt), art1_cpt_inc3 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_cpt_inc3)))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art1_cpt_omi1"/><Inciso xlink:href="art1_cpt_inc3" id="art1_cpt_alt1_art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>não repassar imediatamente ao consumidor qualquer redução de preço dos combustíveis praticada pela refinaria.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;141"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 141 DE 2017</Epigrafe>
+      <Ementa id="ementa">Determina que as empresas de telefonia e as operadoras de serviço móvel pessoal instalem bloqueadores de sinais de telecomunicações, de radiocomunicações e de internet nos estabelecimentos penais e socioeducativos; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>As empresas de telefonia e as operadoras de serviço móvel pessoal deverão instalar, no prazo máximo de cento e oitenta dias a contar da publicação desta Lei, equipamentos tecnológicos ou solução tecnológica hábil para bloquear sinais de telecomunicações e de radiocomunicações nos estabelecimentos penais e nos estabelecimentos socioeducativos que abrigam adolescentes infratores, de modo a impedir a comunicação por telefones móveis e a utilização de internet por detentos e por menores apreendidos no interior dos referidos estabelecimentos.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p> As operadoras estão igualmente obrigadas a prestar todos os serviços de manutenção, troca e atualização tecnológica dos equipamentos e soluções tecnológicas referidos no caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p> A inobservância do dever estabelecido nesta Lei sujeita todas as operadoras, individualmente, à pena de multa no valor mínimo de R$ 50.000,00 (cinquenta mil reais) e máximo de R$ 1.000.000,00 (um milhão de reais), por cada estabelecimento penal ou socioeducativo no qual o equipamento ou solução tecnológica referidos no art. 1º desta Lei não esteja em pleno funcionamento.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p> Compete à Agência Nacional de Telecomunicações (Anatel) editar regulamento para o cumprimento desta Lei, no prazo de noventa dias, bem como fiscalizar a instalação e as condições de funcionamento dos equipamentos ou soluções tecnológicas referidos no art. 1º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As irregularidades constatadas em fiscalizações ensejam a aplicação das multas previstas no caput deste artigo, que serão arbitradas e arrecadadas pela Anatel na forma de regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p> As obrigações previstas nesta Lei, de responsabilidade das empresas de telefonia e das operadoras de serviço móvel pessoal, deverão constar de todos os contratos de concessão firmados a partir da publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p> As empresas de telefonia e as operadoras de serviço móvel pessoal existentes em uma mesma área de cobertura respondem solidariamente pelas obrigações previstas nesta Lei, devendo cumprir as disposições desta Lei mesmo que o respectivo contrato de concessão ainda não contenha cláusulas que as contemplam.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p> Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

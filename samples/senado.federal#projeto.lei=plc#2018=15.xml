@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;15"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 15 DE 2018</Epigrafe>
+      <Ementa id="ementa">Autoriza o Poder Executivo a desapropriar, em favor da União, o imóvel que especifica, cujo domínio direto pertence ao Estado do Rio Grande do Sul.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-06-21;3365!art5_cpt_ali13-->
+            
+            
+            <p>Fica o Poder Executivo autorizado a desapropriar, com fundamento na <span xlink:href="urn:lex:br:federal:decreto.lei:1941-06-21;3365!art5_cpt_ali13">alínea m do caput do art. 5º do Decreto-Lei nº 3.365, de 21 de junho de 1941</span>, o imóvel denominado Edifício Muralha, localizado no centro comercial e administrativo do Município de Porto Alegre, Estado do Rio Grande do Sul, com endereço na rua Sete de Setembro, nº 722 (loja) e nº 730 (prédio), CEP 90.010-190, bairro Centro Histórico, com frente para a rua Siqueira Campos (entrada e saída dos estacionamentos), conforme matrículas nºs 62.806 a 62.832 do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul, constituindo prédio comercial individualizado em vinte e sete matrículas, que totalizam 13.255,51 m² de área total e 9.336,33 m² de área privativa, composto de subsolo, térreo, sobreloja e segundo pavimento, interligados inteiramente por escadarias e elevador, e torre com doze pavimentos com salas de 618,46 m² por pavimento, com salão, três copas e três sanitários, declarado de utilidade pública por meio do Decreto de 25 de setembro de 2013, cujo domínio direto pertence ao Estado do Rio Grande do Sul, em razão de enfiteuse.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O terreno, foreiro, em que se localiza o imóvel descrito no caput deste artigo possui área de 1.575,20 m² e apresenta as seguintes dimensões e confrontações:</p>
+            <Inciso id="art1_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>frente ao sul - 19,69 m no alinhamento da rua Sete de Setembro, nºs 722 e 730;</p>
+            
+          </Inciso><Inciso id="art1_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fundos ao norte - 19,69 m no alinhamento da rua Siqueira Campos;</p>
+            
+          </Inciso><Inciso id="art1_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ao leste – 80 m com imóveis de terceiros; e</p>
+            
+          </Inciso><Inciso id="art1_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ao oeste – 80 m com imóveis de terceiros.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O imóvel objeto da desapropriação de que trata esta Lei destina-se à União, para utilização pelo Tribunal Regional Eleitoral do Rio Grande do Sul na execução de suas atividades e serviços.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

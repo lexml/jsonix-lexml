@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;169@data.evento;leitura;2017-05-31t18.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 169 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta a Seção V no Capítulo III da <span xlink:href="urn:lex:br:federal:lei:2014-04-23;12965">Lei nº 12.965, de 23 de abril de 2014</span>, para possibilitar a suspensão do funcionamento ou o bloqueio de acesso de aplicação de internet que incentive ou promova a prática de crime.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2014-04-23;12965-->
+            
+            
+            <p>O Capítulo III da <span xlink:href="urn:lex:br:federal:lei:2014-04-23;12965">Lei nº 12.965, de 23 de abril de 2014</span>, passa a viger acrescido da seguinte Seção V:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2014-04-23;12965" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2014-04-23;12965 -> MatchByBase(urn:lex:br:federal:lei:2014-04-23;12965,2014,Some((4,23)),Map(art23-1_par2 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art23-1_par2), art23-1_cpt -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art23-1_cpt), sec5 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),sec5), art23-1 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art23-1), art23-1_par1 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art23-1_par1), art23-1_par3 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art23-1_par3)))))-->
+              <Secao xlink:href="sec5" id="art1_cpt_alt1_sec5" abreAspas="s">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Da Suspensão do Funcionamento ou do Bloqueio de Acesso a Aplicações de Internet</NomeAgrupador>
+            <Omissis id="art1_cpt_alt1_sec5_omi1"/><Artigo xlink:href="art23-1" id="art1_cpt_alt1_art23-1">
+            
+            
+            <Rotulo>Art. 23-A.</Rotulo>
+            
+            <Caput xlink:href="art23-1_cpt" id="art1_cpt_alt1_art23-1_cpt">
+            
+            
+            
+            <p>O Juiz poderá determinar a suspensão do funcionamento de aplicação de internet hospedada no Brasil ou o bloqueio do acesso de aplicação de internet hospedada no exterior que incentive ou promova a prática de crime.</p>
+            
+          </Caput><Paragrafo xlink:href="art23-1_par1" id="art1_cpt_alt1_art23-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A ordem de suspensão de funcionamento ou o bloqueio de acesso deverá ter o alcance e a duração necessários para a cessação da atividade criminosa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23-1_par2" id="art1_cpt_alt1_art23-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedada a suspensão do funcionamento de aplicação de internet destinada ao envio e recebimento de mensagens instantâneas, sendo possível apenas o bloqueio de terminais específicos de acesso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art23-1_par3" id="art1_cpt_alt1_art23-1_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se a aplicação de internet se destinar precipuamente à prática de crime, poderá ser determinada a interrupção de seu funcionamento, caso esteja hospedada no Brasil, ou o bloqueio definitivo de seu acesso, se estiver hospedada no exterior.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

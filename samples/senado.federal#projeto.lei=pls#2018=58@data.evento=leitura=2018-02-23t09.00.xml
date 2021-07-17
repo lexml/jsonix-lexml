@@ -1,0 +1,388 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;58@data.evento;leitura;2018-02-23t09.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 58 DE 2018</Epigrafe>
+      <Ementa id="ementa">Cria Área de Livre Comércio no Município de Foz do Iguaçu, no Estado do Paraná.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>É criada no Município de Foz do Iguaçu, no Estado do Paraná, área de livre comércio de importação e exportação, sob regime fiscal especial, estabelecida com a finalidade de promover o desenvolvimento de sua região de influência e com o objetivo de incrementar as relações com os países vizinhos, segundo a política de integração latino-americana.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A Área de Livre Comércio de Foz do Iguaçu – ALCFI, abrange a totalidade da superfície territorial do Município de Foz do Iguaçu, onde será instalada.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Poder Executivo fará demarcar os locais próprios para entrepostamento de mercadorias a serem comercializadas internamente, na referida Área de Livre Comércio, reexportadas ou internadas para o restante do território nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As mercadorias estrangeiras ou nacionais enviadas à Área de Livre Comércio de Foz do Iguaçu – ALCFI, serão obrigatoriamente destinadas às empresas autorizadas a operar nessa área.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A entrada de mercadorias estrangeiras na Área de Livre Comércio de Foz do Iguaçu – ALCFI, far-se-á com suspensão do Imposto de Importação e do Imposto sobre Produtos Industrializados, que será convertida em isenção quando forem destinadas a:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>consumo e venda interna na Área de Livre Comércio de Foz do Iguaçu – ALCFI;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>beneficiamento, em seu território, de pescado, pecuária, recursos minerais e matérias-primas de origem agrícola ou florestal;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>processamento industrial, em seu território, com nível de agregação de valor econômico de acordo com as normas específicas para este tipo de destinação de mercadoria importada;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>agropecuária e piscicultura;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>instalação e operação de atividades de turismo e serviços de qualquer natureza;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>estocagem para comercialização no mercado externo;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>bagagem acompanhada de viajantes, observados os limites fixados pelo Poder Executivo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As demais mercadorias estrangeiras, inclusive as utilizadas como partes, peças ou insumos de produtos industrializados na Área de Livre Comércio de Foz do Iguaçu – ALCFI, gozarão de suspensão dos tributos referidos neste artigo, mas estarão sujeitas à tributação no momento de sua internação.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não se aplica o regime fiscal previsto neste artigo a:</p>
+            <Inciso id="art4_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>armas e munições de qualquer natureza;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>automóveis de passageiros;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>bebidas alcoólicas;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>perfumes;</p>
+            
+          </Inciso><Inciso id="art4_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>fumos e seus derivados.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>As importações de mercadorias destinadas à Área de Livre Comércio de Foz do Iguaçu – ALCFI, estarão sujeitas à guia de importação ou documento de efeito equivalente, previamente ao desembaraço aduaneiro.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As importações de que trata este artigo deverão contar com a prévia anuência do órgão gestor das políticas públicas de desenvolvimento da indústria, do comércio e dos serviços e das políticas de comércio exterior, na forma do regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A compra de mercadorias estrangeiras armazenadas na Área de Livre Comércio de Foz do Iguaçu – ALCFI, por empresas estabelecidas em qualquer outro ponto do território nacional será considerada, para efeitos administrativos e fiscais, como importação normal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Os produtos nacionais ou nacionalizados que entrarem na Área de Livre Comércio de Foz do Iguaçu – ALCFI, estarão isentos do Imposto sobre Produtos Industrializados, quando destinados às finalidades mencionadas no caput do art. 4º.</p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ficam asseguradas a manutenção e a utilização dos créditos do Imposto sobre Produtos Industrializados relativo às matérias-primas, produtos intermediários e material de embalagem empregados na industrialização dos produtos entrados na Área de Livre Comércio de Foz do Iguaçu – ALCFI.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Estão excluídos dos benefícios fiscais de que trata este artigo os produtos abaixo, compreendidos nos capítulos e nas posições indicadas da Nomenclatura Comum do Mercosul (NCM):</p>
+            <Inciso id="art7_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>armas e munições: capítulo 93;</p>
+            
+          </Inciso><Inciso id="art7_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>veículos de passageiros: posição 8703 do capítulo 87, exceto ambulâncias, carros funerários, carros celulares e jipes;</p>
+            
+          </Inciso><Inciso id="art7_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>bebidas alcoólicas: posições 2203 a 2206 e 2208 do capítulo 22;</p>
+            
+          </Inciso><Inciso id="art7_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fumo e seus derivados: capítulo 24.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Os produtos industrializados na Área de Livre Comércio de Foz do Iguaçu – ALCFI, ficam isentos do Imposto sobre Produtos Industrializados, quer se destinem ao seu consumo interno, quer à comercialização em qualquer outro ponto do território nacional.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A isenção prevista no caput deste artigo somente se aplica a produtos em cuja composição final haja predominância de matérias-primas de origem regional provenientes dos segmentos animal, vegetal, mineral, exceto os minérios do capítulo 26 da NCM, ou agrossilvipastoril, observada a legislação ambiental pertinente.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Excetuam-se da isenção prevista no caput deste artigo as armas e munições, o fumo, as bebidas alcóolicas e os automóveis de passageiros.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A isenção prevista neste artigo aplica-se exclusivamente aos produtos elaborados por estabelecimentos industriais cujos projetos tenham sido aprovados pelo órgão gestor de que trata o art. 10 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>A venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas estabelecidas fora da Área de Livre Comércio de Foz do Iguaçu – ALCFI, para empresas ali estabelecidas, fica equiparada à exportação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Está a Área de Livre Comércio de Foz do Iguaçu – ALCFI, sob a administração do órgão gestor das políticas públicas de desenvolvimento da indústria, do comércio e dos serviços e das políticas de comércio exterior, que deverá promover e coordenar sua implantação e funcionamento.</p>
+            
+          </Caput><Paragrafo id="art10_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplica-se, no que couber, à Área de Livre Comércio de Foz do Iguaçu – ALCFI, a legislação pertinente às demais áreas de livre comércio existentes no País.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O Poder Executivo regulamentará a aplicação de regime aduaneiro especial para as mercadorias estrangeiras destinadas à Área de Livre Comércio de Foz do Iguaçu – ALCFI, assim como para as mercadorias delas procedentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O Banco Central do Brasil normatizará os procedimentos cambiais aplicáveis às operações da Área de Livre Comércio de Foz do Iguaçu – ALCFI, criando mecanismos que favoreçam seu comércio exterior.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>O limite global para as importações através da Área de Livre Comércio de Foz do Iguaçu – ALCFI, será estabelecido, anualmente, pelo Poder Executivo, no ato que o fizer para as demais áreas de livre comércio em funcionamento no País.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A critério do Poder Executivo, poderão ser excluídas do limite global as importações de produtos pela Área de Livre Comércio de Foz do Iguaçu – ALCFI, destinados exclusivamente à reexportação, vedada a remessa de divisas correspondentes e observados, quando reexportados, todos os procedimentos legais aplicáveis às exportações brasileiras.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>A Secretaria da Receita Federal do Brasil exercerá a vigilância na Área de Livre Comércio de Foz do Iguaçu – ALCFI, e a repressão ao contrabando e ao descaminho, sem prejuízo da competência do Departamento de Polícia Federal.</p>
+            
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Poder Executivo deverá assegurar os recursos materiais e humanos necessários aos serviços de fiscalização e controle aduaneiro da Área de Livre Comércio de Foz do Iguaçu – ALCFI.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>As isenções e os benefícios da Área de Livre Comércio de Foz do Iguaçu – ALCFI, serão mantidos enquanto estiverem em vigência as isenções e benefícios similares concedidos às demais áreas de livre comércio existentes no País.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art5_cpt_inc2--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art12--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art14--><!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6-->
+            
+            
+            <p>O Poder Executivo, com vistas ao cumprimento do disposto no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art5_cpt_inc2">inciso II do caput do art. 5º</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art12">nos arts. 12</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art14">14 da Lei Complementar nº 101, de 4 de maio de 2000</span>, estimará o montante da renúncia fiscal decorrente do disposto nesta Lei e o incluirá no demonstrativo a que se refere o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par6">§ 6º do art. 165 da Constituição Federal</span>, que acompanhará o projeto de lei orçamentária cuja apresentação se der após decorridos 60 (sessenta) dias da publicação desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia do exercício subsequente àquele em que for implementado o disposto no seu art. 16.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

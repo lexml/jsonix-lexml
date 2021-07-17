@@ -1,0 +1,97 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;16"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 16 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a inspeção industrial e sanitária de produtos agroindustriais artesanais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1950-12-18;1283-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:1950-12-18;1283">Lei n° 1.283, de 18 de dezembro de 1950</span>, para dispor sobre o processo de fiscalização de produtos comestíveis de origem animal produzidos de forma artesanal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1950-12-18;1283-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1950-12-18;1283">Lei nº 1.283, de 18 de dezembro de 1950</span>, que dispõe sobre a inspeção industrial e sanitária dos produtos de origem animal, passa a vigorar acrescida do seguinte art. 10-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1950-12-18;1283" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1950-12-18;1283 -> MatchByBase(urn:lex:br:federal:lei:1950-12-18;1283,1950,Some((12,18)),Map(art10-1_par5 -> PrefixMatch(URN(1950,Some((12,18)),,urn:lex:br:federal:lei:1950-12-18;1283),art10-1_par5), art10-1_par1 -> PrefixMatch(URN(1950,Some((12,18)),,urn:lex:br:federal:lei:1950-12-18;1283),art10-1_par1), art10-1_cpt -> PrefixMatch(URN(1950,Some((12,18)),,urn:lex:br:federal:lei:1950-12-18;1283),art10-1_cpt), art10-1_par4 -> PrefixMatch(URN(1950,Some((12,18)),,urn:lex:br:federal:lei:1950-12-18;1283),art10-1_par4), art10-1_par3 -> PrefixMatch(URN(1950,Some((12,18)),,urn:lex:br:federal:lei:1950-12-18;1283),art10-1_par3), art10-1_par2 -> PrefixMatch(URN(1950,Some((12,18)),,urn:lex:br:federal:lei:1950-12-18;1283),art10-1_par2), art10-1 -> PrefixMatch(URN(1950,Some((12,18)),,urn:lex:br:federal:lei:1950-12-18;1283),art10-1)))))-->
+              <Artigo xlink:href="art10-1" id="art2_cpt_alt1_art10-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10-A.</Rotulo>
+            
+            <Caput xlink:href="art10-1_cpt" id="art2_cpt_alt1_art10-1_cpt">
+            
+            
+            
+            <p>Fica permitida a comercialização interestadual de produtos alimentícios produzidos de forma artesanal, com características e métodos tradicionais ou regionais próprios, empregadas boas práticas agropecuárias e de fabricação, desde que submetidos à fiscalização de órgãos de saúde pública dos Estados e do Distrito Federal.</p>
+            
+          </Caput><Paragrafo xlink:href="art10-1_par1" id="art2_cpt_alt1_art10-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O produto artesanal será identificado, em todo o território nacional, por um selo único com a indicação ARTE, conforme regulamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art10-1_par2" id="art2_cpt_alt1_art10-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O registro do estabelecimento e do produto, a classificação, o controle, a inspeção e a fiscalização dos produtos produzidos de forma artesanal com o selo ARTE de que trata este artigo, no que se refere aos aspectos higiênico-sanitários e de qualidade, serão executados em conformidade com as normas e prescrições estabelecidas nesta Lei e em seu regulamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art10-1_par3" id="art2_cpt_alt1_art10-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As exigências para o registro de estabelecimento e dos produtos de que trata este artigo deverão ser adequadas às dimensões e às finalidades do empreendimento, e seus procedimentos deverão ser simplificados.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art10-1_par4" id="art2_cpt_alt1_art10-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A inspeção e a fiscalização da elaboração dos produtos artesanais com o selo ARTE deverão ter natureza prioritariamente orientadora, observado o critério de dupla visita para lavratura de autos de infração.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art10-1_par5" id="art2_cpt_alt1_art10-1_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Até a regulamentação desta Lei, fica autorizada a comercialização dos produtos a que se refere este artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

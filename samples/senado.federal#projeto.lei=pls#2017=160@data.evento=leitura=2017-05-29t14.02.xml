@@ -1,0 +1,274 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;160@data.evento;leitura;2017-05-29t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 160 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a criação e o funcionamento de fundos patrimoniais vinculados ao financiamento de unidades de conservação federais.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O Poder Executivo federal poderá instituir fundos patrimoniais vinculados, com personalidade jurídica de direito privado, sem fins lucrativos, para receber e administrar recursos provenientes de doações de pessoas físicas e jurídicas.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            <!--Link: urn:lex:br:federal:lei:2000-07-18;9985-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na instituição dos fundos, serão priorizadas as unidades de conservação do grupo de proteção integral, conforme definidas pela <span xlink:href="urn:lex:br:federal:lei:2000-07-18;9985">Lei nº 9.985, de 18 de julho de 2000</span>, que tenham sido tombadas pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) como patrimônio histórico e cultural da Humanidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os fundos patrimoniais instituídos na forma desta Lei serão vinculados às unidades de conservação federais previstas no parágrafo único do art. 1º e serão formados exclusivamente por dotações próprias e doações de bens, móveis e imóveis, e direitos de qualquer espécie, efetuadas por pessoas físicas ou jurídicas, domiciliadas no Brasil ou no exterior.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O patrimônio dos fundos de que trata o caput será mantido estritamente segregado, contábil, administrativa e financeiramente, para todos os efeitos legais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Os fundos patrimoniais instituídos constituirão poupança de longo prazo, a ser investida com objetivos de preservação de valor e de geração de receita, tornando-se fonte regular e estável de recursos para a manutenção e o desenvolvimento das unidades de conservação federais previstas nesta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Os atos constitutivos de cada fundo patrimonial instituído nos termos desta Lei disporão sobre:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as finalidades do fundo, observado o art. 3º;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a vedação de destinação de recursos a finalidade distinta da prevista no ato constitutivo e à concessão de garantias;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as regras gerais aplicáveis às políticas de investimento e resgate e de alienação de bens e direitos integrantes do respectivo patrimônio;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as regras de composição e funcionamento e as competências dos órgãos e instâncias de administração e supervisão.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As normas relativas às políticas de investimento e de resgate e destinação de recursos dos fundos serão públicas e amplamente divulgadas e terão como objetivo assegurar a sustentabilidade econômica e financeira do fundo patrimonial ao longo de sua existência.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Os fundos patrimoniais instituídos nos termos desta Lei:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>manterão contabilidade e registros em consonância com os princípios gerais da contabilidade brasileira, com as adaptações que se fizerem necessárias, incluindo a divulgação com periodicidade mínima anual das demonstrações financeiras e da gestão e aplicação dos recursos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>contabilizarão os bens e valores recebidos em doação conforme seu valor de mercado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>serão submetidos anualmente a auditoria independente, sem prejuízo dos controles interno e externo exercidos pelos órgãos competentes.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>As doações efetuadas aos fundos patrimoniais de que trata esta Lei terão caráter irrevogável e não ensejarão quaisquer tipos de distribuição de rendimentos nem retribuição patrimonial ou financeira aos doadores.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Os fundos patrimoniais de que trata esta Lei serão isentos de tributação federal, inclusive quanto ao valor das doações recebidas e aos rendimentos e ganhos auferidos a cada exercício fiscal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O Poder Público facultará às pessoas físicas e jurídicas a dedução da base de cálculo do imposto sobre a renda e da contribuição social sobre o lucro, a partir do ano-calendário subsequente ao da publicação desta Lei, dos valores correspondentes às doações efetuadas a fundos patrimoniais instituídos nos termos desta Lei, conforme disposto nos arts. 9º e 10.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-12-26;9249!art13_par2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9249!art13_par2">§ 2º do art. 13 da Lei nº 9.249, de 26 de dezembro de 1995</span>, passa a vigorar acrescido do seguinte inciso IV:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-12-26;9249" id="art9_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-12-26;9249 -> MatchByBase(urn:lex:br:federal:lei:1995-12-26;9249,1995,Some((12,26)),Map(art13 -> SuperPrefixMatch(URN(1995,Some((12,26)),art13_par2,urn:lex:br:federal:lei:1995-12-26;9249!art13_par2),art13), art13_cpt -> SuperPrefixMatch(URN(1995,Some((12,26)),art13_par2,urn:lex:br:federal:lei:1995-12-26;9249!art13_par2),art13_cpt), art13_par2 -> ExactMatch(URN(1995,Some((12,26)),art13_par2,urn:lex:br:federal:lei:1995-12-26;9249!art13_par2)), art13_par2_inc4 -> PrefixMatch(URN(1995,Some((12,26)),art13_par2,urn:lex:br:federal:lei:1995-12-26;9249!art13_par2),art13_par2_inc4)))))-->
+              <Artigo xlink:href="art13" id="art9_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art9_cpt_alt1_art13_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art13_par2" id="art9_cpt_alt1_art13_par2" textoOmitido="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            
+            <Omissis id="art9_cpt_alt1_art13_par2_omi1"/><Inciso xlink:href="art13_par2_inc4" id="art9_cpt_alt1_art13_par2_inc4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as efetuadas aos fundos patrimoniais vinculados ao financiamento de unidades de conservação federais, até o limite de um e meio por cento do lucro operacional, antes de computadas as deduções de que trata este parágrafo.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-12-26;9250-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9250">Lei nº 9.250, de 26 de dezembro de 1995</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-12-26;9250" id="art10_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-12-26;9250 -> MatchByBase(urn:lex:br:federal:lei:1995-12-26;9250,1995,Some((12,26)),Map(art12 -> PrefixMatch(URN(1995,Some((12,26)),,urn:lex:br:federal:lei:1995-12-26;9250),art12), art12_cpt -> PrefixMatch(URN(1995,Some((12,26)),,urn:lex:br:federal:lei:1995-12-26;9250),art12_cpt), art12_cpt_inc9 -> PrefixMatch(URN(1995,Some((12,26)),,urn:lex:br:federal:lei:1995-12-26;9250),art12_cpt_inc9), art12_par1 -> PrefixMatch(URN(1995,Some((12,26)),,urn:lex:br:federal:lei:1995-12-26;9250),art12_par1)))))-->
+              <Artigo xlink:href="art12" id="art10_cpt_alt1_art12" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput xlink:href="art12_cpt" id="art10_cpt_alt1_art12_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art10_cpt_alt1_art12_cpt_omi1"/><Inciso xlink:href="art12_cpt_inc9" id="art10_cpt_alt1_art12_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>as doações feitas a fundos patrimoniais vinculados ao financiamento de unidades de conservação federais;</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art12_par1" id="art10_cpt_alt1_art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A soma das deduções a que se referem os incisos I a IV e IX não poderá reduzir o imposto devido em mais de doze por cento.</p>
+            
+          </Paragrafo><Omissis id="art10_cpt_alt1_art12_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Em caso de dissolução e liquidação de fundo patrimonial instituído nos termos desta Lei, todos os ativos serão incorporados ao patrimônio da União.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

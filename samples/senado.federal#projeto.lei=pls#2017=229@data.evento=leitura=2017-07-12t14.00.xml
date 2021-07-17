@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;229@data.evento;leitura;2017-07-12t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 229 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta §§ 1º, 2º e 3º ao <span xlink:href="urn:lex:br:federal:lei:1950-02-05;1060!art1">art. 1º da Lei nº 1.060, de 5 de fevereiro de 1950</span>, para estabelecer requisitos objetivos para a concessão do benefício da gratuidade de justiça, e revoga o <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art99_par3">§ 3º do art. 99 da Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil).</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1950-02-05;1060!art1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1950-02-05;1060!art1">art. 1º da Lei nº 1.060, de 5 de fevereiro de 1950</span>, passa a vigorar acrescido dos seguintes §§ 1º, 2º e 3º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1950-02-05;1060" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1950-02-05;1060 -> MatchByBase(urn:lex:br:federal:lei:1950-02-05;1060,1950,Some((2,5)),Map(art1 -> ExactMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1)), art1_par1 -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_par1), art1_par1_inc1 -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_par1_inc1), art1_cpt -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_cpt), art1_par1_inc4 -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_par1_inc4), art1_par3 -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_par3), art1_par1_inc2 -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_par1_inc2), art1_par2 -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_par2), art1_par1_inc3 -> PrefixMatch(URN(1950,Some((2,5)),art1,urn:lex:br:federal:lei:1950-02-05;1060!art1),art1_par1_inc3)))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art1_par1" id="art1_cpt_alt1_art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O benefício da gratuidade de justiça será concedido aos que comprovarem o preenchimento de, pelo menos, dois dos seguintes requisitos:</p>
+            <Inciso xlink:href="art1_par1_inc1" id="art1_cpt_alt1_art1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>percebimento de renda, salário, vencimento, proventos, soldo ou pensão não superior, em termos líquidos, a dez vezes o salário mínimo vigente no País;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par1_inc2" id="art1_cpt_alt1_art1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>participação em, pelo menos, um programa de assistência social mantido pelos poderes públicos federal, estadual, municipal ou do Distrito Federal;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par1_inc3" id="art1_cpt_alt1_art1_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>isenção do pagamento de Imposto de Renda da Pessoa Física;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par1_inc4" id="art1_cpt_alt1_art1_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>propriedade de, no máximo, um imóvel, urbano ou rural, utilizado para moradia.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art1_par2" id="art1_cpt_alt1_art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O indeferimento do pedido de gratuidade de justiça terá por fundamento, exclusivamente, as condições econômicas do requerente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1_par3" id="art1_cpt_alt1_art1_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Excepcionalmente, o benefício da gratuidade de justiça poderá ser concedido a pessoa que não cumpra o disposto no § 1º deste artigo, desde que por outros meios igualmente idôneos e expressamente consignados pelo juiz possa ser aferida a sua hipossuficiência econômica.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art99_par3-->
+            
+            
+            <p>Fica revogado o <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art99_par3">§ 3º do art. 99 da Lei nº 13.105, de 16 de março de 2015</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

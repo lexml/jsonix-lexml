@@ -1,0 +1,385 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;52@data.evento;leitura;2018-02-20t20.25"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 52 DE 2018</Epigrafe>
+      <Ementa id="ementa">Acrescenta o Capítulo II-B à <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514">Lei nº 9.514, de 20 de novembro de 1997</span>, para dispor sobre a hipoteca reversa de coisa imóvel.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514">Lei nº 9.514, de 20 de novembro de 1997</span>, passa a vigorar acrescida do seguinte Capítulo II-B:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-11-20;9514" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-11-20;9514 -> MatchByBase(urn:lex:br:federal:lei:1997-11-20;9514,1997,Some((11,20)),Map(art33-11_par8 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par8), art33-7 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7), art33-12_par1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-12_par1), art33-17_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-17_cpt), art33-16 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-16), art33-11 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11), art33-8_par2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-8_par2), art33-7_par1_inc2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7_par1_inc2), art33-11_par2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par2), art33-8 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-8), art33-17 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-17), art33-9_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt), art33-8_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-8_cpt), art33-9_cpt_inc2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc2), art33-9_cpt_inc3 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc3), art33-9_cpt_inc8 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc8), art33-9_par2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_par2), art33-10_par3 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-10_par3), art33-12 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-12), art33-11_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_cpt), art33-11_par5 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par5), art33-11_par1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par1), art33-8_par1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-8_par1), art33-16_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-16_cpt), art33-10_par2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-10_par2), art33-9_cpt_inc6 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc6), art33-12_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-12_cpt), art33-11_par4 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par4), art33-9_cpt_inc1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc1), art33-7_par2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7_par2), art33-14 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-14), art33-7_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7_cpt), art33-9_par1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_par1), art33-13_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-13_cpt), art33-13 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-13), art33-7_par1_inc1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7_par1_inc1), art33-11_par6 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par6), art33-9_par4 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_par4), art33-9_cpt_inc9 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc9), art33-9_cpt_inc5 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc5), art33-10_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-10_cpt), art33-10_par1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-10_par1), art33-7_par1_inc4 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7_par1_inc4), art33-7_par1 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7_par1), art33-15 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-15), art33-15_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-15_cpt), art33-11_par7 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par7), art33-10 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-10), cap2-2 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),cap2-2), art33-7_par1_inc3 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-7_par1_inc3), art33-9 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9), art33-9_cpt_inc7 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc7), art33-14_cpt -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-14_cpt), art33-9_par3 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_par3), art33-9_cpt_inc10 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc10), art33-11_par3 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-11_par3), art33-9_cpt_inc4 -> PrefixMatch(URN(1997,Some((11,20)),,urn:lex:br:federal:lei:1997-11-20;9514),art33-9_cpt_inc4)))))-->
+              <Capitulo xlink:href="cap2-2" id="art1_cpt_alt1_cap2-2" abreAspas="s">
+            
+            
+            <Rotulo>CAPÍTULO II-B</Rotulo>
+            <NomeAgrupador>Da Hipoteca Reversa de Coisa Imóvel</NomeAgrupador>
+            <Artigo xlink:href="art33-7" id="art1_cpt_alt1_art33-7">
+            
+            
+            <Rotulo>Art. 33-G.</Rotulo>
+            
+            <Caput xlink:href="art33-7_cpt" id="art1_cpt_alt1_art33-7_cpt">
+            
+            
+            
+            <p>A hipoteca reversa regulada por esta Lei é o negócio jurídico pelo qual o credor hipotecário reverso, com o escopo de garantia, contrata a transferência ao devedor hipotecário reverso da propriedade resolúvel de coisa imóvel.</p>
+            
+          </Caput><Paragrafo xlink:href="art33-7_par1" id="art1_cpt_alt1_art33-7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A hipoteca reversa poderá ser contratada por pessoa física ou jurídica, não sendo privativa das entidades que operam no SFI, podendo ter como objeto, além da propriedade plena:</p>
+            <Inciso xlink:href="art33-7_par1_inc1" id="art1_cpt_alt1_art33-7_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>bens enfitêuticos, hipótese em que será exigível o pagamento do laudêmio, se houver a consolidação do domínio útil no credor hipotecário reverso;</p>
+            
+          </Inciso><Inciso xlink:href="art33-7_par1_inc2" id="art1_cpt_alt1_art33-7_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o direito de uso especial para fins de moradia do credor hipotecário reverso;</p>
+            
+          </Inciso><Inciso xlink:href="art33-7_par1_inc3" id="art1_cpt_alt1_art33-7_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o direito real de uso, desde que suscetível de alienação;</p>
+            
+          </Inciso><Inciso xlink:href="art33-7_par1_inc4" id="art1_cpt_alt1_art33-7_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a propriedade superficiária.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art33-7_par2" id="art1_cpt_alt1_art33-7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os direitos de garantia instituídos nas hipóteses dos incisos III e IV do § 1o deste artigo ficam limitados à duração da concessão ou direito de superfície, caso tenham sido transferidos por período determinado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33-8" id="art1_cpt_alt1_art33-8">
+            
+            
+            <Rotulo>Art. 33-H.</Rotulo>
+            
+            <Caput xlink:href="art33-8_cpt" id="art1_cpt_alt1_art33-8_cpt">
+            
+            
+            
+            <p>Constitui-se a hipoteca reversa de coisa imóvel mediante registro, no competente Cartório de Registro de Imóveis, do contrato que lhe serve de título.</p>
+            
+          </Caput><Paragrafo xlink:href="art33-8_par1" id="art1_cpt_alt1_art33-8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Com a constituição da hipoteca reversa, dá-se o desdobramento da posse, tornando-se o credor hipotecário reverso possuidor direto e o devedor hipotecário reverso possuidor indireto da coisa imóvel.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-8_par2" id="art1_cpt_alt1_art33-8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O imóvel objeto de hipoteca reversa não poderá ser objeto de negócio jurídico sem autorização expressa do devedor hipotecário reverso.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33-9" id="art1_cpt_alt1_art33-9">
+            
+            
+            <Rotulo>Art. 33-I.</Rotulo>
+            
+            <Caput xlink:href="art33-9_cpt" id="art1_cpt_alt1_art33-9_cpt">
+            
+            
+            
+            <p>O contrato que serve de título ao negócio fiduciário conterá:</p>
+            <Inciso xlink:href="art33-9_cpt_inc1" id="art1_cpt_alt1_art33-9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o credor hipotecário reverso;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc2" id="art1_cpt_alt1_art33-9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o devedor hipotecário reverso;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc3" id="art1_cpt_alt1_art33-9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o valor do imóvel dado em garantia para a hipoteca reversa;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc4" id="art1_cpt_alt1_art33-9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o prazo e as condições de reposição do empréstimo ou do crédito da hipoteca reversa;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc5" id="art1_cpt_alt1_art33-9_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o valor do pagamento mensal em benefício do credor hipotecário reverso, a taxa de juros e demais encargos incidentes;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc6" id="art1_cpt_alt1_art33-9_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a cláusula de constituição da propriedade hipotecária reversa, com a descrição do imóvel objeto da hipoteca reversa e a indicação do título e modo de aquisição;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc7" id="art1_cpt_alt1_art33-9_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a cláusula assegurando ao credor hipotecário reverso a livre utilização, por sua conta e risco, do imóvel objeto da hipoteca reversa;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc8" id="art1_cpt_alt1_art33-9_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a cláusula de carência da hipoteca reversa assegurando aos herdeiros do imóvel hipotecado em reverso o direito de adquirir o imóvel por herança em caso de falecimento do credor hipotecário nos termos do § 4o deste artigo;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc9" id="art1_cpt_alt1_art33-9_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a indicação, para efeito de venda em público leilão, do valor do imóvel e dos critérios para a respectiva revisão;</p>
+            
+          </Inciso><Inciso xlink:href="art33-9_cpt_inc10" id="art1_cpt_alt1_art33-9_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>a cláusula dispondo sobre os procedimentos de que trata o art. 33-L.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art33-9_par1" id="art1_cpt_alt1_art33-9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para a constituição da hipoteca reversa, o credor hipotecário reverso deve ser pessoa com idade igual ou superior a 60 (sessenta) anos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-9_par2" id="art1_cpt_alt1_art33-9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O valor do principal da dívida não poderá ser superior ao valor do imóvel dado para a constituição da hipoteca reversa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-9_par3" id="art1_cpt_alt1_art33-9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O prazo e as condições de reposição do empréstimo ou do crédito da hipoteca reversa terá por termo final o falecimento do credor hipotecário reverso, cuja prova é realizada pela apresentação da certidão de óbito.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-9_par4" id="art1_cpt_alt1_art33-9_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se no prazo de cinco anos após a constituição da hipoteca reversa o credor hipotecário vier a falecer, o imóvel dado em garantia reversa será entregue aos herdeiros do falecido, descontados em todo caso em benefício do devedor hipotecário as condições de reposição do empréstimo ou do crédito da hipoteca reversa, acrescida dos juros legais, juros contratuais, correção monetária e demais despesas para a formalização e resolução do contrato.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33-10" id="art1_cpt_alt1_art33-10">
+            
+            
+            <Rotulo>Art. 33-J.</Rotulo>
+            
+            <Caput xlink:href="art33-10_cpt" id="art1_cpt_alt1_art33-10_cpt">
+            
+            
+            
+            <p>Com o falecimento do credor hipotecário reverso, resolve-se, com a quitação da dívida, nos termos deste artigo, a propriedade hipotecária reversa do imóvel o domínio útil se consolida, em nome do devedor hipotecário reverso.</p>
+            
+          </Caput><Paragrafo xlink:href="art33-10_par1" id="art1_cpt_alt1_art33-10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No prazo de trinta dias, a contar da data de falecimento do credor hipotecário reverso, o devedor hipotecário reverso fornecerá o respectivo termo de resolução do contrato ao inventariante ou herdeiros do credor hipotecário reverso falecido, sob pena de multa em favor do espólio, equivalente a meio por cento ao mês, ou fração, calculado sobre o valor do principal da dívida.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-10_par2" id="art1_cpt_alt1_art33-10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O inventariante e os herdeiros do credor hipotecário reverso falecido terão prazo de trinta dias para retirar os bens que guarnecem o imóvel e para levantar as benfeitorias voluptuárias.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-10_par3" id="art1_cpt_alt1_art33-10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>À vista do termo de resolução do contrato de que trata o § 1º deste artigo e da certidão de óbito do credor hipotecário reverso, o oficial do competente Cartório de Registro de Imóveis efetuará o registro do bem imóvel em nome do devedor hipotecário reverso.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33-11" id="art1_cpt_alt1_art33-11">
+            
+            
+            <Rotulo>Art. 33-K.</Rotulo>
+            
+            <Caput xlink:href="art33-11_cpt" id="art1_cpt_alt1_art33-11_cpt">
+            
+            
+            
+            <p>Vencida e não paga, no todo ou em parte, a dívida e constituído em mora o devedor da hipoteca reversa, consolidar-se-á, nos termos deste artigo, a propriedade do imóvel em nome do credor hipotecário reverso.</p>
+            
+          </Caput><Paragrafo xlink:href="art33-11_par1" id="art1_cpt_alt1_art33-11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para os fins do disposto neste artigo, o devedor hipotecário reverso, ou seu representante legal ou procurador regularmente constituído, será intimado, a requerimento do credor hipotecário reverso, pelo oficial do competente Cartório de Registro de Imóveis, a satisfazer, no prazo de quinze dias, a prestação vencida e as que se vencerem até a data do pagamento, os juros convencionais, as penalidades e os demais encargos contratuais, os encargos legais, inclusive tributos, além das despesas de cobrança e de intimação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-11_par2" id="art1_cpt_alt1_art33-11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O contrato definirá o prazo de carência após o qual será expedida a intimação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-11_par3" id="art1_cpt_alt1_art33-11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A intimação far-se-á pessoalmente ao devedor hipotecário reverso, ou ao seu representante legal ou ao procurador regularmente constituído, podendo ser promovida, por solicitação do oficial do Cartório de Registro de Imóveis, por oficial do Cartório de Registro de Títulos e Documentos da comarca da situação do imóvel ou do domicílio de quem deva recebê-la, ou pelo correio, com aviso de recebimento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-11_par4" id="art1_cpt_alt1_art33-11_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Quando o devedor hipotecário reverso, ou seu cessionário, ou seu representante legal ou procurador encontrar-se em local ignorado, incerto ou inacessível, o fato será certificado pelo serventuário encarregado da diligência e informado ao oficial do Cartório de Registro de Imóveis, que, à vista da certidão, promoverá a intimação por edital publicado durante 3 (três) dias, pelo menos, em um dos jornais de maior circulação local ou noutro de comarca de fácil acesso, se no local não houver imprensa diária, contado o prazo para purgação da mora da data da última publicação do edital.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-11_par5" id="art1_cpt_alt1_art33-11_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Purgada a mora no Cartório de Registro de Imóveis, convalescerá o contrato de hipoteca reversa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-11_par6" id="art1_cpt_alt1_art33-11_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O oficial do Cartório de Registro de Imóveis, nos três dias seguintes à purgação da mora, entregará ao credor hipotecário reverso as importâncias recebidas, deduzidas as despesas de cobrança e de intimação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-11_par7" id="art1_cpt_alt1_art33-11_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Decorrido o prazo de que trata o § 1o deste artigo sem a purgação da mora, o oficial do competente Cartório de Registro de Imóveis, certificando esse fato, promoverá a averbação, na matrícula do imóvel, da consolidação da propriedade em nome do credor hipotecário reverso, à vista da prova do pagamento por este, do imposto de transmissão inter vivos e, se for o caso, do laudêmio.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art33-11_par8" id="art1_cpt_alt1_art33-11_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O devedor hipotecário reverso pode, com a anuência do credor hipotecário reverso, dar seu direito eventual ao imóvel em pagamento da dívida, dispensados os procedimentos previstos no art. 33-L.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33-12" id="art1_cpt_alt1_art33-12">
+            
+            
+            <Rotulo>Art. 33-L.</Rotulo>
+            
+            <Caput xlink:href="art33-12_cpt" id="art1_cpt_alt1_art33-12_cpt">
+            
+            
+            
+            <p>O imóvel dado como garantia ao contrato de hipoteca reversa não poderá ser objeto de locação ou sublocação pelo credor hipotecário reverso.</p>
+            
+          </Caput><Paragrafo xlink:href="art33-12_par1u" id="art1_cpt_alt1_art33-12_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Se o imóvel estiver locado, a locação poderá ser denunciada com o prazo de trinta dias para desocupação, salvo se tiver havido aquiescência por escrito do devedor hipotecário reverso, devendo a denúncia ser realizada no prazo de noventa dias a contar da data da consolidação da propriedade no nome do devedor hipotecário reverso, devendo essa condição constar expressamente em cláusula contratual específica, destacando-se das demais por sua apresentação gráfica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art33-13" id="art1_cpt_alt1_art33-13">
+            
+            
+            <Rotulo>Art. 33-M.</Rotulo>
+            
+            <Caput xlink:href="art33-13_cpt" id="art1_cpt_alt1_art33-13_cpt">
+            
+            
+            
+            <p>Responde o credor hipotecário reverso pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse direta fica mantida em benefício do credor hipotecário reverso, nos termos deste artigo, até a data em que o devedor hipotecário reverso vier a ser imitido na posse.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art33-14" id="art1_cpt_alt1_art33-14">
+            
+            
+            <Rotulo>Art. 33-N.</Rotulo>
+            
+            <Caput xlink:href="art33-14_cpt" id="art1_cpt_alt1_art33-14_cpt">
+            
+            
+            
+            <p>A cessão do crédito objeto da hipoteca reversa implicará a transferência, ao cessionário, de todos os direitos e obrigações inerentes à propriedade dada em garantia de hipoteca reversa.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art33-15" id="art1_cpt_alt1_art33-15">
+            
+            
+            <Rotulo>Art. 33-O.</Rotulo>
+            
+            <Caput xlink:href="art33-15_cpt" id="art1_cpt_alt1_art33-15_cpt">
+            
+            
+            
+            <p>O devedor hipotecário reverso, com anuência expressa do credor hipotecário reverso, poderá transmitir os direitos de que seja titular sobre o imóvel objeto da hipoteca reversa, assumindo o adquirente as respectivas obrigações.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art33-16" id="art1_cpt_alt1_art33-16">
+            
+            
+            <Rotulo>Art. 33-P.</Rotulo>
+            
+            <Caput xlink:href="art33-16_cpt" id="art1_cpt_alt1_art33-16_cpt">
+            
+            
+            
+            <p>É assegurado ao devedor hipotecário reverso, seu cessionário ou sucessores, inclusive o adquirente do imóvel por força do público leilão de que trata o art. 33-L, a reintegração na posse do imóvel, que será concedida liminarmente, para desocupação em trinta dias, desde que comprovada, na forma do disposto no art. 33-J, a consolidação da propriedade em seu nome.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art33-17" id="art1_cpt_alt1_art33-17">
+            
+            
+            <Rotulo>Art. 33-Q.</Rotulo>
+            
+            <Caput xlink:href="art33-17_cpt" id="art1_cpt_alt1_art33-17_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Na hipótese de insolvência do devedor hipotecário reverso, fica assegurada ao credor hipotecário reverso a restituição do imóvel hipotecado, na forma da legislação pertinente.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

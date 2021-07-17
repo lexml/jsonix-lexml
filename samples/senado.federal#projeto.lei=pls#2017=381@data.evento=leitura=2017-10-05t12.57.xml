@@ -1,0 +1,115 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;381@data.evento;leitura;2017-10-05t12.57"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 381 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a regularização ambiental de imóveis com área de até 1 (um) módulo fiscal e para lotes de assentamentos da reforma agrária.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2012-05-25;12651-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2012-05-25;12651">Lei nº 12.651, de 25 de maio de 2012</span>, passa a vigorar acrescida dos seguintes dispositivos:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2012-05-25;12651" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2012-05-25;12651 -> MatchByBase(urn:lex:br:federal:lei:2012-05-25;12651,2012,Some((5,25)),Map(art67-3_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-3_cpt), art67-1_par1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-1_par1), art67-3 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-3), art67-1_par4 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-1_par4), art67-1_par2 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-1_par2), art67-1_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-1_cpt), art66-1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art66-1), art67-1 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-1), art67-1_par3 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-1_par3), art67-2_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-2_cpt), art66-1_cpt -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art66-1_cpt), art67-2 -> PrefixMatch(URN(2012,Some((5,25)),,urn:lex:br:federal:lei:2012-05-25;12651),art67-2)))))-->
+              <Artigo xlink:href="art66-1" id="art1_cpt_alt1_art66-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 66-A.</Rotulo>
+            
+            <Caput xlink:href="art66-1_cpt" id="art1_cpt_alt1_art66-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>A regularização ambiental de lotes situados em assentamentos rurais e áreas de até 1 (um) módulo fiscal poderá ser realizada mediante compensação ambiental, relativamente a passivos ambientais apurados entre 22 de julho de 2008 e o início de vigência desta Lei, ou entre 22 de dezembro de 2014 e 22 de dezembro de 2016.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art67-1" id="art1_cpt_alt1_art67-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 67-A.</Rotulo>
+            
+            <Caput xlink:href="art67-1_cpt" id="art1_cpt_alt1_art67-1_cpt">
+            
+            
+            
+            <p>Em assentamentos rurais da reforma agrária, os imóveis rurais que detinham, em 25 de maio de 2012, área de até 1 (um) módulo fiscal e que possuam remanescente de vegetação nativa em percentuais inferiores ao previsto no art. 12, a Reserva Legal será constituída com a área ocupada com a vegetação nativa existente em 25 de maio de 2012, vedadas novas conversões para uso alternativo do solo.</p>
+            
+          </Caput><Paragrafo xlink:href="art67-1_par1" id="art1_cpt_alt1_art67-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O percentual de reserva legal para áreas de assentamentos rurais será definido pela data da implantação e fracionamento do assentamento, observando-se para tanto a legislação vigente à época, nos termos do art. 12, § 1º, desta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par2" id="art1_cpt_alt1_art67-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Salvo se constituída reserva legal coletiva para o assentamento, a regularização ambiental será realizada de forma individualizada para cada lote que compõe o assentamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par3" id="art1_cpt_alt1_art67-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Ficam automaticamente suspensas todas as autuações e embargos ambientais aplicados em assentamentos rurais envolvendo infrações cometidas antes da data referida no caput, considerando a inexistência de passivo ambiental.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par4" id="art1_cpt_alt1_art67-1_par4" fechaAspas="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para assentamentos rurais consolidados que foram implantados antes de 22 de julho de 2008, dispensa-se a regularização da licença de instalação, devendo ser realizada a regularização ambiental da propriedade e da atividade desenvolvida em cada lote individualmente considerado, se for o caso.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art67-2" id="art1_cpt_alt1_art67-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 67-B.</Rotulo>
+            
+            <Caput xlink:href="art67-2_cpt" id="art1_cpt_alt1_art67-2_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:2006;11326-->
+            
+            
+            <p>Para imóveis rurais e lotes da reforma agrária com área de até 1 (um) módulo fiscal, ocupados por agricultor familiar, na forma da <span xlink:href="urn:lex:br:federal:lei:2006;11326">Lei nº 11.326, de 2006</span>, que não seja titular de outro imóvel rural, fica dispensada a recomposição da reserva legal consolidada até a data da edição da presente Lei, devendo ser preservada ou reconstituída a APP.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art67-3" id="art1_cpt_alt1_art67-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 67-C.</Rotulo>
+            
+            <Caput xlink:href="art67-3_cpt" id="art1_cpt_alt1_art67-3_cpt" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:2006;11326-->
+            
+            
+            <p>Fica dispensada a manutenção da reserva legal para lotes da reforma agrária, ocupados por agricultor familiar, na forma da <span xlink:href="urn:lex:br:federal:lei:2006;11326">Lei nº 11.326, de 2006</span>, que não seja titular de outro imóvel rural, relativamente a assentamentos rurais criados antes da edição da presente Lei, devendo ser preservada ou reconstituída a APP.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

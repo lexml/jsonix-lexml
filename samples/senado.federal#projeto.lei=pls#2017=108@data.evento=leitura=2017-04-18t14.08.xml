@@ -1,0 +1,202 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;108@data.evento;leitura;2017-04-18t14.08"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 108 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096">Lei nº 9.096, de 19 de setembro de 1995</span> (Lei dos Partidos Políticos), e a <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Lei nº 9.504, de 30 de setembro de 1997</span> (Lei da Eleições), para extinguir a propaganda partidária gratuita o horário eleitoral gratuito no rádio e na televisão.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-09-19;9096-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096">Lei nº 9.096, de 19 de setembro de 1995</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-09-19;9096" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-09-19;9096 -> MatchByBase(urn:lex:br:federal:lei:1995-09-19;9096,1995,Some((9,19)),Map(art29_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art29_cpt), art7 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art7), art33 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art33), art29 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art29), art29_par7 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art29_par7), art7_par2 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art7_par2), art33_cpt_inc3 -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art33_cpt_inc3), art33_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art33_cpt), art7_cpt -> PrefixMatch(URN(1995,Some((9,19)),,urn:lex:br:federal:lei:1995-09-19;9096),art7_cpt)))))-->
+              <Artigo xlink:href="art7" id="art1_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art1_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art7_omi1"/><Paragrafo xlink:href="art7_par2" id="art1_cpt_alt1_art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Só o partido que tenha registrado seu estatuto no Tribunal Superior Eleitoral pode participar do processo eleitoral e receber recursos do Fundo Partidário, nos termos fixados nesta Lei.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art7_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art29" id="art1_cpt_alt1_art29" abreAspas="s">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput xlink:href="art29_cpt" id="art1_cpt_alt1_art29_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art29_omi1"/><Paragrafo xlink:href="art29_par7" id="art1_cpt_alt1_art29_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Havendo fusão ou incorporação, devem ser somados exclusivamente os votos dos partidos fundidos ou incorporados obtidos na última eleição geral para a Câmara dos Deputados, para efeito da distribuição dos recursos do Fundo Partidário.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art29_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art33" id="art1_cpt_alt1_art33" abreAspas="s">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput xlink:href="art33_cpt" id="art1_cpt_alt1_art33_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art33_cpt_omi1"/><Inciso xlink:href="art33_cpt_inc3" id="art1_cpt_alt1_art33_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>despesas de caráter eleitoral, com a especificação e comprovação dos gastos com comitês, propaganda, publicações, comícios, e demais atividades de campanha;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art33_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-30;9504-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Lei nº 9.504, de 30 de setembro de 1997</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-30;9504" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-30;9504 -> MatchByBase(urn:lex:br:federal:lei:1997-09-30;9504,1997,Some((9,30)),Map(art45 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art45), art41 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art41), art26_cpt_inc10 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_cpt_inc10), art41_par2 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art41_par2), art16-1_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-1_cpt), art16-1 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art16-1), art45_par6 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art45_par6), art45_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art45_cpt), art26 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26), art46_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art46_cpt), art26_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art26_cpt), art46 -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art46), art41_cpt -> PrefixMatch(URN(1997,Some((9,30)),,urn:lex:br:federal:lei:1997-09-30;9504),art41_cpt)))))-->
+              <Artigo xlink:href="art16-1" id="art2_cpt_alt1_art16-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16-A.</Rotulo>
+            
+            <Caput xlink:href="art16-1_cpt" id="art2_cpt_alt1_art16-1_cpt">
+            
+            
+            
+            <p>O candidato cujo registro esteja sub judice poderá efetuar todos os atos relativos à campanha eleitoral, inclusive ter seu nome mantido na urna eletrônica enquanto estiver sob essa condição, ficando a validade dos votos a ele atribuídos condicionada ao deferimento de seu registro por instância superior.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art16-1_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art26" id="art2_cpt_alt1_art26" abreAspas="s">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput xlink:href="art26_cpt" id="art2_cpt_alt1_art26_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art26_cpt_omi1"/><Inciso xlink:href="art26_cpt_inc10" id="art2_cpt_alt1_art26_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>produção de programas de vídeo;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art26_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art41" id="art2_cpt_alt1_art41" abreAspas="s">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput xlink:href="art41_cpt" id="art2_cpt_alt1_art41_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art41_omi1"/><Paragrafo xlink:href="art41_par2" id="art2_cpt_alt1_art41_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O poder de polícia se restringe às providências necessárias para inibir práticas ilegais, vedada a censura prévia sobre o teor dos programas a serem exibidos na internet.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art45" id="art2_cpt_alt1_art45" abreAspas="s">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput xlink:href="art45_cpt" id="art2_cpt_alt1_art45_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art45_omi1"/><Paragrafo xlink:href="art45_par6" id="art2_cpt_alt1_art45_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>É permitido ao partido político utilizar na propaganda eleitoral de seus candidatos em âmbito regional, a imagem e a voz de candidato ou militante de partido político que integre a sua coligação em âmbito nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art46" id="art2_cpt_alt1_art46" abreAspas="s">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput xlink:href="art46_cpt" id="art2_cpt_alt1_art46_cpt">
+            
+            
+            
+            <p>É facultada a transmissão, por emissora de rádio ou televisão, de debates sobre as eleições majoritária ou proporcional, sendo assegurada a participação de candidatos dos partidos com representação na Câmara dos Deputados, e facultada a dos demais, observado o seguinte:</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art46_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-09-19;9096!art52_par1--><!--Link: urn:lex:br:federal:lei:1997-09-30;9504!art58_par3_inc3-->
+            
+            
+            <p>Revogam-se os arts. 45 a 49 e o <span xlink:href="urn:lex:br:federal:lei:1995-09-19;9096!art52_par1">parágrafo único do art. 52 da Lei nº 9.096, de 19 de setembro de 1995</span> e os arts. 44, 47 a 55, 99 e o <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504!art58_par3_inc3">inciso III do § 3º do art. 58 da Lei nº 9.504, de 30 de setembro de 1997</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

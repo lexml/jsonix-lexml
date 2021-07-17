@@ -1,0 +1,124 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;77@data.evento;leitura;2017-03-29t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 77 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656">Leis nº 9.656, de 3 de junho de 1998</span> (Lei dos Planos de Saúde), e nº 9.961, de 28 de janeiro de 2000 (Lei de Criação da Agência Nacional de Saúde Suplementar – ANS), para dispor sobre a ampliação da cobertura assistencial ao recém-nascido.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-06-03;9656!art12-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656!art12">art. 12 da Lei nº 9.656, de 3 de junho de 1998</span>, passa a vigorar acrescido dos seguintes incisos VIII e IX e parágrafos 6º e 7º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-06-03;9656" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-06-03;9656 -> MatchByBase(urn:lex:br:federal:lei:1998-06-03;9656,1998,Some((6,3)),Map(art12_par7 -> PrefixMatch(URN(1998,Some((6,3)),art12,urn:lex:br:federal:lei:1998-06-03;9656!art12),art12_par7), art12_cpt_inc9 -> PrefixMatch(URN(1998,Some((6,3)),art12,urn:lex:br:federal:lei:1998-06-03;9656!art12),art12_cpt_inc9), art12_par6 -> PrefixMatch(URN(1998,Some((6,3)),art12,urn:lex:br:federal:lei:1998-06-03;9656!art12),art12_par6), art12_cpt -> PrefixMatch(URN(1998,Some((6,3)),art12,urn:lex:br:federal:lei:1998-06-03;9656!art12),art12_cpt), art12 -> ExactMatch(URN(1998,Some((6,3)),art12,urn:lex:br:federal:lei:1998-06-03;9656!art12)), art12_cpt_inc8 -> PrefixMatch(URN(1998,Some((6,3)),art12,urn:lex:br:federal:lei:1998-06-03;9656!art12),art12_cpt_inc8)))))-->
+              <Artigo xlink:href="art12" id="art1_cpt_alt1_art12" abreAspas="s">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput xlink:href="art12_cpt" id="art1_cpt_alt1_art12_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art12_cpt_omi1"/><Inciso xlink:href="art12_cpt_inc8" id="art1_cpt_alt1_art12_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>cobertura assistencial ao recém-nascido, filho natural ou adotivo do consumidor, ou de seu dependente, durante os primeiros noventa dias após o parto;</p>
+            
+          </Inciso><Inciso xlink:href="art12_cpt_inc9" id="art1_cpt_alt1_art12_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>inscrição assegurada ao recém-nascido, filho natural ou adotivo do consumidor, como dependente, isento do cumprimento dos períodos de carência, desde que a inscrição ocorra no prazo máximo de noventa dias do nascimento ou da adoção.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art12_omi1"/><Paragrafo xlink:href="art12_par6" id="art1_cpt_alt1_art12_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O disposto nos incisos VIII e IX deste artigo aplica-se nas hipóteses de o consumidor, ou seu dependente, no caso do inciso VIII deste artigo, ser pai ou mãe, ou responsável legal, e independe do tipo de segmentação contratada.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art12_par7" id="art1_cpt_alt1_art12_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A cobertura assistencial a ser prestada ao recém-nascido nos termos dos incisos VIII e IX deste artigo independe do cumprimento de quaisquer prazos de carência, ainda que o consumidor, ou seu dependente, no caso do inciso VIII deste artigo, não tenham cumprido os períodos de carência para consultas, internações, procedimentos e exames.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2000-01-28;9961!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2000-01-28;9961!art4">art. 4º da Lei nº 9.961, de 28 de janeiro de 2000</span>, passa a vigorar acrescido do seguinte parágrafo 4º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2000-01-28;9961" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2000-01-28;9961 -> MatchByBase(urn:lex:br:federal:lei:2000-01-28;9961,2000,Some((1,28)),Map(art4 -> ExactMatch(URN(2000,Some((1,28)),art4,urn:lex:br:federal:lei:2000-01-28;9961!art4)), art4_cpt -> PrefixMatch(URN(2000,Some((1,28)),art4,urn:lex:br:federal:lei:2000-01-28;9961!art4),art4_cpt), art4_par4 -> PrefixMatch(URN(2000,Some((1,28)),art4,urn:lex:br:federal:lei:2000-01-28;9961!art4),art4_par4)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par4" id="art2_cpt_alt1_art4_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na elaboração do rol a que se refere o inciso III deste artigo, deverá participar, obrigatoriamente, profissional médico com título de especialista em pediatria e certificado de área de atuação em neonatologia, devidamente registrado em Conselho Regional de Medicina, respeitada a condição de que não haja conflito de interesses que possa comprometer o exercício da função.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-06-03;9656!art12_cpt_inc3-->
+            
+            
+            <p>Fica revogado o <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656!art12_cpt_inc3">inciso III do art. 12 da Lei nº 9.656, de 3 de junho de 1998</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

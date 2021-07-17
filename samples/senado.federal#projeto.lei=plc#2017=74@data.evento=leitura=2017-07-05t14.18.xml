@@ -1,0 +1,124 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;74@data.evento;leitura;2017-07-05t14.18"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 74 DE 2017</Epigrafe>
+      <Ementa id="ementa">Disciplina o trânsito por bens de propriedade privada para o acesso a sítios naturais públicos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei disciplina o trânsito por bens de propriedade privada para o acesso a sítios naturais públicos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>É assegurado a todos o livre trânsito, em bens de propriedade privada, por caminhos, trilhas, travessias e escaladas que conduzam a montanhas, paredes rochosas, praias, rios, cachoeiras, cavernas e outros sítios naturais públicos de grande beleza cênica ou interesse para a visitação pública.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O disposto no caput deste artigo aplica-se a caminhos, trilhas, travessias e escaladas já existentes tradicionalmente utilizados por montanhistas e demais praticantes de esportes ao ar livre, bem como àqueles constituídos para possibilitar o acesso a sítios ainda não explorados.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A delimitação de caminhos, trilhas, travessias e escaladas necessários para o acesso a sítios ainda não explorados pode ser estabelecida pelos proprietários privados de acordo com boas práticas que garantam mínimo impacto, assegurada a participação da sociedade civil, em especial de representantes de associações de praticantes de esportes ao ar livre interessadas, ressalvada a competência de órgãos ambientais.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O direito ao livre trânsito de que trata o caput deste artigo não constitui empecilho a eventual exigência de prévio pagamento de módica e determinada quantia em dinheiro para uso dos bens, que seja justificada por obras e serviços de conservação e manutenção de caminhos, trilhas, travessias e escaladas necessários para o acesso a sítios naturais públicos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>As pessoas que transitarem pelos caminhos, trilhas, travessias e escaladas de que trata esta Lei devem zelar pela conservação dos ecossistemas locais, mediante a adoção de práticas de mínimo impacto, bem como respeitar os limites e regras estabelecidos pelos proprietários privados e órgãos ambientais competentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O trânsito por bens de propriedade privada para acesso a sítios naturais públicos de que trata esta Lei pode ser feito sem o acompanhamento ou a contratação de guia turístico local, desde que o interessado cumulativamente:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>manifeste expressamente esta vontade;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>declare ter a necessária capacidade técnica para realizar o acesso pretendido de acordo com o respectivo nível conhecido de risco ou dificuldade e dispor dos equipamentos e sistema de apoio logístico para tanto apropriados;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>respeite o plano de manejo e conservação dos bens e, se existentes, outras normas regulamentares pertinentes;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>assine o termo de reconhecimento de riscos, com declaração de plena ciência dos possíveis riscos envolvidos.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os proprietários privados podem condicionar o trânsito de que trata esta Lei à contratação pelo interessado de seguro de danos pessoais ou para assegurar o respectivo resgate em caso de sinistro.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

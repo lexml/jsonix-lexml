@@ -1,0 +1,151 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;161"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 161 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-08-06;9478">Lei nº 9.478, de 6 de agosto de 1997</span>, que dispõe sobre a política energética nacional e as atividades relativas ao monopólio do petróleo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-08-06;9478-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1997-08-06;9478">Lei nº 9.478, de 6 de agosto de 1997</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-08-06;9478" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-08-06;9478 -> MatchByBase(urn:lex:br:federal:lei:1997-08-06;9478,1997,Some((8,6)),Map(art50_par14 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_par14), art50_par12 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_par12), art47_par10 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_par10), art50_par11 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_par11), art47_par7 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_par7), art50_par10 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_par10), art47_par6 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_par6), art50 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50), art50_par8 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_par8), art47 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47), art47_par5 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_par5), art47_par9 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_par9), art47_cpt -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_cpt), art50_par9 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_par9), art47_par8 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_par8), art50_cpt -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_cpt), art47_par4 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art47_par4), art50_par13 -> PrefixMatch(URN(1997,Some((8,6)),,urn:lex:br:federal:lei:1997-08-06;9478),art50_par13)))))-->
+              <Artigo xlink:href="art47" id="art1_cpt_alt1_art47" abreAspas="s">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput xlink:href="art47_cpt" id="art1_cpt_alt1_art47_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art47_omi1"/><Paragrafo xlink:href="art47_par4" id="art1_cpt_alt1_art47_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os recursos provenientes dos pagamentos dos royalties serão distribuídos, nos termos do disposto nesta Lei, com base nos cálculos de valores devidos a cada beneficiário, fornecidos pela autoridade administrativa competente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par5" id="art1_cpt_alt1_art47_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>No caso dos Estados e dos Municípios, os recursos de que trata o § 4º deste artigo serão creditados em contas bancárias específicas de titularidade deles.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par6" id="art1_cpt_alt1_art47_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Observado o disposto no § 9º deste artigo, na hipótese de o Estado ou o Município ter celebrado operação de cessão ou transferência, parcial ou total, dos seus direitos sobre os royalties ou de antecipação, parcial ou total, das receitas decorrentes dos direitos sobre os royalties, os recursos de que trata o § 4º deste artigo serão creditados pelo seu valor líquido, após as deduções de natureza legal, tributária e/ou contratual anteriormente incidentes, se houver, e desde que tais deduções tenham prioridade de pagamentos, diretamente pela União, em conta bancária específica de titularidade dos investidores, no Brasil ou no exterior, ou de entidade representativa dos interesses dos investidores que tenham contratado com o Estado ou o Município a respectiva operação de cessão ou transferência de direitos sobre os royalties ou de antecipação das receitas decorrentes dos direitos sobre os royalties.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par7" id="art1_cpt_alt1_art47_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Na hipótese prevista no § 6º deste artigo, a União não poderá alterar a conta bancária específica indicada para o pagamento dos direitos e receitas sobre os royalties sem a prévia e expressa autorização do beneficiário da operação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par8" id="art1_cpt_alt1_art47_par8">
+            <!--Link: urn:lex:br:federal:lei.complementar:2017-05-19;159-->
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Eventual adesão do Estado ao Regime de Recuperação Fiscal previsto na <span xlink:href="urn:lex:br:federal:lei.complementar:2017-05-19;159">Lei Complementar nº 159, de 19 de maio de 2017</span>, não poderá afetar a transferência dos direitos e receitas sobre os royalties para a conta bancária específica de titularidade do investidor ou da entidade representativa dos interesses do investidor referida no § 6º deste artigo, até o integral cumprimento da obrigação assumida.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par9" id="art1_cpt_alt1_art47_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Para as operações já contratadas na data da promulgação desta Lei, poderão as partes, de comum acordo, ajustar a transferência do depósito dos recursos de que trata o § 4º deste artigo diretamente para conta bancária específica do investidor ou da entidade representativa dos interesses do investidor para essa finalidade.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par10" id="art1_cpt_alt1_art47_par10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Na hipótese de o Estado ou o Município ter celebrado operação de cessão ou transferência, parcial ou total, dos seus direitos sobre os royalties ou de antecipação, parcial ou total, das receitas decorrentes dos direitos sobre os royalties, os recursos provenientes dessa operação de cessão ou transferência ou de antecipação, parcial ou total, serão, prioritariamente, utilizados para o pagamento de despesa de pessoal, inclusive de benefícios previdenciários.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art50" id="art1_cpt_alt1_art50" abreAspas="s">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput xlink:href="art50_cpt" id="art1_cpt_alt1_art50_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art50_omi1"/><Paragrafo xlink:href="art50_par8" id="art1_cpt_alt1_art50_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Os recursos provenientes dos pagamentos da participação especial serão distribuídos, nos termos do disposto nesta Lei, com base nos cálculos de valores devidos a cada beneficiário, fornecidos pela autoridade administrativa competente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par9" id="art1_cpt_alt1_art50_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>No caso dos Estados e dos Municípios, os recursos de que trata o § 8º deste artigo serão creditados em contas bancárias específicas de titularidade deles.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par10" id="art1_cpt_alt1_art50_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Observado o disposto no § 13 deste artigo, na hipótese de o Estado ou o Município ter celebrado operação de cessão ou transferência, parcial ou total, dos seus direitos sobre a participação especial ou de antecipação, parcial ou total, das receitas decorrentes dos direitos sobre a participação especial, os recursos de que trata o § 8º deste artigo serão creditados pelo seu valor líquido, após as deduções de natureza legal, tributária e/ou contratual anteriormente incidentes, se houver, e desde que tais deduções tenham prioridade de pagamentos, diretamente pela União, em conta bancária específica de titularidade dos investidores, no Brasil ou no exterior, ou de entidade representativa dos interesses dos investidores que tenham contratado com o Estado ou o Município a respectiva operação de cessão ou transferência de direitos sobre a participação especial ou de antecipação das receitas decorrentes dos direitos sobre a participação especial.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par11" id="art1_cpt_alt1_art50_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>Na hipótese prevista no § 10 deste artigo, a União não poderá alterar a conta bancária específica indicada para o pagamento dos direitos e receitas sobre a participação especial sem a prévia e expressa autorização do beneficiário da operação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par12" id="art1_cpt_alt1_art50_par12">
+            <!--Link: urn:lex:br:federal:lei.complementar:2017-05-19;159-->
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Eventual adesão do Estado ao Regime de Recuperação Fiscal previsto na <span xlink:href="urn:lex:br:federal:lei.complementar:2017-05-19;159">Lei Complementar nº 159, de 19 de maio de 2017</span>, não poderá afetar a transferência dos direitos e receitas sobre a participação especial para a conta bancária específica de titularidade do investidor ou da entidade representativa dos interesses do investidor referida no § 10 deste artigo, até o integral cumprimento da obrigação assumida.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par13" id="art1_cpt_alt1_art50_par13">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>Para as operações já contratadas na data da promulgação desta Lei, poderão as partes, de comum acordo, ajustar a transferência do depósito dos recursos de que trata o § 8º deste artigo diretamente para conta bancária específica do investidor ou da entidade representativa dos interesses do investidor para essa finalidade.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par14" id="art1_cpt_alt1_art50_par14" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 14.</Rotulo>
+            <p>Na hipótese de o Estado ou o Município ter celebrado operação de cessão ou transferência, parcial ou total, dos seus direitos sobre a participação especial ou de antecipação, parcial ou total, das receitas decorrentes dos direitos sobre a participação especial, os recursos provenientes dessa operação de cessão ou transferência ou de antecipação, parcial ou total, serão, prioritariamente, utilizados para o pagamento de despesa de pessoal, inclusive benefícios previdenciários.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

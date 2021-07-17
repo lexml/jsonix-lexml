@@ -1,0 +1,139 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;26@data.evento;leitura;2017-02-15t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 26 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta os §§ 3º e 4º ao art. 895 e os §§ 9º e 10 ao <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897">art. 897, ambos da Consolidação das Leis do Trabalho</span> – <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, para determinar o não cabimento de recurso ordinário e de agravo de petição em desfavor de decisão em consonância com súmula do Tribunal Superior do Trabalho (TST) e do Supremo Tribunal Federal (STF); com súmula Vinculante do STF; com decisão proferida pelo STF em sede de repercussão geral e com decisão proferida pelo TST e pelo STF em sede de recurso repetitivo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895">arts. 895</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897">897, ambos da Consolidação das Leis do Trabalho</span> – <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>, aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passam a vigorar acrescidos dos §§ 3º e 4º e dos §§ 9º e 10, respectivamente:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art895_par3_inc1 -> PrefixMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895),art895_par3_inc1), art897_par9_inc3 -> PrefixMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897),art897_par9_inc3), art895_par4 -> PrefixMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895),art895_par4), art897_cpt -> PrefixMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897),art897_cpt), art897 -> ExactMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897)), art895_cpt -> PrefixMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895),art895_cpt), art895_par3 -> PrefixMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895),art895_par3), art895_par3_inc4 -> PrefixMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895),art895_par3_inc4), art895_par3_inc3 -> PrefixMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895),art895_par3_inc3), art897_par9 -> PrefixMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897),art897_par9), art897_par9_inc1 -> PrefixMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897),art897_par9_inc1), art895_par3_inc2 -> PrefixMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895),art895_par3_inc2), art897_par10 -> PrefixMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897),art897_par10), art897_par9_inc4 -> PrefixMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897),art897_par9_inc4), art897_par9_inc2 -> PrefixMatch(URN(1943,Some((5,1)),art897,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art897),art897_par9_inc2), art895 -> ExactMatch(URN(1943,Some((5,1)),art895,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art895))))))-->
+              <Artigo xlink:href="art895" id="art1_cpt_alt1_art895" abreAspas="s">
+            
+            
+            <Rotulo>Art. 895.</Rotulo>
+            
+            <Caput xlink:href="art895_cpt" id="art1_cpt_alt1_art895_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art895_omi1"/><Paragrafo xlink:href="art895_par3" id="art1_cpt_alt1_art895_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É incabível o recurso ordinário para impugnar decisão proferida em conformidade com:</p>
+            <Inciso xlink:href="art895_par3_inc1" id="art1_cpt_alt1_art895_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>súmula do Tribunal Superior do Trabalho ou do Supremo Tribunal Federal;</p>
+            
+          </Inciso><Inciso xlink:href="art895_par3_inc2" id="art1_cpt_alt1_art895_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>súmula vinculante do Supremo Tribunal Federal;</p>
+            
+          </Inciso><Inciso xlink:href="art895_par3_inc3" id="art1_cpt_alt1_art895_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>decisão proferida pelo Supremo Tribunal Federal em sede de repercussão geral;</p>
+            
+          </Inciso><Inciso xlink:href="art895_par3_inc4" id="art1_cpt_alt1_art895_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>decisão proferida pelo Tribunal Superior do Trabalho e pelo Supremo Tribunal Federal em sede de recurso repetitivo.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art895_par4" id="art1_cpt_alt1_art895_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A interposição do recurso ordinário nas hipóteses previstas no § 3º deste artigo enseja a imposição de multa de 10% (dez por cento) sobre o valor atualizado da causa ou da condenação, o que for maior, revertida a favor do recorrido.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art897" id="art1_cpt_alt1_art897" abreAspas="s">
+            
+            
+            <Rotulo>Art. 897.</Rotulo>
+            
+            <Caput xlink:href="art897_cpt" id="art1_cpt_alt1_art897_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art897_omi1"/><Paragrafo xlink:href="art897_par9" id="art1_cpt_alt1_art897_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>É incabível o agravo de petição para impugnar decisão proferida em conformidade com:</p>
+            <Inciso xlink:href="art897_par9_inc1" id="art1_cpt_alt1_art897_par9_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>súmula do Tribunal Superior do Trabalho ou do Supremo Tribunal Federal;</p>
+            
+          </Inciso><Inciso xlink:href="art897_par9_inc2" id="art1_cpt_alt1_art897_par9_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>súmula vinculante do Supremo Tribunal Federal;</p>
+            
+          </Inciso><Inciso xlink:href="art897_par9_inc3" id="art1_cpt_alt1_art897_par9_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>decisão proferida pelo Supremo Tribunal Federal em sede de repercussão geral;</p>
+            
+          </Inciso><Inciso xlink:href="art897_par9_inc4" id="art1_cpt_alt1_art897_par9_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>decisão proferida pelo Tribunal Superior do Trabalho e pelo Supremo Tribunal Federal em sede de recurso repetitivo.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art897_par10" id="art1_cpt_alt1_art897_par10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A interposição do agravo de petição nas hipóteses previstas no § 9º deste artigo enseja a imposição de multa de 10% (dez por cento) sobre o valor atualizado da causa ou da condenação, o que for maior, revertida a favor do recorrido.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

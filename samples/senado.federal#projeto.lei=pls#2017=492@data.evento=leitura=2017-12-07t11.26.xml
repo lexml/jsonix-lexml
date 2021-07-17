@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;492@data.evento;leitura;2017-12-07t11.26"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 492 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098">Lei nº 10.098, de 19 de dezembro de 2000</span>, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências, para tornar expressa a inclusão de automóveis e motocicletas entre os tipos de veículos abrangidos pela reserva de vagas de estacionamento para pessoas com deficiência.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art13--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art17--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art21--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art10--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art24--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art18--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art19--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art15--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art11--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art4--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art1--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art9--><!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art26-->
+            
+            
+            <p>Substitua-se, na ementa e nos <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art1">arts. 1º</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art4">4º</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art9">9º</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art10">10</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art11">11</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art13">13</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art15">15</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art17">17</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art18">18</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art19">19</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art21">21</span>, <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art24">24</span> e <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art26">26, da Lei nº 10.098, de 19 de dezembro de 2000</span>, expressão “pessoa portadora de deficiência” por “pessoa com deficiência”, ajustando-se a concordância de número conforme necessário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2000-12-19;10098!art7-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2000-12-19;10098!art7">art. 7º da Lei nº 10.098, de 19 de dezembro de 2000</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2000-12-19;10098" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2000-12-19;10098 -> MatchByBase(urn:lex:br:federal:lei:2000-12-19;10098,2000,Some((12,19)),Map(art7 -> ExactMatch(URN(2000,Some((12,19)),art7,urn:lex:br:federal:lei:2000-12-19;10098!art7)), art7_cpt -> PrefixMatch(URN(2000,Some((12,19)),art7,urn:lex:br:federal:lei:2000-12-19;10098!art7),art7_cpt), art7_par1 -> PrefixMatch(URN(2000,Some((12,19)),art7,urn:lex:br:federal:lei:2000-12-19;10098!art7),art7_par1)))))-->
+              <Artigo xlink:href="art7" id="art2_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art2_cpt_alt1_art7_cpt">
+            
+            
+            
+            <p>Em todas as áreas de estacionamento de veículos, localizadas em vias ou em espaços públicos, deverão ser reservadas vagas próximas dos acessos de circulação de pedestres, devidamente sinalizadas, para veículos que transportem pessoas com deficiência.</p>
+            
+          </Caput><Paragrafo xlink:href="art7_par1u" id="art2_cpt_alt1_art7_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As vagas a que se refere o caput deste artigo deverão ser em número equivalente a dois por cento do total de vagas disponíveis, por tipo de veículo, garantidas, no mínimo, uma vaga reservada para automóveis e uma vaga reservada para motocicletas, devidamente sinalizadas e com as especificações técnicas de desenho e traçado de acordo com as normas técnicas vigentes.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor após decorridos noventa dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

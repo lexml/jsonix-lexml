@@ -1,0 +1,715 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;459@data.evento;leitura;2017-11-23t11.14"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 459 DE 2017</Epigrafe>
+      <Ementa id="ementa">Institui o Sistema Nacional para gestão responsável dos investimentos públicos.</Ementa>
+      <Preambulo id="preambulo"><p>O Congresso Nacional decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio de 2000</span>, passa a vigorar acrescida do seguinte Capítulo IX-A, composto pelos arts. 59-A a 59-H:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2000-05-04;101" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2000-05-04;101 -> MatchByBase(urn:lex:br:federal:lei.complementar:2000-05-04;101,2000,Some((5,4)),Map(art59-3_par1_inc3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc3), art59-6_par1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_par1), art59-2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2), art59-2_par4_inc3_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc3_ali1), art59-3_par1_inc1_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc1_ali1), art59-8_cpt_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-8_cpt_inc1), art59-2_par4_inc2_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc2_ali1), art59-3_par2_inc1_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par2_inc1_ali2), art59-2_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_cpt), art59-3_par1_inc7 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc7), art59-6 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6), art59-1_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt), art59-6_cpt_inc3_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc3_ali2), art59-2_par4_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc2), art59-3_par2_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par2_inc2), art59-3_par5 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par5), art59-3_par1_inc2_ali4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc2_ali4), art59-3_par1_inc4_ali3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4_ali3), art59-3_par6_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par6_inc2), art59-2_par7_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par7_inc1), art59-4_par2_inc3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par2_inc3), art59-3_par1_inc2_ali3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc2_ali3), art59-6_cpt_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc1), art59-3_par1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1), art59-2_par5 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par5), art59-3_par1_inc4_ali2_ite2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4_ali2_ite2), art59-2_par7_inc4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par7_inc4), art59-8_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-8_cpt), art59-3_par1_inc4_ali3_ite1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4_ali3_ite1), art59-7 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-7), art59-4_par3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par3), art59-6_cpt_inc4_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc4_ali2), art59-4_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_cpt), art59-3_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_cpt), art59-2_par4_inc2_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc2_ali2), art59-3_par8 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par8), art59-3_par1_inc8 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc8), art59-1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1), art59-6_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt), art59-3_par1_inc4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4), art59-2_par4_inc3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc3), art59-3_par2_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par2_inc1), art59-1_cpt_inc5 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt_inc5), art59-3_par4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par4), art59-5 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-5), art59-4_par2_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par2_inc1), art59-3_par1_inc1_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc1_ali2), art59-2_par4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4), art59-3_par1_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc1), art59-3_par1_inc4_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4_ali1), art59-2_par4_inc3_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc3_ali2), art59-8 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-8), art59-2_par1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par1), art59-6_cpt_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc2), art59-2_par7_inc3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par7_inc3), art59-3_par7 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par7), art59-5_par2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-5_par2), art59-4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4), art59-5_par1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-5_par1), art59-5_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-5_cpt), art59-2_par4_inc4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc4), art59-1_cpt_inc4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt_inc4), art59-3_par1_inc5 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc5), art59-1_cpt_inc1_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt_inc1_ali2), art59-1_cpt_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt_inc1), cap9-1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),cap9-1), art59-4_par3_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par3_ali1), art59-8_cpt_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-8_cpt_inc2), art59-3_par1_inc1_ali3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc1_ali3), art59-3_par1_inc2_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc2_ali1), art59-2_par4_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par4_inc1), art59-3_par6 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par6), art59-6_cpt_inc3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc3), art59-3_par3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par3), art59-4_par1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par1), art59-2_par3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par3), art59-3_par1_inc4_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4_ali2), art59-3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3), art59-2_par7 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par7), art59-2_par2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par2), art59-3_par2_inc1_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par2_inc1_ali1), art59-3_par1_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc2), art59-1_cpt_inc3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt_inc3), art59-6_cpt_inc4 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc4), art59-1_cpt_inc1_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt_inc1_ali1), art59-2_par7_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par7_inc2), art59-3_par1_inc6 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc6), art59-3_par2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par2), art59-6_cpt_inc3_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc3_ali1), art59-7_cpt -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-7_cpt), art59-3_par1_inc4_ali3_ite2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4_ali3_ite2), art59-1_cpt_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-1_cpt_inc2), art59-3_par6_inc1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par6_inc1), art59-4_par2_inc2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par2_inc2), art59-4_par3_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par3_ali2), art59-4_par2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-4_par2), art59-2_par6 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-2_par6), art59-3_par1_inc2_ali2 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc2_ali2), art59-6_cpt_inc4_ali1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-6_cpt_inc4_ali1), art59-3_par1_inc4_ali2_ite1 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-3_par1_inc4_ali2_ite1), art59-5_par3 -> PrefixMatch(URN(2000,Some((5,4)),,urn:lex:br:federal:lei.complementar:2000-05-04;101),art59-5_par3)))))-->
+              <Capitulo xlink:href="cap9-1" id="art1_cpt_alt1_cap9-1" abreAspas="s">
+            
+            
+            <Rotulo>CAPÍTULO IX-A</Rotulo>
+            <NomeAgrupador>DA GESTÃO RESPONSÁVEL E ARTICULADA DOS INVESTIMENTOS PÚBLICOS</NomeAgrupador>
+            <Omissis id="art1_cpt_alt1_cap9-1_omi1"/><Artigo xlink:href="art59-1" id="art1_cpt_alt1_art59-1">
+            
+            
+            <Rotulo>Art. 59-A.</Rotulo>
+            
+            <Caput xlink:href="art59-1_cpt" id="art1_cpt_alt1_art59-1_cpt">
+            
+            
+            
+            <p>A gestão responsável e articulada dos investimentos públicos da União, dos Estados, do Distrito Federal e dos Municípios observará as seguintes diretrizes:</p>
+            <Omissis id="art1_cpt_alt1_art59-1_cpt_omi1"/><Inciso xlink:href="art59-1_cpt_inc1" id="art1_cpt_alt1_art59-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>adoção de critérios vinculantes para a alocação de recursos em projetos de investimento que:</p>
+            <Omissis id="art1_cpt_alt1_art59-1_cpt_inc1_omi1"/><Alinea xlink:href="art59-1_cpt_inc1_ali1" id="art1_cpt_alt1_art59-1_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>demonstrem maior capacidade de gerar rentabilidade econômica e benefício social; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-1_cpt_inc1_omi2"/><Alinea xlink:href="art59-1_cpt_inc1_ali2" id="art1_cpt_alt1_art59-1_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>atuem no sentido de ampliar o acesso das populações de baixa renda à infraestrutura e aos serviços públicos;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-1_cpt_omi2"/><Inciso xlink:href="art59-1_cpt_inc2" id="art1_cpt_alt1_art59-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>conformidade com as diretrizes e os objetivos fixados no plano plurianual;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-1_cpt_omi3"/><Inciso xlink:href="art59-1_cpt_inc3" id="art1_cpt_alt1_art59-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ampla cooperação federativa no financiamento, na execução e na gestão dos investimentos públicos;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-1_cpt_omi4"/><Inciso xlink:href="art59-1_cpt_inc4" id="art1_cpt_alt1_art59-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>minimização dos impactos ambientais relacionados à implantação e desenvolvimento das ações, obras e serviços requeridos, a serem executados de acordo com as normas relativas à proteção do meio ambiente, ao uso e ocupação do solo e à saúde; e</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-1_cpt_omi5"/><Inciso xlink:href="art59-1_cpt_inc5" id="art1_cpt_alt1_art59-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>incentivo à coparticipação de investidores privados, nos termos da legislação correspondente.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art59-1_omi1"/>
+          </Artigo><Artigo xlink:href="art59-2" id="art1_cpt_alt1_art59-2">
+            
+            
+            <Rotulo>Art. 59-B.</Rotulo>
+            
+            <Caput xlink:href="art59-2_cpt" id="art1_cpt_alt1_art59-2_cpt">
+            
+            
+            
+            <p>O Poder Executivo federal instituirá Sistema Nacional de Investimento Público – SNIP, consubstanciando os sistemas da União, dos Estados, do Distrito Federal e dos Municípios, segundo procedimentos de cooperação que fixar.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art59-2_omi1"/><Paragrafo xlink:href="art59-2_par1" id="art1_cpt_alt1_art59-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O SNIP reunirá as metodologias, normas e procedimentos que orientam a formulação, execução e avaliação das iniciativas de investimentos que demandem recursos públicos.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-2_omi2"/><Paragrafo xlink:href="art59-2_par2" id="art1_cpt_alt1_art59-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O SNIP disporá de normas transparentes e um conjunto de metodologias e requisitos técnicos, bem como uma carteira de iniciativas de investimento, a ser permanentemente atualizada, que individualizará as necessidades e oportunidades de investimentos, com padrões de qualidade em sua formulação, análise e avaliação.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-2_omi3"/><Paragrafo xlink:href="art59-2_par3" id="art1_cpt_alt1_art59-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A gestão da carteira de iniciativas de investimento será apoiada mediante o registro, em Banco de Projetos, daquelas que possuam parecer técnico pela aprovação, nos termos de que dispuser regulamentação infralegal.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-2_omi4"/><Paragrafo xlink:href="art59-2_par4" id="art1_cpt_alt1_art59-2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Banco de Projetos de que trata o § 3º:</p>
+            <Omissis id="art1_cpt_alt1_art59-2_par4_omi1"/><Inciso xlink:href="art59-2_par4_inc1" id="art1_cpt_alt1_art59-2_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>será regionalizado e organizado por setor;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-2_par4_omi2"/><Inciso xlink:href="art59-2_par4_inc2" id="art1_cpt_alt1_art59-2_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>será composto por projetos de obras ou empreendimentos que:</p>
+            <Omissis id="art1_cpt_alt1_art59-2_par4_inc2_omi1"/><Alinea xlink:href="art59-2_par4_inc2_ali1" id="art1_cpt_alt1_art59-2_par4_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>sejam individualmente identificados, inclusive quanto à localidade beneficiada e às coordenadas geográficas de latitude e longitude do local de sua implementação; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-2_par4_inc2_omi2"/><Alinea xlink:href="art59-2_par4_inc2_ali2" id="art1_cpt_alt1_art59-2_par4_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>tenham sido objeto de estudo prévio que demonstre a sua viabilidade econômica, técnica e ambiental e seu retorno social;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-2_par4_omi3"/><Inciso xlink:href="art59-2_par4_inc3" id="art1_cpt_alt1_art59-2_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>será mantido permanentemente atualizado pelo Poder Executivo Federal, e disponibilizado para consulta:</p>
+            <Omissis id="art1_cpt_alt1_art59-2_par4_inc3_omi1"/><Alinea xlink:href="art59-2_par4_inc3_ali1" id="art1_cpt_alt1_art59-2_par4_inc3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>em caráter irrestrito pela comissão do Poder Legislativo encarregada de apreciar os projetos de lei orçamentárias, bem como a qualquer outra comissão do Poder Legislativo e aos órgãos de controle interno e externo no exercício de suas atribuições constitucionais; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-2_par4_inc3_omi2"/><Alinea xlink:href="art59-2_par4_inc3_ali2" id="art1_cpt_alt1_art59-2_par4_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>para consulta irrestrita a qualquer cidadão pela internet, ressalvadas exclusivamente as informações que sejam legitimamente protegidas por sigilo na forma da legislação pertinente;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-2_par4_omi4"/><Inciso xlink:href="art59-2_par4_inc4" id="art1_cpt_alt1_art59-2_par4_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>nas informações relativas às obras de sua responsabilidade, será alimentado pelo Poder Executivo dos Estados, Distrito Federal e Municípios, nos termos definidos para sua participação no SNIP.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-2_omi5"/><Paragrafo xlink:href="art59-2_par5" id="art1_cpt_alt1_art59-2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>É obrigatória a inclusão no Banco de Projetos de que trata o § 3º de qualquer empreendimento a ser executado total ou parcial com recursos federais, sendo responsável pelas informações o órgão ou entidade federal repassador dos recursos, sem prejuízo da possibilidade de colaboração da entidade convenente na alimentação das informações.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-2_omi6"/><Paragrafo xlink:href="art59-2_par6" id="art1_cpt_alt1_art59-2_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A exigência de individualização dos projetos, nos termos do § 4º, não impede a disponibilização, no mesmo ou em outro sistema de informações, de projetos técnicos padronizados de obras, empreendimentos ou seus componentes, para utilização por parte da União e dos entes da Federação quando da elaboração de um projeto específico para a inclusão no Banco de Projetos.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-2_omi7"/><Paragrafo xlink:href="art59-2_par7" id="art1_cpt_alt1_art59-2_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>É facultada e incentivada a ampla cooperação entre a União e os entes da Federação para a utilização do SNIP, incluindo:</p>
+            <Omissis id="art1_cpt_alt1_art59-2_par7_omi1"/><Inciso xlink:href="art59-2_par7_inc1" id="art1_cpt_alt1_art59-2_par7_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a cessão recíproca dos sistemas e das estruturas de tecnologia de informação a eles associadas, o compartilhamento dos meios físicos e a divisão dos custos de sua criação e manutenção, na forma como livremente estabelecerem entre si;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-2_par7_omi2"/><Inciso xlink:href="art59-2_par7_inc2" id="art1_cpt_alt1_art59-2_par7_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>acesso recíproco às informações referentes a gestão, fiscalização e controle das obras e projetos geradas pelas respectivas atividades, inclusive mediante o compartilhamento do acesso a bases de dados, podendo estender-se tal integração aos órgãos administrativos, de controle interno e externo e de fiscalização do exercício profissional;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-2_par7_omi3"/><Inciso xlink:href="art59-2_par7_inc3" id="art1_cpt_alt1_art59-2_par7_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apoio na execução das atividades de projeto, gestão e fiscalização das obras públicas, inclusive mediante delegação recíproca de competências com vistas ao melhor aproveitamento dos efetivos disponíveis, na forma como livremente estabelecerem entre si;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-2_par7_omi4"/><Inciso xlink:href="art59-2_par7_inc4" id="art1_cpt_alt1_art59-2_par7_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>promoção conjunta das atividades de treinamento e de desenvolvimento de materiais, roteiros e procedimentos, inclusive os previstos no art. 38 desta Lei Complementar.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-2_omi8"/>
+          </Artigo><Artigo xlink:href="art59-3" id="art1_cpt_alt1_art59-3">
+            
+            
+            <Rotulo>Art. 59-C.</Rotulo>
+            
+            <Caput xlink:href="art59-3_cpt" id="art1_cpt_alt1_art59-3_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par5-->
+            
+            
+            <p>Cada ente da Federação manterá cadastro informatizado unificado de todas as obras de engenharia e serviços a elas associados custeados com seus recursos orçamentários, aí incluídos todos os orçamentos de que trata o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par5">art. 165, § 5º, da Constituição Federal</span>, inclusive aqueles executados de forma descentralizada por terceiros mediante convênios, contratos de repasse ou instrumentos congêneres.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art59-3_omi1"/><Paragrafo xlink:href="art59-3_par1" id="art1_cpt_alt1_art59-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O cadastro informatizado unificado a que se refere este artigo conterá, no mínimo, as seguintes informações:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par1_omi1"/><Inciso xlink:href="art59-3_par1_inc1" id="art1_cpt_alt1_art59-3_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>identificação da obra ou serviço, composta de:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par1_inc1_omi1"/><Alinea xlink:href="art59-3_par1_inc1_ali1" id="art1_cpt_alt1_art59-3_par1_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>número de identificação no cadastro informatizado de que trata este artigo;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par1_inc1_omi2"/><Alinea xlink:href="art59-3_par1_inc1_ali2" id="art1_cpt_alt1_art59-3_par1_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>número de identificação, no Banco de Projetos de que trata o art. 59-B, do projeto em razão do qual é realizada a obra ou serviço; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par1_inc1_omi3"/><Alinea xlink:href="art59-3_par1_inc1_ali3" id="art1_cpt_alt1_art59-3_par1_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>coordenadas geográficas da obra ou do serviço, nos termos dos §§ 2º e 3º;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par1_omi2"/><Inciso xlink:href="art59-3_par1_inc2" id="art1_cpt_alt1_art59-3_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>características da obra ou do serviço, na forma do regulamento, incluindo:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par1_inc2_omi1"/><Alinea xlink:href="art59-3_par1_inc2_ali1" id="art1_cpt_alt1_art59-3_par1_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>localização precisa da obra ou do serviço, com descrição completa da abrangência geográfica de toda a sua extensão;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par1_inc2_omi2"/><Alinea xlink:href="art59-3_par1_inc2_ali2" id="art1_cpt_alt1_art59-3_par1_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>descrição da obra ou do serviço;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par1_inc2_omi3"/><Alinea xlink:href="art59-3_par1_inc2_ali3" id="art1_cpt_alt1_art59-3_par1_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>dimensões da obra ou do serviço, com as respectivas unidades de medida; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par1_inc2_omi4"/><Alinea xlink:href="art59-3_par1_inc2_ali4" id="art1_cpt_alt1_art59-3_par1_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>natureza, autores e datas dos estudos preliminares de avaliação da viabilidade técnica, socioeconômica e ambiental, do projeto básico e do projeto executivo relativos à obra ou serviço;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par1_omi3"/><Inciso xlink:href="art59-3_par1_inc3" id="art1_cpt_alt1_art59-3_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>valor estimado da obra ou do serviço, apurado com base nos orçamentos constantes do respectivo projeto básico, sempre atualizados em relação aos contratos, convênios, termos aditivos e similares que modificarem tais informações, sempre referidas à data-base original do orçamento, apresentado de forma agregada e distribuído ao longo do cronograma físico-financeiro do projeto nos termos do inciso IV deste parágrafo;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par1_omi4"/><Inciso xlink:href="art59-3_par1_inc4" id="art1_cpt_alt1_art59-3_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>cronograma de execução físico-financeira, incluindo:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par1_inc4_omi1"/><Alinea xlink:href="art59-3_par1_inc4_ali1" id="art1_cpt_alt1_art59-3_par1_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a data contratada de início e de término da execução da obra ou do serviço e das respectivas etapas, atualizadas sempre que ocorrerem modificações contratuais; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par1_inc4_omi2"/><Alinea xlink:href="art59-3_par1_inc4_ali2" id="art1_cpt_alt1_art59-3_par1_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>os percentuais contratados de execução física e financeira globais e discriminados:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par1_inc4_ali2_omi1"/><Item xlink:href="art59-3_par1_inc4_ali2_ite1" id="art1_cpt_alt1_art59-3_par1_inc4_ali2_ite1">
+            
+            
+            <Rotulo>1–</Rotulo>
+            <p>por etapa da obra; e</p>
+            
+          </Item><Omissis id="art1_cpt_alt1_art59-3_par1_inc4_ali2_omi2"/><Item xlink:href="art59-3_par1_inc4_ali2_ite2" id="art1_cpt_alt1_art59-3_par1_inc4_ali2_ite2">
+            
+            
+            <Rotulo>2–</Rotulo>
+            <p>por intervalo de tempo, correspondente ao ano civil ou, a critério do ente, a período menor;</p>
+            
+          </Item>
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par1_inc4_omi3"/><Alinea xlink:href="art59-3_par1_inc4_ali3" id="art1_cpt_alt1_art59-3_par1_inc4_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>os percentuais executados de execução física e financeira globais e discriminados:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par1_inc4_ali3_omi1"/><Item xlink:href="art59-3_par1_inc4_ali3_ite1" id="art1_cpt_alt1_art59-3_par1_inc4_ali3_ite1">
+            
+            
+            <Rotulo>1–</Rotulo>
+            <p>por etapa da obra; e</p>
+            
+          </Item><Omissis id="art1_cpt_alt1_art59-3_par1_inc4_ali3_omi2"/><Item xlink:href="art59-3_par1_inc4_ali3_ite2" id="art1_cpt_alt1_art59-3_par1_inc4_ali3_ite2">
+            
+            
+            <Rotulo>2–</Rotulo>
+            <p>por intervalo de tempo, correspondente ao ano civil ou, a critério do ente, a período menor;</p>
+            
+          </Item>
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par1_omi5"/><Inciso xlink:href="art59-3_par1_inc5" id="art1_cpt_alt1_art59-3_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>programa de trabalho correspondente à alocação orçamentária de recursos alocados nos orçamentos do ente da Federação para custear a obra ou o serviço, a cada exercício;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par1_omi6"/><Inciso xlink:href="art59-3_par1_inc6" id="art1_cpt_alt1_art59-3_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>nome e CNPJ dos agentes contratados para a realização da obra, especificando no caso de consórcios também o nome e o CNPJ das empresas que os compõem;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par1_omi7"/><Inciso xlink:href="art59-3_par1_inc7" id="art1_cpt_alt1_art59-3_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>classificação da situação da obra ou serviço na data da última atualização;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par1_omi8"/><Inciso xlink:href="art59-3_par1_inc8" id="art1_cpt_alt1_art59-3_par1_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>identificação das anotações de responsabilidade técnica de cada projeto, orçamento, execução e fiscalização da obra ou do serviço, contemplando todo o histórico de responsabilidade técnica ao longo do empreendimento;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi2"/><Paragrafo xlink:href="art59-3_par2" id="art1_cpt_alt1_art59-3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O cadastro informatizado de que trata este artigo registrará de maneira individualizada cada obra física custeada pelo ente da Federação, por meio de pelo menos duas chaves de utilização obrigatórias e simultâneas:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par2_omi1"/><Inciso xlink:href="art59-3_par2_inc1" id="art1_cpt_alt1_art59-3_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>código identificador da obra, composto por dois campos numéricos subsequentes:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par2_inc1_omi1"/><Alinea xlink:href="art59-3_par2_inc1_ali1" id="art1_cpt_alt1_art59-3_par2_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>código do imóvel ou instalação onde se realiza a obra; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-3_par2_inc1_omi2"/><Alinea xlink:href="art59-3_par2_inc1_ali2" id="art1_cpt_alt1_art59-3_par2_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>código complementar correspondente a cada intervenção realizada no imóvel ou instalação, tais como: construção, reforma ou ampliação, em numeração sequencial;</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par2_omi2"/><Inciso xlink:href="art59-3_par2_inc2" id="art1_cpt_alt1_art59-3_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as coordenadas geográficas de latitude e longitude do local de realização da obra;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi3"/><Paragrafo xlink:href="art59-3_par3" id="art1_cpt_alt1_art59-3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As coordenadas geográficas de que trata o inciso II do § 2º deverão corresponder a qualquer ponto da localização física da obra, desde que de fácil acesso e que caracterize claramente sua localização; sendo permitida a utilização das mesmas coordenadas geográficas para intervenções realizadas na mesma obra e serviços de engenharia a elas correspondentes, nas condições citadas no inciso I do § 2º.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi4"/><Paragrafo xlink:href="art59-3_par4" id="art1_cpt_alt1_art59-3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As obras que forem concluídas deverão ser mantidas no cadastro para fins de registro permanente e incorporação de eventuais alterações dos dados relativos à construção, sendo facultativa a inserção de obras ou edificações que, à época da implantação do cadastro, já se encontravam concluídas, e sem prejuízo dos registros correspondentes nos sistemas de controle contábil e patrimonial do ente.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi5"/><Paragrafo xlink:href="art59-3_par5" id="art1_cpt_alt1_art59-3_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A atualização de cada um dos elementos de informação do cadastro de que trata este artigo deverá ser feita no prazo máximo de trinta dias contados da ocorrência a que se referir, devendo a atualização dos percentuais de execução ser feita em bases no mínimo mensais;</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi6"/><Paragrafo xlink:href="art59-3_par6" id="art1_cpt_alt1_art59-3_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O regulamento, no âmbito de cada ente, definirá as responsabilidades e os procedimentos para inclusão e atualização dos dados no cadastro de que trata este artigo, acarretando o descumprimento dessa regulamentação:</p>
+            <Omissis id="art1_cpt_alt1_art59-3_par6_omi1"/><Inciso xlink:href="art59-3_par6_inc1" id="art1_cpt_alt1_art59-3_par6_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>para obras diretamente contratadas ou executadas pelo ente a que se refere o Cadastro, as sanções previstas no art. 59-E, § 3º;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-3_par6_omi2"/><Inciso xlink:href="art59-3_par6_inc2" id="art1_cpt_alt1_art59-3_par6_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>para obras executadas de forma descentralizada por terceiros mediante convênios, contratos de repasse ou instrumentos congêneres, cumulativamente à sanção prevista no inciso I, a irregularidade do instrumento de descentralização, até a sua atualização, com as sanções derivadas da respectiva inadimplência, inclusive as previstas no art. 23, § 2º</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi7"/><Paragrafo xlink:href="art59-3_par7" id="art1_cpt_alt1_art59-3_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Aplicam-se integralmente aos cadastros de que trata este artigo as condições de ampla cooperação previstas no §7º do art. 59-B.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi8"/><Paragrafo xlink:href="art59-3_par8" id="art1_cpt_alt1_art59-3_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>No âmbito de cada ente, compete ao Poder Executivo a normatização dos procedimentos e a operação física do cadastro informatizado de que trata este artigo, sendo obrigatória a participação dos demais Poderes, Ministério Público, Tribunal de Contas e Defensoria Pública na disponibilização e atualização das informações em relação às obras e investimentos físicos sob sua responsabilidade.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-3_omi9"/>
+          </Artigo><Artigo xlink:href="art59-4" id="art1_cpt_alt1_art59-4">
+            
+            
+            <Rotulo>Art. 59-D.</Rotulo>
+            
+            <Caput xlink:href="art59-4_cpt" id="art1_cpt_alt1_art59-4_cpt">
+            
+            
+            
+            <p>A alocação de recursos dos entes da Federação em investimentos públicos será realizada em conformidade com as diretrizes e objetivos estabelecidos neste capítulo.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art59-4_omi1"/><Paragrafo xlink:href="art59-4_par1" id="art1_cpt_alt1_art59-4_par1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par5-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Somente poderão ser inseridas na lei orçamentária, aí incluídos todos os orçamentos de que trata o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art165_par5">art. 165, § 5º, da Constituição Federal</span>, dotações para qualquer tipo de investimento público se o respectivo objeto estiver inserido no Banco de Projetos de que trata o art. 59-B, no caso de obras e empreendimentos custeados com recursos federais, e no cadastro de que trata o art. 59-C, em qualquer caso.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-4_omi2"/><Paragrafo xlink:href="art59-4_par2" id="art1_cpt_alt1_art59-4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Aplica-se o disposto no §1º:</p>
+            <Omissis id="art1_cpt_alt1_art59-4_par2_omi1"/><Inciso xlink:href="art59-4_par2_inc1" id="art1_cpt_alt1_art59-4_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aos projetos respectivos encaminhados pelo Poder Executivo;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-4_par2_omi2"/><Inciso xlink:href="art59-4_par2_inc2" id="art1_cpt_alt1_art59-4_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>às emendas parlamentares que visem a incluir novas programações não constantes dos projetos de leis orçamentárias; e</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-4_par2_omi3"/><Inciso xlink:href="art59-4_par2_inc3" id="art1_cpt_alt1_art59-4_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>aos créditos adicionais;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-4_omi3"/><Paragrafo xlink:href="art59-4_par3" id="art1_cpt_alt1_art59-4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No caso das emendas parlamentares, a aplicação do disposto no §2º, inciso II, inclui:</p>
+            <Omissis id="art1_cpt_alt1_art59-4_par3_omi1"/><Alinea xlink:href="art59-4_par3_ali1" id="art1_cpt_alt1_art59-4_par3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a identificação do parlamentar proponente quando da inserção no Banco de Projetos de que trata o art. 59-B;</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-4_par3_omi2"/><Alinea xlink:href="art59-4_par3_ali2" id="art1_cpt_alt1_art59-4_par3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>em caso da não existência prévia do projeto no Banco de Projetos, a prerrogativa de o parlamentar solicitar ao Poder Executivo para que proceda a sua inclusão, observados os prazos e procedimentos definidos em regulamento conjunto do Congresso Nacional e do Poder Executivo federal, bem como a prestação por parte do proponente das informações necessárias ao cumprimento das exigências fixadas no art. 59-B relativas ao projeto a ser incluído.</p>
+            
+          </Alinea>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-4_omi4"/>
+          </Artigo><Artigo xlink:href="art59-5" id="art1_cpt_alt1_art59-5">
+            
+            
+            <Rotulo>Art. 59-E.</Rotulo>
+            
+            <Caput xlink:href="art59-5_cpt" id="art1_cpt_alt1_art59-5_cpt">
+            
+            
+            
+            <p>Não poderão ser celebrados contratos nem emitidos empenhos ou qualquer outro documento que implique compromisso de recursos, no âmbito do respectivo ente da Federação, sem o registro prévio da obra ou serviço no cadastro de que trata o art. 59-C, com todos os elementos nele exigidos, devendo as anotações de responsabilidade técnica ser registradas antes do início de cada etapa da obra ou serviço a que se referirem, obedecidos os prazos de exigibilidade da respectiva legislação profissional.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art59-5_omi1"/><Paragrafo xlink:href="art59-5_par1" id="art1_cpt_alt1_art59-5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os contratos, as notas de empenho e demais documentos relativos à execução orçamentária e financeira das obras e serviços deverão conter o número de identificação de que trata o art. 59-C, § 2º, inciso I.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-5_omi2"/><Paragrafo xlink:href="art59-5_par2" id="art1_cpt_alt1_art59-5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A execução descentralizada de obra ou serviço, mediante transferência de recursos a outro ente da Federação ou entidade privada por meio de convênio, contrato de repasse ou instrumento congênere, não dispensa a obrigatoriedade de inclusão da obra ou serviço no cadastro do ente repassador, transferidor ou concedente, previamente à assinatura do instrumento e à realização de qualquer repasse financeiro.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-5_omi3"/><Paragrafo xlink:href="art59-5_par3" id="art1_cpt_alt1_art59-5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O descumprimento das disposições deste artigo configura conduta não autorizada, irregular e lesiva ao patrimônio público, com grave infração à norma legal e de responsabilidade pessoal do ordenador da despesa, sujeitando-o às sanções previstas em lei.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-5_omi4"/>
+          </Artigo><Artigo xlink:href="art59-6" id="art1_cpt_alt1_art59-6">
+            
+            
+            <Rotulo>Art. 59-F.</Rotulo>
+            
+            <Caput xlink:href="art59-6_cpt" id="art1_cpt_alt1_art59-6_cpt">
+            
+            
+            
+            <p>Quaisquer programações orçamentárias que contemplem a destinação de recursos a obras em ativos públicos que são objeto de concessão, arrendamento ou outro tipo de cessão da exploração a terceiros alheios à Administração Pública, sem prejuízo das demais exigências desta Lei Complementar, têm a sua inclusão na lei orçamentária anual e a sua execução orçamentária, física e financeira condicionada a:</p>
+            <Omissis id="art1_cpt_alt1_art59-6_cpt_omi1"/><Inciso xlink:href="art59-6_cpt_inc1" id="art1_cpt_alt1_art59-6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>prévio ato formal de demonstração, por parte do dirigente máximo do órgão executor, de que a aplicação da despesa é juridicamente possível, à vista da legislação aplicável e das condições em que os bens tenham sido concedidos, arrendados ou cedidos;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-6_cpt_omi2"/><Inciso xlink:href="art59-6_cpt_inc2" id="art1_cpt_alt1_art59-6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>prévia avaliação do impacto da obra financiada no equilíbrio econômico-financeiro do contrato de concessão ou arrendamento, bem como qualquer outro ato ou contrato em que se fundamente a utilização por terceiros dos ativos beneficiados;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-6_cpt_omi3"/><Inciso xlink:href="art59-6_cpt_inc3" id="art1_cpt_alt1_art59-6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>prévia modificação contratual que contemple o reequilíbrio econômico-financeiro do ajuste, nos termos da avaliação de que trata o inciso II, tomando por base:</p>
+            <Omissis id="art1_cpt_alt1_art59-6_cpt_inc3_omi1"/><Alinea xlink:href="art59-6_cpt_inc3_ali1" id="art1_cpt_alt1_art59-6_cpt_inc3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>os termos do edital da licitação e do contrato de concessão, arrendamento ou outro ato ou contrato em que se fundamente a utilização por terceiros dos ativos beneficiado; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-6_cpt_inc3_omi2"/><Alinea xlink:href="art59-6_cpt_inc3_ali2" id="art1_cpt_alt1_art59-6_cpt_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>as proporções de alteração do equilíbrio econômico-financeiro estimadas na avaliação de que trata o inciso I deste parágrafo; e</p>
+            
+          </Alinea>
+          </Inciso><Omissis id="art1_cpt_alt1_art59-6_cpt_omi4"/><Inciso xlink:href="art59-6_cpt_inc4" id="art1_cpt_alt1_art59-6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>envio ao tribunal de contas que jurisdicione o ente, para fins de informação, de cópia dos processos administrativos e estudos relativos às condições especificadas nos incisos I a III, a ser efetuado no prazo máximo de quinze dias contados a partir:</p>
+            <Omissis id="art1_cpt_alt1_art59-6_cpt_inc4_omi1"/><Alinea xlink:href="art59-6_cpt_inc4_ali1" id="art1_cpt_alt1_art59-6_cpt_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>da data de conclusão de cada uma das atividades descritas nos incisos I a III; e</p>
+            
+          </Alinea><Omissis id="art1_cpt_alt1_art59-6_cpt_inc4_omi2"/><Alinea xlink:href="art59-6_cpt_inc4_ali2" id="art1_cpt_alt1_art59-6_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>em qualquer caso, da data do primeiro empenho do exercício realizado à conta da dotação envolvida.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art59-6_omi1"/><Paragrafo xlink:href="art59-6_par1u" id="art1_cpt_alt1_art59-6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O descumprimento das disposições deste artigo configura conduta não autorizada, irregular e lesiva ao patrimônio público, com grave infração à norma legal e de responsabilidade pessoal do ordenador da despesa, sujeitando-o às sanções previstas em lei.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art59-6_omi2"/>
+          </Artigo><Artigo xlink:href="art59-7" id="art1_cpt_alt1_art59-7">
+            
+            
+            <Rotulo>Art. 59-G.</Rotulo>
+            
+            <Caput xlink:href="art59-7_cpt" id="art1_cpt_alt1_art59-7_cpt">
+            
+            
+            
+            <p>As disposições deste Capítulo não excluem outras exigências legalmente estabelecidas para a compatibilidade das programações orçamentárias relativas a obras e projetos com o plano plurianual e demais planos setoriais e regionais do ente, sempre tal exigência seja compatível com o disposto no mencionado Capítulo.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art59-7_omi1"/>
+          </Artigo><Artigo xlink:href="art59-8" id="art1_cpt_alt1_art59-8">
+            
+            
+            <Rotulo>Art. 59-H.</Rotulo>
+            
+            <Caput xlink:href="art59-8_cpt" id="art1_cpt_alt1_art59-8_cpt">
+            
+            
+            
+            <p>Do processo de planejamento de investimentos públicos será dada ampla divulgação à sociedade mediante:</p>
+            <Omissis id="art1_cpt_alt1_art59-8_cpt_omi1"/><Inciso xlink:href="art59-8_cpt_inc1" id="art1_cpt_alt1_art59-8_cpt_inc1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art58-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>realização de audiências públicas pelas comissões referidas no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art58">art. 58 da Constituição</span> que sejam encarregadas de examinar e de dar parecer sobre projetos de lei envolvendo investimentos públicos, ouvindo autoridades de outros Poderes e representantes de entidades da sociedade; e</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art59-8_cpt_omi2"/><Inciso xlink:href="art59-8_cpt_inc2" id="art1_cpt_alt1_art59-8_cpt_inc2" fechaAspas="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>publicação na internet, pelo Poder Executivo, de síntese dos projetos de lei e leis tratados no inciso I, bem como dos relatórios de avaliação correspondentes, em linguagem clara e acessível a todo cidadão.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Os instrumentos de gestão criados pelos dispositivos desta lei deverão ser implantados nos seguintes prazos, contados a partir da data de entrada em vigor desta Lei:</p>
+            <Inciso id="art2_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art59-2-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>para o Sistema Nacional de Investimento Público – SNIP, de que trata o <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art59-2">art. 59-B da Lei Complementar no 101, de 4 de maio de 2000</span>, com a redação dada por esta Lei:</p>
+            <Alinea id="art2_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>um ano para o desenvolvimento das metodologias, normas e procedimentos aplicáveis ao Sistema; e</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>dois anos para o Banco de Projetos;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art59-3-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>para o cadastro informatizado unificado de que trata o <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art59-3">art. 59-C da Lei Complementar no 101, de 4 de maio de 2000</span>, com a redação dada por esta Lei:</p>
+            <Alinea id="art2_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>um ano para o desenvolvimento do cadastro e respectivo suporte de tecnologia de informação;</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>um ano para a inclusão das informações relativas a pelo menos dez por cento das obras e serviços de engenharia que devam constar do cadastro;</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>dois anos para a inclusão das informações relativas a pelo menos cinquenta por cento das obras e serviços de engenharia restantes; e</p>
+            
+          </Alinea><Alinea id="art2_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>três anos para a inclusão das informações relativas à totalidade das obras e serviços de engenharia.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1u">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art59-3_par8-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O cumprimento dos prazos de que trata este artigo é responsabilidade pessoal do Chefe do Poder Executivo de cada ente, observado o disposto no <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art59-3_par8">art. 59-C, § 8º, da Lei Complementar no 101, de 4 de maio de 2000</span>, com a redação dada por esta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:proposta.emenda.constitucional;pec:2017;49@data.evento;leitura;2017-12-14t11.46"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROPOSTA DE EMENDA CONSTITUCIONAL Nº 49 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art102">art. 102 da Constituição Federal</span> para especializar decisões judiciais relativas a Chefes de Poder no âmbito da República.</Ementa>
+      <Preambulo id="preambulo"><p>As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte emenda ao texto constitucional:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art102-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art102">art. 102 da Constituição Federal</span> passa a vigorar acrescido do seguinte § 4º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:constituicao:1988-10-05;1988" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:constituicao:1988-10-05;1988 -> MatchByBase(urn:lex:br:federal:constituicao:1988-10-05;1988,1988,Some((10,5)),Map(art102 -> ExactMatch(URN(1988,Some((10,5)),art102,urn:lex:br:federal:constituicao:1988-10-05;1988!art102)), art102_cpt -> PrefixMatch(URN(1988,Some((10,5)),art102,urn:lex:br:federal:constituicao:1988-10-05;1988!art102),art102_cpt), art102_par4 -> PrefixMatch(URN(1988,Some((10,5)),art102,urn:lex:br:federal:constituicao:1988-10-05;1988!art102),art102_par4)))))-->
+              <Artigo xlink:href="art102" id="art1_cpt_alt1_art102" abreAspas="s">
+            
+            
+            <Rotulo>Art. 102.</Rotulo>
+            
+            <Caput xlink:href="art102_cpt" id="art1_cpt_alt1_art102_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art102_omi1"/><Paragrafo xlink:href="art102_par4" id="art1_cpt_alt1_art102_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As decisões judiciais relativas às Chefias de Poder no âmbito da União devem ser aprovadas pela maioria absoluta do pleno do Supremo Tribunal Federal, inclusive em procedimentos cautelares ou liminares.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Esta Emenda à <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

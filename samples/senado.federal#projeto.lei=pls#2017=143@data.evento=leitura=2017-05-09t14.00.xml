@@ -1,0 +1,112 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;143@data.evento;leitura;2017-05-09t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 143 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre débitos com a Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Municípios.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art11_par1_ali1--><!--Link: urn:lex:br:federal:lei:1991-07-24;8212!art11_par1_ali3-->
+            
+            
+            <p>Os débitos com a Fazenda Nacional de responsabilidade dos Municípios e das respectivas autarquias e fundações públicas, relativos às contribuições sociais de que tratam as <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art11_par1_ali1">alíneas a</span> e <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8212!art11_par1_ali3">c do parágrafo único do art. 11 da Lei nº 8.212, de 24 de julho de 1991</span>, e às respectivas obrigações acessórias, provenientes de competências vencidas até 31 de março de 2017, inclusive décimo terceiro salário, constituídos ou não, inscritos ou não em dívida ativa da União, ainda que em fase de execução fiscal já ajuizada, ou que tenham sido objeto de parcelamento anterior não integralmente quitado, serão consolidados e pagos em prestações equivalentes a 0,5% (meio por cento) da média mensal da receita corrente líquida do Município.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os débitos cujos fatos geradores ocorrerem até 31 de março de 2017, que forem apurados posteriormente, serão incorporados ao parcelamento de que trata o caput, mediante aumento do número de parcelas, não implicando no aumento do valor das prestações.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os contribuintes que tiverem optado pelos parcelamentos previstos em normas anteriores à vigência desta Lei, poderão optar, na forma de regulamento, pelo reparcelamento dos respectivos débitos segundo as regras previstas nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Ao ser protocolado pelo ente federativo o pedido de parcelamento, fica suspensa a exigibilidade dos débitos incluídos no parcelamento perante a Fazenda Nacional, que emitirá certidão positiva do ente, com efeito negativo, em relação aos referidos débitos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4-->
+            
+            
+            <p>Para fins do disposto nesta Lei, entende-se como receita corrente líquida aquela definida nos termos do <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art2_cpt_inc4">inciso IV do art. 2o da Lei Complementar no 101, de 4 de maio de 2000</span>.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art52--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art53--><!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art63-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O percentual de 0,5% (meio por cento) será aplicado sobre a média mensal da receita corrente líquida referente ao ano anterior ao do vencimento da parcela, publicada de acordo com o previsto nos HYPERLINK &quot;http://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp101.htm&quot; \l &quot;art52&quot; <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art52">arts. 52</span>, <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art53">53</span> e <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art63">63 da Lei Complementar no 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A adesão ao parcelamento de que trata o art. 1o desta Lei implica autorização pelo Município para a retenção no FPM e repasse à União do valor correspondente às obrigações previdenciárias correntes dos meses anteriores ao do recebimento do respectivo Fundo de Participação, no caso de não pagamento no vencimento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional, no âmbito das respectivas competências, editarão os atos necessários à execução do parcelamento de que trata esta Lei, incluindo:</p>
+            <Inciso id="art4_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art53_cpt_inc1-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>prazo para que os Municípios encaminhem à Receita Federal do Brasil o demonstrativo de apuração da receita corrente líquida de que trata o <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art53_cpt_inc1">inciso I do caput do art. 53 da Lei Complementar no 101, de 4 de maio de 2000</span>, para fins do disposto no art. 2º; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>regras para retenção e o repasse da obrigação previdenciária não paga, para fins do disposto no art. 3º</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

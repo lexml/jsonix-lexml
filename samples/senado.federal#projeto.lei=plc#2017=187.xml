@@ -1,0 +1,154 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;187"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 187 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a certificação das entidades beneficentes de assistência social, na área de saúde, de que trata o <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art4">art. 4º da Lei nº 12.101, de 27 de novembro de 2009</span>; e altera as <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101">Leis nºs 12.101, de 27 de novembro de 2009</span>, e <span xlink:href="urn:lex:br:federal:lei:1992-06-02;8429">8.429, de 2 de junho de 1992</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101!art4_cpt_inc1-->
+            
+            
+            <p>Esta Lei dispõe sobre a forma de comprovação do requisito a que se refere o <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art4_cpt_inc1">inciso I do caput do art. 4º da Lei nº 12.101, de 27 de novembro de 2009</span>, para fins de certificação das entidades beneficentes de assistência social, na área de saúde.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101!art4_cpt_inc1-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A comprovação do atendimento ao requisito a que se refere o <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art4_cpt_inc1">inciso I do caput do art. 4º da Lei nº 12.101, de 27 de novembro de 2009</span>, poderá ser efetuada por meio da apresentação de cópia do contrato, do convênio ou do instrumento congênere.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101!art3_cpt-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos processos de concessão e renovação da certificação com requerimentos protocolados até 31 de dezembro de 2018 e com exercício de análise até 2017, nos termos do <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art3_cpt">caput do art. 3º da Lei nº 12.101, de 27 de novembro de 2009</span>, será considerada como instrumento congênere declaração do gestor local do Sistema Único de Saúde (SUS) que ateste a existência de relação de prestação de serviços de saúde, conforme definido em ato do Ministro de Estado da Saúde.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O disposto neste artigo aplica-se também aos processos de concessão e renovação de certificação pendentes de decisão na data de publicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par4">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101!art3_cpt-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A declaração de que trata o § 2º deste artigo não será aceita nos processos de concessão e renovação de certificação cujos requerimentos sejam protocolados a partir de 1º de janeiro de 2019 e com exercício de análise a partir de 2018, nos termos do <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art3_cpt">caput do art. 3º da Lei nº 12.101, de 27 de novembro de 2009</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par5">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101!art7-1--><!--Link: urn:lex:br:federal:lei:2009-11-27;12101!art8-1--><!--Link: urn:lex:br:federal:lei:2009-11-27;12101!art8-2-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A declaração de que trata o § 2º deste artigo aplica-se ao disposto nos <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art7-1">arts. 7º-A</span>, <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art8-1">8º-A</span> e <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101!art8-2">8º-B da Lei nº 12.101, de 27 de novembro de 2009</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009-11-27;12101-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2009-11-27;12101">Lei nº 12.101, de 27 de novembro de 2009</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2009-11-27;12101" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2009-11-27;12101 -> MatchByBase(urn:lex:br:federal:lei:2009-11-27;12101,2009,Some((11,27)),Map(art7-1_par2 -> PrefixMatch(URN(2009,Some((11,27)),,urn:lex:br:federal:lei:2009-11-27;12101),art7-1_par2), art4 -> PrefixMatch(URN(2009,Some((11,27)),,urn:lex:br:federal:lei:2009-11-27;12101),art4), art4_cpt -> PrefixMatch(URN(2009,Some((11,27)),,urn:lex:br:federal:lei:2009-11-27;12101),art4_cpt), art7-1 -> PrefixMatch(URN(2009,Some((11,27)),,urn:lex:br:federal:lei:2009-11-27;12101),art7-1), art4_par4 -> PrefixMatch(URN(2009,Some((11,27)),,urn:lex:br:federal:lei:2009-11-27;12101),art4_par4), art7-1_cpt -> PrefixMatch(URN(2009,Some((11,27)),,urn:lex:br:federal:lei:2009-11-27;12101),art7-1_cpt)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par4" id="art2_cpt_alt1_art4_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Na hipótese de comprovada prestação de serviços pela entidade de saúde, sem a observância do disposto no inciso I do caput deste artigo, que dê causa ao indeferimento ou cancelamento da certificação, o Ministério da Saúde deverá informar aos órgãos de controle os indícios da irregularidade praticada pelo gestor do SUS.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art7-1" id="art2_cpt_alt1_art7-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º-A.</Rotulo>
+            
+            <Caput xlink:href="art7-1_cpt" id="art2_cpt_alt1_art7-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art7-1_omi1"/><Paragrafo xlink:href="art7-1_par2" id="art2_cpt_alt1_art7-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A prestação de serviços prevista no caput deste artigo será pactuada com o gestor local do SUS ou com órgão do Sistema Nacional de Políticas Públicas sobre Drogas (Sisnad) por meio de contrato, convênio ou instrumento congênere.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art7-1_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1992-06-02;8429!art11-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1992-06-02;8429!art11">art. 11 da Lei n° 8.429, de 2 de junho de 1992</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1992-06-02;8429" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1992-06-02;8429 -> MatchByBase(urn:lex:br:federal:lei:1992-06-02;8429,1992,Some((6,2)),Map(art11 -> ExactMatch(URN(1992,Some((6,2)),art11,urn:lex:br:federal:lei:1992-06-02;8429!art11)), art11_cpt -> PrefixMatch(URN(1992,Some((6,2)),art11,urn:lex:br:federal:lei:1992-06-02;8429!art11),art11_cpt), art11_cpt_inc10 -> PrefixMatch(URN(1992,Some((6,2)),art11,urn:lex:br:federal:lei:1992-06-02;8429!art11),art11_cpt_inc10)))))-->
+              <Artigo xlink:href="art11" id="art3_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art3_cpt_alt1_art11_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art3_cpt_alt1_art11_cpt_omi1"/><Inciso xlink:href="art11_cpt_inc10" id="art3_cpt_alt1_art11_cpt_inc10" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art24_par1-->
+            
+            <Rotulo>X –</Rotulo>
+            <p>transferir recurso a entidade privada, em razão da prestação de serviços na área de saúde sem a prévia celebração de contrato, convênio ou instrumento congênere, nos termos do <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art24_par1">parágrafo único do art. 24 da Lei nº 8.080, de 19 de setembro de 1990</span>.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,139 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;508@data.evento;leitura;2017-12-13t17.51"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 508 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a notificação de violência autoprovocada por crianças ou adolescentes.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre a notificação de violência autoprovocada por crianças ou adolescentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069-->
+            
+            
+            <p>Os arts. 13, 56, 70-B, 94-A. 136 e 245 da <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art94-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art94-1), art56_cpt_inc4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art56_cpt_inc4), art245_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art245_cpt), art13 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art13), art56_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art56_cpt), art70-2_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art70-2_cpt), art136_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art136_cpt), art136 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art136), art13_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art13_cpt), art136_cpt_inc12 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art136_cpt_inc12), art245 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art245), art94-1_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art94-1_cpt), art56 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art56), art70-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art70-2)))))-->
+              <Artigo xlink:href="art13" id="art2_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art2_cpt_alt1_art13_cpt">
+            
+            
+            
+            <p>Os casos de suspeita ou confirmação de castigo físico, de tratamento cruel ou degradante e de maus-tratos contra criança ou adolescente, bem como os casos de violência autoprovocada por criança ou adolescente, serão obrigatoriamente comunicados ao Conselho Tutelar da respectiva localidade, sem prejuízo de outras providências legais.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art13_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art56" id="art2_cpt_alt1_art56" abreAspas="s">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput xlink:href="art56_cpt" id="art2_cpt_alt1_art56_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art56_cpt_omi1"/><Inciso xlink:href="art56_cpt_inc4" id="art2_cpt_alt1_art56_cpt_inc4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>violência autoprovocada envolvendo seus alunos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art70-2" id="art2_cpt_alt1_art70-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 70-B.</Rotulo>
+            
+            <Caput xlink:href="art70-2_cpt" id="art2_cpt_alt1_art70-2_cpt">
+            
+            
+            
+            <p>As entidades, públicas e privadas, que atuem nas áreas a que se refere o art. 71, dentre outras, devem contar, em seus quadros, com pessoas capacitadas a reconhecer e comunicar ao Conselho Tutelar suspeitas ou casos de maus-tratos praticados contra crianças e adolescentes, bem como os casos de violência autoprovocada por criança ou adolescente.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art70-2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art94-1" id="art2_cpt_alt1_art94-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 94-A.</Rotulo>
+            
+            <Caput xlink:href="art94-1_cpt" id="art2_cpt_alt1_art94-1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>As entidades, públicas ou privadas, que abriguem ou recepcionem crianças e adolescentes, ainda que em caráter temporário, devem ter, em seus quadros, profissionais capacitados a reconhecer e reportar ao Conselho Tutelar suspeitas ou ocorrências de maus-tratos, bem como os casos de violência autoprovocada por criança ou adolescente.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art136" id="art2_cpt_alt1_art136" abreAspas="s">
+            
+            
+            <Rotulo>Art. 136.</Rotulo>
+            
+            <Caput xlink:href="art136_cpt" id="art2_cpt_alt1_art136_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art136_cpt_omi1"/><Inciso xlink:href="art136_cpt_inc12" id="art2_cpt_alt1_art136_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>promover e incentivar, na comunidade e nos grupos profissionais, ações de divulgação e treinamento para o reconhecimento de sintomas de maus-tratos em crianças e adolescentes, bem como os casos de violência autoprovocada por criança ou adolescente.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art136_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art245" id="art2_cpt_alt1_art245" abreAspas="s">
+            
+            
+            <Rotulo>Art. 245.</Rotulo>
+            
+            <Caput xlink:href="art245_cpt" id="art2_cpt_alt1_art245_cpt">
+            
+            
+            
+            <p>Deixar o médico, professor ou responsável por estabelecimento de atenção à saúde e de ensino fundamental, pré-escola ou creche, de comunicar à autoridade competente os casos de que tenha conhecimento, envolvendo suspeita ou confirmação de maus-tratos contra criança ou adolescente, bem como de violência autoprovocada por criança ou adolescente:</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art245_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

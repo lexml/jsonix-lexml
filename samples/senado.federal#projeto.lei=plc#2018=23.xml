@@ -1,0 +1,187 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;23"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 23 DE 2018</Epigrafe>
+      <Ementa id="ementa">Cria o Cadastro Nacional de Instrumentos Fixos de Fiscalização Eletrônica de Trânsito (Cifet) e acrescenta inciso ao <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art19">art. 19 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), para dispor sobre a organização e manutenção desse cadastro.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art19-->
+            
+            
+            <p>Esta Lei cria o Cadastro Nacional de Instrumentos Fixos de Fiscalização Eletrônica de Trânsito (Cifet) e acrescenta inciso ao <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art19">art. 19 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), para dispor sobre a organização e manutenção desse cadastro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Fica criado o Cadastro Nacional de Instrumentos Fixos de Fiscalização Eletrônica de Trânsito (Cifet), para registro das informações relacionadas aos instrumentos fixos utilizados na fiscalização eletrônica de trânsito.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Cifet armazenará os seguintes dados sobre os instrumentos instalados e em funcionamento:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>informações técnicas;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>certificação e data da última aferição pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro);</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>localização da instalação;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estudos técnicos que justifiquem sua instalação;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>termos de contratação do serviço;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>data de inscrição do instrumento no Cifet e do início da sua operação;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>data da desativação do instrumento ou da suspensão de sua operação e causas dessa medida;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>outras informações necessárias, conforme regulamentação do Conselho Nacional de Trânsito (Contran).</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A consulta ao Cifet é acessível gratuitamente no site oficial do Departamento Nacional de Trânsito (Denatran).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Os instrumentos fixos de fiscalização de trânsito atualmente instalados e em operação serão cadastrados no Cifet no prazo de trezentos e sessenta dias a contar da data de publicação desta Lei.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A desobediência ao estabelecido no caput deste artigo resultará na suspensão imediata da operação do instrumento, a qual se manterá até que o cadastro do instrumento no Cifet seja efetivado, sem qualquer ônus para o contratante do serviço, e invalidará toda infração registrada por esse instrumento no período entre a data-limite para o seu cadastramento e a da efetiva suspensão de sua operação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Cada novo instrumento de fiscalização eletrônica contratado pelo órgão executivo de trânsito competente será cadastrado no Cifet pela empresa contratada para o oferecimento do serviço, antes do início da sua operação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art19_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art19_cpt">caput do art. 19 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), passa a vigorar acrescido do seguinte inciso XXXI:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art7_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art19 -> SuperPrefixMatch(URN(1997,Some((9,23)),art19_cpt,urn:lex:br:federal:lei:1997-09-23;9503!art19_cpt),art19), art19_cpt -> ExactMatch(URN(1997,Some((9,23)),art19_cpt,urn:lex:br:federal:lei:1997-09-23;9503!art19_cpt)), art19_cpt_inc31 -> PrefixMatch(URN(1997,Some((9,23)),art19_cpt,urn:lex:br:federal:lei:1997-09-23;9503!art19_cpt),art19_cpt_inc31)))))-->
+              <Artigo xlink:href="art19" id="art7_cpt_alt1_art19" abreAspas="s">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput xlink:href="art19_cpt" id="art7_cpt_alt1_art19_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art7_cpt_alt1_art19_cpt_omi1"/><Inciso xlink:href="art19_cpt_inc31" id="art7_cpt_alt1_art19_cpt_inc31">
+            
+            
+            <Rotulo>XXXI –</Rotulo>
+            <p>organizar e manter o Cadastro Nacional de Instrumentos Fixos de Fiscalização Eletrônica de Trânsito (Cifet).</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art7_cpt_alt1_art19_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

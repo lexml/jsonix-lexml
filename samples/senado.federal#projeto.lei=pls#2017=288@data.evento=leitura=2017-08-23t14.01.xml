@@ -1,0 +1,145 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;288@data.evento;leitura;2017-08-23t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 288 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1964-12-16;4591">Lei nº 4.591, de 16 de dezembro de 1964</span>, para dispor a respeito da indenização em razão de resilição unilateral decorrente de iniciativa do comprador em sede de incorporação imobiliária.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-12-16;4591-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1964-12-16;4591">Lei nº 4.591, de 16 de dezembro de 1964</span>, passa a vigorar acrescida dos seguintes dispositivos:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1964-12-16;4591" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1964-12-16;4591 -> MatchByBase(urn:lex:br:federal:lei:1964-12-16;4591,1964,Some((12,16)),Map(art63-2_cpt -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2_cpt), art63-1_par1_inc2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_par1_inc2), art63-1_par3 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_par3), art63-1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1), art63-2_par2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2_par2), art63-2_par2_inc1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2_par2_inc1), art63-2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2), art63-1_cpt -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_cpt), art63-2_par1_inc2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2_par1_inc2), art63-1_par1_inc1_ali1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_par1_inc1_ali1), art63-2_par1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2_par1), art63-1_par1_inc1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_par1_inc1), art63-1_par1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_par1), art63-1_par1_inc1_ali2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_par1_inc1_ali2), art63-2_par1_inc1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2_par1_inc1), art63-1_par2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-1_par2), art63-2_par2_inc2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art63-2_par2_inc2)))))-->
+              <Artigo xlink:href="art63-1" id="art1_cpt_alt1_art63-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 63-A.</Rotulo>
+            
+            <Caput xlink:href="art63-1_cpt" id="art1_cpt_alt1_art63-1_cpt">
+            
+            
+            
+            <p>É assegurado ao comprador de imóvel residencial o direito de resilição unilateral do contrato perante a incorporadora.</p>
+            
+          </Caput><Paragrafo xlink:href="art63-1_par1" id="art1_cpt_alt1_art63-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese deste artigo, o comprador terá direito à devolução dos valores pagos, devidamente corrigidos pelo Índice Geral de Preços do Mercado (IGP-M), calculado pela Fundação Getúlio Vargas, ou por outro que o venha a substituir, calculado desde a data do pagamento até a data da efetiva devolução, sendo lícita a retenção dos seguintes valores máximos a título de multa compensatória devida à incorporadora:</p>
+            <Inciso xlink:href="art63-1_par1_inc1" id="art1_cpt_alt1_art63-1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>13% do montante a ser devolvido ao comprador, na hipótese de a resilição ter decorrido de:</p>
+            <Alinea xlink:href="art63-1_par1_inc1_ali1" id="art1_cpt_alt1_art63-1_par1_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>incapacidade laborativa permanente sofrida pelo comprador após a celebração do contrato;</p>
+            
+          </Alinea><Alinea xlink:href="art63-1_par1_inc1_ali2" id="art1_cpt_alt1_art63-1_par1_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>perda da relação de emprego por parte do comprador, sem que este, no prazo de dois meses posteriores, tenha exercido outra atividade remunerada.</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art63-1_par1_inc2" id="art1_cpt_alt1_art63-1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>36% do montante a ser devolvido ao comprador, na hipótese de resilição imotivada.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art63-1_par2" id="art1_cpt_alt1_art63-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Todas as despesas incorridas pela incorporadora, inclusive os eventuais pagamentos efetuados a corretores de imóveis, estão abrangidas pelas regras do § 1º deste artigo, não sendo devida qualquer outra indenização.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art63-1_par3" id="art1_cpt_alt1_art63-1_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não haverá direito à resilição prevista neste artigo caso o comprador tenha ingressado na posse do imóvel.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art63-2" id="art1_cpt_alt1_art63-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 63-B.</Rotulo>
+            
+            <Caput xlink:href="art63-2_cpt" id="art1_cpt_alt1_art63-2_cpt">
+            
+            
+            
+            <p>O comprador terá direito ao recebimento dos valores pagos, deduzidas as indenizações devidas à incorporadora previstas no art. 63-A desta Lei, em seis parcelas mensais e sucessivas, vencendo a primeira delas em sessenta dias.</p>
+            
+          </Caput><Paragrafo xlink:href="art63-2_par1" id="art1_cpt_alt1_art63-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O termo inicial da contagem do prazo de sessenta dias previsto no caput é:</p>
+            <Inciso xlink:href="art63-2_par1_inc1" id="art1_cpt_alt1_art63-2_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nas hipóteses das alíneas do inciso I do § 1º do art. 63-A, o recebimento, por parte da incorporadora, do pedido de resilição contratual efetuado pelo comprador;</p>
+            
+          </Inciso><Inciso xlink:href="art63-2_par1_inc2" id="art1_cpt_alt1_art63-2_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>na hipótese do inciso II do § 1º do art. 63-A, a data do registro da instituição do condomínio referente à unidade imobiliária cujo contrato foi resilido ou a partir da data em que for formalizada a venda dessa unidade pela incorporadora, o que ocorrer primeiro.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art63-2_par2" id="art1_cpt_alt1_art63-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de descumprimento dos prazos previstos neste artigo, a incorporadora deverá efetuar, à vista, a devolução dos valores pagos pelo comprador na forma do § 1º do art. 63-A, deduzida a indenização devida à incorporadora, acrescidas das seguintes importâncias, incidentes sobre o valor a ser devolvido:</p>
+            <Inciso xlink:href="art63-2_par2_inc1" id="art1_cpt_alt1_art63-2_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>multa moratória de 20%; e</p>
+            
+          </Inciso><Inciso xlink:href="art63-2_par2_inc2" id="art1_cpt_alt1_art63-2_par2_inc2" fechaAspas="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>juros de 1% ao mês, contados da data em que foi efetuado o pedido de resilição contratual por parte do comprador, até a data do efetivo pagamento.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos noventa dias da data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

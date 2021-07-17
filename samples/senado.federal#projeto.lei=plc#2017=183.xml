@@ -1,0 +1,754 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;183"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 183 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o Sistema Nacional de Emprego (Sine), criado pelo <span xlink:href="urn:lex:br:federal:decreto:1975-10-08;76403">Decreto nº 76.403, de 8 de outubro de 1975</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art22_cpt_inc16-->
+            
+            
+            <p>Esta Lei dispõe sobre o Sistema Nacional de Emprego (Sine), nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art22_cpt_inc16">inciso XVI do caput do art. 22 da Constituição Federal</span>.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Sine será financiado e gerido pela União e pelas esferas de governo que a ele aderirem, observado o disposto nesta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DAS DIRETRIZES DO SISTEMA NACIONAL DE EMPREGO</NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São diretrizes do Sine:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a otimização do acesso ao trabalho decente, exercido em condições de liberdade, equidade, dignidade e segurança, e a sistemas de educação e de qualificação profissional e tecnológica;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a integração de suas ações e de seus serviços nas distintas esferas de governo em que se fizer presente;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a execução descentralizada das ações e dos serviços referidos no inciso II do caput deste artigo, em consonância com normas e diretrizes editadas em âmbito nacional;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o compartilhamento da gestão, do financiamento e de recursos técnicos entre as esferas de governo que o integrem;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a participação de representantes da sociedade civil em sua gestão;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a integração e a sistematização das informações e pesquisas sobre o mercado formal e informal de trabalho, com vistas a subsidiar a operacionalização de suas ações e de seus serviços no âmbito da União e das esferas de governo que dele participem;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a adequação entre a oferta e a demanda de força de trabalho em todos os níveis de ocupação e qualificação;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a integração técnica e estatística com os sistemas de educação e de qualificação profissional e tecnológica, com vistas à elaboração, à implementação e à avaliação das respectivas políticas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a padronização do atendimento, da organização e da oferta de suas ações e de seus serviços no âmbito das esferas de governo participantes, respeitadas as especificidades regionais e locais;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>a melhoria contínua da qualidade dos serviços ofertados, de forma eficiente, eficaz, efetiva e sustentável, especialmente por meio do desenvolvimento de aplicativos e de soluções tecnológicas a serem ofertados aos trabalhadores;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>a articulação permanente com a implementação das demais políticas públicas, com ênfase nas destinadas à população em condições de vulnerabilidade social.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DA ORGANIZAÇÃO</NomeAgrupador>
+            <Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Sine será gerido, executado e financiado conjuntamente pelo Ministério do Trabalho e por órgãos específicos integrados à estrutura administrativa das esferas de governo que dele participem, na forma estabelecida por esta Lei.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            <!--Link: urn:lex:br:federal:lei:1990-01-11;7998-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat), instituído pela <span xlink:href="urn:lex:br:federal:lei:1990-01-11;7998">Lei nº 7.998, de 11 de janeiro de 1990</span>, constitui instância regulamentadora do Sine, sem prejuízo do disposto no § 2º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Codefat e os Conselhos do Trabalho, Emprego e Renda instituídos pelas esferas de governo que aderirem ao Sistema constituirão instâncias deliberativas do Sine.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São unidades de atendimento do Sine, de funcionamento contínuo:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as Superintendências Regionais do Trabalho e as unidades implantadas por instituições federais autorizadas pelo Codefat;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as unidades instituídas pelas esferas de governo que integrarem o Sistema; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>outras unidades autorizadas pelo Codefat, de funcionamento contínuo ou não.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O atendimento ao trabalhador, requerente ou não requerente do seguro-desemprego, será obrigatoriamente realizado por meio de ações e serviços integrados de orientação, recolocação e qualificação profissional, para auxiliá-lo na busca ou preservação do emprego, ou estimular seu empreendedorismo, podendo o Codefat dispor sobre a exceção de oferta básica não integrada de ações e serviços.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As unidades de atendimento integrantes do Sine deverão ser objeto de padronização de acordo com os níveis de abrangência das ações e dos serviços nelas prestados, observados os critérios estabelecidos pelo Codefat.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Nos termos estabelecidos pelo Codefat, os Conselhos do Trabalho, Emprego e Renda poderão autorizar a constituição de consórcios públicos para executar as ações e os serviços do Sine, submetidos à prévia avaliação do Ministério do Trabalho.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DAS COMPETÊNCIAS</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Compete simultaneamente à União e às esferas de governo que aderirem ao Sine:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>prover o pessoal e a infraestrutura necessários à execução das ações e dos serviços do Sistema, bem como financiá-lo, por meio de repasses fundo a fundo;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>acompanhar e controlar a rede de atendimento aos trabalhadores;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>administrar os recursos orçamentários e financeiros de seus fundos do trabalho;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>acompanhar, avaliar e divulgar informações sobre o mercado formal e informal de trabalho;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>alimentar sistemas integrados e informatizados destinados a colher dados relacionados ao mercado formal e informal de trabalho;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>subsidiar a elaboração de normas técnicas e o estabelecimento de padrões de qualidade e parâmetros de custos destinados a nortear as ações e os serviços abrangidos pelo Sistema;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>elaborar plano de ações e serviços do Sistema, bem como a respectiva proposta orçamentária, os quais deverão ser submetidos, conforme a esfera de governo, à aprovação do Codefat ou do respectivo Conselho do Trabalho, Emprego e Renda;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>participar da formulação e da execução da política de formação e desenvolvimento de pessoal especificamente voltado a prestar serviços no âmbito do Sistema;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>disponibilizar informações referentes às ações e aos serviços executados;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>propor medidas para aperfeiçoamento e modernização do Sine à coordenação nacional do Sistema.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Compete à União:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exercer, por intermédio do Ministério do Trabalho, a coordenação nacional do Sine, com supervisão, monitoramento e avaliação das ações e dos serviços do Sistema executados por ela e pelas esferas de governo que aderirem ao Sine;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>executar, em caráter privativo, os seguintes serviços e ações integrados ao Sine:</p>
+            <Alinea id="art7_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>concessão do seguro-desemprego e do abono salarial;</p>
+            
+          </Alinea><Alinea id="art7_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>identificação dos trabalhadores;</p>
+            
+          </Alinea><Alinea id="art7_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>coordenação da certificação profissional; e</p>
+            
+          </Alinea><Alinea id="art7_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>manutenção de cadastro de instituições habilitadas a qualificar os trabalhadores;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apoiar e assessorar tecnicamente as esferas de Governo que aderirem ao Sistema;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>estimular a constituição de consórcios públicos municipais, e conceder-lhe suporte técnico, para a viabilização de ações e serviços do Sine.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A União poderá executar, em caráter suplementar, as ações e os serviços do Sistema de competência das demais esferas de governo, tenham ou não a ele aderido.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Compete aos Estados que aderirem ao Sine:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exercer, por intermédio de órgão específico integrado à sua estrutura administrativa, a coordenação estadual do Sine, com supervisão, monitoramento e avaliação das ações e dos serviços a eles atribuídos;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>executar as ações e os serviços do Sistema na ausência de atuação dos Municípios ou de consórcios públicos municipais;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estimular os Municípios e os consórcios que eles venham a constituir, e conceder-lhes suporte técnico e financeiro, para viabilização das ações e serviços do Sine.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os Estados poderão executar, em caráter suplementar, as ações e os serviços do Sistema de competência dos Municípios.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Compete aos Municípios que aderirem ao Sine, sem prejuízo de outras atividades que lhes sejam distribuídas pelo Codefat:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exercer, por intermédio de órgão específico integrado à sua estrutura administrativa, a coordenação municipal do Sine, com supervisão, monitoramento e avaliação das ações e dos serviços a eles atribuídos;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>habilitar o trabalhador à percepção de seguro-desemprego;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>intermediar o aproveitamento da mão de obra;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>cadastrar os trabalhadores desempregados em sistema informatizado acessível ao conjunto das unidades do Sine;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>prestar apoio à certificação profissional;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>promover a orientação e a qualificação profissional;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>prestar assistência a trabalhadores resgatados de situação análoga à de escravo;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>fomentar o empreendedorismo, o crédito para a geração de trabalho, emprego e renda, o microcrédito produtivo orientado e o assessoramento técnico ao trabalho autônomo, autogestionário ou associado.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O Distrito Federal, se aderir ao Sine, exercerá, cumulativamente, no âmbito de seu território, as competências dos Estados e dos Municípios.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DO FINANCIAMENTO E DA FISCALIZAÇÃO</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>As despesas com a organização, a implementação, a manutenção, a modernização e a gestão do Sine correrão por conta dos seguintes recursos:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>provenientes do Fundo de Amparo ao Trabalhador (FAT);</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>aportados pelas esferas de governo que aderirem ao Sistema;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>outros que lhe sejam destinados.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art11_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A União e as esferas de governo que aderirem ao Sine poderão realizar operações externas de natureza financeira, autorizadas pelo Senado Federal, para captação de recursos direcionados aos respectivos fundos do trabalho.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>As esferas de governo que aderirem ao Sine deverão instituir fundos do trabalho próprios para financiamento e transferências automáticas de recursos no âmbito do Sistema, observada a regulamentação do Codefat.</p>
+            
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Constituem condição para as transferências automáticas dos recursos de que trata esta Lei às esferas de governo que aderirem ao Sine a instituição e o funcionamento efetivos de:</p>
+            <Inciso id="art12_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>Conselho do Trabalho, Emprego e Renda, constituído de forma tripartite e paritária por representantes de trabalhadores, de empregadores e governamentais, observadas as disposições desta Lei;</p>
+            
+          </Inciso><Inciso id="art12_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fundo do trabalho, com orientação e controle do respectivo Conselho do Trabalho, Emprego e Renda;</p>
+            
+          </Inciso><Inciso id="art12_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>plano de ações e serviços, aprovado na forma estabelecida pelo Codefat.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Constitui condição para a transferência de recursos do FAT às esferas de governo que aderirem ao Sine a comprovação orçamentária da existência de recursos próprios destinados à área de trabalho e alocados aos respectivos fundos, adicionados aos recebidos do FAT.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As despesas com o funcionamento dos Conselhos do Trabalho, Emprego e Renda, exceto as de pessoal, poderão ser custeadas por recursos alocados ao fundo do trabalho, observadas as deliberações do Codefat.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>O financiamento de programas, projetos, ações e serviços do Sine será efetuado por meio de transferências automáticas entre os fundos do trabalho ou mediante a alocação de recursos próprios nesses fundos por parte da União e das esferas de governo que aderirem ao Sistema.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art24-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As transferências automáticas fundo a fundo decorrentes do disposto no caput deste artigo constituem despesa pública de natureza obrigatória e continuada, nos termos do <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art24">art. 24 da Lei Complementar nº 101, de 4 de maio de 2000</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>Para definição de valores a serem repassados pela União às esferas de governo que aderirem ao Sine serão observados os critérios aprovados pelo Codefat e as disponibilidades orçamentárias e financeiras.</p>
+            
+          </Caput><Paragrafo id="art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Caberá ao Ministério do Trabalho, na qualidade de coordenador nacional do Sistema, submeter à apreciação do Codefat os critérios de que trata o caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caberá ao Codefat estabelecer as condições do financiamento do Sine e de aplicação de seus recursos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-01-11;7998!art21-->
+            
+            
+            <p>Os recursos do FAT destinados à execução de ações e serviços continuados do Sine poderão ser aplicados no pagamento de profissionais que integrarem as equipes de trabalho responsáveis pela organização e oferta dessas ações e serviços, conforme percentual apresentado pelo Ministério do Trabalho e aprovado pelo Codefat, não cabendo, nesse caso, a vedação constante do <span xlink:href="urn:lex:br:federal:lei:1990-01-11;7998!art21">art. 21 da Lei nº 7.998, de 11 de janeiro de 1990</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O Ministério do Trabalho, na forma estabelecida pelo Codefat, apoiará financeiramente o aprimoramento da gestão descentralizada das ações e dos serviços do Sine, por meio do Índice de Gestão Descentralizada do Sine (IGD-Sine), destinado ao custeio de despesas correntes e de capital.</p>
+            
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É vedada a utilização dos recursos repassados a título de IGD-Sine para pagamento de pessoal efetivo e de gratificações de qualquer natureza a servidor público federal, estadual, municipal ou do Distrito Federal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p> Os recursos financeiros destinados ao Sine serão depositados em conta especial de titularidade do fundo do trabalho e movimentados com a fiscalização do respectivo Conselho do Trabalho, Emprego e Renda.</p>
+            
+          </Caput><Paragrafo id="art17_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Ministério do Trabalho acompanhará a conformidade da aplicação dos recursos do FAT transferidos automaticamente às esferas de governo que aderirem ao Sine, observada a programação orçamentária aprovada para cada ente federativo.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Sem prejuízo de outras sanções cabíveis em decorrência da legislação, constitui crime, sujeito à pena de reclusão de três meses a um ano, o emprego irregular, ou em finalidades diversas das previstas nesta Lei, de verbas, de rendas públicas ou de recursos do Sine.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>Caberá à esfera de governo que aderir ao Sine a responsabilidade pela correta utilização dos recursos de seu fundo do trabalho, bem como pelo controle e pelo acompanhamento dos programas, dos projetos, dos benefícios, das ações e dos serviços vinculados ao Sistema, independentemente de ações do órgão repassador dos recursos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>A utilização dos recursos federais descentralizados para os fundos do trabalho das esferas de governo que aderirem ao Sine será anualmente declarada pelos entes recebedores ao ente responsável pela transferência automática, mediante relatório de gestão que comprove a execução das ações, na forma do regulamento, a ser submetido à apreciação do respectivo Conselho do Trabalho, Emprego e Renda.</p>
+            
+          </Caput><Paragrafo id="art19_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O ente responsável pela transferência automática poderá requisitar informações referentes à aplicação dos recursos transferidos, para fins de análise e acompanhamento de sua utilização.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>A denominação Sistema Nacional de Emprego, a sigla Sine e as suas marcas ou logomarcas, utilizadas separada ou conjuntamente, são consideradas bens públicos nacionais e não poderão ser objeto de qualquer tipo de registro de propriedade ou de domínio, por pessoas físicas ou jurídicas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Fica garantida a participação das esferas de governo que aderirem ao Sine no Codefat, mediante a indicação de representantes, titular e suplente, efetivada, conforme o caso, pelo Fórum Nacional de Secretarias Estaduais do Trabalho (Fonset) e pelo Fórum Nacional de Secretarias Municipais do Trabalho (Fonsemt).</p>
+            
+          </Caput><Paragrafo id="art21_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Fica garantida a participação de representante, titular e suplente, das Superintendências Regionais do Trabalho nos Conselhos de Trabalho, Emprego e Renda instituídos pelos Estados e pelo Distrito Federal como condição para adesão ao Sistema.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Os entes públicos que tenham Convênio Plurianual do Sine (CP-Sine) e Convênio Plurianual de Qualificação Social e Profissional (CP-QSP) vigentes à data de publicação desta Lei terão o prazo máximo de doze meses para se adaptar à nova organização do Sine e constituir devidamente os seus fundos do trabalho.</p>
+            
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A adesão de novos entes públicos ao Sine somente poderá ocorrer doze meses após a data de entrada em vigor desta Lei, de acordo com cronograma aprovado pelo Codefat.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Durante o período previsto no caput deste artigo, as transferências de recursos relacionados ao Sine observarão, em caráter transitório, os termos dos convênios vigentes, que poderão ser objeto de termos aditivos para garantir a continuidade da execução das ações e serviços do Sistema durante esse período.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            <!--Link: urn:lex:br:federal:decreto:1975-10-08;76403-->
+            
+            
+            <p>O Sine, criado pelo <span xlink:href="urn:lex:br:federal:decreto:1975-10-08;76403">Decreto nº 76.403, de 8 de outubro de 1975</span>, passa a ser regido pelas disposições desta Lei e pela regulamentação do Codefat.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,109 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;49"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 49 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2001-02-14;10201">Lei n° 10.201, de 14 de fevereiro de 2001</span>, que institui o Fundo Nacional de Segurança Pública (FNSP), para contemplar a atividade de segurança viária e os agentes de trânsito nos projetos a serem apoiados pelo Fundo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-02-14;10201-->
+            
+            
+            <p>Esta Lei altera a <span xlink:href="urn:lex:br:federal:lei:2001-02-14;10201">Lei n° 10.201, de 14 de fevereiro de 2001</span>, que institui o Fundo Nacional de Segurança Pública (FNSP), para contemplar a atividade de segurança viária e os agentes de trânsito nos projetos a serem apoiados pelo Fundo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2001-02-14;10201!art4-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2001-02-14;10201!art4">art. 4º da Lei n° 10.201, de 14 de fevereiro de 2001</span>, passa a vigorar com a seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2001-02-14;10201" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2001-02-14;10201 -> MatchByBase(urn:lex:br:federal:lei:2001-02-14;10201,2001,Some((2,14)),Map(art4_par2_inc3 -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_par2_inc3), art4_par3 -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_par3), art4_par3_inc4 -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_par3_inc4), art4 -> ExactMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4)), art4_cpt -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_cpt), art4_par2_inc7 -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_par2_inc7), art4_cpt_inc3 -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_cpt_inc3), art4_par2 -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_par2), art4_cpt_inc1 -> PrefixMatch(URN(2001,Some((2,14)),art4,urn:lex:br:federal:lei:2001-02-14;10201!art4),art4_cpt_inc1)))))-->
+              <Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art4_cpt_inc1" id="art2_cpt_alt1_art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>reequipamento, treinamento e qualificação das polícias civis e militares, dos corpos de bombeiros militares, das guardas municipais e dos agentes de trânsito municipais;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art4_cpt_omi1"/><Inciso xlink:href="art4_cpt_inc3" id="art2_cpt_alt1_art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estruturação e modernização dos órgãos que exerçam as funções de perícia técnica e científica;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par2" id="art2_cpt_alt1_art4_par2" textoOmitido="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            
+            <Omissis id="art2_cpt_alt1_art4_par2_omi1"/><Inciso xlink:href="art4_par2_inc3" id="art2_cpt_alt1_art4_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>qualificação das polícias civis e militares, dos corpos de bombeiros militares, das guardas municipais e dos agentes de trânsito municipais, estaduais e distritais dos órgãos executivos de trânsito e executivos rodoviários;</p>
+            
+          </Inciso><Omissis id="art2_cpt_alt1_art4_par2_omi2"/><Inciso xlink:href="art4_par2_inc7" id="art2_cpt_alt1_art4_par2_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>manutenção da ordem pública e preservação da incolumidade das pessoas e de seu patrimônio nas vias urbanas e rurais.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art4_par3" id="art2_cpt_alt1_art4_par3" textoOmitido="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            
+            <Omissis id="art2_cpt_alt1_art4_par3_omi1"/><Inciso xlink:href="art4_par3_inc4" id="art2_cpt_alt1_art4_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o Município que crie e mantenha seu órgão ou entidade executiva responsável pela segurança viária com seus agentes de trânsito estruturados em carreira.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art2_cpt_alt1_art4_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

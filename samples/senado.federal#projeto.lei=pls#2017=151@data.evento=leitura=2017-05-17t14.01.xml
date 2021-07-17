@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;151@data.evento;leitura;2017-05-17t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 151 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera os arts. 392 ,392-A e 473,III da <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, para estabelecer o compartilhamento da licença maternidade e da licença adotante.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392">art. 392 da Consolidação das Leis do Trabalho</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">CLT</span>), aprovada pelo <span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Decreto-Lei nº 5.452, de 1º de maio de 1943</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1943-05-01;5452" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1943-05-01;5452 -> MatchByBase(urn:lex:br:federal:decreto.lei:1943-05-01;5452,1943,Some((5,1)),Map(art392_par6 -> PrefixMatch(URN(1943,Some((5,1)),art392,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392),art392_par6), art473 -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art473), art392 -> ExactMatch(URN(1943,Some((5,1)),art392,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392)), art392_cpt -> PrefixMatch(URN(1943,Some((5,1)),art392,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392),art392_cpt), art473_cpt -> PrefixMatch(URN(1943,Some((5,1)),,urn:lex:br:federal:decreto.lei:1943-05-01;5452),art473_cpt), art392-1 -> PrefixMatch(URN(1943,Some((5,1)),art392,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392),art392-1), art392-1_cpt -> PrefixMatch(URN(1943,Some((5,1)),art392,urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392),art392-1_cpt)))))-->
+              <Artigo xlink:href="art392" id="art1_cpt_alt1_art392" abreAspas="s">
+            
+            
+            <Rotulo>Art. 392.</Rotulo>
+            
+            <Caput xlink:href="art392_cpt" id="art1_cpt_alt1_art392_cpt">
+            
+            
+            
+            <p>A empregada gestante tem direito à licença-maternidade de 180 (cento e oitenta) dias, sem prejuízo do emprego e do salário, podendo compartilhar até 60 dias do período com seu cônjuge ou companheiro.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art392_omi1"/><Paragrafo xlink:href="art392_par6" id="art1_cpt_alt1_art392_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Em caso de filho portador de deficiência ou com necessidade especial terá direito a licença maternidade em dobro e poderá ser compartilhada por até a metade com o cônjuge ou companheiro de forma alternada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art392-1" id="art1_cpt_alt1_art392-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 392-A.</Rotulo>
+            
+            <Caput xlink:href="art392-1_cpt" id="art1_cpt_alt1_art392-1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>A empregada que adotar ou obtiver a guarda judicial para fins de adoção será concedido o compartilhamento da licença nos termos do artigo anterior.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art473" id="art1_cpt_alt1_art473" abreAspas="s">
+            
+            
+            <Rotulo>Art. 473.</Rotulo>
+            
+            <Caput xlink:href="art473_cpt" id="art1_cpt_alt1_art473_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>, III. Pela quantidade de até 60 dias em caso de compartilhamento da licença.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

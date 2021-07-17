@@ -1,0 +1,277 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;113@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 113 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta os artigos 14-A a H, no <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689">Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> – Código de Processo Penal, que dispõem sobre a nova sistemática do interrogatório em sede policial.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689-->
+            
+            
+            <p>Acrescenta no <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689">Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> – Código de Processo Penal, os seguintes artigos:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art14-7_par1_inc2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-7_par1_inc2), art14-7_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-7_par1), art14-4_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-4_par1), art14-9 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-9), art14-6_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-6_cpt), art14-4_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-4_cpt), art14-5_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-5_cpt), art14-2_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2_par2), art14-3_cpt_inc4 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-3_cpt_inc4), art14-3_cpt_inc3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-3_cpt_inc3), art14-3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-3), art14-7_par1_inc1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-7_par1_inc1), art14-2_par6 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2_par6), art14-2_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2_par1), art14-3_cpt_inc2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-3_cpt_inc2), art14-1_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-1_cpt), art14-6 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-6), art14-3_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-3_cpt), art14-7 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-7), art14-2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2), art14-9_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-9_cpt), art14-2_par5 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2_par5), art14-5 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-5), art14-4_par3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-4_par3), art14-6_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-6_par2), art14-3_cpt_inc1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-3_cpt_inc1), art14-2_par4 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2_par4), art14-7_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-7_cpt), art14-1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-1), art14-2_par3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2_par3), art14-4_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-4_par2), art14-8_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-8_cpt), art14-4 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-4), art14-6_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-6_par1), art14-2_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-2_cpt), art14-8 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-8), art14-5_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-5_par1), art14-9_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-9_par1), art14-7_par1_inc3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art14-7_par1_inc3)))))-->
+              <Artigo xlink:href="art14-1" id="art1_cpt_alt1_art14-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-A.</Rotulo>
+            
+            <Caput xlink:href="art14-1_cpt" id="art1_cpt_alt1_art14-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O ofendido, ou seu representante legal, e o investigado poderão requerer qualquer diligência, que será realizada, ou não, a juízo do delegado de polícia.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art14-2" id="art1_cpt_alt1_art14-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-B.</Rotulo>
+            
+            <Caput xlink:href="art14-2_cpt" id="art1_cpt_alt1_art14-2_cpt">
+            
+            
+            
+            <p>Sem prejuízo das diligências que poderá requerer, é direito do investigado ser ouvido pelo delegado de polícia antes de concluída a investigação. O interrogatório quando requerido será realizado com a presença de seu defensor.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14-2_omi1"/><Paragrafo xlink:href="art14-2_par1" id="art1_cpt_alt1_art14-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No caso de flagrante delito, se, por qualquer motivo, não se puder contar com a assistência de advogado ou defensor público no local, o auto de prisão em flagrante será lavrado e encaminhado ao juiz sem o interrogatório do conduzido, aguardando o delegado de polícia a determinação judicial para a sua realização com assistência de defensor.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-2_omi2"/><Paragrafo xlink:href="art14-2_par2" id="art1_cpt_alt1_art14-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese do § 1º deste artigo, não se realizando o interrogatório, o delegado de polícia limitar-se-á a qualificar o preso.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-2_omi3"/><Paragrafo xlink:href="art14-2_par3" id="art1_cpt_alt1_art14-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O envio dos autos de flagrante para o juiz sem o interrogatório do conduzido também deverá ocorrer na hipótese dos artigos 14-E e 14-G deste Código.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-2_omi4"/><Paragrafo xlink:href="art14-2_par4" id="art1_cpt_alt1_art14-2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Será respeitada em sua plenitude a capacidade de compreensão e discernimento do interrogando, não se admitindo o emprego de métodos ou técnicas ilícitas e de quaisquer formas de coação, intimidação ou ameaça contra a liberdade de declarar, sendo irrelevante, nesse caso, o consentimento da pessoa interrogada.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-2_omi5"/><Paragrafo xlink:href="art14-2_par5" id="art1_cpt_alt1_art14-2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O delegado de polícia responsável pelo interrogatório não poderá prometer vantagens sem expresso amparo legal e nem interrogar qualquer pessoa sem indagar-lhe expressamente à cerca de seus direitos fundamentais.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-2_omi6"/><Paragrafo xlink:href="art14-2_par6" id="art1_cpt_alt1_art14-2_par6" fechaAspas="s">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O interrogatório não se prolongará por tempo excessivo, impondo-se o respeito à integridade física e mental do interrogando. O tempo de duração do interrogatório será expressamente consignado no termo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art14-3" id="art1_cpt_alt1_art14-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-C.</Rotulo>
+            
+            <Caput xlink:href="art14-3_cpt" id="art1_cpt_alt1_art14-3_cpt">
+            
+            
+            
+            <p>Antes do interrogatório, o interrogando será informado:</p>
+            <Omissis id="art1_cpt_alt1_art14-3_cpt_omi1"/><Inciso xlink:href="art14-3_cpt_inc1" id="art1_cpt_alt1_art14-3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>do inteiro teor dos fatos que lhe são imputados ou dos elementos informativos então existentes;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art14-3_cpt_omi2"/><Inciso xlink:href="art14-3_cpt_inc2" id="art1_cpt_alt1_art14-3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de que poderá se entrevistar, em local reservado e por tempo razoável, com o seu defensor;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art14-3_cpt_omi3"/><Inciso xlink:href="art14-3_cpt_inc3" id="art1_cpt_alt1_art14-3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>do direito de permanecer em silêncio, não estando obrigado a responder a uma ou mais perguntas em particular, ou todas que lhe forem formuladas;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art14-3_cpt_omi4"/><Inciso xlink:href="art14-3_cpt_inc4" id="art1_cpt_alt1_art14-3_cpt_inc4" fechaAspas="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>de que o silêncio não importará confissão, nem poderá ser interpretado em prejuízo de sua defesa.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art14-4" id="art1_cpt_alt1_art14-4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-D.</Rotulo>
+            
+            <Caput xlink:href="art14-4_cpt" id="art1_cpt_alt1_art14-4_cpt">
+            
+            
+            
+            <p>O interrogatório será constituído de duas partes; a primeira, sobre a pessoa do interrogando, e a segunda, sobre os fatos.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14-4_omi1"/><Paragrafo xlink:href="art14-4_par1" id="art1_cpt_alt1_art14-4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na primeira parte, o interrogando será perguntado sobre o seu nome, naturalidade, estado civil, idade, filiação, residência, meios de vida ou profissão, lugar onde exerce a sua atividade, vida pregressa, notadamente se foi preso ou processado alguma vez, e, em caso afirmativo, qual o juízo do processo, se houve suspensão condicional ou condenação, qual a pena imposta e se a cumpriu.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-4_omi2"/><Paragrafo xlink:href="art14-4_par2" id="art1_cpt_alt1_art14-4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na segunda parte, será perguntado sobre os fatos que lhe são imputados ou que estejam sob investigação e todas as suas circunstâncias.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-4_omi3"/><Paragrafo xlink:href="art14-4_par3" id="art1_cpt_alt1_art14-4_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Ao final, a autoridade indagará se o interrogando tem algo mais a alegar em sua defesa.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art14-5" id="art1_cpt_alt1_art14-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-E.</Rotulo>
+            
+            <Caput xlink:href="art14-5_cpt" id="art1_cpt_alt1_art14-5_cpt">
+            
+            
+            
+            <p>As informações prestadas serão reduzidas a termo, lidas e assinadas pelo interrogando e seu defensor, assim como pela autoridade responsável pelo ato.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14-5_omi1"/><Paragrafo xlink:href="art14-5_par1u" id="art1_cpt_alt1_art14-5_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Se o interrogatório tiver sido gravado ou filmado, o interrogando ou seu defensor receberão, imediatamente, cópia do material produzido.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art14-6" id="art1_cpt_alt1_art14-6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-F.</Rotulo>
+            
+            <Caput xlink:href="art14-6_cpt" id="art1_cpt_alt1_art14-6_cpt">
+            
+            
+            
+            <p>Assegura-se ao interrogando, em qualquer fase da persecução penal, o direito de ser assistido gratuitamente por intérprete, caso não compreenda bem ou não fale a língua portuguesa.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14-6_omi1"/><Paragrafo xlink:href="art14-6_par1" id="art1_cpt_alt1_art14-6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se necessário, o intérprete também intermediará as conversas entre o interrogando e o seu defensor, ficando obrigado a guardar absoluto sigilo.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art14-6_omi2"/><Paragrafo xlink:href="art14-6_par2" id="art1_cpt_alt1_art14-6_par2" fechaAspas="s">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A repartição consular competente será comunicada, com antecedência, da realização do interrogatório de seu nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art14-7" id="art1_cpt_alt1_art14-7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-G.</Rotulo>
+            
+            <Caput xlink:href="art14-7_cpt" id="art1_cpt_alt1_art14-7_cpt">
+            
+            
+            
+            <p>No interrogatório do mudo, do surdo ou do surdo-mudo será assegurado o direito à assistência por pessoa habilitada a entendê-los ou que domine a língua Brasileira de Sinais (Libras).</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14-7_omi1"/><Paragrafo xlink:href="art14-7_par1u" id="art1_cpt_alt1_art14-7_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não sendo possível a realização do procedimento nos termos do caput deste artigo, o interrogatório será feito da seguinte forma:</p>
+            <Omissis id="art1_cpt_alt1_art14-7_par1u_omi1"/><Inciso xlink:href="art14-7_par1u_inc1" id="art1_cpt_alt1_art14-7_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ao surdo serão apresentadas por escrito as perguntas, que ele responderá oralmente;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art14-7_par1u_omi2"/><Inciso xlink:href="art14-7_par1u_inc2" id="art1_cpt_alt1_art14-7_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ao mudo serão feitas oralmente as perguntas, que ele responderá por escrito;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art14-7_par1u_omi3"/><Inciso xlink:href="art14-7_par1u_inc3" id="art1_cpt_alt1_art14-7_par1u_inc3" fechaAspas="s">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ao surdo-mudo serão apresentadas por escrito as perguntas, que ele responderá do mesmo modo.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art14-8" id="art1_cpt_alt1_art14-8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-H.</Rotulo>
+            
+            <Caput xlink:href="art14-8_cpt" id="art1_cpt_alt1_art14-8_cpt" fechaAspas="s">
+            
+            
+            
+            <p>No interrogatório do índio, o juiz, se necessário, solicitará a colaboração de técnico com conhecimento da cultura da comunidade a que pertence o interrogando ou de representante do órgão indigenista federal, para servir de intérprete e prestar esclarecimentos que possam melhor contextualizar e facilitar a compreensão das respostas.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art14-9" id="art1_cpt_alt1_art14-9" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14-I.</Rotulo>
+            
+            <Caput xlink:href="art14-9_cpt" id="art1_cpt_alt1_art14-9_cpt">
+            
+            
+            
+            <p>Quando o interrogando quiser confessar a autoria da infração penal, a autoridade indagará se o faz de livre espontânea vontade.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art14-9_omi1"/><Paragrafo xlink:href="art14-9_par1u" id="art1_cpt_alt1_art14-9_par1u" fechaAspas="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É nulo o interrogatório que não observar as regras previstas neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

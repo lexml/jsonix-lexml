@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;53@data.evento;leitura;2017-03-15t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 53 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span>, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para prever a oferta de transporte à mãe e a seus filhos recém-nascidos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art8_par3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art8_par3">§ 3º do art. 8º da Lei nº 8.069, de 13 de julho de 1990</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art8 -> SuperPrefixMatch(URN(1990,Some((7,13)),art8_par3,urn:lex:br:federal:lei:1990-07-13;8069!art8_par3),art8), art8_cpt -> SuperPrefixMatch(URN(1990,Some((7,13)),art8_par3,urn:lex:br:federal:lei:1990-07-13;8069!art8_par3),art8_cpt), art8_par3 -> ExactMatch(URN(1990,Some((7,13)),art8_par3,urn:lex:br:federal:lei:1990-07-13;8069!art8_par3))))))-->
+              <Artigo xlink:href="art8" id="art1_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art1_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art8_omi1"/><Paragrafo xlink:href="art8_par3" id="art1_cpt_alt1_art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os serviços de saúde onde o parto for realizado assegurarão às mulheres e a seus filhos recém-nascidos alta hospitalar responsável e contrarreferência na atenção primária e garantia do transporte asséptico das mães e seus filhos recém-nascidos entre o local do parto e sua residência e da residência ao serviço de saúde de atenção primária para complementação dos exames previstos ao neonatal, bem como o acesso a outros serviços e grupos de apoio à amamentação.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art8_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos noventa dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;149@data.evento;leitura;2017-05-17t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 149 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504">Lei nº 9.504, de 30 de setembro de 1997</span>, para fixar o limite máximo de recursos próprios que o candidato poderá usar na campanha.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-30;9504!art23_par1-1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-30;9504!art23_par1-1">§ 1º-A do art. 23 da Lei nº 9.504, de 30 de setembro de 1997</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-30;9504" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-30;9504 -> MatchByBase(urn:lex:br:federal:lei:1997-09-30;9504,1997,Some((9,30)),Map(art23 -> SuperPrefixMatch(URN(1997,Some((9,30)),art23_par1-1,urn:lex:br:federal:lei:1997-09-30;9504!art23_par1-1),art23), art23_cpt -> SuperPrefixMatch(URN(1997,Some((9,30)),art23_par1-1,urn:lex:br:federal:lei:1997-09-30;9504!art23_par1-1),art23_cpt), art23_par1-1 -> ExactMatch(URN(1997,Some((9,30)),art23_par1-1,urn:lex:br:federal:lei:1997-09-30;9504!art23_par1-1))))))-->
+              <Artigo xlink:href="art23" id="art1_cpt_alt1_art23" abreAspas="s">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput xlink:href="art23_cpt" id="art1_cpt_alt1_art23_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art23_par1-1" id="art1_cpt_alt1_art23_par1-1">
+            
+            
+            <Rotulo>§ 1º-A.</Rotulo>
+            <p>O candidato poderá usar recursos próprios em sua campanha até 5% (cinco por cento) do limite de gastos estabelecido nesta Lei para o cargo ao qual concorre.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art23_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art16-->
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação, observado o disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art16">art. 16 da Constituição Federal</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

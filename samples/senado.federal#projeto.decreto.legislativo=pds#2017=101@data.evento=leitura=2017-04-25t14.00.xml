@@ -1,0 +1,70 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.decreto.legislativo;pds:2017;101@data.evento;leitura;2017-04-25t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE DECRETO LEGISLATIVO (SF) Nº 101 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a convocação de plebiscito para que a população brasileira escolha o melhor sistema eleitoral para o país.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica convocado plebiscito, de âmbito nacional, a ser realizado simultânea e conjuntamente às eleições gerais nacionais de 2018, para consultar a população brasileira sobre a seguinte pergunta: “qual o melhor sistema eleitoral para o Brasil: a) o atual sistema eleitoral; b) o sistema distrital; c) o voto em lista fechada pré-definida pelos partidos políticos; d) o sistema misto (metade lista e metade distrital)?”.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Por ocasião do primeiro turno das eleições gerais de 2018, os eleitores votarão em uma das propostas acima; se nenhum dos sistemas alcançar a maioria absoluta dos votos válidos na primeira votação, as duas propostas mais votadas no primeiro turno serão objeto de consulta, escolha e votação pela população brasileira no segundo turno nas eleições de 2018.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O resultado do plebiscito com o sistema eleitoral escolhido pela população será homologado pelo Tribunal Superior Eleitoral, encaminhado ao Congresso Nacional e terá efeito vinculante para as próximas eleições de 2020 e as subsequentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O Tribunal Superior Eleitoral expedirá as normas regulamentadoras necessárias à realização do plesbicito de que trata este Decreto Legislativo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Este Decreto Legislativo entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

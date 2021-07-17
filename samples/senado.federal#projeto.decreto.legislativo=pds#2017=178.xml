@@ -1,0 +1,76 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.decreto.legislativo;pds:2017;178"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE DECRETO LEGISLATIVO (SF) Nº 178 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a convocação de plebiscito para consultar o povo sobre porte de arma de fogo e munição.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988--><!--Link: urn:lex:br:federal:lei:1998-11-18;9709!art2_par1-->
+            
+            
+            <p>Fica convocado plebiscito, nos termos dos arts. 1º, parágrafo único; 14, I; e 49, XV, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span> e do <span xlink:href="urn:lex:br:federal:lei:1998-11-18;9709!art2_par1">art. 2º, § 1º, da Lei nº 9.709, de 18 de novembro de 1998</span>, a ser realizado em todo o território nacional, para consultar o eleitorado sobre a conveniência e oportunidade de se permitir o porte de arma de fogo aos brasileiros que atendam a requisitos objetivos a serem estabelecidos por lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O eleitorado será chamado a responder “sim” ou “não” à seguinte questão: “O porte de arma de fogo e munição deve ser permitido aos brasileiros que atendam a requisitos objetivos estabelecidos em lei?”.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Campanha institucional da Justiça Eleitoral, veiculada nos meios de comunicação de massa, poderá esclarecer a população a respeito da questão formulada no art. 2º, com espaço idêntico para manifestações favoráveis e contrárias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>O plebiscito será realizado em conjunto com o primeiro turno das eleições de 2018.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Este Decreto Legislativo entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

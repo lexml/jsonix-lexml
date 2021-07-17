@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;468@data.evento;leitura;2017-11-28t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 468 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera <span xlink:href="urn:lex:br:federal:lei:2011-08-04;12462">Lei nº 12.462, de 4 de agosto 2011</span>, a fim de prever nova aplicação para os recursos do Fundo Nacional de Aviação Civil - FNAC.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2011-08-04;12462!art63-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2011-08-04;12462!art63">art. 63 da Lei nº 12.462, de 4 de agosto de 2011</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2011-08-04;12462" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2011-08-04;12462 -> MatchByBase(urn:lex:br:federal:lei:2011-08-04;12462,2011,Some((8,4)),Map(art63_par2 -> PrefixMatch(URN(2011,Some((8,4)),art63,urn:lex:br:federal:lei:2011-08-04;12462!art63),art63_par2), art63_par2_inc2 -> PrefixMatch(URN(2011,Some((8,4)),art63,urn:lex:br:federal:lei:2011-08-04;12462!art63),art63_par2_inc2), art63_cpt -> PrefixMatch(URN(2011,Some((8,4)),art63,urn:lex:br:federal:lei:2011-08-04;12462!art63),art63_cpt), art63_par2_inc1 -> PrefixMatch(URN(2011,Some((8,4)),art63,urn:lex:br:federal:lei:2011-08-04;12462!art63),art63_par2_inc1), art63 -> ExactMatch(URN(2011,Some((8,4)),art63,urn:lex:br:federal:lei:2011-08-04;12462!art63))))))-->
+              <Artigo xlink:href="art63" id="art1_cpt_alt1_art63" abreAspas="s">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput xlink:href="art63_cpt" id="art1_cpt_alt1_art63_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art63_omi1"/><Paragrafo xlink:href="art63_par2" id="art1_cpt_alt1_art63_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os recursos do FNAC serão aplicados exclusivamente:</p>
+            <Inciso xlink:href="art63_par2_inc1" id="art1_cpt_alt1_art63_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>no desenvolvimento e fomento do setor de aviação civil e das infraestruturas aeroportuária e aeronáutica civil; e</p>
+            
+          </Inciso><Inciso xlink:href="art63_par2_inc2" id="art1_cpt_alt1_art63_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>na cobertura de custos de desapropriações de áreas destinadas a ampliações da infraestrutura aeroportuária e aeronáutica civil, observado o § 5º.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art63_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

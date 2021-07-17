@@ -1,0 +1,106 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;244@data.evento;leitura;2018-05-16t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 244 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343">Lei nº 11.343, de 23 de agosto de 2006</span>, para estabelecer a possibilidade da internação compulsória e estimular o tratamento especializado do dependente químico incurso nas penas previstas na referida lei.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-08-23;11343!art47-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343!art47">artigo 47, da Lei n° 11.343, de 23 de agosto de 2006</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-08-23;11343" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-08-23;11343 -> MatchByBase(urn:lex:br:federal:lei:2006-08-23;11343,2006,Some((8,23)),Map(art47_par3 -> PrefixMatch(URN(2006,Some((8,23)),art47,urn:lex:br:federal:lei:2006-08-23;11343!art47),art47_par3), art47_par2 -> PrefixMatch(URN(2006,Some((8,23)),art47,urn:lex:br:federal:lei:2006-08-23;11343!art47),art47_par2), art47_par1 -> PrefixMatch(URN(2006,Some((8,23)),art47,urn:lex:br:federal:lei:2006-08-23;11343!art47),art47_par1), art47 -> ExactMatch(URN(2006,Some((8,23)),art47,urn:lex:br:federal:lei:2006-08-23;11343!art47)), art47_cpt -> PrefixMatch(URN(2006,Some((8,23)),art47,urn:lex:br:federal:lei:2006-08-23;11343!art47),art47_cpt)))))-->
+              <Artigo xlink:href="art47" id="art1_cpt_alt1_art47" abreAspas="s">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput xlink:href="art47_cpt" id="art1_cpt_alt1_art47_cpt">
+            
+            
+            
+            <p>Na sentença condenatória, o juiz, com base em avaliação realizada por comissão técnica que ateste que o réu possui um padrão de comportamento agressivo, criminoso e destrutivo para com sua família, sua própria saúde, e para com terceiros, em razão da utilização de drogas, substituirá as penas do art. 28 desta Lei por tratamento especializado que poderá ser ambulatorial ou com internação em instituição especializada.</p>
+            
+          </Caput><Paragrafo xlink:href="art47_par1" id="art1_cpt_alt1_art47_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A comissão de que trata o caput deste artigo funcionará junto ao tribunal ou juízo competente, terá seus membros designados pelo Conselho Municipal Antidrogas, onde houver, e será composta por três profissionais com experiência em dependência e efeitos das drogas, sendo ao menos um deles médico, conforme regulamento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par2" id="art1_cpt_alt1_art47_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O juiz poderá, a qualquer momento, encaminhar o acusado para tratamento especializado, após ouvida a comissão de que trata o § 1º do caput deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par3" id="art1_cpt_alt1_art47_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O juiz determinará ao Poder Público que coloque à disposição do condenado, gratuitamente, estabelecimento de saúde para tratamento especializado.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2006-08-23;11343!art48-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2006-08-23;11343!art48">artigo 48, da Lei n° 11.343, de 23 de agosto de 2006</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2006-08-23;11343" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2006-08-23;11343 -> MatchByBase(urn:lex:br:federal:lei:2006-08-23;11343,2006,Some((8,23)),Map(art48 -> ExactMatch(URN(2006,Some((8,23)),art48,urn:lex:br:federal:lei:2006-08-23;11343!art48)), art48_cpt -> PrefixMatch(URN(2006,Some((8,23)),art48,urn:lex:br:federal:lei:2006-08-23;11343!art48),art48_cpt), art48_par5 -> PrefixMatch(URN(2006,Some((8,23)),art48,urn:lex:br:federal:lei:2006-08-23;11343!art48),art48_par5)))))-->
+              <Artigo xlink:href="art48" id="art2_cpt_alt1_art48" abreAspas="s">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput xlink:href="art48_cpt" id="art2_cpt_alt1_art48_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art48_par5" id="art2_cpt_alt1_art48_par5" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1995;9099!art76-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Para fins do disposto no <span xlink:href="urn:lex:br:federal:lei:1995;9099!art76">art. 76 da Lei nº 9.099, de 1995</span>, que dispõe sobre os Juizados Especiais Criminais, o Ministério Público poderá propor o encaminhamento imediato do acusado para tratamento especializado.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

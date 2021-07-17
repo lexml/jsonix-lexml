@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;374@data.evento;leitura;2017-10-03t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 374 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span>, para incluir como cláusula abusiva aquela que obrigue o pagamento de fatura de compra de produtos exclusivamente no estabelecimento do fornecedor.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art51_cpt-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art51_cpt">caput do art. 51 da Lei nº 8.078, de 11 de setembro de 1990</span>, passa a vigorar acrescido do seguinte inciso XVII:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-11;8078" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-11;8078 -> MatchByBase(urn:lex:br:federal:lei:1990-09-11;8078,1990,Some((9,11)),Map(art51 -> SuperPrefixMatch(URN(1990,Some((9,11)),art51_cpt,urn:lex:br:federal:lei:1990-09-11;8078!art51_cpt),art51), art51_cpt -> ExactMatch(URN(1990,Some((9,11)),art51_cpt,urn:lex:br:federal:lei:1990-09-11;8078!art51_cpt)), art51_cpt_inc17 -> PrefixMatch(URN(1990,Some((9,11)),art51_cpt,urn:lex:br:federal:lei:1990-09-11;8078!art51_cpt),art51_cpt_inc17)))))-->
+              <Artigo xlink:href="art51" id="art1_cpt_alt1_art51" abreAspas="s">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput xlink:href="art51_cpt" id="art1_cpt_alt1_art51_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art51_cpt_omi1"/><Inciso xlink:href="art51_cpt_inc17" id="art1_cpt_alt1_art51_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>obriguem o pagamento de fatura de compra de produtos exclusivamente no estabelecimento do fornecedor.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art51_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

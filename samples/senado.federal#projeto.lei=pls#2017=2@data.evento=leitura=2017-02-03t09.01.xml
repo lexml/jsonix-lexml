@@ -1,0 +1,2854 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;2@data.evento;leitura;2017-02-03t09.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 2 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre os crimes de responsabilidade e as respectivas normas de processo e julgamento.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Titulo id="tit1">
+            
+            
+            <Rotulo>TÍTULO I</Rotulo>
+            <NomeAgrupador>DAS DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei define os crimes de responsabilidade e estabelece as normas do respectivo processo e julgamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Estão sujeitos a esta Lei as seguintes autoridades:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Presidente da República;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o Vice-Presidente da República;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os Ministros de Estado;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>os Ministros do Supremo Tribunal Federal;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os Conselheiros do Conselho Nacional de Justiça;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o Procurador-Geral da República;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os Conselheiros do Conselho Nacional do Ministério Público;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>os Ministros do Tribunal de Contas da União e demais membros de Tribunais de Contas;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>os Governadores e Vice-Governadores dos Estados e do Distrito Federal;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>os Secretários de Estado e do Distrito Federal;</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Para fins desta Lei, equiparam-se aos Ministros de Estado os Comandantes da Marinha, do Exército e da Aeronáutica, o Advogado-Geral da União, o Defensor Público-Geral Federal e os titulares de órgãos diretamente subordinados à Presidência da República, que a legislação tenha equiparado a Ministro.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Os crimes de responsabilidade de Prefeitos, Vice-Prefeitos e Secretários municipais serão regidos por legislação específica.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O processo e o julgamento por crime de responsabilidade previsto nesta Lei não impedem a responsabilização do agente por infração penal comum ou ato de improbidade administrativa, ainda que relativa ao mesmo fato.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A responsabilização pelos crimes de responsabilidade previstos nesta Lei independe de aprovação ou rejeição das contas do agente.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Titulo><Titulo id="tit2">
+            
+            
+            <Rotulo>TÍTULO II</Rotulo>
+            <NomeAgrupador>DOS CRIMES DE RESPONSABILIDADE</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade as infrações de natureza político-administrativas cometidas comissiva ou omissivamente, no exercício da função pública, que lesem ou visem a lesar gravemente os fundamentos da República, o Estado Democrático de Direito e os princípios que informam uma administração proba, justa e eficiente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>A condenação por crime de reponsabilidade culminará obrigatória e cumulativamente à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública.</p>
+            
+          </Caput><Paragrafo id="art7_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Pune-se a tentativa com a pena correspondente ao crime consumado.</p>
+            
+          </Paragrafo>
+          </Artigo><Capitulo id="tit2_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DOS CRIMES DE RESPONSABILIDADE DO PRESIDENTE DA REPÚBLICA E DO VICE-PRESIDENTE DA REPÚBLICA</NomeAgrupador>
+            <Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>São crimes de responsabilidade os atos do Presidente da República e do Vice-Presidente da República que atentem contra a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span> e, especialmente, contra:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a existência da União;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público, da Defensoria Pública e dos Poderes constitucionais dos Estados, do Distrito Federal e dos Municípios;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o exercício dos direitos políticos, individuais e sociais;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a segurança interna do País;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a probidade na administração;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a lei orçamentária;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o cumprimento das leis e das decisões judiciais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O Presidente da República, na vigência de seu mandato, não pode ser responsabilizado por atos estranhos ao exercício de suas funções.</p>
+            
+          </Caput><Paragrafo id="art9_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não se consideram atos estranhos ao exercício da função os cometidos no mandato anterior, na hipótese de reeleição.</p>
+            
+          </Paragrafo>
+          </Artigo><Secao id="tit2_cap1_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Dos crimes contra a existência da União</NomeAgrupador>
+            <Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade contra a existência da União:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>manter, direta ou indiretamente, inteligência com governo estrangeiro, provocando-o a fazer guerra ou a cometer hostilidade contra a República; prometer-lhe assistência ou favor; ou dar-lhe qualquer auxílio nos preparativos ou planos de guerra contra a República;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>tentar submeter a União, algum dos Estados, Municípios, ou Territórios a domínio estrangeiro, ou dela separar qualquer Estado ou porção do território nacional;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cometer ato de hostilidade contra nação estrangeira, expondo a República ao perigo da guerra, ou comprometendo-lhe a neutralidade;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>revelar negócios políticos ou militares que devam ser mantidos secretos a bem da defesa da segurança externa ou dos interesses da Nação;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>auxiliar, por qualquer modo, nação inimiga a fazer a guerra ou a cometer hostilidade contra a República;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>celebrar tratados, convenções ou ajustes que comprometam a dignidade da Nação;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>violar a imunidade dos embaixadores ou ministros estrangeiros acreditados no país;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>declarar a guerra, salvo os casos de invasão ou agressão estrangeira, ou fazer a paz, sem autorização do Congresso Nacional;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>não empregar contra o inimigo, dolosa ou culposamente, os meios de defesa à sua disposição;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>permitir, durante as sessões legislativas e sem autorização do Congresso Nacional, que forças estrangeiras transitem pelo território do país, ou, por motivo de guerra, nele permaneçam temporariamente;</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>violar tratados legitimamente feitos com nações estrangeiras.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap1_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos crimes contra o livre exercício dos Poderes constitucionais</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade contra o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público, da Defensoria Pública e dos Poderes constitucionais dos Estados, do Distrito Federal e dos Municípios:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tentar dissolver o Congresso Nacional, impedir a reunião ou tentar impedir por qualquer modo o funcionamento de qualquer de suas Casas;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>usar de violência ou ameaça contra algum parlamentar, seja para afastá-lo da Casa a que pertença, ou para coagi-lo no modo de exercer o seu mandato, inclusive mediante suborno ou outras formas de corrupção;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>violar as imunidades asseguradas aos membros do Congresso Nacional, das Assembleias Legislativas dos Estados, da Câmara Legislativa do Distrito Federal e das Câmaras Municipais;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>permitir que força estrangeira transite pelo território do País ou nele permaneça quando a isso se oponha o Congresso Nacional;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>opor-se ao livre exercício do Poder Judiciário, ou obstar, por meios violentos, ao efeito dos seus atos, mandados ou sentenças;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>usar de violência ou ameaça para constranger membro do Poder Judiciário ou jurado a proferir ou deixar de proferir despacho, sentença ou voto, ou a fazer ou deixar de fazer ato do seu ofício;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>praticar contra os poderes estaduais, municipais ou do Distrito Federal ato definido como crime neste artigo;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>intervir em negócios peculiares aos Estados, ao Distrito Federal ou aos Municípios com desobediência às normas constitucionais;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>violar a autonomia do Ministério Público ou da Defensoria Pública, na forma dos incisos II, III, V e VI.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap1_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Dos crimes contra o exercício dos direitos políticos, individuais e sociais</NomeAgrupador>
+            <Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade contra o livre exercício dos direitos políticos, individuais e sociais:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>impedir, por violência, ameaça ou corrupção, o livre exercício do voto;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>obstar ao livre exercício das funções dos mesários eleitorais;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>violar o escrutínio de seção eleitoral ou inquinar de nulidade o seu resultado pela subtração, desvio ou inutilização do respectivo material;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>utilizar o poder federal para impedir a livre execução da lei eleitoral;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>servir-se das autoridades sob sua subordinação imediata para praticar abuso do poder, ou tolerar que essas autoridades o pratiquem sem repressão sua;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>subverter ou tentar subverter por meios violentos a ordem política e social;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>incitar militares à desobediência à lei ou infração à disciplina;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>provocar animosidade entre as classes armadas ou contra elas, ou delas contra as instituições civis;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc9">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>IX –</Rotulo>
+            <p>violar patentemente qualquer direito ou garantia individual previstos expressa ou implicitamente na <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc10">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>X –</Rotulo>
+            <p>tomar ou autorizar, durante o estado de sítio ou o estado de defesa, medidas de repressão que excedam os limites estabelecidos na <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap1_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Dos crimes contra a segurança interna do País</NomeAgrupador>
+            <Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>São crimes contra a segurança interna do País:</p>
+            <Inciso id="art13_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tentar mudar por violência a forma de governo da República;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>tentar mudar por violência a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição Federal</span> ou de algum dos Estados, ou lei da União, de Estado, do Distrito Federal ou de Município;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>decretar o estado de sítio ou estado de defesa, fora das hipóteses constitucionais, ou com desrespeito ao procedimento exigido;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>praticar ou concorrer para que se perpetre qualquer dos crimes contra a segurança interna, definidos na legislação penal comum;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>não dar as providências de sua competência para impedir ou frustrar a execução desses crimes;</p>
+            
+          </Inciso><Inciso id="art13_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>deixar de tomar, nos prazos fixados, as providências determinadas por lei ou tratado federal e necessário a sua execução e cumprimento.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap1_sec5">
+            
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador>Dos crimes contra a probidade na administração</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade contra a probidade na administração:</p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>omitir ou retardar dolosamente a publicação das leis e resoluções do Poder Legislativo ou dos atos do Poder Executivo;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>não prestar ao Congresso Nacional, dentro de 60 (sessenta) dias após a abertura da sessão legislativa, as contas relativas ao exercício anterior;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>não tornar efetiva a responsabilidade dos seus subordinados, quando manifestada em delitos funcionais ou na prática de atos contrários à <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, quando sabia da infração;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc4">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>expedir ordens ou fazer requisição de forma contrária às disposições expressas da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>prover cargos públicos de forma ilegal ou com desvio de finalidade;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>usar de violência ou ameaça contra funcionário público para coagi-lo a proceder ilegalmente, inclusive mediante suborno ou qualquer outra forma de corrupção para o mesmo fim;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>causar prejuízo relevante ao erário, por ato comissivo ou omissivo, mediante condutas graves de má-gestão administrativa;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>proceder de modo incompatível com a dignidade e o decoro do cargo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap1_sec6">
+            
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador>Dos crimes contra a lei orçamentária</NomeAgrupador>
+            <Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade contra a lei orçamentária:</p>
+            <Inciso id="art15_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>não apresentar ao Congresso Nacional o projeto de lei orçamentária da União dentro do prazo estabelecido em lei;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>exceder ou transportar, sem autorização legal, as verbas do orçamento;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>realizar o estorno de verbas;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc4">
+            <!--Link: urn:lex:br:federal:lei:1964-03-17;4320-->
+            
+            <Rotulo>IV –</Rotulo>
+            <p>infringir, patentemente e de qualquer modo, dispositivo da lei orçamentária, da Lei de Diretrizes Orçamentárias, da Lei de Responsabilidade Fiscal e da <span xlink:href="urn:lex:br:federal:lei:1964-03-17;4320">Lei nº 4.320, de 17 de março de 1964</span>.</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>deixar de ordenar a redução do montante da dívida consolidada, nos prazos estabelecidos em lei, quando o montante ultrapassar o valor resultante da aplicação do limite máximo fixado pelo Senado Federal;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>ordenar ou autorizar a abertura de crédito em desacordo com os limites estabelecidos pelo Senado Federal, sem fundamento na lei orçamentária ou na de crédito adicional ou com inobservância de prescrição legal;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>deixar de promover ou de ordenar, na forma da lei, o cancelamento, a amortização ou a constituição de reserva para anular os efeitos de operação de crédito realizada com inobservância de limite, condição ou montante estabelecido em lei;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>deixar de promover ou de ordenar a liquidação integral de operação de crédito por antecipação de receita orçamentária, inclusive os respectivos juros e demais encargos, até o encerramento do exercício financeiro;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>ordenar ou autorizar, em desacordo com a lei, a realização de operação de crédito com qualquer um dos demais entes da Federação, inclusive suas entidades da administração indireta, ainda que na forma de novação, refinanciamento ou postergação de dívida contraída anteriormente;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>captar recursos a título de antecipação de receita de tributo ou contribuição cujo fato gerador ainda não tenha ocorrido;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>ordenar ou autorizar a destinação de recursos provenientes da emissão de títulos para finalidade diversa da prevista na lei que a autorizou;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>realizar ou receber transferência voluntária em desacordo com limite ou condição estabelecida em lei.</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>ordenar despesas não autorizadas por lei ou sem observância das prescrições legais;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>abrir crédito sem fundamento em lei ou sem as formalidades legais;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>contrair empréstimo, emitir moeda corrente ou apólices, ou efetuar operação de crédito sem autorização legal;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>alienar imóveis nacionais ou empenhar rendas públicas sem autorização legal;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>negligenciar a arrecadação das rendas públicas, bem como a conservação do patrimônio nacional;</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art15_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Constituem crimes de responsabilidade os atos previstos no caput quando praticados:</p>
+            <Inciso id="art15_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo Presidente do Supremo Tribunal Federal, ou seu substituto, no exercício da Presidência do Tribunal;</p>
+            
+          </Inciso><Inciso id="art15_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pelos Presidentes, e respectivos substitutos, no exercício da Presidência dos Tribunais Superiores, dos Tribunais de Contas, do Conselho Nacional de Justiça, do Conselho Nacional do Ministério Público, dos Tribunais Regionais Federais, do Trabalho e Eleitorais, dos Tribunais de Justiça dos Estados e do Distrito Federal, e aos Juízes Diretores de Foro no exercício de função equivalente no primeiro grau de jurisdição;</p>
+            
+          </Inciso><Inciso id="art15_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>pelo Procurador-Geral da República, ou seu substituto, quando no exercício da chefia do Ministério Público da União;</p>
+            
+          </Inciso><Inciso id="art15_par1u_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>pelos Procuradores-Gerais do Trabalho e Militar, ao Vice-Procurador-Geral Eleitoral, aos Procuradores-Gerais de Justiça dos Estados e do Distrito Federal, aos Procuradores-Gerais dos Estados e do Distrito Federal, e aos membros do Ministério Público da União e dos Estados, das Procuradorias dos Estados e do Distrito Federal, no exercício de função de chefia das unidades regionais ou locais das respectivas instituições;</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit2_cap1_sec7">
+            
+            
+            <Rotulo>SEÇÃO VII</Rotulo>
+            <NomeAgrupador>Dos crimes contra o cumprimento das leis e das decisões judiciárias</NomeAgrupador>
+            <Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>São crimes contra o cumprimento das leis e das decisões judiciárias:</p>
+            <Inciso id="art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>impedir, por qualquer meio, o efeito dos atos, mandados ou decisões do Poder Judiciário;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>recusar o cumprimento das decisões do Poder Judiciário no que depender do exercício das funções do Poder Executivo;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>deixar de atender a requisição de intervenção federal do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do Tribunal Superior Eleitoral;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>impedir ou frustrar pagamento determinado por sentença judiciária.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap1_sec8">
+            
+            
+            <Rotulo>SEÇÃO VIII</Rotulo>
+            <NomeAgrupador>Das disposições comuns</NomeAgrupador>
+            <Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Os crimes previstos nas seções anteriores poderão ser praticados por aqueles que substituírem temporariamente o Presidente da República na forma prevista pela <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="tit2_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DOS CRIMES DE RESPONSABILIDADE DOS MINISTROS DE ESTADO</NomeAgrupador>
+            <Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade dos Ministros de Estado:</p>
+            <Inciso id="art18_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os atos definidos no capítulo anterior, quando por eles praticados ou ordenados;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os atos previstos no capítulo anterior que os Ministros assinarem com o Presidente da República ou por ordem deste praticarem;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a falta de comparecimento, sem motivo justo, perante a Câmara dos Deputados ou o Senado Federal, ou qualquer das suas comissões, quando uma ou outra Casa do Congresso os convocar para, pessoalmente, prestarem informações acerca de assunto previamente determinado;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>não prestarem, dentro de 30 (trinta) dias e sem motivo justo, a qualquer das Câmaras do Congresso Nacional, as informações que ela lhes solicitar por escrito, ou prestarem-nas com falsidade.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art18_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplica-se o disposto neste capítulo aos Comandantes da Marinha, do Exército e da Aeronáutica, ao Advogado-Geral da União, ao Defensor Público-Geral Federal e aos titulares de órgãos diretamente subordinados à Presidência da República, que a legislação tenha equiparado a Ministro.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DOS CRIMES DE RESPONSABILIDADE DOS MINISTROS DO SUPREMO TRIBUNAL FEDERAL</NomeAgrupador>
+            <Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade dos Ministros do Supremo Tribunal Federal:</p>
+            <Inciso id="art19_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>alterar a decisão ou voto já proferido em sessão do Tribunal após a conclusão do julgamento, salvo se houver recurso;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>proferir julgamento, quando, por lei, seja suspeito ou impedido de atuar na causa;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>exercer atividade político-partidária;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>exercer, ainda que em disponibilidade, outro cargo ou função, salvo uma de magistério;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>ser patentemente desidioso no cumprimento dos deveres do cargo;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>receber, a qualquer título ou pretexto, custas ou participação em processo;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>proceder de modo incompatível com a honra dignidade e o decoro de suas funções.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Os crimes previstos neste capítulo aplicam-se aos membros dos Tribunais de Contas e aos membros do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DOS CRIMES DE RESPONSABILIDADE DO PROCURADOR-GERAL DA REPÚBLICA</NomeAgrupador>
+            <Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>São crimes de responsabilidade do Procurador-Geral da República:</p>
+            <Inciso id="art21_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>emitir parecer, quando, por lei, seja suspeito na causa;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>recusar-se a prática de ato que lhe incumba;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ser patentemente desidioso no cumprimento de suas atribuições;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>proceder de modo incompatível com a dignidade e o decoro do cargo.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Os crimes previstos neste capítulo aplicam-se ao Advogado-Geral da União, ao Defensor Público-Geral Federal e aos membros do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DOS CRIMES DE RESPONSABILIDADE DO GOVERNADOR, DO VICE-GOVERNADOR E DOS SECRETÁRIOS DE ESTADO E DO DISTRITO FEDERAL</NomeAgrupador>
+            <Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Constituem crimes de responsabilidade dos governadores dos Estados e do Distrito Federal ou dos seus Secretários, quando por eles praticados, os atos definidos como crimes nesta Lei</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit3">
+            
+            
+            <Rotulo>TÍTULO III</Rotulo>
+            <NomeAgrupador>DO PROCESSO E DO JULGAMENTO POR CRIME DE RESPONSABILIDADE</NomeAgrupador>
+            <Capitulo id="tit3_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DA COMPETÊNCIA</NomeAgrupador>
+            <Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>O processo e o julgamento dos crimes de responsabilidade competem:</p>
+            <Inciso id="art24_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ao Senado Federal, quando cometidos:</p>
+            <Alinea id="art24_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>pelo Presidente da República;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>pelo Vice-Presidente da República;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>pelos Ministros de Estado, quando conexos com os crimes praticados pelas autoridades previstas nas alíneas “a” e “b”;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>pelos Ministros do Supremo Tribunal Federal;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>pelo Procurador-Geral da República;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc1_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>pelos membros do Conselho Nacional de Justiça;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc1_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>pelos membros do Conselho Nacional do Ministério Público;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art24_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ao Supremo Tribunal Federal, quando cometidos:</p>
+            <Alinea id="art24_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>por Ministros de Tribunais Superiores;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>por Ministros do Tribunal de Contas da União;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>por Ministros de Estado, ressalvada a alínea “c” do inciso I;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art24_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ao Superior Tribunal de Justiça, quando cometidos:</p>
+            <Alinea id="art24_cpt_inc3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>por membros de Tribunal de Justiça ou de Tribunal Regional Federal, Eleitoral ou do Trabalho, ou órgão a eles equivalente;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>por membros do Ministério Público da União que oficiem perante tribunais;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc3_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>por conselheiros de Tribunal de Contas Estadual, do Distrito Federal ou dos Municípios;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art24_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>aos Tribunais Regionais Federais, quando cometidos:</p>
+            <Alinea id="art24_cpt_inc4_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>pelos juízes federais, inclusive os da Justiça Militar e os da Justiça do Trabalho da área de sua jurisdição;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc4_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>pelos membros do Ministério Público da União que não oficiem perante tribunais;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art24_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>à Assembleia Legislativa e à Câmara Legislativa do Distrito Federal, quando cometidos: por Governadores dos Estados e do Distrito Federal por Vice-Governadores dos Estados e do Distrito Federal; por Secretários de Estado e do Distrito Federal, quando conexos com os crimes praticados pelas autoridades previstas nas alíneas “a” e “b”;</p>
+            
+          </Inciso><Inciso id="art24_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>aos Tribunais de Justiça dos Estados, do Distrito Federal e dos Territórios, quando cometidos:</p>
+            <Alinea id="art24_cpt_inc6_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>pelos juízes de direito a eles vinculados;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc6_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>pelos membros do Ministério Público Estadual e do Ministério Público do Distrito Federal e Territórios;</p>
+            
+          </Alinea><Alinea id="art24_cpt_inc6_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>por Secretários de Estado e do Distrito Federal, ressalvada a alínea “c” do inciso V;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Considera-se conexo o crime de responsabilidade do Ministro de Estado com o Presidente da República ou o Vice-Presidente da República, quando houver sido praticado:</p>
+            <Inciso id="art25_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>por aquele a mando de um destes;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em coautoria por aquele com um destes;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>para tentar encobrir o crime de responsabilidade cometido por um destes.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art25_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O disposto no caput se aplica ao crime de responsabilidade conexo praticado por Secretário de Estado ou do Distrito Federal com Governador.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>Havendo conexão entre crimes cometidos por pessoas sujeitas a julgamento perante órgãos diferentes, haverá a separação dos processos, salvo nas hipóteses do art. 25.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit3_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DA DENÚNCIA</NomeAgrupador>
+            <Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>É permitido a qualquer partido político com representação no Congresso Nacional denunciar o Presidente da República, o Vice-Presidente da República, o Ministro de Estado ou o Comandante da Marinha, do Exército e da Aeronáutica, por crime de responsabilidade, perante a Câmara dos Deputados.</p>
+            
+          </Caput><Paragrafo id="art27_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A denúncia também poderá ser apresentada por requerimento de 1% (um por cento) do eleitorado nacional, distribuído pelo menos por 5 (cinco) Estados, com não menos de 0,3% (três décimos por cento) dos eleitores de cada um deles.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>A denúncia, assinada pelo denunciante, deve ser acompanhada dos documentos que a comprovem, ou da declaração de impossibilidade de apresentá-los, com a indicação do local onde possam ser encontrados.</p>
+            
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos crimes em que seja cabível prova testemunhal, a denúncia deverá conter o rol das testemunhas, com o máximo de 5 (cinco) para a fase de recebimento e de 10 (dez) para a fase de instrução, independentemente da quantidade de fatos.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A denúncia só poderá ser recebida enquanto o denunciado não tiver, por qualquer motivo, deixado definitivamente o cargo.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O oferecimento da denúncia dispensa a representação por advogado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>A denúncia será apresentada perante:</p>
+            <Inciso id="art29_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a Câmara dos Deputados, quando o denunciado for: o Presidente da República; o Vice-Presidente da República; Ministro de Estado, nos casos de crimes conexos com aqueles praticados pelas autoridades previstas nas alíneas “a” e “b”, observado o art. 3º;</p>
+            
+          </Inciso><Inciso id="art29_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o órgão responsável pelo julgamento nos demais casos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit3_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DO PROCESSO E DO JULGAMENTO PERANTE O SENADO FEDERAL</NomeAgrupador>
+            <Secao id="tit3_cap3_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da admissibilidade da denúncia</NomeAgrupador>
+            <Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Apresentada a denúncia, o Presidente do Senado Federal, ou o Presidente da Câmara dos Deputados nas hipóteses do art. 51, I, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, no prazo de 10 (dez) dias úteis, verificará a existência dos requisitos formais e comunicará ao Plenário a sua admissibilidade ou seu indeferimento.</p>
+            
+          </Caput><Paragrafo id="art30_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O silêncio do Presidente da Casa Legislativa após decorrido o prazo de que trata o caput será considerado indeferimento.</p>
+            
+          </Paragrafo><Paragrafo id="art30_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Do despacho de admissibilidade de que trata o caput, bem como do indeferimento tácito de que trata o §1º deste artigo, caberá recurso ao Plenário da respectiva Casa Legislativa, assinado por, no mínimo, um terço dos membros da Casa, no prazo de 5 (cinco) dias úteis</p>
+            
+          </Paragrafo><Paragrafo id="art30_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O recurso de que trata o §2º será automaticamente incluído na Ordem do Dia até 10 (dez) dias úteis contados da sua apresentação.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit3_cap3_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Da autorização pela Câmara dos Deputados</NomeAgrupador>
+            <Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Nas hipóteses do art. 51, I, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, admitida a denúncia pelo Presidente da Câmara dos Deputados, esta será lida no expediente da sessão ordinária seguinte e despachada a uma Comissão Especial.</p>
+            
+          </Caput><Paragrafo id="art31_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Admitida a denúncia mediante provimento do recurso previsto no §2º do art. 28, esta será lida imediatamente após a proclamação do resultado do recurso e despachada a uma Comissão Especial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>A Comissão Especial será composta por quarenta membros titulares e igual número de suplentes, eleita por voto aberto dos Deputados, da qual participem, observada a respectiva proporção, representantes de todos os partidos para opinar sobre ela.</p>
+            
+          </Caput><Paragrafo id="art32_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Comissão Especial reunir-se-á dentro de 24 (vinte e quatro) horas para eleger seu Presidente e relator.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>Dentro do prazo de 10 (dez) dias úteis, a Comissão Especial emitirá parecer sobre a autorização da abertura de processo por crime de responsabilidade.</p>
+            
+          </Caput><Paragrafo id="art33_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O denunciado será citado para apresentar defesa preliminar, em até 5 (cinco) dias úteis, contados da citação.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Dentro do período previsto no caput, a comissão analisará os documentos contidos na denúncia, bem como a defesa preliminar, para decidir se são graves e suficientes para a autorização da abertura de processo por crime de responsabilidade, não se admitindo prova testemunhal ou interrogatório.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando a denúncia narrar dois ou mais fatos, o parecer poderá concluir pela autorização parcial.</p>
+            
+          </Paragrafo><Paragrafo id="art33_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se qualquer dos membros da Comissão Especial discordar do relator, poderá oferecer voto em separado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>O denunciante e o denunciando serão intimados de todos os atos da Comissão Especial, podendo participar das reuniões e usar moderadamente da palavra.</p>
+            
+          </Caput><Paragrafo id="art34_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Antes da votação, o denunciante e o denunciado, ou seus procuradores, nessa ordem, poderão falar por até 1 (uma) hora sobre se a denúncia deve ou não ser admitida, sem direito a réplica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>Aprovado o parecer pela Comissão Especial, este será lido no expediente da sessão ordinária da Câmara dos Deputados que se seguir à sua apresentação e publicado integralmente no Diário da Câmara dos Deputados e em avulsos, juntamente com a denúncia, devendo as publicações ser distribuídas a todos os Deputados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>Em até 48 (quarenta e oito) horas após a publicação oficial do parecer da Comissão Especial, será ele incluído automaticamente, em primeiro lugar, na ordem do dia da Câmara dos Deputados, para discussão única.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>No Plenário da Câmara dos Deputados, até 5 (cinco) representantes de cada partido ou bloco parlamentar poderão falar, durante 1 (uma) hora, sobre o parecer, ressalvado ao relator da comissão especial o direito de responder a cada um, pelo prazo de até 20 (vinte) minutos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            
+            
+            
+            <p>Encerrada a discussão do parecer, será ele submetido a votação nominal pelo sistema eletrônico, não sendo permitidas questões de ordem nem encaminhamento de votação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>A Câmara dos Deputados emitirá juízo de natureza política sobre a denúncia, circunscrevendo-se à análise jurídico-formal do pedido e decidindo discricionariamente quanto à autorização da abertura do processo, ainda que existam indícios de infração político-administrativa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>A autorização para abertura do processo será considerada aprovada se reunir a maioria de dois terços de votos dos Deputados.</p>
+            
+          </Caput><Paragrafo id="art40_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não atingido o quórum de dois terços, a denúncia será arquivada, não podendo ser reapresentada, no mesmo mandato presidencial, acusação relativa ao mesmo fato.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>Autorizada a abertura do processo contra o Presidente da República, o Vice-Presidente ou Ministro do Estado, será o denunciado intimado imediatamente pela Mesa da Câmara dos Deputados, por intermédio do Primeiro-Secretário.</p>
+            
+          </Caput><Paragrafo id="art41_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se o denunciado estiver ausente do Distrito Federal, a intimação será solicitada pela Mesa da Câmara dos Deputados ao Presidente do Tribunal de Justiça do Estado em que ele se encontrar.</p>
+            
+          </Paragrafo><Paragrafo id="art41_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Caso o denunciado se ache fora do País ou em lugar incerto e não sabido, o que será verificado pelo Primeiro-Secretário da Câmara dos Deputados, a intimação far-se-á por edital, publicado no Diário da Câmara dos Deputados e no Diário Oficial da União, com a antecedência de 60 (sessenta) dias.</p>
+            
+          </Paragrafo><Paragrafo id="art41_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Autorizada a abertura do processo, será editada resolução em que se especificará os fatos em relação aos quais está autorizada a instauração do processo.</p>
+            
+          </Paragrafo><Paragrafo id="art41_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A resolução será encaminhada ao Senado Federal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit3_cap3_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Do recebimento da denúncia pelo Senado Federal</NomeAgrupador>
+            <Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>Autorizada a abertura do processo nas hipóteses do art. 51, I, da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, a denúncia e a resolução da Câmara dos Deputados serão lidas no expediente da sessão ordinária seguinte e despachada a uma Comissão Especial para opinar sobre o recebimento da denúncia.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>Nas outras hipóteses, admitida a denúncia pelo Presidente do Senado Federal, esta será lida no expediente da sessão ordinária seguinte e despachada a uma Comissão Especial para opinar sobre o recebimento da denúncia.</p>
+            
+          </Caput><Paragrafo id="art43_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Admitida a denúncia mediante provimento do recurso previsto no §2º do art. 28, esta será lida imediatamente após a proclamação do resultado do recurso e despachada a uma Comissão Especial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            
+            
+            
+            <p>A Comissão Especial será eleita por voto aberto dos Senadores, assegurada, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares.</p>
+            
+          </Caput><Paragrafo id="art44_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Comissão Especial reunir-se-á dentro de 24 (vinte e quatro) horas para eleger seu presidente e relator.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            
+            
+            
+            <p>O denunciado será citado para apresentar defesa prévia em até 5 (cinco) dias úteis, contados da citação, podendo arrolar até 5 (cinco) testemunhas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            
+            
+            
+            <p>No prazo de 10 (dez) dias úteis, a Comissão Especial emitirá parecer sobre o recebimento da denúncia.</p>
+            
+          </Caput><Paragrafo id="art46_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se a denúncia narrar mais de um fato, a Comissão Especial limitar-se-á à análise daqueles que foram admitidos pela Câmara dos Deputados.</p>
+            
+          </Paragrafo><Paragrafo id="art46_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O parecer da Comissão Especial no Senado Federal poderá concluir pelo recebimento parcial da denúncia.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            
+            
+            
+            <p>A Comissão Especial ouvirá as testemunhas arroladas pela acusação e defesa e procederá às diligências que julgar necessárias, desde que compatíveis com a análise preliminar de recebimento da denúncia.</p>
+            
+          </Caput><Paragrafo id="art47_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Comissão Especial poderá indeferir as diligências consideradas irrelevantes, repetitivas, impertinentes ou protelatórias.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            
+            
+            
+            <p>A prova testemunhal será admitida unicamente para que se esclareça os fatos narrados na denúncia, não sendo permitido a emissão de opiniões pessoais ou juízos de valor sobre o objeto da acusação.</p>
+            
+          </Caput><Paragrafo id="art48_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A testemunha prestará compromisso de falar a verdade, sob pena de falso testemunho, nos termos do art. 334 do Código Penal.</p>
+            
+          </Paragrafo><Paragrafo id="art48_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A intimação observará a antecedência mínima de 3 (três dias) úteis quanto à data de comparecimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            
+            
+            
+            <p>A arguição de testemunhas de acusação e defesa obedecerá ao seguinte:</p>
+            <Inciso id="art49_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>primeiramente, farão uso da palavra a acusação e a defesa, respectivamente, para que elaborem diretamente os questionamentos que entenderem convenientes, sem limitação temporal, desde que sejam pertinentes ao objeto da acusação;</p>
+            
+          </Inciso><Inciso id="art49_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em seguida, fará uso da palavra o Relator da Comissão Especial, que terá o prazo de até 10 (dez) minutos, prorrogáveis a critério do Presidente, para a complementação das perguntas não esclarecidas;</p>
+            
+          </Inciso><Inciso id="art49_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>por fim, farão uso da palavra os membros da Comissão, por ordem de inscrição, pelo prazo de até 2 (dois) minutos, para inquirir a testemunha, a qual terá o prazo de 5 (cinco) minutos para a resposta, permitida réplica e tréplica de mesmo prazo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art49_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O presidente da Comissão Especial poderá, monocraticamente, indeferir perguntas às testemunhas, não se admitindo aquelas que puderem induzir a resposta, não tiverem relação com a causa ou importarem na repetição de outra já respondida.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            
+            
+            
+            <p>Não poderão depor como testemunhas:</p>
+            <Inciso id="art50_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>amigos íntimos ou inimigos capitais de qualquer das partes;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>quem tenha intervindo em favor de uma das partes, neste ou em outro processo;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>cônjuge e parentes até o terceiro grau do denunciante ou do denunciado;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>pessoas que não tiveram participação no fato ou conhecimento direto sobre ele;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>pessoas investigadas por fatos conexos ou que tiverem interesse no litígio.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art50_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Excepcionalmente, pessoas que se enquadrem em uma das situações do caput poderão ser ouvidas como informantes do juízo, desde que seu depoimento seja imprescindível para o esclarecimento dos fatos, não lhes sendo dirigido o compromisso de dizer a verdade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art51">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">
+            
+            
+            
+            <p>Na fase do recebimento da denúncia não serão arroladas testemunhas pelos membros da Comissão Especial, bem como não haverá realização de provas técnicas e periciais, nem interrogatório.</p>
+            
+          </Caput><Paragrafo id="art51_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O denunciante e o denunciado serão intimados de todos os atos da Comissão Especial, e poderão fazer-se presentes, pessoalmente ou mediante procurador.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art52">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">
+            
+            
+            
+            <p>A Comissão Especial ouvirá o denunciante e o denunciado, por meio de alegações orais, antes de emitir o parecer.</p>
+            
+          </Caput><Paragrafo id="art52_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O denunciante e o denunciado, ou seus procuradores, nessa ordem, poderão falar por até 1 (uma) hora, sem direito a réplica.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O parecer concluirá pela rejeição da denúncia, quando:</p>
+            <Inciso id="art52_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>manifestamente inepta;</p>
+            
+          </Inciso><Inciso id="art52_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>não houver indícios mínimos de autoria e materialidade.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art52_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se qualquer dos membros da Comissão Especial discordar do relator, poderá oferecer voto em separado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art53">
+            
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">
+            
+            
+            
+            <p>O parecer da comissão, juntamente com a denúncia, a defesa prévia e os documentos que as instruírem, serão lidos no expediente da sessão ordinária do Senado Federal que se seguir à sua apresentação, publicado no Diário do Senado Federal e em avulsos, que deverão ser distribuídos a todos os senadores, sendo incluído na ordem do dia da sessão seguinte.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art54">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">
+            
+            
+            
+            <p>Em até 48 (quarenta e oito) horas após a publicação oficial do parecer da Comissão Especial, será ele incluído automaticamente, em primeiro lugar, na ordem do dia do Senado Federal, para discussão única.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art55">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">
+            
+            
+            
+            <p>Na discussão do parecer de recebimento da denúncia, poderá fazer uso da palavra um representante de cada partido ou bloco parlamentar, pelo prazo de até 10 (dez) minutos cada um.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art56">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">
+            
+            
+            
+            <p>Encerrada a discussão, o parecer de recebimento da denúncia será submetido a votação nominal pelo sistema eletrônico, não sendo permitidas questões de ordem, nem encaminhamento de votação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art57">
+            
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">
+            
+            
+            
+            <p>O parecer será considerado aprovado se reunir a maioria simples de votos dos Senadores.</p>
+            
+          </Caput><Paragrafo id="art57_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Se o Senado Federal não receber a denúncia, esta será arquivada, não podendo ser reapresentada, no mesmo mandato presidencial, acusação relativa ao mesmo fato.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit3_cap3_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Do processo e do julgamento</NomeAgrupador>
+            <Artigo id="art58">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">
+            
+            
+            
+            <p>Recebida a denúncia pelo Plenário do Senado Federal, a Mesa instaurará o processo e dará ciência ao Presidente do Supremo Tribunal Federal, para que este assuma a Presidência da Casa em relação aos atos do processo.</p>
+            
+          </Caput>
+          </Artigo><Subsecao id="tit3_cap3_sec4_sub1">
+            
+            
+            <Rotulo>SUBSEÇÃO I</Rotulo>
+            <NomeAgrupador>Do afastamento do denunciado</NomeAgrupador>
+            <Artigo id="art59">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">
+            
+            
+            
+            <p>Com a notificação da instauração do processo, o denunciado ficará suspenso de suas funções até o julgamento final pelo Senado Federal, pelo prazo de até 180 (cento e oitenta) dias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art60">
+            
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">
+            
+            
+            
+            <p>O Presidente da República afastado manterá os seguintes direitos:</p>
+            <Inciso id="art60_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>remuneração integral;</p>
+            
+          </Inciso><Inciso id="art60_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>uso da residência oficial;</p>
+            
+          </Inciso><Inciso id="art60_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>2 (dois) assessores de sua confiança, que ocuparão cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS 5;</p>
+            
+          </Inciso><Inciso id="art60_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>4 (quatro) assessores de sua confiança, que ocuparão cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS 4;</p>
+            
+          </Inciso><Inciso id="art60_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>2 (dois) veículos oficiais com 2 (dois) motoristas, que ocuparão cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS 4;</p>
+            
+          </Inciso><Inciso id="art60_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>transporte oficial aéreo unicamente para a unidade da federação em que esteja localizada a sua residência particular;</p>
+            
+          </Inciso><Inciso id="art60_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>segurança oficial;</p>
+            
+          </Inciso><Inciso id="art60_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>assistência à saúde.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art60_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No caso de afastamento das demais autoridades, ato da Mesa do Senado Federal determinará os direitos mantidos no que diz respeito ao caput.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Subsecao><Subsecao id="tit3_cap3_sec4_sub2">
+            
+            
+            <Rotulo>SUBSEÇÃO II</Rotulo>
+            <NomeAgrupador>Da instrução processual</NomeAgrupador>
+            <Artigo id="art61">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">
+            
+            
+            
+            <p>Instaurado o processo, a Comissão Especial voltará a se reunir, para conduzir a instrução probatória.</p>
+            
+          </Caput><Paragrafo id="art61_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A instrução obedecerá, no que esta Lei for omissa, ao procedimento comum do Código de Processo Penal, em primeiro lugar, e do Código de Processo Civil, naquilo em que o primeiro for omisso.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art62">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">
+            
+            
+            
+            <p>O denunciante, o denunciado e qualquer dos Senadores poderão, em até 2 (dois) dias úteis, indicar as provas que pretendem produzir.</p>
+            
+          </Caput><Paragrafo id="art62_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Comissão Especial poderá indeferir as provas consideradas evidentemente irrelevantes, repetitivas, impertinentes ou protelatórias.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art63">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">
+            
+            
+            
+            <p>O denunciante e o denunciado serão intimados de todos os atos da Comissão Especial, e poderão deles participar, pessoalmente ou por seus procuradores, salvo o ato de interrogatório.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art64">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">
+            
+            
+            
+            <p>Serão admitidas 8 (oito) testemunhas para cada uma das partes, independentemente do número de fatos.</p>
+            
+          </Caput><Paragrafo id="art64_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O rito para oitiva de testemunhas obedecerá ao disposto nos arts. 47 a 50 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art64_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Comissão Especial, quando julgar necessário, poderá ouvir outras testemunhas, além das indicadas pelas partes.</p>
+            
+          </Paragrafo><Paragrafo id="art64_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Todos os Senadores poderão realizar perguntas na Comissão, observada a ordem de inscrição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art65">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">
+            
+            
+            
+            <p>Será admitida prova pericial, consistente em exame, vistoria ou avaliação, quando a prova do fato depender de conhecimento especial de técnico.</p>
+            
+          </Caput><Paragrafo id="art65_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Presidente da Comissão Especial nomeará perito ou junta pericial e fixará de imediato o prazo para a entrega do laudo, que não excederá a 10 (dez) dias úteis.</p>
+            
+          </Paragrafo><Paragrafo id="art65_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Incumbe às partes, dentro de 2 (dois) dias úteis, contados da intimação do despacho de nomeação do perito ou da junta pericial:</p>
+            <Inciso id="art65_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>arguir seu impedimento ou suspeição, se for o caso;</p>
+            
+          </Inciso><Inciso id="art65_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>indicar assistente técnico;</p>
+            
+          </Inciso><Inciso id="art65_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>apresentar quesitos.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art65_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os assistentes técnicos são de confiança da parte e não estão sujeitos a impedimento ou suspeição.</p>
+            
+          </Paragrafo><Paragrafo id="art65_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Cabe ao Presidente da Comissão Especial:</p>
+            <Inciso id="art65_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>indeferir quesitos impertinentes;</p>
+            
+          </Inciso><Inciso id="art65_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>formular os quesitos que entender necessários ao esclarecimento da causa.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art65_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>É vedado ao perito ou à junta pericial ultrapassar os limites da designação, bem como emitir opiniões que excedam o exame técnico ou científico do objeto da perícia.</p>
+            
+          </Paragrafo><Paragrafo id="art65_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O perito ou a junta pericial serão nomeados, de preferência, dentre servidores efetivos do Senado Federal, com notório conhecimento na área objeto da apuração.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art66">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput id="art66_cpt">
+            
+            
+            
+            <p>A prova pericial será dispensada quando:</p>
+            <Inciso id="art66_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>for desnecessária em vista de outras provas produzidas;</p>
+            
+          </Inciso><Inciso id="art66_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a verificação do fato for impraticável.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art67">
+            
+            
+            <Rotulo>Art. 67.</Rotulo>
+            
+            <Caput id="art67_cpt">
+            
+            
+            
+            <p>Os documentos indispensáveis à instrução serão requisitados às autoridades competentes, que deverão fornecer as cópias ou informações no prazo de até 5 (cinco) dias úteis.</p>
+            
+          </Caput><Paragrafo id="art67_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As informações protegidas por sigilo serão devidamente resguardadas pela Comissão Especial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art68">
+            
+            
+            <Rotulo>Art. 68.</Rotulo>
+            
+            <Caput id="art68_cpt">
+            
+            
+            
+            <p>O interrogatório do denunciado será o último ato da instrução.</p>
+            
+          </Caput><Paragrafo id="art68_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O denunciado será informado pelo Presidente da Comissão, antes de iniciar o interrogatório, do seu direito de permanecer calado e de não responder perguntas que lhe forem formuladas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art69">
+            
+            
+            <Rotulo>Art. 69.</Rotulo>
+            
+            <Caput id="art69_cpt">
+            
+            
+            
+            <p>Encerrada a instrução, serão intimados o denunciante e o denunciado para apresentarem, no prazo comum de até 10 (dez) dias, alegações finais escritas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art70">
+            
+            
+            <Rotulo>Art. 70.</Rotulo>
+            
+            <Caput id="art70_cpt">
+            
+            
+            
+            <p>Apresentadas as alegações finais, ou o transcurso do prazo, a Comissão Especial emitirá parecer conclusivo sobre a procedência ou não da acusação.</p>
+            
+          </Caput><Paragrafo id="art70_par1u">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art383--><!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689!art384-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A Comissão Especial poderá se utilizar dos mecanismos de correção da definição jurídica dos fatos previstos nos <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art383">artigos 383</span> e <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689!art384">384 do Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> – Código de Processo Penal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Subsecao><Subsecao id="tit3_cap3_sec4_sub3">
+            
+            
+            <Rotulo>SUBSEÇÃO III</Rotulo>
+            <NomeAgrupador>Do julgamento</NomeAgrupador>
+            <Artigo id="art71">
+            
+            
+            <Rotulo>Art. 71.</Rotulo>
+            
+            <Caput id="art71_cpt">
+            
+            
+            
+            <p>O parecer da Comissão Especial será lido no expediente da sessão ordinária do Senado Federal que se seguir à sua apresentação, publicado no Diário do Senado Federal e em avulsos, que deverão ser distribuídos entre os Senadores, sendo incluído na ordem do dia do Plenário do Senado Federal da sessão seguinte.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art72">
+            
+            
+            <Rotulo>Art. 72.</Rotulo>
+            
+            <Caput id="art72_cpt">
+            
+            
+            
+            <p>Em até 48 (quarenta e oito) horas após a publicação oficial do parecer da Comissão Especial, será ele incluído automaticamente, em primeiro lugar, na ordem do dia do Senado Federal, para discussão única.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art73">
+            
+            
+            <Rotulo>Art. 73.</Rotulo>
+            
+            <Caput id="art73_cpt">
+            
+            
+            
+            <p>Denunciante e denunciado serão intimados da data da sessão de julgamento, e poderão comparecer pessoalmente ou representados por seus procuradores.</p>
+            
+          </Caput><Paragrafo id="art73_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Entre a intimação e o julgamento deverá mediar o prazo mínimo de 5 (cinco) dias úteis.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art74">
+            
+            
+            <Rotulo>Art. 74.</Rotulo>
+            
+            <Caput id="art74_cpt">
+            
+            
+            
+            <p>No dia e hora marcados para o julgamento, o Senado Federal reunir-se-á, sob a presidência do Presidente do Supremo Tribunal Federal.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art75">
+            
+            
+            <Rotulo>Art. 75.</Rotulo>
+            
+            <Caput id="art75_cpt">
+            
+            
+            
+            <p>Verificada a presença do número legal de Senadores, será aberta a sessão e feita a chamada das partes, acusador e acusado, que poderão comparecer pessoalmente ou pelos seus procuradores.</p>
+            
+          </Caput><Paragrafo id="art75_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A revelia do denunciante não importará transferência do julgamento, nem perempção da acusação.</p>
+            
+          </Paragrafo><Paragrafo id="art75_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A revelia do denunciado determinará o adiamento de julgamento, para o qual o Presidente designará novo dia, nomeando um advogado para defender o revel e facultando-se-lhe o exame de todas as peças do processo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art76">
+            
+            
+            <Rotulo>Art. 76.</Rotulo>
+            
+            <Caput id="art76_cpt">
+            
+            
+            
+            <p>Aberta a sessão, o denunciado poderá ser interrogado, pelo prazo máximo de 3 (três) horas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art77">
+            
+            
+            <Rotulo>Art. 77.</Rotulo>
+            
+            <Caput id="art77_cpt">
+            
+            
+            
+            <p>Realizar-se-á a seguir o debate oral entre acusação e defesa, pelo prazo que o Presidente fixar, e que não poderá exceder a 2 (duas) horas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art78">
+            
+            
+            <Rotulo>Art. 78.</Rotulo>
+            
+            <Caput id="art78_cpt">
+            
+            
+            
+            <p>Findos os debates orais, abrir-se-á discussão sobre o objeto da acusação.</p>
+            
+          </Caput><Paragrafo id="art78_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os senadores poderão fazer uso da palavra por até 5 (cinco) minutos cada um, observada a ordem de inscrição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art79">
+            
+            
+            <Rotulo>Art. 79.</Rotulo>
+            
+            <Caput id="art79_cpt">
+            
+            
+            
+            <p>O Relator na Comissão Especial, o denunciante e o denunciado, ou seus procuradores, poderão falar, nessa ordem, por até 1 (uma) hora para considerações finais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art80">
+            
+            
+            <Rotulo>Art. 80.</Rotulo>
+            
+            <Caput id="art80_cpt">
+            
+            
+            
+            <p>Encerrada a discussão, o Presidente do Supremo Tribunal Federal fará relatório resumido da denúncia e das provas da acusação e da defesa.</p>
+            
+          </Caput><Paragrafo id="art80_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É vedado o encaminhamento de votação, a apresentação de destaque ou questão de ordem.</p>
+            
+          </Paragrafo><Paragrafo id="art80_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O julgamento será feito pelos senadores, em votação nominal pelo sistema eletrônico, que responderão “sim” ou “não” à seguinte pergunta enunciada pelo Presidente: “Cometeu o(a) acusado(a) o(s) crime(s) que lhe é(são) imputado(s) e deve ser condenado(a) à perda do seu cargo, com inabilitação para o exercício de qualquer função pública por 8 (oito) anos?”</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art81">
+            
+            
+            <Rotulo>Art. 81.</Rotulo>
+            
+            <Caput id="art81_cpt">
+            
+            
+            
+            <p>Se a resposta afirmativa obtiver, pelo menos, dois terços dos votos dos senadores, o condenado perderá o cargo e ficará inabilitado para o exercício de qualquer função pública por 8 (oito) anos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art82">
+            
+            
+            <Rotulo>Art. 82.</Rotulo>
+            
+            <Caput id="art82_cpt">
+            
+            
+            
+            <p>Se o julgamento for absolutório, produzirá, desde logo, todos os efeitos a favor do acusado.</p>
+            
+          </Caput>
+          </Artigo>
+          </Subsecao><Subsecao id="tit3_cap3_sec4_sub4">
+            
+            
+            <Rotulo>SUBSEÇÃO IV</Rotulo>
+            <NomeAgrupador>Da sentença condenatória</NomeAgrupador>
+            <Artigo id="art83">
+            
+            
+            <Rotulo>Art. 83.</Rotulo>
+            
+            <Caput id="art83_cpt">
+            
+            
+            
+            <p>Proferida a sentença condenatória, o acusado estará imediatamente destituído do cargo.</p>
+            
+          </Caput><Paragrafo id="art83_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Da sentença, dar-se-á imediato conhecimento ao Presidente da República, ao Supremo Tribunal Federal e ao condenado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art84">
+            
+            
+            <Rotulo>Art. 84.</Rotulo>
+            
+            <Caput id="art84_cpt">
+            
+            
+            
+            <p>Observado o art. 5º desta Lei, a sentença do Senado Federal será lavrada na forma de resolução, nos autos do processo, pelo Presidente do Supremo Tribunal Federal, assinada pelos Senadores presentes, transcrita na ata da sessão e, dentro desta, publicada no Diário Oficial da União e no Diário do Senado Federal.</p>
+            
+          </Caput><Paragrafo id="art84_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>São nulas quaisquer disposições na sentença ou na resolução que deixem de aplicar cumulativamente as penas pelo crime de responsabilidade.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Subsecao><Subsecao id="tit3_cap3_sec4_sub5">
+            
+            
+            <Rotulo>SUBSEÇÃO V</Rotulo>
+            <NomeAgrupador>Das disposições comuns</NomeAgrupador>
+            <Artigo id="art85">
+            
+            
+            <Rotulo>Art. 85.</Rotulo>
+            
+            <Caput id="art85_cpt">
+            
+            
+            
+            <p>No processo de crime de responsabilidade, servirá de escrivão um servidor da Secretaria da Câmara dos Deputados ou do Senado Federal, conforme se achar o processo em uma ou outra Casa do Congresso Nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art86">
+            
+            
+            <Rotulo>Art. 86.</Rotulo>
+            
+            <Caput id="art86_cpt">
+            
+            
+            
+            <p>Após o recebimento da denúncia pelo Senado Federal, ainda que tenha deixado o cargo, é facultado ao Advogado-Geral da União que tenha promovido a defesa do denunciado continuar a representar a autoridade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art87">
+            
+            
+            <Rotulo>Art. 87.</Rotulo>
+            
+            <Caput id="art87_cpt">
+            
+            
+            
+            <p>Durante a instrução processual, as decisões da Comissão Especial e de seu Presidente poderão ser objeto de recurso ao Presidente do Supremo Tribunal Federal no prazo de 24 (vinte e quatro) horas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art88">
+            
+            
+            <Rotulo>Art. 88.</Rotulo>
+            
+            <Caput id="art88_cpt">
+            
+            
+            
+            <p>As hipóteses de suspeição e impedimento de Deputado ou Senador limitar-se-ão aos casos em que:</p>
+            <Inciso id="art88_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>for cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o segundo grau, do denunciado ou acusado; ou</p>
+            
+          </Inciso><Inciso id="art88_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>como testemunha do processo, tiver deposto de ciência própria.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art89">
+            
+            
+            <Rotulo>Art. 89.</Rotulo>
+            
+            <Caput id="art89_cpt">
+            
+            
+            
+            <p>No processo e julgamento por crime de responsabilidade perante o Senado Federal, serão subsidiários desta Lei, naquilo em que lhes forem aplicáveis, os regimentos internos da Câmara dos Deputados e do Senado Federal, bem como as disposições dos Códigos de Processo Penal e Processo Civil.</p>
+            
+          </Caput>
+          </Artigo>
+          </Subsecao>
+          </Secao>
+          </Capitulo><Capitulo id="tit3_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DO PROCESSO E DO JULGAMENTO PERANTE AS ASSEMBLEIAS LEGISLATIVAS E A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL</NomeAgrupador>
+            <Secao id="tit3_cap4_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da admissibilidade da denúncia</NomeAgrupador>
+            <Artigo id="art90">
+            
+            
+            <Rotulo>Art. 90.</Rotulo>
+            
+            <Caput id="art90_cpt">
+            
+            
+            
+            <p>Apresentada a denúncia, o Presidente da Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal, no prazo de 10 (dez) dias úteis, verificará a existência dos requisitos previstos nesta Lei e comunicará ao Plenário a sua admissão ou seu indeferimento.</p>
+            
+          </Caput><Paragrafo id="art90_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O silêncio do Presidente após decorrido o prazo de que trata o caput será considerado indeferimento.</p>
+            
+          </Paragrafo><Paragrafo id="art90_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Do despacho do Presidente da Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal que indeferir o recebimento da denúncia, bem como do indeferimento tácito de que trata o §1º, caberá recurso ao Plenário, assinado por, no mínimo, um terço dos membros da Casa, no prazo de 5 (cinco) dias úteis.</p>
+            
+          </Paragrafo><Paragrafo id="art90_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O recurso de que trata o §2º será automaticamente incluído na Ordem do Dia até 10 (dez) dias úteis contados da sua apresentação.</p>
+            
+          </Paragrafo><Paragrafo id="art90_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A denúncia só poderá ser oferecida por cidadão com domicílio eleitoral no Estado do denunciado, ou no Distrito Federal no caso de denúncia contra autoridade deste ente.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit3_cap4_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Do recebimento da denúncia</NomeAgrupador>
+            <Artigo id="art91">
+            
+            
+            <Rotulo>Art. 91.</Rotulo>
+            
+            <Caput id="art91_cpt">
+            
+            
+            
+            <p>Admitida a denúncia pelo Presidente da Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal, a denúncia será lida no expediente da sessão ordinária seguinte.</p>
+            
+          </Caput><Paragrafo id="art91_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Admitida a denúncia mediante provimento do recurso previsto no §2º do art. 90, esta será lida imediatamente após a proclamação do resultado do recurso e despachada a uma Comissão Especial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art92">
+            
+            
+            <Rotulo>Art. 92.</Rotulo>
+            
+            <Caput id="art92_cpt">
+            
+            
+            
+            <p>O recebimento da denúncia pela Assembleia Legislativa ou pela Câmara Legislativa do Distrito Federal observará o disposto nos arts. 42 a 57 desta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit3_cap4_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Do processo e do julgamento</NomeAgrupador>
+            <Artigo id="art93">
+            
+            
+            <Rotulo>Art. 93.</Rotulo>
+            
+            <Caput id="art93_cpt">
+            
+            
+            
+            <p>Recebida a denúncia, será o denunciado imediatamente suspenso de suas funções pelo prazo de até 180 (cento e oitenta) dias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art94">
+            
+            
+            <Rotulo>Art. 94.</Rotulo>
+            
+            <Caput id="art94_cpt">
+            
+            
+            
+            <p>Não havendo lei estadual que trate do tema, ato da Mesa da Assembleia Legislativa ou da Mesa da Câmara Legislativa do Distrito Federal determinará os direitos mantidos pelo denunciado afastado no que diz respeito ao art. 60 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art95">
+            
+            
+            <Rotulo>Art. 95.</Rotulo>
+            
+            <Caput id="art95_cpt">
+            
+            
+            
+            <p>No processo por crime de responsabilidade perante a Assembleia Legislativa ou a Câmara Legislativa do Distrito Federal, funcionará como Presidente, o Presidente do respectivo Tribunal de Justiça.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art96">
+            
+            
+            <Rotulo>Art. 96.</Rotulo>
+            
+            <Caput id="art96_cpt">
+            
+            
+            
+            <p>A instrução e o julgamento pela Assembleia Legislativa ou pela Câmara Legislativa do Distrito Federal observará os arts. 61 a 88 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art97">
+            
+            
+            <Rotulo>Art. 97.</Rotulo>
+            
+            <Caput id="art97_cpt">
+            
+            
+            
+            <p>O Presidente da Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal comunicará à Justiça Eleitoral o resultado do julgamento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art98">
+            
+            
+            <Rotulo>Art. 98.</Rotulo>
+            
+            <Caput id="art98_cpt">
+            
+            
+            
+            <p>No processo e julgamento por crime de responsabilidade perante a Assembleia Legislativa ou Câmara Legislativa do Distrito Federal serão subsidiários desta Lei, naquilo em que lhe forem aplicáveis, o regimento interno da Assembleia Legislativa ou Câmara Legislativa do Distrito Federal, bem como o Código de Processo Penal.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="tit3_cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DO PROCESSO E DO JULGAMENTO PERANTE O PODER JUDICIÁRIO</NomeAgrupador>
+            <Artigo id="art99">
+            
+            
+            <Rotulo>Art. 99.</Rotulo>
+            
+            <Caput id="art99_cpt">
+            
+            
+            
+            <p>A denúncia por crime de responsabilidade cujo julgamento é de competência de órgão do Poder Judiciário será distribuída aleatoriamente a um dos membros do Tribunal competente para que exerça a função de relator.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art100">
+            
+            
+            <Rotulo>Art. 100.</Rotulo>
+            
+            <Caput id="art100_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-05-28;8038-->
+            
+            
+            <p>O recebimento da denúncia, o processo, a instrução e o julgamento por crime de responsabilidade perante o Poder Judiciário são regidos pelos arts. 2º a 12 da <span xlink:href="urn:lex:br:federal:lei:1990-05-28;8038">Lei nº 8.038, de 28 de maio de 1990</span>.</p>
+            
+          </Caput><Paragrafo id="art100_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Ministério Público poderá atuar como assistente da acusação nos processos referentes a este Capítulo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art101">
+            
+            
+            <Rotulo>Art. 101.</Rotulo>
+            
+            <Caput id="art101_cpt">
+            
+            
+            
+            <p>Recebida a denúncia, será o denunciado imediatamente suspenso de suas funções pelo prazo de até 180 (cento e oitenta) dias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art102">
+            
+            
+            <Rotulo>Art. 102.</Rotulo>
+            
+            <Caput id="art102_cpt">
+            
+            
+            
+            <p>Não havendo ato do Conselho Nacional de Justiça ou do Conselho Nacional do Ministério Público tratando do tema, decisão do relator determinará os direitos mantidos pelo denunciado afastado no que diz respeito ao art. 60 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art103">
+            
+            
+            <Rotulo>Art. 103.</Rotulo>
+            
+            <Caput id="art103_cpt">
+            
+            
+            
+            <p>No processo e julgamento por crime de responsabilidade perante o Poder Judiciário serão subsidiários desta Lei, naquilo em que lhe forem aplicáveis, os regimentos internos dos Tribunais, bem como o Código de Processo Penal.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit4">
+            
+            
+            <Rotulo>TÍTULO IV</Rotulo>
+            <NomeAgrupador>DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art104">
+            
+            
+            <Rotulo>Art. 104.</Rotulo>
+            
+            <Caput id="art104_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            
+            <p>As intimações a que se refere esta Lei serão realizadas na forma dos arts. 26 a 28 da <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art105">
+            
+            
+            <Rotulo>Art. 105.</Rotulo>
+            
+            <Caput id="art105_cpt">
+            <!--Link: urn:lex:br:federal:lei:1950-04-10;1079-->
+            
+            
+            <p>Revoga-se a <span xlink:href="urn:lex:br:federal:lei:1950-04-10;1079">Lei nº 1.079, de 10 de abril de 1950</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art106">
+            
+            
+            <Rotulo>Art. 106.</Rotulo>
+            
+            <Caput id="art106_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

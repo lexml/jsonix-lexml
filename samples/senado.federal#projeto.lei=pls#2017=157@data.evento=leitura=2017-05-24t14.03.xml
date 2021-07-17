@@ -1,0 +1,112 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;157@data.evento;leitura;2017-05-24t14.03"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 157 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1981-07-07;6932">Leis nº 6.932, de 7 de julho de 1981</span>, que dispõe sobre as atividades do médico residente e dá outras providências; e nº 12.871, de 22 de outubro de 2013, que institui o Programa Mais Médicos, altera as <span xlink:href="urn:lex:br:federal:lei:1993-12-09;8745">Leis nº 8.745, de 9 de dezembro de 1993</span>, e nº <span xlink:href="urn:lex:br:federal:lei:1981-07-07;6932">6.932, de 7 de julho de 1981</span>, e dá outras providências, para dispor sobre a assistência psiquiátrica e psicológica a ser oferecida a médicos residentes e a alunos de graduação em Medicina.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1981-07-07;6932!art4_par5-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1981-07-07;6932!art4_par5">§ 5º do art. 4º da Lei nº 6.932, de 7 de julho de 1981</span>, passa a vigorar com o seguinte inciso IV:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1981-07-07;6932" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1981-07-07;6932 -> MatchByBase(urn:lex:br:federal:lei:1981-07-07;6932,1981,Some((7,7)),Map(art4 -> SuperPrefixMatch(URN(1981,Some((7,7)),art4_par5,urn:lex:br:federal:lei:1981-07-07;6932!art4_par5),art4), art4_cpt -> SuperPrefixMatch(URN(1981,Some((7,7)),art4_par5,urn:lex:br:federal:lei:1981-07-07;6932!art4_par5),art4_cpt), art4_par5 -> ExactMatch(URN(1981,Some((7,7)),art4_par5,urn:lex:br:federal:lei:1981-07-07;6932!art4_par5)), art4_par5_inc4 -> PrefixMatch(URN(1981,Some((7,7)),art4_par5,urn:lex:br:federal:lei:1981-07-07;6932!art4_par5),art4_par5_inc4)))))-->
+              <Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art4_omi1"/><Paragrafo xlink:href="art4_par5" id="art1_cpt_alt1_art4_par5" textoOmitido="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art4_par5_omi1"/><Inciso xlink:href="art4_par5_inc4" id="art1_cpt_alt1_art4_par5_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>assistência psiquiátrica e psicológica gratuita.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art4_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2013-10-22;12871!art3_par7-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2013-10-22;12871!art3_par7">§ 7º do art. 3º da Lei nº 12.871, de 22 de outubro de 2013</span>, passa a vigorar acrescido dos seguintes incisos III e IV:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2013-10-22;12871" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2013-10-22;12871 -> MatchByBase(urn:lex:br:federal:lei:2013-10-22;12871,2013,Some((10,22)),Map(art3_cpt -> SuperPrefixMatch(URN(2013,Some((10,22)),art3_par7,urn:lex:br:federal:lei:2013-10-22;12871!art3_par7),art3_cpt), art3_par7_inc4 -> PrefixMatch(URN(2013,Some((10,22)),art3_par7,urn:lex:br:federal:lei:2013-10-22;12871!art3_par7),art3_par7_inc4), art3_par7_inc3 -> PrefixMatch(URN(2013,Some((10,22)),art3_par7,urn:lex:br:federal:lei:2013-10-22;12871!art3_par7),art3_par7_inc3), art3 -> SuperPrefixMatch(URN(2013,Some((10,22)),art3_par7,urn:lex:br:federal:lei:2013-10-22;12871!art3_par7),art3), art3_par7 -> ExactMatch(URN(2013,Some((10,22)),art3_par7,urn:lex:br:federal:lei:2013-10-22;12871!art3_par7))))))-->
+              <Artigo xlink:href="art3" id="art2_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art2_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art3_omi1"/><Paragrafo xlink:href="art3_par7" id="art2_cpt_alt1_art3_par7" textoOmitido="s">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            
+            <Omissis id="art2_cpt_alt1_art3_par7_omi1"/><Inciso xlink:href="art3_par7_inc3" id="art2_cpt_alt1_art3_par7_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a oferta obrigatória de assistência psiquiátrica e psicológica gratuita aos alunos matriculados no curso de graduação em Medicina da instituição.</p>
+            
+          </Inciso><Inciso xlink:href="art3_par7_inc4" id="art2_cpt_alt1_art3_par7_inc4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o atendimento a que se refere o inciso anterior poderá ser prestado por alunos dos cursos de graduação em Medicina ou Psicologia, desde que sob a supervisão de profissionais.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor cento e oitenta dias após a data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

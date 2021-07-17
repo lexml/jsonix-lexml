@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;3@data.evento;leitura;2017-02-03t09.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 3 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:1966-10-25;5172!art135">art. 135 da Lei nº 5.172, de 25 de outubro de 1966</span> (Código Tributário Nacional), para disciplinar o processo administrativo de aferição da responsabilidade tributária dos diretores, gerentes ou representantes de pessoas jurídicas de direito privado.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1966-10-25;5172!art135-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1966-10-25;5172!art135">art. 135 da Lei nº 5.172, de 25 de outubro de 1966</span> (Código Tributário Nacional), passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1966-10-25;5172" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1966-10-25;5172 -> MatchByBase(urn:lex:br:federal:lei:1966-10-25;5172,1966,Some((10,25)),Map(art135 -> ExactMatch(URN(1966,Some((10,25)),art135,urn:lex:br:federal:lei:1966-10-25;5172!art135)), art135_cpt -> PrefixMatch(URN(1966,Some((10,25)),art135,urn:lex:br:federal:lei:1966-10-25;5172!art135),art135_cpt), art135_par1 -> PrefixMatch(URN(1966,Some((10,25)),art135,urn:lex:br:federal:lei:1966-10-25;5172!art135),art135_par1), art135_par2 -> PrefixMatch(URN(1966,Some((10,25)),art135,urn:lex:br:federal:lei:1966-10-25;5172!art135),art135_par2)))))-->
+              <Artigo xlink:href="art135" id="art1_cpt_alt1_art135" abreAspas="s">
+            
+            
+            <Rotulo>Art. 135.</Rotulo>
+            
+            <Caput xlink:href="art135_cpt" id="art1_cpt_alt1_art135_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art135_omi1"/><Paragrafo xlink:href="art135_par1" id="art1_cpt_alt1_art135_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A aferição da responsabilidade das pessoas referidas no inciso III do caput deste artigo deve ser realizada por meio de processo administrativo prévio e específico voltado a comprovar a culpa ou o dolo do agente, assegurados o contraditório e a ampla defesa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art135_par2" id="art1_cpt_alt1_art135_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de execução fiscal, a intimação do agente responsabilizado na forma do § 1º deste artigo deve ocorrer no prazo de cinco anos, contados da intimação da pessoa jurídica de direito privado, sob pena de prescrição.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

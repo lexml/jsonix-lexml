@@ -1,0 +1,220 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;182@data.evento;leitura;2017-06-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 182 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1991-02-08;8176">Lei nº 8.176, de 8 de fevereiro de 1991</span>, para tipificar os crimes de subtração e receptação de derivados de petróleo de dutos de movimentação de combustíveis.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-02-08;8176!art1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1991-02-08;8176!art1">art. 1º da Lei nº 8.176, de 8 de fevereiro de 1991</span>, passa a viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1991-02-08;8176" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1991-02-08;8176 -> MatchByBase(urn:lex:br:federal:lei:1991-02-08;8176,1991,Some((2,8)),Map(art1_par2_inc1 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par2_inc1), art1_par2_inc4 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par2_inc4), art1 -> ExactMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1)), art1_par1 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par1), art1_par1_inc1 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par1_inc1), art1_cpt -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_cpt), art1_cpt_inc3 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_cpt_inc3), art1_par1_inc4 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par1_inc4), art1_par2_inc3 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par2_inc3), art1_par4 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par4), art1_par3 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par3), art1_par1_inc2 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par1_inc2), art1_par2_inc2 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par2_inc2), art1_par2 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par2), art1_par1_inc3 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par1_inc3), art1_par2_inc5 -> PrefixMatch(URN(1991,Some((2,8)),art1,urn:lex:br:federal:lei:1991-02-08;8176!art1),art1_par2_inc5)))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art1_cpt_omi1"/><Inciso xlink:href="art1_cpt_inc3" id="art1_cpt_alt1_art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>subtrair, para si ou para outrem, dos estabelecimentos de produção, das instalações de armazenamento e dos dutos de movimentação de combustíveis, petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico, hidratado carburante e demais combustíveis líquidos carburantes: Pena – reclusão, de um a cinco anos, e multa.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art1_par1" id="art1_cpt_alt1_art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se o crime é cometido:</p>
+            <Inciso xlink:href="art1_par1_inc1" id="art1_cpt_alt1_art1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>com destruição ou rompimento de obstáculo à subtração da coisa;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par1_inc2" id="art1_cpt_alt1_art1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>mediante concurso de duas ou mais pessoas;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par1_inc3" id="art1_cpt_alt1_art1_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>com abuso de confiança, valendo-se de vínculo atual ou passado com o ente lesado;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par1_inc4" id="art1_cpt_alt1_art1_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>por funcionário público: Pena – reclusão, de dois a oito anos, e multa.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art1_par2" id="art1_cpt_alt1_art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se resulta:</p>
+            <Inciso xlink:href="art1_par2_inc1" id="art1_cpt_alt1_art1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>suspensão ou paralisação das atividades do estabelecimento;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par2_inc2" id="art1_cpt_alt1_art1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>incêndio;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art1_par2_omi1"/><Inciso xlink:href="art1_par2_inc3" id="art1_cpt_alt1_art1_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>poluição ao meio ambiente;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par2_inc4" id="art1_cpt_alt1_art1_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>lesão corporal grave;</p>
+            
+          </Inciso><Inciso xlink:href="art1_par2_inc5" id="art1_cpt_alt1_art1_par2_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>desabastecimento: Pena – reclusão, de quatro a dez anos, e multa.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art1_par3" id="art1_cpt_alt1_art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se resulta morte: Pena – reclusão, de cinco a doze anos, e multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1_par4" id="art1_cpt_alt1_art1_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se o crime é cometido por pessoa com arma de fogo ou mediante violência ou grave ameaça, a pena é aumentada de um terço à metade; se da violência resulta lesão corporal grave, a pena é de reclusão, de sete a quinze anos, além da multa; e se resulta morte, reclusão, de vinte a trinta anos, sem prejuízo da multa.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1991-02-08;8176-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1991-02-08;8176">Lei nº 8.176, de 8 de fevereiro de 1991</span>, passa a viger acrescida dos seguintes artigos:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1991-02-08;8176" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1991-02-08;8176 -> MatchByBase(urn:lex:br:federal:lei:1991-02-08;8176,1991,Some((2,8)),Map(art1-1_par2 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-1_par2), art1-3 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-3), art1-1 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-1), art1-2 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-2), art1-3_cpt -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-3_cpt), art1-1_par1 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-1_par1), art1-1_par5 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-1_par5), art1-1_par4 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-1_par4), art1-1_cpt -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-1_cpt), art1-2_cpt -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-2_cpt), art1-1_par3 -> PrefixMatch(URN(1991,Some((2,8)),,urn:lex:br:federal:lei:1991-02-08;8176),art1-1_par3)))))-->
+              <Artigo xlink:href="art1-1" id="art2_cpt_alt1_art1-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º-A.</Rotulo>
+            
+            <Caput xlink:href="art1-1_cpt" id="art2_cpt_alt1_art1-1_cpt">
+            
+            
+            
+            <p>Adquirir, receber, transportar, conduzir, ocultar, ter em depósito, vender, expor à venda, distribuir ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico, hidratado carburante e demais combustíveis líquidos carburantes que deve saber ser produto de crime: Pena – reclusão, de três a oito anos, e multa.</p>
+            
+          </Caput><Paragrafo xlink:href="art1-1_par1" id="art2_cpt_alt1_art1-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Equipara-se à atividade comercial, para efeito deste artigo, qualquer forma de comércio irregular ou clandestino, inclusive o exercício em residência.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1-1_par2" id="art2_cpt_alt1_art1-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Adquirir ou receber os produtos referidos no caput deste artigo que, por sua natureza ou pela desproporção entre o valor e o preço, ou pela condição de quem a oferece, deve presumir-se obtida por meio criminoso: Pena – detenção, de seis meses a dois anos, ou multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1-1_par3" id="art2_cpt_alt1_art1-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese do § 2º, se o agente é primário, pode o juiz, tendo em consideração as circunstâncias e as consequências do crime, diminuir a pena de um a dois terços e deixar de aplicar a multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art1-1_par4" id="art2_cpt_alt1_art1-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A receptação é punível, ainda que desconhecido ou isento de pena o autor do crime de que proveio a coisa.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art1-1_omi1"/><Paragrafo xlink:href="art1-1_par5" id="art2_cpt_alt1_art1-1_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Constitui efeito da condenação a interdição do estabelecimento pelo dobro do prazo da pena aplicada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art1-2" id="art2_cpt_alt1_art1-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º-B.</Rotulo>
+            
+            <Caput xlink:href="art1-2_cpt" id="art2_cpt_alt1_art1-2_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Nos crimes previstos nos arts. 1º e 1º-A e seus parágrafos, a condenação terá como efeito a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art1-3" id="art2_cpt_alt1_art1-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º-C.</Rotulo>
+            
+            <Caput xlink:href="art1-3_cpt" id="art2_cpt_alt1_art1-3_cpt" fechaAspas="s">
+            
+            
+            
+            <p>O juiz determinará a alienação antecipada para preservação do valor dos bens sempre que estiverem sujeitos a qualquer grau de deterioração ou depreciação, ou quando houver dificuldade para sua manutenção, na forma do art. 144-A do Código de Processo Penal.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

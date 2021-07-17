@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;456@data.evento;leitura;2017-11-22t14.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 456 DE 2017</Epigrafe>
+      <Ementa id="ementa">Inclui o art. 18-A na <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656">Lei nº 9.656, de 3 de junho de 1998</span>, que dispõe sobre os planos e seguros privados de assistência à saúde, para vedar a exigência pelo prestador de serviço ou profissional de saúde, da condição de contratado, referenciado, credenciado ou cooperado de uma operadora de serviços de saúde, de assinatura, pelo segurado de planos de saúde, de termos de responsabilidade, contrato ou qualquer outra avença, obrigando ao ressarcimento ou pagamento pelos serviços prestados, em caso de falência ou inadimplência de operadora de planos de saúde, e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O Congresso Nacional decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998-06-03;9656-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1998-06-03;9656">Lei nº 9.656, de 3 de junho de 1998</span>, passa a vigorar acrescida do seguinte artigo 18-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1998-06-03;9656" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1998-06-03;9656 -> MatchByBase(urn:lex:br:federal:lei:1998-06-03;9656,1998,Some((6,3)),Map(art18-1 -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art18-1), art18-1_cpt -> PrefixMatch(URN(1998,Some((6,3)),,urn:lex:br:federal:lei:1998-06-03;9656),art18-1_cpt)))))-->
+              <Artigo xlink:href="art18-1" id="art1_cpt_alt1_art18-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18-A.</Rotulo>
+            
+            <Caput xlink:href="art18-1_cpt" id="art1_cpt_alt1_art18-1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>É vedada a exigência pelo prestador de serviço ou profissional de saúde, da condição de contratado, referenciado, credenciado ou cooperado de uma operadora de serviços de saúde, de assinatura, pelo segurado de planos de saúde ou seus representantes legais, de termos de responsabilidade, contrato ou qualquer outra avença, obrigando ao ressarcimento ou pagamento pelos serviços prestados, em caso de falência ou inadimplência de operadora de planos de saúde.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1998;9656-->
+            
+            
+            <p>São declarados nulos de pleno direito os termos de responsabilidade, contratos ou quaisquer outras avenças firmados entre segurados de planos de saúde ou seus representantes legais com vista a assunção de obrigação de ao ressarcimento ou pagamento pelos serviços prestados, em caso de falência ou inadimplência de operadora de planos de saúde regidos pela <span xlink:href="urn:lex:br:federal:lei:1998;9656">Lei nº 9.656, de 1998</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

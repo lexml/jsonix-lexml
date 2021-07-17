@@ -1,0 +1,79 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;40@data.evento;leitura;2017-03-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 40 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2013-10-09;12865">Lei nº 12.865, de 9 de outubro de 2013</span>, para dispor sobre medidas de segurança e responsabilidade no uso do cartão magnético nos arranjos de pagamentos em funcionamento no País.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2013-10-09;12865!art7-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2013-10-09;12865!art7">art. 7º da Lei nº 12.865, de 9 de outubro de 2013</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2013-10-09;12865" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2013-10-09;12865 -> MatchByBase(urn:lex:br:federal:lei:2013-10-09;12865,2013,Some((10,9)),Map(art7_par3 -> PrefixMatch(URN(2013,Some((10,9)),art7,urn:lex:br:federal:lei:2013-10-09;12865!art7),art7_par3), art7 -> ExactMatch(URN(2013,Some((10,9)),art7,urn:lex:br:federal:lei:2013-10-09;12865!art7)), art7_par2 -> PrefixMatch(URN(2013,Some((10,9)),art7,urn:lex:br:federal:lei:2013-10-09;12865!art7),art7_par2), art7_par1 -> PrefixMatch(URN(2013,Some((10,9)),art7,urn:lex:br:federal:lei:2013-10-09;12865!art7),art7_par1), art7_cpt -> PrefixMatch(URN(2013,Some((10,9)),art7,urn:lex:br:federal:lei:2013-10-09;12865!art7),art7_cpt), art7_par4 -> PrefixMatch(URN(2013,Some((10,9)),art7,urn:lex:br:federal:lei:2013-10-09;12865!art7),art7_par4)))))-->
+              <Artigo xlink:href="art7" id="art1_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art1_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art7_omi1"/><Paragrafo xlink:href="art7_par1" id="art1_cpt_alt1_art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A regulamentação deste artigo assegurará a capacidade de inovação e a diversidade dos modelos de negócios das instituições de pagamento e dos arranjos de pagamento, bem como o desenvolvimento de padrões e princípios para incorporar novas tecnologias que minimizem o valor de dados de acesso à rede credenciada, caso roubados ou perdidos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par2" id="art1_cpt_alt1_art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As instituições integrantes dos arranjos de pagamentos deverão adotar medidas de segurança que garantam a integralidade e autenticidade de acesso do titular do cartão magnético em todos os pontos de acesso em seu arranjo, especialmente em estabelecimentos comerciais no varejo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par3" id="art1_cpt_alt1_art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Cabe às instituições provedoras dos arranjos de pagamentos a responsabilidade pelas perdas associadas à movimentação indevida, por terceiro não autorizado, decorrentes de extravio, furto, roubo ou clonagem de cartão magnético.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art7_par4" id="art1_cpt_alt1_art7_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os valores contestados pelo titular do cartão, referentes a despesas ou saques realizados por terceiros, serão ressarcidos no prazo de 10 (dez) dias úteis.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor 90 (noventa) dias contados da data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

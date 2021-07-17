@@ -1,0 +1,136 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;120@data.evento;leitura;2017-04-19t13.59"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 120 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre os tratamentos de saúde custeados pelo Sistema Único de Saúde no exterior.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>O princípio da integralidade de assistência no Sistema Único de Saúde â SUS abrange o custeio de tratamento a ser realizado no exterior, que será autorizado se forem cumpridas as determinações previstas em regulamento.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Compete à direção federal do SUS autorizar a realização do tratamento no exterior, após proceder à análise de seu custo-efetividade e de sua conformidade com os requisitos elencados neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O tratamento no exterior será custeado com recursos do Fundo Nacional da Saúde.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As despesas referentes ao deslocamento e à estadia do paciente e de dois acompanhantes também serão cobertas pelo SUS.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O requerente deverá apresentar orçamentos ou estimativas de custo dos tratamentos requeridos, que deverão incluir as despesas a que se refere o § 1º.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O SUS poderá optar por custear o tratamento em país ou estabelecimento de saúde diferente daquele indicado ou sugerido pelo requerente, observado o melhor interesse público.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A análise do requerimento de tratamento no exterior deverá ser concluída em prazo adequado ao quadro clínico e aos riscos aos quais o requerente está exposto.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Em regulamento específico, o SUS definirá a forma e os critérios pelos quais o requerente deverá solicitar o tratamento no exterior e apontar o cumprimento de requisitos específicos além dos elencados a seguir:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ser aprovado e oferecido em pelo menos três países listados; II â ser resolutivo no tratamento do agravo ou doença para o qual é indicado;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>não possuir caráter experimental ou de pesquisa clínica;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ser a única alternativa do paciente em razão de não existirem tratamentos alternativos, em território nacional, que conduzam a resultados semelhantes; V â ter sua efetividade respaldada por evidências científicas conclusivas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A direção federal do SUS será citada para se manifestar nos processos judiciais que envolvam o custeio, pelo SUS, de tratamento no exterior.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O prazo fixado para a manifestação a que se refere o caput deve ser compatível com o estágio, os riscos e a gravidade das doenças ou condições apresentadas pelo paciente requerente de tratamento no exterior.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos casos em que houver risco de lesão irreparável ou de óbito do requerente, a decisão judicial poderá ocorrer sem a manifestação de que trata o caput.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

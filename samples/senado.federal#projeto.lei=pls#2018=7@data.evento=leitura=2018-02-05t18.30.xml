@@ -1,0 +1,316 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;7@data.evento;leitura;2018-02-05t18.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 7 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre os direitos dos pacientes em serviços de saúde; altera o <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848">Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> (Código Penal), para isentar do crime de omissão penalmente relevante a falta de instituição de suporte de vida ou a não realização de tratamento ou procedimento médico recusados; e altera a <span xlink:href="urn:lex:br:federal:lei:1977-08-20;6437">Lei nº 6.437, de 20 de agosto de 1977</span>, que configura infrações à legislação sanitária federal, estabelece as sanções respectivas, e dá outras providências, para proibir a reutilização de produtos para a saúde descartáveis.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei disciplina as relações dos pacientes com profissionais e serviços de saúde.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São assegurados ao paciente, em suas relações com profissionais e serviços de saúde:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>atendimento acolhedor, livre de discriminação e prestado por profissional habilitado e devidamente identificado;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>direito de receber esclarecimentos sobre todos os aspectos relativos a sua condição de saúde e de ter acesso irrestrito ao conteúdo de seu prontuário;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>direito de receber informações claras e objetivas sobre as questões referentes à propedêutica, ao diagnóstico e ao tratamento;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>direito de receber prescrições médicas digitadas ou com caligrafia legível;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>direito de receber relatório escrito contendo informações sobre o diagnóstico e o tratamento indicadoÍ¾</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>direito de ser previamente informado quando o tratamento proposto for experimental ou fizer parte de pesquisaÍ¾</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>liberdade de consultar outros profissionais de saúde, além daqueles que o estiverem assistindo, a fim de obter outra opinião ou esclarecimento a respeito do seu diagnóstico, prognóstico ou tratamento;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>direito à confidencialidade das informações referentes ao seu estado de saúde;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>acesso a cuidados paliativos adequados ao alívio do sofrimento e de sintomas físicos e psíquicos decorrentes de doenças ou agravos à saúde, independentemente da perspectiva de cura ou de mudança na evolução do quadro clínico;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>direito de receber ou de se recusar a receber, no local de internação, pessoas não diretamente envolvidas na assistência à sua saúde ou no funcionamento do serviço de saúde;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>respeito à privacidade e à intimidade durante o período em que estiver sob os cuidados do serviço de saúde;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>direito de guardar e conservar objetos pessoais durante o período de internação;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>direito de requerer a gravação de um vídeo que registre os procedimentos dos médicos no centro cirúrgico;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>direito de manter comunicação com pessoas não pertencentes ao serviço de saúde, devendo a direção do serviço de saúde facilitá-la, em especial quando dirigida ao cônjuge, aos pais, responsáveis ou parentes.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O direito à confidencialidade previsto no inciso VIII do caput não restringirá o intercâmbio de informações sobre o estado de saúde do paciente entre profissionais de saúde do serviço em que o paciente esteja em atendimento.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O exercício do direito estabelecido no inciso X do caput dar-se-á com observância das regras do serviço de saúde em que se encontre internado o paciente.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O respeito à intimidade devido ao paciente por força do disposto no inciso XI do caput será preservado mesmo após sua morte.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O direito previsto no inciso XII do caput não será exercido quando a manutenção dos objetos e demais pertences prejudicar a assistência à saúde ou incomodar os demais pacientes.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O direito previsto no inciso XVIII será exercido em virtude da instalação dos equipamentos de gravação que serão implementados de forma gradativa nos hospitais públicos, em até dois anos após a publicação desta lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Quando o paciente não puder expressar validamente a própria vontade, ainda que circunstancialmente, ele será representado, no exercício dos direitos previstos nesta Lei, por ordem de prioridade:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pelo mandatário constituído no documento previsto no parágrafo único;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>por seu cônjuge ou companheiro, salvo se houver separação, mesmo que de fato;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>pelo responsável legal ou constituído judicialmente;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>pelos parentes, em linha reta ou colateral, até o segundo grau, dando-se preferência aos mais próximos na linha de parentesco.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O paciente capaz poderá, antecipando futura ausência de discernimento ou incapacidade de expressão da própria vontade, atribuir a representação de que trata o caput a mandatário de sua livre escolha, por meio de instrumento público, sendo vedada a atribuição a qualquer membro da equipe de assistência à saúde que o acompanha.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Os hospitais facilitarão o acesso dos pacientes internados e seus acompanhantes à assistência religiosa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art154-->
+            
+            
+            <p>A divulgação por profissional de saúde, sem a expressa autorização do paciente ou de seu representante, de informações relativas a diagnóstico, prognóstico, resultado de exames complementares ou qualquer outro procedimento diagnóstico ou terapêutico constitui crime de violação do segredo profissional, na forma do <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art154">art. 154 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span>, exceto nas seguintes situações:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>comunicação, a quem tenha legítimo interesse, de condições patológicas que possam oferecer riscos à saúde de outrem;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>intercâmbio de informações sobre a saúde do paciente por parte dos profissionais que atuam na sua assistência;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>revelação de informações relativas à saúde ao representante definido na forma do art. 3º.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art13-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art13">art. 13 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span>, passa a vigorar acrescido do seguinte § 3º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art6_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art13 -> ExactMatch(URN(1940,Some((12,7)),art13,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art13)), art13_cpt -> PrefixMatch(URN(1940,Some((12,7)),art13,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art13),art13_cpt), art13_par3 -> PrefixMatch(URN(1940,Some((12,7)),art13,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art13),art13_par3)))))-->
+              <Artigo xlink:href="art13" id="art6_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art6_cpt_alt1_art13_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art6_cpt_alt1_art13_omi1"/><Paragrafo xlink:href="art13_par3" id="art6_cpt_alt1_art13_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Não se considera omissão penalmente relevante a falta de instituição de suporte de vida ou a não realização de tratamento ou procedimento médico ou odontológico recusados expressamente pelo paciente ou, nos casos em que o paciente não possa expressar sua vontade, por seu representante legal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            <!--Link: urn:lex:br:federal:lei:1977-08-20;6437!art10-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1977-08-20;6437!art10">art. 10 da Lei nº 6.437, de 20 de agosto de 1977</span>, passa a vigorar acrescido do seguinte inciso XLIII:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1977-08-20;6437" id="art7_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1977-08-20;6437 -> MatchByBase(urn:lex:br:federal:lei:1977-08-20;6437,1977,Some((8,20)),Map(art10 -> ExactMatch(URN(1977,Some((8,20)),art10,urn:lex:br:federal:lei:1977-08-20;6437!art10)), art10_cpt -> PrefixMatch(URN(1977,Some((8,20)),art10,urn:lex:br:federal:lei:1977-08-20;6437!art10),art10_cpt), art10_cpt_inc43 -> PrefixMatch(URN(1977,Some((8,20)),art10,urn:lex:br:federal:lei:1977-08-20;6437!art10),art10_cpt_inc43)))))-->
+              <Artigo xlink:href="art10" id="art7_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art7_cpt_alt1_art10_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art7_cpt_alt1_art10_cpt_omi1"/><Inciso xlink:href="art10_cpt_inc43" id="art7_cpt_alt1_art10_cpt_inc43">
+            
+            
+            <Rotulo>XLIII –</Rotulo>
+            <p>reutilizar produtos para a saúde que a autoridade sanitária classificar como não reutilizáveis: pena – advertência, interdição total ou parcial do estabelecimento, cancelamento de autorização para funcionamento da empresa, cancelamento do alvará de licenciamento do estabelecimento e/ou multa.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art7_cpt_alt1_art10_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

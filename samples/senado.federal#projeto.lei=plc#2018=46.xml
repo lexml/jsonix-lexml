@@ -1,0 +1,52 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;46"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 46 DE 2018</Epigrafe>
+      <Ementa id="ementa">Concede anistia às multas e às sanções previstas no <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art250">art. 250 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), aplicadas no período de até 90 (noventa) dias após a entrada em vigor da <span xlink:href="urn:lex:br:federal:lei:2016-05-23;13290">Lei nº 13.290, de 23 de maio de 2016</span>, aos motoristas que tenham transitado em rodovias com os faróis apagados.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art250--><!--Link: urn:lex:br:federal:lei:2016-05-23;13290-->
+            
+            
+            <p>Esta Lei concede anistia às multas e às sanções previstas no <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art250">art. 250 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), aplicadas no período de até 90 (noventa) dias após a entrada em vigor da <span xlink:href="urn:lex:br:federal:lei:2016-05-23;13290">Lei nº 13.290, de 23 de maio de 2016</span>, aos motoristas que tenham transitado em rodovias com os faróis apagados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art250--><!--Link: urn:lex:br:federal:lei:2016-05-23;13290-->
+            
+            
+            <p>Fica concedida anistia às multas e às sanções previstas no <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art250">art. 250 da Lei nº 9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), aplicadas no período de até 90 (noventa) dias após a entrada em vigor da <span xlink:href="urn:lex:br:federal:lei:2016-05-23;13290">Lei nº 13.290, de 23 de maio de 2016</span>, aos motoristas que tenham transitado em rodovias com os faróis apagados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

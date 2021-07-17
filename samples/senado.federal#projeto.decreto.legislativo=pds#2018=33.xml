@@ -1,0 +1,58 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.decreto.legislativo;pds:2018;33"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE DECRETO LEGISLATIVO (SF) Nº 33 DE 2018</Epigrafe>
+      <Ementa id="ementa">Aprova o texto do Acordo entre a República Federativa do Brasil e a República da Polônia sobre Transferência de Pessoas Condenadas, assinado em Brasília, em 26 de novembro de 2012.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica aprovado o texto do Acordo entre a República Federativa do Brasil e a República da Polônia sobre Transferência de Pessoas Condenadas, assinado em Brasília, em 26 de novembro de 2012.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A aprovação a que se refere o caput deste artigo é concedida com base no entendimento de que a transferência de pessoas condenadas abrangida pelo Acordo somente ocorrerá se a execução da pena for compatível com a ordem pública e as leis internas do Estado de execução e, caso a pena seja, pela sua natureza ou duração, ou por ambas, incompatível com as leis do Estado de execução, este Estado poderá, por meio de decisão de suas autoridades competentes, adaptar a pena para uma sanção ou medida prevista em sua própria legislação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art49_cpt_inc1-->
+            
+            
+            <p>Nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art49_cpt_inc1">inciso I do caput do art. 49 da Constituição Federal</span>, ficam sujeitos à aprovação do Congresso Nacional quaisquer atos que possam resultar em revisão do referido Acordo, bem como quaisquer ajustes complementares que acarretem encargos ou compromissos gravosos ao patrimônio nacional.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Este Decreto Legislativo entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

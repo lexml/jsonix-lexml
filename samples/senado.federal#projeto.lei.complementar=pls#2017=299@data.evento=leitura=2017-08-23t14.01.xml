@@ -1,0 +1,106 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei.complementar;pls:2017;299@data.evento;leitura;2017-08-23t14.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 299 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101">Lei Complementar nº 101, de 4 de maio 2000</span>, e a <span xlink:href="urn:lex:br:federal:lei:1996-10-25;5172">Lei nº 5.172, de 25 de outubro de 1996</span>, para fixar prazo mínimo a ser observado entre as operações de parcelamento de débitos com órgãos e entidades da Administração Pública Federal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei.complementar:2000-05-04;101!art11-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei.complementar:2000-05-04;101!art11">art. 11 da Lei Complementar nº 101, de 4 de maio de 2000</span>, passa a vigorar acrescido do seguinte § 2º, numerando-se o atual parágrafo único como § 1º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei.complementar:2000-05-04;101" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei.complementar:2000-05-04;101 -> MatchByBase(urn:lex:br:federal:lei.complementar:2000-05-04;101,2000,Some((5,4)),Map(art11 -> ExactMatch(URN(2000,Some((5,4)),art11,urn:lex:br:federal:lei.complementar:2000-05-04;101!art11)), art11_cpt -> PrefixMatch(URN(2000,Some((5,4)),art11,urn:lex:br:federal:lei.complementar:2000-05-04;101!art11),art11_cpt), art11_par1 -> PrefixMatch(URN(2000,Some((5,4)),art11,urn:lex:br:federal:lei.complementar:2000-05-04;101!art11),art11_par1), art11_par2 -> PrefixMatch(URN(2000,Some((5,4)),art11,urn:lex:br:federal:lei.complementar:2000-05-04;101!art11),art11_par2)))))-->
+              <Artigo xlink:href="art11" id="art1_cpt_alt1_art11" abreAspas="s">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput xlink:href="art11_cpt" id="art1_cpt_alt1_art11_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art11_par1" id="art1_cpt_alt1_art11_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art11_par2" id="art1_cpt_alt1_art11_par2" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:2002-07-19;10522-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Será observado o interstício mínimo de dez anos entre as operações de parcelamento de passivos com órgãos e entidades da Administração Pública Federal, direta, autárquica e fundacional, quando de natureza igual, e de outros débitos relativos a receitas por eles arrecadadas e administradas, ressalvados os débitos de qualquer natureza para com a Fazenda Nacional de que trata a <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522">Lei nº 10.522, de 19 de julho de 2002</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1966-10-25;5172!art155-1-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1966-10-25;5172!art155-1">art. 155-A da Lei nº 5.172, de 25 de outubro de 1966</span>, passa a vigorar acrescido dos seguintes §§ 5º e 6º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1966-10-25;5172" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1966-10-25;5172 -> MatchByBase(urn:lex:br:federal:lei:1966-10-25;5172,1966,Some((10,25)),Map(art155-1 -> ExactMatch(URN(1966,Some((10,25)),art155-1,urn:lex:br:federal:lei:1966-10-25;5172!art155-1)), art155-1_cpt -> PrefixMatch(URN(1966,Some((10,25)),art155-1,urn:lex:br:federal:lei:1966-10-25;5172!art155-1),art155-1_cpt), art155-1_par5 -> PrefixMatch(URN(1966,Some((10,25)),art155-1,urn:lex:br:federal:lei:1966-10-25;5172!art155-1),art155-1_par5), art155-1_par6 -> PrefixMatch(URN(1966,Some((10,25)),art155-1,urn:lex:br:federal:lei:1966-10-25;5172!art155-1),art155-1_par6)))))-->
+              <Artigo xlink:href="art155-1" id="art2_cpt_alt1_art155-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 155-A.</Rotulo>
+            
+            <Caput xlink:href="art155-1_cpt" id="art2_cpt_alt1_art155-1_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art155-1_omi1"/><Paragrafo xlink:href="art155-1_par5" id="art2_cpt_alt1_art155-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Será observado o interstício mínimo de dez anos entre as operações de parcelamento de passivos tributários com órgãos e entidades da Administração Pública Federal.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art155-1_par6" id="art2_cpt_alt1_art155-1_par6" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:2002-07-19;10522-->
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Ao parcelamento regido pela <span xlink:href="urn:lex:br:federal:lei:2002-07-19;10522">Lei nº 10.522, de 19 de julho de 2002</span>, não se aplica o disposto no parágrafo anterior.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei Complementar entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

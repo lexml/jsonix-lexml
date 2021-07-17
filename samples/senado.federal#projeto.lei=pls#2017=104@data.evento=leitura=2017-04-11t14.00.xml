@@ -1,0 +1,100 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;104@data.evento;leitura;2017-04-11t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 104 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1983-08-29;7116">leis nº 7.116, de 29 de agosto de 1983</span>, e nº <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503">9.503, de 23 de setembro de 1997</span> (Código de Trânsito Brasileiro), para prever o uso de fotografia de identificação com elemento tradicional que exprima a identidade do indivíduo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1983-08-29;7116!art3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1983-08-29;7116!art3">art. 3º da Lei nº 7.116, de 29 de agosto de 1983</span>, passa a vigorar acrescido do seguinte parágrafo único:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1983-08-29;7116" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1983-08-29;7116 -> MatchByBase(urn:lex:br:federal:lei:1983-08-29;7116,1983,Some((8,29)),Map(art3 -> ExactMatch(URN(1983,Some((8,29)),art3,urn:lex:br:federal:lei:1983-08-29;7116!art3)), art3_cpt -> PrefixMatch(URN(1983,Some((8,29)),art3,urn:lex:br:federal:lei:1983-08-29;7116!art3),art3_cpt), art3_par1 -> PrefixMatch(URN(1983,Some((8,29)),art3,urn:lex:br:federal:lei:1983-08-29;7116!art3),art3_par1)))))-->
+              <Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art3_omi1"/><Paragrafo xlink:href="art3_par1u" id="art1_cpt_alt1_art3_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A fotografia de identificação poderá conter elementos que expressem pertencimento a uma comunidade ou tradição cultural reconhecida como tal pela sociedade brasileira, desde que esses elementos não impeçam o reconhecimento da fisionomia da pessoa.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-09-23;9503!art159_par3-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1997-09-23;9503!art159_par3">§ 3º do art. 159 da Lei nº 9.503, de 23 de setembro de 1997</span>, passa a vigorar acrescido do seguinte inciso I:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1997-09-23;9503" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1997-09-23;9503 -> MatchByBase(urn:lex:br:federal:lei:1997-09-23;9503,1997,Some((9,23)),Map(art159 -> SuperPrefixMatch(URN(1997,Some((9,23)),art159_par3,urn:lex:br:federal:lei:1997-09-23;9503!art159_par3),art159), art159_cpt -> SuperPrefixMatch(URN(1997,Some((9,23)),art159_par3,urn:lex:br:federal:lei:1997-09-23;9503!art159_par3),art159_cpt), art159_par3 -> ExactMatch(URN(1997,Some((9,23)),art159_par3,urn:lex:br:federal:lei:1997-09-23;9503!art159_par3)), art159_par3_inc1 -> PrefixMatch(URN(1997,Some((9,23)),art159_par3,urn:lex:br:federal:lei:1997-09-23;9503!art159_par3),art159_par3_inc1)))))-->
+              <Artigo xlink:href="art159" id="art2_cpt_alt1_art159" abreAspas="s">
+            
+            
+            <Rotulo>Art. 159.</Rotulo>
+            
+            <Caput xlink:href="art159_cpt" id="art2_cpt_alt1_art159_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art159_omi1"/><Paragrafo xlink:href="art159_par3" id="art2_cpt_alt1_art159_par3" textoOmitido="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            
+            <Inciso xlink:href="art159_par3_inc1" id="art2_cpt_alt1_art159_par3_inc1" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>A fotografia de identificação poderá conter elementos que expressem pertencimento a uma comunidade ou tradição cultural reconhecida como tal pela sociedade brasileira, desde que esses elementos não impeçam o reconhecimento da fisionomia da pessoa.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

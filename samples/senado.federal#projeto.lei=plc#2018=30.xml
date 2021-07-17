@@ -1,0 +1,199 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 30 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera o <span xlink:href="urn:lex:br:federal:lei:2005-09-27;11182!art8">art. 8º da Lei nº 11.182, de 27 de setembro de 2005</span>, e dispõe sobre as condições de transporte de animais domésticos.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2005-09-27;11182!art8-->
+            
+            
+            <p>Esta Lei altera o <span xlink:href="urn:lex:br:federal:lei:2005-09-27;11182!art8">art. 8º da Lei nº 11.182, de 27 de setembro de 2005</span>, para ampliar a competência da Agência Nacional de Aviação Civil (Anac), e dispõe sobre as condições de transporte de animais domésticos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2005-09-27;11182!art8-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2005-09-27;11182!art8">art. 8º da Lei nº 11.182, de 27 de setembro de 2005</span>, passa a vigorar acrescido do seguinte inciso L:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2005-09-27;11182" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2005-09-27;11182 -> MatchByBase(urn:lex:br:federal:lei:2005-09-27;11182,2005,Some((9,27)),Map(art8 -> ExactMatch(URN(2005,Some((9,27)),art8,urn:lex:br:federal:lei:2005-09-27;11182!art8)), art8_cpt -> PrefixMatch(URN(2005,Some((9,27)),art8,urn:lex:br:federal:lei:2005-09-27;11182!art8),art8_cpt), art8_cpt_inc50 -> PrefixMatch(URN(2005,Some((9,27)),art8,urn:lex:br:federal:lei:2005-09-27;11182!art8),art8_cpt_inc50)))))-->
+              <Artigo xlink:href="art8" id="art2_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art2_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art8_cpt_omi1"/><Inciso xlink:href="art8_cpt_inc50" id="art2_cpt_alt1_art8_cpt_inc50">
+            
+            
+            <Rotulo>L –</Rotulo>
+            <p>expedir normas e estabelecer padrões mínimos de segurança, higiene e conforto para o transporte de animais domésticos.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art8_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Aos proprietários de animais domésticos fica assegurado o direito de transporte dos animais nas linhas regulares nacionais, interestaduais e intermunicipais de transporte terrestre, aéreo e aquaviário, nos termos do disposto nesta Lei.</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O peso do animal não poderá ser incluído na franquia da bagagem e será facultada à empresa a cobrança de valor adicional pelo transporte do animal de estimação, de acordo com critérios determinados pela agência reguladora competente de cada setor de transporte.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Para o exercício do direito de transporte dos animais domésticos de que trata esta Lei, o proprietário do animal de estimação deverá apresentar os seguintes documentos comprobatórios da sanidade do animal doméstico:</p>
+            <Inciso id="art3_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>documento firmado por médico veterinário que ateste as boas condições de saúde do animal, emitido no período de 15 (quinze) dias antes da data de embarque; e</p>
+            
+          </Inciso><Inciso id="art3_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>carteira de vacinação atualizada, na qual conste, no mínimo, as vacinas antirrábica e polivalente.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para que sejam embarcados, os animais deverão estar devidamente higienizados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Os animais deverão ser acondicionados em caixas de transporte apropriadas ou similares durante toda a sua permanência no veículo e deverão ser transportados em local e forma definidos pela empresa de transporte, de modo que lhes sejam oferecidas condições de proteção e conforto.</p>
+            
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No transporte de animais domésticos é vedado:</p>
+            <Inciso id="art4_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>transportar os animais domésticos em via terrestre por mais de 12 (doze) horas seguidas sem o devido descanso;</p>
+            
+          </Inciso><Inciso id="art4_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>transportar animal fraco, doente, ferido, ou em adiantado estado de gestação, exceto na hipótese de atendimento de urgência e desde que a empresa transportadora tenha condições técnicas de realizar o transporte sem prejuízo à segurança e à saúde dos passageiros.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A empresa de transporte aéreo poderá impor condições ao transporte de animais domésticos, ou recusar-se a fazê-lo, em virtude de questões específicas relativas à saúde e à segurança dos animais, desde que apresente documento emitido por médico veterinário com as razões que desaconselham o transporte.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Sem prejuízo das demais normas regulamentares e de segurança, o animal doméstico de até 8 kg (oito quilogramas) poderá ser transportado na cabine de passageiros, a critério da empresa de transporte e deverá ficar em compartimento apropriado, com segurança, e sem causar desconforto aos demais passageiros.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O transporte dos animais domésticos com mais de 8 kg (oito quilogramas) não poderá ser efetuado na cabine de passageiros.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O transporte de animais domésticos na cabine de passageiros fica limitado a 2 (dois) animais por veículo, a cada viagem.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Ao deficiente visual é garantido o direito de ingressar e permanecer acompanhado de cão-guia nos transportes de que trata esta Lei, independentemente do peso do animal e do pagamento de tarifa.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O usuário terá o embarque recusado ou será determinado seu desembarque quando transportar ou pretender embarcar animais domésticos sem o devido acondicionamento ou em desacordo com o disposto nesta Lei ou em outras disposições legais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,253 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;402@data.evento;leitura;2017-10-24t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 402 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera o Código de Processo Penal, para estabelecer procedimento para aplicação imediata da pena.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1941-10-03;3689-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1941-10-03;3689">Decreto-Lei nº 3.689, de 3 de outubro de 1941</span> – Código de Processo Penal – passa a vigorar acrescido dos seguintes artigos 394-B a 394-G:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1941-10-03;3689" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1941-10-03;3689 -> MatchByBase(urn:lex:br:federal:decreto.lei:1941-10-03;3689,1941,Some((10,3)),Map(art394-3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-3), art394-7_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-7_par1), art394-4_cpt_inc1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-4_cpt_inc1), art394-6_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_cpt), art394-6_cpt_inc2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_cpt_inc2), art394-6_par3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_par3), art394-2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2), art394-3_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-3_par2), art394-2_par5 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2_par5), art394-4_cpt_inc2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-4_cpt_inc2), art394-7_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-7_cpt), art394-4 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-4), art394-6_cpt_inc3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_cpt_inc3), art394-3_par4 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-3_par4), art394-2_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2_cpt), art394-2_par6 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2_par6), art394-3_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-3_par1), art394-3_par3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-3_par3), art394-7_par3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-7_par3), art394-5_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-5_par1), art394-2_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2_par2), art394-3_par5 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-3_par5), art394-5 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-5), art394-3_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-3_cpt), art394-6_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_par1), art394-6 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6), art394-5_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-5_cpt), art394-2_par3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2_par3), art394-7_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-7_par2), art394-4_cpt -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-4_cpt), art394-6_cpt_inc1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_cpt_inc1), art394-6_cpt_inc4 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_cpt_inc4), art394-7 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-7), art394-6_par2 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-6_par2), art394-2_par1 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2_par1), art394-2_par4 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-2_par4), art394-4_cpt_inc3 -> PrefixMatch(URN(1941,Some((10,3)),,urn:lex:br:federal:decreto.lei:1941-10-03;3689),art394-4_cpt_inc3)))))-->
+              <Artigo xlink:href="art394-2" id="art1_cpt_alt1_art394-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 394-B.</Rotulo>
+            
+            <Caput xlink:href="art394-2_cpt" id="art1_cpt_alt1_art394-2_cpt">
+            
+            
+            
+            <p>Recebida motivadamente a denúncia ou queixa, especificamente aferida a justa causa para ação penal, e não cabíveis a suspensão condicional do processo ou a transação penal, o imputado poderá requerer a aplicação imediata da punição, por simples petição, até a abertura da audiência de instrução e julgamento.</p>
+            
+          </Caput><Paragrafo xlink:href="art394-2_par1" id="art1_cpt_alt1_art394-2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O acordo será cabível nos processos em que, independentemente da pena abstrata cominada, se conclua, fundamentadamente, que a condenação ao final do processo acarretaria a substituição da pena privativa por restritiva de direitos, multa ou ambas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-2_par2" id="art1_cpt_alt1_art394-2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A condenação em razão do acordo não poderá acarretar pena restritiva de liberdade ao acusado, seja diretamente ou em razão do descumprimento da pena restritiva de direitos ou multa.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-2_par3" id="art1_cpt_alt1_art394-2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Em caso de descumprimento da pena restritiva de direitos imposta por meio do acordo, reiniciar-se-á o curso do processo, salvo apresentação de justo motivo pela defesa, no prazo de cinco dias a partir da intimação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-2_par4" id="art1_cpt_alt1_art394-2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A petição de requerimento de aplicação imediata da punição deve ser assinada pelo imputado e seu defensor. Em caso de divergência, deve prevalecer a vontade do acusado, bastando sua assinatura ou o requerimento oral em audiência, devendo constar expressamente os motivos da discordância do defensor.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-2_par5" id="art1_cpt_alt1_art394-2_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Em caso de crime cometido em concurso de agentes, o acordo com um dos corréus não depende da vontade dos demais e não pode ser utilizado como prova, salvo se houver acordo conjunto de colaboração premiada expressamente firmado.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-2_par6" id="art1_cpt_alt1_art394-2_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Na hipótese do § 5º, o juiz que conduziu o acordo com um imputado torna-se suspeito para julgar os demais corréus.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art394-3" id="art1_cpt_alt1_art394-3">
+            
+            
+            <Rotulo>Art. 394-C.</Rotulo>
+            
+            <Caput xlink:href="art394-3_cpt" id="art1_cpt_alt1_art394-3_cpt">
+            
+            
+            
+            <p>Oferecida a petição de aplicação imediata da punição, ao acusador será aberto prazo de 10 dias para oferecer proposta, analisando, fundamentadamente, o cumprimento dos requisitos e cálculo da pena provável, conforme o método trifásico regulado no Código Penal, a partir dos termos da denúncia ou queixa, consentidos pelo acusado, considerando a redução de 1/3 em razão da conformidade do imputado ao acordo. Se cominada cumulativamente pena de multa, ela deverá ser fixada em seu mínimo.</p>
+            
+          </Caput><Paragrafo xlink:href="art394-3_par1" id="art1_cpt_alt1_art394-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se o acusador entender incabível o acordo, será aberto prazo de 10 dias para manifestação da defesa e, em seguida, deverá se pronunciar o juiz sobre seu cabimento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-3_par2" id="art1_cpt_alt1_art394-3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na manifestação sobre o posicionamento negativo da acusação, o juiz deverá ordenar o prosseguimento do feito, pronunciando-se acerca do cabimento do acordo e, se entender cabível ao caso, reconhecerá ao imputado o direito à redução de 1/3 na punição na sentença final.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-3_par3" id="art1_cpt_alt1_art394-3_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Da decisão do juiz não caberá recurso, devendo ser questionada, ao final, em eventual apelação interposta contra a sentença condenatória.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-3_par4" id="art1_cpt_alt1_art394-3_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se o acusador se pronunciar favoravelmente ao acordo ou o julgador entender ilegítima a negativa daquele, deverá o imputado preso cautelarmente ser colocado em liberdade imediatamente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-3_par5" id="art1_cpt_alt1_art394-3_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A redução de pena prevista no caput deste artigo não exclui a análise quanto ao cabimento de circunstâncias atenuantes e quaisquer causas de diminuição de pena, que poderão ser aplicadas, portanto, cumulativamente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art394-4" id="art1_cpt_alt1_art394-4">
+            
+            
+            <Rotulo>Art. 394-D.</Rotulo>
+            
+            <Caput xlink:href="art394-4_cpt" id="art1_cpt_alt1_art394-4_cpt">
+            
+            
+            
+            <p>São requisitos para a legitimidade da aceitação do imputado ao acordo:</p>
+            <Inciso xlink:href="art394-4_cpt_inc1" id="art1_cpt_alt1_art394-4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>voluntariedade, não podendo ser induzida por violência física real ou ameaçada, ou por coerção mental que vicie a vontade do acusado;</p>
+            
+          </Inciso><Inciso xlink:href="art394-4_cpt_inc2" id="art1_cpt_alt1_art394-4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>inteligência, de modo que o réu deve ter conhecimento de sua situação perante a imputação formulada e os fatos descritos pelo acusador, além das consequências de seu ato de aceite ao acordo, tanto em relação aos direitos a que renuncia quanto às punições que a ele serão impostas, além de seus efeitos colaterais;</p>
+            
+          </Inciso><Inciso xlink:href="art394-4_cpt_inc3" id="art1_cpt_alt1_art394-4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fundamentação, devendo existir uma base fática que sustente o reconhecimento da culpabilidade pelo réu.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art394-5" id="art1_cpt_alt1_art394-5">
+            
+            
+            <Rotulo>Art. 394-E.</Rotulo>
+            
+            <Caput xlink:href="art394-5_cpt" id="art1_cpt_alt1_art394-5_cpt">
+            
+            
+            
+            <p>O acusado, acompanhado de seu defensor, deverá ser ouvido pelo juiz em audiência designada para tal finalidade, sendo o imputado questionado acerca da voluntariedade para a aceitação do acordo e advertido sobre as circunstâncias do fato a ele imputado e as exatas consequências de sua aceitação.</p>
+            
+          </Caput><Paragrafo xlink:href="art394-5_par1u" id="art1_cpt_alt1_art394-5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O imputado não é obrigado a descrever os fatos ocorridos, mas a ele será oferecida oportunidade de narrar sua versão; de qualquer modo, deve atestar, fundamentadamente, sua voluntariedade para a aceitação do acordo, seu conhecimento acerca da imputação e das consequências da aceitação e sua conformidade com os fatos e a imputação presentes na acusação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art394-6" id="art1_cpt_alt1_art394-6">
+            
+            
+            <Rotulo>Art. 394-F.</Rotulo>
+            
+            <Caput xlink:href="art394-6_cpt" id="art1_cpt_alt1_art394-6_cpt">
+            
+            
+            
+            <p>Ao apreciar a proposta de acordo entre acusação e defesa, o julgador deverá:</p>
+            <Inciso xlink:href="art394-6_cpt_inc1" id="art1_cpt_alt1_art394-6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>condenar o acusado, se atendidos os requisitos do acordo e se tal decisão for adequada ao estado atual do processo, suficientes as provas juntadas e cotejadas com os termos da acusação e do interrogatório do réu, se este optar por motivar sua aceitação ao acordo com a descrição dos fatos ocorridos;</p>
+            
+          </Inciso><Inciso xlink:href="art394-6_cpt_inc2" id="art1_cpt_alt1_art394-6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>absolver o acusado, se, diante do estado atual do processo, restar comprovada a inexistência do fato, que o imputado não concorreu para a infração penal, que o fato não constitui infração penal, que presentes causas de exclusão do crime ou isenção de pena, que ausente condição para o exercício da ação penal;</p>
+            
+          </Inciso><Inciso xlink:href="art394-6_cpt_inc3" id="art1_cpt_alt1_art394-6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>declarar a extinção da punibilidade, se presente causa que a enseje;</p>
+            
+          </Inciso><Inciso xlink:href="art394-6_cpt_inc4" id="art1_cpt_alt1_art394-6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>recusar o acordo e ordenar o prosseguimento da instrução, se não estiverem adimplidos os requisitos formais descritos no artigo 394-D.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art394-6_par1" id="art1_cpt_alt1_art394-6_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No caso de prosseguimento da instrução, a aceitação do acordo pelo imputado não poderá ser considerada na sentença, devendo ser desentranhada dos autos, tornando-se suspeito o julgador que a apreciou.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-6_par2" id="art1_cpt_alt1_art394-6_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No caso de prosseguimento da instrução, havendo condenação após o regular decorrer do processo, conforme o rito cabível, a pena máxima será limitada àquela proposta pelo acusador nos termos do acordo rejeitado, sem prejuízo de eventual redução nos termos do art. 394-C, §2º, salvo se sobrevierem fatos novos que imponham nova definição jurídica durante a instrução.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-6_par3" id="art1_cpt_alt1_art394-6_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A decisão que condenar o imputado terá natureza condenatória, mas não caracterizará reincidência e maus antecedentes, ficando o imputado isento de eventuais custas ou despesas processuais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art394-7" id="art1_cpt_alt1_art394-7">
+            
+            
+            <Rotulo>Art. 394-G.</Rotulo>
+            
+            <Caput xlink:href="art394-7_cpt" id="art1_cpt_alt1_art394-7_cpt">
+            
+            
+            
+            <p>A decisão que apreciar a proposta do acordo, se condenar, absolver ou declarar a extinção da punibilidade do agente, será recorrível por meio de apelação. A decisão que recusar o acordo e ordenar o prosseguimento da instrução é irrecorrível, devendo ser impugnada, ao final, em eventual apelação contra a sentença.</p>
+            
+          </Caput><Paragrafo xlink:href="art394-7_par1" id="art1_cpt_alt1_art394-7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A apelação contra a decisão condenatória decorrente do acordo se limitará a questionar a atenção aos requisitos do acordo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-7_par2" id="art1_cpt_alt1_art394-7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se a decisão for reformada pelo tribunal, e ordenado o prosseguimento da instrução, o juiz que apreciou o acordo torna-se suspeito e não poderá julgar o caso. Em tal situação, a pena máxima será limitada àquela proposta pelo acusador nos termos do acordo rejeitado, salvo se sobrevierem fatos novos que imponham nova definição jurídica durante a instrução.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art394-7_par3" id="art1_cpt_alt1_art394-7_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Da condenação definitiva fundamentada em acordo é admitida revisão criminal, nos termos do Código de Processo Penal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

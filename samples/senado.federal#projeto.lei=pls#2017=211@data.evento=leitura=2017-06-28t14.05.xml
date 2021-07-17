@@ -1,0 +1,73 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;211@data.evento;leitura;2017-06-28t14.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 211 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Lei nº 9.394, de 20 de dezembro de 1996</span>, que estabelece as diretrizes e bases da educação nacional, para determinar a obrigatoriedade, por parte dos sistemas de ensino, da oferta de educação especial para o trabalho para pessoas com deficiência sob a forma de cursos com carga horária mínima de quinhentas horas de aulas e com número de vagas proporcional à população de pessoas com deficiência em idade economicamente ativa residente na região abrangida pelo sistema de ensino.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei estabelece a obrigatoriedade da oferta de vagas para a capacitação profissional de pessoas com deficiência em cursos de carga horária adequada e em número proporcional à população de pessoas com deficiência residente na região.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394!art59-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394!art59">art. 59 da Lei nº 9.394, de 20 de dezembro de 1996</span> passa a vigorar acrescido do seguinte parágrafo único:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-12-20;9394" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-12-20;9394 -> MatchByBase(urn:lex:br:federal:lei:1996-12-20;9394,1996,Some((12,20)),Map(art59 -> ExactMatch(URN(1996,Some((12,20)),art59,urn:lex:br:federal:lei:1996-12-20;9394!art59)), art59_cpt -> PrefixMatch(URN(1996,Some((12,20)),art59,urn:lex:br:federal:lei:1996-12-20;9394!art59),art59_cpt), art59_par1 -> PrefixMatch(URN(1996,Some((12,20)),art59,urn:lex:br:federal:lei:1996-12-20;9394!art59),art59_par1)))))-->
+              <Artigo xlink:href="art59" id="art2_cpt_alt1_art59" abreAspas="s">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput xlink:href="art59_cpt" id="art2_cpt_alt1_art59_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art2_cpt_alt1_art59_omi1"/><Paragrafo xlink:href="art59_par1u" id="art2_cpt_alt1_art59_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As instituições de ensino públicas e privadas deverão oferecer educação especial para o trabalho sob a forma de cursos gratuitos de capacitação profissional com carga horária não inferior a quinhentas horas de aula e com número de vagas proporcional à população de pessoas com deficiência em idade economicamente ativa residentes na área abrangida pelo sistema de ensino estadual ou municipal, cujas ofertas deverão considerar, para a obtenção do número de vagas a ser determinado, nos termos deste parágrafo e conforme regulamento, dados atualizados do Instituto Brasileiro de Geografia e Estatística.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorrido um ano de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

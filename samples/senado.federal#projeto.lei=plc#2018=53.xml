@@ -1,0 +1,2875 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;53"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 53 DE 2018</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a proteção de dados pessoais e altera a <span xlink:href="urn:lex:br:federal:lei:2014-04-23;12965">Lei nº 12.965, de 23 de abril de 2014</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES PRELIMINARES</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A disciplina da proteção de dados pessoais tem como fundamentos:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o respeito à privacidade;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a autodeterminação informativa;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a liberdade de expressão, de informação, de comunicação e de opinião;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a inviolabilidade da intimidade, da honra e da imagem;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o desenvolvimento econômico e tecnológico e a inovação;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a livre iniciativa, a livre concorrência e a defesa do consumidor; e</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os direitos humanos e o livre desenvolvimento da personalidade, dignidade e exercício da cidadania pelas pessoas naturais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei aplica-se a qualquer operação de tratamento realizada por pessoa natural ou por pessoa jurídica de direito público ou privado, independentemente do meio, do país de sua sede ou do país onde estejam localizados os dados, desde que:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a operação de tratamento seja realizada no território nacional, salvo o tratamento previsto no inciso IV do caput do art. 4º desta Lei;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a atividade de tratamento tenha por objetivo a oferta ou o fornecimento de bens ou serviços ou o tratamento de dados de indivíduos localizados no território nacional; ou</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os dados pessoais objeto do tratamento tenham sido coletados no território nacional.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Consideram-se coletados no território nacional os dados pessoais cujo titular nele se encontre no momento da coleta.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei não se aplica ao tratamento de dados pessoais:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>realizado por pessoa natural para fins exclusivamente pessoais;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>realizado para fins exclusivamente:</p>
+            <Alinea id="art4_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>jornalísticos e artísticos; ou</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>acadêmicos, aplicando-se a esta hipótese os arts. 7º e 11 desta Lei;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>realizado para fins exclusivos de segurança pública, de defesa nacional, de segurança do Estado ou de atividades de investigação e repressão de infrações penais; ou</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>provenientes de fora do território nacional e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto nesta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O tratamento de dados pessoais previsto no inciso III será regido por legislação específica, que deverá prever medidas proporcionais e estritamente necessárias ao atendimento do interesse público, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular previstos nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É vedado o tratamento dos dados a que se refere o inciso III do caput deste artigo por pessoa de direito privado, exceto em procedimentos sob tutela de pessoa jurídica de direito público, que serão objeto de informe específico ao órgão competente e que deverão observar a limitação imposta no § 4º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Órgão competente emitirá opiniões técnicas ou recomendações referentes às exceções previstas no inciso III do caput deste artigo e deverá solicitar aos responsáveis relatórios de impacto à proteção de dados pessoais.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Em nenhum caso a totalidade dos dados pessoais de banco de dados de que trata o inciso III do caput deste artigo poderá ser tratada por pessoa de direito privado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Para os fins desta Lei, considera-se:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dado pessoal: informação relacionada à pessoa natural identificada ou identificável;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>dados sensíveis: dados pessoais sobre a origem racial ou étnica, as convicções religiosas, as opiniões políticas, a filiação a sindicatos ou a organizações de caráter religioso, filosófico ou político, dados referentes à saúde ou à vida sexual, dados genéticos ou biométricos, quando vinculados a uma pessoa natural;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>dados anonimizados: dados pessoais relativos a um titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>banco de dados: conjunto estruturado de dados pessoais, localizado em um ou em vários locais, em suporte eletrônico ou físico;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>titular: a pessoa natural a quem se referem os dados pessoais que são objeto de tratamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>responsável: a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>operador: a pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do responsável;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>encarregado: pessoa natural, indicada pelo responsável, que atua como canal de comunicação entre o responsável e os titulares e o órgão competente;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>agentes do tratamento: o responsável e o operador;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>bloqueio: guarda do dado pessoal ou do banco de dados com a suspensão temporária de qualquer operação de tratamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>eliminação: exclusão de dado ou de conjunto de dados armazenados em banco de dados, independentemente do procedimento empregado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>transferência internacional de dados: transferência de dados pessoais para um país estrangeiro ou organização internacional da qual o país seja membro;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>uso compartilhado de dados: a comunicação, a difusão, a transferência internacional, a interconexão de dados pessoais ou o tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos, no cumprimento de suas competências legais, ou entre estes e entes privados, reciprocamente, com autorização específica, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>relatório de impacto à proteção de dados pessoais: documentação do responsável que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>órgão de pesquisa: órgão ou entidade da administração pública direta ou indireta ou pessoa jurídica de direito privado sem fins lucrativos legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão institucional ou em seu objetivo social ou estatutário a pesquisa básica ou aplicada de caráter histórico, científico, tecnológico ou estatístico;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>órgão competente: órgão da administração pública indireta responsável por zelar, implementar e fiscalizar o cumprimento desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:</p>
+            <Inciso id="art6_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>necessidade: limitação do tratamento ao mínimo necessário para a realização das suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>livre acesso: garantia aos titulares de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade dos seus dados pessoais;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>qualidade dos dados: garantia aos titulares de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>transparência: garantia aos titulares de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos; e</p>
+            
+          </Inciso><Inciso id="art6_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>responsabilização e prestação de contas: demonstração pelo agente da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais, inclusive da eficácia das medidas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DOS REQUISITOS PARA O TRATAMENTO DE DADOS PESSOAIS</NomeAgrupador>
+            <Secao id="cap2_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Dos Requisitos para o Tratamento</NomeAgrupador>
+            <Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>mediante o fornecimento de consentimento pelo titular;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>para o cumprimento de obrigação legal ou regulatória pelo responsável;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis, regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV desta Lei;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual é parte o titular, a pedido do titular dos dados;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc6">
+            <!--Link: urn:lex:br:federal:lei:1996-09-23;9307-->
+            
+            <Rotulo>VI –</Rotulo>
+            <p>para o exercício regular de direitos em processo judicial, administrativo ou arbitral, nos termos da <span xlink:href="urn:lex:br:federal:lei:1996-09-23;9307">Lei nº 9.307, de 23 de setembro de 1996</span>;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>para a proteção da vida ou da incolumidade física do titular ou de terceiro;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>para a tutela da saúde, com procedimento realizado por profissionais da área da saúde ou por entidades sanitárias;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>quando necessário para atender aos interesses legítimos do responsável ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc10">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art43-->
+            
+            <Rotulo>X –</Rotulo>
+            <p>para a proteção do crédito de acordo com o <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art43">art. 43 da Lei no 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor).</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos casos de aplicação do disposto nos incisos II e III do caput deste artigo e excetuadas as hipóteses previstas no art. 4º desta Lei, o titular será informado das hipóteses em que será admitido o tratamento de seus dados.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A forma de disponibilização das informações previstas no § 1º e no inciso I do caput do art. 23 desta Lei poderá ser especificada pelo órgão competente.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O tratamento de dados pessoais cujo acesso é público deve considerar a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Fica dispensada a exigência do consentimento previsto no caput deste artigo para os dados tornados manifestamente públicos pelo titular, resguardados os direitos do titular e os princípios previstos nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O responsável que obteve o consentimento referido no inciso I do caput deste artigo que necessitar comunicar ou compartilhar dados pessoais com outros responsáveis deverá obter consentimento específico do titular para esse fim, ressalvadas as hipóteses de dispensa do consentimento previstas nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A eventual dispensa da exigência do consentimento não desobriga os agentes do tratamento das demais obrigações previstas nesta Lei, especialmente da observância dos princípios gerais e da garantia dos direitos do titular.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>O consentimento previsto no inciso I do art. 7º desta Lei, deverá ser fornecido por escrito ou por outro meio que demonstre a manifestação de vontade do titular.</p>
+            
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Caso o consentimento seja fornecido por escrito, este deverá constar de cláusula destacada das demais cláusulas contratuais.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Cabe ao responsável o ônus da prova de que o consentimento foi obtido em conformidade com o disposto nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É vedado o tratamento de dados pessoais mediante vício de consentimento.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O consentimento deverá referir-se a finalidades determinadas e serão nulas as autorizações genéricas para o tratamento de dados pessoais.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O consentimento pode ser revogado a qualquer momento, mediante manifestação expressa do titular, por procedimento gratuito e facilitado, ratificados os tratamentos realizados sob o amparo do consentimento anteriormente manifestado enquanto não houver requerimento de eliminação, nos termos do inciso VI do caput do art. 18 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Em caso de alteração de informação referida nos incisos I, II, III ou V do art. 9º desta Lei, o responsável deverá informar ao titular, com destaque de forma específica do teor das alterações, podendo o titular, nos casos em que o seu consentimento é exigido, revogá-lo caso discorde da alteração.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que deverão ser disponibilizadas de forma clara, adequada e ostensiva, acerca de, entre outras características previstas em regulamentação para o atendimento do princípio do livre acesso:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>finalidade específica do tratamento;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>forma e duração do tratamento, observados os segredos comercial e industrial;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>identificação do responsável;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>informações de contato do responsável;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>informações acerca do uso compartilhado de dados pelo responsável e a finalidade;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>responsabilidades dos agentes que realizarão o tratamento; e</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>direitos do titular, com menção explícita aos direitos contidos no art. 18 desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese em que o consentimento é requerido, este será considerado nulo caso as informações fornecidas ao titular tenham conteúdo enganoso ou abusivo ou não tenham sido apresentadas previamente com transparência, de forma clara e inequívoca.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese em que o consentimento é requerido, se houver mudanças da finalidade para o tratamento de dados pessoais não compatível com o consentimento original, o responsável deverá informar previamente o titular sobre as mudanças de finalidade, podendo o titular revogar o consentimento, caso discorde das alterações.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando o tratamento de dados pessoais for condição para o fornecimento de produto ou de serviço ou para o exercício de direito, o titular será informado com destaque sobre esse fato e sobre os meios pelos quais poderá exercer os direitos do titular elencados no art. 18 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O legítimo interesse do responsável somente poderá fundamentar tratamento de dados pessoais para finalidades legítimas, consideradas a partir de situações concretas, que incluem:</p>
+            <Inciso id="art10_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o apoio e a promoção de atividades do responsável; e</p>
+            
+          </Inciso><Inciso id="art10_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em relação ao titular, a proteção do exercício regular de seus direitos ou a prestação de serviços que o beneficiem, respeitadas as legítimas expectativas dele e os direitos e liberdades fundamentais, nos termos desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando o tratamento for baseado no legítimo interesse do responsável, somente os dados pessoais estritamente necessários para a finalidade pretendida poderão ser tratados.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O responsável deverá adotar medidas para garantir a transparência do tratamento de dados baseado no seu legítimo interesse.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O órgão competente poderá solicitar ao responsável relatório de impacto à proteção de dados pessoais, quando o tratamento tiver como fundamento o seu interesse legítimo, observados os segredos comercial e industrial.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Dos Dados Sensíveis</NomeAgrupador>
+            <Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>É vedado o tratamento de dados pessoais sensíveis, exceto:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>com fornecimento de consentimento específico e em destaque, pelo titular, para finalidades específicas;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:</p>
+            <Alinea id="art11_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>cumprimento de obrigação legal pelo responsável;</p>
+            
+          </Alinea><Alinea id="art11_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>tratamento e uso compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos;</p>
+            
+          </Alinea><Alinea id="art11_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis;</p>
+            
+          </Alinea><Alinea id="art11_cpt_inc2_ali4">
+            <!--Link: urn:lex:br:federal:lei:1996-09-23;9307-->
+            
+            <Rotulo>d)</Rotulo>
+            <p>exercício regular de direitos, inclusive em contrato, processo judicial, administrativo ou arbitral, nos termos da <span xlink:href="urn:lex:br:federal:lei:1996-09-23;9307">Lei nº 9.307, de 23 de setembro de 1996</span>;</p>
+            
+          </Alinea><Alinea id="art11_cpt_inc2_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>proteção da vida ou da incolumidade física do titular ou de terceiro;</p>
+            
+          </Alinea><Alinea id="art11_cpt_inc2_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>tutela da saúde, com procedimento realizado por profissionais da área da saúde ou por entidades sanitárias; ou</p>
+            
+          </Alinea><Alinea id="art11_cpt_inc2_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no art. 9º desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Aplica-se o disposto neste artigo a qualquer tratamento de dados pessoais que revele dados pessoais sensíveis e que possa causar dano ao titular, ressalvado o disposto em legislação específica.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos casos de aplicação do disposto nas alíneas a e b do inciso II do caput deste artigo pelos órgãos e pelas entidades públicas, será dada publicidade à referida dispensa de consentimento, nos termos do inciso I do caput do art. 23 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A comunicação ou o uso compartilhado de dados sensíveis entre responsáveis com o objetivo de obter vantagem econômica poderá ser objeto de vedação ou de regulamentação por parte do órgão competente, ouvidos os órgãos setoriais do poder público, no âmbito de suas competências.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>É vedada a comunicação ou o uso compartilhado entre responsáveis de dados sensíveis referentes à saúde com o objetivo de obter vantagem econômica, exceto nos casos de portabilidade de dados quando consentido pelo titular.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Os dados anonimizados serão considerados dados pessoais, para os fins desta Lei, quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.</p>
+            
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A determinação do que seja razoável deve levar em consideração fatores objetivos, tais como custo e tempo necessário para reverter o processo de anonimização, de acordo com as tecnologias disponíveis, e a utilização exclusiva de meios próprios.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Poderão ser igualmente considerados como dados pessoais, para os fins desta Lei, aqueles utilizados para a formação do perfil comportamental de uma determinada pessoa natural, se identificada.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O órgão competente poderá dispor sobre padrões e técnicas utilizadas em processos de anonimização e realizar verificações acerca de sua segurança, ouvido o Conselho Nacional de Proteção de Dados Pessoais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Na realização de estudos em saúde pública, os órgãos de pesquisa poderão ter acesso a bases de dados pessoais, que serão tratados exclusivamente dentro do órgão e estritamente para a finalidade de realização de estudos e pesquisas e mantidos em ambiente controlado e seguro, conforme práticas de segurança previstas em regulamento específico e que incluam, sempre que possível, a anonimização ou pseudomização dos dados, bem como considerem os devidos padrões éticos relacionados a estudos e pesquisas.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A divulgação dos resultados ou de qualquer excerto do estudo ou pesquisa de que trata o caput deste artigo em nenhuma hipótese poderá revelar dados pessoais.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O órgão de pesquisa será o responsável pela segurança da informação prevista no caput deste artigo, não permitida, em qualquer circunstância, a transferência dos dados a terceiros.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O acesso aos dados de que trata este artigo será objeto de regulamentação por parte do órgão competente e das autoridades da área de saúde e sanitárias, no âmbito de suas competências.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Para os efeitos deste artigo, a pseudonimização é o tratamento por meio do qual um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo, senão pelo uso de informação adicional mantida separadamente pelo responsável em ambiente controlado e seguro.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Das Crianças e dos Adolescentes</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>O tratamento de dados pessoais de crianças e de adolescentes deverá ser realizado no seu melhor interesse, nos termos deste artigo e da legislação pertinente.</p>
+            
+          </Caput><Paragrafo id="art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O tratamento de dados pessoais de crianças deverá ser realizado com o consentimento específico e em destaque dado por pelo menos um dos pais ou responsável legal.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os responsáveis pelo tratamento de dados de que trata o § 1º deste artigo deverão manter pública informação sobre os tipos de dados coletados, a forma de sua utilização e os procedimentos para o exercício dos direitos a que se refere o art. 18 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Poderão ser coletados dados pessoais de crianças sem o consentimento a que se refere o § 1º deste artigo quando a coleta for necessária para contatar os pais ou responsável legal, utilizados uma única vez e sem armazenamento, ou para sua proteção, e em nenhum caso poderão ser repassados a terceiros sem o consentimento de que trata o § 1º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os responsáveis por tratamento de dados não devem condicionar a participação dos titulares de que trata o § 1º deste artigo a jogos, aplicações de internet ou outras atividades para o fornecimento de informações pessoais além das estritamente necessárias à atividade.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O responsável deve realizar todos os esforços razoáveis para verificar que o consentimento a que se refere o § 1º deste artigo foi dado pelo responsável pela criança, consideradas as tecnologias disponíveis.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>As informações sobre o tratamento de dados referidas no § 3º deste artigo deverão ser fornecidas de maneira simples, clara e acessível, consideradas as características físico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário, com uso de recursos audiovisuais quando adequado, de forma a proporcionar a informação necessária aos pais ou responsável legal e adequada ao entendimento da criança.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec4">
+            
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador>Do Término do Tratamento</NomeAgrupador>
+            <Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>O término do tratamento de dados pessoais ocorrerá nas seguintes hipóteses:</p>
+            <Inciso id="art15_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>verificação de que a finalidade foi alcançada ou de que os dados deixaram de ser necessários ou pertinentes ao alcance da finalidade específica almejada;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fim do período de tratamento;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>comunicação do titular, inclusive no exercício do seu direito de revogação do consentimento conforme disposto no § 5º do art. 8º desta Lei, resguardado o interesse público; ou</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>determinação do órgão competente, quando houver violação da legislação em vigor.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Os dados pessoais serão eliminados após o término de seu tratamento, no âmbito e nos limites técnicos das atividades, autorizada a conservação para as seguintes finalidades:</p>
+            <Inciso id="art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cumprimento de obrigação legal do responsável;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>transferência a terceiros, desde que respeitados os requisitos de tratamento de dados dispostos nesta Lei; ou</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>uso exclusivo do responsável, vedado o seu acesso por terceiros, e desde que anonimizados os dados.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DOS DIREITOS DO TITULAR</NomeAgrupador>
+            <Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Toda pessoa natural tem assegurada a titularidade de seus dados pessoais, garantidos os direitos fundamentais de liberdade, de intimidade e de privacidade, nos termos desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>O titular dos dados pessoais tem direito a obter do responsável, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição:</p>
+            <Inciso id="art18_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>confirmação da existência de tratamento;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>acesso aos dados;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>correção de dados incompletos, inexatos ou desatualizados;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto nesta Lei;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>portabilidade dos dados pessoais a outro fornecedor de serviço ou produto, mediante requisição expressa e observados os segredos comercial e industrial, de acordo com a regulamentação do órgão responsável;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 desta Lei;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>informação das entidades públicas e privadas com as quais o responsável realizou uso compartilhado de dados;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>informação sobre a possibilidade de não fornecer o consentimento e sobre as consequências da negativa;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>revogação do consentimento nos termos do § 5º do art. 8º desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O titular dos dados pessoais tem o direito de peticionar em relação aos seus dados contra o responsável perante o órgão competente e os organismos de defesa do consumidor.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O titular pode opor-se a tratamento realizado com fundamento em uma das hipóteses de dispensa de consentimento, em caso de descumprimento ao disposto nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os direitos previstos neste artigo serão exercidos mediante requerimento expresso do titular ou representantes legalmente constituídos, a um dos agentes de tratamento.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Em caso de impossibilidade de adoção imediata da providência de que trata o § 3º deste artigo, o responsável enviará ao titular resposta em que poderá:</p>
+            <Inciso id="art18_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>comunicar que não é agente de tratamento dos dados e indicar, sempre que possível, o agente; ou</p>
+            
+          </Inciso><Inciso id="art18_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>indicar as razões de fato ou de direito que impedem a adoção imediata da providência.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art18_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O requerimento de que trata o § 3º deste artigo será atendido sem custos para o titular nos prazos e termos previstos na regulamentação.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O responsável deverá informar de maneira imediata aos agentes de tratamento com os quais tenha realizado uso compartilhado de dados a correção, a eliminação, a anonimização ou o bloqueio dos dados, para que repitam idêntico procedimento.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A portabilidade dos dados pessoais a que se refere o inciso V do caput deste artigo não inclui dados que já tenham sido anonimizados pelo responsável.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>A confirmação de existência ou o acesso a dados pessoais serão providenciados, mediante requisição do titular:</p>
+            <Inciso id="art19_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>em formato simplificado, imediatamente; ou</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>por meio de declaração clara e completa, que indique a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial, fornecida no prazo de até 15 (quinze) dias, contado da data do requerimento do titular.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art19_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os dados pessoais serão armazenados em formato que favoreça o exercício do direito de acesso.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As informações e os dados poderão ser fornecidos, a critério do titular:</p>
+            <Inciso id="art19_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>por meio eletrônico, seguro e idôneo para esse fim; ou</p>
+            
+          </Inciso><Inciso id="art19_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>sob forma impressa.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art19_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando o tratamento tiver origem no consentimento do titular ou em contrato, o titular poderá solicitar cópia eletrônica integral dos seus dados pessoais, observado os segredos comercial e industrial, nos termos da regulamentação do órgão competente, em formato que permita a sua utilização subsequente, inclusive em outras operações de tratamento.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O órgão competente poderá dispor de forma diferenciada acerca dos prazos previstos nos incisos I e II do caput deste artigo para os setores específicos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>O titular dos dados tem direito a solicitar revisão, por pessoa natural, de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, inclusive as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo, de crédito ou os aspectos de sua personalidade.</p>
+            
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O responsável deverá fornecer, sempre que solicitadas, informações claras e adequadas a respeito dos critérios e dos procedimentos utilizados para a decisão automatizada, observados os segredos comercial e industrial.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Em caso de não oferecimento de informações de que trata o § 1º deste artigo baseado na observância de segredo comercial e industrial, o órgão competente poderá realizar auditoria para verificação de aspectos discriminatórios em tratamento automatizados de dados pessoais.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Os dados pessoais referentes ao exercício regular de direitos pelo titular não podem ser utilizados em seu prejuízo.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            <!--Link: urn:lex:br:federal:lei:1997-11-12;9507--><!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art81--><!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art82--><!--Link: urn:lex:br:federal:lei:1985-07-24;7347-->
+            
+            
+            <p>A defesa dos interesses e dos direitos dos titulares de dados poderá ser exercida em juízo, individual ou coletivamente, na forma do disposto na <span xlink:href="urn:lex:br:federal:lei:1997-11-12;9507">Lei nº 9.507, de 12 de novembro de 1997</span>, nos <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art81">arts. 81</span> e <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art82">82 da Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), na <span xlink:href="urn:lex:br:federal:lei:1985-07-24;7347">Lei nº 7.347, de 24 de julho de 1985</span>, e nos demais instrumentos de tutela individual e coletiva.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DO TRATAMENTO DE DADOS PESSOAIS PELO PODER PÚBLICO</NomeAgrupador>
+            <Secao id="cap4_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Das Regras de Tratamento de Dados pelo Poder Público</NomeAgrupador>
+            <Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            <!--Link: urn:lex:br:federal:lei:2011-11-18;12527!art1_par1-->
+            
+            
+            <p>O tratamento de dados pessoais pelas pessoas jurídicas de direito público referidas no <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527!art1_par1">parágrafo único do art. 1º da Lei nº 12.527, de 18 de novembro de 2011</span>, deverá ser realizado para o atendimento de sua finalidade pública, na persecução de um interesse público, com o objetivo de executar as competências legais ou cumprir as atribuições legais do serviço público, desde que:</p>
+            <Inciso id="art23_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>sejam informadas as hipóteses em que, no exercício de suas competências, realizam o tratamento de dados pessoais, fornecendo informações claras e atualizadas sobre a previsão legal, a finalidade, os procedimentos e as práticas utilizadas para a execução dessas atividades em veículos de fácil acesso, preferencialmente em seus sítios eletrônicos;</p>
+            
+          </Inciso><Inciso id="art23_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2011-11-18;12527-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>sejam protegidos e preservados dados pessoais de requerentes de acesso à informação, no âmbito da <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527">Lei nº 12.527, de 18 de novembro de 2011</span>, vedado seu compartilhamento no âmbito do poder público e com pessoas jurídicas de direito privado; e</p>
+            
+          </Inciso><Inciso id="art23_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>seja indicado um encarregado quando realizarem operações de tratamento de dados pessoais, nos termos do art. 39 desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art23_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O órgão competente poderá dispor sobre as formas de publicidade das operações de tratamento.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par2">
+            <!--Link: urn:lex:br:federal:lei:2011-11-18;12527-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto nesta Lei não dispensa as pessoas jurídicas mencionadas no caput deste artigo de instituir as autoridades de que trata a <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527">Lei nº 12.527, de 18 de novembro de 2011</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par3">
+            <!--Link: urn:lex:br:federal:lei:1997-11-12;9507--><!--Link: urn:lex:br:federal:lei:1999-01-29;9784--><!--Link: urn:lex:br:federal:lei:2011-11-18;12527-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os prazos e procedimentos para exercício dos direitos do titular perante o poder público observarão o disposto em legislação específica, em especial as disposições constantes da <span xlink:href="urn:lex:br:federal:lei:1997-11-12;9507">Lei nº 9.507, de 12 de novembro de 1997</span>, da <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei nº 9.784, de 29 de janeiro de 1999</span>, e da <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527">Lei nº 12.527, de 18 de novembro de 2011</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os serviços notariais de registro exercidos em caráter privado, por delegação do poder público, terão o mesmo tratamento dispensado às pessoas jurídicas de que trata o caput deste artigo, nos termos desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art23_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os serviços notariais de registro devem fornecer acesso aos dados por meio eletrônico para a administração pública, tendo em vista as finalidades de que trata o caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art173-->
+            
+            
+            <p>As empresas públicas e as sociedades de economia mista que atuem em regime de concorrência, sujeitas ao disposto no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art173">art. 173 da Constituição Federal</span>, terão o mesmo tratamento dispensado às pessoas jurídicas de direito privado particulares, nos termos desta Lei.</p>
+            
+          </Caput><Paragrafo id="art24_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As empresas públicas e as sociedades de economia mista, quando estiverem operacionalizando políticas públicas e no âmbito da execução delas, terão o mesmo tratamento dispensado aos órgãos e às entidades do poder público, nos termos deste Capítulo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Os dados deverão ser mantidos em formato interoperável e estruturado para o uso compartilhado com vistas à execução de políticas públicas, à prestação de serviços públicos, à descentralização da atividade pública, à disseminação e ao acesso das informações pelo público em geral.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>O uso compartilhado de dados pessoais pelo poder público deve atender a finalidades específicas de execução de políticas públicas e atribuição legal pelos órgãos e pelas entidades públicas, respeitados os princípios de proteção de dados pessoais elencados no art. 6º desta Lei.</p>
+            
+          </Caput><Paragrafo id="art26_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É vedado ao poder público transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, exceto:</p>
+            <Inciso id="art26_par1_inc1">
+            <!--Link: urn:lex:br:federal:lei:2011-11-18;12527-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>em casos de execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse fim específico e determinado, observado o disposto na <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527">Lei nº 12.527, de 18 de novembro de 2011</span>;</p>
+            
+          </Inciso><Inciso id="art26_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>quando houver previsão legal e a transferência for respaldada em contratos, convênios ou instrumentos congêneres;</p>
+            
+          </Inciso><Inciso id="art26_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>nos casos em que os dados forem acessíveis publicamente, observadas as disposições desta Lei.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art26_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os contratos e convênios de que trata o § 1º deste artigo deverão ser comunicados ao órgão competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>A comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado será informado ao órgão competente e dependerá de consentimento do titular, exceto:</p>
+            <Inciso id="art27_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>nas hipóteses de dispensa do consentimento previstas nesta Lei;</p>
+            
+          </Inciso><Inciso id="art27_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>nos casos de uso compartilhado de dados, em que será dada publicidade nos termos do inciso I do caput do art. 23 desta Lei; ou</p>
+            
+          </Inciso><Inciso id="art27_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>nas exceções constantes do § 1º do art. 26 desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>A comunicação ou o uso compartilhado de dados pessoais entre órgãos e entidades de direito público será objeto de publicidade, nos termos do inciso I do caput do art. 23 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>O órgão competente poderá solicitar, a qualquer momento, às entidades do poder público a realização de operações de tratamento de dados pessoais, informe específico sobre o âmbito, natureza dos dados e demais detalhes do tratamento realizado, e poderá emitir parecer técnico complementar para garantir o cumprimento desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>O órgão competente poderá estabelecer normas complementares para as atividades de comunicação ou o uso compartilhado de dados pessoais.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap4_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Da Responsabilidade</NomeAgrupador>
+            <Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>Quando houver infração a esta Lei em decorrência do tratamento de dados pessoais por órgãos públicos, o órgão competente poderá enviar informe com medidas cabíveis para fazer cessar a violação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>O órgão competente poderá solicitar a agentes do poder público a publicação de relatórios de impacto à proteção de dados pessoais e poderá sugerir a adoção de padrões e boas práticas aos tratamentos de dados pessoais pelo poder público.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DA TRANSFERÊNCIA INTERNACIONAL DE DADOS</NomeAgrupador>
+            <Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>A transferência internacional de dados pessoais somente é permitida nos seguintes casos:</p>
+            <Inciso id="art33_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>para países ou organizações internacionais que proporcionem grau de proteção de dados pessoais adequado ao previsto nesta Lei;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>quando o responsável oferecer e comprovar garantias de cumprimento dos princípios, dos direitos do titular e do regime de proteção de dados previstos nesta lei, na forma de:</p>
+            <Alinea id="art33_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>cláusulas contratuais específicas para uma determinada transferência;</p>
+            
+          </Alinea><Alinea id="art33_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>cláusulas-padrão contratuais;</p>
+            
+          </Alinea><Alinea id="art33_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>normas corporativas globais;</p>
+            
+          </Alinea><Alinea id="art33_cpt_inc2_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>selos, certificados e códigos de conduta regularmente emitidos;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art33_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>quando a transferência for necessária para a cooperação jurídica internacional entre órgãos públicos de inteligência, de investigação e de persecução, de acordo com os instrumentos de direito internacional;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>quando a transferência for necessária para a proteção da vida ou da incolumidade física do titular ou de terceiro;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>quando o órgão competente autorizar a transferência;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>quando a transferência resultar em compromisso assumido em acordo de cooperação internacional;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>quando a transferência for necessária para execução de política pública ou atribuição legal do serviço público, sendo dada publicidade nos termos do inciso I do caput do art. 23 desta Lei;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>quando o titular tiver fornecido o seu consentimento específico e em destaque para a transferência, com informação prévia sobre o caráter internacional da operação, distinguindo claramente esta de outras finalidades; ou</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>quando necessário para atender as hipóteses previstas nos incisos II, V e VI do art. 7º desta Lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art33_par1u">
+            <!--Link: urn:lex:br:federal:lei:2011-11-18;12527!art1_par1-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para os fins do inciso I do art. 33 desta Lei, as pessoas jurídicas de direito público referidas no <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527!art1_par1">parágrafo único do art. 1º da Lei 12.527, de 18 de novembro de 2011</span>, no âmbito de suas competências legais, e responsáveis, no âmbito de suas atividades, poderão requerer ao órgão competente a avaliação do nível de proteção a dados pessoais conferido por país ou organização internacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>O nível de proteção de dados do país estrangeiro ou da organização internacional mencionado no inciso I do caput do art. 33 desta Lei será avaliado pelo órgão competente, que levará em consideração:</p>
+            <Inciso id="art34_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>as normas gerais e setoriais da legislação em vigor no país de destino ou na organização internacional;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a natureza dos dados;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a observância dos princípios gerais de proteção de dados pessoais e direitos dos titulares previstos nesta Lei;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a adoção de medidas de segurança previstas em regulamento;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a existência de garantias judiciais e institucionais para o respeito aos direitos de proteção de dados pessoais; e</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>as outras circunstâncias específicas relativas à transferência.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>A definição do conteúdo de cláusulas-padrão contratuais, bem como a verificação de cláusulas contratuais específicas para uma determinada transferência, normas corporativas globais ou selos, certificados e códigos de conduta, a que se refere o inciso II do caput do art. 33 desta Lei, será realizada pelo órgão competente.</p>
+            
+          </Caput><Paragrafo id="art35_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para a verificação do disposto no caput deste artigo, deverão ser considerados os requisitos, as condições e as garantias mínimas para a transferência que observem os direitos, as garantias e os princípios desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art35_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na análise de cláusulas contratuais, de documentos ou de normas corporativas globais submetidas à aprovação do órgão competente, poderão ser requeridas informações suplementares ou realizadas diligências de verificação quanto às operações de tratamento, quando necessário.</p>
+            
+          </Paragrafo><Paragrafo id="art35_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O órgão competente poderá designar organismos de certificação para a realização do previsto no caput deste artigo, que permanecerão sob sua fiscalização nos termos definidos em regulamento.</p>
+            
+          </Paragrafo><Paragrafo id="art35_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os atos realizados por organismo de certificação poderão ser revistos pelo órgão competente e, caso em desconformidade com esta Lei, submetidos à revisão ou anulados.</p>
+            
+          </Paragrafo><Paragrafo id="art35_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As garantias suficientes de observância dos princípios gerais de proteção e dos direitos do titular referidas no caput deste artigo serão também analisadas de acordo com as medidas técnicas e organizacionais adotadas pelo operador, de acordo com o previsto nos §§ 1º e 2º do art. 46 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>As alterações nas garantias apresentadas como suficientes de observância dos princípios gerais de proteção e dos direitos do titular referidas no inciso II do art. 33 desta Lei deverão ser comunicadas ao órgão competente.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>DOS AGENTES DO TRATAMENTO DE DADOS PESSOAIS</NomeAgrupador>
+            <Secao id="cap6_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Do Responsável e do Operador</NomeAgrupador>
+            <Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>O responsável e o operador devem manter registro das operações de tratamento de dados pessoais que realizarem, especialmente quando baseado no legítimo interesse.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            
+            
+            
+            <p>O órgão competente poderá determinar ao responsável que elabore relatório de impacto à proteção de dados pessoais, inclusive de dados sensíveis, referente às suas operações de tratamento de dados, nos termos do regulamento, observados os segredos comercial e industrial.</p>
+            
+          </Caput><Paragrafo id="art38_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Observado o disposto no caput deste artigo, o relatório deverá conter, no mínimo, a descrição dos tipos de dados coletados, a metodologia utilizada para sua coleta e para a garantia da segurança das informações, bem como a análise do responsável com relação às medidas, salvaguardas e mecanismos de mitigação de risco adotados.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>O operador deverá realizar o tratamento segundo as instruções fornecidas pelo responsável, que verificará a observância das próprias instruções e das normas sobre a matéria.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>O órgão competente poderá dispor sobre padrões de interoperabilidade para fins de portabilidade, livre acesso aos dados e segurança, assim como sobre o tempo de guarda dos registros, tendo em vista especialmente a necessidade e a transparência.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap6_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Do Encarregado pelo Tratamento de Dados Pessoais</NomeAgrupador>
+            <Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>O responsável deverá indicar um encarregado pelo tratamento de dados pessoais.</p>
+            
+          </Caput><Paragrafo id="art41_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A identidade e as informações de contato do encarregado deverão ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do responsável.</p>
+            
+          </Paragrafo><Paragrafo id="art41_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As atividades do encarregado consistem em:</p>
+            <Inciso id="art41_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências;</p>
+            
+          </Inciso><Inciso id="art41_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>receber comunicações do órgão competente e adotar providências;</p>
+            
+          </Inciso><Inciso id="art41_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>orientar os funcionários e os contratados da entidade a respeito das práticas a serem tomadas em relação à proteção de dados pessoais; e</p>
+            
+          </Inciso><Inciso id="art41_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>executar as demais atribuições determinadas pelo responsável ou estabelecidas em normas complementares.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art41_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O órgão competente poderá estabelecer normas complementares sobre a definição e as atribuições do encarregado, inclusive hipóteses de dispensa da necessidade de sua indicação, conforme a natureza e o porte da entidade ou o volume de operações de tratamento de dados.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap6_sec3">
+            
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador>Da Responsabilidade e do Ressarcimento de Danos</NomeAgrupador>
+            <Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            
+            
+            
+            <p>O responsável ou o operador que, em razão do exercício de atividade de tratamento de dados pessoais, causar a outrem dano patrimonial, moral, individual ou coletivo, em violação à legislação de proteção de dados pessoais, é obrigado a repará-lo.</p>
+            
+          </Caput><Paragrafo id="art42_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A fim de assegurar a efetiva indenização ao titular dos dados:</p>
+            <Inciso id="art42_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o operador responde solidariamente pelos danos causados pelo tratamento quando descumprir as obrigações da legislação de proteção de dados ou quando não tiver seguido as instruções lícitas do responsável, hipótese em que o operador equipara-se a responsável, salvo nos casos de exclusão previstos no art. 43 desta Lei;</p>
+            
+          </Inciso><Inciso id="art42_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os responsáveis que estiverem diretamente envolvidos no tratamento do qual decorreram danos ao titular dos dados respondem solidariamente, salvo nos casos de exclusão previstos no art. 43 desta Lei.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art42_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O juiz, no processo civil, poderá inverter o ônus da prova a favor do titular dos dados quando, a seu juízo, for verossímil a alegação, houver hipossuficiência para fins de produção de prova ou quando a produção de prova pelo titular resultar-lhe excessivamente onerosa.</p>
+            
+          </Paragrafo><Paragrafo id="art42_par3">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As ações de reparação por danos coletivos que tenham por objeto a responsabilização nos termos do caput deste artigo podem ser exercidas coletivamente em juízo, observado o disposto no Título III da <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor).</p>
+            
+          </Paragrafo><Paragrafo id="art42_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Aquele que reparar o dano ao titular tem direito de regresso contra os demais responsáveis, na medida de sua participação no evento danoso.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>Os agentes de tratamento só não serão responsabilizados quando provarem:</p>
+            <Inciso id="art43_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>que não realizaram o tratamento de dados pessoais que lhes é atribuído;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>que, embora tenham realizado o tratamento de dados pessoais que lhes é atribuído, não houve violação à legislação de proteção de dados;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>que o dano é decorrente de culpa exclusiva do titular dos dados ou de terceiro.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            
+            
+            
+            <p>O tratamento de dados pessoais será irregular quando deixar de observar a legislação ou quando não fornecer a segurança que o titular dele pode esperar, consideradas as circunstâncias relevantes, entre as quais:</p>
+            <Inciso id="art44_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o modo pelo qual é realizado;</p>
+            
+          </Inciso><Inciso id="art44_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o resultado e os riscos que razoavelmente dele se esperam;</p>
+            
+          </Inciso><Inciso id="art44_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as técnicas de tratamento de dados pessoais disponíveis à época em que foi realizado.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art44_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Responde pelos danos decorrentes da violação da segurança dos dados o responsável ou o operador que, ao deixar de adotar as medidas de segurança previstas no art. 46 desta Lei, der causa ao dano.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078-->
+            
+            
+            <p>As hipóteses de violação ao direito do titular no âmbito das relações de consumo permanecem sujeitas às regras de responsabilidade previstas na <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span> (Código de Defesa do Consumidor), observado o inciso III do art. 4º da referida Lei.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>DA SEGURANÇA E DAS BOAS PRÁTICAS</NomeAgrupador>
+            <Secao id="cap7_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Segurança e do Sigilo de Dados</NomeAgrupador>
+            <Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            
+            
+            
+            <p>Os agentes de tratamento devem adotar medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.</p>
+            
+          </Caput><Paragrafo id="art46_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O órgão competente poderá dispor sobre padrões técnicos mínimos para tornar aplicável o disposto no caput deste artigo, considerados a natureza das informações tratadas, as características específicas do tratamento e o estado atual da tecnologia, especialmente no caso de dados sensíveis, assim como os princípios previstos no caput do art. 6º desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art46_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As medidas de que trata o caput deste artigo deverão ser observadas desde a fase de concepção do produto ou do serviço até a sua execução.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            
+            
+            
+            <p>Os agentes de tratamento ou qualquer outra pessoa que intervenha em uma das fases do tratamento obriga-se a garantir a segurança da informação prevista nesta Lei em relação aos dados pessoais, mesmo após o seu término.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            
+            
+            
+            <p>O responsável deverá comunicar ao órgão competente e ao titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares.</p>
+            
+          </Caput><Paragrafo id="art48_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A comunicação será feita em prazo razoável, conforme definido pelo órgão competente, e deverá mencionar, no mínimo:</p>
+            <Inciso id="art48_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a descrição da natureza dos dados pessoais afetados;</p>
+            
+          </Inciso><Inciso id="art48_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as informações sobre os titulares envolvidos;</p>
+            
+          </Inciso><Inciso id="art48_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a indicação das medidas técnicas e de segurança utilizadas para a proteção dos dados, observados os segredos comercial e industrial;</p>
+            
+          </Inciso><Inciso id="art48_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>os riscos relacionados ao incidente;</p>
+            
+          </Inciso><Inciso id="art48_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os motivos da demora, no caso de a comunicação não ter sido imediata; e</p>
+            
+          </Inciso><Inciso id="art48_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>as medidas que foram ou que serão adotadas para reverter ou mitigar os efeitos do prejuízo.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art48_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O órgão competente verificará a gravidade do incidente e poderá, caso necessário para a salvaguarda dos direitos dos titulares, determinar ao responsável a adoção de providências, tais como:</p>
+            <Inciso id="art48_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ampla divulgação do fato em meios de comunicação; e</p>
+            
+          </Inciso><Inciso id="art48_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>medidas para reverter ou mitigar os efeitos do incidente.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art48_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No juízo de gravidade do incidente, será avaliada eventual comprovação de que foram adotadas medidas técnicas adequadas que tornem os dados pessoais afetados ininteligíveis, no âmbito e nos limites técnicos de seus serviços, para terceiros não autorizados a acessá-los.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            
+            
+            
+            <p>Os sistemas utilizados para o tratamento de dados pessoais devem ser estruturados de forma a atender aos requisitos de segurança, aos padrões de boas práticas e de governança, aos princípios gerais previstos nesta Lei e às demais normas regulamentares.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap7_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Das Boas Práticas e da Governança</NomeAgrupador>
+            <Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            
+            
+            
+            <p>Os responsáveis e operadores, no âmbito de suas competências, pelo tratamento de dados pessoais, individualmente ou por meio de associações, poderão formular regras de boas práticas e de governança que estabeleçam as condições de organização, o regime de funcionamento, os procedimentos, incluindo reclamações e petições de titulares, as normas de segurança, os padrões técnicos, as obrigações específicas para os diversos envolvidos no tratamento, as ações educativas, os mecanismos internos de supervisão e de mitigação de riscos e outros aspectos relacionados ao tratamento de dados pessoais.</p>
+            
+          </Caput><Paragrafo id="art50_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ao estabelecer regras de boas práticas, o responsável pelo tratamento e o operador levarão em consideração, em relação ao tratamento e aos dados, a natureza, o escopo, a finalidade e a probabilidade e a gravidade dos riscos e dos benefícios decorrentes de tratamento de dados de titular.</p>
+            
+          </Paragrafo><Paragrafo id="art50_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na aplicação dos princípios indicados nos incisos VII e VIII do caput do art. 6º desta Lei, o responsável observados a estrutura, a escala e o volume de suas operações, bem como a sensibilidade dos dados tratados, a probabilidade e a gravidade dos danos para os titulares dos dados, poderá:</p>
+            <Inciso id="art50_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>implementar programa de governança em privacidade que, no mínimo:</p>
+            <Alinea id="art50_par2_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>demonstre o comprometimento do responsável em adotar processos e políticas internas que assegurem o cumprimento, de forma abrangente, de normas e boas práticas relativas à proteção de dados pessoais;</p>
+            
+          </Alinea><Alinea id="art50_par2_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>seja aplicável a todo o conjunto de dados pessoais que estejam sob seu controle, independentemente do modo em que se realizou sua coleta;</p>
+            
+          </Alinea><Alinea id="art50_par2_inc1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>seja adaptado à estrutura, à escala e ao volume de suas operações, bem como à sensibilidade dos dados tratados;</p>
+            
+          </Alinea><Alinea id="art50_par2_inc1_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>estabeleça políticas e salvaguardas adequadas com base em processo de avaliação sistemática de impactos e riscos à privacidade;</p>
+            
+          </Alinea><Alinea id="art50_par2_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>tenha o objetivo de estabelecer relação de confiança com o titular, por meio de atuação transparente e que assegure mecanismos de participação do titular;</p>
+            
+          </Alinea><Alinea id="art50_par2_inc1_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>esteja integrado à sua estrutura geral de governança e estabeleça e aplique mecanismos de supervisão internos e externos;</p>
+            
+          </Alinea><Alinea id="art50_par2_inc1_ali7">
+            
+            
+            <Rotulo>g)</Rotulo>
+            <p>conte com planos de resposta a incidentes e remediação; e</p>
+            
+          </Alinea><Alinea id="art50_par2_inc1_ali8">
+            
+            
+            <Rotulo>h)</Rotulo>
+            <p>seja atualizado constantemente com base em informações obtidas a partir de monitoramento contínuo e avaliações periódicas;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art50_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>demonstrar a efetividade de seu programa de governança em privacidade quando apropriado, e, em especial, a pedido do órgão competente ou de outra entidade responsável por promover o cumprimento de boas práticas ou códigos de conduta, os quais, de forma independente, promovam o cumprimento desta Lei.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art50_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As regras de boas práticas e de governança deverão ser publicadas e atualizadas periodicamente e poderão ser reconhecidas e divulgadas pelo órgão competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art51">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">
+            
+            
+            
+            <p>O órgão competente estimulará a adoção de padrões técnicos que facilitem o controle pelos titulares dosseus dados pessoais.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap8">
+            
+            
+            <Rotulo>CAPÍTULO VIII</Rotulo>
+            <NomeAgrupador>DA FISCALIZAÇÃO</NomeAgrupador>
+            <Secao id="cap8_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Das Sanções Administrativas</NomeAgrupador>
+            <Artigo id="art52">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">
+            
+            
+            
+            <p>Os agentes de tratamento de dados, em razão das infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguintes sanções administrativas aplicáveis pelo órgão competente:</p>
+            <Inciso id="art52_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>advertência, com indicação de prazo para adoção de medidas corretivas;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>multa simples ou diária, de até 2% (dois por cento) do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000,00 (cinquenta milhões de reais) por infração;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>publicização da infração após devidamente apurada e confirmada a sua ocorrência;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>bloqueio de dados pessoais a que se refere a infração até a sua regularização;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>eliminação dos dados pessoais a que se refere a infração;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>suspensão parcial ou total de funcionamento de banco de dados a que se refere a infração pelo período máximo de 6 (seis) meses, prorrogável por igual período até a regularização da atividade de tratamento pelo responsável;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>suspensão do exercício de atividade de tratamento de dados pessoais a que se refere a infração pelo período máximo de 6 (seis) meses, prorrogáveis por igual período; e</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>proibição parcial ou total do exercício de atividades relacionadas a tratamento de dados.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art52_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As sanções serão aplicadas após procedimento administrativo que possibilite a oportunidade da ampla defesa, de forma gradativa, isolada ou cumulativa, de acordo com as peculiaridades do caso concreto e considerados os seguintes parâmetros e critérios:</p>
+            <Inciso id="art52_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a gravidade e a natureza das infrações e dos direitos pessoais afetados;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a boa-fé do infrator;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a vantagem auferida ou pretendida pelo infrator;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a condição econômica do infrator;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a reincidência;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o grau do dano;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>a cooperação do infrator;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>a adoção reiterada e demonstrada de mecanismos e procedimentos internos capazes de minimizar o dano, voltados ao tratamento seguro e adequado de dados, em consonância com o disposto no inciso II do § 2º do art. 48 desta Lei.</p>
+            
+          </Inciso><Inciso id="art52_par1_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a adoção de política de boas práticas e governança;</p>
+            
+          </Inciso><Inciso id="art52_par1_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>a pronta adoção de medidas corretivas; e</p>
+            
+          </Inciso><Inciso id="art52_par1_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>a proporcionalidade entre a gravidade da falta e a intensidade da sanção.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art52_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto neste artigo não substitui a aplicação de sanções administrativas, civis ou penais definidas em legislação específica.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par3">
+            <!--Link: urn:lex:br:federal:lei:1990-12-11;8112--><!--Link: urn:lex:br:federal:lei:1992-06-02;8429--><!--Link: urn:lex:br:federal:lei:2011-11-18;12527-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O disposto nos incisos I, III, IV, V, VI, VII e VIII do caput deste artigo poderá ser aplicado às entidades e aos órgãos públicos, sem prejuízo do disposto nas <span xlink:href="urn:lex:br:federal:lei:1990-12-11;8112">Leis nºs 8.112, de 11 de dezembro de 1990</span>, <span xlink:href="urn:lex:br:federal:lei:1992-06-02;8429">8.429, de 2 de junho de 1992</span>, e <span xlink:href="urn:lex:br:federal:lei:2011-11-18;12527">12.527, de 18 de novembro de 2011</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art52_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>No cálculo do valor da multa de que trata o inciso II do caput deste artigo, o órgão competente poderá considerar o faturamento total da empresa ou grupo de empresas, quando não dispuser do valor do faturamento no ramo de atividade empresarial em que ocorreu a infração, definido pelo órgão competente, ou quando o valor for apresentado de forma incompleta ou não for demonstrado de forma inequívoca e idônea.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art53">
+            
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">
+            
+            
+            
+            <p>O órgão competente definirá, por meio de regulamento próprio sobre sanções administrativas a infrações a esta Lei que deverá ser objeto de consulta pública, as metodologias que orientarão o cálculo do valor-base das sanções de multa.</p>
+            
+          </Caput><Paragrafo id="art53_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As metodologias a que se refere o caput deste artigo devem ser previamente publicadas, para ciência dos agentes de tratamento, e devem apresentar objetivamente as formas e dosimetrias para o cálculo do valor-base das sanções de multa, que deverão conter fundamentação detalhada de todos os seus elementos, demonstrando a observância dos critérios previstos nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O regulamento de sanções e metodologias correspondentes deve estabelecer as circunstâncias e as condições para a adoção de multa simples ou diária.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art54">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">
+            
+            
+            
+            <p>O valor da sanção de multa diária aplicável às infrações a esta Lei deve observar a gravidade da falta e a extensão do dano ou prejuízo causado e ser fundamentado pelo órgão competente.</p>
+            
+          </Caput><Paragrafo id="art54_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A intimação da sanção de multa diária deverá conter, no mínimo, a descrição da obrigação imposta, o prazo razoável e estipulado pelo órgão para o seu cumprimento e o valor da multa diária a ser aplicada pelo seu descumprimento.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap9">
+            
+            
+            <Rotulo>CAPÍTULO IX</Rotulo>
+            <NomeAgrupador>DA AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE</NomeAgrupador>
+            <Secao id="cap9_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Autoridade Nacional de Proteção de Dados</NomeAgrupador>
+            <Artigo id="art55">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">
+            
+            
+            
+            <p>Fica criado o órgão competente, Autoridade Nacional de Proteção de Dados, integrante da administração pública federal indireta, submetido a regime autárquico especial e vinculado ao Ministério da Justiça.</p>
+            
+          </Caput><Paragrafo id="art55_par1">
+            <!--Link: urn:lex:br:federal:lei:2000-07-18;9986-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A Autoridade deverá ser regida nos termos previstos na <span xlink:href="urn:lex:br:federal:lei:2000-07-18;9986">Lei no 9.986, de 18 de julho de 2000</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Autoridade será composta pelo Conselho Diretor, como órgão máximo, e pelo Conselho Nacional de Proteção de Dados Pessoais e da Privacidade, além das unidades especializadas para a aplicação desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A natureza de autarquia especial conferida à Autoridade é caracterizada por independência administrativa, ausência de subordinação hierárquica, mandato fixo e estabilidade de seus dirigentes e autonomia financeira.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O regulamento e a estrutura organizacional da Autoridade serão aprovados por decreto do Presidente da República.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O Conselho Diretor será composto por 3 (três) conselheiros e decidirá por maioria.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O mandato dos membros do Conselho Diretor será de 4 (quatro) anos.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os mandatos dos primeiros membros do Conselho Diretor serão de 3 (três), 4 (quatro), 5 (cinco) anos, a serem estabelecidos no decreto de nomeação.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>É vedado ao ex-conselheiro utilizar informações privilegiadas obtidas em decorrência do cargo exercido, sob pena de incorrer em improbidade administrativa.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art56">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">
+            
+            
+            
+            <p>A Autoridade Nacional de Proteção de Dados terá as seguintes atribuições:</p>
+            <Inciso id="art56_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>zelar pela proteção dos dados pessoais, nos termos da legislação;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>zelar pela observância dos segredos comercial e industrial em ponderação com a proteção de dados pessoais e do sigilo das informações quando protegido por lei ou quando a quebra do sigilo violar os fundamentos do art. 2º desta Lei;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>elaborar diretrizes para Política Nacional de Proteção de Dados Pessoais e da Privacidade;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fiscalizar e aplicar sanções em caso de tratamento de dados realizado em descumprimento à legislação, mediante processo administrativo que assegure o contraditório, a ampla defesa e o direito de recurso;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>atender petições de titular contra responsável;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>promover na população o conhecimento das normas e das políticas públicas sobre proteção de dados pessoais e das medidas de segurança;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>promover estudos sobre as práticas nacionais e internacionais de proteção de dados pessoais e privacidade;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>estimular a adoção de padrões para serviços e produtos que facilitem o exercício de controle dos titulares sobre seus dados pessoais, que deverão levar em consideração especificidades das atividades e o porte dos responsáveis;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>promover ações de cooperação com autoridades de proteção de dados pessoais de outros países, de natureza internacional ou transnacional;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>dispor sobre as formas de publicidade das operações de tratamento de dados pessoais, observado o respeito aos segredos comercial e industrial;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>solicitar, a qualquer momento, às entidades do poder público que realizem operações de tratamento de dados pessoais, informe específico sobre o âmbito, a natureza dos dados e os demais detalhes do tratamento realizado, podendo emitir parecer técnico complementar para garantir o cumprimento desta Lei;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>elaborar relatórios de gestão anuais acerca de suas atividades;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>editar regulamentos e procedimentos sobre proteção de dados pessoais e privacidade, assim como sobre relatórios de impacto à proteção de dados pessoais para os casos em que o tratamento representar alto risco para a garantia dos princípios gerais de proteção de dados pessoais previstos nesta Lei;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>ouvir os agentes de tratamento e a sociedade em matérias de interesse relevante, assim como prestar contas sobre suas atividades e planejamento;</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>arrecadar e aplicar suas receitas e publicar no relatório de gestão a que se refere o inciso XII do caput deste artigo o detalhamento de suas receitas e despesas; e</p>
+            
+          </Inciso><Inciso id="art56_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>realizar ou determinar a realização de auditorias, no âmbito da atividade de fiscalização, sobre o tratamento de dados pessoais efetuado pelos agentes de tratamento, incluindo o poder público.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art56_par1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art170-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ao impor condicionamentos administrativos ao tratamento de dados pessoais por agente de tratamento privado, sejam eles limites, encargos ou sujeições, a Autoridade deve observar a exigência de mínima intervenção, assegurados os fundamentos, os princípios e os direitos dos titulares previstos no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art170">art. 170 da Constituição Federal</span> e nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art56_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os regulamentos e normas editados pela Autoridade devem necessariamente ser precedidos de consulta e audiência públicas, bem como de análises de impacto regulatório.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art57">
+            
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">
+            
+            
+            
+            <p>Constituem receitas da Autoridade Nacional de Proteção de Dados:</p>
+            <Inciso id="art57_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o produto da execução da sua dívida ativa;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as dotações consignadas no orçamento geral da União, os créditos especiais, os créditos adicionais, as transferências e os repasses que lhe forem conferidos;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as doações, legados, subvenções e outros recursos que lhe forem destinados;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os valores apurados em aplicações no mercado financeiro das receitas previstas neste artigo;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o produto da cobrança de emolumentos por serviços prestados;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os recursos provenientes de acordos, convênios ou contratos celebrados com entidades, organismos ou empresas, públicos ou privados, nacionais e internacionais;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>o produto da venda de publicações, material técnico, dados e informações, inclusive para fins de licitação pública.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="cap9_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade</NomeAgrupador>
+            <Artigo id="art58">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">
+            
+            
+            
+            <p>O Conselho Nacional de Proteção de Dados Pessoais e da Privacidade será composto por 23 (vinte e três) representantes titulares, e seus suplentes, dos seguintes órgãos:</p>
+            <Inciso id="art58_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>6 (seis) representantes do Poder Executivo federal;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>1 (um) representante indicado pelo Senado Federal;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>1 (um) representante indicado pela Câmara dos Deputados;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>1 (um) representante indicado pelo Conselho Nacional de Justiça;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>1 (um) representante indicado pelo Conselho Nacional do Ministério Público;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>1 (um) representante indicado pelo Comitê Gestor da Internet no Brasil;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>4 (quatro) representantes da sociedade civil com atuação comprovada em proteção de dados pessoais;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>4 (quatro) representantes de instituição científica, tecnológica e de inovação; e</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>4 (quatro) representantes de entidade representativa do setor empresarial afeto à área de tratamento de dados pessoais.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art58_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os representantes serão designados por ato do Presidente da República, permitida a delegação, e terão mandato de 2 (dois) anos, permitida 1 (uma) recondução.</p>
+            
+          </Paragrafo><Paragrafo id="art58_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A participação no Conselho Nacional de Proteção de Dados Pessoais e da Privacidade será considerada atividade de relevante interesse público, não remunerada.</p>
+            
+          </Paragrafo><Paragrafo id="art58_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os representantes referidos nos incisos I, II, III e VI do caput deste artigo e seus suplentes serão indicados pelos titulares dos respectivos órgãos e entidades.</p>
+            
+          </Paragrafo><Paragrafo id="art58_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os representantes referidos nos incisos VII, VIII e IX do caput deste artigo e seus suplentes serão indicados na forma do regulamento e não poderão ser membros da entidade mencionada no inciso VI do caput deste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art59">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">
+            
+            
+            
+            <p>Compete ao Conselho Nacional de Proteção de Dados Pessoais e da Privacidade:</p>
+            <Inciso id="art59_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>propor diretrizes estratégicas e fornecer subsídios para a elaboração da Política Nacional de Proteção de Dados Pessoais e da Privacidade e de atuação da Autoridade Nacional de Proteção de Dados;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>elaborar relatórios anuais de avaliação da execução das ações da Política Nacional de Proteção de Dados Pessoais e da Privacidade;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>sugerir ações a serem realizadas pela Autoridade;</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>realizar estudos e debates sobre a proteção de dados pessoais e da privacidade; e</p>
+            
+          </Inciso><Inciso id="art59_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>disseminar o conhecimento sobre proteção de dados pessoais e da privacidade à população em geral.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap10">
+            
+            
+            <Rotulo>CAPÍTULO X</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art60">
+            
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">
+            <!--Link: urn:lex:br:federal:lei:2014-04-23;12965-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2014-04-23;12965">Lei nº 12.965, de 23 de abril de 2014</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2014-04-23;12965" id="art60_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2014-04-23;12965 -> MatchByBase(urn:lex:br:federal:lei:2014-04-23;12965,2014,Some((4,23)),Map(art16_cpt -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art16_cpt), art7_cpt_inc10 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art7_cpt_inc10), art7 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art7), art16 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art16), art16_cpt_inc2 -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art16_cpt_inc2), art7_cpt -> PrefixMatch(URN(2014,Some((4,23)),,urn:lex:br:federal:lei:2014-04-23;12965),art7_cpt)))))-->
+              <Artigo xlink:href="art7" id="art60_cpt_alt1_art7" abreAspas="s">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput xlink:href="art7_cpt" id="art60_cpt_alt1_art7_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art60_cpt_alt1_art7_cpt_omi1"/><Inciso xlink:href="art7_cpt_inc10" id="art60_cpt_alt1_art7_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>exclusão definitiva dos dados pessoais que tiver fornecido a determinada aplicação de internet, a seu requerimento, ao término da relação entre as partes, ressalvadas as hipóteses de guarda obrigatória de registros previstas nesta Lei e na que trata da proteção de dados pessoais;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art60_cpt_alt1_art7_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art16" id="art60_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art60_cpt_alt1_art16_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art60_cpt_alt1_art16_cpt_omi1"/><Inciso xlink:href="art16_cpt_inc2" id="art60_cpt_alt1_art16_cpt_inc2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de dados pessoais que sejam excessivos em relação à finalidade para a qual foi dado consentimento pelo seu titular, exceto nas hipóteses previstas na Lei que trata da proteção de dados pessoais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art61">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">
+            
+            
+            
+            <p>A empresa estrangeira será notificada e intimada de todos os atos processuais previstos nesta Lei, independentemente de procuração ou de disposição contratual ou estatutária, na pessoa do agente ou representante ou pessoa responsável por sua filial, agência, sucursal, estabelecimento ou escritório instalado no Brasil.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art62">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394!art9_par2--><!--Link: urn:lex:br:federal:lei:2004-04-14;10861-->
+            
+            
+            <p>O órgão competente e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), no âmbito de suas competências, editarão regulamentos específicos para o acesso a dados tratados pela União para o cumprimento do disposto no <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394!art9_par2">§ 2º do art. 9º da Lei nº 9.394, de 20 de dezembro de 1996</span> (Lei de Diretrizes e Bases da Educação Nacional), e aos referentes ao Sistema Nacional de Avaliação da Educação Superior (Sinaes), de que trata a <span xlink:href="urn:lex:br:federal:lei:2004-04-14;10861">Lei nº 10.861, de 14 de abril de 2004</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art63">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">
+            
+            
+            
+            <p>O órgão competente estabelecerá normas sobre a adequação progressiva de bancos de dados constituídos até a data de entrada em vigor desta Lei, consideradas a complexidade das operações de tratamento e a natureza dos dados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art64">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">
+            
+            
+            
+            <p>Os direitos e princípios expressos nesta Lei não excluem outros previstos no ordenamento jurídico pátrio relacionados à matéria ou nos tratados internacionais em que a República Federativa do Brasil seja parte.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art65">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos 18 (dezoito) meses de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

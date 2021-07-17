@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;179@data.evento;leitura;2017-06-06t19.13"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 179 DE 2017</Epigrafe>
+      <Ementa id="ementa">Acrescenta <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art107_cpt_inc10">inciso X do art. 107 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> - Código Penal -, para prever hipótese de extinção da punibilidade pela recomposição com a vítima, por meio de soluções restaurativas ou extrajudiciais, desde que haja sua concordância expressa.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:decreto.lei:1940-12-07;2848!art107-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:decreto.lei:1940-12-07;2848!art107">art. 107 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940</span> – Código Penal, passa a vigorar acrescido do seguinte inciso X:</p>
+            <Alteracao xml:base="urn:lex:br:federal:decreto.lei:1940-12-07;2848" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:decreto.lei:1940-12-07;2848 -> MatchByBase(urn:lex:br:federal:decreto.lei:1940-12-07;2848,1940,Some((12,7)),Map(art107 -> ExactMatch(URN(1940,Some((12,7)),art107,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art107)), art107_cpt -> PrefixMatch(URN(1940,Some((12,7)),art107,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art107),art107_cpt), art107_cpt_inc10 -> PrefixMatch(URN(1940,Some((12,7)),art107,urn:lex:br:federal:decreto.lei:1940-12-07;2848!art107),art107_cpt_inc10)))))-->
+              <Artigo xlink:href="art107" id="art1_cpt_alt1_art107" abreAspas="s">
+            
+            
+            <Rotulo>Art. 107.</Rotulo>
+            
+            <Caput xlink:href="art107_cpt" id="art1_cpt_alt1_art107_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art107_cpt_omi1"/><Inciso xlink:href="art107_cpt_inc10" id="art1_cpt_alt1_art107_cpt_inc10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>pela recomposição com a vítima, por meio de soluções restaurativas ou extrajudiciais, desde que haja sua concordância expressa.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

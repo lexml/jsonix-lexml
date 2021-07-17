@@ -1,0 +1,163 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;193@data.evento;leitura;2017-06-13t17.23"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 193 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080">Lei nº 8.080, de 19 de setembro de 1990</span>, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências, para inserir a atenção à saúde bucal no âmbito do Sistema Único de Saúde e priorizar a assistência odontológica para pacientes internados, portadores de condições clínicas especiais e pessoas com deficiência.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art16--><!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art6--><!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art17--><!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art13--><!--Link: urn:lex:br:federal:lei:1990-09-19;8080!art18-->
+            
+            
+            <p>Os <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art6">arts. 6º</span>, <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art13">13</span>, <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art16">16</span>, <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art17">17</span> e <span xlink:href="urn:lex:br:federal:lei:1990-09-19;8080!art18">18 da Lei nº 8.080, de 19 de setembro de 1990</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-19;8080" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-19;8080 -> MatchByBase(urn:lex:br:federal:lei:1990-09-19;8080,1990,Some((9,19)),Map(art17_cpt_inc4 -> PrefixMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17),art17_cpt_inc4), art17_cpt_inc4_ali5 -> PrefixMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17),art17_cpt_inc4_ali5), art17_cpt -> PrefixMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17),art17_cpt), art13 -> ExactMatch(URN(1990,Some((9,19)),art13,urn:lex:br:federal:lei:1990-09-19;8080!art13)), art16_cpt -> PrefixMatch(URN(1990,Some((9,19)),art16,urn:lex:br:federal:lei:1990-09-19;8080!art16),art16_cpt), art17 -> ExactMatch(URN(1990,Some((9,19)),art17,urn:lex:br:federal:lei:1990-09-19;8080!art17)), art18 -> ExactMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18)), art18_cpt -> PrefixMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18),art18_cpt), art16 -> ExactMatch(URN(1990,Some((9,19)),art16,urn:lex:br:federal:lei:1990-09-19;8080!art16)), art16_cpt_inc1 -> PrefixMatch(URN(1990,Some((9,19)),art16,urn:lex:br:federal:lei:1990-09-19;8080!art16),art16_cpt_inc1), art6 -> ExactMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6)), art6_cpt_inc1 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_cpt_inc1), art13_cpt -> PrefixMatch(URN(1990,Some((9,19)),art13,urn:lex:br:federal:lei:1990-09-19;8080!art13),art13_cpt), art6_par5 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_par5), art18_cpt_inc4 -> PrefixMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18),art18_cpt_inc4), art6_par4 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_par4), art6_cpt_inc1_ali5 -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_cpt_inc1_ali5), art13_cpt_inc1 -> PrefixMatch(URN(1990,Some((9,19)),art13,urn:lex:br:federal:lei:1990-09-19;8080!art13),art13_cpt_inc1), art6_cpt -> PrefixMatch(URN(1990,Some((9,19)),art6,urn:lex:br:federal:lei:1990-09-19;8080!art6),art6_cpt), art18_cpt_inc4_ali6 -> PrefixMatch(URN(1990,Some((9,19)),art18,urn:lex:br:federal:lei:1990-09-19;8080!art18),art18_cpt_inc4_ali6)))))-->
+              <Artigo xlink:href="art6" id="art1_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art1_cpt_alt1_art6_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art6_cpt_inc1" id="art1_cpt_alt1_art6_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art6_cpt_inc1_omi1"/><Alinea xlink:href="art6_cpt_inc1_ali5" id="art1_cpt_alt1_art6_cpt_inc1_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>de saúde bucal;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art6_omi1"/><Paragrafo xlink:href="art6_par4" id="art1_cpt_alt1_art6_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Entende-se por saúde bucal o conjunto de ações voltadas à promoção, prevenção, recuperação e reabilitação odontológicas, individual e coletiva.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art6_par5" id="art1_cpt_alt1_art6_par5" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:2015-07-06;13146!art2-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A atenção à saúde bucal de que trata o § 4º será oferecida prioritariamente aos pacientes internados em unidades hospitalares do SUS, aos portadores de condições clínicas especiais e às pessoas de que trata o <span xlink:href="urn:lex:br:federal:lei:2015-07-06;13146!art2">art. 2º da Lei nº 13.146, de 6 de julho de 2015</span>, na forma do regulamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art13" id="art1_cpt_alt1_art13" abreAspas="s">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput xlink:href="art13_cpt" id="art1_cpt_alt1_art13_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art13_cpt_inc1" id="art1_cpt_alt1_art13_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>alimentação, nutrição e saúde bucal;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art13_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art16" id="art1_cpt_alt1_art16" abreAspas="s">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput xlink:href="art16_cpt" id="art1_cpt_alt1_art16_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art16_cpt_inc1" id="art1_cpt_alt1_art16_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>formular, avaliar e apoiar políticas de saúde bucal, de alimentação e de nutrição;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art16_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art17" id="art1_cpt_alt1_art17" abreAspas="s">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput xlink:href="art17_cpt" id="art1_cpt_alt1_art17_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art17_cpt_omi1"/><Inciso xlink:href="art17_cpt_inc4" id="art1_cpt_alt1_art17_cpt_inc4" textoOmitido="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art17_cpt_inc4_omi1"/><Alinea xlink:href="art17_cpt_inc4_ali5" id="art1_cpt_alt1_art17_cpt_inc4_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>de saúde bucal;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art17_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art18" id="art1_cpt_alt1_art18" abreAspas="s">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput xlink:href="art18_cpt" id="art1_cpt_alt1_art18_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art18_cpt_omi1"/><Inciso xlink:href="art18_cpt_inc4" id="art1_cpt_alt1_art18_cpt_inc4" textoOmitido="s">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art18_cpt_inc4_omi1"/><Alinea xlink:href="art18_cpt_inc4_ali6" id="art1_cpt_alt1_art18_cpt_inc4_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>de saúde bucal;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art18_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor cento e oitenta dias após a data de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

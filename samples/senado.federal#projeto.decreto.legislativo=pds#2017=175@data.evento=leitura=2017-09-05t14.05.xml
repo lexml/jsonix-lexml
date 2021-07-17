@@ -1,0 +1,82 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.decreto.legislativo;pds:2017;175@data.evento;leitura;2017-09-05t14.05"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE DECRETO LEGISLATIVO (SF) Nº 175 DE 2017</Epigrafe>
+      <Ementa id="ementa">Convoca plebiscito sobre a revogação do Estatuto do Desarmamento.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!cpt_inc15-->
+            
+            
+            <p>É convocado plebiscito, nos termos dos arts. 1º, parágrafo único; 14, inciso I; e 49, <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!cpt_inc15">inciso XV, da Constituição Federal</span>, a ser realizado pela Justiça Eleitoral, em todo o território nacional, simultaneamente com as eleições gerais de 2018, para consulta sobre a liberação do porte de armas de fogo para cidadãos residentes em áreas rurais e a revogação do Estatuto do Desarmamento e sua substituição por instrumento normativo que assegure o porte de armas de fogo a quaisquer cidadãos que preencham requisitos objetivamente estipulados em lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O eleitorado será chamado a responder “sim” ou “não” às seguintes questões:</p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>“Deve ser assegurado o porte de armas de fogo para cidadãos que comprovem bons antecedentes e residência em área rural?”;</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>“O Estatuto do Desarmamento deve ser revogado e substituído por uma nova lei que assegure o porte de armas de fogo a quaisquer cidadãos que preencham requisitos objetivamente definidos em lei?”.</p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>“O Estatuto do Desarmamento deve ser revogado e substituído por uma nova lei que assegure a posse de armas de fogo a quaisquer cidadãos que preencham requisitos objetivamente definidos em lei?”.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Campanha institucional promovida pela Justiça Eleitoral, veiculada no rádio, na televisão e na rede mundial de computadores, deverá esclarecer a população a respeito da questão constante do art. 2º, com espaço idêntico para manifestações favoráveis e contrárias.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Este Decreto Legislativo entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

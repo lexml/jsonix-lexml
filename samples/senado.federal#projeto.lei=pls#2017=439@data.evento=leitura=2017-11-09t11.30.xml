@@ -1,0 +1,67 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;439@data.evento;leitura;2017-11-09t11.30"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 439 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078">Lei nº 8.078, de 11 de setembro de 1990</span>, para tornar obrigatória a aposição de tarja informativa sobre o uso de retoque digital em fotografias de modelos para fins de publicidade.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-09-11;8078!art36-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-09-11;8078!art36">art. 36 da Lei nº 8.078, de 11 de setembro de 1990</span>, passa a vigorar acrescido dos seguintes §§ 2º e 3º, renomeando-se o atual parágrafo único como § 1º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-09-11;8078" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-09-11;8078 -> MatchByBase(urn:lex:br:federal:lei:1990-09-11;8078,1990,Some((9,11)),Map(art36 -> ExactMatch(URN(1990,Some((9,11)),art36,urn:lex:br:federal:lei:1990-09-11;8078!art36)), art36_cpt -> PrefixMatch(URN(1990,Some((9,11)),art36,urn:lex:br:federal:lei:1990-09-11;8078!art36),art36_cpt), art36_par2 -> PrefixMatch(URN(1990,Some((9,11)),art36,urn:lex:br:federal:lei:1990-09-11;8078!art36),art36_par2), art36_par3 -> PrefixMatch(URN(1990,Some((9,11)),art36,urn:lex:br:federal:lei:1990-09-11;8078!art36),art36_par3)))))-->
+              <Artigo xlink:href="art36" id="art1_cpt_alt1_art36" abreAspas="s">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput xlink:href="art36_cpt" id="art1_cpt_alt1_art36_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art36_omi1"/><Paragrafo xlink:href="art36_par2" id="art1_cpt_alt1_art36_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Toda publicidade que apresentar fotografia de modelo com retoque digital, deve conter uma tarja informativa com os seguintes dizeres: ‘fotografia retocada’.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art36_par3" id="art1_cpt_alt1_art36_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese do § 2º, estão excluídos os retoques digitais de cabelos e de remoção de manchas na pele.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorridos noventa dias da data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

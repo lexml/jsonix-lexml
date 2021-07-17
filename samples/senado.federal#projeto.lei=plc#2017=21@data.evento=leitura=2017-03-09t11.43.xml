@@ -1,0 +1,925 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;21@data.evento;leitura;2017-03-09t11.43"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 21 DE 2017</Epigrafe>
+      <Ementa id="ementa">Estabelece o sistema de garantia de direitos de crianças e adolescentes vítimas e testemunhas de violência; altera a <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span>; e dá outras providências.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Titulo id="tit1">
+            
+            
+            <Rotulo>TÍTULO I</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art227--><!--Link: urn:lex:br:federal:resolucao:2005;20-->
+            
+            
+            <p>Esta Lei normatiza e organiza o sistema de garantia de direitos de crianças e adolescentes vítimas e testemunhas de violência, cria mecanismos para prevenir e coibir a violência, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art227">art. 227 da Constituição Federal</span>, da Convenção sobre os Direitos da Criança e seus protocolos adicionais, da <span xlink:href="urn:lex:br:federal:resolucao:2005;20">Resolução nº 20/2005</span> do Conselho Econômico e Social das Nações Unidas (ECOSOC) e de outros tratados internacionais ratificados pela República Federativa do Brasil; estabelece medidas de assistência e proteção às crianças e adolescentes em situação de violência; e dá outras providências.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Toda criança e adolescente goza dos direitos fundamentais inerentes à pessoa humana, sendo-lhe asseguradas a proteção integral e as oportunidades e facilidades para viver sem violência, preservar sua saúde física e mental e seu desenvolvimento moral, intelectual e social, além de direitos específicos à sua condição de vítima ou testemunha.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A União, os Estados, o Distrito Federal e os Municípios desenvolverão políticas integradas e coordenadas que visem a garantir os direitos humanos de crianças e adolescentes no âmbito das relações domésticas, familiares e sociais, para resguardá-los de toda forma de negligência, discriminação, exploração, violência, abuso, crueldade e opressão.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Na aplicação e interpretação desta Lei, serão considerados os fins sociais a que ela se destina e, especialmente, as condições peculiares das crianças e adolescentes como pessoas em desenvolvimento, para as quais o Estado, a família e a sociedade devem assegurar a fruição dos direitos fundamentais com absoluta prioridade.</p>
+            
+          </Caput><Paragrafo id="art3_par1u">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art2_par1-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A aplicação desta Lei é facultativa para as vítimas e testemunhas de violência entre dezoito e vinte e um anos, conforme disposto no <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art2_par1">parágrafo único do art. 2º da Lei nº 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Para os efeitos desta Lei, sem prejuízo da tipificação das condutas criminosas, configura-se como:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>violência física, a ação infligida à criança e ao adolescente que ofenda sua integridade ou saúde corporal ou que lhe cause sofrimento físico;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>violência psicológica:</p>
+            <Alinea id="art4_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>qualquer conduta de discriminação, depreciação ou desrespeito em relação à criança e ao adolescente mediante ameaça, constrangimento, humilhação, manipulação, isolamento, agressão verbal e xingamentos, ridicularização, indiferença, exploração ou intimidação sistemática (bullying) que possa comprometer seu desenvolvimento psíquico e emocional;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o ato de alienação parental, assim entendido como a interferência na formação psicológica da criança ou do adolescente promovida ou induzida por um dos genitores, pelos avós ou por quem os tenha sob sua autoridade, guarda ou vigilância para que repudie genitor ou cause prejuízo ao estabelecimento ou à manutenção de vínculos com este; ou</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>qualquer conduta que exponha a criança ou adolescente, direta ou indiretamente, a crime violento contra membro de sua família ou de sua rede de apoio e independentemente do ambiente em que cometido, particularmente quando isto a torna testemunha;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>violência sexual, qualquer conduta que constranja criança ou adolescente a manter ou presenciar conjunção carnal ou qualquer outro ato libidinoso, inclusive exposição do corpo em fotos e vídeos por meio eletrônico ou não, que compreenda:</p>
+            <Alinea id="art4_cpt_inc3_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>abuso sexual, considerado toda ação que se utiliza da criança ou adolescente para fins sexuais, seja conjunção carnal ou outro ato libidinoso, realizado de modo presencial ou por meios eletrônicos para estimulação sexual do agente ou de terceiros;</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc3_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>exploração sexual comercial, considerada como o uso de criança ou adolescente em atividades sexuais em troca de remuneração ou qualquer outra forma de compensação, de forma independente ou sob patrocínio, apoio, incentivo de terceiros, seja de modo presencial ou por meios eletrônicos; e</p>
+            
+          </Alinea><Alinea id="art4_cpt_inc3_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>tráfico de pessoas, considerado como o recrutamento, o transporte, a transferência, o alojamento ou o acolhimento de criança ou adolescente, dentro do território nacional ou para o estrangeiro, com ou sem o fim de exploração sexual, recorrendo-se à ameaça ou ao uso da força ou a outras formas de coação, ao rapto, à fraude, ao engano, ao abuso de autoridade ou à situação de vulnerabilidade ou à entrega ou aceitação de pagamentos, dentre os casos previstos na legislação;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>violência institucional, a praticada por instituição pública ou conveniada, inclusive quando gere revitimização.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para efeito desta Lei, a criança ou o adolescente será ouvido sobre a situação de violência por meio de Escuta Especializada e Depoimento Especial.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os órgãos da saúde, assistência social, educação, segurança pública ou justiça adotarão os procedimentos necessários por ocasião da revelação espontânea da violência.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Salvo intervenções de saúde, a criança ou adolescente só deverá ser chamado a confirmar os fatos revelados espontaneamente nos termos do § 1º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par4">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O não cumprimento do disposto nesta Lei implicará a aplicação das sanções previstas na <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente).</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Titulo><Titulo id="tit2">
+            
+            
+            <Rotulo>TÍTULO II</Rotulo>
+            <NomeAgrupador>DOS DIREITOS E GARANTIAS</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>A aplicação desta Lei, sem prejuízo dos princípios estabelecidos nas demais normas nacionais e internacionais de proteção dos direitos da criança e do adolescente, terá como base, dentre outros, os direitos e garantias fundamentais da criança e do adolescente a:</p>
+            <Inciso id="art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>receber prioridade absoluta e ter considerada a condição peculiar de pessoa em desenvolvimento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>receber tratamento digno e abrangente;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ter a intimidade e as condições pessoais protegidas quando vítima ou testemunha de violência;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ser protegido contra qualquer tipo de discriminação, independentemente de classe, sexo, raça, etnia, renda, cultura, nível educacional, idade, religião, nacionalidade, procedência regional, regularidade migratória, deficiência ou qualquer outra condição sua, de seus pais ou de seus representantes legais;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>receber informação adequada à sua etapa de desenvolvimento sobre direitos, inclusive sociais, serviços disponíveis, representação jurídica, medidas de proteção, reparação de danos e sobre qualquer procedimento a que seja submetido;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>ser ouvido e expressar seus desejos e opiniões, assim como permanecer em silêncio;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>receber assistência qualificada, tanto jurídica como psicossocial especializada, que facilite a sua participação e os resguarde contra comportamento inadequado adotado pelos demais órgãos atuantes no processo;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>ser resguardado e protegido de sofrimento, com direito a apoio, planejamento de sua participação, prioridade na tramitação do processo, celeridade processual, idoneidade do atendimento e limitação das intervenções;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>ser ouvido em horário que lhe for mais adequado e conveniente, sempre que possível;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>ter segurança, com avaliação contínua sobre possibilidades de intimidação, ameaça e outras formas de violência;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>ser assistido por profissional capacitado e conhecer os profissionais que participam dos procedimentos de Escuta Especializada e Depoimento Especial;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>ser reparado quando seus direitos forem violados;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>conviver em família e em comunidade;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>ter as informações prestadas tratadas confidencialmente, sendo vedada a utilização ou repasse a terceiros das declarações feitas pela criança ou adolescente vítima, salvo para os fins de assistência à saúde e de persecução penal; e</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>prestar declarações em formato adaptado à criança ou adolescente com deficiência ou em idioma diverso do português.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O planejamento descrito no inciso VIII, no caso de Depoimento Especial, será realizado entre os profissionais especializados e o juízo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A criança ou adolescente vítima ou testemunha de violência tem direito a pleitear, por meio de seu representante legal, medidas protetivas contra o autor da violência.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069--><!--Link: urn:lex:br:federal:lei:2006-08-07;11340-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os casos omissos nesta Lei serão interpretados à luz do disposto na <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente), e na <span xlink:href="urn:lex:br:federal:lei:2006-08-07;11340">Lei nº 11.340, de 7 de agosto de 2006</span> (Lei Maria da Penha), e em normas conexas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Titulo><Titulo id="tit3">
+            
+            
+            <Rotulo>TÍTULO III</Rotulo>
+            <NomeAgrupador>DA ESCUTA ESPECIALIZADA E DO DEPOIMENTO ESPECIAL</NomeAgrupador>
+            <Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Escuta Especializada é o procedimento de entrevista sobre situação de violência com criança ou adolescente perante órgão da rede de proteção, limitado este relato estritamente ao necessário para o cumprimento de sua atribuição.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Depoimento Especial é o procedimento de oitiva de criança ou adolescente vítima ou testemunha de violência perante autoridade policial ou judiciária.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>A criança ou adolescente será resguardado de qualquer contato, ainda que visual, com o suposto autor ou acusado, ou com outras pessoas que representem ameaça, coação ou constrangimento.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>A Escuta Especializada e o Depoimento Especial serão realizados em local apropriado e acolhedor, com infraestrutura e espaços físicos que garantam a privacidade da criança ou adolescente vítima ou testemunha de violência.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>O Depoimento Especial reger-se-á por protocolos e, sempre que possível, será realizado uma única vez, em sede de produção antecipada de prova judicial, garantida a ampla defesa do investigado.</p>
+            
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Depoimento Especial seguirá o rito cautelar de antecipação de prova:</p>
+            <Inciso id="art11_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quando a criança ou adolescente tiver menos de sete anos;</p>
+            
+          </Inciso><Inciso id="art11_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>no caso de violência sexual.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não será admitida a tomada de novo Depoimento Especial, salvo quando justificada a sua imprescindibilidade pela autoridade competente e houver a concordância da vítima ou da testemunha, ou de seu representante legal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>O Depoimento Especial será colhido conforme o seguinte procedimento:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os profissionais especializados esclarecerão a criança ou adolescente sobre a tomada do Depoimento Especial, informando-lhe os seus direitos, os procedimentos a serem adotados e planejando sua participação, sendo vedada a leitura da denúncia ou de outras peças processuais;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>fica assegurada à criança ou adolescente a livre narrativa sobre a situação de violência, podendo o profissional especializado intervir quando necessário, utilizando técnicas que permitam a elucidação dos fatos;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>no curso do processo judicial, o Depoimento Especial será transmitido em tempo real para a sala de audiência, preservado o sigilo;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>findo o procedimento previsto no inciso II deste artigo, o juiz, após consultar o Ministério Público, o Defensor e os Assistentes Técnicos, avaliará a pertinência de perguntas complementares, organizadas em bloco;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o profissional especializado poderá adaptar as perguntas à linguagem de melhor compreensão da criança ou adolescente; e</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o Depoimento Especial será gravado em áudio e vídeo.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art12_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>À vítima ou testemunha de violência é garantido o direito de prestar depoimento diretamente ao juiz, se assim o entender.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O juiz tomará todas as medidas apropriadas para a preservação da intimidade e da privacidade da vítima ou testemunha.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O profissional especializado comunicará ao juiz se verificar que a presença, na sala de audiência, do autor da violência pode prejudicar o Depoimento Especial ou colocar o depoente em situação de risco, caso em que, fazendo constar em termo, será autorizado o afastamento do imputado.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Nas hipóteses em que houver risco à vida ou integridade física da vítima ou testemunha, o juiz tomará as medidas de proteção cabíveis, inclusive restringindo o disposto nos incisos III e VI deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>As condições de preservação e segurança da mídia relativa ao depoimento da criança ou adolescente, de forma a garantir o direito à intimidade e à privacidade da vítima ou testemunha, serão objeto de regulamentação.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O Depoimento Especial tramitará em segredo de justiça.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Titulo><Titulo id="tit4">
+            
+            
+            <Rotulo>TÍTULO IV</Rotulo>
+            <NomeAgrupador>DA INTEGRAÇÃO DAS POLÍTICAS DE ATENDIMENTO</NomeAgrupador>
+            <Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>Qualquer pessoa que tenha conhecimento ou presencie ação ou omissão, praticada em local público ou privado, que constitua violência contra criança e adolescente, tem o dever de comunicar o fato imediatamente ao serviço de recebimento e monitoramento de denúncias, ao Conselho Tutelar ou à autoridade policial, os quais também, imediatamente, cientificarão o Ministério Público.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A União, os Estados, o Distrito Federal e os Municípios poderão promover, periodicamente, campanhas de conscientização da sociedade, estimulando a mais rápida identificação das violações de direitos e garantias de crianças e adolescentes e a difusão dos serviços de proteção e dos fluxos de atendimento, como forma de evitar a violência institucional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>As políticas implementadas nos sistemas de justiça, segurança pública, assistência social, educação e saúde deverão adotar ações articuladas, coordenadas e efetivas, voltadas ao acolhimento e atendimento integral às vítimas de violência.</p>
+            
+          </Caput><Paragrafo id="art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A integração dar-se-á observadas as seguintes diretrizes:</p>
+            <Inciso id="art14_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>abrangência e integralidade, devendo comportar avaliação e atenção de todas as necessidades da vítima, decorrentes da ofensa sofrida;</p>
+            
+          </Inciso><Inciso id="art14_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>capacitação interdisciplinar, preferencialmente conjunta, dos profissionais;</p>
+            
+          </Inciso><Inciso id="art14_par1_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>estabelecimento de mecanismos de informação, referência, contrarreferência e monitoramento;</p>
+            
+          </Inciso><Inciso id="art14_par1_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>planejamento coordenado do atendimento e do acompanhamento, respeitadas as especificidades da vítima ou testemunha e de suas famílias;</p>
+            
+          </Inciso><Inciso id="art14_par1_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>celeridade do atendimento, devendo ser realizado imediatamente após a revelação espontânea da violência ou em data mais próxima dela;</p>
+            
+          </Inciso><Inciso id="art14_par1_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>priorização do atendimento em razão da idade ou de eventual prejuízo ao desenvolvimento psicossocial, garantida a intervenção preventiva;</p>
+            
+          </Inciso><Inciso id="art14_par1_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>mínima intervenção dos profissionais envolvidos; e</p>
+            
+          </Inciso><Inciso id="art14_par1_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>monitoramento e avaliação periódica das políticas de atendimento.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art14_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos casos de violência sexual, cabe ao responsável da rede de proteção garantir a urgência e celeridade necessárias ao atendimento de saúde e à produção probatória, preservada a confidencialidade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>A União, os Estados, o Distrito Federal e os Municípios poderão criar serviços de atendimento, ouvidoria ou resposta, pelos meios de comunicação disponíveis, integrados às redes de proteção, para receber denúncias de violações de direitos de crianças e adolescentes.</p>
+            
+          </Caput><Paragrafo id="art15_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As denúncias recebidas serão encaminhadas:</p>
+            <Inciso id="art15_par1u_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>à autoridade policial do local dos fatos para apuração;</p>
+            
+          </Inciso><Inciso id="art15_par1u_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ao Conselho Tutelar, para aplicação de medidas de proteção; e</p>
+            
+          </Inciso><Inciso id="art15_par1u_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ao Ministério Público, nos casos que forem de sua atribuição específica.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>O poder público poderá criar programas, serviços ou equipamentos que proporcionem atenção e atendimento integral e interinstitucional às crianças e adolescentes vítimas ou testemunhas de violência, compostos por equipes multidisciplinares especializadas.</p>
+            
+          </Caput><Paragrafo id="art16_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os programas, serviços ou equipamentos públicos poderão contar com delegacias especializadas, serviços de saúde, perícia médico-legal, serviços socioassistenciais, varas especializadas, Ministério Público e Defensoria Pública, entre outros possíveis de integração, e deverão estabelecer parcerias em caso de indisponibilidade de serviços de atendimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Capitulo id="tit4_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>Da Saúde</NomeAgrupador>
+            <Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>A União, os Estados, o Distrito Federal e os Municípios poderão criar, no âmbito do Sistema Único de Saúde (SUS), serviços para atenção integral às crianças e adolescentes em situação de violência, de forma a garantir o atendimento acolhedor.</p>
+            
+          </Caput><Paragrafo id="art17_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A coleta, guarda provisória e preservação de material com vestígios de violência serão realizadas pelo Instituto Médico Legal (IML) ou por órgão credenciado do sistema de saúde mais próximo, que entregará o material para perícia imediata, observado o disposto no art. 5º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit4_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Da Assistência Social</NomeAgrupador>
+            <Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>A União, os Estados, o Distrito Federal e os Municípios poderão estabelecer, no âmbito do Sistema Único de Assistência Social (SUAS), os seguintes procedimentos:</p>
+            <Inciso id="art18_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>elaboração de plano individual e familiar de atendimento, valorizando a participação da criança e do adolescente e, sempre que possível, a preservação dos vínculos familiares;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>atenção à vulnerabilidade indireta dos demais membros da família decorrente da situação de violência e solicitação, quando necessário, aos órgãos competentes, para inclusão da vítima ou testemunha e de suas famílias, nas políticas, programas e serviços existentes;</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>avaliação e atenção às situações de intimidação, ameaça, constrangimento ou discriminação decorrentes da vitimização, inclusive durante o trâmite do processo judicial, devendo comunicá-las imediatamente à autoridade judicial para tomada de providências; e</p>
+            
+          </Inciso><Inciso id="art18_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>representação ao Ministério Público, nos casos de falta de responsável legal com capacidade protetiva em razão da situação de violência, para a colocação da criança ou adolescente sob os cuidados da família extensa, de família substituta, ou de serviço de acolhimento familiar ou, em sua falta, institucional.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit4_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>Da Segurança Pública</NomeAgrupador>
+            <Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>O poder público poderá criar delegacias especializadas no atendimento de crianças e adolescentes vítimas de violência.</p>
+            
+          </Caput><Paragrafo id="art19_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na elaboração de suas propostas orçamentárias, as unidades da Federação alocarão recursos para manutenção de equipes multidisciplinares, destinadas a assessorar as delegacias especializadas.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Até a criação do órgão previsto no caput deste artigo, a vítima será encaminhada prioritariamente a delegacia especializada em temas de direitos humanos.</p>
+            
+          </Paragrafo><Paragrafo id="art19_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A tomada de Depoimento Especial da criança ou adolescente vítima ou testemunha de violência observará o disposto no art. 14 desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Constatado que a criança ou adolescente está em risco, em qualquer momento dos procedimentos de investigação e responsabilização dos suspeitos, a autoridade policial requisitará as medidas de proteção pertinentes, entre as quais:</p>
+            <Inciso id="art20_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>evitar o contato direto entre a criança ou adolescente vítima ou testemunha de violência com o suposto autor da violência;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>solicitar o afastamento cautelar do investigado da residência ou local de convivência, em se tratando de pessoa que com ela tenha contato;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>requerer a prisão preventiva do investigado, quando houver suficientes indícios de ameaça à criança ou adolescente vítima ou testemunha de violência;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>solicitar aos órgãos socioassistenciais a inclusão da vítima e de sua família nos atendimentos a que têm direito;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>requerer a inclusão da criança ou adolescente em programas de proteção a vítimas ou testemunhas ameaçadas; e</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>representar ao Ministério Público para que proponha ação cautelar de antecipação de prova, resguardados os pressupostos legais e as garantias previstas no art. 5º desta Lei, sempre que a demora possa causar prejuízo ao desenvolvimento da criança ou adolescente.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Os órgãos policiais envolvidos envidarão esforços investigativos para que o Depoimento Especial não seja o único meio de prova para o julgamento do réu.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit4_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>Da Justiça</NomeAgrupador>
+            <Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Os órgãos responsáveis pela organização judiciária poderão criar juizados ou varas especializadas em crimes contra criança e adolescente.</p>
+            
+          </Caput><Paragrafo id="art22_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Até a implementação do disposto no caput deste artigo, o julgamento e a execução das causas decorrentes das práticas de violência ficarão, preferencialmente, a cargo dos juizados ou varas especializadas em violência doméstica e temas afins.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit5">
+            
+            
+            <Rotulo>TÍTULO V</Rotulo>
+            <NomeAgrupador>DOS CRIMES</NomeAgrupador>
+            <Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Violar sigilo processual, permitindo que depoimento de criança ou adolescente seja assistido por pessoa estranha ao processo, sem autorização judicial e sem o consentimento do depoente ou de seu representante legal. Pena – reclusão, de um a quatro anos, e multa.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo><Titulo id="tit6">
+            
+            
+            <Rotulo>TÍTULO VI</Rotulo>
+            <NomeAgrupador>DISPOSIÇÕES FINAIS E TRANSITÓRIAS</NomeAgrupador>
+            <Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Os profissionais responsáveis pela aplicação desta Lei serão capacitados de forma continuada.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art208-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art208">art. 208 da Lei nº 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente), passa a vigorar acrescido do seguinte inciso XI:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art25_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art208 -> ExactMatch(URN(1990,Some((7,13)),art208,urn:lex:br:federal:lei:1990-07-13;8069!art208)), art208_cpt -> PrefixMatch(URN(1990,Some((7,13)),art208,urn:lex:br:federal:lei:1990-07-13;8069!art208),art208_cpt), art208_cpt_inc11 -> PrefixMatch(URN(1990,Some((7,13)),art208,urn:lex:br:federal:lei:1990-07-13;8069!art208),art208_cpt_inc11)))))-->
+              <Artigo xlink:href="art208" id="art25_cpt_alt1_art208" abreAspas="s">
+            
+            
+            <Rotulo>Art. 208.</Rotulo>
+            
+            <Caput xlink:href="art208_cpt" id="art25_cpt_alt1_art208_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art25_cpt_alt1_art208_cpt_omi1"/><Inciso xlink:href="art208_cpt_inc11" id="art25_cpt_alt1_art208_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>de políticas e programas integrados de atendimento à criança e adolescente vítima ou testemunha de violência.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art25_cpt_alt1_art208_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>Cabe ao poder público, no prazo máximo de sessenta dias contados desde a entrada em vigor desta Lei, emanar atos normativos necessários à sua efetividade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>Cabe aos Estados, ao Distrito Federal e aos Municípios, no prazo máximo de cento e oitenta dias da entrada em vigor desta Lei, estabelecer normas sobre o sistema de garantia de direitos de crianças e adolescentes vítimas e testemunhas de violência, no âmbito das respectivas competências.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor após decorrido um ano de sua publicação oficial.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art248-->
+            
+            
+            <p>Revoga-se o <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art248">art. 248 da Lei nº 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente).</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

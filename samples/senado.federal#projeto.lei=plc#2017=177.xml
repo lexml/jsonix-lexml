@@ -1,0 +1,382 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2017;177"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 177 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1985-09-30;7377">Lei nº 7.377, de 30 de setembro de 1985</span>, para dispor sobre o exercício da profissão de Secretariado.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1985-09-30;7377-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1985-09-30;7377">Lei nº 7.377, de 30 de setembro de 1985</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1985-09-30;7377" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1985-09-30;7377 -> MatchByBase(urn:lex:br:federal:lei:1985-09-30;7377,1985,Some((9,30)),Map(art5_cpt_inc3 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt_inc3), art4_cpt_inc6 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc6), art2_cpt_inc1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt_inc1), art1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art1), art2_cpt_inc1_ali1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt_inc1_ali1), art3_cpt -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art3_cpt), art4_cpt_inc11 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc11), art1_cpt -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art1_cpt), art4 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4), art4_cpt_inc2 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc2), art6_par1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art6_par1), art2_cpt_inc2_ali2 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt_inc2_ali2), art2 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2), art6-1_cpt -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art6-1_cpt), art5_cpt_inc2 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt_inc2), art5_cpt_inc6 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt_inc6), art4_cpt -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt), art4_cpt_inc3 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc3), art2_cpt -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt), art6 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art6), art2_cpt_inc2_ali1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt_inc2_ali1), art3 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art3), art5_cpt_inc5 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt_inc5), art4_cpt_inc8 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc8), art2_cpt_inc3 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt_inc3), art4_cpt_inc4 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc4), art4_cpt_inc7 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc7), art5_cpt -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt), art5_cpt_inc4 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt_inc4), art4_cpt_inc5 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc5), art5_cpt_inc7 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt_inc7), art2_cpt_inc1_ali2 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt_inc1_ali2), art4_cpt_inc10 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc10), art2_cpt_inc2 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art2_cpt_inc2), art5 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5), art5_cpt_inc1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art5_cpt_inc1), art4_cpt_inc9 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc9), art6_cpt -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art6_cpt), art4_cpt_inc1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art4_cpt_inc1), art6-1 -> PrefixMatch(URN(1985,Some((9,30)),,urn:lex:br:federal:lei:1985-09-30;7377),art6-1)))))-->
+              <Artigo xlink:href="art1" id="art1_cpt_alt1_art1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput xlink:href="art1_cpt" id="art1_cpt_alt1_art1_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>O exercício da profissão de Secretariado é regulado por esta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt">
+            
+            
+            
+            <p>Para os efeitos desta Lei, considera-se:</p>
+            <Inciso xlink:href="art2_cpt_inc1" id="art1_cpt_alt1_art2_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            <Alinea xlink:href="art2_cpt_inc1_ali1" id="art1_cpt_alt1_art2_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o profissional diplomado no Brasil em curso superior de Secretariado, legalmente reconhecido, ou diplomado no exterior em curso superior de Secretariado, cujo diploma seja revalidado na forma da lei;</p>
+            
+          </Alinea><Alinea xlink:href="art2_cpt_inc1_ali2" id="art1_cpt_alt1_art2_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o portador de qualquer diploma de nível superior que, até 30 de setembro de 1985, houver comprovado, por meio de declarações de empregadores, o exercício efetivo, durante pelo menos trinta e seis meses, das atribuições mencionadas no art. 4º desta Lei;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art2_cpt_inc2" id="art1_cpt_alt1_art2_cpt_inc2" textoOmitido="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            
+            <Alinea xlink:href="art2_cpt_inc2_ali1" id="art1_cpt_alt1_art2_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o profissional portador de certificado de conclusão de curso técnico em Secretariado;</p>
+            
+          </Alinea><Alinea xlink:href="art2_cpt_inc2_ali2" id="art1_cpt_alt1_art2_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o portador de certificado de conclusão do ensino médio que, até 30 de setembro de 1985, houver comprovado, por meio de declarações de empregadores, o exercício efetivo, durante pelo menos trinta e seis meses, das atribuições mencionadas no art. 5º desta Lei;</p>
+            
+          </Alinea>
+          </Inciso><Inciso xlink:href="art2_cpt_inc3" id="art1_cpt_alt1_art2_cpt_inc3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>Tecnólogo em Secretariado – o profissional diplomado no Brasil em curso de Tecnologia em Secretariado, legalmente reconhecido, ou diplomado no exterior por curso equivalente de Tecnologia em Secretariado, cujo diploma seja revalidado na forma da lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art3" id="art1_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art1_cpt_alt1_art3_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Fica assegurado o direito ao exercício da profissão aos que, embora não habilitados nos termos do art. 2º desta Lei, contem pelo menos cinco anos ininterruptos ou dez anos intercalados de exercício de atividades próprias de secretaria, até 30 de setembro de 1985.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>São atribuições do Secretário-Executivo:</p>
+            <Inciso xlink:href="art4_cpt_inc1" id="art1_cpt_alt1_art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejamento, organização e gestão dos serviços de secretaria;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc2" id="art1_cpt_alt1_art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>assistência e assessoramento direto a chefias, executivos e equipes;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc3" id="art1_cpt_alt1_art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>assessoramento e participação ativa das ações de implantação de projetos, objetivos e metas da organização;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc4" id="art1_cpt_alt1_art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>gestão de informações para tomada de decisões e implantação de ações, visando à consecução de objetivos e metas;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc5" id="art1_cpt_alt1_art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>produção e edição de textos técnicos e administrativos, inclusive em idioma estrangeiro;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc6" id="art1_cpt_alt1_art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>organização, sistematização e administração de processos e recursos, para atender às metas e ao planejamento estratégico da organização;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc7" id="art1_cpt_alt1_art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>versão e tradução em idioma estrangeiro, para atender às necessidades de comunicação oral e escrita da organização;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc8" id="art1_cpt_alt1_art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>análise, triagem, registro e distribuição de expedientes e outras tarefas correlatas;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc9" id="art1_cpt_alt1_art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>planejamento, organização, implantação e monitoramento de atividades administrativas, eventos e outras ações pertinentes à organização;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc10" id="art1_cpt_alt1_art4_cpt_inc10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>estabelecimento e implantação de estratégias de comunicação e gestão de relacionamentos, interno e externo, em conformidade com as políticas institucionais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art4" id="art1_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art1_cpt_alt1_art4_cpt">
+            
+            
+            
+            <p>–A São atribuições do Tecnólogo em Secretariado:</p>
+            <Inciso xlink:href="art4_cpt_inc1" id="art1_cpt_alt1_art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>planejar, organizar, implantar e monitorar as rotinas administrativas da secretaria, para atender às metas da área em que atua;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc2" id="art1_cpt_alt1_art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>assistir e assessorar diretamente a chefias, executivos e equipes;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc3" id="art1_cpt_alt1_art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>planejar e executar atividades administrativas, com organização da infraestrutura e otimização dos recursos materiais, humanos e tecnológicos, para obtenção de resultados e cumprimento de metas;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc4" id="art1_cpt_alt1_art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>executar atividades administrativas, para cumprimento das estratégias estabelecidas em conformidade com as políticas institucionais;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc5" id="art1_cpt_alt1_art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>elaborar textos técnicos e administrativos, inclusive em idioma estrangeiro;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc6" id="art1_cpt_alt1_art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>coletar, triar, registrar, distribuir e monitorar informações, expedientes e agendas, para a consecução de objetivos e metas da organização;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc7" id="art1_cpt_alt1_art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>gerir, manter e preservar informações permanentes e temporárias, dentro da legislação e normas técnicas vigentes;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc8" id="art1_cpt_alt1_art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>executar atividades administrativas, para implantação de processos e recursos, a fim de atender às metas e ao planejamento estratégico da organização;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc9" id="art1_cpt_alt1_art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>traduzir texto em idioma estrangeiro, para atender às necessidades de comunicação da empresa;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc10" id="art1_cpt_alt1_art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>atuar como intermediador de comunicação e gestão de relacionamentos, interno e externo, em conformidade com as políticas institucionais;</p>
+            
+          </Inciso><Inciso xlink:href="art4_cpt_inc11" id="art1_cpt_alt1_art4_cpt_inc11" fechaAspas="s">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>organizar e implantar atividades administrativas, eventos e outras ações pertinentes à organização.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art5" id="art1_cpt_alt1_art5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput xlink:href="art5_cpt" id="art1_cpt_alt1_art5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art5_cpt_inc1" id="art1_cpt_alt1_art5_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>assessoramento de chefia, de superior imediato e de equipe, para cumprimento das metas da organização;</p>
+            
+          </Inciso><Inciso xlink:href="art5_cpt_inc2" id="art1_cpt_alt1_art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>execução de atividades típicas de secretaria, tais como recepção, administração das informações recebidas e emitidas, realização de atividades administrativas para os processos e serviços da organização e atendimento presencial e a distância;</p>
+            
+          </Inciso><Inciso xlink:href="art5_cpt_inc3" id="art1_cpt_alt1_art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>classificação, registro, distribuição, manutenção e armazenamento de informações e documentos;</p>
+            
+          </Inciso><Inciso xlink:href="art5_cpt_inc4" id="art1_cpt_alt1_art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>interpretação e sintetização de textos e documentos;</p>
+            
+          </Inciso><Inciso xlink:href="art5_cpt_inc5" id="art1_cpt_alt1_art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>redação e digitação de correspondências ou documentos de rotina, inclusive em idioma estrangeiro;</p>
+            
+          </Inciso><Inciso xlink:href="art5_cpt_inc6" id="art1_cpt_alt1_art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>organização e ações para manutenção de infraestrutura, recursos materiais, equipamentos e demais operações para funcionamento do escritório;</p>
+            
+          </Inciso><Inciso xlink:href="art5_cpt_inc7" id="art1_cpt_alt1_art5_cpt_inc7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>preparação, organização e acompanhamento de atividades administrativas, eventos, viagens e outras necessidades corporativas, para atender às metas da organização.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art6" id="art1_cpt_alt1_art6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput xlink:href="art6_cpt" id="art1_cpt_alt1_art6_cpt">
+            
+            
+            
+            <p>O exercício da profissão de Secretariado requer prévio registro na Superintendência Regional do Trabalho do Ministério do Trabalho e far-se-á mediante a apresentação de documento comprobatório de conclusão dos cursos previstos nos incisos I, II e III do art. 2º desta Lei e da Carteira de Trabalho e Previdência Social (CTPS).</p>
+            
+          </Caput><Paragrafo xlink:href="art6_par1u" id="art1_cpt_alt1_art6_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>No caso dos profissionais incluídos no art. 3º desta Lei, a prova da atuação será feita por meio de anotações na CTPS e de declarações das empresas nas quais os profissionais tenham desenvolvido as respectivas atividades, discriminando as atribuições a serem confrontadas com as atribuições especificadas nos arts. 4º, 4º-A e 5º desta Lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art6-1" id="art1_cpt_alt1_art6-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 6º-A.</Rotulo>
+            
+            <Caput xlink:href="art6-1_cpt" id="art1_cpt_alt1_art6-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Fica instituído o dia 30 de setembro como o Dia Nacional do Profissional de Secretariado.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1985-09-30;7377-->
+            
+            
+            <p>A ementa da <span xlink:href="urn:lex:br:federal:lei:1985-09-30;7377">Lei nº 7.377, de 30 de setembro de 1985</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1985-09-30;7377" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1985-09-30;7377 -> MatchByBase(urn:lex:br:federal:lei:1985-09-30;7377,1985,Some((9,30)),Map())))-->
+              <p>Dispõe sobre o exercício da profissão de Secretariado.</p>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            <!--Link: urn:lex:br:federal:lei:1985-09-30;7377!art8-->
+            
+            
+            <p>Revoga-se o <span xlink:href="urn:lex:br:federal:lei:1985-09-30;7377!art8">art. 8º da Lei nº 7.377, de 30 de setembro de 1985</span>.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

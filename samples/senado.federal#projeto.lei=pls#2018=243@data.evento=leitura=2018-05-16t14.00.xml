@@ -1,0 +1,61 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;243@data.evento;leitura;2018-05-16t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 243 DE 2018</Epigrafe>
+      <Ementa id="ementa">Acrescenta o § 4º ao art. 2º à <span xlink:href="urn:lex:br:federal:lei:1996-09-23;9307">Lei nº 9.307, de 23 de setembro de 1996</span>, para permitir que a arbitragem possa ser utilizada para prevenir conflitos nas relações jurídicas.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-09-23;9307!art2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1996-09-23;9307!art2">art. 2º da Lei nº 9.307, de 23 de setembro de 1996</span>, passa a vigorar acrescida do seguinte § 4º:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-09-23;9307" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-09-23;9307 -> MatchByBase(urn:lex:br:federal:lei:1996-09-23;9307,1996,Some((9,23)),Map(art2 -> ExactMatch(URN(1996,Some((9,23)),art2,urn:lex:br:federal:lei:1996-09-23;9307!art2)), art2_cpt -> PrefixMatch(URN(1996,Some((9,23)),art2,urn:lex:br:federal:lei:1996-09-23;9307!art2),art2_cpt), art2_par4 -> PrefixMatch(URN(1996,Some((9,23)),art2,urn:lex:br:federal:lei:1996-09-23;9307!art2),art2_par4)))))-->
+              <Artigo xlink:href="art2" id="art1_cpt_alt1_art2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput xlink:href="art2_cpt" id="art1_cpt_alt1_art2_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art2_omi1"/><Paragrafo xlink:href="art2_par4" id="art1_cpt_alt1_art2_par4" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A arbitragem poderá ser utilizada para prevenção de conflitos mediante acompanhamento de relações jurídicas continuadas ou mediante convocação pontual para potenciais impasses, assegurado às partes decidir pelo caráter vinculante ou não dos pronunciamentos dos árbitros ou do comitê de árbitros.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

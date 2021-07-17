@@ -1,0 +1,91 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;29"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 29 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12302">Lei nº 12.302, de 2 de agosto de 2010</span>, para modificar a exigência de habilitação para o exercício da atividade de instrução de trânsito.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2010-08-02;12302!art3_par1--><!--Link: urn:lex:br:federal:lei:2010-08-02;12302!art4_cpt_inc2-->
+            
+            
+            <p>Esta Lei altera o <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12302!art3_par1">parágrafo único do art. 3º</span> e o <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12302!art4_cpt_inc2">inciso II do art. 4º da Lei nº 12.302, de 2 de agosto de 2010</span>, para exigir que o instrutor de trânsito tenha habilitação para a categoria igual ou superior àquela pretendida pelo candidato à habilitação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2010-08-02;12302!art3_par1--><!--Link: urn:lex:br:federal:lei:2010-08-02;12302!art4_cpt_inc2-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12302!art3_par1">parágrafo único do art. 3º</span> e o <span xlink:href="urn:lex:br:federal:lei:2010-08-02;12302!art4_cpt_inc2">inciso II do art. 4º da Lei nº 12.302, de 2 de agosto de 2010</span>, passam a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2010-08-02;12302" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2010-08-02;12302 -> MatchByBase(urn:lex:br:federal:lei:2010-08-02;12302,2010,Some((8,2)),Map(art3_cpt -> SuperPrefixMatch(URN(2010,Some((8,2)),art3_par1,urn:lex:br:federal:lei:2010-08-02;12302!art3_par1),art3_cpt), art4 -> SuperPrefixMatch(URN(2010,Some((8,2)),art4_cpt_inc2,urn:lex:br:federal:lei:2010-08-02;12302!art4_cpt_inc2),art4), art4_cpt_inc2 -> ExactMatch(URN(2010,Some((8,2)),art4_cpt_inc2,urn:lex:br:federal:lei:2010-08-02;12302!art4_cpt_inc2)), art3_par1 -> ExactMatch(URN(2010,Some((8,2)),art3_par1,urn:lex:br:federal:lei:2010-08-02;12302!art3_par1)), art4_cpt -> SuperPrefixMatch(URN(2010,Some((8,2)),art4_cpt_inc2,urn:lex:br:federal:lei:2010-08-02;12302!art4_cpt_inc2),art4_cpt), art3 -> SuperPrefixMatch(URN(2010,Some((8,2)),art3_par1,urn:lex:br:federal:lei:2010-08-02;12302!art3_par1),art3)))))-->
+              <Artigo xlink:href="art3" id="art2_cpt_alt1_art3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput xlink:href="art3_cpt" id="art2_cpt_alt1_art3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art3_par1u" id="art2_cpt_alt1_art3_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O instrutor de trânsito somente poderá instruir candidatos à habilitação para a categoria igual ou inferior àquela em que esteja habilitado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art4" id="art2_cpt_alt1_art4" abreAspas="s">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput xlink:href="art4_cpt" id="art2_cpt_alt1_art4_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art4_cpt_omi1"/><Inciso xlink:href="art4_cpt_inc2" id="art2_cpt_alt1_art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ter, pelo menos, 2 (dois) anos de efetiva habilitação legal para a condução de veículo;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art2_cpt_alt1_art4_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

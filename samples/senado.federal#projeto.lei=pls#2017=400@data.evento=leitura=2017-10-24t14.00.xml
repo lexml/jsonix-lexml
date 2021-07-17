@@ -1,0 +1,115 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;400@data.evento;leitura;2017-10-24t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 400 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:2014-06-25;13005">Lei nº 13.005, de 25 de junho de 2014</span>, Plano Nacional de Educação - PNE, para que a Base Nacional Comum Curricular – BNCC seja proposta pelo Poder Executivo e apreciada pelo Congresso Nacional.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei altera o Plano Nacional de Educação - PNE com o objetivo de que a Base Nacional Comum Curricular – BNCC, mediante proposta do Poder Executivo, seja aprovada pelo Congresso Nacional:</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2014-06-25;13005-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2014-06-25;13005">Lei nº 13.005, de 25 de junho de 2014</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2014-06-25;13005" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2014-06-25;13005 -> MatchByBase(urn:lex:br:federal:lei:2014-06-25;13005,2014,Some((6,25)),Map(art14_par1 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14_par1), art14_par3 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14_par3), art14_cpt -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14_cpt), art14_par6 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14_par6), art14_par5 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14_par5), art15 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art15), art15_cpt -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art15_cpt), art14_par4 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14_par4), art14_par2 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14_par2), art14 -> PrefixMatch(URN(2014,Some((6,25)),,urn:lex:br:federal:lei:2014-06-25;13005),art14)))))-->
+              <Artigo xlink:href="art14" id="art2_cpt_alt1_art14" abreAspas="s">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput xlink:href="art14_cpt" id="art2_cpt_alt1_art14_cpt">
+            
+            
+            
+            <p>Caberá ao Congresso Nacional a aprovação da Base Nacional Comum Curricular – BNCC mediante proposta do Poder Executivo.</p>
+            
+          </Caput><Paragrafo xlink:href="art14_par1" id="art2_cpt_alt1_art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No prazo de 3 (três) anos, a partir da implantação do Plano Nacional de Educação – PNE, o Poder Executivo encaminhará a proposta da base nacional comum curricular ao Congresso Nacional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art14_par2" id="art2_cpt_alt1_art14_par2">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p> Na elaboração da base nacional comum curricular, deverão ser observados os Parâmetros Curriculares Nacionais - PCNs previstos na <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Lei Nº 9.394, de 20 de dezembro de 1996</span> de Diretrizes e Bases da Educação Nacional - LDB, bem como, as habilidades e competências avaliadas pelos instrumentos internacionais de avaliação da educação dos quais o País participe.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art14_par3" id="art2_cpt_alt1_art14_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A base nacional comum curricular servirá como referencial obrigatório para o Programa Nacional do Livro Didático - PNLD e outros programas pedagógicos, processos de avaliação dos alunos da educação básica e formação inicial e continuada de professores e terá suas ações e etapas de elaboração coordenadas pelo Ministério da Educação - MEC.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art14_par4" id="art2_cpt_alt1_art14_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Serão garantidas realizações de audiências públicas com especialistas por área de conhecimento e com participação dos Estados, Distrito Federal e Municípios.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art14_par5" id="art2_cpt_alt1_art14_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os sistemas de ensino terão o prazo de até 3 (três) anos letivos, posteriores a aprovação da base nacional comum curricular pelo Congresso Nacional, para implementação da base acompanhando o Calendário de Atendimento do livro didático, iniciando pelas séries iniciais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art14_par6" id="art2_cpt_alt1_art14_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A revisão acontecerá a cada 5 (cinco) anos após sua implementação na educação básica.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art15" id="art2_cpt_alt1_art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput xlink:href="art15_cpt" id="art2_cpt_alt1_art15_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação”.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

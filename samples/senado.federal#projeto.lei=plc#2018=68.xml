@@ -1,0 +1,340 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;plc:2018;68"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DA CÂMARA Nº 68 DE 2018</Epigrafe>
+      <Ementa id="ementa">Altera as <span xlink:href="urn:lex:br:federal:lei:1964-12-16;4591">Leis nºs 4.591, de 16 de dezembro de 1964</span>, e <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766">6.766, de 19 de dezembro de 1979</span>, para disciplinar a resolução do contrato por inadimplemento do adquirente de unidade imobiliária em incorporação imobiliária e em parcelamento de solo urbano.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p></p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-12-16;4591--><!--Link: urn:lex:br:federal:lei:1979-12-19;6766-->
+            
+            
+            <p>Esta Lei altera as <span xlink:href="urn:lex:br:federal:lei:1964-12-16;4591">Leis nºs 4.591, de 16 de dezembro de 1964</span>, e <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766">6.766, de 19 de dezembro de 1979</span>, para disciplinar a resolução do contrato por inadimplemento do adquirente de unidade imobiliária em incorporação imobiliária e em parcelamento de solo urbano.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1964-12-16;4591-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1964-12-16;4591">Lei nº 4.591, de 16 de dezembro de 1964</span>, passa a vigorar acrescida dos seguintes arts. 43-A e 67-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1964-12-16;4591" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1964-12-16;4591 -> MatchByBase(urn:lex:br:federal:lei:1964-12-16;4591,1964,Some((12,16)),Map(art67-1_par12 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par12), art67-1_par5 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par5), art67-1_par2_inc4 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par2_inc4), art67-1_par1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par1), art67-1_par9 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par9), art43-1_cpt -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art43-1_cpt), art67-1_cpt_inc2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_cpt_inc2), art67-1_par2_inc1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par2_inc1), art67-1_par4 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par4), art67-1_par13 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par13), art67-1_par2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par2), art67-1_par10 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par10), art67-1_cpt -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_cpt), art43-1_par1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art43-1_par1), art67-1_par8 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par8), art67-1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1), art43-1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art43-1), art67-1_par3 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par3), art67-1_par11 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par11), art67-1_par2_inc2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par2_inc2), art67-1_par7 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par7), art43-1_par2 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art43-1_par2), art67-1_par2_inc3 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par2_inc3), art67-1_par6 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_par6), art67-1_cpt_inc1 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art67-1_cpt_inc1), art43-1_par3 -> PrefixMatch(URN(1964,Some((12,16)),,urn:lex:br:federal:lei:1964-12-16;4591),art43-1_par3)))))-->
+              <Artigo xlink:href="art43-1" id="art2_cpt_alt1_art43-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 43-A.</Rotulo>
+            
+            <Caput xlink:href="art43-1_cpt" id="art2_cpt_alt1_art43-1_cpt">
+            
+            
+            
+            <p>A entrega do imóvel em até 180 (cento e oitenta) dias corridos da data estipulada contratualmente como data prevista para conclusão do empreendimento, desde que expressamente pactuado, de forma clara e destacada, não dará causa à resolução do contrato por parte do adquirente nem ensejará o pagamento de qualquer penalidade pelo incorporador.</p>
+            
+          </Caput><Paragrafo xlink:href="art43-1_par1" id="art2_cpt_alt1_art43-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se a entrega do imóvel ultrapassar o prazo estabelecido no caput deste artigo, desde que o adquirente não tenha dado causa ao atraso, poderá ser promovida por este a resolução do contrato, sem prejuízo da devolução da integralidade de todos os valores pagos e da multa estabelecida, em até 60 (sessenta dias) dias corridos contados da resolução, corrigidos nos termos do § 8º do art. 67-A desta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art43-1_par2" id="art2_cpt_alt1_art43-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de a entrega do imóvel estender-se por prazo superior àquele previsto no caput deste artigo, e não se tratar de resolução do contrato, será devida ao adquirente adimplente, por ocasião da entrega da unidade, indenização de 1% (um por cento) do valor efetivamente pago à incorporadora, para cada mês de atraso, pro rata die, corrigido monetariamente conforme índice estipulado em contrato.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art43-1_par3" id="art2_cpt_alt1_art43-1_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A multa prevista no § 2° deste artigo, referente a mora no cumprimento da obrigação, em hipótese alguma poderá ser cumulada com a multa estabelecida no § 1º deste artigo, que trata da inexecução total da obrigação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art67-1" id="art2_cpt_alt1_art67-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 67-A.</Rotulo>
+            
+            <Caput xlink:href="art67-1_cpt" id="art2_cpt_alt1_art67-1_cpt">
+            
+            
+            
+            <p>Em caso de desfazimento do contrato, mediante distrato ou resolução por inadimplemento total de obrigação do adquirente, este fará jus à restituição das quantias que houver pago diretamente ao incorporador, atualizadas com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel, delas deduzidas, cumulativamente:</p>
+            <Inciso xlink:href="art67-1_cpt_inc1" id="art2_cpt_alt1_art67-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a integralidade da comissão de corretagem;</p>
+            
+          </Inciso><Inciso xlink:href="art67-1_cpt_inc2" id="art2_cpt_alt1_art67-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a pena convencional, que não poderá exceder a 25% (vinte e cinco por cento) da quantia paga.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art67-1_par1" id="art2_cpt_alt1_art67-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para exigir a pena convencional, não é necessário que o incorporador alegue prejuízo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par2" id="art2_cpt_alt1_art67-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Em função do período em que teve disponibilizada a unidade imobiliária, responde ainda o adquirente, em caso de resolução ou de distrato, sem prejuízo do disposto no caput e no § 1º deste artigo, pelos seguintes valores:</p>
+            <Inciso xlink:href="art67-1_par2_inc1" id="art2_cpt_alt1_art67-1_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>quantias correspondentes aos impostos reais incidentes sobre o imóvel;</p>
+            
+          </Inciso><Inciso xlink:href="art67-1_par2_inc2" id="art2_cpt_alt1_art67-1_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>cotas de condomínio e contribuições devidas a associações de moradores;</p>
+            
+          </Inciso><Inciso xlink:href="art67-1_par2_inc3" id="art2_cpt_alt1_art67-1_par2_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>valor correspondente à fruição do imóvel, calculado de acordo com critério pactuado no contrato ou, na falta de estipulação, fixado pelo juiz em valor equivalente ao de aluguel de imóvel do mesmo padrão e localidade do objeto do contrato;</p>
+            
+          </Inciso><Inciso xlink:href="art67-1_par2_inc4" id="art2_cpt_alt1_art67-1_par2_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>demais encargos incidentes sobre o imóvel e despesas previstas no contrato.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art67-1_par3" id="art2_cpt_alt1_art67-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os débitos do adquirente correspondentes às deduções de que trata o § 2º deste artigo poderão ser pagos mediante compensação com a quantia a ser restituída.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par4" id="art2_cpt_alt1_art67-1_par4">
+            <!--Link: urn:lex:br:federal:lei:2004-08-02;10931-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Quando a incorporação estiver submetida ao regime do patrimônio de afetação de que trata a <span xlink:href="urn:lex:br:federal:lei:2004-08-02;10931">Lei nº 10.931, de 2 de agosto de 2004</span>, o incorporador restituirá os valores pagos pelo adquirente, deduzidos os valores descritos neste artigo e atualizados com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel, no prazo máximo de 30 (trinta) dias após o habite-se ou documento equivalente expedido pelo órgão público municipal competente, admitindo­se, nessa hipótese, que a pena referida no inciso II do caput deste artigo seja estabelecida até o limite de 50% (cinquenta por cento) da quantia paga.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par5" id="art2_cpt_alt1_art67-1_par5">
+            <!--Link: urn:lex:br:federal:lei:2004-08-02;10931-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Caso a incorporação não esteja submetida ao regime de patrimônio de afetação de que trata a <span xlink:href="urn:lex:br:federal:lei:2004-08-02;10931">Lei nº 10.931, de 2 de agosto de 2004</span>, e após as deduções a que se referem os parágrafos anteriores, se houver remanescente a ser ressarcido ao adquirente, o pagamento será realizado em parcela única, após o prazo de 180 (cento e oitenta) dias, contado da data do desfazimento do contrato.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par6" id="art2_cpt_alt1_art67-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Caso ocorra a revenda da unidade antes de transcorrido o prazo a que se referem os §§ 4º ou 5º deste artigo, o valor remanescente devido ao adquirente será pago em até 30 (trinta) dias da revenda.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par7" id="art2_cpt_alt1_art67-1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O valor remanescente a ser pago ao adquirente nos termos do § 6º deste artigo deve ser atualizado com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par8" id="art2_cpt_alt1_art67-1_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>Não incidirá a cláusula penal contratualmente prevista na hipótese de o adquirente que der causa ao desfazimento do contrato encontrar comprador substituto que o sub-rogue nos direitos e obrigações originalmente assumidos, desde que haja a devida anuência do incorporador e a aprovação dos cadastros e da capacidade financeira e econômica do comprador substituto.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par9" id="art2_cpt_alt1_art67-1_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Os contratos firmados em estandes de vendas e fora da sede do incorporador permitem ao adquirente o exercício do direito de arrependimento, durante o prazo improrrogável de 7 (sete) dias, com a devolução de todos os valores eventualmente antecipados, inclusive a comissão de corretagem.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par10" id="art2_cpt_alt1_art67-1_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Caberá ao adquirente demonstrar o exercício tempestivo do direito de arrependimento por meio de carta registrada, com aviso de recebimento, considerada a data da postagem como data inicial da contagem do prazo a que se refere o § 9º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par11" id="art2_cpt_alt1_art67-1_par11">
+            <!--Link: urn:lex:br:federal:lei:1964-12-16;4591!art32_par2-->
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>Transcorrido o prazo de 7 (sete) dias a que se refere o § 9º deste artigo sem que tenha sido exercido o direito de arrependimento, será observada a irretratabilidade do contrato de incorporação imobiliária, conforme disposto no <span xlink:href="urn:lex:br:federal:lei:1964-12-16;4591!art32_par2">§ 2º do art. 32 da Lei nº 4.591, de 16 de dezembro de 1964</span>.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par12" id="art2_cpt_alt1_art67-1_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Poderão as partes, em comum acordo, por meio de instrumento específico de distrato, definir condições diferenciadas das previstas nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art67-1_par13" id="art2_cpt_alt1_art67-1_par13" fechaAspas="s">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>Nas hipóteses de leilão de imóvel objeto de contrato de compra e venda com pagamento parcelado, com ou sem garantia real, de promessa de compra e venda ou de cessão e de compra e venda com pacto adjeto de alienação fiduciária em garantia, realizado o leilão no contexto de execução judicial ou de procedimento extrajudicial, a restituição far-se-á de acordo com os critérios estabelecidos na respectiva lei especial ou com as normas aplicáveis à execução em geral.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1979-12-19;6766-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1979-12-19;6766">Lei nº 6.766, de 19 de dezembro de 1979</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1979-12-19;6766" id="art3_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1979-12-19;6766 -> MatchByBase(urn:lex:br:federal:lei:1979-12-19;6766,1979,Some((12,19)),Map(art35_cpt -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art35_cpt), art34_par2 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art34_par2), art32-1_cpt_inc5 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_cpt_inc5), art34 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art34), art32-1_cpt_inc2 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_cpt_inc2), art32-1_par3 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_par3), art32-1_cpt_inc1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_cpt_inc1), art35_par3 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art35_par3), art32-1_par1_inc2 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_par1_inc2), art32-1_par2 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_par2), art32-1_cpt_inc4 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_cpt_inc4), art34_par1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art34_par1), art34_cpt -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art34_cpt), art32-1_cpt -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_cpt), art35 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art35), art32-1_par1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_par1), art32-1_cpt_inc3 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_cpt_inc3), art32-1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1), art32-1_par1_inc1 -> PrefixMatch(URN(1979,Some((12,19)),,urn:lex:br:federal:lei:1979-12-19;6766),art32-1_par1_inc1)))))-->
+              <Artigo xlink:href="art32-1" id="art3_cpt_alt1_art32-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 32-A.</Rotulo>
+            
+            <Caput xlink:href="art32-1_cpt" id="art3_cpt_alt1_art32-1_cpt">
+            
+            
+            
+            <p>Em caso de resolução contratual por fato imputado ao adquirente, respeitado o disposto no § 2º deste artigo, deverão ser restituídos os valores pagos por ele, atualizados com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel, podendo ser descontados dos valores pagos os seguintes itens:</p>
+            <Inciso xlink:href="art32-1_cpt_inc1" id="art3_cpt_alt1_art32-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os valores correspondentes à eventual fruição do imóvel, até o limite máximo de 1% (um por cento) ao mês sobre o valor atualizado do lote definido em contrato, cujo prazo será contado a partir da data da transmissão da posse do imóvel ao adquirente até sua restituição ao loteador;</p>
+            
+          </Inciso><Inciso xlink:href="art32-1_cpt_inc2" id="art3_cpt_alt1_art32-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o montante devido por cláusula penal e despesas administrativas, inclusive arras ou sinal, limitado a um desconto de 10% (dez por cento) do valor atualizado do contrato;</p>
+            
+          </Inciso><Inciso xlink:href="art32-1_cpt_inc3" id="art3_cpt_alt1_art32-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>os encargos moratórios relativos às prestações pagas em atraso pelo adquirente;</p>
+            
+          </Inciso><Inciso xlink:href="art32-1_cpt_inc4" id="art3_cpt_alt1_art32-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>os débitos de impostos sobre a propriedade predial e territorial urbana, contribuições condominiais, associativas ou outras de igual natureza que sejam a estas equiparadas e tarifas vinculadas ao lote, bem como tributos, custas e emolumentos incidentes sobre a restituição e/ou rescisão;</p>
+            
+          </Inciso><Inciso xlink:href="art32-1_cpt_inc5" id="art3_cpt_alt1_art32-1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a comissão de corretagem, desde que integrada ao preço do lote.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo xlink:href="art32-1_par1" id="art3_cpt_alt1_art32-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O pagamento da restituição ocorrerá em até 12 (doze) parcelas mensais, com início após o seguinte prazo de carência:</p>
+            <Inciso xlink:href="art32-1_par1_inc1" id="art3_cpt_alt1_art32-1_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>em loteamentos com obras em andamento: no prazo máximo de 180 (cento e oitenta) dias após o prazo previsto em contrato para conclusão das obras;</p>
+            
+          </Inciso><Inciso xlink:href="art32-1_par1_inc2" id="art3_cpt_alt1_art32-1_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em loteamentos com obras concluídas: no prazo máximo de 12 (doze) meses após a formalização da rescisão contratual.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art32-1_par2" id="art3_cpt_alt1_art32-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Somente será efetuado registro do contrato de nova venda se for comprovado o início da restituição do valor pago pelo vendedor ao titular do registro cancelado na forma e condições pactuadas no distrato, dispensada essa comprovação nos casos em que o adquirente não for localizado ou não tiver se manifestado, nos termos do art. 32 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art32-1_par3" id="art3_cpt_alt1_art32-1_par3" fechaAspas="s">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O procedimento previsto neste artigo não se aplica aos contratos e escrituras de compra e venda de lote sob a modalidade de alienação fiduciária nos termos da <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514">Lei n° 9.514, de 20 de novembro de 1997</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art34" id="art3_cpt_alt1_art34" abreAspas="s">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput xlink:href="art34_cpt" id="art3_cpt_alt1_art34_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art34_par1" id="art3_cpt_alt1_art34_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            
+          </Paragrafo><Paragrafo xlink:href="art34_par2" id="art3_cpt_alt1_art34_par2" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1997-11-20;9514-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No prazo de 60 (sessenta) dias, contado da constituição em mora, fica o loteador, na hipótese do caput deste artigo, obrigado a alienar o imóvel mediante leilão judicial ou extrajudicial, nos termos da <span xlink:href="urn:lex:br:federal:lei:1997-11-20;9514">Lei nº 9.514, de 20 de novembro de 1997</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art35" id="art3_cpt_alt1_art35" abreAspas="s">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput xlink:href="art35_cpt" id="art3_cpt_alt1_art35_cpt">
+            
+            
+            
+            <p>Se ocorrer o cancelamento do registro por inadimplemento do contrato, e tiver sido realizado o pagamento de mais de 1/3 (um terço) do preço ajustado, o oficial do registro de imóveis mencionará esse fato e a quantia paga no ato do cancelamento, e somente será efetuado novo registro relativo ao mesmo lote, mediante apresentação do distrato assinado pelas partes e a comprovação do pagamento da parcela única ou da primeira parcela do montante a ser restituído ao adquirente, na forma do art. 32-A desta Lei, ao titular do registro cancelado, ou mediante depósito em dinheiro à sua disposição no registro de imóveis.</p>
+            
+          </Caput><Omissis id="art3_cpt_alt1_art35_omi1"/><Paragrafo xlink:href="art35_par3" id="art3_cpt_alt1_art35_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A obrigação de comprovação prévia de pagamento da parcela única ou da primeira parcela como condição para efetivação de novo registro, prevista no caput deste artigo, poderá ser dispensada se as partes convencionarem de modo diverso e de forma expressa no documento de distrato por elas assinado.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

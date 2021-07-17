@@ -1,0 +1,112 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;37@data.evento;leitura;2017-03-07t14.00"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 37 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a Lei de Execução Penal para prever a possibilidade de o juiz aplicar multa à pessoa jurídica que administra o estabelecimento penal em caso de desvio ou excesso da execução penal.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1984-07-11;7210!art66_cpt_inc8-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210!art66_cpt_inc8">inciso VIII do art. 66 da Lei nº 7.210, de 11 de julho de 1984</span>, passa a viger com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1984-07-11;7210" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1984-07-11;7210 -> MatchByBase(urn:lex:br:federal:lei:1984-07-11;7210,1984,Some((7,11)),Map(art66 -> SuperPrefixMatch(URN(1984,Some((7,11)),art66_cpt_inc8,urn:lex:br:federal:lei:1984-07-11;7210!art66_cpt_inc8),art66), art66_cpt -> SuperPrefixMatch(URN(1984,Some((7,11)),art66_cpt_inc8,urn:lex:br:federal:lei:1984-07-11;7210!art66_cpt_inc8),art66_cpt), art66_cpt_inc8 -> ExactMatch(URN(1984,Some((7,11)),art66_cpt_inc8,urn:lex:br:federal:lei:1984-07-11;7210!art66_cpt_inc8))))))-->
+              <Artigo xlink:href="art66" id="art1_cpt_alt1_art66" abreAspas="s">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput xlink:href="art66_cpt" id="art1_cpt_alt1_art66_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art66_cpt_omi1"/><Inciso xlink:href="art66_cpt_inc8" id="art1_cpt_alt1_art66_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>interditar, no todo ou em parte, estabelecimento penal que estiver funcionando em condições inadequadas ou com infringência aos dispositivos desta Lei, assim como multar a pessoa jurídica responsável pela sua administração;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art66_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1984-07-11;7210-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1984-07-11;7210">Lei nº 7.210, de 11 de julho de 1984</span>, passa a viger acrescida do seguinte artigo 186-A:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1984-07-11;7210" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1984-07-11;7210 -> MatchByBase(urn:lex:br:federal:lei:1984-07-11;7210,1984,Some((7,11)),Map(art186-1_par3 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_par3), art186-1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1), art186-1_cpt -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_cpt), art186-1_par4 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_par4), art186-1_par2 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_par2), art186-1_par1 -> PrefixMatch(URN(1984,Some((7,11)),,urn:lex:br:federal:lei:1984-07-11;7210),art186-1_par1)))))-->
+              <Artigo xlink:href="art186-1" id="art2_cpt_alt1_art186-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 186-A.</Rotulo>
+            
+            <Caput xlink:href="art186-1_cpt" id="art2_cpt_alt1_art186-1_cpt">
+            
+            
+            
+            <p>Em caso de condenado que cumpre pena em situação degradante e de flagrante desrespeito à sua integridade física e moral, o juiz, ao julgar o incidente, decidirá sobre a imposição de multa à pessoa jurídica responsável pela administração do estabelecimento penal.</p>
+            
+          </Caput><Paragrafo xlink:href="art186-1_par1" id="art2_cpt_alt1_art186-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor da multa será definido com base na quantidade de dias de execução penal em situação de desvio ou excesso, não podendo ser inferior a um salário mínimo nem superior a trezentos e sessenta salários mínimos, por preso.</p>
+            
+          </Paragrafo><Omissis id="art2_cpt_alt1_art186-1_omi1"/><Paragrafo xlink:href="art186-1_par2" id="art2_cpt_alt1_art186-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O valor da multa será depositado no fundo penitenciário do ente federativo respectivo, ou, na sua ausência, no Fundo Penitenciário Nacional, para ser aplicado integralmente na construção, reforma, ampliação e aprimoramento dos estabelecimentos penais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art186-1_par3" id="art2_cpt_alt1_art186-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Em caso de reincidência, o juiz poderá, cumulativamente com a multa, interditar o estabelecimento penal, no todo ou em parte.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art186-1_par4" id="art2_cpt_alt1_art186-1_par4" fechaAspas="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>É vedado o contingenciamento dos recursos oriundos da multa de que trata este artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor trinta dias após a data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

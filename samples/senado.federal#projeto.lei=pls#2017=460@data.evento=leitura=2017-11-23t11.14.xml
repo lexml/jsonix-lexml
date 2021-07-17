@@ -1,0 +1,112 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;460@data.evento;leitura;2017-11-23t11.14"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 460 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a proibição de empresas brasileiras ou sediadas em território nacional de importar petróleo de países que violem o princípio básico da soberania popular sobre recursos naturais e de estabelecerem acordos e contratos com tais países ou empresas sediadas nesses países com o fim de produção e refinamento do petróleo.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Fica proibida a celebração de acordos ou contratos para importação, exploração ou refinamento de petróleo originado de países não-livres.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Serão considerados países não-livres aqueles que violem o princípio da soberania nacional sobre recursos naturais.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            <!--Link: urn:lex:br:federal:decreto:1992-07-06;591--><!--Link: urn:lex:br:federal:decreto:1992-07-06;592-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para fins desta lei, adota-se como definição do princípio da soberania nacional sobre recursos naturais o estabelecido nos artigos 1º do Pacto Internacional sobre Direitos Civis e Políticos e do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, ambos ratificados pelo Brasil, aprovados pelo Congresso Nacional através do Decreto Legislativo n° 226, de 12 de dezembro de 1991 e incorporados ao ordenamento jurídico brasileiro pelos <span xlink:href="urn:lex:br:federal:decreto:1992-07-06;591">Decretos No 591</span> e <span xlink:href="urn:lex:br:federal:decreto:1992-07-06;592">592, ambos de 6 de julho de 1992</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A declaração de país que viole o princípio da soberania nacional sobre recursos naturais caberá a órgão interno criado exclusivamente para essa finalidade.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Caberá ao Poder Executivo regulamentar a presente Lei, devendo para tanto:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>constituir órgão colegiado, com representação equilibrada entre setor produtivo, setor público e sociedade civil, devendo incluir, pelo menos os órgãos de regulação, o Ministério Público Federal, a Defensoria Pública da União, e organizações da sociedade civil com reconhecida expertise na defesa dos Direitos Humanos; e</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>definir critérios para declaração dos países não-livres em razão de violações ao princípio da soberania nacional sobre seus recursos naturais, considerando a combinação de métricas de governança elaboradas por instituições independentes reconhecidas nacional e internacionalmente por sua atuação como observadoras na área de Direitos Humanos.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Em caso de descumprimento do disposto nesta Lei, após a declaração do órgão competente referido no art. 4º, a empresa violadora será condenada e encerrar o contrato e terá apreendido o produto decorrente do negócio realizado, devendo ainda pagar uma multa de três vezes o valor do contrato.</p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Em caso de reincidência, a empresa violadora terá dobrado o valor de sua multa e sofrerá suspensão do direito de participar em licitação e impedimento de contratar com a Administração, pelo prazo dois anos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

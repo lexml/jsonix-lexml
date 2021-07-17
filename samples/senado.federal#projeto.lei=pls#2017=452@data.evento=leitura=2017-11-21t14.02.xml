@@ -1,0 +1,94 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;452@data.evento;leitura;2017-11-21t14.02"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 452 DE 2017</Epigrafe>
+      <Ementa id="ementa">Cria pensão especial aos acometidos por microcefalia causada pelo vírus da zica cujo vetor de transmissão seja o mosquito Aedes aegypti.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei concede pensão especial, de caráter indenizatório, mensal, vitalício e intransferível, à pessoa diagnosticada com microcefalia causada pela infecção pelo vírus da zica e com renda familiar de até 4 (quatro) salários-mínimos.</p>
+            
+          </Caput><Paragrafo id="art1_par1">
+            <!--Link: urn:lex:br:federal:lei:1991-07-24;8213!art41-1-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O valor total da pensão especial será calculado em função dos pontos-indicadores da natureza e do grau da dependência resultante da doença microcefálica, à razão, cada um, de vinte e cinco por cento do seu valor mínimo, e será reajustado nos termos do <span xlink:href="urn:lex:br:federal:lei:1991-07-24;8213!art41-1">art. 41-A da Lei nº 8.213, de 24 de julho de 1991</span>, não sendo inferior a 1 (um) salário-mínimo vigente.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Quanto à natureza, a dependência compreenderá a incapacidade para o trabalho, para a deambulação, para a higiene pessoal e para a própria alimentação, atribuindo-se a cada uma 1 (um) ou 2 (dois) pontos, respectivamente, conforme seja o seu grau parcial ou total, de acordo com regulamento definido pelo Poder Executivo Federal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>A percepção do benefício de que trata esta Lei é devida após a apresentação, junto a qualquer agência do Instituto Nacional do Seguro Social – INSS, de requerimento da pensão, e a partir da expedição de atestado médico comprobatório das condições constantes do artigo anterior, expedido por junta médica do Instituto Nacional do Seguro Social, sem qualquer ônus para o interessado.</p>
+            
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Caberá ao Instituto Nacional do Seguro Social - INSS o processamento, a manutenção e o pagamento da pensão, observado o art. 4º.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A pensão especial de que trata esta Lei não prejudicará outros benefícios de natureza previdenciária ou assistencial, vedada qualquer redução em razão de eventuais acúmulos com os demais benefícios.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>As despesas decorrentes do disposto nesta Lei correrão à conta do Tesouro Nacional e constarão de programação orçamentária específica no orçamento do Ministério do Desenvolvimento Social.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor no primeiro dia do exercício financeiro subsequente à data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

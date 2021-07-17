@@ -1,0 +1,100 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;303@data.evento;leitura;2017-08-31t11.14"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 303 DE 2017</Epigrafe>
+      <Ementa id="ementa">Altera a <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9250">Lei nº 9.250, de 26 de dezembro de 1995</span>, para extinguir o limite anual individual de deduções de despesas com instrução do contribuinte e de seus dependentes e alimentandos, para efeitos da apuração da base de cálculo do Imposto sobre a Renda da Pessoa Física.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-12-26;9250!art8-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9250!art8">art. 8º da Lei nº 9.250, de 26 de dezembro de 1995</span>, passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-12-26;9250" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-12-26;9250 -> MatchByBase(urn:lex:br:federal:lei:1995-12-26;9250,1995,Some((12,26)),Map(art8_cpt_inc2_ali2 -> PrefixMatch(URN(1995,Some((12,26)),art8,urn:lex:br:federal:lei:1995-12-26;9250!art8),art8_cpt_inc2_ali2), art8 -> ExactMatch(URN(1995,Some((12,26)),art8,urn:lex:br:federal:lei:1995-12-26;9250!art8)), art8_cpt_inc2 -> PrefixMatch(URN(1995,Some((12,26)),art8,urn:lex:br:federal:lei:1995-12-26;9250!art8),art8_cpt_inc2), art8_cpt -> PrefixMatch(URN(1995,Some((12,26)),art8,urn:lex:br:federal:lei:1995-12-26;9250!art8),art8_cpt), art8_par3 -> PrefixMatch(URN(1995,Some((12,26)),art8,urn:lex:br:federal:lei:1995-12-26;9250!art8),art8_par3)))))-->
+              <Artigo xlink:href="art8" id="art1_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art1_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art8_cpt_omi1"/><Inciso xlink:href="art8_cpt_inc2" id="art1_cpt_alt1_art8_cpt_inc2" textoOmitido="s">
+            
+            
+            <Rotulo>II –</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art8_cpt_inc2_omi1"/><Alinea xlink:href="art8_cpt_inc2_ali2" id="art1_cpt_alt1_art8_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a pagamentos de despesas com instrução do contribuinte e de seus dependentes, efetuados, no ano-calendário, a estabelecimentos de ensino, relativamente à educação infantil, compreendendo as creches e as pré-escolas; ao ensino fundamental; ao ensino médio; à educação superior, compreendendo os cursos de graduação e de pós-graduação (mestrado, doutorado e especialização); e à educação profissional, compreendendo o ensino técnico e o tecnológico.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art8_omi1"/><Paragrafo xlink:href="art8_par3" id="art1_cpt_alt1_art8_par3">
+            <!--Link: urn:lex:br:federal:lei:1973-01-11;5869-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As despesas médicas e de educação dos alimentandos, quando realizadas pelo alimentante em virtude de cumprimento de decisão judicial, de acordo homologado judicialmente ou de escritura pública a que se refere o art. 1.124-A da <span xlink:href="urn:lex:br:federal:lei:1973-01-11;5869">Lei nº 5.869, de 11 de janeiro de 1973</span> – Código de Processo Civil, poderão ser deduzidas pelo alimentante na determinação da base de cálculo do imposto de renda na declaração.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art8_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:1995-12-26;9249!art10-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1995-12-26;9249!art10">art. 10 da Lei nº 9.249, de 26 de dezembro de 1995</span>, passa a vigorar com a seguinte redação:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1995-12-26;9249" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1995-12-26;9249 -> MatchByBase(urn:lex:br:federal:lei:1995-12-26;9249,1995,Some((12,26)),Map(art10 -> ExactMatch(URN(1995,Some((12,26)),art10,urn:lex:br:federal:lei:1995-12-26;9249!art10)), art10_cpt -> PrefixMatch(URN(1995,Some((12,26)),art10,urn:lex:br:federal:lei:1995-12-26;9249!art10),art10_cpt)))))-->
+              <Artigo xlink:href="art10" id="art2_cpt_alt1_art10" abreAspas="s">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput xlink:href="art10_cpt" id="art2_cpt_alt1_art10_cpt">
+            
+            
+            
+            <p>Os lucros ou dividendos calculados com base nos resultados apurados a partir do mês de janeiro de 1996, pagos ou creditados pelas pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado, não ficarão sujeitos à incidência do imposto de renda na fonte, mas integrarão a base de cálculo do imposto de renda do beneficiário, pessoa física ou jurídica, domiciliado no País ou no exterior, com a alíquota diferenciada de 3%.</p>
+            
+          </Caput><Omissis id="art2_cpt_alt1_art10_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor em 1º de janeiro do ano subsequente ao de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

@@ -1,0 +1,85 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;458@data.evento;leitura;2017-11-23t11.14"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 458 DE 2017</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre a ampliação da arrecadação de recursos pelas universidades públicas, no âmbito de sua autonomia administrativa, financeira e patrimonial, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art207">art. 207 da Constituição Federal</span>.</Ementa>
+      <Preambulo id="preambulo"></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1996-12-20;9394-->
+            
+            
+            <p>Acrescenta à <span xlink:href="urn:lex:br:federal:lei:1996-12-20;9394">Lei nº 9.394, de 20 de dezembro de 1996</span> os seguintes arts: 55-A e 55-B:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1996-12-20;9394" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1996-12-20;9394 -> MatchByBase(urn:lex:br:federal:lei:1996-12-20;9394,1996,Some((12,20)),Map(art55-1_cpt -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art55-1_cpt), art55-1_par3 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art55-1_par3), art55-1_par1 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art55-1_par1), art55-2 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art55-2), art55-1_par2 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art55-1_par2), art55-1 -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art55-1), art55-2_cpt -> PrefixMatch(URN(1996,Some((12,20)),,urn:lex:br:federal:lei:1996-12-20;9394),art55-2_cpt)))))-->
+              <Artigo xlink:href="art55-1" id="art1_cpt_alt1_art55-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 55-A.</Rotulo>
+            
+            <Caput xlink:href="art55-1_cpt" id="art1_cpt_alt1_art55-1_cpt">
+            
+            
+            
+            <p>As universidades públicas poderão receber contrapartidas financeiras por serviços prestados à sociedade.</p>
+            
+          </Caput><Paragrafo xlink:href="art55-1_par1" id="art1_cpt_alt1_art55-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No exercício de sua autonomia administrativa e de gestão financeira e patrimonial, as universidades públicas administrarão os recursos oriundos da prestação de serviços de que trata este artigo e deles disporão na forma prevista nos respectivos estatutos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art55-1_par2" id="art1_cpt_alt1_art55-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os recursos de que trata este artigo serão aplicados na manutenção e no desenvolvimento das atividades finalísticas da universidade, vedada a destinação para pagamento de despesas obrigatórias com pessoal e encargos sociais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art55-1_par3" id="art1_cpt_alt1_art55-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os recursos financeiros efetivamente arrecadados em conformidade com o caput do Artigo 55- A terão autorizada a plena execução orçamentária para as atividades especificadas no Art. 55-A, § 2º.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art55-2" id="art1_cpt_alt1_art55-2">
+            
+            
+            <Rotulo>Art. 55-B.</Rotulo>
+            
+            <Caput xlink:href="art55-2_cpt" id="art1_cpt_alt1_art55-2_cpt">
+            
+            
+            
+            <p>Além dos recursos assegurados no caput do Artigo 55, constituem recursos financeiros das universidades públicas: recursos provenientes de doação ou convênio de qualquer natureza; recursos de qualquer espécie, provenientes de seus bens e produtos;</p>
+            
+          </Caput>
+          </Artigo><p>outras receitas eventuais.</p>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

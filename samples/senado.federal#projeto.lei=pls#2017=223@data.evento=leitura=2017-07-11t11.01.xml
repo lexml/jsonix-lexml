@@ -1,0 +1,1060 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;223@data.evento;leitura;2017-07-11t11.01"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 223 DE 2017</Epigrafe>
+      <Ementa id="ementa">Modifica o instituto da adoção, por intermédio de alterações nas <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Leis nos 8.069, de 13 de julho de 1990</span> e <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">10.406, de 10 de janeiro de 2002</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069">Lei nº 8.069, de 13 de julho de 1990</span> (Estatuto da Criança e do Adolescente), passa a vigorar com as seguintes alterações, renumerando-se como § 1º os parágrafos únicos dos arts. 152 e 167:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1990-07-13;8069" id="art1_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1990-07-13;8069 -> MatchByBase(urn:lex:br:federal:lei:1990-07-13;8069,1990,Some((7,13)),Map(art19-1_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_par3), art166_par7 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par7), art52-2_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52-2_cpt), art158_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art158_cpt), art166-1_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par1), art166_par4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par4), art199 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art199), art151 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art151), art52_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt), art19-1_par7 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_par7), art92_cpt_inc2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art92_cpt_inc2), art33_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art33_par3), art51 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art51), art167 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art167), art197-6_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-6_cpt), art166_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_cpt), art166-1_par8 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par8), art46_par5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art46_par5), art41 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art41), art197-3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-3), art201_cpt_inc3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art201_cpt_inc3), art47_par10 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art47_par10), art166-1_par7 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par7), art28_par4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art28_par4), art52_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par2), art197-5_par4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-5_par4), art136_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art136_cpt), art92_cpt_inc1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art92_cpt_inc1), art52_par16 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par16), art52_cpt_inc10 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc10), art136_cpt_inc11 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art136_cpt_inc11), art155 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art155), art166_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par1), art198 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art198), art42_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art42_cpt), art28 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art28), art101_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art101_cpt), art19-1_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_par2), art167_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art167_cpt), art166 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166), art33 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art33), art50_par10 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par10), art166_par1-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par1-1), art166-1_par10 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par10), art19-1_par6 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_par6), art52_cpt_inc3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc3), art158_par1-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art158_par1-2), art167_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art167_par2), art52-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52-2), art52_cpt_inc9 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc9), art50_par15 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par15), art52_par4_inc4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par4_inc4), art166-1_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par2), art92_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art92_cpt), art158 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art158), art19_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19_cpt), art52_cpt_inc7 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc7), art151_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art151_par1), art50_par5-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par5-1), art198_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art198_cpt), art41_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art41_par1), art166-1_par11 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par11), art19-1_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_par1), art136 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art136), art155_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art155_cpt), art166_par5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par5), art52_cpt_inc11 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc11), art197-5_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-5_par2), art50_par5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par5), art197-5_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-5_par3), art50_par5-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par5-2), art50 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50), art158_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art158_par1), art19 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19), art52_par4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par4), art197-3_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-3_par2), art166-1_par6 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par6), art158_par1-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art158_par1-1), art28_par4-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art28_par4-1), art42 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art42), art51_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art51_par1), art197-6 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-6), art166-1_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par3), art101_par12 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art101_par12), art52-3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52-3), art51_par1_inc2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art51_par1_inc2), art152_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art152_par2), art166_par1-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par1-2), art50_par3-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par3-2), art151_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art151_cpt), art100_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art100_par1), art166-1_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_cpt), art19-1_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_cpt), art198_cpt_inc7 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art198_cpt_inc7), art47 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art47), art197-3_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-3_cpt), art50_par5-3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par5-3), art197-6_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-6_par1), art100 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art100), art46_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art46_par3), art199_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art199_cpt), art52_cpt_inc12 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc12), art166-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1), art28_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art28_cpt), art19-1_par5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_par5), art197-5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-5), art197-3_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-3_par1), art52_par10 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par10), art47_par9 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art47_par9), art47_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art47_cpt), art197-5_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-5_cpt), art42_par6 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art42_par6), art50_par6 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par6), art46_par7 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art46_par7), art155_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art155_par1), art201 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art201), art46_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art46_cpt), art152_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art152_cpt), art52_cpt_inc1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc1), art52-3_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52-3_par1), art28_par4-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art28_par4-2), art46_par6 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art46_par6), art19-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1), art92_cpt_inc5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art92_cpt_inc5), art197-5_par5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-5_par5), art50_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_cpt), art166-1_par5 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par5), art100_par1_inc10 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art100_par1_inc10), art198_cpt_inc2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art198_cpt_inc2), art166_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par3), art33_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art33_cpt), art51_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art51_cpt), art101_par10 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art101_par10), art152 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art152), art100_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art100_cpt), art52-3_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52-3_cpt), art19_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19_par3), art197-3_par3 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art197-3_par3), art166-1_par4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par4), art166_par6 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166_par6), art19-1_par4 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art19-1_par4), art52 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52), art92 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art92), art52_par13 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par13), art46 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art46), art52_cpt_inc13 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_cpt_inc13), art50_par3-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par3-1), art50_par7 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art50_par7), art41_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art41_cpt), art52_par2-2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par2-2), art166-1_par9 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art166-1_par9), art155_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art155_par2), art39_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art39_cpt), art201_cpt -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art201_cpt), art52-3_par2 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52-3_par2), art101 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art101), art52_par2-1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art52_par2-1), art39 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art39), art39_par1 -> PrefixMatch(URN(1990,Some((7,13)),,urn:lex:br:federal:lei:1990-07-13;8069),art39_par1)))))-->
+              <Artigo xlink:href="art19" id="art1_cpt_alt1_art19" abreAspas="s">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput xlink:href="art19_cpt" id="art1_cpt_alt1_art19_cpt">
+            
+            
+            
+            <p>Toda criança ou adolescente tem direito de ser criado e educado no seio de sua família natural ou em família substituta, assegurada a convivência familiar e comunitária em ambiente que garanta seu desenvolvimento integral.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art19_omi1"/><Paragrafo xlink:href="art19_par3" id="art1_cpt_alt1_art19_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A manutenção ou a reintegração de criança ou adolescente à sua família natural ou extensa deve ocorrer quando esta for a solução que melhor atenda ao seu superior interesse, caso em que a família poderá ser incluída em serviços e programas de proteção, apoio e promoção, nos termos do § 1º do art. 23, dos incisos I e IV do caput do art. 101 e dos incisos I a IV do caput do art. 129 desta Lei.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art19_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art19-1" id="art1_cpt_alt1_art19-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 19-A.</Rotulo>
+            
+            <Caput xlink:href="art19-1_cpt" id="art1_cpt_alt1_art19-1_cpt">
+            
+            
+            
+            <p>As crianças e adolescentes em acolhimento institucional ou familiar poderão participar de programas de apadrinhamento afetivo.</p>
+            
+          </Caput><Paragrafo xlink:href="art19-1_par1" id="art1_cpt_alt1_art19-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O apadrinhamento afetivo consiste em proporcionar à criança e ao adolescente vínculos externos à entidade de atendimento para fins de convivência familiar e comunitária e colaboração com o desenvolvimento da criança ou adolescente nos aspectos afetivo, social, moral, físico, cognitivo e educacional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art19-1_par2" id="art1_cpt_alt1_art19-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Podem ser padrinhos ou madrinhas afetivos pessoas maiores de dezoito anos, inscritos ou não nos cadastros de adoção, desde que cumpram os requisitos exigidos pelo programa de apadrinhamento afetivo de que fazem parte.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art19-1_par3" id="art1_cpt_alt1_art19-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O apadrinhamento afetivo independe do estado civil do interessado ou da existência de relação de parentesco com o afilhado, respeitada a diferença de dez anos de idade entre afilhados e padrinhos ou madrinhas.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art19-1_par4" id="art1_cpt_alt1_art19-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Crianças e adolescentes com remota possibilidade de reintegração familiar ou colocação em família adotiva são o público prioritário para participar de programas de apadrinhamento afetivo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art19-1_par5" id="art1_cpt_alt1_art19-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Os programas ou serviços de apadrinhamento afetivo apoiados pela Justiça da Infância e da Juventude poderão ser executados diretamente por esta, por órgãos públicos ou por organizações não governamentais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art19-1_par6" id="art1_cpt_alt1_art19-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Ocorrendo violação das regras de apadrinhamento afetivo, os responsáveis pelo programa ou pelas entidades de acolhimento deverão imediatamente notificar o ocorrido à autoridade judiciária competente.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art19-1_par7" id="art1_cpt_alt1_art19-1_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Pessoas jurídicas podem apadrinhar crianças e adolescentes, nos termos deste artigo, por meio do oferecimento de auxílios e serviços que contribuam para o desenvolvimento infantil e juvenil.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art28" id="art1_cpt_alt1_art28" abreAspas="s">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput xlink:href="art28_cpt" id="art1_cpt_alt1_art28_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art28_omi1"/><Paragrafo xlink:href="art28_par4" id="art1_cpt_alt1_art28_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os grupos de irmãos serão colocados sob adoção, tutela ou guarda da mesma família.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art28_par4-1" id="art1_cpt_alt1_art28_par4-1">
+            
+            
+            <Rotulo>§ 4º-A.</Rotulo>
+            <p>Na hipótese de haver dificuldade de inserção de todos os irmãos em um único núcleo familiar, a adoção, tutela ou guarda poderá ser levada a efeito em famílias distintas, assumindo os guardiões, tutores ou adotantes o compromisso de manter os vínculos fraternais.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art28_par4-2" id="art1_cpt_alt1_art28_par4-2">
+            
+            
+            <Rotulo>§ 4º-B.</Rotulo>
+            <p>Será dada preferência para adotar criança ou adolescente a quem já adotou criança, adolescente ou grupo de irmãos do mesmo núcleo familiar.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art28_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art33" id="art1_cpt_alt1_art33" abreAspas="s">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput xlink:href="art33_cpt" id="art1_cpt_alt1_art33_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art33_omi1"/><Paragrafo xlink:href="art33_par3" id="art1_cpt_alt1_art33_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A guarda, inclusive deferida como providência antecipada ou cautelar, confere à criança ou ao adolescente a condição de dependente, para todos os fins e efeitos de direito, inclusive previdenciários, tributários e de plano de saúde, observada a carência do titular do plano de saúde.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art33_omi2" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art39" id="art1_cpt_alt1_art39" abreAspas="s">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput xlink:href="art39_cpt" id="art1_cpt_alt1_art39_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art39_par1" id="art1_cpt_alt1_art39_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A adoção é medida irrevogável, à qual se deve recorrer após as tentativas de manutenção da criança ou adolescente na família natural ou extensa, na forma do parágrafo único do art. 25, ou quando restar evidenciado que a reintegração familiar se mostra desaconselhável para o pleno desenvolvimento da criança ou adolescente.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art39_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art41" id="art1_cpt_alt1_art41" abreAspas="s">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput xlink:href="art41_cpt" id="art1_cpt_alt1_art41_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art41_par1" id="art1_cpt_alt1_art41_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Quando o cônjuge ou o companheiro adotar o filho do outro, mantêm-se os vínculos de filiação já existentes, a não ser que exista causa que justifique a desconstituição do poder familiar do genitor.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art41_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art42" id="art1_cpt_alt1_art42" abreAspas="s">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput xlink:href="art42_cpt" id="art1_cpt_alt1_art42_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art42_omi1"/><Paragrafo xlink:href="art42_par6" id="art1_cpt_alt1_art42_par6" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>A adoção poderá ser deferida ao adotante que, após inequívoca manifestação de vontade, vier a falecer no curso do procedimento, antes de prolatada a sentença, vedada a desistência da ação no lugar do falecido pelos seus sucessores ou, quando se tratar de adoção conjunta, pelo adotante sobrevivente, ainda que este desista da adoção.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art46" id="art1_cpt_alt1_art46" abreAspas="s">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput xlink:href="art46_cpt" id="art1_cpt_alt1_art46_cpt">
+            
+            
+            
+            <p>A adoção será precedida de estágio de convivência com a criança ou adolescente, pelo prazo máximo de noventa dias, observadas a idade da criança ou adolescente e as peculiaridades do caso.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art46_omi1"/><Paragrafo xlink:href="art46_par3" id="art1_cpt_alt1_art46_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O estágio de convivência, em caso de adoção por pessoa ou casal residente ou domiciliado fora do País, será de no mínimo trinta e no máximo quarenta e cinco dias.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art46_omi2"/><Paragrafo xlink:href="art46_par5" id="art1_cpt_alt1_art46_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O prazo máximo estabelecido no caput poderá ser prorrogado por igual período, mediante decisão fundamentada da autoridade judiciária.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art46_par6" id="art1_cpt_alt1_art46_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O prazo previsto no § 3º é improrrogável, devendo, ao seu final, ser apresentado laudo fundamentado pela equipe técnica mencionada no § 4º, que deverá recomendar ou não à autoridade judicial o deferimento da adoção.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art46_par7" id="art1_cpt_alt1_art46_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O estágio de convivência será cumprido no território nacional, preferencialmente na comarca de residência da criança ou adolescente, ou a critério do juiz, em cidade limítrofe, respeitada, em qualquer hipótese, a competência do juízo da comarca de residência da criança.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art47" id="art1_cpt_alt1_art47" abreAspas="s">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput xlink:href="art47_cpt" id="art1_cpt_alt1_art47_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art47_omi1"/><Paragrafo xlink:href="art47_par9" id="art1_cpt_alt1_art47_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Terão prioridade de tramitação os processos de adoção em que o adotando for criança ou adolescente com deficiência, doença crônica ou com necessidades específicas de saúde, ou de grupos de irmãos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art47_par10" id="art1_cpt_alt1_art47_par10" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>O prazo máximo para conclusão da ação de adoção será de cento e vinte dias, prorrogáveis uma única vez, por igual período, mediante decisão fundamentada pela autoridade judiciária.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art50" id="art1_cpt_alt1_art50" abreAspas="s">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput xlink:href="art50_cpt" id="art1_cpt_alt1_art50_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art50_omi1"/><Paragrafo xlink:href="art50_par3-1" id="art1_cpt_alt1_art50_par3-1">
+            
+            
+            <Rotulo>§ 3º-A.</Rotulo>
+            <p>Concluída a etapa preparatória, os postulantes devem indicar o perfil da criança ou adolescente que desejam adotar.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par3-2" id="art1_cpt_alt1_art50_par3-2">
+            
+            
+            <Rotulo>§ 3º-B.</Rotulo>
+            <p>A modificação do perfil pode ser levada a efeito a qualquer momento, mediante comunicação motivada dos postulantes, e será efetivada, de imediato, no registro e no cadastro.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art50_omi2"/><Paragrafo xlink:href="art50_par5" id="art1_cpt_alt1_art50_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Serão criados e implementados cadastros locais, estaduais e nacional de crianças e adolescentes em condições de serem adotados e de pessoas habilitadas à adoção.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par5-1" id="art1_cpt_alt1_art50_par5-1">
+            
+            
+            <Rotulo>§ 5º-A.</Rotulo>
+            <p>Os cadastros locais, estaduais e o cadastro nacional devem ser integrados.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par5-2" id="art1_cpt_alt1_art50_par5-2">
+            
+            
+            <Rotulo>§ 5º-B.</Rotulo>
+            <p>No momento da busca de postulantes habilitados, deve-se consultar primeiro o cadastro local, em seguida o cadastro estadual e, por último, o cadastro nacional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par5-3" id="art1_cpt_alt1_art50_par5-3">
+            
+            
+            <Rotulo>§ 5º-C.</Rotulo>
+            <p>A inscrição de crianças e adolescentes nos cadastros de adoção poderá ocorrer após a suspensão do poder familiar, nos casos em que esta lei preveja a possibilidade de concessão da guarda provisória para fins de adoção, nas ações de destituição de poder familiar sentenciadas, desde que não haja recurso com efeito suspensivo tramitando e, em caráter excepcional, uma vez constatado que a criança ou o adolescente se encontra em situação de risco.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par6" id="art1_cpt_alt1_art50_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Haverá cadastro distinto para pretendentes residentes fora do País, alimentado com dados fornecidos pelos organismos nacionais e estrangeiros encarregados de intermediar pedidos de habilitação à adoção internacional, que será consultado na existência de crianças ou adolescentes disponíveis para adoção pelas quais não exista interesse manifesto pelos postulantes habilitados residentes no país.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art50_par7" id="art1_cpt_alt1_art50_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>As autoridades estaduais e federais em matéria de adoção nacional e internacional, incluída a Autoridade Central Administrativa Federal, terão acesso integral aos cadastros, incumbindo-lhes a troca de informações e a cooperação mútua, para melhoria do sistema.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art50_omi3"/><Paragrafo xlink:href="art50_par10" id="art1_cpt_alt1_art50_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Consultado o cadastro e verificada, naquela data, a ausência de pretendentes habilitados residentes no país com perfil compatível e interesse manifesto pela adoção de criança ou adolescente inscrito nos cadastros existentes, será realizado o encaminhamento imediato da criança ou adolescente à adoção internacional.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art50_omi4"/><Paragrafo xlink:href="art50_par15" id="art1_cpt_alt1_art50_par15" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 15.</Rotulo>
+            <p>Será assegurada prioridade no cadastro a pessoas interessadas em adotar crianças e adolescentes com deficiência, doença crônica ou com necessidades específicas de saúde, ou grupo de irmãos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art51" id="art1_cpt_alt1_art51" abreAspas="s">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput xlink:href="art51_cpt" id="art1_cpt_alt1_art51_cpt">
+            <!--Link: urn:lex:br:federal:decreto:1999-06-21;3087-->
+            
+            
+            <p>Considera-se adoção internacional aquela na qual o pretendente possui residência habitual em país ratificante da Convenção de Haia, de 29 de maio de 1993, relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional, promulgada pelo <span xlink:href="urn:lex:br:federal:decreto:1999-06-21;3087">Decreto nº 3.087, de 21 de junho de 1999</span>, e deseje adotar criança em outro país ratificante do tratado.</p>
+            
+          </Caput><Paragrafo xlink:href="art51_par1" id="art1_cpt_alt1_art51_par1" textoOmitido="s">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art51_par1_omi1"/><Inciso xlink:href="art51_par1_inc2" id="art1_cpt_alt1_art51_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a inexistência, certificada nos autos, de pretendentes habilitados residentes no Brasil, com o perfil compatível com a criança ou adolescente, após consulta aos cadastros de que trata o art. 50.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art51_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art52" id="art1_cpt_alt1_art52" abreAspas="s">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput xlink:href="art52_cpt" id="art1_cpt_alt1_art52_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art52_cpt_inc1" id="art1_cpt_alt1_art52_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o pretendente residente no exterior, interessado em adotar criança ou adolescente residente no Brasil, deverá formular pedido de habilitação à adoção perante a Autoridade Central em matéria de adoção internacional no país de acolhida, assim entendido como aquele de sua residência habitual;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art52_cpt_omi1"/><Inciso xlink:href="art52_cpt_inc3" id="art1_cpt_alt1_art52_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a Autoridade Central do país de acolhida enviará o relatório à Autoridade Central Estadual, com cópia à Autoridade Central Administrativa Federal, cabendo à primeira decidir sobre a habilitação do interessado no prazo de sessenta dias, contado da data de recebimento, procedendo a sua inscrição nos cadastros mencionados nesta Lei;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art52_cpt_omi2"/><Inciso xlink:href="art52_cpt_inc7" id="art1_cpt_alt1_art52_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>após estudo realizado pela Autoridade Central Estadual, verificada a compatibilidade da legislação estrangeira com a nacional e o preenchimento por parte dos pretendentes dos requisitos objetivos e subjetivos necessários ao seu deferimento, tanto à luz do que dispõe esta Lei como da legislação do país de acolhida, será expedido laudo de habilitação à adoção internacional;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art52_cpt_omi3"/><Inciso xlink:href="art52_cpt_inc9" id="art1_cpt_alt1_art52_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>o pretendente residente no Brasil, interessado em adotar criança ou adolescente com residência habitual em país ratificante da Convenção de Haia, deverá formular pedido de habilitação à adoção perante a autoridade judicial da comarca de sua residência, na forma do art. 197-A;</p>
+            
+          </Inciso><Inciso xlink:href="art52_cpt_inc10" id="art1_cpt_alt1_art52_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>depois de transitada em julgado a sentença de habilitação, a autoridade judicial da comarca remeterá os autos do processo à Autoridade Central Estadual, com a indicação do país de origem da criança ou adolescente;</p>
+            
+          </Inciso><Inciso xlink:href="art52_cpt_inc11" id="art1_cpt_alt1_art52_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>a Autoridade Central Estadual emitirá laudo de habilitação para adoção internacional que será instruído com a documentação prevista no art. 197-A, o estudo psicossocial referido no art. 197-C, cópias da sentença e da certidão do trânsito em julgado e cópia da legislação pertinente, acompanhada da respectiva prova de vigência;</p>
+            
+          </Inciso><Inciso xlink:href="art52_cpt_inc12" id="art1_cpt_alt1_art52_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>os documentos deverão ser devidamente traduzidos por tradutor público juramentado, autenticados pela autoridade consular, observados os tratados em vigor; e</p>
+            
+          </Inciso><Inciso xlink:href="art52_cpt_inc13" id="art1_cpt_alt1_art52_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>a Autoridade Central Estadual enviará os documentos à Autoridade Central Administrativa Federal, que os encaminhará à Autoridade Central do país de origem da criança ou adolescente, com vistas à habilitação do pretendente no exterior.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art52_omi1"/><Paragrafo xlink:href="art52_par2" id="art1_cpt_alt1_art52_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Incumbe à Autoridade Central Administrativa Federal o credenciamento de organismos nacionais e estrangeiros encarregados de intermediar pedidos de habilitação à adoção internacional, a comunicação às Autoridades Centrais Estaduais e a publicação nos órgãos oficiais de imprensa e em sítio próprio da internet, vedada a recusa pela Autoridade Central Estadual do organismo credenciado pela Autoridade Central Administrativa Federal.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art52_par2-1" id="art1_cpt_alt1_art52_par2-1">
+            
+            
+            <Rotulo>§ 2º-A.</Rotulo>
+            <p>O requerimento de credenciamento dos organismos nacionais que desejem atuar em matéria de adoção internacional em outros países deverá ser dirigido à Autoridade Central Administrativa Federal, observadas as exigências estabelecidas nesta Lei.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art52_par2-2" id="art1_cpt_alt1_art52_par2-2">
+            
+            
+            <Rotulo>§ 2º-B.</Rotulo>
+            <p>É vedada a atuação de organismos ou agências nacionais na intermediação de adoção de crianças estrangeiras por residentes no Brasil sem o prévio credenciamento pela Autoridade Central Administrativa Federal.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art52_omi2"/><Paragrafo xlink:href="art52_par4" id="art1_cpt_alt1_art52_par4" textoOmitido="s">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art52_par4_omi1"/><Inciso xlink:href="art52_par4_inc4" id="art1_cpt_alt1_art52_par4_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>apresentar à Autoridade Central Administrativa Federal, anualmente, relatório geral das atividades desenvolvidas e relatório das adoções internacionais efetuadas no período, cuja cópia será encaminhada ao Departamento de Polícia Federal.</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art52_omi3"/><Paragrafo xlink:href="art52_par10" id="art1_cpt_alt1_art52_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>A Autoridade Central Administrativa Federal poderá, a qualquer momento, solicitar informações e diligências sobre a situação das crianças e adolescentes adotados a quaisquer autoridades públicas nacionais, órgãos da administração pública, federal, estadual, distrital ou municipal, a serem realizadas no Brasil ou no exterior.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art52_omi4"/><Paragrafo xlink:href="art52_par13" id="art1_cpt_alt1_art52_par13">
+            
+            
+            <Rotulo>§ 13.</Rotulo>
+            <p>A habilitação de postulante domiciliado fora do Brasil terá validade por 2 (dois) anos, podendo ser renovada uma única vez, por igual período.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art52_omi5"/><Paragrafo xlink:href="art52_par16" id="art1_cpt_alt1_art52_par16" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 16.</Rotulo>
+            <p>Ficam dispensadas as autenticações e traduções juramentadas dos documentos necessários para o processo de adoção internacional sempre que estes forem tramitados por intermédio das Autoridades Centrais competentes, bastando a apresentação de traduções simples, acompanhadas do texto original.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art52-2" id="art1_cpt_alt1_art52-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 52-B.</Rotulo>
+            
+            <Caput xlink:href="art52-2_cpt" id="art1_cpt_alt1_art52-2_cpt">
+            
+            
+            
+            <p>A adoção realizada por brasileiro residente no exterior em país ratificante da Convenção de Haia, cujo processo de adoção tenha sido processado em conformidade com a legislação vigente no país de residência, será automaticamente reconhecida com o reingresso no Brasil, dispensando-se a homologação da sentença estrangeira junto ao Superior Tribunal de Justiça sempre que esta tenha sido objeto de comunicação ao consulado brasileiro com jurisdição sobre o local onde a adoção foi deferida.</p>
+            
+          </Caput><Omissis id="art1_cpt_alt1_art52-2_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art52-3" id="art1_cpt_alt1_art52-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 52-C.</Rotulo>
+            
+            <Caput xlink:href="art52-3_cpt" id="art1_cpt_alt1_art52-3_cpt">
+            
+            
+            
+            <p>Nas adoções internacionais em que o Brasil for o país de acolhida, a sentença de adoção proferida pela autoridade competente do país de origem da criança ou do adolescente será conhecida pela Autoridade Central Administrativa Federal e pela Autoridade Central Estadual competente, que determinará a adoção das providências necessárias à expedição do Certificado de Naturalização Provisório, resguardado o direito da criança ou adolescente de optar pela nacionalidade brasileira após completar dezoito anos se cumpridos os demais requisitos.</p>
+            
+          </Caput><Paragrafo xlink:href="art52-3_par1" id="art1_cpt_alt1_art52-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Se restar demonstrado que a adoção é manifestamente contrária à ordem pública ou que não atende ao interesse superior da criança ou do adolescente, a Autoridade Central Estadual, ouvido o Ministério Público e por decisão fundamentada, deixará de adotar as providências mencionadas no caput.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art52-3_par2" id="art1_cpt_alt1_art52-3_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese prevista no §1º, o Ministério Público deverá imediatamente requerer o que for de direito para resguardar os interesses da criança ou do adolescente, comunicando as providências à Autoridade Central Estadual, que informará a Autoridade Central Administrativa Federal, para que a informação seja transmitida à Autoridade Central do país de origem.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art92" id="art1_cpt_alt1_art92" abreAspas="s">
+            
+            
+            <Rotulo>Art. 92.</Rotulo>
+            
+            <Caput xlink:href="art92_cpt" id="art1_cpt_alt1_art92_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art92_cpt_inc1" id="art1_cpt_alt1_art92_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>preservação dos vínculos familiares e promoção da reintegração com os pais ou com a família extensa, uma vez comprovada a existência de vínculo de afinidade e afetividade;</p>
+            
+          </Inciso><Inciso xlink:href="art92_cpt_inc2" id="art1_cpt_alt1_art92_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>integração em família substituta sob a forma de guarda, tutela ou adoção, em atendimento ao melhor interesse da criança ou adolescente, sempre que restar evidenciado pela equipe interprofissional a serviço da Justiça da Infância e Juventude que a reintegração familiar seja desaconselhável para o desenvolvimento integral da criança ou adolescente;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art92_cpt_omi1"/><Inciso xlink:href="art92_cpt_inc5" id="art1_cpt_alt1_art92_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>não desmembramento de grupos de irmãos, que devem ser mantidos na mesma instituição de acolhimento;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art92_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art100" id="art1_cpt_alt1_art100" abreAspas="s">
+            
+            
+            <Rotulo>Art. 100.</Rotulo>
+            
+            <Caput xlink:href="art100_cpt" id="art1_cpt_alt1_art100_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art100_par1u" id="art1_cpt_alt1_art100_par1u" textoOmitido="s">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            
+            <Omissis id="art1_cpt_alt1_art100_par1u_omi1"/><Inciso xlink:href="art100_par1u_inc10" id="art1_cpt_alt1_art100_par1u_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>prevalência da família: na promoção de direitos e na proteção da criança e do adolescente deve ser dada prevalência às medidas que os mantenham ou reintegrem na sua família natural ou extensa ou que promovam a sua integração em família substituta;</p>
+            
+          </Inciso>
+          </Paragrafo><Omissis id="art1_cpt_alt1_art100_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art101" id="art1_cpt_alt1_art101" abreAspas="s">
+            
+            
+            <Rotulo>Art. 101.</Rotulo>
+            
+            <Caput xlink:href="art101_cpt" id="art1_cpt_alt1_art101_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art101_omi1"/><Paragrafo xlink:href="art101_par10" id="art1_cpt_alt1_art101_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Recebido o relatório, o Ministério Público terá o prazo de 30 (trinta) dias para o ingresso com a ação de destituição do poder familiar, prorrogáveis por igual período, se entender necessária a realização de estudos complementares ou outras providências indispensáveis ao ajuizamento da demanda.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art101_omi2"/><Paragrafo xlink:href="art101_par12" id="art1_cpt_alt1_art101_par12" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>Terão acesso ao cadastro o Ministério Público, o Conselho Tutelar, os Grupos de Apoio à Adoção habilitados junto à Justiça da Infância e Juventude, o órgão gestor da Assistência Social e os Conselhos Municipais dos Direitos da Criança e do Adolescente e da Assistência Social, aos quais incumbe deliberar sobre a implementação de políticas públicas que permitam reduzir o número de crianças e adolescentes afastados do convívio familiar e abreviar o período de permanência em programa de acolhimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art136" id="art1_cpt_alt1_art136" abreAspas="s">
+            
+            
+            <Rotulo>Art. 136.</Rotulo>
+            
+            <Caput xlink:href="art136_cpt" id="art1_cpt_alt1_art136_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art136_cpt_omi1"/><Inciso xlink:href="art136_cpt_inc11" id="art1_cpt_alt1_art136_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>representar ao Ministério Público, para efeito das ações de perda ou suspensão do poder familiar.</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art136_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art151" id="art1_cpt_alt1_art151" abreAspas="s">
+            
+            
+            <Rotulo>Art. 151.</Rotulo>
+            
+            <Caput xlink:href="art151_cpt" id="art1_cpt_alt1_art151_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art151_par1u" id="art1_cpt_alt1_art151_par1u" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art156-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na ausência ou insuficiência de servidores públicos integrantes do Poder Judiciário responsáveis pela realização dos estudos psicossociais ou quaisquer outras espécies de avaliações técnicas exigidas por esta Lei ou por determinação judicial, a autoridade judiciária poderá proceder à nomeação de perito, nos termos do <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art156">art. 156 da Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil).</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art152" id="art1_cpt_alt1_art152" abreAspas="s">
+            
+            
+            <Rotulo>Art. 152.</Rotulo>
+            
+            <Caput xlink:href="art152_cpt" id="art1_cpt_alt1_art152_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art152_omi1"/><Paragrafo xlink:href="art152_par2" id="art1_cpt_alt1_art152_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os prazos estabelecidos nesta Lei e aplicáveis aos seus procedimentos são contados em dias corridos, excluindo-se o dia do começo e incluindo-se o dia do vencimento, não se interrompem ou se suspendem nos dias em que não houver expediente forense, sendo vedado o prazo em dobro para a Fazenda Pública, o Ministério Público e a Defensoria Pública.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art155" id="art1_cpt_alt1_art155" abreAspas="s">
+            
+            
+            <Rotulo>Art. 155.</Rotulo>
+            
+            <Caput xlink:href="art155_cpt" id="art1_cpt_alt1_art155_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art155_par1" id="art1_cpt_alt1_art155_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A ação de suspensão ou perda do poder familiar será promovida tão logo constatado que a permanência da criança ou adolescente junto à família natural não atende ao seu superior interesse e quando não tenha se apresentado alguém da família extensa pretendendo a sua guarda.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art155_par2" id="art1_cpt_alt1_art155_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A ação de que trata o § 1º poderá ser cumulada com a de adoção quando a guarda provisória tiver sido concedida a quem esteja habilitado a adotar.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art158" id="art1_cpt_alt1_art158" abreAspas="s">
+            
+            
+            <Rotulo>Art. 158.</Rotulo>
+            
+            <Caput xlink:href="art158_cpt" id="art1_cpt_alt1_art158_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art158_par1" id="art1_cpt_alt1_art158_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A citação será pessoal, por meio de oficial de justiça.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art158_par1-1" id="art1_cpt_alt1_art158_par1-1">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105-->
+            
+            <Rotulo>§ 1º-A.</Rotulo>
+            <p>Quando, por duas vezes, o oficial de justiça houver procurado o citando em seu domicílio ou residência sem o encontrar e se houver suspeita de ocultação, deverá informar qualquer pessoa da família ou, em sua falta, qualquer vizinho do dia útil em que voltará a fim de efetuar a citação, na hora que designar, nos termos do art. 252 e seguintes da <span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105">Lei nº 13.105, de 16 de março de 2015</span> (Código de Processo Civil).</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art158_par1-2" id="art1_cpt_alt1_art158_par1-2">
+            
+            
+            <Rotulo>§ 1º-B.</Rotulo>
+            <p>Na hipótese de os genitores se encontrarem em local incerto e não sabido, serão citados por edital, com o prazo máximo de dez dias, em publicação única, sendo dispensado o envio de ofícios para a localização.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art158_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art166" id="art1_cpt_alt1_art166" abreAspas="s">
+            
+            
+            <Rotulo>Art. 166.</Rotulo>
+            
+            <Caput xlink:href="art166_cpt" id="art1_cpt_alt1_art166_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art166_par1" id="art1_cpt_alt1_art166_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na hipótese de concordância dos pais, o juiz ouvirá as partes, devidamente assistidas por advogado ou defensor público, na presença do Ministério Público, no prazo máximo de dez dias, contado da data do protocolo da petição ou da entrega da criança em juízo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166_par1-1" id="art1_cpt_alt1_art166_par1-1">
+            
+            
+            <Rotulo>§ 1º-A.</Rotulo>
+            <p>Havendo consentimento para adoção, o juiz declarará extinto o poder familiar e colocará a criança ou adolescente preferencialmente sob a guarda provisória de quem estiver habilitado a adotá-la ou em entidade que desenvolva programa de acolhimento familiar ou institucional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166_par1-2" id="art1_cpt_alt1_art166_par1-2">
+            
+            
+            <Rotulo>§ 1º-B.</Rotulo>
+            <p>O juiz poderá suspender o poder familiar quando identificar que a possibilidade de adoção da criança ou adolescente é remota.</p>
+            
+          </Paragrafo><Omissis id="art1_cpt_alt1_art166_omi1"/><Paragrafo xlink:href="art166_par3" id="art1_cpt_alt1_art166_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Será garantida a livre manifestação de vontade dos detentores do poder familiar e o direito ao sigilo das informações.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166_par4" id="art1_cpt_alt1_art166_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O consentimento prestado por escrito não terá validade se não for ratificado na audiência a que se refere o § 1º deste artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166_par5" id="art1_cpt_alt1_art166_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O consentimento é retratável até a data da realização da audiência especificada no § 1º, e os pais podem exercer o arrependimento no prazo de dez dias, contados da intimação da decisão de extinção do poder familiar.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166_par6" id="art1_cpt_alt1_art166_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O consentimento somente produzirá efeitos se for ratificado após o nascimento da criança.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166_par7" id="art1_cpt_alt1_art166_par7" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A família natural e a família substituta receberão a devida orientação por intermédio de equipe técnica interprofissional a serviço da Justiça da Infância e Juventude, preferencialmente com apoio dos técnicos responsáveis pela execução da política municipal de garantia do direito à convivência familiar.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art166-1" id="art1_cpt_alt1_art166-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 166-A.</Rotulo>
+            
+            <Caput xlink:href="art166-1_cpt" id="art1_cpt_alt1_art166-1_cpt">
+            
+            
+            
+            <p>A gestante ou mãe que manifeste interesse, antes e logo após o nascimento, em entregar seu filho para adoção será obrigatoriamente encaminhada à Justiça da Infância e da Juventude.</p>
+            
+          </Caput><Paragrafo xlink:href="art166-1_par1" id="art1_cpt_alt1_art166-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A gestante ou mãe será ouvida pela equipe interprofissional da Justiça da Infância e da Juventude, que realizará o aconselhamento e orientação sobre o processo de adoção, consultará a gestante ou mãe se há interesse em indicar pai ou família extensa em condições de assumir a responsabilidade legal pela criança e apresentará relatório à autoridade judiciária.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par2" id="art1_cpt_alt1_art166-1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>De posse do relatório e se entender necessário, a autoridade judiciária poderá determinar o encaminhamento da gestante ou mãe, mediante expressa concordância, à rede pública de saúde para atendimento.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par3" id="art1_cpt_alt1_art166-1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Após o nascimento da criança, a vontade da mãe ou de ambos os genitores, se houver pai registral ou pai indicado, deve ser manifestada na audiência a que se refere o § 1º do art. 166.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par4" id="art1_cpt_alt1_art166-1_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se a mãe decidir por não fazer a indicação do pai, que não tenha registrado a criança, ou de família extensa para o exercício do poder familiar ou da guarda, ficam dispensadas a citação ou intimação dessas pessoas, bem como a realização dos esforços para a manutenção da criança na família natural ou extensa, garantido, ainda, o sigilo sobre a entrega para adoção.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par5" id="art1_cpt_alt1_art166-1_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Na hipótese de não comparecerem à audiência a que se refere o § 1º do art. 166 nem o pai indicado nem representante da família extensa para expressar o interesse em exercer o poder familiar ou a guarda, consentindo a mãe com colocação em família substituta, a autoridade judiciária extinguirá o poder familiar da mãe e a criança será colocada preferencialmente sob a guarda provisória de quem estiver habilitado a adotá-la ou em entidade que desenvolva programa de acolhimento familiar ou institucional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par6" id="art1_cpt_alt1_art166-1_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Após a colocação da criança sob a guarda provisória de quem estiver habilitado a adotá-la, nos termos do § 4º, e esgotado o prazo de arrependimento da mãe, a preferência será pela adoção em curso.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par7" id="art1_cpt_alt1_art166-1_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>Os guardiões terão prazo de 15 (quinze) dias para propor a ação de adoção, contado do dia seguinte à data de início da guarda provisória.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par8" id="art1_cpt_alt1_art166-1_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O pai indicado que comparecer à audiência a que se refere o § 1º do art. 166 somente se manifestará sobre a colocação em família substituta se houver o reconhecimento da paternidade da criança.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par9" id="art1_cpt_alt1_art166-1_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>O membro da família extensa indicado pela mãe que comparecer à audiência a que se refere o § 1º do art. 166 e manifestar interesse pela adoção poderá receber a guarda provisória para fins de adoção.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par10" id="art1_cpt_alt1_art166-1_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Será garantido à genitora o direito de não registrar o filho e o sigilo sobre o nascimento, respeitados o disposto no art. 48 e os procedimentos previstos no presente artigo.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art166-1_par11" id="art1_cpt_alt1_art166-1_par11" fechaAspas="s">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>Serão cadastrados para adoção recém-nascidos e crianças acolhidas sem pais conhecidos não procuradas por suas famílias no prazo de trinta dias contados a partir do dia do acolhimento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art167" id="art1_cpt_alt1_art167" abreAspas="s">
+            
+            
+            <Rotulo>Art. 167.</Rotulo>
+            
+            <Caput xlink:href="art167_cpt" id="art1_cpt_alt1_art167_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art167_omi1"/><Paragrafo xlink:href="art167_par2" id="art1_cpt_alt1_art167_par2" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A guarda provisória no procedimento de adoção terá validade até a prolação da sentença, ressalvadas as hipóteses de revogação ou modificação da medida, mediante ato judicial fundamentado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art197-3" id="art1_cpt_alt1_art197-3" abreAspas="s">
+            
+            
+            <Rotulo>Art. 197-C.</Rotulo>
+            
+            <Caput xlink:href="art197-3_cpt" id="art1_cpt_alt1_art197-3_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art197-3_par1" id="art1_cpt_alt1_art197-3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É obrigatória a participação dos postulantes em programa oferecido pela Justiça da Infância e da Juventude preferencialmente com apoio dos técnicos responsáveis pela execução da política municipal de garantia do direito à convivência familiar e grupos de apoio à adoção devidamente habilitados junto à Justiça da Infância e da Juventude, que inclua preparação psicológica, orientação e estímulo à adoção interracial, de crianças ou de adolescentes com necessidades específicas de saúde, com deficiência e de grupos de irmãos.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art197-3_par2" id="art1_cpt_alt1_art197-3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É recomendável que na etapa obrigatória da preparação referida no § 1º seja incluído o contato dos pretendentes à adoção com crianças e adolescentes acolhidos, realizado sob supervisão da equipe técnica da Justiça da Infância e da Juventude e com apoio dos técnicos dos programas de acolhimento e dos grupos de apoio à adoção, devendo ser mantido o contato mesmo após o deferimento judicial da habilitação.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art197-3_par3" id="art1_cpt_alt1_art197-3_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É recomendável que as crianças e adolescentes acolhidos institucionalmente ou por família acolhedora sejam preparados por equipe interprofissional, antes da inclusão em família adotiva.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art197-5" id="art1_cpt_alt1_art197-5" abreAspas="s">
+            
+            
+            <Rotulo>Art. 197-E.</Rotulo>
+            
+            <Caput xlink:href="art197-5_cpt" id="art1_cpt_alt1_art197-5_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art1_cpt_alt1_art197-5_omi1"/><Paragrafo xlink:href="art197-5_par2" id="art1_cpt_alt1_art197-5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A habilitação à adoção deverá ser renovada no mínimo trienalmente mediante avaliação por equipe interprofissional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art197-5_par3" id="art1_cpt_alt1_art197-5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando o adotante se candidatar a nova adoção, será dispensável renovar a habilitação e bastará avaliação por equipe interprofissional.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art197-5_par4" id="art1_cpt_alt1_art197-5_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Após 3 (três) recusas injustificadas pelo habilitado à adoção de crianças ou adolescentes indicados dentro do perfil escolhido, haverá reavaliação da habilitação concedida.</p>
+            
+          </Paragrafo><Paragrafo xlink:href="art197-5_par5" id="art1_cpt_alt1_art197-5_par5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A desistência do pretendente em relação à guarda para fins de adoção ou a devolução da criança ou do adolescente depois do trânsito em julgado da sentença de adoção poderá importar na exclusão dos cadastros de adoção e vedação de renovação da habilitação, salvo decisão judicial fundamentada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art197-6" id="art1_cpt_alt1_art197-6" abreAspas="s">
+            
+            
+            <Rotulo>Art. 197-F.</Rotulo>
+            
+            <Caput xlink:href="art197-6_cpt" id="art1_cpt_alt1_art197-6_cpt">
+            
+            
+            
+            <p>O prazo máximo para a conclusão da habilitação de pretendentes à adoção será de 240 (duzentos e quarenta) dias, prorrogáveis por mais 60 (sessenta) dias mediante decisão fundamentada da autoridade judiciária.</p>
+            
+          </Caput><Paragrafo xlink:href="art197-6_par1u" id="art1_cpt_alt1_art197-6_par1u" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Terão prioridade de tramitação os processos de habilitação à adoção em que os pretendentes se disponham a adotar grupo de irmãos, criança acima de 8 (oito) anos de idade, crianças ou adolescentes com deficiência, doença crônica ou necessidades específicas de saúde.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo xlink:href="art198" id="art1_cpt_alt1_art198" abreAspas="s">
+            
+            
+            <Rotulo>Art. 198.</Rotulo>
+            
+            <Caput xlink:href="art198_cpt" id="art1_cpt_alt1_art198_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art198_cpt_omi1"/><Inciso xlink:href="art198_cpt_inc2" id="art1_cpt_alt1_art198_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>em todos os recursos, salvo nos embargos de declaração, o prazo para o Ministério Público e para a defesa será sempre de dez dias corridos;</p>
+            
+          </Inciso><Omissis id="art1_cpt_alt1_art198_cpt_omi2"/><Inciso xlink:href="art198_cpt_inc7" id="art1_cpt_alt1_art198_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>antes de determinar a remessa dos autos à superior instância, no caso de apelação, a autoridade judiciária proferirá despacho fundamentado, mantendo ou reformando a decisão, no prazo de cinco dias, sendo vedada a remessa de recursos intempestivos, e</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art198_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo><Artigo xlink:href="art199" id="art1_cpt_alt1_art199" abreAspas="s">
+            
+            
+            <Rotulo>Art. 199.</Rotulo>
+            
+            <Caput xlink:href="art199_cpt" id="art1_cpt_alt1_art199_cpt" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            
+            <p>Contra as decisões interlocutórias caberá recurso de agravo de instrumento, sem efeito suspensivo.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art201" id="art1_cpt_alt1_art201" abreAspas="s">
+            
+            
+            <Rotulo>Art. 201.</Rotulo>
+            
+            <Caput xlink:href="art201_cpt" id="art1_cpt_alt1_art201_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art1_cpt_alt1_art201_cpt_omi1"/><Inciso xlink:href="art201_cpt_inc3" id="art1_cpt_alt1_art201_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>promover e acompanhar as ações de alimentos e os procedimentos de suspensão e destituição do poder familiar, adoção, tutela, nomeação e remoção de tutores, curadores e guardiães e oficiar em todos os demais procedimentos da competência da Justiça da Infância e da Juventude;</p>
+            
+          </Inciso>
+          </Caput><Omissis id="art1_cpt_alt1_art201_omi1" fechaAspas="s" notaAlteracao="NR"/>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2002-01-10;10406-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:2002-01-10;10406">Lei nº 10.406, de 10 de janeiro de 2002</span> (Código Civil), passa a vigorar com as seguintes alterações:</p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:2002-01-10;10406" id="art2_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:2002-01-10;10406 -> MatchByBase(urn:lex:br:federal:lei:2002-01-10;10406,2002,Some((1,10)),Map(art1635_cpt_inc6 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1635_cpt_inc6), art1638_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_cpt), art1635 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1635), art1635_cpt -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1635_cpt), art1638_cpt_inc5 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638_cpt_inc5), art1638 -> PrefixMatch(URN(2002,Some((1,10)),,urn:lex:br:federal:lei:2002-01-10;10406),art1638)))))-->
+              <Artigo xlink:href="art1635" id="art2_cpt_alt1_art1635" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.635.</Rotulo>
+            
+            <Caput xlink:href="art1635_cpt" id="art2_cpt_alt1_art1635_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art1635_cpt_omi1"/><Inciso xlink:href="art1635_cpt_inc6" id="art2_cpt_alt1_art1635_cpt_inc6" fechaAspas="s" notaAlteracao="NR">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art166-->
+            
+            <Rotulo>VI –</Rotulo>
+            <p>por decisão judicial de homologação da entrega voluntária para fins de adoção, na forma do <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art166">art. 166 da Lei nº 8.069, de 13 de julho de 1990</span>.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo xlink:href="art1638" id="art2_cpt_alt1_art1638" abreAspas="s">
+            
+            
+            <Rotulo>Art. 1.638.</Rotulo>
+            
+            <Caput xlink:href="art1638_cpt" id="art2_cpt_alt1_art1638_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Omissis id="art2_cpt_alt1_art1638_cpt_omi1"/><Inciso xlink:href="art1638_cpt_inc5" id="art2_cpt_alt1_art1638_cpt_inc5" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>entregar de forma irregular o filho a terceiros para fins de adoção.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            <!--Link: urn:lex:br:federal:lei:1990-07-13;8069!art161_par4-->
+            
+            
+            <p>Fica revogado o <span xlink:href="urn:lex:br:federal:lei:1990-07-13;8069!art161_par4">§ 4º do art. 161 da Lei nº 8.069, de 13 de julho de 1990</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>
