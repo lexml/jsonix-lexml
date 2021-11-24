@@ -12,7 +12,7 @@ docker run -i --rm lexmlbr/jsonix-lexml:latest toxml < {arquivo_json.json} > {ar
 ```
 
 Também é possível executar o conversor diretamente, através do executável construído como descrito
-em sdasdasd:
+em [#Como compilar o conversor diretamente](#como-compilar-o-conversor-diretamente):
 ```
 jsonix-lexml-linux {tojson|toxml} [arq_entrada] [-o arq_saida]
 ```
