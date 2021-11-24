@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>local</groupId>
+  <artifactId>jaxb-launch</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0.0</version>
+  <dependencies>
+        <dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-core</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-impl</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.activation</groupId>
+            <artifactId>activation</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+	<dependency>
+	    <groupId>local</groupId>
+	    <artifactId>jsonix-schema-compiler-full</artifactId>
+	    <version>1.0.0</version>
+	</dependency>
+   </dependencies>
+<build>
+  <plugins>
+    <plugin>
+      <groupId>org.codehaus.mojo</groupId>
+      <artifactId>exec-maven-plugin</artifactId>
+      <configuration>
+        <mainClass>org.hisrc.jsonix.JsonixMain</mainClass>
+        <commandlineArgs>-generateJsonSchema -d mappings schemas/lexml-simples.xsd schemas/math.xsd schemas/xlink.xsd schemas/xml.xsd</commandlineArgs>
+      </configuration>
+    </plugin>
+  </plugins>
+</build>
+
+</project>

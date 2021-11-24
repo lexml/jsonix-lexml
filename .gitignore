@@ -1,1 +1,7 @@
-**/.*.swp
+mappings/
+node_modules/
+jsonix-linux-*
+**/*.swp
+jsonix-lexml-linux
+jsonix-lexml-macos
+jsonix-lexml-win.exe
