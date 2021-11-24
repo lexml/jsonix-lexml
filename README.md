@@ -2,7 +2,7 @@
 
 ## Como executar
 
-É possível executar o conversor diretamente da imagem docker:
+É possível executar o conversor diretamente de uma [imagem docker](https://hub.docker.com/repository/docker/lexmlbr/jsonix-lexml):
 
 ```
 # Para conversão de XML para JSON:
