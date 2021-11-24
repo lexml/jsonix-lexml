@@ -22,6 +22,9 @@ Onde:
   Se omitido, o conversor lê da entrada padrão.
 - `-o arq_saida` especifica o arquivo de saída. Se omitido, o conversor grava para a saída padrão.  
 
+Releases dos executáveis para os três ambientes suportados (Linux, MacOS X e Windows) podem
+ser encontrados na página de [releases](https://github.com/lexml/jsonix-lexml/releases/).
+
 ## Como usar o executável em imagens docker
 
 O conversor é um arquivo executável presente na imagem docker, em `/jsonix-lexml-linux`. O executável
