@@ -21,8 +21,10 @@ RUN cd /build && \
    mvn dependency:go-offline
 RUN cd /build && \
     mvn exec:java
-COPY main.js /build
-RUN cd /build && pkg .    
+COPY src/* /build/src/
+COPY rollup.config.js /build/
+RUN npm install -g rollup && \
+    cd /build && rollup -c && pkg .    
 
 #FROM debian:bullseye-slim
 FROM alpine:3.14.3
