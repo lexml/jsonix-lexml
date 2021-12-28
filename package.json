@@ -2,19 +2,46 @@
   "name": "jsonix-lexml",
   "version": "1.0.0",
   "description": "",
-  "bin": {
-    "lexml-json": "./main.js"
-  },
-  "scripts": {
-    "test": "node test.js",
-    "prepublish": "java -jar node_modules/jsonix/lib/jsonix-schema-compiler-full.jar -generateJsonSchema -d mappings schemas/*.xsd"
-  },
   "author": "jrafael@senado.leg.br",
   "license": "ISC",
+  "main": "dist/bundle/jsonix-lexml.js",
+  "module": "dist/bundle/jsonix-lexml.js",
+  "bin": "dist/src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lexml/jsonix-lexml.git"
+  },
+  "homepage": "https://github.com/lexml/jsonix-lexml",
+  "bugs": {
+    "url": "https://github.com/lexml/jsonix-lexml/issues"
+  },
+  "keywords": [
+    "jsonix-lexml"
+  ],
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "node test.js",
+    "prepublish": "rimraf dist mappings && npm run build:mappings && rollup -c",
+    "build:mappings": "npm run mappings:jsonix-compiler",
+    "build:exe": "npm run prepublish && pkg .",
+    "mappings:jsonix-compiler": "java -jar node_modules/jsonix/lib/jsonix-schema-compiler-full.jar -generateJsonSchema -d mappings schemas/*.xsd"
+  },
   "dependencies": {
     "commander": "8.3.0",
     "get-stdin": "9.0.0",
-    "jsonix": "3.0.0",
-    "jsonix-schema-compiler": "2.3.9"
+    "jsonix": "3.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.1.1",
+    "@rollup/plugin-replace": "^3.0.0",
+    "jsonix-schema-compiler": "^2.3.9",
+    "pkg": "^5.5.1",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.62.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-copy": "^3.4.0",
+    "rollup-plugin-polyfill-node": "^0.8.0"
   }
 }

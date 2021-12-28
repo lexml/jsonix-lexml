@@ -42,28 +42,17 @@ execute `docker build -t jsonix-lexml:latest .`.
 
 ## Como compilar o conversor diretamente
 
-Para compilar os executáveis diretamente, sem o uso de docker, é preciso ter o NodeJS 14, Java 11 e Maven no caminho e executar os seguintes passos
-no diretório do projeto:
+Para compilar os executáveis diretamente, sem o uso de docker, é preciso ter o NodeJS 14 e Java 11 no caminho e executar os seguintes passos no diretório do projeto:
 
 1 - Preparar o ambiente NodeJS:
 ```
 npm install
 ```
-2 - Instalar o compilador jsonix no repositório local do Maven:
+2 - Executar script "build:exe":
 ```
-mvn install:install-file \
-    	-Dfile=node_modules/jsonix/lib/jsonix-schema-compiler-full.jar \
-	-DgroupId=local \
-	-DartifactId=jsonix-schema-compiler-full \
-	-Dversion=1.0.0 \
-	-Dpackaging=jar \
-	-DgeneratePom=true
+npm run build:exe
 ```
-3 - Executar o compilador jsonix via Maven: 
-```
-mvn exec:java
-```
-Como resultado, serão gerados três executáveis, `jsonix-lexml-linux`, `jsonix-lexml-macos` e `jsonix-lexml-win.exe`, utilizáveis, respectivamente,
+Como resultado, serão gerados o diretório `mappings` e três executáveis, `jsonix-lexml-linux`, `jsonix-lexml-macos` e `jsonix-lexml-win.exe`, utilizáveis, respectivamente,
 em ambientes Linux (glibc), MacOS X e Windows.
 
 

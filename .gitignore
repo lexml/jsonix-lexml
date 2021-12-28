@@ -5,3 +5,6 @@ jsonix-linux-*
 jsonix-lexml-linux
 jsonix-lexml-macos
 jsonix-lexml-win.exe
+/dist
+texto.xml
+texto.json
