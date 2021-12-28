@@ -72,5 +72,5 @@ em ambientes Linux (glibc), MacOS X e Windows.
 O compilador jsonix gera uma série de arquivos que descrevem o mapeamento JSON gerado à partir dos esquemas do formato LexML. Esses mapeamentos
 são gerados aṕos o passo (3) descrito acima (no diretório `mappings`), e podem ser encontrados também na imagem docker, no caminho `/mappings`. Eles
 podem ser usados, juntamente com a biblioteca [jsonix](https://github.com/highsource/jsonix), para manipular arquivos json gerados à partir da conversão, ou para construir arquivos json
-compatíveis para posterior conversão para formato LexML.
+compatíveis para posterior conversão para formato LexML. 
 
