@@ -63,19 +63,41 @@ async function runToXML(source,options) {
 }
 
 async function main() {
-    program.version('0.0.1');	
+    program.version('0.0.1')
+        .addHelpText('after', `
+Exemplos:
+    jsonix-lexml help
+    jsonix-lexml help tojson
+
+    jsonix-lexml tojson texto.xml -o texto.json
+    jsonix-lexml toxml texto.json -o texto.xml
+`);
 
     program.command('tojson')
         .description('converte um documento no formato XML do LexML Brasil para formato JSON')
         .argument('[source]','arquivo de entrada, ou "-" para entrada padrão','-')
         .option('-o, --output <dest>','grava documento JSON em arquivo especificado, ou saída padrão, se "dest" for "-"','-')
-        .action(runToJSON);
+        .action(runToJSON)
+        .addHelpText('after', `
+Exemplo:
+    jsonix-lexml tojson texto.xml -o texto.json
+    jsonix-lexml tojson -o texto.json texto.xml
+
+    Os exemplos acima utilizam o arquivo texto.xml como entrada e geram o arquivo texto.json como saída
+`);
 
     program.command('toxml')
         .description('converte um documento no JSON para formato XML do LexML Brasil')
         .argument('[source]','arquivo de entrada, ou "-" para entrada padrão','-')
         .option('-o, --output <dest>','grava documento XML em arquivo especificado, ou saída padrão, se "dest" for "-"','-')
-        .action(runToXML);
+        .action(runToXML)
+        .addHelpText('after', `
+Exemplo:
+    jsonix-lexml toxml -o texto.xml texto.json
+    jsonix-lexml toxml texto.json -o texto.xml
+
+    Os exemplos acima utilizam o arquivo texto.json como entrada e geram o arquivo texto.xml como saída
+`);
 
     await program.parseAsync(process.argv);
 }
