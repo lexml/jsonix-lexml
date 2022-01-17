@@ -23,7 +23,10 @@
   ],
   "scripts": {
     "test": "node test.js",
-    "prepublish": "rimraf dist mappings && npm run build:mappings && rollup -c",
+    "prepublish": "rimraf dist mappings && npm run build:mappings && rollup -c && npm run readme:npm",
+    "postpublish": "npm run readme:git",
+    "readme:npm": "cpy README.md ./ --rename=README.git.md && cpy README.npm.md ./ --rename=README.md",
+    "readme:git": "cpy README.git.md ./ --rename=README.md && rimraf README.git.md",
     "build:mappings": "npm run mappings:jsonix-compiler",
     "build:exe": "npm run prepublish && pkg .",
     "mappings:jsonix-compiler": "java -jar node_modules/jsonix/lib/jsonix-schema-compiler-full.jar -generateJsonSchema -d mappings schemas/*.xsd"
@@ -36,6 +39,7 @@
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.1.1",
     "@rollup/plugin-replace": "^3.0.0",
+    "cpy-cli": "^3.1.1",
     "jsonix-schema-compiler": "^2.3.9",
     "pkg": "^5.5.1",
     "rimraf": "^3.0.2",
