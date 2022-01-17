@@ -37,8 +37,7 @@ apk add gcompat libstdc++
 
 ## Como gerar a imagem docker
 
-A compilação é feita em ambiente docker. Para gerar uma imagem
-execute `docker build -t jsonix-lexml:latest .`.
+A compilação é feita em ambiente docker. Para gerar uma imagem execute `docker build -t jsonix-lexml:latest .`.
 
 ## Como compilar o conversor diretamente
 
@@ -52,14 +51,14 @@ npm install
 ```
 npm run build:exe
 ```
-Como resultado, serão gerados o diretório `mappings` e três executáveis, `jsonix-lexml-linux`, `jsonix-lexml-macos` e `jsonix-lexml-win.exe`, utilizáveis, respectivamente,
-em ambientes Linux (glibc), MacOS X e Windows.
+Como resultado, serão gerados o diretório `mappings` e três executáveis, `jsonix-lexml-linux`, `jsonix-lexml-macos` e `jsonix-lexml-win.exe`, utilizáveis, respectivamente, em ambientes Linux (glibc), MacOS X e Windows.
 
 
 ## Mapeamentos JSON
 
-O compilador jsonix gera uma série de arquivos que descrevem o mapeamento JSON gerado à partir dos esquemas do formato LexML. Esses mapeamentos
-são gerados aṕos o passo (3) descrito acima (no diretório `mappings`), e podem ser encontrados também na imagem docker, no caminho `/mappings`. Eles
-podem ser usados, juntamente com a biblioteca [jsonix](https://github.com/highsource/jsonix), para manipular arquivos json gerados à partir da conversão, ou para construir arquivos json
-compatíveis para posterior conversão para formato LexML. 
+O compilador jsonix gera uma série de arquivos que descrevem o mapeamento JSON gerado à partir dos esquemas do formato LexML. Esses mapeamentos são gerados aṕos o passo (3) descrito acima (no diretório `mappings`), e podem ser encontrados também na imagem docker, no caminho `/mappings`. Eles podem ser usados, juntamente com a biblioteca [jsonix](https://github.com/highsource/jsonix), para manipular arquivos json gerados à partir da conversão, ou para construir arquivos json compatíveis para posterior conversão para formato LexML. 
+
+## Uso da bibloteca em Javascript
+
+> Orientações sobre como usar a biblioteca jsonix-lexml em javascript podem ser encontradas em [README.npm.md](README.npm.md) .
 
