@@ -39,4 +39,11 @@ export default [
         },
         plugins,
     },
+    {
+        input: 'src/jsonix-lexml.js',
+        output: {
+            file: 'dist/bundle/jsonix-lexml.es.js',
+            format: 'es',
+        },
+    },
 ]
