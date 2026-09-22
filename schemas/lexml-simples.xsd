@@ -289,7 +289,7 @@
     <xsd:element name="MetadadoProprietario">
         <xsd:complexType>
             <xsd:sequence>
-                <xsd:any processContents="skip" minOccurs="0" maxOccurs="unbounded" />
+                <xsd:any processContents="lax" minOccurs="0" maxOccurs="unbounded" />
             </xsd:sequence>
             <xsd:attribute type="xsd:anyURI" name="fonte" use="required" />
         </xsd:complexType>
