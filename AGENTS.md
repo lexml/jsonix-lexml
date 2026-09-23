@@ -14,7 +14,7 @@ npm run build:mappings   # generate mappings/ from schemas/*.xsd (needs mvn + JD
 npm test                 # node test.js — round-trip tests; requires mappings/ to exist
 npx rollup -c            # build dist/bundle/jsonix-lexml.js (UMD) and .es.js, copy src + mappings into dist/
 npm run build:exe        # full prepublish + pkg → jsonix-lexml-{linux,macos,win.exe}
-./build-docker-image.sh [publish]   # Docker build (JDK 11 + Maven + Node 14), produces the executables
+./build-docker-image.sh [publish]   # Docker build (JDK 17 + Maven + Node 16; the `pkg` targets stay `node14-*`), produces the executables
 ```
 
 There is no test framework: `test.js` is a plain Node script using `assert`, with each test as a function called at the bottom of the file. To run a single test, comment out the other calls or run it inline, e.g. `node -e "require('./src/jsonix-lexml.js')..."`.
@@ -57,4 +57,4 @@ So any union handling must live in JS (`src/jsonix-lexml.js`), not the XSD.
 
 ## Publishing quirk
 
-`README.md` (GitHub) and `README.npm.md` (npm) are separate hand-maintained files. `prepublish` swaps them (`README.md` → `README.git.md`, `README.npm.md` → `README.md`) and `postpublish` restores; an interrupted publish can leave `README.md` holding the npm version (fix with `npm run readme:git`). `build:exe` reuses `prepublish`, so it runs `readme:git` itself at the end. `pkg` targets are pinned to `node14-*` in `package.json` (same as the `Dockerfile`), because `pkg@5.5.1` has no Node binaries above v16. Only `dist/` is published (`main`/`module` point to `dist/bundle/jsonix-lexml.js`, `bin` to `dist/src/main.js`).
+`README.md` (GitHub) and `README.npm.md` (npm) are separate hand-maintained files. `prepublish` swaps them (`README.md` → `README.git.md`, `README.npm.md` → `README.md`) and `postpublish` restores; an interrupted publish can leave `README.md` holding the npm version (fix with `npm run readme:git`). `build:exe` reuses `prepublish`, so it runs `readme:git` itself at the end. `pkg` targets are pinned to `node14-*` in `package.json` (independent of the Node version of the `Dockerfile` build image), because `pkg@5.5.1` has no Node binaries above v16. Only `dist/` is published (`main`/`module` point to `dist/bundle/jsonix-lexml.js`, `bin` to `dist/src/main.js`).

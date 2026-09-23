@@ -1,15 +1,16 @@
-FROM node:14.18.1-bullseye as build-base
+FROM node:16-bookworm AS build-base
 RUN npm install -g pkg && \
     echo "console.out('test');" > test.js && \
     pkg -t node14-linux-x64,node14-macos-x64,node14-win-x64 test.js
 RUN apt-get update -y && \
-    apt-get install -y openjdk-11-jdk-headless && \
-    apt-get install -y maven
+    apt-get install -y openjdk-17-jdk-headless maven && \
+    rm -rf /var/lib/apt/lists/*
 RUN mkdir /build /build/schemas 
 COPY package.json package-lock.json pom.xml /build/
+COPY .mvn /build/.mvn
 COPY schemas/* /build/schemas/
 RUN cd /build && \
-    npm install 
+    npm install --ignore-scripts
 RUN cd /build && \
     mvn install:install-file \
     	-Dfile=node_modules/jsonix/lib/jsonix-schema-compiler-full.jar \
@@ -23,8 +24,8 @@ RUN cd /build && \
     mvn exec:java
 COPY src/* /build/src/
 COPY rollup.config.js /build/
-RUN npm install -g rollup && \
-    cd /build && rollup -c && pkg .    
+RUN cd /build && \
+    npx rollup -c && pkg .
 
 #FROM debian:bullseye-slim
 FROM alpine:3.14.3
