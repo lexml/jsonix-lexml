@@ -29,7 +29,7 @@
     "readme:git": "cpy README.git.md ./ --rename=README.md && rimraf README.git.md",
     "build:mappings": "npm run mappings:jsonix-compiler",
     "build:exe": "npm run prepublish && pkg .",
-    "mappings:jsonix-compiler": "java -jar node_modules/jsonix/lib/jsonix-schema-compiler-full.jar -generateJsonSchema -d mappings schemas/*.xsd"
+    "mappings:jsonix-compiler": "mvn install:install-file -Dfile=node_modules/jsonix/lib/jsonix-schema-compiler-full.jar -DgroupId=local -DartifactId=jsonix-schema-compiler-full -Dversion=1.0.0 -Dpackaging=jar -DgeneratePom=true && mvn exec:java"
   },
   "dependencies": {
     "commander": "8.3.0",
