@@ -41,7 +41,7 @@
       <artifactId>exec-maven-plugin</artifactId>
       <configuration>
         <mainClass>org.hisrc.jsonix.JsonixMain</mainClass>
-        <commandlineArgs>-generateJsonSchema -d mappings schemas/lexml-simples.xsd schemas/math.xsd schemas/xlink.xsd schemas/xml.xsd</commandlineArgs>
+        <commandlineArgs>-generateJsonSchema -d mappings schemas/lexml-simples.xsd schemas/lexedit.xsd schemas/math.xsd schemas/xlink.xsd schemas/xml.xsd</commandlineArgs>
       </configuration>
     </plugin>
   </plugins>

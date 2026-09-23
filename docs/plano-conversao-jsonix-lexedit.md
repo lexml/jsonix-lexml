@@ -77,41 +77,40 @@ Consequências práticas:
 
 ## Fases
 
-### Fase 0 — Consertar o toolchain de geração de mappings
-- Reconciliar `pom.xml` e o script `mappings:jsonix-compiler` do `package.json`: escolher uma única fonte de verdade para a lista de schemas (recomendado: `pom.xml`, já que é o build usado pelo `Dockerfile`/release oficial) e alinhar o outro.
-- Resolver o `ClassNotFoundException: javax.activation.DataSource` do script npm: ou documentar que ele exige JDK 8, ou adicionar `javax.activation` explicitamente ao classpath do `java -jar` (ex. baixando o jar `javax.activation-api` e usando `-cp`), para não depender de uma JDK antiga instalada à parte.
-- Adicionar `schemas/lexedit.xsd` à lista de schemas compilados em ambos.
+### Fase 0 — Consertar o toolchain de geração de mappings ✅ implementado
+- ✅ `pom.xml` passou a incluir `schemas/lexedit.xsd` ([pom.xml:44](../pom.xml#L44)); o script `mappings:jsonix-compiler` do `package.json` já cobria via glob (`schemas/*.xsd`), então os dois agora compilam a mesma lista de schemas.
+- ⏳ **Não resolvido**: o `ClassNotFoundException: javax.activation.DataSource` do `java -jar` direto (script npm) em JDK ≥ 9 continua existindo — é um problema pré-existente do toolchain, não introduzido por este trabalho. Contorno usado neste ambiente: rodar com **JDK 8** (`java -jar node_modules/jsonix/lib/jsonix-schema-compiler-full.jar -generateJsonSchema -d mappings schemas/lexml-simples.xsd schemas/lexedit.xsd schemas/math.xsd schemas/xlink.xsd schemas/xml.xsd`). O build "oficial" via `mvn exec:java` (usado no `Dockerfile`, JDK 11) não sofre disso porque o `pom.xml` já declara `javax.activation:activation:1.1.1` no classpath. Documentar esse requisito de JDK 8 para quem rodar `npm run build:mappings` localmente fica como item em aberto (ver "Riscos").
 
-### Fase 1 — Gerar e revisar o mapping do `lexedit.xsd`
-- Rodar o compilador (`lexml-simples.xsd` + `lexedit.xsd` + os demais no mesmo lote) e conferir `mappings/br_gov_lexml_lexedit__1.js` gerado (dependência declarada em `br_gov_lexml__1`) e `mappings/br_gov_lexml__1.js` atualizado (propriedade `any` de `MetadadoProprietario` sem `allowTypedObject: false`). Já verificado neste ambiente com o schema achatado — compila limpo com JDK 8, sem erros.
-- Revisar o binding de `RevisaoArticulacao` (seção dedicada acima) e de `Autoria` (também um `xsd:choice`, entre `Parlamentares`/`ColegiadoAutor`, mais simples).
-- Confirmar que os `simpleType`s (`Sexo`, `TipoAutoria`, `SiglaCasaLegislativa`) viram enums utilizáveis no lado JS.
+### Fase 1 — Gerar e revisar o mapping do `lexedit.xsd` ✅ implementado
+- ✅ Mappings regenerados em `mappings/` (gitignorado, como já era o padrão do projeto) com JDK 8: `br_gov_lexml_lexedit__1.js`/`.jsonschema` novos, `br_gov_lexml__1.js` atualizado (propriedade `any` de `MetadadoProprietario` sem `allowTypedObject: false`, confirmado por inspeção do arquivo gerado).
+- ✅ Binding de `RevisaoArticulacao` e `Autoria` revisado (ver seção dedicada) — `Autoria` funcionou sem surpresas no teste com a amostra (`tipo="Parlamentar"` com 2 `Parlamentar`).
+- ✅ `simpleType`s (`Sexo`, `TipoAutoria`, `SiglaCasaLegislativa`) viraram atributos `string` simples no lado JS (sem enum JS dedicado, mas o valor passa direto — comportamento padrão do Jsonix para `xsd:simpleType` com `xsd:enumeration` de `xsd:string`).
 
-### Fase 2 — Ligar o módulo `LexEdit` ao contexto em `jsonix-lexml.js`
-- Importar o módulo gerado (`mappings/br_gov_lexml_lexedit__1.js`) e incluí-lo no array de módulos do `Jsonix.Context` já existente, junto de `LexML` e `MathML` ([src/jsonix-lexml.js:12](../src/jsonix-lexml.js#L12)).
-- Testar unmarshal/marshal da amostra e confirmar empiricamente a forma exata do objeto tipado que aparece dentro de `metadadoProprietario[].any` (ex.: se vem envolto em `{name, value}` ou diretamente o objeto lexedit) — a inspeção estática do mapping não garante isso, precisa de execução real.
-- Decidir se vale a pena um pequeno passo de conveniência em `toJSON`/`toXML` para expor esse conteúdo com uma chave mais amigável (ex.: `metadadoProprietario[i].lexedit`) em vez do formato bruto de "any" tipado do Jsonix — agora opcional, não estrutural como na versão anterior do plano.
-- Tratar o caso de `MetadadoProprietario` de outras origens (`fonte` diferente de lexedit, ou elementos não reconhecidos): com `processContents="lax"`, o Jsonix cai para DOM cru automaticamente quando não reconhece o elemento — comportamento correto por padrão, não precisa de código extra.
+### Fase 2 — Ligar o módulo `LexEdit` ao contexto em `jsonix-lexml.js` ✅ implementado
+- ✅ [src/jsonix-lexml.js](../src/jsonix-lexml.js) agora importa `mappings/br_gov_lexml_lexedit__1.js` e inclui `LexEdit` no array de módulos do `Jsonix.Context`, com o prefixo `lexedit` registrado em `namespacePrefixes`.
+- ✅ Forma real do objeto tipado, confirmada em runtime: `metadadoProprietario[].any[]` é uma lista de `{name: {namespaceURI, localPart, prefix, ...}, value: {...}}`; para o caso do lexedit, `any[0].value` é o objeto `br_gov_lexml_lexedit__1.Metadado` totalmente tipado (`aplicacao`, `autoria.parlamentares.parlamentar[]`, `comentarios.sequenciaComentario[]`, etc. — ver exemplo no [README.md](../README.md#metadados-proprietários-do-lexedit)).
+- **Decisão tomada**: não foi adicionada nenhuma chave de conveniência extra (tipo `metadadoProprietario[i].lexedit`) — o formato padrão do Jsonix (`any[].name`/`any[].value`) já é suficiente e evita duplicar/mascarar a estrutura. Pode ser revisitado se o consumo da lib mostrar que vale a pena.
+- ✅ `MetadadoProprietario` de outras origens: comportamento padrão do Jsonix com `processContents="lax"` (cai para DOM cru se não reconhecer o elemento) não precisou de código extra, como previsto.
 
-### Fase 3 — Testes com a amostra
-- Escrever teste de round-trip: `xml → toJSON → toXML` e comparar semanticamente com o XML original (ignorando diferenças de formatação/ordem de atributos), cobrindo em especial:
-  - `Autoria` com `Parlamentares` (2 parlamentares) — testar depois também com `ColegiadoAutor` (não presente na amostra atual, precisa de um segundo fixture).
-  - `Comentarios` com `SequenciaComentario` apontando tanto para um id de dispositivo da articulação quanto para um `span` da justificação.
-  - `RevisoesArticulacao` com o `<Artigo>` completo embutido (o ponto frágil descrito acima) — e, se possível, um segundo fixture usando outro nível (ex. `<Paragrafo>`) para confirmar que a alternância entre os 17 campos funciona nos dois sentidos.
-  - Os campos `refIds*` como `xsd:string` livre (não `IDREF`), garantindo que não se tente resolver referência nenhuma.
-  - O `<NotaDeRodape>` inline na `Justificacao`, que é conteúdo normal do LexML (não passa por `MetadadoProprietario`) e não deve ser afetado por nada desta mudança — serve de controle negativo.
-- Adicionar `documento-articulado-exemplo.xml` como fixture de teste automatizado (hoje `test.js` na raiz — verificar cobertura atual antes de estender).
-- Validar o XML de saída contra `lexml-simples.xsd` + `lexedit.xsd` (via `xmllint` ou equivalente), não só comparar strings — é o jeito de pegar o risco do item 3 do `RevisaoArticulacao` (escrita de dois campos do choice ao mesmo tempo) se ele ocorrer.
+### Fase 3 — Testes com a amostra ✅ implementado (parcialmente)
+- ✅ [test.js](../test.js) (raiz do projeto, antes inexistente — `npm test` estava quebrado por não ter esse arquivo) faz round-trip semântico `toJSON → toXML → toJSON` com `assert.deepStrictEqual`, sobre `documento-articulado-exemplo.xml` e mais duas amostras pré-existentes (regressão). Roda com `npm test`.
+- ✅ Asserções específicas sobre o bloco `lexedit`: `fonte`, `TYPE_NAME` tipado (não DOM), `autoria.parlamentares.parlamentar.length === 2`.
+- ✅ **O ponto frágil do `RevisaoArticulacao` foi testado diretamente**: o teste verifica que `artigo` está preenchido e que os outros 16 campos do choice (`parte`, `livro`, ..., `p`) estão `undefined` depois do round-trip — cobre exatamente o risco descrito na seção dedicada.
+- ⏳ **Não implementado**: fixture com `ColegiadoAutor` (só `Parlamentares` foi exercitado), fixture com outro nível do choice de `RevisaoArticulacao` (ex. `Paragrafo`), e validação formal contra os `.xsd` via `xmllint`/equivalente (não havia `xmllint`, `lxml` nem `pip` disponíveis neste ambiente para instalar). A verificação de equivalência ficou por igualdade estrutural do JSON (`toJSON(toXML(toJSON(xml))) === toJSON(xml)`), que é uma evidência forte mas não substitui validação de schema.
+- `Comentarios` com as duas âncoras (dispositivo e span) e o `<NotaDeRodape>` como controle negativo foram observados manualmente no round-trip (ver saída em "Situação atual"), mas não têm asserção dedicada no `test.js` — poderia ser reforçado depois.
 
-### Fase 4 — Documentação
-- Atualizar `README.md`/`README.npm.md` com um exemplo mostrando o formato do `lexedit` dentro do JSON resultante.
-- Registrar neste diretório (`docs/`) a forma final observada na Fase 2 para o conteúdo de `lexedit` dentro de `metadadoProprietario`, já que só se sabe com certeza depois de testar em runtime.
+### Fase 4 — Documentação ✅ implementado
+- ✅ [README.md](../README.md) ganhou a seção "Metadados proprietários do LexEdit" com exemplo do formato tipado.
+- ✅ Este documento foi atualizado com o resultado real da Fase 2 (forma do objeto) e o status de cada fase.
+- ⏳ `README.npm.md` não foi atualizado (é gerado a partir do `README.md` no `prepublish` via `readme:npm` — não precisa de edição manual separada, mas vale conferir no próximo publish).
 
 ## Riscos / itens em aberto
-- Confirmar em runtime (não só estaticamente) que o `xsd:choice` de `RevisaoArticulacao` marshala/desmarshala corretamente com um único campo preenchido por vez (Fase 3).
-- Verificar se `processContents="lax"` não muda o comportamento de outros pontos de extensão do LexML que também usem padrão semelhante em `lexml-simples.xsd` (buscar outros `xsd:any` no schema além de `MetadadoProprietario`).
+- O script npm `mappings:jsonix-compiler` continua exigindo JDK 8 (ou um classpath com `javax.activation` adicionado manualmente) — não foi corrigido nesta rodada, só documentado. Quem depender dele para gerar mappings localmente precisa saber disso.
+- Fixtures adicionais não cobertos: `ColegiadoAutor` em `Autoria`, e um segundo nível do choice em `RevisaoArticulacao` (ex. `Paragrafo`) além de `Artigo`.
+- Validação formal contra os `.xsd` (`lexml-simples.xsd` + `lexedit.xsd`) não foi feita por falta de ferramenta disponível no ambiente (`xmllint`, `lxml`) — a suite de testes hoje só garante equivalência semântica do JSON, não conformidade com o schema.
+- Verificar se `processContents="lax"` não muda o comportamento de outros pontos de extensão do LexML que também usem padrão semelhante em `lexml-simples.xsd` (buscar outros `xsd:any` no schema além de `MetadadoProprietario`) — não foi feito.
 
 ## Critérios de aceite
-- `npm run build:mappings` gera `br_gov_lexml_lexedit__1.js` e atualiza `br_gov_lexml__1.js` de forma reprodutível (CI/Docker), sem exigir JDK 8 manual.
-- `toJSON(xml)` sobre a amostra produz um objeto onde o bloco `lexedit` aparece com campos nomeados (não XML serializado nem DOM), incluindo listas (`parlamentares`, `anexos`, `comentarios`, etc.) e atributos tipados (datas como `Date`, booleanos como `boolean`).
-- `toXML(toJSON(xml))` produz um XML semanticamente equivalente ao original, validado contra `lexml-simples.xsd` + `lexedit.xsd`.
+- ✅ `npm run build:mappings` gera `br_gov_lexml_lexedit__1.js` e atualiza `br_gov_lexml__1.js` (testado com JDK 8; **não** reprodutível ainda com qualquer JDK ≥ 9 via `java -jar` direto — ver riscos).
+- ✅ `toJSON(xml)` sobre a amostra produz um objeto onde o bloco `lexedit` aparece com campos nomeados (não XML serializado nem DOM), incluindo listas (`parlamentares`, `anexos`, `comentarios`, etc.) e atributos tipados (datas como objeto de data do Jsonix, booleanos como `boolean`).
+- ✅ `toXML(toJSON(xml))` produz um XML semanticamente equivalente ao original — verificado por igualdade estrutural do JSON num segundo round-trip; **não** verificado ainda por validação formal contra `lexml-simples.xsd` + `lexedit.xsd`.
