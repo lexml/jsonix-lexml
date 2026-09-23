@@ -21,6 +21,13 @@
   "files": [
     "dist"
   ],
+  "pkg": {
+    "targets": [
+      "node14-linux-x64",
+      "node14-macos-x64",
+      "node14-win-x64"
+    ]
+  },
   "scripts": {
     "test": "node test.js",
     "prepublish": "rimraf dist mappings && npm run build:mappings && rollup -c && npm run readme:npm",
@@ -28,7 +35,7 @@
     "readme:npm": "cpy README.md ./ --rename=README.git.md && cpy README.npm.md ./ --rename=README.md",
     "readme:git": "cpy README.git.md ./ --rename=README.md && rimraf README.git.md",
     "build:mappings": "npm run mappings:jsonix-compiler",
-    "build:exe": "npm run prepublish && pkg .",
+    "build:exe": "npm run prepublish && pkg . && npm run readme:git",
     "mappings:jsonix-compiler": "mvn install:install-file -Dfile=node_modules/jsonix/lib/jsonix-schema-compiler-full.jar -DgroupId=local -DartifactId=jsonix-schema-compiler-full -Dversion=1.0.0 -Dpackaging=jar -DgeneratePom=true && mvn exec:java"
   },
   "dependencies": {

@@ -30,6 +30,17 @@ function testDocumentoArticuladoLexedit() {
   assert.strictEqual(lexeditMetadado.aplicacao, "LexEdit");
   assert.strictEqual(lexeditMetadado.autoria.parlamentares.parlamentar.length, 2);
 
+  // xsd:dateTime e xsd:date ficam como a string original do xml, com timezone.
+  assert.strictEqual(lexeditMetadado.dataUltimaModificacao, "2026-05-12T10:15:00-03:00");
+  assert.strictEqual(lexeditMetadado.data, "2026-04-24");
+  assert.match(conversor.toXML(json), /dataUltimaModificacao="2026-05-12T10:15:00-03:00"/);
+
+  // Objetos Date continuam aceitos no toXML.
+  const comDate = JSON.parse(JSON.stringify(json));
+  comDate.value.metadado.metadadoProprietario[0].any[0].value.dataUltimaModificacao =
+    new Date("2026-05-12T13:15:00Z");
+  assert.match(conversor.toXML(comDate), /dataUltimaModificacao="2026-05-12T\d\d:15:00/);
+
   // RevisaoArticulacao é um xsd:choice achatado em 17 propriedades possíveis;
   // aqui só "artigo" deve estar preenchido.
   const revisaoArticulacao =

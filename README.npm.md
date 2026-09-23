@@ -104,6 +104,59 @@ Biblioteca para conversão entre xml e json de texto estruturado em formato Lexm
     </html>
 ```
 
+### Formato do JSON
+
+#### Datas
+
+Atributos do tipo `xsd:date` e `xsd:dateTime` são representados no JSON como a string original do XML, preservando o timezone (ex.: `"2026-05-12T10:15:00-03:00"`). No `toXML`, também são aceitos objetos `Date`.
+
+#### Metadados proprietários do LexEdit
+
+O bloco `<lexedit:Metadado>` (namespace `http://www.lexml.gov.br/lexedit/1.0`), dentro de `<MetadadoProprietario>`, é convertido em um objeto tipado, em `metadado.metadadoProprietario[].any[].value`:
+
+```json
+"metadadoProprietario": [
+    {
+        "TYPE_NAME": "br_gov_lexml__1.MetadadoProprietario",
+        "fonte": "http://www.lexml.gov.br/lexedit/1.0",
+        "any": [
+            {
+                "name": { "namespaceURI": "http://www.lexml.gov.br/lexedit/1.0", "localPart": "Metadado", "prefix": "lexedit", ... },
+                "value": {
+                    "TYPE_NAME": "br_gov_lexml_lexedit__1.Metadado",
+                    "dataUltimaModificacao": "2026-05-12T10:15:00-03:00",
+                    "aplicacao": "LexEdit",
+                    "autoria": { ... },
+                    "comentarios": { ... },
+                    "revisoesArticulacao": { ... },
+                    ...
+                }
+            }
+        ]
+    }
+]
+```
+
+Metadados proprietários de outras origens (namespaces desconhecidos) continuam sendo representados como DOM.
+
+Em `revisoesArticulacao.revisaoArticulacao[]`, o dispositivo revisado fica em **uma** entre 17 propriedades possíveis, conforme o elemento do XML: `parte`, `livro`, `titulo`, `subtitulo`, `capitulo`, `secao`, `artigo`, `omissis`, `subsecao`, `agrupamentoHierarquico`, `caput`, `paragrafo`, `inciso`, `alinea`, `item`, `dispositivoGenerico` ou `p`. Diferentemente da `Articulacao`, o dispositivo não fica envolvido em `{name, value}`:
+
+```json
+{
+    "TYPE_NAME": "br_gov_lexml_lexedit__1.RevisaoArticulacao",
+    "revisao": "excluido",
+    "refIdUsuario": "sf:sicrana",
+    "data": "2026-05-12T09:05:00-03:00",
+    "artigo": {
+        "TYPE_NAME": "br_gov_lexml__1.DispositivoType",
+        "id": "_art4-exc1",
+        ...
+    }
+}
+```
+
+Apenas uma dessas propriedades deve ser preenchida. O `toXML` não valida essa regra: se houver mais de uma, todas são gravadas no XML, que fica inválido segundo o esquema.
+
 ### Uso em linha de comando
 Para uso em linha de comando é recomendável instalar a biblioteca globalmente
 ```

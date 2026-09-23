@@ -289,6 +289,10 @@
     <xsd:element name="MetadadoProprietario">
         <xsd:complexType>
             <xsd:sequence>
+                <!-- Desvio intencional do esquema LexML oficial, que usa processContents="skip".
+                     Com "lax", o Jsonix converte metadados de namespaces conhecidos (ex.:
+                     lexedit:Metadado, de lexedit.xsd) em objetos tipados, em vez de DOM cru.
+                     Manter esta alteração se o esquema for atualizado a partir do oficial. -->
                 <xsd:any processContents="lax" minOccurs="0" maxOccurs="unbounded" />
             </xsd:sequence>
             <xsd:attribute type="xsd:anyURI" name="fonte" use="required" />

@@ -11,7 +11,33 @@ const namespaces = {
   "http://www.lexml.gov.br/lexedit/1.0": "lexedit",
 };
 
-const context = new Jsonix.Context([LexML, MathML, LexEdit], {
+// Datas (xsd:date, xsd:dateTime) ficam no json como a string original do xml,
+// preservando o timezone, em vez do objeto de calendário padrão do Jsonix.
+// No toXML, objetos Date e objetos de calendário (formato antigo) ainda são
+// aceitos e formatados pelos tipos do Jsonix.
+const tipoDataComoString = (original, comoDate) => new (Jsonix.Class(Jsonix.Schema.XSD.String, {
+  name: original.name,
+  typeName: original.typeName,
+  print: function (value, context, output, scope) {
+    if (Jsonix.Util.Type.isString(value)) {
+      return value;
+    }
+    const tipo = Jsonix.Util.Type.isDate(value) ? comoDate : original;
+    return tipo.print(value, context, output, scope);
+  },
+  CLASS_NAME: 'JsonixLexml.' + original.name + 'ComoString',
+}))();
+
+const Context = Jsonix.Class(Jsonix.Context, {
+  registerBuiltinTypeInfos: function () {
+    Jsonix.Context.prototype.registerBuiltinTypeInfos.apply(this);
+    const XSD = Jsonix.Schema.XSD;
+    this.registerTypeInfo(tipoDataComoString(XSD.DateTime.INSTANCE, XSD.DateTimeAsDate.INSTANCE));
+    this.registerTypeInfo(tipoDataComoString(XSD.Date.INSTANCE, XSD.DateAsDate.INSTANCE));
+  },
+});
+
+const context = new Context([LexML, MathML, LexEdit], {
   namespacePrefixes: namespaces,
 });
 
