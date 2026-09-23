@@ -32,6 +32,10 @@ The runtime code is small (`src/jsonix-lexml.js`); almost all behaviour comes fr
 3. `src/jsonix-lexml.js` loads all mapping modules into **one** `Jsonix.Context` with fixed namespace prefixes (LexML is the default namespace, `lexedit` for LexEdit). `src/main.js` is the commander-based CLI on top of it. `src/jsonix-lexml.js` uses a `Jsonix.Context` subclass that replaces the built-in `DateTime` and `Date` types, so `xsd:dateTime`/`xsd:date` values stay in the JSON as the original XML string (with timezone) instead of Jsonix calendar objects. `toXML` still accepts calendar objects and `Date` instances.
 4. `rollup.config.js` bundles for the browser; it applies string `replace`s to patch two undeclared variables in `jsonix.js` (needed for strict-mode bundling) — keep these if upgrading jsonix.
 
+### Other deviations from the official LexML schema
+
+`Rotulo` in `lexml-simples.xsd` is declared as `xsd:string` (the official schema uses `stringComIdType`), so `rotulo` stays a plain string in the JSON (not `{value, id}`) and existing consumers of that structure keep working. The `id` attribute on `Rotulo` is therefore not supported. Marked with a comment in the XSD — keep it if the XSD is ever refreshed from upstream, and regenerate `mappings/` after changing it.
+
 ### LexEdit metadata (`MetadadoProprietario`)
 
 `lexml-simples.xsd` was intentionally changed to `processContents="lax"` on the `xsd:any` inside `MetadadoProprietario`. This is what makes `<lexedit:Metadado>` unmarshal into a typed object (`metadadoProprietario[].any[].value` with `TYPE_NAME: "br_gov_lexml_lexedit__1.Metadado"`) instead of raw DOM — with `"skip"`, Jsonix emits `allowTypedObject: false`. Unknown proprietary metadata still falls back to DOM. `processContents` is per `xsd:any`; the other `xsd:any` in the schema were left untouched. `lexml-simples.xsd` is editable in this project, but this is a deviation from the official LexML schema (marked with a comment in the XSD) — keep it if the XSD is ever refreshed from upstream.
