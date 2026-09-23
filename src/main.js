@@ -63,7 +63,7 @@ async function runToXML(source,options) {
 }
 
 async function main() {
-    program.version('0.0.1')
+    program.version('2.0.0')
         .addHelpText('after', `
 Exemplos:
     jsonix-lexml help
