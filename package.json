@@ -30,6 +30,7 @@
   },
   "scripts": {
     "test": "node test.js",
+    "release": "node scripts/release.js",
     "prepublish": "rimraf dist mappings && npm run build:mappings && rollup -c && npm run readme:npm",
     "postpublish": "npm run readme:git",
     "readme:npm": "cpy README.md ./ --rename=README.git.md && cpy README.npm.md ./ --rename=README.md",
