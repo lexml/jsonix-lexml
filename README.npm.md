@@ -185,4 +185,4 @@ Para uso em linha de comando é recomendável instalar a biblioteca globalmente
             jsonix-lexml toxml texto.json -o texto.xml    
 ```
 
-> :warning: Outras formas de conversão em linha de comando estão disponíveis a partir do uso de imagem docker ou executáveis. Orientações de como utilizá-las podem ser encontradas em https://github.com/lexml/jsonix-lexml#jsonix-lexml .
+> :warning: Outras formas de conversão em linha de comando estão disponíveis a partir do uso de executáveis. Orientações de como utilizá-las podem ser encontradas em https://github.com/lexml/jsonix-lexml#jsonix-lexml .
