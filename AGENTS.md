@@ -4,7 +4,7 @@ This file provides guidance to coding agents (Codex, Claude Code, etc.) when wor
 
 ## What this is
 
-`jsonix-lexml` converts structured legislative texts in the LexML Brasil XML format to JSON and back. It ships as an npm library (`toJSON(xml)` / `toXML(json)`), a browser UMD bundle (global `jsonixLexml`), a CLI (`jsonix-lexml tojson|toxml`), standalone `pkg` executables and a Docker image. Code comments, docs, CLI messages and commit messages are in Portuguese.
+`jsonix-lexml` converts structured legislative texts in the LexML Brasil XML format to JSON and back. It ships as an npm library (`toJSON(xml)` / `toXML(json)`), a browser UMD bundle (global `jsonixLexml`), a CLI (`jsonix-lexml tojson|toxml`), and standalone `pkg` executables. Code comments, docs, CLI messages and commit messages are in Portuguese.
 
 ## Commands
 
@@ -14,7 +14,7 @@ npm run build:mappings   # generate mappings/ from schemas/*.xsd (needs mvn + JD
 npm test                 # node test.js — round-trip tests; requires mappings/ to exist
 npx rollup -c            # build dist/bundle/jsonix-lexml.js (UMD) and .es.js, copy src + mappings into dist/
 npm run build:exe        # full prepublish + pkg → jsonix-lexml-{linux,macos,win.exe}
-./build-docker-image.sh [publish]   # Docker build (JDK 17 + Maven + Node 16; the `pkg` targets stay `node14-*`), produces the executables
+npm run release -- <versão> [--issue N] [--notes f.md] [--draft] [--dry-run]   # bump + build + test + commit/tag/push + GitHub Release
 ```
 
 There is no test framework: `test.js` is a plain Node script using `assert`, with each test as a function called at the bottom of the file. To run a single test, comment out the other calls or run it inline, e.g. `node -e "require('./src/jsonix-lexml.js')..."`.
@@ -55,6 +55,10 @@ So any union handling must live in JS (`src/jsonix-lexml.js`), not the XSD.
 
 `test.js` round-trips `toJSON → toXML → toJSON` with `deepStrictEqual` over `samples/documento-articulado-exemplo.xml` (LexEdit sample, with specific assertions on the typed metadata and the `RevisaoArticulacao` choice) and a couple of pre-existing `samples/` files as regression. No XSD validation is performed.
 
+## Releases
+
+A release is a GitHub Release (tag `<versão>`, no `v` prefix) with the three `pkg` executables; the package is not published to npm. `scripts/release.js` (`npm run release`) does the whole flow and is the only place that should change the version: it updates `package.json`, `package-lock.json` and the `program.version('…')` literal in `src/main.js` together (do not bump them by hand). It refuses to publish outside an up-to-date `main`; with `--dry-run` those checks are only warnings, nothing is committed/pushed and the version change is reverted. It needs `gh` authenticated, plus the build requirements (Node, JDK 11+, `mvn`).
+
 ## Publishing quirk
 
-`README.md` (GitHub) and `README.npm.md` (npm) are separate hand-maintained files. `prepublish` swaps them (`README.md` → `README.git.md`, `README.npm.md` → `README.md`) and `postpublish` restores; an interrupted publish can leave `README.md` holding the npm version (fix with `npm run readme:git`). `build:exe` reuses `prepublish`, so it runs `readme:git` itself at the end. `pkg` targets are pinned to `node14-*` in `package.json` (independent of the Node version of the `Dockerfile` build image), because `pkg@5.5.1` has no Node binaries above v16. Only `dist/` is published (`main`/`module` point to `dist/bundle/jsonix-lexml.js`, `bin` to `dist/src/main.js`).
+`README.md` (GitHub) and `README.npm.md` (npm) are separate hand-maintained files. `prepublish` swaps them (`README.md` → `README.git.md`, `README.npm.md` → `README.md`) and `postpublish` restores; an interrupted publish can leave `README.md` holding the npm version (fix with `npm run readme:git`). `build:exe` reuses `prepublish`, so it runs `readme:git` itself at the end. `pkg` targets are pinned to `node14-*` in `package.json` (independent of the Node version used to build), because `pkg@5.5.1` has no Node binaries above v16. Only `dist/` is published (`main`/`module` point to `dist/bundle/jsonix-lexml.js`, `bin` to `dist/src/main.js`).
