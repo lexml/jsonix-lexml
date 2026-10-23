@@ -41,6 +41,30 @@ npm run build:exe
 ```
 Como resultado, serão gerados o diretório `mappings` e três executáveis, `jsonix-lexml-linux`, `jsonix-lexml-macos` e `jsonix-lexml-win.exe`, utilizáveis, respectivamente, em ambientes Linux (glibc), MacOS X e Windows.
 
+## Como gerar uma release
+
+Além dos requisitos de compilação acima, é preciso ter o [GitHub CLI](https://cli.github.com/) (`gh`) instalado
+e autenticado (`gh auth login`), com permissão de escrita no repositório. A partir da branch `main` atualizada
+e sem alterações pendentes, execute:
+```
+npm run release -- <versão> [--issue N] [--notes arquivo.md] [--draft] [--dry-run]
+```
+
+O script:
+1. verifica a branch, a sincronia com `origin/main`, se a tag ainda não existe e as ferramentas necessárias;
+2. atualiza a versão em `package.json`, `package-lock.json` e `src/main.js`;
+3. gera mapeamentos, bundle e executáveis (`npm run build:exe`) e executa os testes (`npm test`);
+4. testa o executável da plataforma atual (`--version` e uma conversão);
+5. faz o commit `chore: atualiza versão para <versão> (#N)`, cria a tag `<versão>` e envia ambos para `origin`;
+6. cria a release no GitHub com os três executáveis.
+
+Opções:
+- `--issue N`: número da issue referenciada no commit da versão (se omitido, o script pergunta);
+- `--notes arquivo.md`: notas da release (se omitido, são geradas pelo GitHub a partir dos commits);
+- `--draft`: cria a release como rascunho;
+- `--dry-run`: executa os passos 1 a 4, mostra os comandos de git/gh que seriam executados e desfaz a alteração
+  da versão, sem commitar nem enviar nada.
+
 
 ## Mapeamentos JSON
 

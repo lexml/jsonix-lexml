@@ -14,6 +14,7 @@ npm run build:mappings   # generate mappings/ from schemas/*.xsd (needs mvn + JD
 npm test                 # node test.js — round-trip tests; requires mappings/ to exist
 npx rollup -c            # build dist/bundle/jsonix-lexml.js (UMD) and .es.js, copy src + mappings into dist/
 npm run build:exe        # full prepublish + pkg → jsonix-lexml-{linux,macos,win.exe}
+npm run release -- <versão> [--issue N] [--notes f.md] [--draft] [--dry-run]   # bump + build + test + commit/tag/push + GitHub Release
 ```
 
 There is no test framework: `test.js` is a plain Node script using `assert`, with each test as a function called at the bottom of the file. To run a single test, comment out the other calls or run it inline, e.g. `node -e "require('./src/jsonix-lexml.js')..."`.
@@ -53,6 +54,10 @@ So any union handling must live in JS (`src/jsonix-lexml.js`), not the XSD.
 ## Tests and samples
 
 `test.js` round-trips `toJSON → toXML → toJSON` with `deepStrictEqual` over `samples/documento-articulado-exemplo.xml` (LexEdit sample, with specific assertions on the typed metadata and the `RevisaoArticulacao` choice) and a couple of pre-existing `samples/` files as regression. No XSD validation is performed.
+
+## Releases
+
+A release is a GitHub Release (tag `<versão>`, no `v` prefix) with the three `pkg` executables; the package is not published to npm. `scripts/release.js` (`npm run release`) does the whole flow and is the only place that should change the version: it updates `package.json`, `package-lock.json` and the `program.version('…')` literal in `src/main.js` together (do not bump them by hand). It refuses to publish outside an up-to-date `main`; with `--dry-run` those checks are only warnings, nothing is committed/pushed and the version change is reverted. It needs `gh` authenticated, plus the build requirements (Node, JDK 11+, `mvn`).
 
 ## Publishing quirk
 
